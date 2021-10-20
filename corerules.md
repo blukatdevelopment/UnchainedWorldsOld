@@ -151,3 +151,52 @@ The one background provided is the farmer.
 You bent your back under a blazing sun to till the land and raise a crop.
 **Skills:** agriculture, proficiency with sickles
 **Items:** Common clothes, a sickle, a chicken, a 30lb sack of wheat berries, and a pouch containing 5 silver pieces
+
+## Class
+Your class decides your hit dice, class features, and informs the role you'll play in your party.
+The commoner class is provided below, but is not recommended for normal games.
+
+### Commoner
+You are average, bland, and unremarkable. You don't wield magic, and you aren't great with swords.
+And yet, here you are.
+
+#### Proficiencies
+**Armor:** None
+**Weapons:** Club, dagger
+**Saving throws**: Constitution
+
+#### Skills
+Choose 2 from the following: Athletics, Insight, History, Nature, Religion
+
+#### Starting Equipment
+- club
+- either a. 5 torches or b. waterskin
+```
+
++-------+----------+-------------------+------------+-------------------+
+| Level | Hit Dice | Proficiency Bonus | Minimum XP |       Feats       |
++-------+----------+-------------------+------------+-------------------+
+|     1 | 1d6      | +1                |          0 |                   |
+|     2 | 1d6      | +1                |        100 |                   |
+|     3 | 2d6      | +2                |        200 | Bonus Proficiency |
+|     4 | 2d6      | +2                |        300 |                   |
+|     5 | 2d6      | +3                |        400 |                   |
+|     6 | 3d6      | +3                |        500 |                   |
+|     7 | 3d6      | +3                |        600 |                   |
+|     8 | 3d6      | +3                |        700 |                   |
+|     9 | 3d6      | +3                |        800 |                   |
+|    10 | 3d6      | +3                |        900 | Training Montage  |
++-------+----------+-------------------+------------+-------------------+
+```
+
+
+#### Bonus Proficiency
+When you gain this feature at level 3, you may gain one of the following:
+- Proficiency with one simple weapon
+- Proficiency with two general skills
+
+#### (Optional) Training Montage
+You have survived long enough as a commoner. Remove all your class features
+and hit dice (this resets your max HP to 0). Retain any proficiencies and
+equipment. You lose all levels in commoner. Choose a class other than commoner.
+You are now level 1 in the chosen class.
