@@ -200,3 +200,47 @@ You have survived long enough as a commoner. Remove all your class features
 and hit dice (this resets your max HP to 0). Retain any proficiencies and
 equipment. You lose all levels in commoner. Choose a class other than commoner.
 You are now level 1 in the chosen class.
+
+## Equipment
+TODO
+
+# Roleplaying
+
+## Controlling your character
+As a player, you have the freedom to breathe life into your character. For example, let's take a player Geremy and his character Alexa, a human commoner. 
+The GM prompts Geremy "A large toad rises from the surface of the pond water and stares at you. It ribbits out a greeting. What do you do?"
+
+### Describe
+If Geremy is just getting started or uncomfortable with acting, he might respond like this.
+"Alexa things the toad is repulsive and screams and backs up."
+This is a completely valid way to play.
+
+### Act
+If Geremy feels comfortable acting out his character's speech and actions, he can respond this.
+"'Oh gods, look at the warts and mucus! I think I might be sick.' With that, Alexa backs up."
+Perhaps Geremy will show a look of disgust and pretend to take a step back or cover his mouth.
+
+# Combat
+TODO
+
+
+# Exploration
+
+## Physical needs
+
+### Water
+An adventurer needs to drink at least one gallon of water each day, or gain one level of exhaustion.
+If they have a water container, they may use it throughout the day, refilling it at water sources, if any can be found nearby.
+In extremely hot or dry terrain, an adventurer instead needs to drink two gallons.
+
+### Food
+An adventure needs to eat at least one pound of food each day, or gain one level of exhaustion.
+
+### Sleep
+An adventurer must sleep at least 6 hours each day. Failing this, they gain one level of exhaustion each time they complete
+a day without sleep.
+
+### Clothing
+If exposed to the elements in an extremely hot or cold environment, an adventurer must succeed a DC 14 constitution saving
+throw or gain a level of exhaustion. This check repeats for each hour spent exposed to the elements. An adventurer may avoid
+these checks by staying in shelter or wearing clothing appropriate to the weather.
