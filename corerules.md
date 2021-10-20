@@ -39,6 +39,7 @@ Joke, flatter, persuade, lie, bluff, perform, and intimidate others. Useful wher
 ### What are ability scores?
 An ability score is a number ranging from 1 to 20 which quantifies your ability’s potency. When making an ability check, you roll a 1d20 and add the ability’s modifier. To calculate the ability modifier, take half the distance from 10, rounded down. Here’s a chart.
 
+```
 +-------+----------+
 | Score | Modifier |
 +-------+----------+
@@ -54,6 +55,7 @@ An ability score is a number ranging from 1 to 20 which quantifies your ability�
 | 2-3   | -4       |
 | 1     | -5       |
 +-------+----------+
+```
 
 ### Generating ability scores
 
