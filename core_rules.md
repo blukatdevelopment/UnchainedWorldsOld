@@ -221,13 +221,186 @@ If Geremy feels comfortable acting out his character's speech and actions, he ca
 Perhaps Geremy will show a look of disgust and pretend to take a step back or cover his mouth.
 
 # Combat
-TODO
 
+```
+WWWWWWNNNNNNNNNNNNXXXKOdkKKXXXXNNNNNNNNNNWWWWWWWWW
+WWWNNNNXXKKK0000kkOOkdlcodxkOOxkKXXXXXXNNNNNNWWWWW
+WN0xdoollccloooolccc::clkOOxxdooxkOOkxO000Okk0NWWW
+WNx;,,',,',,,,,;;::cccldOKKKK00OkxddxdxxdoollkNWWW
+WNx;,,'.''',,;;:::ccccldOKKKKKKKK0O0KK000koookNWWW
+WNx;;,''''',;;;::cccccldOKKKKKKKK0O0XXKKX0dookNWWW
+WNk::,'''',,;;;::ccccccdOKKKKKKKK0O0XXXXK0xddkNWWW
+NNk::,'''',,;;:::cccccld0KKKKKKXXKO0XXXXX0xookNNNN
+NNx;,,''''',,;;;:::cccldOKKKKKXXXKO0XXKKKOdllkNNNN
+WNx;;,''''',,;;;;:::cccoOKKKKXKXXKO0XXXKKOdlokNWWW
+WNx;;;'',,',,;;;;::::ccoOKKKKKXXXKO0XXXKKOdllkNWWW
+WNx;,,''''',,;;;;::::ccoOKKKKXXXXKO0XXXXKOoccxNWWW
+WNx;,,'''''',;;:::::::coOKKKKKXXXKO0KKKXKOocckNWWW
+WNx,,,,'''',;::::::::ccoOKKKKKKKXK00KKKKKOoccxNWWW
+WNx;,:looooddodxxxxxkkxdddddddxxxxxxxxxxxoc:cxNWWW
+WNx;;:dkOOOOkdk0000000Odlllccllllloollllc:::cxNWWW
+WNk;;:okOOOOkdk000000Okollllllcclllllllcc:;:ckNWWW
+WNO:;:oxOOOOkdk000K000Oolllllcccllllllllc:::cONWWW
+WWKo;:cdkOOOkdk00KKKKKOoccccclllllloollcccccoKWWWW
+WWNk:;:lxOOOkxO00KKKKKOocccccccclloolllcclclkNWWWW
+WWWXx:;:lxOOkdO00KKKKX0dllllllcccloololllllkXWWWWW
+NNNNXkc;cldkxdk00KKKKK0dllllllccclllllllllkXNWNWNN
+WWNNWN0o::clook00KKKKK0dlccccccccclllooodONNNWWWWW
+WWWWWWWXOoc:cldk00KKKK0dc::::::cclloodxOXNWWWWWWWW
+WWWWWWWWWX0dcclodkO0KK0dc::::::loddox0XNWWWWWWWWWW
+WWWWWWWWWWWNKkollldxk0Od:;;::cloxkOKNNWWWWWWWWWWWW
+WMMMMMMMMMMWWWN0dllooddl::clolox0XNWWWWWWWWWWWWWWW
+MMMMMMMMMMMMMMMMWXOxoollllooxOKNWWWWWWWWWWWWWWWWWW
+MMMMMMMMMMMMMMMMMMWNKkoloxk0XNWNNNNNNNNNNWWWWWWWWW
+MMMMMMMMMMMMMMMMMMMWWNXXXNNWWWWWWWNNNWNNNWWWWWWWWW
+
+```
+
+## Initiative
+In combat, combatants take turns. The combat order is known as initiative. 
+
+### Standard
+In standard initiative, each combatant rolls a 1d20 and adds their dexterity modifier to the roll. Turn order reflects the roll. On a tie, 
+the combatant with the highest dexterity goes first. When a tie remains after comparing dexterity, combatants each roll a 1d20 and the highest
+goes first. Combat with this initiative is consistent between rounds, and so players can count on turn order when making plans.
+
+### (Variant)Team initiative
+Each team chooses one representative, who rolls a 1d20 and adds their proficiency modifier to the roll. The combatants on the team with
+the highest roll take their turns for that round simultaneously. When the first team finishes, the second team takes their turns
+simultaneously. After both teams have taken their turns, each team selects a representative to roll initiative for the next round. This
+variant is useful for cutting down on book-keeping while introducing randomness each round. Players cannot necessarily count on turn
+order, as an enemy team may go twice in a row.
+
+### (Variant)Simultaneous initiative
+Each round, every player character chooses what they will attempt to do (eg cast a spell, attack a specific enemy, retreat and hide).
+All player rolls are made simultaneously. The game master then goes in an arbitrary order (likely left to right across a battle map)
+and calls for rolls in order to judge what happens. This prevents players from using knowledge of turn order, enemy, or friendly
+actions at the time of making their decision for the round. In turn, this renders combat chaotic and unpredictable.
+
+## On your turn
+On each turn, you receive the following:
+- 1 action
+- 1 bonus action
+- 1 free object interaction
+- 1 reaction
+- Movement equal to your movement speed
+
+### Actions in combat
+There is an assortment of actions you may use in combat.
+
+- Attack: You may make an melee or ranged attack. You may also attempt to grapple or shove a creature, which requires a contested athletics check made against either an athletics or acrobatics check(their choice).
+- Cast A Spell: You may cast a spell which as a casting time of one action.
+- Dash: You gain movement equal to your current movement. For example, if you had 30ft of movement, you would gain 30ft by dashing.
+- Disengage: Normally, an enemy may take an attack of opportunity when you leave their melee range. Disengaging prevents this.
+- Dodge: Attack rolls made against you are made with disadvantage if you can see the attacker. Dexterity saving throws are made with advantage.
+- Help: You can aid another creature in completing a task, giving them advantage with it. Or, you may distract an enemy you are within 5ft of, giving the first attack made against them advantage.
+- Hide: Provided you have entered a space that is obscured from sight, you may hide. The GM will likely ask for a stealth check made against passive nearby creature's perception.
+- Ready: You declare an action(and potentially movement) that you will use under a certain condition(such as if a creature turns hostile). If that condition is met, your readied action is triggered. If you prepare to cast a spell, it uses any relevant resources as if you had actually cast the spell, regardless of whether it was triggered.
+- Search: You seek to find something. Your GM will likely request an investigation or perception check.
+
+### Bonus actions
+Some spells and special abilities consume bonus actions instead of regular actions. Actions and bonus actions are not interchangeable.
+
+### Free object interactions
+Some actions such as storing or retrieving an object from your inventory, opening a door, speaking a six second message, or picking up an object
+from the ground.
+
+### Reactions
+Some spells can be cast using a reaction when some trigger (such as being attacked or falling) takes place. In addition, you may expend a
+reaction to perform a melee attack against an enemy who is moving out of engagement range.
+
+### Movement
+Combat is centered around 5ft increments of distance. You may move in these increments. Once you have moved your maximum movement speed
+in one turn, you cannot move again until the start of your next turn. Moving 5ft counts against all your movement speeds. This means
+if you have 30ft movement and 15 flying, you may fly 15ft and walk 15ft, but you cannot walk 30ft and then fly 15ft.
+
+#### Jumping
+Jumping from more than 5ft requires 10ft of movement. When making a high jump, your body raises an amount of feet equal to your strength modifier.
+When long jumping with a running start, you move an amount of feet equal to your strenghth modifier and proficiency bonus.
+
+#### Difficult terrain
+Difficult terrain requires you to move more slowly. This means that for every 5ft of distance covered in difficult terrain, you must exert 10ft of movement.
+Examples of difficult terrain:
+- Knee-deep mud
+- slippery ice
+- climbing up or down without a climbing speed (which will likely also require an acrobatics or athletics check)
+- Swimming without a swimming speed
+- sand
 
 # Exploration
 
-## Physical needs
 
+## Equipment and items
+```
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMWXKK00KKXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMWKko:;::;:lx0NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMWOdccx0KK0klclx0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMM0dlc0MMMMMMXlcddxXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMNKOdocl0XXKKXNXd::cldOXWMMMMMWNXKKXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MWKko:;;:::cc;;;col:'..':ccoxkkxdl::::lxO00000000000000000000000000000000000000000000000OOOOkkkO0NMM
+W0o:cdxdc;,,:dkxl:;.,xOx:',,,;:,,;';loc;,;:::::::::::::::::::::::::::::::::::::::::::::::::::::cckWM
+Ko:dWMMM0c,:0MMMWx;,dMMMXl',,,;,,,',cl:'',;;;,,;;::;;;;;::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:;::::xNM
+0l:dXWMNklccxXNNKdl;dWMNk:''.........',..........................................................dMM
+WOc;:odl:,'',:cc;,,;:ldo:'.',::;,.....,cooooooooooooooddddddddddddddddddddooooooooooooool;.......dMM
+MMNOdl:,,''ldoooodl;;:;;,,lOXNNNKOkdodONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMO;''''''xMM
+MMMMMWXd;';OMMMMMMNo,,',c0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM0l;;;;;;kMM
+MMMMMMMXo,;lKMMMMWk:,':kNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMKl,,;;;;kMM
+MMMMMMMMXd;,cdkOkl;',l0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0lc::co0MM
+MMMMMMMMMW0dl:;;;:cd0NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNNNNWMMM
+MMMMMMMMMMMMWXKKKXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+```
+
+
+## Physical needs
+```
+MMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMWNX0OkxxddddxxkOKXNWMMMMMMMMMMMMMMMMMMMMMMMMWNXKOkxxddddxxkO0XNWMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMWWN0kol:;,,,,,,,,,,,,;cldOKNMMMMMMMMMMMMMMMMMWNKOdl:;,,,,,,,,,,,,;:cok0NWMMMMMMMMMMMMMM
+MMMMMMMMMMMWN0dc;,,,,,,,,,,,,,,,,,,,,,,:lkKWWMMMMMMMMMMMWKkl:,,,,,,,,,,,,,,,,,,,,,,;cx0NWMMMMMMMMMMM
+MMMMMMMMMWNOo;,,,,,,,,,,,,,,,,,,,,,,,,,,,,:o0NMMMMMMMMN0o:,,,,,,,,,,,,,,,,,,,,,,,,,,,,;oONWMMMMMMMMM
+MMMMMMMMW0o;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;o0WMMMMW0o;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;o0WMMMMMMMM
+MMMMMMMNk:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:xXWWXx:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:kNMMMMMMM
+MMMMMMNx:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;lxxl;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;xNMMMMMM
+MMMMMNx:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:xNMMMMM
+MMMMW0c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,c0WMMMM
+MMMMNd;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;dNMMMM
+MMMWKl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lKWMMM
+MMMW0c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,c0WMMM
+MMMW0c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,c0WMMM
+MMMWKl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lKWMMM
+MMMWKo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,oXMMMM
+MMMMNd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,dNMMMM
+MMMMWk:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:kWMMMM
+MMMMMKl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lKWMMMM
+MMMMMWk:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:kWMMMMM
+MMMMMMXd;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;dNMMMMMM
+MMMMMMWKo;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;oKWMMMMMM
+MMMMMMMWKo;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;oKWMMMMMMM
+MMMMMMMMMXx:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:xXWMMMMMMMM
+MMMMMMMMMMNOc;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cONMMMMMMMMMM
+MMMMMMMMMMMWKd:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:dKWMMMMMMMMMMM
+MMMMMMMMMMMMMN0o;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;o0NMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMN0o;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;o0NWMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMN0o:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:o0NWMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMN0d:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:d0NMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMWKxc;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;cxKWMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMWXkl;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;lkXWMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMWNOo:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:oONWMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMWN0d:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:d0NMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKxc;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;cxKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXOo;,,,,,,,,,,,,,,,,,,,,,,,,,,;oOXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN0d:,,,,,,,,,,,,,,,,,,,,,,:d0NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKxc;,,,,,,,,,,,,,,,,,cxKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXkl;,,,,,,,,,,,,;lkXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXkl;,,,,,,,,;lOXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNOo:,,,,;oONWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWN0dcld0NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+```
 ### Water
 An adventurer needs to drink at least one gallon of water each day, or gain one level of exhaustion.
 If they have a water container, they may use it throughout the day, refilling it at water sources, if any can be found nearby.
