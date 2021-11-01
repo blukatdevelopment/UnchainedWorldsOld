@@ -39,6 +39,32 @@ At your table, one person assumes the role of Game Master. They create the world
 This handbook provides a skeletal set of character creation options, and are not intended for use in normal campaigns. Work with your game master to determine what supplemental books you will use when creating your characters.
 
 ## Abilities
+```
+MMMMMMMMMMMMMMMMMWWWWWWWWMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMWXOdldxxxxxxdoodxkOO00KXNWMMMMMMMMMMMM
+MMMMMMMMMMMXxodo;:doc:cc:;;,,:looooodddONMMMMMMMMM
+MMMMMMMMMWOoldodl;ld:',::::;',ccccccc:'.c0WMMMMMMM
+MMMMMMMMXxol:coodc,cc;,;::::ccccllloooc',ckWMMMMMM
+MMMMMMW0dol::odddl...,:clodxxxxxocloool',ccxNMMMMM
+MMMMMNxl:;:lodoc::'.,;:ldxdddxxc..,lxdo;':c:xWMMMM
+MMMMKdlc;:ll:::coxc:ooc:ccclddxo'.;::oxl',;';kWMMM
+MMW0ooddlc:;;codxxc:dddxdolcccdxdc:;..ld,'...:0WMM
+MWOoolc:::cllllool;:dddxxxxxoccclxx:''lk:''..'oKWM
+MKl::::lol;:lllll:':oooodddl:ldocc:cdOOOl,,...,xNW
+MO;;lllllc.'lllll;,cc,,,;;;' .:oddlccldkl,;,..,c0W
+MXc;lolllc..cllll,,lc;''.......coodddl:::,,;,;,:OW
+MM0:,:lllc..,':lc';l:'';c:;',,;cloooooo:...'''.:KW
+MMW0c,;col'...;l;':l' .;,.... .clllc:;;;'';,,';OWW
+MMMWOc,';c:;;:cc,'cl:'.....:;.'c:;;;;;cc;;,.':OWWW
+MMMMWO,.,,,:ccc:.,cccccccllc;,,;,,;:ccc;,;..c0WWWW
+MMMMMWO;''.',:c;.;ccc:;;;;;;,',,,,,'';,.,,'oXWWWWW
+MMMMMMMKc'.',',..,;,,,,;;::,..''... .'..':kNWWWWWW
+MMMMMMMMXd'.,,.....';:::;;,....''...'...c0WWWWWWWW
+MMMMMMMMWNkc,........'',,,'.. ......'.'dXWWWWWWWWW
+MMMMMMWWWWWWKOxoc;,,................,l0WWWWWWWWWWW
+MMMMMMMMMMMMMMMMWWXK0Okdooolc::;:cokKWWWWWWWWWWWWW
+
+```
 
 ### What are abilities?
 When you attempt to perform a task that involves natural ability or skill, your abilities help determine the odds of success. Here’s a breakdown of what different abilities govern.
@@ -223,36 +249,29 @@ Perhaps Geremy will show a look of disgust and pretend to take a step back or co
 # Combat
 
 ```
-WWWWWWNNNNNNNNNNNNXXXKOdkKKXXXXNNNNNNNNNNWWWWWWWWW
-WWWNNNNXXKKK0000kkOOkdlcodxkOOxkKXXXXXXNNNNNNWWWWW
-WN0xdoollccloooolccc::clkOOxxdooxkOOkxO000Okk0NWWW
-WNx;,,',,',,,,,;;::cccldOKKKK00OkxddxdxxdoollkNWWW
-WNx;,,'.''',,;;:::ccccldOKKKKKKKK0O0KK000koookNWWW
-WNx;;,''''',;;;::cccccldOKKKKKKKK0O0XXKKX0dookNWWW
-WNk::,'''',,;;;::ccccccdOKKKKKKKK0O0XXXXK0xddkNWWW
-NNk::,'''',,;;:::cccccld0KKKKKKXXKO0XXXXX0xookNNNN
-NNx;,,''''',,;;;:::cccldOKKKKKXXXKO0XXKKKOdllkNNNN
-WNx;;,''''',,;;;;:::cccoOKKKKXKXXKO0XXXKKOdlokNWWW
-WNx;;;'',,',,;;;;::::ccoOKKKKKXXXKO0XXXKKOdllkNWWW
-WNx;,,''''',,;;;;::::ccoOKKKKXXXXKO0XXXXKOoccxNWWW
-WNx;,,'''''',;;:::::::coOKKKKKXXXKO0KKKXKOocckNWWW
-WNx,,,,'''',;::::::::ccoOKKKKKKKXK00KKKKKOoccxNWWW
-WNx;,:looooddodxxxxxkkxdddddddxxxxxxxxxxxoc:cxNWWW
-WNx;;:dkOOOOkdk0000000Odlllccllllloollllc:::cxNWWW
-WNk;;:okOOOOkdk000000Okollllllcclllllllcc:;:ckNWWW
-WNO:;:oxOOOOkdk000K000Oolllllcccllllllllc:::cONWWW
-WWKo;:cdkOOOkdk00KKKKKOoccccclllllloollcccccoKWWWW
-WWNk:;:lxOOOkxO00KKKKKOocccccccclloolllcclclkNWWWW
-WWWXx:;:lxOOkdO00KKKKX0dllllllcccloololllllkXWWWWW
-NNNNXkc;cldkxdk00KKKKK0dllllllccclllllllllkXNWNWNN
-WWNNWN0o::clook00KKKKK0dlccccccccclllooodONNNWWWWW
-WWWWWWWXOoc:cldk00KKKK0dc::::::cclloodxOXNWWWWWWWW
-WWWWWWWWWX0dcclodkO0KK0dc::::::loddox0XNWWWWWWWWWW
-WWWWWWWWWWWNKkollldxk0Od:;;::cloxkOKNNWWWWWWWWWWWW
-WMMMMMMMMMMWWWN0dllooddl::clolox0XNWWWWWWWWWWWWWWW
-MMMMMMMMMMMMMMMMWXOxoollllooxOKNWWWWWWWWWWWWWWWWWW
-MMMMMMMMMMMMMMMMMMWNKkoloxk0XNWNNNNNNNNNNWWWWWWWWW
-MMMMMMMMMMMMMMMMMMMWWNXXXNNWWWWWWWNNNWNNNWWWWWWWWW
+WNXK00OOkkkkkkOkdoddolccdxxxxxox0KKKK0KXXXKKKXNWWW
+WNkc;;,;,,,;::::::::cccoOKK0OkkxkxxxxodkxddookNWWW
+WNx;;,..'''',,;;::ccccldOKKKKKKKK0kO00OOOxolokNWWW
+WNx;;,'''',,;;;::cccccldOKKKKKKKK0O0XKKKKOdookNWWW
+WNk::,'''',,;;;::ccccccd0KKKKKKKX0O0XXXXK0xookNWNW
+NNx;;,''''',,;;:::cccccd0KKKKKXXXKO0XXKKK0dllkNNNN
+WNx;;,''''',,;;;;:::cccoOKKKKKXXXKO0XXXKKOdlokNWWW
+WNx;;;''''',,;;;;::::ccoOKKKKKXXXKO0XXXKKOdllkNWWW
+WNx;,,'''''',;;;;:::::coOKKKKKXXXKO0KXKXXOoccxNWWW
+WNx;,,'''''',;::::::::coOKKKKKKXXKO0KKKKKOocckNWWW
+WNx;,;clcllooloddddddddodxxxxxxkkkkkkkkkkdlccxNWWW
+WNx;;:okkOOOkdk0000000kdlllccllllloollllc:::cxNWWW
+WNk:;:okOOOOkdk0000000kollllllcclllllllcc:::ckNWWW
+WW0c;:lxkOOOkdk000KKKKOocccllcclllloolllc:ccl0NWWW
+WWNx:;:lxOOOkxk00KKKKKOoccccccccllooollcccccxXWWWW
+WWWXx:;:lxOOkdk00KKKKK0dllllllcccloololllllkXNWWWW
+NNNNXOl::coxddk00KKKKK0dlllcccccclllllolloOXNNNWNN
+WWWWWNXkocccllxO0KKKKK0dcc:::::ccclloddxOXNWWWWWWW
+WWWWWWWWN0xoccldxO00KK0dc::::::clooodkKXNWWWWWWWWW
+WWWWWWWWWWNX0kdllldxk0Od:;:::cloxkO0XNWWWWWWWWWWWW
+MMMMMMMMMMMMMWNKkdoooddlcccloodOKXNWWWWWWWWWWWWWWW
+MMMMMMMMMMMMMMMMMWKOkdlclodxOKNNWNNNWWNNWWWWWWWWWW
+MMMMMMMMMMMMMMMMMMMWNX0O0KXNNWWNNNNNWNNNNWWWWWWWWW
 
 ```
 
@@ -298,6 +317,13 @@ There is an assortment of actions you may use in combat.
 - Ready: You declare an action(and potentially movement) that you will use under a certain condition(such as if a creature turns hostile). If that condition is met, your readied action is triggered. If you prepare to cast a spell, it uses any relevant resources as if you had actually cast the spell, regardless of whether it was triggered.
 - Search: You seek to find something. Your GM will likely request an investigation or perception check.
 
+#### How to make attack rolls
+Roll a 1d20. If you're proficient with the weapon, add your proficiency bonus. Then, add the relevant ability modifier. As a general rule, melee and thrown attacks use strength, while ranged attacks use dexterity. A roll that meets or beats the AC of the target is a hit. If your d20 roll is 20, you have rolled a natural 20 and automatically hit. If your d20 roll is a 1, you roll a natural 1 and automatically miss.
+
+#### How to make damage rolls
+Once you've hit, check your weapon's damage for that attack. Roll all dice used for that damage, then add the same ability modifier that you used when making the attack roll. If you rolled a nat 20 on the attack role, you deal critical damage. When rolling critical damage, all dice are doubled. For example, an attack that would deal 1d8+3 damage now deals 2d8+3 damage.  
+
+
 ### Bonus actions
 Some spells and special abilities consume bonus actions instead of regular actions. Actions and bonus actions are not interchangeable.
 
@@ -332,73 +358,400 @@ Examples of difficult terrain:
 
 ## Equipment and items
 ```
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMWXKK00KKXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMWKko:;::;:lx0NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMWOdccx0KK0klclx0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMM0dlc0MMMMMMXlcddxXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMNKOdocl0XXKKXNXd::cldOXWMMMMMWNXKKXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MWKko:;;:::cc;;;col:'..':ccoxkkxdl::::lxO00000000000000000000000000000000000000000000000OOOOkkkO0NMM
-W0o:cdxdc;,,:dkxl:;.,xOx:',,,;:,,;';loc;,;:::::::::::::::::::::::::::::::::::::::::::::::::::::cckWM
-Ko:dWMMM0c,:0MMMWx;,dMMMXl',,,;,,,',cl:'',;;;,,;;::;;;;;::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:;::::xNM
-0l:dXWMNklccxXNNKdl;dWMNk:''.........',..........................................................dMM
-WOc;:odl:,'',:cc;,,;:ldo:'.',::;,.....,cooooooooooooooddddddddddddddddddddooooooooooooool;.......dMM
-MMNOdl:,,''ldoooodl;;:;;,,lOXNNNKOkdodONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMO;''''''xMM
-MMMMMWXd;';OMMMMMMNo,,',c0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM0l;;;;;;kMM
-MMMMMMMXo,;lKMMMMWk:,':kNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMKl,,;;;;kMM
-MMMMMMMMXd;,cdkOkl;',l0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0lc::co0MM
-MMMMMMMMMW0dl:;;;:cd0NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNNNNWMMM
-MMMMMMMMMMMMWXKKKXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMN0OOOOOO0XWMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMW0kxxkO000OkxxONMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMNkdO0000OO0KKK0xxKMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMNxd0K0OxxkkkxO00KxdXMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMM0dOKK0dxNMMWOdOK00dOMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMM0dOK00dkWMMWOoOKK0dOMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMNxd00KOxkOOkxk0KKkdXMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMXxdOK0K0OOO0000Kxd0NWMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMN0xxkO0000OxxOKKOxdx0WMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMWX0OOOOOOOOxxO0KKOxx0WWNWMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMW0xxO00KOxxxxxKN00NMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMW0xddOKKOOxldxxodK0kkONMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMWN0xxO00OxxkxdddxOxdKMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMW0xxOK00kloxOkxkXMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0xxOKK00koxXMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0xxOK0OxxKWMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0xxk0KxdXMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0kxkx0WMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNWMMMMMMMMM
 
 ```
 
+### Coinage
+Coins are an adventurer's most liquid asset.
+Fifty coins of any material add up to one pound of carry weight.
+
+```
++--------------+------+------+-------+--------+
+|     Coin     |  cp  |  sp  |  gp   |   pp   |
++--------------+------+------+-------+--------+
+| Copper(cp)   |    1 | 1/10 | 1/100 | 1/1000 |
+| Silver(sp)   |   10 | 1    | 1/10  | 1/100  |
+| Gold(gp)     |  100 | 10   | 1     | 1/10   |
+| Platinum(pp) | 1000 | 100  | 10    | 1      |
++--------------+------+------+-------+--------+
+
+```
+
+### Adventuring gear
+Adventuring requires a great many things. Here are some of them.
+
+```
++------------------------------+----------+--------------+
+|             Item             |   Cost   |    Weight    |
++------------------------------+----------+--------------+
+| Abacus                       | 2 gp     | 2 lb.        |
+| Acid (vial)                  | 25 gp    | 1 lb.        |
+| Alchemist’s fire (flask)     | 50 gp    | 1 lb.        |
+| Ammunition                   |          |              |
+| Arrows (20)                  | 1 gp     | 1 lb.        |
+| Blowgun needles (50)         | 1 gp     | 1 lb.        |
+| Crossbow bolts (20)          | 1 gp     | 1½ lb.       |
+| Sling bullets (20)           | 4 cp     | 1½ lb.       |
+| Antitoxin (vial)             | 50 gp    | —            |
+| Arcane focus                 |          |              |
+| Crystal                      | 10 gp    | 1 lb.        |
+| Orb                          | 20 gp    | 3 lb.        |
+| Rod                          | 10 gp    | 2 lb.        |
+| Staff                        | 5 gp     | 4 lb.        |
+| Wand                         | 10 gp    | 1 lb.        |
+| Backpack                     | 2 gp     | 5 lb.        |
+| Ball bearings (bag of 1,000) | 1 gp     | 2 lb.        |
+| Barrel                       | 2 gp     | 70 lb.       |
+| Basket                       | 4 sp     | 2 lb.        |
+| Bedroll                      | 1 gp     | 7 lb.        |
+| Bell                         | 1 gp     | —            |
+| Blanket                      | 5 sp     | 3 lb.        |
+| Block and tackle             | 1 gp     | 5 lb.        |
+| Book                         | 25 gp    | 5 lb.        |
+| Bottle, glass                | 2 gp     | 2 lb.        |
+| Bucket                       | 5 cp     | 2 lb.        |
+| Caltrops (bag of 20)         | 1 gp     | 2 lb.        |
+| Candle                       | 1 cp     | —            |
+| Case, crossbow bolt          | 1 gp     | 1 lb.        |
+| Case, map or scroll          | 1 gp     | 1 lb.        |
+| Chain (10 feet)              | 5 gp     | 10 lb.       |
+| Chalk (1 piece)              | 1 cp     | —            |
+| Chest                        | 5 gp     | 25 lb.       |
+| Clothes, Common              | 5 sp     | 3 lb.        |
+| Clothes, costume             | 5 gp     | 4 lb.        |
+| Clothes, fine                | 15 gp    | 6 lb.        |
+| Clothes, traveler’s          | 2 gp     | 4 lb.        |
+| Component pouch              | 25 gp    | 2 lb.        |
+| Crowbar                      | 2 gp     | 5 lb.        |
+| Druidic focus                |          |              |
+| Sprig of mistletoe           | 1 gp     | —            |
+| Totem                        | 1 gp     | —            |
+| Wooden staff                 | 5 gp     | 4 lb.        |
+| Yew wand                     | 10 gp    | 1 lb.        |
+| Fishing tackle               | 1 gp     | 4 lb.        |
+| Flask or Tankard             | 2 cp     | 1 lb.        |
+| Grappling hook               | 2 gp     | 4 lb.        |
+| Hammer                       | 1 gp     | 3 lb.        |
+| Hammer, sledge               | 2 gp     | 10 lb.       |
+| Holy Symbol                  |          |              |
+| Amulet                       | 5 gp     | 1 lb.        |
+| Emblem                       | 5 gp     | —            |
+| Reliquary                    | 5 gp     | 2 lb.        |
+| Holy Water (flask)           | 25 gp    | 1 lb.        |
+| Hourglass                    | 25 gp    | 1 lb.        |
+| Hunting trap                 | 5 gp     | 25 lb.       |
+| Ink (1 ounce bottle)         | 10 gp    | —            |
+| Ink pen                      | 2 cp     | —            |
+| Jug or Pitcher               | 2 cp     | 4 lb.        |
+| Kit, climber’s               | 25 gp    | 12 lb.       |
+| Kit, disguise                | 25 gp    | 3 lb.        |
+| Kit, forgery                 | 15 gp    | 5 lb.        |
+| Kit, herbalism               | 5 gp     | 3 lb.        |
+| Kit, healer’s                | 5 gp     | 3 lb.        |
+| Kit, mess                    | 2 sp     | 1 lb.        |
+| Kit, poisoner’s              | 50 gp    | 2 lb.        |
+| Ladder (10-foot)             | 1 sp     | 25 lb.       |
+| Lamp                         | 5 sp     | 1 lb.        |
+| Lantern, bullseye            | 10 gp    | 2 lb.        |
+| Lantern, hooded              | 5 gp     | 2 lb.        |
+| Lock                         | 10 gp    | 1 lb.        |
+| Magnifying glass             | 100 gp   | —            |
+| Manacles                     | 2 gp     | 6 lb.        |
+| Mirror, steel                | 5 gp     | 1/2 lb.      |
+| Oil (flask)                  | 1 sp     | 1 lb.        |
+| Paper (one sheet)            | 2 sp     | —            |
+| Parchment (one sheet)        | 1 sp     | —            |
+| Perfume (vial)               | 5 gp     | —            |
+| Pick, miner’s                | 2 gp     | 10 lb.       |
+| Piton                        | 5 cp     | 1/4 lb.      |
+| Poison, basic (vial)         | 100 gp   | —            |
+| Pole (10-foot)               | 5 cp     | 7 lb.        |
+| Pot, iron                    | 2 gp     | 10 lb.       |
+| Potion of Healing            | 50 gp    | 1/2 lb.      |
+| Pouch                        | 5 sp     | 1 lb.        |
+| Quiver                       | 1 gp     | 1 lb.        |
+| Ram, portable                | 4 gp     | 35 lb.       |
+| Rations (1 day)              | 5 sp     | 2 lb.        |
+| Robes                        | 1 gp     | 4 lb.        |
+| Rope, hempen (50 feet)       | 1 gp     | 10 lb.       |
+| Rope, silk (50 feet)         | 10 gp    | 5 lb.        |
+| Sack                         | 1 cp     | 1/2 lb.      |
+| Scale, merchant’s            | 5 gp     | 3 lb.        |
+| Sealing wax                  | 5 sp     | —            |
+| Shovel                       | 2 gp     | 5 lb.        |
+| Signal whistle               | 5 cp     | —            |
+| Signet ring                  | 5 gp     | —            |
+| Soap                         | 2 cp     | —            |
+| Spellbook                    | 50 gp    | 3 lb.        |
+| Spikes, iron (10)            | 1 gp     | 5 lb.        |
+| Spyglass                     | 1,000 gp | 1 lb.        |
+| Tent, two-person             | 2 gp     | 20 lb.       |
+| Tinderbox                    | 5 sp     | 1 lb.        |
+| Torch                        | 1 cp     | 1 lb.        |
+| Vial                         | 1 gp     | —            |
+| Waterskin                    | 2 sp     | 5 lb. (full) |
+| Whetstone                    | 1 cp     | 1 lb.        |
++------------------------------+----------+--------------+
+```
+### Weapons
+
+```
++------------------------+-------+-----------------+---------+--------------------------------------------------------+
+|         Weapon         | Cost  |     Damage      | Weight  |                       Properties                       |
++------------------------+-------+-----------------+---------+--------------------------------------------------------+
+| Simple Melee Weapons   |       |                 |         |                                                        |
+| Club                   | 1 sp  | 1d4 bludgeoning | 2 lb.   | Light                                                  |
+| Dagger                 | 2 gp  | 1d4 piercing    | 1 lb.   | Finesse, light, thrown (range 20/60)                   |
+| Greatclub              | 2 sp  | 1d8 bludgeoning | 10 lb.  | Two-handed                                             |
+| Handaxe                | 5 gp  | 1d6 slashing    | 2 lb.   | Light, thrown (range 20/60)                            |
+| Javelin                | 5 sp  | 1d6 piercing    | 2 lb.   | Thrown (range 30/120)                                  |
+| Light Hammer           | 2 gp  | 1d4 bludgeoning | 2 lb.   | Light, thrown (range 20/60)                            |
+| Mace                   | 5 gp  | 1d6 bludgeoning | 4 lb.   | —                                                      |
+| Quarterstaff           | 2 sp  | 1d6 bludgeoning | 4 lb.   | Versatile (1d8)                                        |
+| Sickle                 | 1 gp  | 1d4 slashing    | 2 lb.   | Light                                                  |
+| Spear                  | 1 gp  | 1d6 piercing    | 3 lb.   | Thrown (range 20/60), versatile (1d8)                  |
+| Simple Ranged Weapons  |       |                 |         |                                                        |
+| Crossbow, light        | 25 gp | 1d8 piercing    | 5 lb.   | Ammunition (range 80/320), loading, two-handed         |
+| Dart                   | 5 cp  | 1d4 piercing    | 1/4 lb. | Finesse, thrown (range 20/60)                          |
+| Shortbow               | 25 gp | 1d6 piercing    | 2 lb.   | Ammunition (range 80/320), two-handed                  |
+| Sling                  | 1 sp  | 1d4 bludgeoning | —       | Ammunition (range 30/120)                              |
+| Martial Melee Weapons  |       |                 |         |                                                        |
+| Battleaxe              | 10 gp | 1d8 slashing    | 4 lb.   | Versatile (1d10)                                       |
+| Flail                  | 10 gp | 1d8 bludgeoning | 2 lb.   | —                                                      |
+| Glaive                 | 20 gp | 1d10 slashing   | 6 lb.   | Heavy, reach, two-handed                               |
+| Greataxe               | 30 gp | 1d12 slashing   | 7 lb.   | Heavy, two-handed                                      |
+| Greatsword             | 50 gp | 2d6 slashing    | 6 lb.   | Heavy, two-handed                                      |
+| Halberd                | 20 gp | 1d10 slashing   | 6 lb.   | Heavy, reach, two-handed                               |
+| Lance                  | 10 gp | 1d12 piercing   | 6 lb.   | Reach, special                                         |
+| Longsword              | 15 gp | 1d8 slashing    | 3 lb.   | Versatile (1d10)                                       |
+| Maul                   | 10 gp | 2d6 bludgeoning | 10 lb.  | Heavy, two-handed                                      |
+| Morningstar            | 15 gp | 1d8 piercing    | 4 lb.   | —                                                      |
+| Pike                   | 5 gp  | 1d10 piercing   | 18 lb.  | Heavy, reach, two-handed                               |
+| Rapier                 | 25 gp | 1d8 piercing    | 2 lb.   | Finesse                                                |
+| Scimitar               | 25 gp | 1d6 slashing    | 3 lb.   | Finesse, light                                         |
+| Shortsword             | 10 gp | 1d6 piercing    | 2 lb.   | Finesse, light                                         |
+| Trident                | 5 gp  | 1d6 piercing    | 4 lb.   | Thrown (range 20/60), versatile (1d8)                  |
+| War pick               | 5 gp  | 1d8 piercing    | 2 lb.   | —                                                      |
+| Warhammer              | 15 gp | 1d8 bludgeoning | 2 lb.   | Versatile (1d10)                                       |
+| Whip                   | 2 gp  | 1d4 slashing    | 3 lb.   | Finesse, reach                                         |
+| Martial Ranged Weapons |       |                 |         |                                                        |
+| Blowgun                | 10 gp | 1 piercing      | 1 lb.   | Ammunition (range 25/100), loading                     |
+| Crossbow, hand         | 75 gp | 1d6 piercing    | 3 lb.   | Ammunition (range 30/120), light, loading              |
+| Crossbow, heavy        | 50 gp | 1d10 piercing   | 18 lb.  | Ammunition (range 100/400), heavy, loading, two-handed |
+| Longbow                | 50 gp | 1d8 piercing    | 2 lb.   | Ammunition (range 150/600), heavy, two-handed          |
+| Net                    | 1 gp  | —               | 3 lb.   | Special, thrown (range 5/15)                           |
++------------------------+-------+-----------------+---------+--------------------------------------------------------+
+```
+
+
+### Armor
+
+```
++-----------------+----------+---------------------------+----------+--------------+--------+
+|      Armor      |   Cost   |     Armor Class (AC)      | Strength |   Stealth    | Weight |
++-----------------+----------+---------------------------+----------+--------------+--------+
+| Light Armor     |          |                           |          |              |        |
+| Padded          | 5 gp     | 11 + Dex modifier         | —        | Disadvantage | 8 lb.  |
+| Leather         | 10 gp    | 11 + Dex modifier         | —        | —            | 10 lb. |
+| Studded leather | 45 gp    | 12 + Dex modifier         | —        | —            | 13 lb. |
+| Medium Armor    |          |                           |          |              |        |
+| Hide            | 10 gp    | 12 + Dex modifier (max 2) | —        | —            | 12 lb. |
+| Chain shirt     | 50 gp    | 13 + Dex modifier (max 2) | —        | —            | 20 lb. |
+| Scale mail      | 50 gp    | 14 + Dex modifier (max 2) | —        | Disadvantage | 45 lb. |
+| Breastplate     | 400 gp   | 14 + Dex modifier (max 2) | —        | —            | 20 lb. |
+| Half plate      | 750 gp   | 15 + Dex modifier (max 2) | —        | Disadvantage | 40 lb. |
+| Heavy Armor     |          |                           |          |              |        |
+| Ring mail       | 30 gp    | 14                        | —        | Disadvantage | 40 lb. |
+| Chain mail      | 75 gp    | 16                        | Str 13   | Disadvantage | 55 lb. |
+| Splint          | 200 gp   | 17                        | Str 15   | Disadvantage | 60 lb. |
+| Plate           | 1,500 gp | 18                        | Str 15   | Disadvantage | 65 lb. |
+| Shield          | 10 gp    | +2                        | —        | —            | 6 lb.  |
++-----------------+----------+---------------------------+----------+--------------+--------+
+```
+### Goods and services
+
+#### Trade goods
+
+```
++--------+----------------------------------------------+
+|  Cost  |                    Goods                     |
++--------+----------------------------------------------+
+| 1 cp   | 1 lb. of wheat                               |
+| 2 cp   | 1 lb. of flour or one chicken                |
+| 5 cp   | 1 lb. of salt                                |
+| 1 sp   | 1 lb. of iron or 1 sq. yd. of canvas         |
+| 5 sp   | 1 lb. of copper or 1 sq. yd. of cotton cloth |
+| 1 gp   | 1 lb. of ginger or one goat                  |
+| 2 gp   | 1 lb. of cinnamon or pepper, or one sheep    |
+| 3 gp   | 1 lb. of cloves or one pig                   |
+| 5 gp   | 1 lb. of silver or 1 sq. yd. of linen        |
+| 10 gp  | 1 sq. yd. of silk or one cow                 |
+| 15 gp  | 1 lb. of saffron or one ox                   |
+| 50 gp  | 1 lb. of gold                                |
+| 500 gp | 1 lb. of platinum                            |
++--------+----------------------------------------------+
+```
+
+
+#### Services
+```
++-------------------+---------------+
+|      Service      |      Pay      |
++-------------------+---------------+
+| Coach cab         |               |
+| Between towns     | 3 cp per mile |
+| Within a city     | 1 cp          |
+| Hireling          |               |
+| Skilled           | 2 gp per day  |
+| Untrained         | 2 sp per day  |
+| Messenger         | 2 cp per mile |
+| Road or gate toll | 1 cp          |
+| Ship's Passage    | 1 sp per mile |
++-------------------+---------------+
+```
+
+#### Food, drink, and lodging
+```
++----------------------+-------+
+|         Item         | Cost  |
++----------------------+-------+
+| Ale                  |       |
+| Gallon               | 2 sp  |
+| Mug                  | 4 cp  |
+| Banquet (per person) | 10 gp |
+| Bread, loaf          | 2 cp  |
+| Cheese, hunk         | 1 sp  |
+| Inn stay (per day)   |       |
+| Squalid              | 7 cp  |
+| Poor                 | 1 sp  |
+| Modest               | 5 sp  |
+| Comfortable          | 8 sp  |
+| Wealthy              | 2 gp  |
+| Aristocratic         | 4 gp  |
+| Meals (per day)      |       |
+| Squalid              | 3 cp  |
+| Poor                 | 6 cp  |
+| Modest               | 3 sp  |
+| Comfortable          | 5 sp  |
+| Wealthy              | 8 sp  |
+| Aristocratic         | 2 gp  |
+| Meat, chunk          | 3 sp  |
+| Wine                 |       |
+| Common (pitcher)     | 2 sp  |
+| Fine (bottle)        | 10 gp |
++----------------------+-------+
+```
+
+### Lifestyle
+Most backgrounds are associated with a lifestyle. This determines your starting gold.
+
+```
++--------------+---------------+---------------+------------+------------------------+
+|  Lifestyle   |   Price/Day   |  Price/month  | Price/year | Price/30 year lifetime |
++--------------+---------------+---------------+------------+------------------------+
+| Wretched     | --            | --            | --         | --                     |
+| Squalid      | 1 sp          | 3gp           | 36gp       | 1,080gp                |
+| Poor         | 2 sp          | 6gp           | 72gp       | 2,160gp                |
+| Modest       | 1 gp          | 30gp          | 360gp      | 10,800gp               |
+| Comfortable  | 2 gp          | 60gp          | 720gp      | 21,600                 |
+| Wealthy      | 4 gp          | 120gp         | 1440gp     | 43,200gp               |
+| Aristocratic | 10 gp minimum | 300gp minimum | 3,600gp    | 108,000gp              |
++--------------+---------------+---------------+------------+------------------------+
+
+```
+
+#### Wretched
+You beg, forage, or steal your meals when you eat, which isn't every night.
+Security isn't something you're familiar with, nor is soap. Commoners avoid you
+when they can. If your clothes aren't tattered and filthy, they must be
+exceptionally new. You do not live so much as you survive.
+
+#### Squalid
+You make a living, but just barely. You likely have many roommates, or else live in
+a shack outside of town. Gruel and water sustain you, but just barely. Occasionally
+commoners might take pity on you and give you a crust of bread or candle, but you
+cannot affort to eat at a table with them. Your life is precarious, and are you one
+misfortune away from a wretched lifestyle.
+
+#### Poor
+You are a commoner. A skilled trade guarantees you not only a seat at the table
+and greetings from strangers, but occasionally a meal with meat or cheese.
+You likely have a small room to call your own, or otherwise to share with your entire family.
+
+#### Modest
+You're likely literate, and your trade uses your mind more than your body. Your clothing
+is well maintained, and so is your hygeine. You are welcomed by most and tolerated by
+nobles, so long as you are quiet and pay your tab. You eat well and your house is warm
+and dry, if a bit small. A guard would take your word over anyone dressed lower than you.
+
+#### Comfortable
+Your skill is either rare, or in high demand. Maybe you own a modest business.
+Whatever the case, people respect you. You can put a wedge of cheese, loaf of
+bread, and bottle of wine on the table whenever you like. You likely maintain
+a written correspondence with multiple pen pals, and have connections with 
+people in higher places. You'll likely have a set of clothing, furniture,
+plates, a house or other posessions which are passed on through your family name.
+
+#### Wealthy
+You are likely an employer of at least one servant and have a wide selection of
+clothing, food, and entertainment to choose from. Your property is likely large
+enough that you don't need to worry about rubbing elbows with commoners.
+You have friends in high places, and guards will tend to believe you and your
+bribe money over mere evidence. Those jealous peasants below you respect and
+envy what they cannot achieve.
+
+#### Aristocratic
+When the silly merchants dressed in last month's fashion leave your manor,
+you're free to truly relax in decadance. A small army of servants meets your every
+whim. Unfortunately, harp music, private jesters, and fine art get boring. Sometimes
+you need to treat yourself and order an exotic animal or lead an expedition. Oh, 
+or maybe you could commission a giant statue of yourself riding a horse! Either way,
+the guards at least keep the peasants off your land so you can hunt in peace.
 
 ## Physical needs
 ```
-MMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMWNX0OkxxddddxxkOKXNWMMMMMMMMMMMMMMMMMMMMMMMMWNXKOkxxddddxxkO0XNWMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMWWN0kol:;,,,,,,,,,,,,;cldOKNMMMMMMMMMMMMMMMMMWNKOdl:;,,,,,,,,,,,,;:cok0NWMMMMMMMMMMMMMM
-MMMMMMMMMMMWN0dc;,,,,,,,,,,,,,,,,,,,,,,:lkKWWMMMMMMMMMMMWKkl:,,,,,,,,,,,,,,,,,,,,,,;cx0NWMMMMMMMMMMM
-MMMMMMMMMWNOo;,,,,,,,,,,,,,,,,,,,,,,,,,,,,:o0NMMMMMMMMN0o:,,,,,,,,,,,,,,,,,,,,,,,,,,,,;oONWMMMMMMMMM
-MMMMMMMMW0o;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;o0WMMMMW0o;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;o0WMMMMMMMM
-MMMMMMMNk:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:xXWWXx:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:kNMMMMMMM
-MMMMMMNx:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;lxxl;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;xNMMMMMM
-MMMMMNx:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:xNMMMMM
-MMMMW0c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,c0WMMMM
-MMMMNd;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;dNMMMM
-MMMWKl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lKWMMM
-MMMW0c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,c0WMMM
-MMMW0c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,c0WMMM
-MMMWKl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lKWMMM
-MMMWKo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,oXMMMM
-MMMMNd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,dNMMMM
-MMMMWk:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:kWMMMM
-MMMMMKl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lKWMMMM
-MMMMMWk:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:kWMMMMM
-MMMMMMXd;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;dNMMMMMM
-MMMMMMWKo;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;oKWMMMMMM
-MMMMMMMWKo;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;oKWMMMMMMM
-MMMMMMMMMXx:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:xXWMMMMMMMM
-MMMMMMMMMMNOc;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,cONMMMMMMMMMM
-MMMMMMMMMMMWKd:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:dKWMMMMMMMMMMM
-MMMMMMMMMMMMMN0o;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;o0NMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMN0o;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;o0NWMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMN0o:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:o0NWMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMN0d:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:d0NMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMWKxc;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;cxKWMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMWXkl;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;lkXWMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMWNOo:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:oONWMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMWN0d:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:d0NMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKxc;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;cxKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXOo;,,,,,,,,,,,,,,,,,,,,,,,,,,;oOXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN0d:,,,,,,,,,,,,,,,,,,,,,,:d0NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKxc;,,,,,,,,,,,,,,,,,cxKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXkl;,,,,,,,,,,,,;lkXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXkl;,,,,,,,,;lOXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNOo:,,,,;oONWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWN0dcld0NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMWWNNNNNWWMMMMMMMMMMMMMMWWNNNNNWWMMMMMMMMM
+MMMMMWNKOxolccclodkKNWMMMMMMWN0kdolcccloxOKWMMMMMM
+MMMMNOo:;,,,,,,,,,,;lkKWMWWXkl;,,,,,,,,,,,:oONWMMM
+MMWKd;,,,,,,,,,,,,,,,,ckKKkc;,,,,,,,,,,,,,,,;dKWMM
+MWKo;,,,,,,,,,,,,,,,,,,;::;,,,,,,,,,,,,,,,,,,;oKWM
+WNx;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;xNM
+MXo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,oXM
+MXo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,oXM
+MNd;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;dNM
+MWO:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:OWM
+MMNd;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;dNMM
+MMMXo;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;oXWMM
+MMMWXx:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:xXWMMM
+MMMMMW0o:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;o0WMMMMM
+MMMMMMMN0o:,,,,,,,,,,,,,,,,,,,,,,,,,,,,:o0NMMMMMMM
+MMMMMMMMMN0d:,,,,,,,,,,,,,,,,,,,,,,,,:d0NMMMMMMMMM
+MMMMMMMMMMMWKxc;,,,,,,,,,,,,,,,,,,;cxKWMMMMMMMMMMM
+MMMMMMMMMMMMMWXkl;,,,,,,,,,,,,,,;lkXWMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMNOo:,,,,,,,,,,:oONWMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMN0dc,,,,,,:d0NMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMWKxc;;cxKWMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMWX00XWMMMMMMMMMMMMMMMMMMMMMM
 
 ```
 ### Water
@@ -417,3 +770,4 @@ a day without sleep.
 If exposed to the elements in an extremely hot or cold environment, an adventurer must succeed a DC 14 constitution saving
 throw or gain a level of exhaustion. This check repeats for each hour spent exposed to the elements. An adventurer may avoid
 these checks by staying in shelter or wearing clothing appropriate to the weather.
+
