@@ -892,7 +892,7 @@ from it's center is inside it.
 This core rule book provides one spell, but others are provided by supplemental books.
 
 #### Prestidigitation
-
+```
 +------------------------------+
 | Prestidigitation             |
 +--------------+---------------+
@@ -903,6 +903,7 @@ This core rule book provides one spell, but others are provided by supplemental 
 | Duration     | 1 hour        |
 | School       | Transmutation |
 +--------------+---------------+
+```
 This is a novice spell used by beginning spellcasters for practice. When you cast this spell, you create on of the 
 following magical effects within range:
 
