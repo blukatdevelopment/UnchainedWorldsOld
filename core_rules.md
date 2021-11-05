@@ -165,6 +165,7 @@ Choose one of the following:
 - **Linguist:** You learn three languages of your choice.
 - **Mobile:** Your base speed increases by ten feet. When you dash, difficult terrain doesn’t cost extra movement on that turn. After you make a melee attack against a creature, you don’t provoke opportunity attacks from that creature for the rest of the turn regardless of whether you hit.
 - **Alert:** Your initiative rolls gain a +5 bonus, you cannot be surprised while conscious, and other creatures don’t gain advantage on attack rolls made against you as a result of being unseen by you.
+- **Magic initiate:** You learn the prestidigitation cantrip. After you cast it using this ability, you must complete a full rest in order to cast it again with this ability.
 
 ## Background
 Your background describes the life you had before you began adventuring. It decides your societal status, skills, and general level of wealth. A brief backstory which describes the following elements works well:
@@ -226,9 +227,6 @@ You have survived long enough as a commoner. Remove all your class features
 and hit dice (this resets your max HP to 0). Retain any proficiencies and
 equipment. You lose all levels in commoner. Choose a class other than commoner.
 You are now level 1 in the chosen class.
-
-## Equipment
-TODO
 
 # Roleplaying
 
@@ -519,6 +517,7 @@ Adventuring requires a great many things. Here are some of them.
 +------------------------+-------+-----------------+---------+--------------------------------------------------------+
 |         Weapon         | Cost  |     Damage      | Weight  |                       Properties                       |
 +------------------------+-------+-----------------+---------+--------------------------------------------------------+
+| Unarmed                | --    | 1 + Strength    | --      |
 | Simple Melee Weapons   |       |                 |         |                                                        |
 | Club                   | 1 sp  | 1d4 bludgeoning | 2 lb.   | Light                                                  |
 | Dagger                 | 2 gp  | 1d4 piercing    | 1 lb.   | Finesse, light, thrown (range 20/60)                   |
@@ -563,6 +562,65 @@ Adventuring requires a great many things. Here are some of them.
 +------------------------+-------+-----------------+---------+--------------------------------------------------------+
 ```
 
+#### Weapon properties
+
+##### Ammunition
+Weapons with the ammunition property require ammunition to make ranged attacks. Each attack expends one piece of
+ammunication. Retrieving the ammunition is part of the attack. You can recover half your expended ammunication
+by spending one minute to search the battlefield. When you use a weapon with the ammunition property to make a melee attack, it's treated
+as an improvised weapon.
+
+##### Finesse
+Attacks with this weapon can use your choice of strength or dexterity modifier for the attack and damage rolls, and
+both rolls must use the same modifier.
+
+##### Heavy
+Small creatures receive disadvantage on Attack rolls with heavy weapons.
+
+##### Light
+When you make an attack with a light weapon in one hand, you may use your bonus action to make an attack using
+a light weapon in another hand. This attack does not benefit from your proficiency bonus.
+
+##### Loading
+Each time you use an action, bonus action, or reaction to make an attack with a weapon posessing the loading
+property, you can only fire once, regardless of how many attacks you have.
+
+##### Range
+A ranged weapon has a range specified in parentheses after the ammunition or thrown property. The first number in
+the range is the normal range in feet, and the second is the weapon's long range. Attacking beyond normal range confers
+disadvantage on the attack roll. You cannot make attacks beyond the long range.
+
+##### Reach
+This weapon gains an additional 5 feet of range when attacking, as well as determining reach for opportunity attacks.
+
+##### Special
+This weapon has unique properties delivered by name in the special weapons section below.
+
+##### Thrown
+You can throw thrown weapons to make a ranged Attack. You use the same modifier for the thrown attack
+as you would make for the melee attack.
+
+##### Two-handed
+This weapon requirees both hands to make attacks.
+
+##### Versatile
+This weapon can be used with one hand, or with two hands. The two-handed damage value appears in parentheses after the property.
+
+##### Improvised Weapons
+At the GM's discretion, a an improvised weapon may be used to inflict more damage than an unarmed attack.
+If it resembles a weapon, such as a club, it may be used as such with the same damage, proficiency, and ability modifier.
+If it doesn't resemble a weapon, it deals at most 1d4 damage, has a normal range of 20 feet and a long range of 60 feet.
+
+##### Silvered Weapons
+One silvered weapon or ten pieces of silvered ammunition generally costs 100gp. They perform identically to their normal counterparts,
+with the exception that some enemies are weak to silver.
+
+##### Special Weapons
+Lance: Attacks within 5 feet have disadvantage. The weapon requires two hands when you're not mounted.
+
+Net: Creatures large or smaller are restrained when hit by a net until freed. Breaking out requires a DC 11 strength check.
+Dealing 5 slashing damage to the net (AC 10) destroyes the net, ending the restrained effect. When you use an action,
+bonus action, or reaction to attack with a net, you can make only one attack regardless of how many attacks you otherwise have.
 
 ### Armor
 
@@ -588,6 +646,20 @@ Adventuring requires a great many things. Here are some of them.
 | Shield          | 10 gp    | +2                        | —        | —            | 6 lb.  |
 +-----------------+----------+---------------------------+----------+--------------+--------+
 ```
+
+#### Putting on and taking off armor
+You don armor to put it on and doff it to take it off. You only receive the benefit of AC
+when the armor has been fully donned.
+
++--------------+------------+-----------+
+|   Category   |    Don     |   Doff    |
++--------------+------------+-----------+
+| Light Armor  | 1 minute   | 1 minute  |
+| Medium Armor | 5 minutes  | 1 minute  |
+| Heavy Armor  | 10 minutes | 5 minutes |
+| Shield       | 1 action   | 1 action  |
++--------------+------------+-----------+
+
 ### Goods and services
 
 #### Trade goods
@@ -771,3 +843,75 @@ If exposed to the elements in an extremely hot or cold environment, an adventure
 throw or gain a level of exhaustion. This check repeats for each hour spent exposed to the elements. An adventurer may avoid
 these checks by staying in shelter or wearing clothing appropriate to the weather.
 
+## Magic
+
+### Spells
+
+#### Level
+Spells range in level from cantrip (0) to legendary (6). This indicates not only how powerful they are, but also how much magical
+energy is required to cast a given spell. Most classes will have their own resource spent by casting spells. If you hold an action
+to cast a spell, any resources for that spell are consumed regardless of whether they 
+
+#### Range
+Some spells have a maximum range they can be cast from, like 120 feet. Others require physical touch, denoted by range: touch.
+Spells with range: self can only be cast on the caster.
+
+#### Casting time
+Casting time is how long it takes to cast a spell.
+
+#### Duration
+Decides how long a spell's effects will last. A spell with instantaneous duration ends immediately.
+
+#### Concentration
+When a spell has concentration, it means that the duration can be cut short if the caster takes damage and fails
+a concentration saving throw whose DC is 10 or half the damage received, whichever is higher. You also lose concentration
+when unconscious, incapacitated, or dead.
+
+#### Areas of effect
+
+##### Cone
+A cone's as long as it is wide. This is to say that a 15ft cone is 15 feet long, and it's diameter at the base is 15ft.
+
+##### Cube
+A cube's sides are all the same, so a 5ft cube is 5ft by 5ft by 5ft.
+
+##### Cylinder
+A cylinder's point of origin is the center of a circle with a radius described by the spell. The circle's either on the ground
+or at a height specified by the spell. A second circle directly above the first is the top of the cylinder, and anything between
+the two is inside it.
+
+##### Line
+The line extends from it's point of originatn in a straight path up to it's length and covers an area defined its width, provided
+in the spell.
+
+##### Sphere
+The sphere extends outward from a point a distance equal to it's radius. Anything a distance equal or less than the radius of the sphere
+from it's center is inside it.
+
+### Spell List
+This core rule book provides one spell, but others are provided by supplemental books.
+
+#### Prestidigitation
+
++------------------------------+
+| Prestidigitation             |
++--------------+---------------+
+| Level        | Cantrip       |
+| Casting Time | 1 Action      |
+| Range        | 10ft          |
+| Components   | V,S           |
+| Duration     | 1 hour        |
+| School       | Transmutation |
++--------------+---------------+
+This is a novice spell used by beginning spellcasters for practice. When you cast this spell, you create on of the 
+following magical effects within range:
+
+- You create an instantaneous, harmless sensory effect.
+- You instantaneously light or snuff out a candle, torch, small camp fire, or equivalent fire.
+- You instantaneously clean or soil an object no larger than 1 cubic foot.
+- You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
+- You make a color, a small mark, or a symbol appear on an object or surface for 1 hour.
+- You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
+
+If you cast the spell multiple times, up to three non-instantaneous effects can be active at once and can be dismissed each
+effect using an action.
