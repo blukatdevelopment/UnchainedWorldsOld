@@ -26,7 +26,7 @@ MMW0xooxOXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 # Foreword
 
 ### What is Unchained Worlds?
-Unchained Worlds is a tabletop roleplaying game designed with the intention of providing a table of three to seven people tools, rules, and content to participate in the three pillars of exploration, combat, and roleplaying. Unchained Worlds differs from most competing games in that it is neither a clone of an existing game, nor is it designed as a commercial product. Unchained Worlds is both free as in free beer and free as in freedom. It’s content is deliberately modular and self-contained in order to make the process of selecting, using, and authoring content easy. 
+Unchained Worlds is a tabletop roleplaying game designed with the intention of providing a table of three to seven people with tools, rules, and content to participate in Unchained World's three pillars of exploration, combat, and roleplaying. Unchained Worlds differs from most competing games in that it is neither a clone of an existing game, nor is it designed as a commercial product. Unchained Worlds is both free as in free beer and free as in freedom. It’s content is deliberately modular and self-contained in order to make the process of selecting, using, and authoring content easy. 
 
 ### Why Unchained Worlds?
 Unchained Worlds is built with “less is more” as its motto. Character customization options are slim, hit points are low for monsters and adventurers, and levels are capped at 10. This lends itself to low power play wherein a party of players must carefully consider the consequences for their actions and use lateral thinking to overcome obstacles and limitations. The worlds explored with this system are intended to be gritty and dangerous places where decision-making and roleplaying is more important than character build. While this system can be used for linear epic campaigns and for combat-focused power gaming, such play is not the primary concern.
@@ -158,7 +158,8 @@ Your lineage describes both the physical traits and cultural traditions handed d
 **Size:** Medium
 **Speed:** 30 feet
 **Ability Score Increase:** +1 to each ability score
-Choose one of the following:
+
+Choose one of the following features:
 - **Actor:** You have advantage on charisma checks made when trying to act as a different person. If you have heard a creature speak or make a sound for at least one minute, you may now speak like them or mimic the sound. Other creatures can contest (insight vs deception) this speech or sound to determine it’s fake.
 - **Charger:** You can use a bonus action to make one melee weapon attack or shove a creature when you use your action to dash. If you have just moved at least 10 feet in a straight line, you either gain a +5 bonus to the attack’s damage roll or push the target up to 10 feet away from you if you successfully shove the target.
 - **Crossbow Expert:** You can ignore the loading quality of crossbows, provided you are proficient with them. You no longer have disadvantage on ranged attack rolls as a result of being within 5 feet of a hostile creature. You may use a bonus action to attack with a hand crossbow after using your action to attack with a one-handed weapon.
@@ -236,7 +237,7 @@ The GM prompts Geremy "A large toad rises from the surface of the pond water and
 
 ### Describe
 If Geremy is just getting started or uncomfortable with acting, he might respond like this.
-"Alexa things the toad is repulsive and screams and backs up."
+"Alexa thinks the toad is repulsive and screams and backs up."
 This is a completely valid way to play.
 
 ### Act
