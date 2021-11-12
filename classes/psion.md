@@ -6,6 +6,7 @@
 | |  __/ __| |/ _ \| '_ \ |
 | | |  \__ \ | (_) | | | ||
 | \_|  |___/_|\___/|_| |_||
+| V 1.0.0                 |
 #-------------------------#
 ```
 Your mind extends beyond itself, an invisible appendeage that allows you to
