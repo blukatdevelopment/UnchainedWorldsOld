@@ -6,7 +6,7 @@
 #  `--. \/ _` | '_ ` _ \| | | | '__/ _` | |  #
 # /\__/ / (_| | | | | | | |_| | | | (_| | |  #
 # \____/ \__,_|_| |_| |_|\__,_|_|  \__,_|_|  #
-# Version 1.0.0                              #
+# Version 1.0.1                              #
 #--------------------------------------------#
 ```
 You are the judge, jury, and executioner of the law.
@@ -14,10 +14,12 @@ Where you go, you bring with you order and stability.
 Your foes know you for your discipline and courage.
 
 ## Proficiencies
+```
 Armor: Light, Medium, Heavy, Shields
 Weapons: Simple, Martial
 Tools: None
 Saving Throws: Strength, Constitution
+```
 
 ## Skills
 Choose 2 from the following list:

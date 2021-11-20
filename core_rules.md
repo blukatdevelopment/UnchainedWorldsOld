@@ -113,7 +113,7 @@ An ability score is a number ranging from 1 to 20 which quantifies your ability�
 #### Predetermined arrays
 If you do not want to trust your fate to the dice, you may use an array of predetermined values. Values are not provided in order, and can be assigned arbitrarily. Work with your DM to determine which of these will work for your campaign, if any.
 Standard array: [15, 14, 13, 12, 10, 8]
-Min-max array: [17, 14, 13, 11, 9, 7]
+Min-max array: [17, 14, 13, 10, 9, 7]
 Commoner array: [10, 10, 10, 10, 10, 10]
 Demigod array: [18, 18, 18, 18, 18, 18]
 
@@ -128,30 +128,27 @@ Specific skills define a very narrow action, like agriculture, tracking, or poet
 
 ### General Skills
 Some skills are general in nature, and may apply to a wide variety of situations. When a feat, lineage, or class grants you proficiency in a skill, it will likely be in general skills. They are listed explicitly below.
-- Acrobatics
-- Animal Handling
-- Arcana
-- Arcana
-- Athletics
-- Deception
-- History
-- Insight
-- Intimidation
-- Investigation
-- Medicine
-- Nature
-- Perception
-- Performance
-- Persuasion
-- Performance
-- Persuasion
-- Religion
-- Sleight of Hand
-- Stealth
-- Survival
+- Acrobatics - Acts of agility such as performing a backflip or landing from a great height.
+- Animal Handling - Befriending, calming, or commanding animals.
+- Arcana - Recalling knowledge related to subjects of a magical nature.
+- Athletics - Acts of controlled strength such as climbing, wrestling, or wrestling something from a creature's hand.
+- Deception - Leading others to arrive at counterfactual conclusions.
+- History - Recalling facts about past events, especially common sense and obscure trivia.
+- Insight - Detecting deception in others.
+- Intimidation - Motivating through fear.
+- Investigation - Finding patterns or searching through complex information such as a drawer full of items, clues at a murder scene, or a particular book in a library.
+- Medicine - Knowing of illnesses, their remedies, and experience administering them successfully.
+- Nature - Knowing of the diversity nature and it's workings.
+- Perception - Making out figures in the distance, what people are saying a room over, and the distinctly nutty flavor of cyanide.
+- Performance - Miming, acting, singing, or dancing. Any act which aims not to deceive, but to inspire awe or interest.
+- Persuasion - Motivation through convincing factual statements.
+- Religion - Knowledge of deities, holy and unholy traditions, and the lore of fiends and celestials.
+- Sleight of Hand - Agility of your hands to perform tricks, pickpocket, and otherwise use exceptionally fine motor skills.
+- Stealth - Knowing how to not be seen.
+- Survival - Learning to track, hunt, skin, tan, slaughter, trap, locate clean water, and navigate using the stars.
 
 ## Lineage
-Your lineage describes both the physical traits and cultural traditions handed down to you by your ancestors. Naturally, these details are mutable. That said, here’s the unskilled human.
+Your lineage describes both the physical traits and cultural traditions handed down to you by your ancestors. Naturally, these details are mutable. That said, here’s the unskilled human. Additional lineages can be found in supplemental books.
 
 ### Human
 **Languages:** Common
@@ -182,7 +179,7 @@ You bent your back under a blazing sun to till the land and raise a crop.
 
 ## Class
 Your class decides your hit dice, class features, and informs the role you'll play in your party.
-The commoner class is provided below, but is not recommended for normal games.
+The commoner class is provided below, which is intended only for level 0 characters such as those used in character creation funnels.
 
 ### Commoner
 You are average, bland, and unremarkable. You don't wield magic, and you aren't great with swords.
@@ -204,19 +201,11 @@ Choose 2 from the following: Athletics, Insight, History, Nature, Religion
 +-------+----------+-------------------+------------+-------------------+
 | Level | Hit Dice | Proficiency Bonus | Minimum XP |       Feats       |
 +-------+----------+-------------------+------------+-------------------+
-|     1 | 1d6      | +1                |          0 |                   |
-|     2 | 1d6      | +1                |        100 |                   |
-|     3 | 2d6      | +2                |        200 | Bonus Proficiency |
-|     4 | 2d6      | +2                |        300 |                   |
-|     5 | 2d6      | +3                |        400 |                   |
-|     6 | 3d6      | +3                |        500 |                   |
-|     7 | 3d6      | +3                |        600 |                   |
-|     8 | 3d6      | +3                |        700 |                   |
-|     9 | 3d6      | +3                |        800 |                   |
-|    10 | 3d6      | +3                |        900 | Training Montage  |
+|     1 | 1d4      | +1                |          0 |                   |
+|     2 | 1d4      | +1                |        100 | Bonus Proficiency |
+|     3 | 1d4      | +2                |        200 | Training Montage  |
 +-------+----------+-------------------+------------+-------------------+
 ```
-
 
 #### Bonus Proficiency
 When you gain this feature at level 3, you may gain one of the following:
@@ -231,7 +220,7 @@ You are now level 1 in the chosen class.
 
 # Roleplaying
 
-## Controlling your character
+## Control your character
 As a player, you have the freedom to breathe life into your character. For example, let's take a player Geremy and his character Alexa, a human commoner. 
 The GM prompts Geremy "A large toad rises from the surface of the pond water and stares at you. It ribbits out a greeting. What do you do?"
 
@@ -405,7 +394,6 @@ Adventuring requires a great many things. Here are some of them.
 +------------------------------+----------+--------------+
 | Abacus                       | 2 gp     | 2 lb.        |
 | Acid (vial)                  | 25 gp    | 1 lb.        |
-| Alchemist’s fire (flask)     | 50 gp    | 1 lb.        |
 | Ammunition                   |          |              |
 | Arrows (20)                  | 1 gp     | 1 lb.        |
 | Blowgun needles (50)         | 1 gp     | 1 lb.        |
