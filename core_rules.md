@@ -201,18 +201,12 @@ Choose 2 from the following: Athletics, Insight, History, Nature, Religion
 +-------+----------+-------------------+------------+-------------------+
 | Level | Hit Dice | Proficiency Bonus | Minimum XP |       Feats       |
 +-------+----------+-------------------+------------+-------------------+
-|     1 | 1d4      | +1                |          0 |                   |
-|     2 | 1d4      | +1                |        100 | Bonus Proficiency |
-|     3 | 1d4      | +2                |        200 | Training Montage  |
+|     0 | 1d4      | +1                |          0 |                   |
+|     1 | 1d4      | +2                |        200 | Training Montage  |
 +-------+----------+-------------------+------------+-------------------+
 ```
 
-#### Bonus Proficiency
-When you gain this feature at level 3, you may gain one of the following:
-- Proficiency with one simple weapon
-- Proficiency with two general skills
-
-#### (Optional) Training Montage
+#### Training Montage
 You have survived long enough as a commoner. Remove all your class features
 and hit dice (this resets your max HP to 0). Retain any proficiencies and
 equipment. You lose all levels in commoner. Choose a class other than commoner.
