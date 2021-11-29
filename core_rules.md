@@ -819,12 +819,117 @@ An adventure needs to eat at least one pound of food each day, or gain one level
 
 ### Sleep
 An adventurer must sleep at least 6 hours each day. Failing this, they gain one level of exhaustion each time they complete
-a day without sleep.
+a day without sleep. One may not sleep in armor.
 
 ### Clothing
 If exposed to the elements in an extremely hot or cold environment, an adventurer must succeed a DC 14 constitution saving
 throw or gain a level of exhaustion. This check repeats for each hour spent exposed to the elements. An adventurer may avoid
 these checks by staying in shelter or wearing clothing appropriate to the weather.
+
+### Rests
+An adventurer may wish to rest to recover their physical and mental stamina as well as perform light maintenance of their gear.
+
+#### Short Rest
+A short rest takes 1 hour, during which one may perform light activities such as reading a book, cooking a meal, or performing a ritual.
+One may spend a hit die to restore health. When they do so, they roll the die and add their con modifier, gaining that many hit points.
+
+#### Partial Rest
+A partial rest takes 8 hours, 6 of which are spent sleeping. A fire is necessary in most conditions, as well as some form of shelter unless
+season and weather permit sleeping beneath the stars. After a partial rest, an adventurer regains one hit die that they may spend at the time
+of the partial rest to regain hit points.
+
+#### Full Rest
+A full rest has all the requirements of a partial rest, except that it must take place in a bed such as in a tavern, inn, or house found in
+a settlement where security is provided. During a full rest, one is able to fully relax themselves. They restore all hit points, hit dice,
+and levels of exhaustion.
+
+### Conditions
+
+#### Blinded
+- can't see and automatically fail any check requiring sight
+- attack rolls against have advantage
+- attack rolls from have disadvantage
+
+#### Charmed
+- can't attack the charmer or target them with harmful abilities or magical effects
+- charmer has advantage on any ability check to interact socially with the creature
+
+#### Deafened
+- fails checks requiring hearing
+
+#### Frightened
+- disadvantage on ability checks and attack rolls while source of fear is in line of sight
+- creature can't willingly move closer to the source of fear
+
+#### Grappled
+- speed is 0, can't benefit from bonus to speed
+- condition ends if grappler is incapacitated
+- condition ends if moved outside of grappler's range by external force
+
+#### Incapacitated
+- Can't take actions, free object interactions, bonus actions, or reactions
+
+#### Invisible
+- Creature cannot be seen without magical or special sense. Is heavily obscured. Location can be deduced by noise or tracks
+- Attack rolls against have disadvantage
+- Attack rolls from have advantage
+
+#### Paralyzed
+- is incapacitated
+- fails strenght and dexterity saving throws
+- attack rolls against have advantage
+- any attack that hits the creature is critical within 5ft
+
+#### Petrified
+- transformed along with all worn or carried non-magical items into stone
+- is incapacitated
+- attack rolls against have advantage
+- strength and dexterity saves automatically fail
+- has resistance to all damage
+- immune to poison and disease, although poison or disease already in system is suspended, not neutralized
+
+#### Poisoned
+- disadvantage on attack rolls and ability checks
+
+#### Prone
+- can only either move at half speed, or use half of it's movement to stand up
+- disadvantage on attack rolls
+- attack rolls against have advantage from within 5ft, disadvantage from further
+
+#### Restrained
+- speed becomes 0, cannot benefit from any bonus speed
+- attack rolls against have advantage
+- attack rolls from have disadvantage
+- disadvantage on dexterity saving throws
+
+#### Stunned
+- Are incapacitated
+- fails strength and dexterity saving throws
+- attack rolls against have advantage
+
+### Unconscious
+- Are incapacitated
+- Drops whatever it's holding and falls prone
+- Fails any strength or dexterity saving throws
+- attacks against have advantage
+- any attack within 5ft is a critical hit
+
+### Exhaustion
+Exhaustion is strain on one's body. You can gain and lose levels of exhaustion
+as your body gains and loses this strain.
+
+```
++-------+------------------------------------------------+
+| Level |                     Effect                     |
++-------+------------------------------------------------+
+|     1 | Disadvantage on Ability Checks                 |
+|     2 | Speed halved                                   |
+|     3 | Disadvantage on Attack rolls and Saving Throws |
+|     4 | Hit point maximum halved                       |
+|     5 | Speed reduced to 0                             |
+|     6 | Death                                          |
++-------+------------------------------------------------+
+```
 
 ## Magic
 
