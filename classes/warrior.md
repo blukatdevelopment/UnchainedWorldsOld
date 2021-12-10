@@ -64,6 +64,7 @@ immediately expend during the short rest.
 
 ### Maneuver
 You learn one maneuver from the warrior maneuvers list. The maneuvers column
+shows the number of spells you know at any given level.
 
 ### Extra Attack
 When you use your action to make an attack, you may make two attacks instead.

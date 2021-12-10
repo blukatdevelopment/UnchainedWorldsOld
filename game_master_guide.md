@@ -47,7 +47,7 @@ blank paper for them to take notes with.
 
 ## Text
 Text is the duct tape of information systems. No matter how pretty you can get
-other formats of data (like save files in an application), text can fix
+other formats of data (like save files for an application), text can fix
 anything. It's versatile enough that you can do any facet of your DM prep using
 only plain text files. It's also sturdy. Text editors rarely encounter the
 kinds of technical issues more complicated systems do. Even when you use
