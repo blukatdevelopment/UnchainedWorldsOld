@@ -134,7 +134,7 @@ when you can see or hear the source of danger.
 ### Fighting Will
 You may use your bonus action to expend one of your hit dice and roll it.
 You gain that much temporary hit points. Until the start of your next turn,
-any attack you make received advantage.
+any attack you make receives advantage.
 
 ### Enduring Will (minimum level 9)
 If you roll initiative and have no hit dice remaining, you regain one.
