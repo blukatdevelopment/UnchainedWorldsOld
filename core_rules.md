@@ -156,14 +156,8 @@ Your lineage describes both the physical traits and cultural traditions handed d
 **Speed:** 30 feet
 **Ability Score Increase:** +1 to each ability score
 
-Choose one of the following features:
-- **Actor:** You have advantage on charisma checks made when trying to act as a different person. If you have heard a creature speak or make a sound for at least one minute, you may now speak like them or mimic the sound. Other creatures can contest (insight vs deception) this speech or sound to determine it’s fake.
-- **Charger:** You can use a bonus action to make one melee weapon attack or shove a creature when you use your action to dash. If you have just moved at least 10 feet in a straight line, you either gain a +5 bonus to the attack’s damage roll or push the target up to 10 feet away from you if you successfully shove the target.
-- **Crossbow Expert:** You can ignore the loading quality of crossbows, provided you are proficient with them. You no longer have disadvantage on ranged attack rolls as a result of being within 5 feet of a hostile creature. You may use a bonus action to attack with a hand crossbow after using your action to attack with a one-handed weapon.
-- **Linguist:** You learn three languages of your choice.
-- **Mobile:** Your base speed increases by ten feet. When you dash, difficult terrain doesn’t cost extra movement on that turn. After you make a melee attack against a creature, you don’t provoke opportunity attacks from that creature for the rest of the turn regardless of whether you hit.
-- **Alert:** Your initiative rolls gain a +5 bonus, you cannot be surprised while conscious, and other creatures don’t gain advantage on attack rolls made against you as a result of being unseen by you.
-- **Magic initiate:** You learn the prestidigitation cantrip. After you cast it using this ability, you must complete a full rest in order to cast it again with this ability.
+#### Bonus Skills
+You gain proficiency with two skills of your choice.
 
 ## Background
 Your background describes the life you had before you began adventuring. It decides your societal status, skills, and general level of wealth. A brief backstory which describes the following elements works well:
