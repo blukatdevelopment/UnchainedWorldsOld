@@ -110,17 +110,17 @@ acts. Domain spells do not count against the number of spells you may prepare.
 
 
 ```
-+-----------+-----------------------+------------------------+--------------------------------------+
-|  Domain   |     Honorable Act     |     Forbidden Act      |                Spells                |
-+-----------+-----------------------+------------------------+--------------------------------------+
-| Light     | Lighting a new shrine | Leaving a shrine unlit | Light, Dazzling Light, Bend Light    |
-| Life      | Blessing an newborn   | Killing a humanoid     | Spare the dying, Mana, Revivify      |
-| Nature    | Planting a tree       | Cutting a tree         | Thornwhip, Vine Suit, lightning bolt |
-| Knowledge | Teaching someone      | Keeping a secret       | Eye stone, Identify, Mind Probe[1]   |
-|           | for an hour           |                        |                                      |
-| Justice   | Provide Judgement     | Fail to fight bad acts | Chastise, Smite, confess             |
-|           | for a crime           | of others              |                                      |
-+-----------+-----------------------+------------------------+--------------------------------------+
++-----------+-----------------------+------------------------+----------------------------------------+
+|  Domain   |     Honorable Act     |     Forbidden Act      |                Spells                  |
++-----------+-----------------------+------------------------+----------------------------------------+
+| Light     | Lighting a new shrine | Leaving a shrine unlit | Light, Dazzling Light, Bend Light      |
+| Life      | Blessing an newborn   | Killing a humanoid     | Spare the dying, Mana, Revivify        |
+| Nature    | Planting a tree       | Cutting a tree         | Thornwhip[1], Vine Suit, lightning bolt|
+| Knowledge | Teaching someone      | Keeping a secret       | Eye stone, Identify, Mind Probe[1]     |
+|           | for an hour           |                        |                                        |
+| Justice   | Provide Judgement     | Fail to fight bad acts | Chastise, Smite, confess               |
+|           | for a crime           | of others              |                                        |
++-----------+-----------------------+------------------------+----------------------------------------+
 [1]: Spell is found in the Spell Compendium Volume 1
 ```
 
@@ -242,17 +242,6 @@ Duration: Instantaneous
 You touch one creature that is dying, and they are instantly stabilized.
 Once you have used this spell on a creature, you may not use it on them again
 until you finish a short rest.
-```
-
-```
-Thornwhip (Cantrip)
-Casting time: 1 action
-Range: 15 feet
-Components: V, S
-Duration: Instantaneous
-Make a melee spell attack against one creature. On a hit, you deal 1d6 slashing
-damage and may pull the creature ten feet in your direction, provided it is large
-or smaller.
 ```
 
 ```

@@ -79,7 +79,9 @@ You may use your bonus action to willingly transform into your lycanthrope form.
 You remain in that state for 1 minute, after which you must make a DC 12 wisdom
 saving throw to exit it. If you fail the save, the controlled shift becomes
 an uncontrolled shift and lasts for 1d4 hours. You can use this ability a number
-of times indicated in the shifts column of the lycanthrope table.
+of times indicated in the shifts column of the lycanthrope table. You restore
+all your shifts on a partial or full rest. As a reaction when an unwilling
+shift is triggered, you may expend a shift in order to take control of yourself.
 
 #### Tough hide
 You have resistance to non-magical and non-silvered slashing, piercing, and
@@ -115,7 +117,8 @@ DC 15 wisdom saving throw or become frightened until the start of your next
 turn. Once you use this ability, you may not use it again until your next shift.
 
 #### Bonus proficiencies
-While in this form, you gain proficiency with shortswords and longswords.
+At fourth level while in this form, you gain proficiency with shortswords and
+longswords.
 
 ### Wererat
 

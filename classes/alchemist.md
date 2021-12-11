@@ -1,44 +1,326 @@
-Maybe you dispatch your enemies from a secure vantage point, draw at
-high noon, or bring down buildings. You're a master of steel, lead, 
-and gunpowder. A cold, calculating killer who calls thunder down on those
-unlucky enough to face the business end of your arsennal, you represent the
-tip of the spear in military innovation.
+```
+################################################################################
+#   ___  _      _                    _     _                                   #
+#  / _ \| |    | |                  (_)   | |                                  #
+# / /_\ \ | ___| |__   ___ _ __ ___  _ ___| |_                                 #
+# |  _  | |/ __| '_ \ / _ \ '_ ` _ \| / __| __|                                #
+# | | | | | (__| | | |  __/ | | | | | \__ \ |_                                 #
+# \_| |_/_|\___|_| |_|\___|_| |_| |_|_|___/\__|                                #
+# V 0.0.0                                                                      #
+################################################################################
+```
+Magicians bend the weave to unleash magical energy that they struggle to control.
+Alchemical processes are what you struggle to control. Novice alchemy is a form
+of gambling, but after achieving mastery in the art, alchemists can truly achieve
+stability.
 
 ## Proficiencies
 Armor: Light Armor
-Weapons: Simple Weapons, Shortsword, Heavy Crossbow, Hand Crossbow, Firearms
-Tools: Gunsmithing tools
-Saving Throws: Strength, Dexterity
+Weapons: Simple Weapons
+Tools: Alchemy Kit
+Saving Throws: Intelligence, Wisdom
 
 ## Skills
-Choose 2 from the following:
-- Athletics
-- Acrobatics
-- Animal Handling
+Choose 4 from the following:
+- Religion
+- Arcana
+- History
+- Deception
 - Investigation
 - Insight
-- Intimidation
 - Persuasion
 - Stealth
 - Sleight of Hand
 
 ## Starting Equipment
-- Either (A) a musket, (B) one revolver, or (C) four pocket pistols
-- 20 medieval bullets
-- A shortsword or 2 daggers
-- Explorer's Pack
+- Alchemy Kit
+- Dagger
 
-Level    Minimum Experience    Hit Dice    Proficiency Bonus     Maneuvers      Features
- 1    0    1d6    +1    1    Gunner Maneuvers
- 2      300    1d6    +1    1
- 3      900    1d6    +2    1
- 4     1200    2d6    +2    2
- 5     2700    2d6    +2    2
- 6     5000    2d6    +2    2
- 7     7500    3d6    +3    3
- 8    10000    3d6    +3    3
- 9    15000    3d6    +4    3
-10    20000    3d6    +4    4
+
+```
++-------+--------------------+----------+-------------------+------------------+------------------------+
+| Level | Minimum Experience | Hit Dice | Proficiency Bonus | Techniques Known |        Features        |
++-------+--------------------+----------+-------------------+------------------+------------------------+
+|     1 |                  0 | 1d6      | +1                |                1 | Novice Alchemy         |
+|     2 |                300 | 1d4      | +1                |                2 |                        |
+|     3 |                900 | 1d4      | +2                |                3 |                        |
+|     4 |               1200 | 2d4      | +2                |                4 | Journeyman Alchemy     |
+|     5 |               2700 | 2d4      | +2                |                5 | Ability Score Increase |
+|     6 |               5000 | 2d4      | +2                |                6 |                        |
+|     7 |               7500 | 3d4      | +3                |                7 | Expert Alchemy         |
+|     8 |              10000 | 3d4      | +3                |                7 |                        |
+|     9 |              15000 | 3d4      | +4                |                7 | Master Alchemy         |
+|    10 |              20000 | 3d4      | +4                |                7 | Ability Score Increase |
++-------+--------------------+----------+-------------------+------------------+------------------------+
+```
+
+## Features
+
+### Novice Alchemy
+You learn to brew simple potions using the Amateur's Bubbling Cauldron 
+technique. During each partial or full rest, you may spend 5SP of alchemical
+ingredients to brew a potion using a known technique. You may brew a number
+of potions equal to your intelligence modifier during that rest. You may use
+a separate alchemy technique for each potion.
+
+### Journeyman Alchemy
+Above and beyond simply making potions, you've learned to refine your technique
+by using additives to avoid defects and increse the potency of your potions.
+You may add 5SP of extra alchemical ingredients to a potion and add 1d6 to your
+roll for that potion. If your roll is higher than the values in the table, you
+pick the highest value in the table.
+
+
+### Expert Alchemy
+You have further refined your use of additives to better control the output
+of brewing. When you make a potion, you may now include additives in order to
+roll multiple times for your technique and pick one of the rolls. Below is a
+chart of the total number of rolls and cost in ingredients.
+```
++-------+------+
+| Rolls | Cost |
++-------+------+
+|     2 | 1GP  |
+|     4 | 5GP  |
+|     6 | 10GP |
++-------+------+
+```
+
+### Master Alchemy
+You have gained mastery over the field of alchemy. You have learned to copy
+existing potions, whether they are products of any known techniques or not.
+When making a batch of potions during a partial or full rest, you may expend
+a potion to copy it. Doing this requires 10GP of ingredients per potion.
+
+## Alchemy Techniques
+
+### Amateur's Bubbling Cauldron
+Roll 1d4.
+```
++------+--------------------+
+| roll |       potion       |
++------+--------------------+
+|    1 | Regular Ale        |
+|    2 | Smelling salt soup |
+|    3 | Rat Spit Spirit    |
+|    4 | Cloud in a bottle  |
++------+--------------------+
+```
+
+## Healer's Shimmy (Minimum level 2)
+Roll a 1d6
+```
++------+------------------------+
+| Roll |         Potion         |
++------+------------------------+
+|    1 | Nothing                |
+|    2 | Tekilya                |
+|    3 | Smelling salt soup     |
+|    4 | Rat Spit Spirit        |
+|    5 | Awkward Healing Potion |
+|    6 | Amaro Guarire          |
++------+------------------------+
+```
+
+### Soldier's Courage (Minimum level 2)
+Roll 1d6
+```
++------+----------------------+
+| Roll |        Potion        |
++------+----------------------+
+|    1 | Nothing              |
+|    2 | Thorned Potion       |
+|    3 | Cloud in a bottle    |
+|    4 | Spark Fruit Cocktail |
+|    5 | Thick Skin Potion    |
+|    6 | Hunter Bomb          |
++------+----------------------+
+```
+
+### Tinker's Best Friend (Minimum level 2)
+Roll a 1d6.
+```
++------+--------------------+
+| Roll |       Potion       |
++------+--------------------+
+|    1 | Glow paint         |
+|    2 | Skillfull Spirit   |
+|    3 | Super solvent      |
+|    4 | Insane Adhesive    |
+|    5 | Strong Acid        |
+|    6 | Poisoner's Perfume |
++------+--------------------+
+```
+
+### The Metamorphasis (minimum level 3)
+Roll a 1d4.
+```
++------+---------------------+
+| Roll |       Potion        |
++------+---------------------+
+|    1 | Beast folk's Ale    |
+|    2 | Devil's Liquor      |
+|    3 | Doppelganger's brew |
+|    4 | Growth paint        |
++------+---------------------+
+```
+
+
+### The One Slipper Jim (minimum level 3)
+Roll a 1d6.
+
+```
++------+-----------------------+
+| Roll |        Potion         |
++------+-----------------------+
+|    1 | Nothing               |
+|    2 | Speech Bubble Tea     |
+|    3 | Invisible Brandy      |
+|    4 | Bullseye light potion |
+|    5 | Glow paint            |
+|    6 | Ethereal Liquer       |
++------+-----------------------+
+```
+
+### The Figure Eight With Wrist Action (minimum level 4)
+Roll a 1d20 and add your intelligence modifier and proficiency bonus.
+```
++-------+----------------------------+
+| Roll  |           Potion           |
++-------+----------------------------+
+| 1-5   | Nothing                    |
+| 6-10  | Smelling salt soup         |
+| 7     | Mundane Strength Potion    |
+| 8     | Light Beer                 |
+| 9     | Skillfull Spirit           |
+| 10    | Bullseye light potion      |
+| 11    | Strong Acid                |
+| 12-15 | Dragon Salsa               |
+| 16-20 | Stone Skin Syrup           |
+| 17    | Potion of shrinking        |
+| 18    | Doppelganger's brew        |
+| 19    | Beast folk's Ale           |
+| 20    | Devil's Liquor             |
+| 21    | The Tremendous Gulp        |
+| 22-25 | Necromancer's Pickle Brine |
++-------+----------------------------+
+```
+
+### The Drunken Chaotician (minimum level 4)
+This produces a potion of chaos each and every time.
+
+## Potions
+
+### Rat Spit Spirit
+This clear liquid smells strongly of turpentine. If thrown, it creates a puddle
+that fits inside a 5 foot square. When thrown at a creature, it breaks on
+impact and soaks them. Lighting the spirit with fire damage or tinder box causes
+the the spirit to ignite in blue flame, dealing 2d10 fire damage
+
+### Hunter Bomb
+This bottle of dark, licorice-smelling liquid comes with a much smaller vial
+of effervescent sweet liquid. When mixed, the substance becomes highly unstable.
+If the bottle is not thrown within one minute of mixing, it will explode.
+If thrown at a creature within 30 feet, it will cause an explosion of fire that
+expands outwards in a 15 foot sphere, causing every creature inside to make
+a DC 15 dexterity saving throw. On a failure, they take 3d6 fire damage, or
+half on a success.
+
+### Invisible Brandy
+When you shake the bottle, it sloshes, but you swear you can see nothing inside.
+Do not try to sell this without letting the buyer shake it for themself.
+If you drink this potion, you become invisible for one minute.
+
+### Amaro Guarire
+This pungent, dark liquid is bitter tasting and supposedly good for your health.
+When you consume it, you gain 3d10 hit points and make a DC 14 constitution
+saving throw. On a failure, you gain one level of exhaustion.
+
+### Speech Bubble Tea
+Filled with tapioca pearls, this fruity drink bestows powerful hallucinations.
+After consuming this potion from it's thick straw, you can see speech bubbles
+with written words on them every time someone speaks. You can differentiate
+voices in a crowd this way, and if someone speaks a language you do not know,
+the symbols for that language still appear, allowing you to write them down
+for later translation. If you watch from a distance of up to 300 feet, the
+speech bubbles will grow and be easy for you to read. Past that no speech
+bubbles appear. This lasts for 1d4 hours.
+
+### Poisoner's Perfume
+This bright pink liquid carries a strong floral aroma similar to roses. As good
+as it smells, it has high concentrations of cyanide and arsenic. The poison
+tastes slightly bitter to the touch, and if consumed will deal 5d10 poison
+damage. You may dip up to ten pieces of ammunition in this perfume, or pour
+half the bottle out onto a melee weapon that deals piercing or slashing damage.
+The coating lasts for one minute, and the first attack with a coated weapon
+deals an extra 2d10 poison damage if it hits.
+
+### Tekilya
+A dead worm sits at the bottom of this extremely bitter spirit. If you drink
+it, you gain 3d8 maximum hit points for 1 minute. At the end of the duration,
+your maximum hit point returns to normal and you take 3d8 poison damage.
+
+### Ethereal Liquer
+When you look into this potion, you can faintly see tiny glowing dots swimming
+around in it. Drinking this potion causes you to phase into the ethereal plane
+for 1 hour, after which you ate returned to your previous plane of existence.
+Make a DC 14 constitution saving throw. On a failure, you are tipsy.
+
+### Smelling salt soup
+This potion requires an carrot and potato to stew, and is a full meal in itself.
+If someone is unconscious or making death saving throws, splashing them with
+this liquid causes them to awaken with 1 hit point.
+
+### Cloud in a bottle
+This bottle of black liquid is activated by dropping a pinch of reagent power
+in. When you activate this potion, pressure begins to build in the bottle.
+If you wait for 1 minute, the bottle will build pressure and explode wherever
+it is. You may instead throw the potion up to a range of 40 feet, setting off
+the potion on impact. In either case, the potion creates a dark storm cloud
+that fills a 20 foot cube. The cloud provides makes any creatures inside or
+behind it heavily obscured. The cloud lasts for 1 hour. Throwing salt into the
+cloud will cause it to darken and discharge lightning. Every creature inside
+the cloud at this time must make a dex saving throw. On a failure they take 2d6
+lightning damage. On a success, they take half as much. The cloud then
+disappears.
+
+### Spark Fruit Cocktail
+This yellow liquid has a strong citrus smell and gives off a static discharge
+occassionally. This potion tastes refreshingly sweet and fruity. Drinking it
+allows you to conjure static electricity from your hands for one minute. In that
+time, any unarmed melee attacks and weapon attacks with a metal weapon confer
+an additional 1d6 lightning damage.
+
+### Thorned Potion
+A thorn floats in some light green liquid. It tastes strongly of grass clippings
+and humus. For the next minute thorny vines sprout from your arms and you may
+use the thorn whip cantrip, found in the Spell Compendium Volume 1.
+
+### Bullseye light potion
+After consuming this potion, your insides glow brightly. If you open your mouth,
+you produce bright light for 60 feet, and dim light for 60 more feet in a narrow
+area. Your nostrils glow faintly, giving away your position in darkness.
+
+### Awkward Healing Potion
+The scent changes depending on who drinks this clear liquid. Some smell lemon,
+while others smell rotting eggs or fresh watermelon. It's utterly awkward to see
+the effect this potion has when poured on the ground in a crowd. Fortunately
+the flavor is that of pure water. Consuming this potion heals 1d4 hit points.
+
+### Mundane Strength Potion
+This potion is grey, scentless, and flavorless. When consumed, your muscles
+grow. Your strength modifier increases by +2 for the next minute.
+
+### Thick Skin Potion
+Shake well, as this potion tends to grow large waxy chunks if left on the shelf
+for long. When you drink this potion, your hide grows tough and you gain +2
+AC for the next minute.
+
+### Strong Acid
+The symbol for this potion is a flexing arm, but that's entirely misleading.
+You can use a strong acid for many things, but it can be thrown up to 20 feet.
+On a hit, the target is burned by this dark green fluid and receives 3d6 acid
+damage.
 
 ### Super solvent
 All glue, paint, and dye that comes into contact with this substances is dissolved immediately. It is also slippery, and can be used to slick up smooth surfaces. Super solvent is completely safe to the touch, making it useful for applications where damage is not desired. Do not consume super solvent. Aside from it's bitter taste,
@@ -127,7 +409,7 @@ later in your prior form. If you instead accumulate three failures, you awaken
 
 ### Stone Skin Syrup
 This thick, smokey, sweet concoction causes your skin to turn to stone. For the
-next ten minutes, you are resistant to all non-magical physical damage.
+next minute, you are resistant to all non-magical physical damage.
 
 ### Dragon Salsa
 A chunky mixture of stewwed peppers, tomatoes, and spices, dragon salsa serves 
@@ -138,10 +420,6 @@ minute after consuming a jar of the salsa, you may perform a breath attack. You
 create a 15 foot cone of breath. All creatres within must make a DC 15 dexterity
 saving throw, taking 3d6 damage of the element you selected, or half as much on
 a save.
-
-### Cantrip Curry
-This curry is made with arcane ingredients, and is activated when you add in a special ingredient. When you consume a jar of this spicy concoction, you gain access to a related cantrip for 1 hour. Constitution is your spellcasting ability for casting this cantrip.
-Firebolt -> ashes
 
 ### Necromancer's Pickle Brine
 If you listen carefully, you can hear whispering coming from this salty, sour
