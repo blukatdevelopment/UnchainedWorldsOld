@@ -14,7 +14,7 @@ runesmith is one who dedicates their life to the art of the rune.
 ## Proficiencies
 Armor: None
 Weapons: Daggers, darts, slings, quarterstaffs, light crossbows
-Saving Throws: Dexterity, Intelligence\
+Saving Throws: Dexterity, Intelligence
 
 ## Skills
 Choose 2 from the following:
@@ -28,7 +28,6 @@ Choose 2 from the following:
 ## Starting Equipment
 - Book of Runes
 - Dagger or quarterstaff
-- Scholar's pack
 
 ```
 +-------+--------------------+----------+-------------------+-------+-------------+---------------------------+

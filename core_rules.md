@@ -488,13 +488,78 @@ Adventuring requires a great many things. Here are some of them.
 | Whetstone                    | 1 cp     | 1 lb.        |
 +------------------------------+----------+--------------+
 ```
+
+### Packs
+
+### Explorer's Pack
+- Backpack
+- Waterskin
+- Traver's Clothes
+- 10 rations
+- 50ft rope
+- bedroll
+- Mess kit
+- 10 torches
+- pouch of 5GP
+
+### Peasant's Pack
+- Backpack
+- Common clothes
+- 5lb sack of wheat
+- pouch of 5SP
+
+### Noble's Pack
+- Backpack
+- Fine Clothes
+- Signet Ring
+- fancy Cane or stylish hat
+- pouch of 15GP
+
+### Scholar's Pack
+- Backpack
+- quill pen
+- book
+- 2 bottles of ink
+- 10 pieces of paper
+- 10 candles
+- tinderbox
+- bag of sand
+- small knife
+- Fine clothes
+- pouch of 10GP
+
+### Guildmember's Pack
+- Backpack
+- quill pen
+- bottle of ink
+- 5 sheets of paper
+- common clothes
+- pouch of 5GP
+
+### Artist's Pack
+- Backpack
+- one instrument OR painter's kit OR quill pen, bottle of ink, 10 pieces of paper
+- Common clothes
+- Costume clothes
+- A pouch of 1SP
+
+### Priest's pack
+- backpack
+- vestments
+- holy book
+- holy symbol
+- 2 blocks of incense
+- 5GP
+
 ### Weapons
 
 ```
++---------------------------------------------------------------------------------------------------------------------+
+| Simple Weapons                                                                                                      |
 +------------------------+-------+-----------------+---------+--------------------------------------------------------+
 |         Weapon         | Cost  |     Damage      | Weight  |                       Properties                       |
 +------------------------+-------+-----------------+---------+--------------------------------------------------------+
-| Unarmed                | --    | 1 + Strength    | --      |
+| Unarmed                | --    | 1 + Strength    | --      |                                                        |
 | Simple Melee Weapons   |       |                 |         |                                                        |
 | Club                   | 1 sp  | 1d4 bludgeoning | 2 lb.   | Light                                                  |
 | Dagger                 | 2 gp  | 1d4 piercing    | 1 lb.   | Finesse, light, thrown (range 20/60)                   |
@@ -511,7 +576,11 @@ Adventuring requires a great many things. Here are some of them.
 | Dart                   | 5 cp  | 1d4 piercing    | 1/4 lb. | Finesse, thrown (range 20/60)                          |
 | Shortbow               | 25 gp | 1d6 piercing    | 2 lb.   | Ammunition (range 80/320), two-handed                  |
 | Sling                  | 1 sp  | 1d4 bludgeoning | —       | Ammunition (range 30/120)                              |
-| Martial Melee Weapons  |       |                 |         |                                                        |
++---------------------------------------------------------------------------------------------------------------------+
+| Martial Melee Weapons                                                                                               |
++------------------------+-------+-----------------+---------+--------------------------------------------------------+
+|         Weapon         | Cost  |     Damage      | Weight  |                       Properties                       |
++------------------------+-------+-----------------+---------+--------------------------------------------------------+
 | Battleaxe              | 10 gp | 1d8 slashing    | 4 lb.   | Versatile (1d10)                                       |
 | Flail                  | 10 gp | 1d8 bludgeoning | 2 lb.   | —                                                      |
 | Glaive                 | 20 gp | 1d10 slashing   | 6 lb.   | Heavy, reach, two-handed                               |
@@ -530,7 +599,11 @@ Adventuring requires a great many things. Here are some of them.
 | War pick               | 5 gp  | 1d8 piercing    | 2 lb.   | —                                                      |
 | Warhammer              | 15 gp | 1d8 bludgeoning | 2 lb.   | Versatile (1d10)                                       |
 | Whip                   | 2 gp  | 1d4 slashing    | 3 lb.   | Finesse, reach                                         |
-| Martial Ranged Weapons |       |                 |         |                                                        |
++------------------------+-------+-----------------+---------+--------------------------------------------------------+
+| Martial Ranged Weapons                                                                                              |
++---------------------------------------------------------------------------------------------------------------------+
+|         Weapon         | Cost  |     Damage      | Weight  |                       Properties                       |
++------------------------+-------+-----------------+---------+--------------------------------------------------------+
 | Blowgun                | 10 gp | 1 piercing      | 1 lb.   | Ammunition (range 25/100), loading                     |
 | Crossbow, hand         | 75 gp | 1d6 piercing    | 3 lb.   | Ammunition (range 30/120), light, loading              |
 | Crossbow, heavy        | 50 gp | 1d10 piercing   | 18 lb.  | Ammunition (range 100/400), heavy, loading, two-handed |

@@ -15,6 +15,11 @@ trifle with the minds of others. There is no outward evidence of your
 difference, and it is unclear whether you will ever meet someone
 similarly-minded.
 
+## Proficiencies
+Armor: Light, Medium, Shield
+Weapons: simple weapons
+Saving Throws: Wisdom, Charisma
+
 ## Skills
 Choose two from the following:
 - Acrobatics
@@ -28,7 +33,6 @@ Choose two from the following:
 
 ## Starting equipment
 - Dagger
-- Explorer's pack
 
 ```
 +-------+--------------------+----------+-------------------+-------------+-------------+------------------------------+
@@ -136,10 +140,10 @@ of your choice by 1. You cannot increase an ability score past 20.
 - Flight
 ### 4th
 - Ferroform
-- Mind Probe
+- Mind Probe[1]
 - Dreamscape
 - Heart Crush
-
+[1] - spell is found in the Spell Compendium Volume 1
 ## Spells
 
 ### Ice Shield (1st level)
@@ -407,15 +411,3 @@ may not wake up until Greater Restoration or an equivalent magical ritual is con
 your mind. You may dismiss this spell using an action. When the dream ends, all participants wake up
 remembering it. You may make alterations to the dreamscape (such as changing your form or the environment)
 by succeeding a spellcheck against a DC set by the GM based on the attempted alteration.
-
-### Mind Probe (4th level)
-Casting Time: 1 action
-Range: 30 feet
-Components: V, S
-Duration: Concentration, up to 1 minute
-You target one creature who makes a wisdom saving throw. On a success, they receive 1d4 psychic damage.
-On a failure, you enter their mind and they fall into a deep trance. While you are in their mind, you may
-request information about an event or thought that has occurred in the last hour. The thought could be
-internal dialogue, or could be a memory. If you say something to invoke a memory, they must succeed a
-wisdom saving throw to avoid thinking of that memory and making it apparent to you. Each round, the
-creature can make a wisdom saving throw in order to break the trance.
