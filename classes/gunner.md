@@ -6,7 +6,7 @@
 | | | __| | | | '_ \| '_ \ / _ \ '__| |
 | | |_\ \ |_| | | | | | | |  __/ |    |
 |  \____/\__,_|_| |_|_| |_|\___|_|    |
-| V 1.0.0                             |
+| V 0.0.0                             |
 #-------------------------------------#
 ```
 Maybe you dispatch your enemies from a secure vantage point, draw at
@@ -39,22 +39,48 @@ Choose 2 from the following:
 - A shortsword or 2 daggers
 - Explorer's Pack
 
-Level    Minimum Experience    Hit Dice    Proficiency Bonus     Maneuvers      Features
- 1    0    1d6    +1    1    Gunner Maneuvers
- 2      300    1d6    +1    1
- 3      900    1d6    +2    1
- 4     1200    2d6    +2    2
- 5     2700    2d6    +2    2
- 6     5000    2d6    +2    2
- 7     7500    3d6    +3    3
- 8    10000    3d6    +3    3
- 9    15000    3d6    +4    3
-10    20000    3d6    +4    4
+```
++-------+--------------------+----------+-------------------+------------+------------------------+
+| Level | Minimum Experience | Hit Dice | Proficiency Bonus |  Maneuvers |         Features       |
++-------+--------------------+----------+-------------------+------------+------------------------+
+|     1 |                  0 | 1d6      | +1                |          1 | Scraft, Smith          |
+|     2 |                300 | 1d6      | +1                |          1 |                        |
+|     3 |                900 | 1d6      | +2                |          2 |                        |
+|     4 |               1200 | 2d6      | +2                |          2 | Second Wind            |
+|     5 |               2700 | 2d6      | +2                |          3 | Ability Score Increase |
+|     6 |               5000 | 2d6      | +2                |          4 |                        |
+|     7 |               7500 | 3d6      | +3                |          5 | Advanced Smith         |
+|     8 |              10000 | 3d6      | +3                |          5 | Ability Score Increase |
+|     9 |              15000 | 3d6      | +4                |          6 |                        |
+|    10 |              20000 | 3d6      | +4                |          6 | Ability Score Increase |
++-------+--------------------+----------+-------------------+------------+------------------------+
+```
 
 ## Features
 
 ### Gunner Maneuvers
-You learn to perform one maneuver from the list. You can
+You learn to perform maneuvers from the maneuvers list. The number of maneuvers
+you know can be found in the list of the maneuvers column.
+
+### Scrap
+One unit of scrap consists of 10lb of iron, chemicals, and other metal. It can
+be purchased from most shops for 1GP. During a partial or full rest, you may
+break down metal items into scrap. When you break down a batch of metal items,
+divide the total weight by 10 to find the number scrap units you get. The
+remainder is wasted.
+
+### Smith
+During a partial or full rest, you may craft weapons using scrap.
+You may not craft cartridges, nor weapons that use cartridges.
+
+### Second Wind
+You may use your bonus action to take a deep breath and brace yourself for more
+carnage. You must have at least one hit die, which you expend by rolling. You
+heal the rolled amount of hit points.
+
+### Advanced Smith
+You may now craft cartridges and weapons that use cartridges.
+
 
 ## Maneuvers
 
@@ -73,6 +99,16 @@ additional 3d8 damage.
 ### Spray and Pray
 If firing a weapon with the reload property, you may use your action to make
 up to three ranged attacks in place of one. Each attack has disadvantage.
+
+### Suppressing fire
+You use a weapon with at least five shots left in it to lay down suppressing
+fire. Target a 10 foot cube in range. You fire five times into this area until the
+start of your next turn. A creature that starts its turn in this cube or enters
+it for the first time must succeed a DC 15 wisdom saving throw or fall prone
+and end its turn. If a creature succeeds the saving throw and moves in your
+line of sight, you may target it with one of your 5 shots. This attack has
+disadvantage, but forces the creature to remake the wisdom saving throw even
+if it misses.
 
 ### Fire around cover
 You've learned to blindly fire from behind cover. When you are behind cover
@@ -126,35 +162,72 @@ against approaching enemies. When a creature that you can see enters a range of
 This attack uses your strength modifier and deals 1d8 piercing damage on a
 hit.
 
+### Army Crawl
+Your ranged attacks no longer suffer disadvantage from being prone, and while
+prone you may now take the dash action to move your normal speed.
+
+### Corner Shot
+If you are behind full cover, you may peek out one side in order to make a
+single attack against an enemy. This will trigger held actions to attack you
+with ranged weapons, but you will still have half cover from these attacks.
+Using this ability does not require movement.
+
+### Double Tap
+After hitting an enemy with a ranged attack using a weapon that still has
+more ammunition, you may use your reaction to fire an additional time. You
+cannot use double-tap if you have fired more than once already on this turn.
+
 ## Firearms
 
 ```
 +--------------------+--------+---------+------+----------+------------+-----------------------+
-|        Item        | Damage |  Range  | Ammo | Cost(GP) | Weight(lb) |      Properties       |
+|        Item        | Damage |  Range  | Ammo | Scrap    | Weight(lb) |      Properties       |
 +--------------------+--------+---------+------+----------+------------+-----------------------+
-| Pocket Pistol      | 1d8    | 30/90   |    1 |       35 |          2 | Light, Reloading      |
-| Pistol             | 1d10   | 30/90   |    1 |       50 |          3 | Reloading             |
-| Musket             | 1d12   | 40/120  |    1 |       75 |         10 | Two-handed, reloading |
-| Revolver           | 1d10   | 30/90   |    6 |      150 |          3 |                       |
-| Shotgun*           | 2d8    | 30/90   |    1 |       75 |          6 | Two-handed            |
-| Bolt-action Rifle* | 2d10   | 100/500 |    5 |      200 |          8 | Two-handed            |
-| Harmonica Gun      | 1d12   | 40/120  |   10 |      200 |         10 | Two-handed            |
-| Crank Gun*         | 1d12   | 40/120  |  300 |     1000 |        100 | Burst Fire            |
-| Medieval Bullet    |        |         |      |      0.1 |        0.2 |                       |
-| Cartridge          |        |         |      |      0.5 |        0.2 |                       |
+| Pocket Pistol      | 1d8    | 30/90   |    1 |        2 |          2 | Light, Reloading      |
+| Pistol             | 1d10   | 30/90   |    1 |        5 |          3 | Reloading             |
+| Musket             | 1d12   | 40/120  |    1 |       20 |         10 | Two-handed, reloading |
+| Revolver           | 1d10   | 30/90   |    6 |       50 |          3 |                       |
+| Shotgun*           | 2d8    | 30/90   |    1 |       35 |          6 | Two-handed            |
+| Bolt-action Rifle* | 2d10   | 100/500 |    5 |       50 |          8 | Two-handed            |
+| Harmonica Gun      | 1d12   | 40/120  |   10 |       50 |         10 | Two-handed            |
+| Crank Gun*         | 1d12   | 40/120  |  300 |      500 |        100 | Burst Fire            |
+| Medieval Bullet(20)|        |         |      |        4 |          2 |                       |
+| Cartridge(20)      |        |         |      |        4 |          2 |                       |
 +--------------------+--------+---------+------+----------+------------+-----------------------+
 * Uses Cartridges
 ```
 
-
 ### Properties
 
-## Explosives
+#### Reloading Property
+A weapon with the reloading property contains more than one ammunition. You may expend an action to reload such a weapon up to its full capacity, provided you have enough ammunition to do so.
 
+#### Burst Fire
+Instead of a normal ranged weapon attack, a weapon with the burst fire property may fire ten rounds of ammunition in rapid succession on a ten foot cube. Every creature inside the cube must succeed a DC15 dex saving throw or receive the weapon’s normal damage. This consumes ten rounds of ammunition.
+
+
+## Explosives
+```
 +-----------------+-------+--------+
 |      Item       | Cost  | Weight |
 +-----------------+-------+--------+
 | Bomb            | 50gp  | 1 lb   |
-| Dynamite(stick) | 100gp | 2 lb   |
+| Dynamite(stick) | 50gp  | 2 lb   |
+| Smoke Bomb      | 25gp  | 1 lb   |
 +-----------------+-------+--------+
+```
 
+### Bomb
+You may use your action to light and throw a bomb at a point within 30 feet. It
+explodes upon impact. All creatures within 15 feet of the bomb must make a DC15
+dex saving throw, taking 3d6 fire damage on a failure and half as much on a
+success.
+
+### Dynamite
+You may use your action to throw a stick of dynamite at a point within 30 feet.
+It explodes on impact. All creatures within 15 feet of the bomb must make a DC15
+dex saving throw, taking 3d6 fire damage on a failure and half as much on a
+success.
+
+You can attach up to 3 sticks of dynamite together. Each stick increases the
+damage dealt by 3d
