@@ -6,22 +6,31 @@
 #  | | | | '_ \| |/ / _ \ '__/ _ \ '__|		#
 #  | | | | | | |   <  __/ | |  __/ |   		#
 #  \_/ |_|_| |_|_|\_\___|_|  \___|_|   		#
+# V 0.0.0                                   #
 #############################################
 ```
-Prototype: 
+Prototypes that aren't fit for mass production and widespread use? Yes, please!
+You thrive on purpose-built gadgets and gizmos of varying levels of absurdity.
+Only you seem to have the wherewithal to perform the minor tuning of tolerances,
+preventative maintenance, and repairs to keep these things barely running.
 
 
-Level	Minimum Experience	Hit Dice Features
- 1	    0	1d4      Contraptions
- 2	  300	1d4      Repair
- 3	  900	1d4      
- 4	 1200	2d4      
- 5	 2700	2d4      
- 6	 5000	2d4      
- 7	 7500	3d4      
- 8	10000	3d4      
- 9	15000	3d4      
-10	20000	3d4      
+```
++-------+--------------------+-------------------+--------------------------+
+| Level | Minimum Experience | Hit Dice Features |                          |
++-------+--------------------+-------------------+--------------------------+
+|     1 |                  0 | 1d4               |   Contraptions           |
+|     2 |                300 | 1d4               |   Repair                 |
+|     3 |                900 | 1d4               |   Expertise              |
+|     4 |               1200 | 2d4               |                          |
+|     5 |               2700 | 2d4               |   Ability Score Increase |
+|     6 |               5000 | 2d4               |   Refined Technique      |
+|     7 |               7500 | 3d4               |                          |
+|     8 |              10000 | 3d4               |   Advanced Technique     |
+|     9 |              15000 | 3d4               |                          |
+|    10 |              20000 | 3d4               |   Ability Score Increase |
++-------+--------------------+-------------------+--------------------------+
+```
 
 ## Proficiencies
 Weapons: simple weapons, heavy crossbows, hand crossbows
@@ -41,7 +50,6 @@ Select four from the following:
 
 ## Starting equipment
 - Heavy-weight Wrench
-- Scholar's pack
 
 ## Features
 
@@ -51,10 +59,24 @@ devices require careful care and maintenace. You may keepa number of
 contraptions up and running that is equal to your intelligence modifier.
 During a partial or full rest you may construct and retire contraptions.
 
+### Repair
+You may spend a short rest repairing one contraption that has run out of uses.
+Once repaired, it has maximum uses again.
+
 ### Expertise
 Select two general skills that you are proficient with. You gain expertise with
 these skills, and your proficiency bonus is doubled for checks using those
 skills.
+
+### Refined Technique
+You have learned extra shortcuts in maintenance and streamlined some of the more
+finnicky aspects of your contraptions. You may now have two additional
+contraptions active at one time.
+
+### Advanced Technique
+You have learned extra shortcuts in maintenance and streamlined some of the more
+finnicky aspects of your contraptions. You may now have two contraptions active,
+plus double your intelligence modifier.
 
 ## Contraptions
 
@@ -117,7 +139,7 @@ Many uses. You can mount a crossbow on this tripod, which contains a series of c
 Many uses. A case containing a few special rocks floating in a heavy fluid. Each has an arrow carved on it. A lodestone is grey and always points north, or towards a nearest deposit of iron. The soulstone is black and always points towards South, or to a nearby source of undead energy. The light stone is bright white, turning according to the time of day and is accurate to the hour.
 
 ### Hunter's Hands
-Many uses. The dominant hand of this pair of gauntlets has a hunter's trap installed on it. When you land an unarmed attack with it, you spring the trap and deal an additional 1d10 piercing damage. It takes one action to re-arm the bear hands.
+Many uses. The dominant hand of this pair of gauntlets has a hunter's trap installed on it. When you land an unarmed attack with it, you spring the trap and deal an additional 1d10 piercing damage. It takes one action to re-arm the hunter's hands.
 
 ### Martial Countermeasure System
 Many uses. This cuirass contains several telescopic spikes deployed by miniature blasting charges. When you are grappled, you may use your reaction to fail the grapple and instead activate the cuirass, causing 2d10 piercing damage to the grappler. You may also trigger the cuirass as part of a successful grapple of your own, dealing 2d10 piercing damage to the grappled. Once activated, it takes 10 minutes to replace the fuses on the cuirass.
