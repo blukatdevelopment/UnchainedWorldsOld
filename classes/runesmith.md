@@ -6,6 +6,7 @@
 # |    / | | | '_ \ / _ \/ __| '_ ` _ \| | __| '_ \    #
 # | |\ \ |_| | | | |  __/\__ \ | | | | | | |_| | | |   #
 # \_| \_\__,_|_| |_|\___||___/_| |_| |_|_|\__|_| |_|   #
+# V 0.0.0                                              #
 #------------------------------------------------------#
 ```
 Some channel the power of the weave by studying symbols. These symbols are known as runes. Once carved, runes contain powerful bindings to the weave that can be invoked to cast spells. The

@@ -6,10 +6,9 @@
 #   | | | '_ \| |/ _ \  _|                          #
 #   | | | | | | |  __/ |                            #
 #   \_/ |_| |_|_|\___|_|                            #
-# Version 1.0.0                                     #
+# V 0.0.0                                           #
 #---------------------------------------------------#                        
 ```
-
 Sneaking, scheming, and plotting the deeds that are better left under the cover of night, you are
 an expert in all things stealth and theft.
 
