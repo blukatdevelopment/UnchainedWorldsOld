@@ -41,8 +41,7 @@ Choose 2 from the following:
 - Religion
 
 ## Starting Equipment
-- Book of Runes
-- Dagger or quarterstaff
+- Heavy Wrench
 
 ```
 +-------+--------------------+----------+------------------------+

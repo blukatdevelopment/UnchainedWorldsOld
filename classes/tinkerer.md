@@ -49,9 +49,12 @@ Select four from the following:
 Your study in engineering has lead you to create prototype devices. These
 devices require careful care and maintenace. You may keepa number of
 contraptions up and running that is equal to your intelligence modifier.
+During a partial or full rest you may construct and retire contraptions.
 
 ### Expertise
-Select 
+Select two general skills that you are proficient with. You gain expertise with
+these skills, and your proficiency bonus is doubled for checks using those
+skills.
 
 ## Contraptions
 
@@ -118,6 +121,3 @@ Many uses. The dominant hand of this pair of gauntlets has a hunter's trap insta
 
 ### Martial Countermeasure System
 Many uses. This cuirass contains several telescopic spikes deployed by miniature blasting charges. When you are grappled, you may use your reaction to fail the grapple and instead activate the cuirass, causing 2d10 piercing damage to the grappler. You may also trigger the cuirass as part of a successful grapple of your own, dealing 2d10 piercing damage to the grappled. Once activated, it takes 10 minutes to replace the fuses on the cuirass.
-
-### Ankle weights of heavy obscurement.
-One use. This 
