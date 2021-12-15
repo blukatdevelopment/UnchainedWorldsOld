@@ -1046,19 +1046,12 @@ from it's center is inside it.
 ### Spell List
 This core rule book provides one spell, but others are provided by supplemental books.
 
-#### Prestidigitation
 ```
-+------------------------------+
-| Prestidigitation             |
-+--------------+---------------+
-| Level        | Cantrip       |
-| Casting Time | 1 Action      |
-| Range        | 10ft          |
-| Components   | V,S           |
-| Duration     | 1 hour        |
-| School       | Transmutation |
-+--------------+---------------+
-```
+Prestidigitation (Cantrip)
+Casting Time: 1 action
+Range: 10 feet
+Components: V, S
+Duration: 1 hour
 This is a novice spell used by beginning spellcasters for practice. When you cast this spell, you create on of the 
 following magical effects within range:
 
@@ -1071,3 +1064,4 @@ following magical effects within range:
 
 If you cast the spell multiple times, up to three non-instantaneous effects can be active at once and can be dismissed each
 effect using an action.
+```

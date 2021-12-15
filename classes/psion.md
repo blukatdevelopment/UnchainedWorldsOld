@@ -124,29 +124,30 @@ of your choice by 1. You cannot increase an ability score past 20.
 - Ice Shield
 - Glowing Filament
 - Splash Freeze
-- Sculpt Ice
+- Sculpt Ice[1]
 ### 2nd
 - Psionic Bridge
 - Water Walk
 - Hypnotic Trigger
-- Red-hot metal
-- Psionic Missiles
+- Red-hot metal[1]
+- Psionic Missiles[1]
 - Flying Weapon
-- Levitate
+- Levitate[1]
 ### 3rd
-- Malevolent GUidance
-- Delusion
+- Malevolent Guidance
+- Delusion[1]
 - Psionic Construct
 - Flight
 ### 4th
 - Ferroform
 - Mind Probe[1]
-- Dreamscape
+- Dreamscape[1]
 - Heart Crush
 [1] - spell is found in the Spell Compendium Volume 1
 ## Spells
 
-### Ice Shield (1st level)
+```
+Ice Shield (1st level)
 Casting Time: 1 bonus action
 Range: Self
 Components: V, S, M(a waterskin's worth of water, which is used to make the shield)
@@ -154,17 +155,10 @@ Duration: 1 minute
 You form water into a shield hooked to one of your arms, then freeze it. You are proficient
 with the shield and gain the normal +2 AC from it. After the duration, it melts. If an attack
 roll misses you by 2 or less, it hits and destroys your ice shield.
+```
 
-### Sculpt Ice (1st level)
-Casting Time: 1 action
-Range: 10 feet
-Components:
-Duration: Instantaneous
-You target a piece of ice that can fit in a 5 foot cube and sculpt it to an arbitrary shape.
-You can shape it in the form of a one-handed martial melee weapon(other than a whip).
-If an ice weapon deals more than 4 damage with a specific attack, it is destroyed.
-
-### Splash Freeze (1st level)
+```
+Splash Freeze (1st level)
 Casting Time: 1 action
 Range: 15 foot cone
 Components: V, S, M(a bucket worth of water, which the spell consumes)
@@ -172,8 +166,10 @@ Duration: You splash creatures within a 15 foot cone with water, then
 flash-freeze the water. The targets must make a constitution saving throw.
 On a failure, they take 2d6 cold damage and are restrained by ice until
 the start of your next turn. On a success, they take half as much cold damage.
+```
 
-### Glowing Filament (1st level)
+```
+Glowing Filament (1st level)
 Casting Time: 1 action
 Range: 5ft
 Components: V, S, M (a tiny piece of metal such as a spring or screw)
@@ -182,8 +178,10 @@ You suspend a small piece of metal in the air within 5ft of you and heat it unti
 The glowing filament produces dim light in a 20 foot radius. You may end the spell by flinging
 the filament at a target. When you do so, make a spell attack. The filament deals 1d4 fire damage
 and ignites flammable objects that are not worn nor carried.
+```
 
-### Propelling Flame (1st level)
+```
+Propelling Flame (1st level)
 Casting Time: 1 action
 Range: 60ft
 Components: V, S
@@ -193,8 +191,10 @@ All creatures within 5ft of you must succeed a dexterity saving throw or take
 fire damage equal to the amount rolled on your psionic die. Until the start of 
 your next turn, you gain a flying speed of 60ft and movement does not provoke 
 an attack of opportunity.
+```
 
-### Psionic Lasso (1st level)
+```
+Psionic Lasso (1st level)
 Casting Time: 1 action
 Range: 60ft
 Components: V, S
@@ -206,8 +206,10 @@ making an acrobatics or athletics check. If you succeed, the enemy is grappled.
 The psionic grapple lasts one minute and requires concentration. If a creature 
 grappled this way resists, you must repeat the check by rolling your psionic 
 die again.
+```
 
-### Mind Blade (1st level)
+```
+Mind Blade (1st level)
 Casting Time: 1 bonus action
 Range: self
 Components: V, S
@@ -217,8 +219,10 @@ hand and your psionic energy manifests to create an invisible blade of force.
 You are proficient with the mind blade, which lasts for up to one minute and 
 requires concentration. If you make an attack with it on this turn, you may add 
 the amount rolled on your psionic die to your first attack roll.
+```
 
-### Missile Wall (1st level)
+```
+Missile Wall (1st level)
 Casting Time: Reaction, when a ranged attack targets you.
 Range: Self
 Components: S
@@ -232,8 +236,10 @@ you may send each hanging projectile at a target of your choice. Make a ranged
 spell attack for each projectile, which does 1d4 piercing damage on a hit.
 From Higher Levels: You may cast from higher levels. When you do, the total
 of the dice rolled are added to the amount of damage reduction.
+```
 
-### Force Field (1st level)
+```
+Force Field (1st level)
 Casting Time: 1 action
 Range: Touch
 Components: V
@@ -242,8 +248,11 @@ You use your action to project a field of psionic force around one creature you
 touch. Until the start of your next turn, the creature is resistant to force
 damage and spells that deal half damage on a failed save instead deal no damage
 on a success and half damage on a failed save.
+```
 
-### Pyro-osmosis (1st level)
+
+```
+Pyro-osmosis (1st level)
 Casting Time: 10 minutes
 Range: Touch
 Components: V, S, M (a flame, which is consumed)
@@ -255,8 +264,10 @@ by one size for the duration. If your psionic die rolls a one, then you recieve
 1 fire damage in addition to the normal effects of rolling a 1 on your psionic
 die. Once you cast this spell, you cannot cast it again until you rest for 8
 hours.
+```
 
-### Psionic Bridge (2nd level)
+```
+Psionic Bridge (2nd level)
 Casting Time: 1 action
 Range: 30ft
 Components: S
@@ -264,8 +275,10 @@ Duration: Concentration, up to 1 minute
 You use your action to create a 30ft long invisible bridge of psionic force. 
 One end may be up to 30ft higher than the other. This bridge lasts one minute
 and requires concentration.
+```
 
-### Hypnotic Trigger (2nd level)
+```
+Hypnotic Trigger (2nd level)
 Casting Time: 1 minute
 Range: 120 feet
 Components: V, S
@@ -277,31 +290,10 @@ target may make an intelligence saving throw against your spell DC.
 This spell ends if you or the target move out of range, and after the task has been triggered.
 If the Task would normally consume an action or bonus action, it instead consumes a reaction.
 
-### Red-hot Metal (2nd level)
-Casting Time: 1 action
-Range: 60 feet
-Components: V, S
-Duration: Concentration, up to 1 minute
-You cause one piece of metal that you can see within range to heat until it faintly glows.
-Some targets:
-- one piece of worn armor, which deals 1d6 fire damage to the wearer for each round the spell is active
-- the end of a martial melee weapon made of metal, which causes it to deal an extra 1d6 fire damage while the spell is active
-- a metal object that is held, causing the holder to drop it to succeed a wisdom save to hold onto(they may willingly fail), and receive 1d6 fire damage if they succeed
-- a metal object next to one or more flammable objects, which ignites them
+```
 
-### Psionic Missiles (2nd level)
-Casting Time: 1 action
-Range: 120 feet
-Components: V, S, M (up to six pieces of ammunition)
-Duration: You levitate up to six pieces of ammunition, which you propel 
-towards one or more targets. Make an ranged spell attack for each piece
-of ammunition, which deals 1d4+1 piercing damage upon a hit. If all
-pieces ammunition target the same creature, you may forego the attack
-rolls to instead force the target to make a dexterity saving throw. 
-When you do this, the target receives up to 6d4+6 damage on a failure,
-or half as much on a success.
-
-### Flying Weapon (2nd level)
+```
+Flying Weapon (2nd level)
 Casting Time: Bonus action
 Range: 60 feet
 Components: V, S, M(a melee weapon)
@@ -315,17 +307,11 @@ another attack. A creature may make a strength check against your spell DC to
 restrain the flying weapon. If the flying weapon is restrained, you may force
 the creature to succeed a strength save against your spell DC or lose control
 of the weapon and receive 1d4 damage of the weapon's type.
+```
 
-### Levitate (2nd level)
-Casting Time: 1 action
-Range: 120 feet
-Components: V, S
-Duration: Concentration, up to 1 minute
-You cause an object or creature that is large or smaller to levitate. When levitated, the creature's
-movement is 0. You may move it up to 15 feet. On subsequent turns during the duration, you may move the 
-creature 15 feet.
 
-### Water Walk (2nd level)
+```
+Water Walk (2nd level)
 Casting Time: 1 action
 Range: Self
 Components: V
@@ -334,8 +320,11 @@ You use your action to seal a pocket of air beneath each foot using psionic
 energy. You may walk across liquids such as water, lava, and acid as if they 
 were a solid surface without touching them. This ability requires concentration
 and lasts for up to one minute.
+```
 
-### Malevolent Guidance (3rd level)
+
+```
+Malevolent Guidance (3rd level)
 Casting Time: 1 action
 Range: 60 feet
 Components: V
@@ -349,28 +338,10 @@ performing an attack on themself or another creature, shoving another creature,
 casting a spell, or moving up to their full movement speed and provoking attacks 
 of opportunity. You must be aware of the target's ability (such as their ability
 to cast a spell) to invoke it.
+```
 
-### Flight (3rd level)
-Casting Time: 1 action
-Range: Self
-Components: V, S
-Duration: Concentration, up to 10 minutes
-You gain a 60 foot flying speed for the duration.
-
-### Delusion (3rd level)
-Casting Time: 1 action
-Range: 30 feet
-Components: V, S
-Duration: Concentration, up to 1 minute
-You target one creature and create the delusion of an entity that must fit inside
-a 10ft cube centered on a point within range. The delusion can seem to make sound, light,
-or cause physical contact. The delusion has an AC of 10, 1 hit point. On any turn after
-the first, you may use your bonus action to move the delusion up to 30 feet and perform an
-attack on the target. When you attack with the delusion, make a spell attack roll. On a hit,
-the delusion deals 1d6 psychic damage. An intelligence check contesting your spell DC allows
-the target to determine that the true nature of the delusion.
-
-### Psionic Construct (3rd level)
+```
+Psionic Construct (3rd level)
 Casting Time: 1 action
 Range: 60 feet
 Components: V, S, M(a pile of objects capable of making up a creature)
@@ -381,16 +352,20 @@ It's strength and dexterity are the same as your spellcasting ability.
 - Cloth, paper, or soft materials: 10 AC
 - wood: 16 AC
 - Metal: 18 AC
+```
 
-### Ferroform (4th level)
+```
+Ferroform (4th level)
 Casting Time: 1 action
 Range: self
 Components: V, S, M(a pile of iron or steel objects that, combined, roughly fills a 5-foot cube)
 Duration: Concentration, up to 1 minute
 You levitate multiple metal objects to gather around your body and provide a protective layer.
 For the duration, your AC is 20 and you have have resistance to non-magical physical damage.
+```
 
-### Heart Crush (4th level)
+```
+Heart Crush (4th level)
 Casting Time: 1 action
 Range: 60 feet
 Components: V, S
@@ -398,16 +373,4 @@ Duration: Instantaneous
 You target one creature that has a heart that you can see and attempt to crush their heart. They must make 
 a constitution saving throw. On a failure they receive 8d6 force damage, and on a success they take half 
 as much.
-
-### Dreamscape (4th level)
-Casting Time: 1 hour
-Range: 1 mile
-Components: V, S
-Duration: Concentration, up to 8 hours
-You dream of an environment of your choosing that extends in a one mile radius of yourself.
-You and any sleeping creatures within range enter this dreamscape. Spellcasting and magic abilities
-do not work inside the dreamscape. If any creature, including you, is killed in the dream, you
-may not wake up until Greater Restoration or an equivalent magical ritual is conducted to restore
-your mind. You may dismiss this spell using an action. When the dream ends, all participants wake up
-remembering it. You may make alterations to the dreamscape (such as changing your form or the environment)
-by succeeding a spellcheck against a DC set by the GM based on the attempted alteration.
+```

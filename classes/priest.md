@@ -113,10 +113,10 @@ acts. Domain spells do not count against the number of spells you may prepare.
 +-----------+-----------------------+------------------------+----------------------------------------+
 |  Domain   |     Honorable Act     |     Forbidden Act      |                Spells                  |
 +-----------+-----------------------+------------------------+----------------------------------------+
-| Light     | Lighting a new shrine | Leaving a shrine unlit | Light, Dazzling Light, Bend Light      |
-| Life      | Blessing an newborn   | Killing a humanoid     | Spare the dying, Mana, Revivify        |
+| Light     | Lighting a new shrine | Leaving a shrine unlit | Light[1], Dazzling Light, Bend Light   |
+| Life      | Blessing an newborn   | Killing a humanoid     | Spare the dying[1], Mana, Revivify     |
 | Nature    | Planting a tree       | Cutting a tree         | Thornwhip[1], Vine Suit, lightning bolt|
-| Knowledge | Teaching someone      | Keeping a secret       | Eye stone, Identify, Mind Probe[1]     |
+| Knowledge | Teaching someone      | Keeping a secret       | Eye stone[1], Identify, Mind Probe[1]  |
 |           | for an hour           |                        |                                        |
 | Justice   | Provide Judgement     | Fail to fight bad acts | Chastise, Smite, confess               |
 |           | for a crime           | of others              |                                        |
@@ -184,7 +184,7 @@ creature.
 ## Spell List
 
 ### Cantrip
-- Mending
+- Mending[1]
 - Sacred Flame
 - Guidance
 ### 1st
@@ -194,7 +194,9 @@ creature.
 - Shield of Faith
 - Calm Emotions
 - Command
+- Protection from good and evil[1]
 ### 2nd
+- Insight Arrow
 - Radiant Weapon
 - Holy Weapon
 - Bird Friend
@@ -202,57 +204,36 @@ creature.
 - Sacrifice
 - Kindness
 - Confession
+- Riddle[1]
 ### 4th
 - Miracle
 ### 5th
 - Judgement
-- Curse
+- Curse[1]
 - Angelic Transformation
+[1] - spell is found in the Spell Compendium Volume 1
 
 ## Spells
 
-
 ```
-Chastise (Cantrip)
+Guidance (Cantrip)
 Casting time: 1 action
 Range: 30 feet
 Components: V
+Duration: 1
+You call out a phrase of caution, encouragement, or comfort to one target that
+can hear and understand you within range. Within the duration, they may add 
+1d4 to one ability check, skill check, or saving throw, ending the spell.
+```
+
+```
+Sacred Flame (Cantrip)
+Casting time: 1 action
+Range: 60 feet
+Components: V, S
 Duration: Instantenous
-You call out an evil that the targeted creature has made. They must succeed a
-wisdom saving throw or receive 1d4 necrotic damage.
-```
-
-
-```
-Light (Cantrip)
-Casting time: 1 action
-Range: Touch
-Components: V, S
-Duration: 1 hour
-You touch an object that is at most 3 feet on one side. It emits bright light
-within 15 feet, and dim light for an additional 15 feet.
-```
-
-```
-Spare The Dying (Cantrip)
-Casting time: 1 action
-Range: Touch
-Components: V, S
-Duration: Instantaneous
-You touch one creature that is dying, and they are instantly stabilized.
-Once you have used this spell on a creature, you may not use it on them again
-until you finish a short rest.
-```
-
-```
-Eye Stone (Cantrip)
-Casting time: 1 action
-Range: Touch
-Components: V, S, M (A pebble)
-Duration: Concentration, 1 minute
-You hold a stone in your hand and it forms into an eye that you can see through.
-If the eye stone is ever further than 120 feet from you, the spell ends and
-the eye stone reverts back.
+A radiant flame appears on a target within range that you can see. They must
+succeed on a dexterity saving throw or take 1d6 radiant damage.
 ```
 
 ```
@@ -528,39 +509,6 @@ are judging them for. Each creature can be judged for each sin only once.
 | Forbidden Act(Deity specific) | 3d8            |
 | Deceive, Cheat, or Steal      | 1d8            |
 +-------------------------------+----------------+
-```
-
-```
-Curse (5th)
-Casting time: 1 action
-Range: 30 feet
-Components: V, S
-Duration: Instantaneous
-You declare that a creature within range that can hear and understand you is cursed.
-They must succeed a wisdom saving throw, or become bestowed with a curse, the
-permanent remedy for the curse, and a temporary remedy which lasts 1d4 hours.
-Roll for the curse, remedy, and temporary remedy.
-1d6 Curse
-1   Cannot directly kill another humanoid.
-2   Can no longer speak.
-3   Become blind.
-4   Cannot refuse a request, unless it would immediately harm them.
-5   Can no longer use magic of any kind.
-6   Standing in direct sunlight for 6 seconds causes 6d8 radiant damage.
-1d6 Remedy
-1   Sever one of its limbs.
-2   Receive a kiss of true love.
-3   Give away all of their material posessions.
-4   Kill the one you love most.
-5   Earn forgiveness from the caster.
-6   Earn forgiveness from the caster's deity.
-1d6 temporary remedy
-1   Sacrifice 10GP worth of meat in a fire.
-2   Profess your love to a stranger for the first time without any warning.
-3   Pour out a 100GP bottle of wine onto dirt.
-4   Make one unique confession to an audience.
-5   Drink a shot of griffin tears.
-6   Rub honey on yourself and lay on top of an ant hill, taking 1d4 piercing damage.
 ```
 
 ```
