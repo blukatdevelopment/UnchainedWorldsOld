@@ -147,6 +147,7 @@ is dismissed with an action.
 - Shield
 ### 2nd
 - Blink Step
+- Consort With Devils
 - Eyeball Zone
 - Hypnotic Trigger[1]
 - Red-hot metal[1]
@@ -157,7 +158,7 @@ is dismissed with an action.
 - Psionic Missiles[1]
 - suggestion
 ### 3rd
-- Create Undead Varmint Swarm
+- Create Undead Vermin Swarm
 - Shadow Magic
 - Delusion[1]
 - Flight[1]
@@ -220,7 +221,7 @@ A sherical portal opens around you, consuming you. In that same instant a spheri
 ```
 
 ```
-Consort With Devils (2st)
+Consort With Devils (2nd)
 Casting Time: 1 action
 Range: self
 Components: V, S, M(a book written in a fiendish language)
@@ -266,14 +267,14 @@ You suggest that one creature that can hear and understand you should perform a 
 ```
 
 ```
-Create Undead Varmint Swarm (3rd level)
+Create Undead Vermin Swarm (3rd level)
 Casting Time: 10 minutes
 Range: 60 feet
 Components: V, S, M(A piece of moldy cheese)
 Duration: 
 You draw a rune on the ground in an area where rodents, cats, possums, raccoons, and other similar creatures have died. Once activated, the rune glow bright green and a green mist is emitted. They rise and gather to form a horde, a large swarm of tiny creatures.
 
-The swarm has 1d20+20 hit points, 10 AC, and has resistance to non-magical physical damage. The swarm can pass through a tiny space and occupy the same space as another creature. When it attacks a creature, the creature must make a dexterity saving throw, taking 3d6 piercing damage on a failure and half as much on a success.
+The swarm has 1d20+20 hit points, 10 AC, 30 movement speed, 30 climbing speed, and has resistance to non-magical physical damage. The swarm can pass through a tiny space and occupy the same space as another creature. When it attacks a creature, the creature must make a dexterity saving throw, taking 3d6 piercing damage on a failure and half as much on a success.
 
 The swarm listens to your orders for the duration. You may cast this spell again before the duration ends to maintain control of up to three swarms.
 ```
