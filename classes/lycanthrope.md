@@ -117,8 +117,8 @@ DC 15 wisdom saving throw or become frightened until the start of your next
 turn. Once you use this ability, you may not use it again until your next shift.
 
 #### Bonus proficiencies
-At fourth level while in this form, you gain proficiency with shortswords and
-longswords.
+At fourth level while in this form, you gain proficiency with simple weapons,
+shortswords, and longswords.
 
 ### Wererat
 
@@ -174,4 +174,5 @@ bludgeoning damage.
 
 #### Bonus proficiencies
 At level four, you learn to use weapons while in your lycanthrope form.
-While in this form, you are proficient with greataxes, greatswords, and warhammers.
+While in this form, you are proficient with light weapons,
+greataxes, greatswords, and warhammers.

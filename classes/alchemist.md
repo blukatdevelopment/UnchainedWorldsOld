@@ -196,7 +196,7 @@ Roll a 1d20 and add your intelligence modifier and proficiency bonus.
 | 10    | Bullseye light potion      |
 | 11    | Strong Acid                |
 | 12-15 | Dragon Salsa               |
-| 16-20 | Stone Skin Syrup           |
+| 16    | Stone Skin Syrup           |
 | 17    | Potion of shrinking        |
 | 18    | Doppelganger's brew        |
 | 19    | Beast folk's Ale           |

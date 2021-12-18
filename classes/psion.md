@@ -16,7 +16,7 @@ difference, and it is unclear whether you will ever meet someone
 similarly-minded.
 
 ## Proficiencies
-Armor: Light, Medium, Shield
+Armor: Light, Shield
 Weapons: simple weapons
 Saving Throws: Wisdom, Charisma
 

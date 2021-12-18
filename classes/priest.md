@@ -13,6 +13,11 @@ You live as an example to all that share your faith. In service of a deity,
 you live by a strict code of conduct and leverage your piety to wield your
 deity's magic.
 
+## Proficiencies
+Armor: Light, Medium, Shield
+Weapons: simple weapons, 
+Saving Throws: Wisdom, Charisma
+
 ## Skills
 Choose two from the following:
 - Religion
@@ -275,7 +280,7 @@ as one pound of food.
 
 ```
 Vine Suit (1st)
-Casting time:
+Casting time: 1 action
 Range: Self
 Components: V, S, M(nearby plants)
 Duration: 1 hour
@@ -391,7 +396,7 @@ of 16 and 1 hit point. It disappears once it tells you about what it saw or the 
 Confession (3rd)
 Casting time: 1 action
 Range: 30 feet
-Components: V, S, M
+Components: V, S
 Duration: Concentration, up to 1 minute
 You speak a command word to a creature, and it must succeed a wisdom saving
 throw or begin making confessions for the duration. The creature must only
@@ -465,15 +470,16 @@ Components: V, S, M (A gem worth 100GP, which is consumed)
 Duration:
 You speak a command word while holding a gem, and it shatters into a cloud of
 mist. You then touch one creature that has died in the last ten minutes, and the
-mist enters their nostrils or otherwise seeps into them. Roll a 1d20. On a 1,
-this spell fails.
+mist enters their nostrils or otherwise seeps into them. Roll a 1d20. On a 1, or
+if this creature has been dead for more than ten minutes, this spell fails. If
+it succeeds, the creature lives with a mark of your deity on their forehead.
 ```
 
 ```
 Miracle (4th)
 Casting time: 1 action
 Range: 120 feet
-Components: 
+Components: V, S, M(holy book)
 Duration: Instantaneous
 You pray to your deity for some form of divine intervention in a moment of great need.
 Roll 1d4. On an odd result, roll another to figure out which of the following happens:
