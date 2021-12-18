@@ -100,7 +100,7 @@ according to the “psionic die” column in the psion table.
 When you cast a spell of first or higher level, you roll a number of dice equal
 to the spell’s level. If any of these dice roll a 1, your die decreases one 
 size. When you roll a 1 on a D2, you can no longer cast spells this way until 
-after a long rest. You can cast a spell of a level no higher than half the 
+after a full rest. You can cast a spell of a level no higher than half the 
 current size of your psionic die. 
 
 #### Spells Known

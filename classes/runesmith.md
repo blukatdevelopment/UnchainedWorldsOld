@@ -59,7 +59,7 @@ of the spell you are copying, you require one hour of time and 10GP of paper, in
 you gain subsequent levels, you may learn one spell from the spell list at no cost.
 
 ### Runesmithery
-You've practiced with runes and can now carve them into flat stones during a long rest. During a long rest,
+You've practiced with runes and can now carve them into flat stones during a partial rest. During a partial rest,
 you may inscribe stones with the runes of a particular spell. Each rune you carve requires 2 silver pieces
 worth of materials needed to make arcane ink. The number of runes you may have active at any time can be 
 found in the runes column for your level. A runestone containing a second level spell will require two runes,

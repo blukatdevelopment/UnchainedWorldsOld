@@ -221,11 +221,21 @@ creature.
 ## Spells
 
 ```
+Chastise (Cantrip)
+Casting time: 1 action
+Range: 60 feet
+Components: V
+Duration: Instantaneous
+You verbally chastise the ill behavior of one creature within range that can
+hear you. They must succeed a wisdom saving throw or receive 1d4 psychic damage.
+```
+
+```
 Guidance (Cantrip)
 Casting time: 1 action
 Range: 30 feet
 Components: V
-Duration: 1
+Duration: 1 minute
 You call out a phrase of caution, encouragement, or comfort to one target that
 can hear and understand you within range. Within the duration, they may add 
 1d4 to one ability check, skill check, or saving throw, ending the spell.
@@ -317,6 +327,9 @@ Components: S
 Duration: Instantaneous
 You touch one creature and grant them healing energy. They restore hit points
 equal to 1d10 plus your spellcasting modifier.
+At higher levels:
+When cast as a spell of level 2nd or higher, the spell heals an additional 1d10
+for each spell level above 1st.
 ```
 
 ```
