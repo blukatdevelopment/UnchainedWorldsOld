@@ -37,12 +37,12 @@ Choose 2 from the following:
 |     1 |                  0 | 1d4      | +1                |     0 |           1 | Runebook                  |
 |     2 |                300 | 1d4      | +1                |     1 |           1 | Runesmithery, Runecasting |
 |     3 |                900 | 1d4      | +2                |     2 |           1 |                           |
-|     4 |               1200 | 2d4      | +2                |     4 |           2 | Runecasting technique     |
+|     4 |               1200 | 2d4      | +2                |     4 |           2 | Runecasting Style         |
 |     5 |               2700 | 2d4      | +2                |     5 |           2 | Ability Score Increase    |
 |     6 |               5000 | 2d4      | +2                |     6 |           3 |                           |
-|     7 |               7500 | 3d4      | +3                |     8 |           3 | Runecasting technique     |
+|     7 |               7500 | 3d4      | +3                |     8 |           3 | Runesmithing Technique    |
 |     8 |              10000 | 3d4      | +3                |     9 |           4 |                           |
-|     9 |              15000 | 3d4      | +4                |    10 |           4 | Runecasting technique     |
+|     9 |              15000 | 3d4      | +4                |    10 |           4 | Runecasting Style         |
 |    10 |              20000 | 3d4      | +4                |    12 |           5 | Ability Score Increase    |
 +-------+--------------------+----------+-------------------+-------+-------------+---------------------------+
 ```
@@ -61,10 +61,10 @@ you gain subsequent levels, you may learn one spell from the spell list at no co
 ### Runesmithery
 You've practiced with runes and can now carve them into flat stones during a partial rest. During a partial rest,
 you may inscribe stones with the runes of a particular spell. Each rune you carve requires 2 silver pieces
-worth of materials needed to make arcane ink. The number of runes you may have active at any time can be 
-found in the runes column for your level. A runestone containing a second level spell will require two runes,
-a third level spell will require three runes, and so on. A runestone with a single rune on it may contain
-four copies of the same cantrip spell.
+worth of materials needed to make arcane ink. The number of runes you may have active across all your rune stones
+at any time can be found in the runes column for your level. A runestone containing a second level spell will
+require two runes, a third level spell will require three runes, and so on. A runestone with a single rune on it
+may contain four copies of the same cantrip spell.
 
 ### Runecasting
 When holding a rune stone in your hand, you may use an action to release the stored spell from the stone.
@@ -75,69 +75,71 @@ consumed after the spell is cast.
 You may increase one ability score by 2, or you can increase two ability scores of your choice by 1.
 You cannot increase an ability score past 20.
 
-### Runecasting technique
-Choose one runecasting technique from the runecasting techniques section below.
+### Runecasting Style
+When you reach 4th level, you define your style for the rest of your career.
 
-## Runecasting techniques
-When you gain a runecasting technique, you may choose from these options.
+#### Spell Hoarder
+You have an insatiable appetite for spellcasting, and you are constantly reading
+through the literature. You learn an extra spell, and each time you level up from
+now on you may learn one additional spell.
 
-### Remote Runecasting
-You have learned to release a spell stored in a rune from a distance. This distance increases when
-you reach levels 6 and 8. The spell is centered on the rune stone, and cannot target a creature if
-doing so involves an attack roll.
+#### Rune Hoarder
+Your runes are made with a special, more expensive technique that is less
+taxing to your magical energy. As such, you may smith a number of additional
+runes equal to your intelligence modifier plus your proficiency bonus. Your
+runes now cost 5 silver to produce, instead of 2.
 
-```
-+-------+----------+
-| Level | Distance |
-+-------+----------+
-|     4 | 30ft     |
-|     6 | 120ft    |
-|     8 | 1 mile   |
-+-------+----------+
-```
+#### Cantrip Savant
+You have learned to smith new cantrip runes that can be invoked endlessly.
+Such a rune requires 5 gold pieces to smith.
 
-### Rune arrows
-You have learned to inscribe runes into stone arrowheads. On impact, the spell stored in a rune
-arrow is cast, centered on the arrow or targeting the creature or object that is impacted.
+#### Rune Artisan
+You have learned to smith advanced rune stones. Each time you carve runes onto a
+rune stone, you may carve an additional rune to smith an artisinal rune stone
+with one of the following properties:
+- Upcast - The spell is cast as if from two levels higher.
+- Blast - If the spell deals damage, you may reroll the the damage and choose the highest.
+- Guided - If this spell involves one or more spell attacks, they are made with advantage.
+- Surge - If the spell forces targets to make a saving throw, they must make it with disadvantage.
+- Remote - This rune can be invoked from a range of up to 1 mile. Ranged spells that target a point select the runestone's position, or select a random target within range if they target a creature.
 
-### Elemental Blades
-You have learned to inscribe martial runes into blades. Select the damage type of a spell you know.
-When you use your action to touch this blade and activate the runes, the blade is imbued with 
-this element. For the next minute, attacks with this blade have double the damage dice. The extra 
-dice deal the selected damage type. THe cost in runes is shown below.
+### Runesmithing Technique
+When you reach 7th level, you learn one of the following techniques.
 
-```
-+-----------+-----------------------+
-| Rune cost |        Weapons        |
-+-----------+-----------------------+
-|         2 | Sickle, dagger        |
-|         4 | Shortsword, Longsword |
-|         6 | Greatsword            |
-+-----------+-----------------------+
-```
+#### Cantrip Ammunition
+When you craft a cantrip that deals damage, you may instead craft four pieces of
+cantrip ammunition. Cantrip ammunition is fired as part of a ranged attack, and
+it's effect takes place on impact. Cantrips that require saving throws still
+require those same saving throws.
 
-### Armor Runes
-You learn to inscribe runes into medium and heavy armor for spells that target a creature.
-Each spell inscribed this way requires twice the normal number of runes. When you use your action 
-to touch the piece of armor and cast one of it's inscribed spells, you do not need to concentrate 
-on that spell. You may have multiple effects active at one time by casting this way.
+#### Spell Armor
+You may carve runes on pieces of heavy armor in order to stores spell in them.
+When the wearer speaks a command word, the spell activates, targeting the
+wearer if the range is self or touch. The cost in runes for a spell carved
+on armor is double.
 
-### Everrunes
-You have learned to carve runes that are not destroyed when they are cast. Instead, such a rune expends
-it's magical energy and requires an additional 6 seconds to recharge. Choose three cantrips from the
-runesmith spell list and add them to your runebook. You may choose a cantrip to prepare an everrune.
-Creating a primitive everrune requires 4 runes, which are not restored on a long rest until the everrune
-is dismissed with an action.
+#### Spell Blade
+You may carve runes on blades in order to store spells in them. The spell must
+target a creature with an attack roll or spell save. The next time the blade
+hits a creature, the spell hits the creature. If the creature needed to make
+a saving throw, they automatically fail it. A spell blade takes twice as many
+runes as a normal rune stone.
+
+### Runecasting Style
+When you reach 9th level, you may select one additional runecasting style that
+you did not select at 4th level.
 
 ## Runesmith Spell List
 
 ### Cantrips
+- Firebolt
 - Prestidigitation[0]
 - Light[1]
 - Spare the dying[1]
 - Thornwhip[1]
 - Eye Stone[1]
 - Mending[1]
+- Minor Illusion
 ### 1st
 - Self deception
 - Sculpt Ice[1]
@@ -145,6 +147,8 @@ is dismissed with an action.
 - Protection from good and evil[1]
 - Magic Missile
 - Shield
+- Hasty Retreat
+- Instant Athlete
 ### 2nd
 - Blink Step
 - Consort With Devils
@@ -157,20 +161,25 @@ is dismissed with an action.
 - Insight Arrow[1]
 - Psionic Missiles[1]
 - suggestion
+- Hold Person
 ### 3rd
+- Cause Fear
 - Create Undead Vermin Swarm
 - Shadow Magic
 - Delusion[1]
 - Flight[1]
 - Lightning Bolt
 - Riddle[1]
+- Silent Prance
 ### 4th
+- Stone skin
 - Fireball
 - Mind Probe[1]
 - Summon Devil
 - Dreamscape[1]
 - Polymorph
 ### 5th
+- Firewall
 - Chain Lightning
 - Conjure Demon
 - Curse[1]
@@ -181,7 +190,25 @@ is dismissed with an action.
 
 ## Spells
 
+```
+Firebolt (Cantrip)
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Instantaneous
+Make a ranged spell attack. On a hit, the target receives 1d10 fire damage.
+```
 
+```
+Minor Illusion (Cantrip)
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: 1 hour
+You create a an illusion that fits inside a 5ft cube. It may take any shape or
+form, and may faintly glow. If you cast this spell again to create another
+illusion, your previous illusion fades.
+```
 
 ```
 Magic Missile (1st)
@@ -200,6 +227,29 @@ Range: self
 Components: S
 Duration: 1 round
 A shimmering transluscent dome of force appears around you. Your AC increases by +5, and if you are targeted by Magic Missile, you are not hit by any of the darts. If even with this +5 bonus, you would be hit by the attack, you cannot cast this spell. The effect lasts until the start of your next turn.
+```
+
+```
+Instant Athlete (1st)
+Casting Time: 1 action
+Range: touch
+Components: S
+Duration: Concentration, up to 1 minute
+You touch one creature, and they suddenly feel a heightened sense of athleticism.
+Their speed increases by 10 feet, and they have advantage on athletic and
+acrobatics checks for the duration.
+```
+
+
+```
+Hasty Retreat (1st)
+Casting Time: 1 bonus action
+Range: touch
+Components: S
+Duration: 1 minute
+You touch one creature, and as a reaction they may take the dash action and use
+the gained movement. For the duration, they may use their bonus action in order
+to use the dash action.
 ```
 
 ```
@@ -256,7 +306,6 @@ Duration: 1 hour
 You extend your thumb, pinky, and index fingers, but press your other two fingers to your palm. Sticky spider silk sprays from your wrist. You may build a web over a 20 foot by 20 foot plane, provided it touches a solid surface on at least two sides. Any creature that comes into contact with the webs must succeed on a strength saving throw or become restrained. They may repeat the saving throw before each of their following turns. If the web is lit on fire, it will burn rapidly, dealing 10 fire damage to creatures within its space.
 ```
 
-
 ```
 Suggestion (2nd)
 Casting Time: 1 action
@@ -264,6 +313,21 @@ Range: 60 feet
 Components: V
 Duration: Concentration, up to 8 hours
 You suggest that one creature that can hear and understand you should perform a specific task. Te creature must succeed a wisdom saving throw, or perform this task for the duration until they complete it. If the task would obviously harm the creature (such as jumping out a window), if you are fighting the creature, or if the creature takes damage, the spell ends immediately.
+```
+
+```
+Hold Person(2nd)
+Casting Time: 1 action
+Range: 60 feet
+Components: S
+Duration: Concentration, up to 1 minute
+You hold out your hand toward one humanoid in range and squeeze. The creature
+must make a wisdom saving throw or is restrained. Each turn, they may remake
+their saving throw.
+At higher levels: When cast as a 3rd or higher level spell, the target receives
+2d6 bludgeoning damage as you choke them, and  you may use your action on
+subsequent turns to continue choking them, dealing 1d6 bludgeoning damage for
+each level above third.
 ```
 
 ```
@@ -277,6 +341,26 @@ You draw a rune on the ground in an area where rodents, cats, possums, raccoons,
 The swarm has 1d20+20 hit points, 10 AC, 30 movement speed, 30 climbing speed, and has resistance to non-magical physical damage. The swarm can pass through a tiny space and occupy the same space as another creature. When it attacks a creature, the creature must make a dexterity saving throw, taking 3d6 piercing damage on a failure and half as much on a success.
 
 The swarm listens to your orders for the duration. You may cast this spell again before the duration ends to maintain control of up to three swarms.
+```
+
+```
+Cause Fear (3rd)
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+You target one creature who must make a wisdom saving throw. On a failure, 
+fear runs through them and they are frightened for the duration.
+```
+
+```
+Silent Prance (3rd)
+Casting Time: 1 action
+Range: touch
+Components: V, S, M(a piece of glass made by a lightning strike)
+Duration: Concentration, up to 1 hour
+You touch up to three creatures. For the duration, any stealth checks they make
+have a +10 bonus.
 ```
 
 ```
@@ -304,6 +388,16 @@ Converge: You move several shadows onto a creature's face, blinding it.
 ```
 
 ```
+Stoneskin (4th)
+Casting Time: 1 action
+Range: touch
+Components: S, M (a smooth stone)
+Duration: Concentration, 1 minute
+Your skin transforms into stone for the duration, and you are resistant to
+non-magical physical damage, fire damage, and lightning damage.
+```
+
+```
 Fireball (4th)
 Casting Time: 1 action
 Range: 120 feet
@@ -320,6 +414,15 @@ Components: V, S, M(an object with a devil's name written on it)
 Duration: Instantaneous
 You speak the name of a devil and throw the object to a point within range.
 It explodes into a portal from which a devil emerges. Your relationship with the devil decides whether it is hostile, neutral, or friendly. If you have not made any deals with this devil, it will likely propose one based on your mutual interests.
+```
+
+```
+Polymorph (4th)
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S, M(A butterfly coccoon)
+Duration: Instantaneous
+You target a creature in range that you can see. If they are unwilling, they may make a wisdom saving throw to resist the spell, which ends the spell on a successful saving throw. You name a kind of beast or humanoid that you have seen, and the targeted creature is transformed into that kind of creature. Your stat block is replaced by that of the chosen kind of creature, except for your Intelligence, Wisdom, and Charisma, which are retained. If the creature dies in their transformed state, they remain dead. A creature may make a wisdom saving throw to attempt to revert. If they fail, the DC of the save raises by +5 for the next hour.
 ```
 
 ```
@@ -366,44 +469,18 @@ If the creature fails, you may choose to chain the lightning. If you do, a rando
 ```
 
 ```
-Polymorph (4th)
+Firewall (5th)
 Casting Time: 1 action
-Range: 30 feet
-Components: V, S, M(A butterfly coccoon)
-Duration: Instantaneous
-You target a creature in range that you can see. If they are unwilling, they may make a wisdom saving throw to resist the spell, which ends the spell on a successful saving throw. You name a kind of beast or humanoid that you have seen, and the targeted creature is transformed into that kind of creature. Your stat block is replaced by that of the chosen kind of creature, except for your Intelligence, Wisdom, and Charisma, which are retained. If the creature dies in their transformed state, they remain dead. A creature may make a wisdom saving throw to attempt to revert. If they fail, the DC of the save raises by +5 for the next hour.
-```
+Range: 120 feet
+Components: V, S, M(a bit of copper wire and a pinch of sulfur)
+Duration: Concentration, 1 hour
+You create a roaring flame wall. One side of the wall produces a firestorm, and
+any creature that starts it's turn within 10 feet of the wall must make a
+dexterity saving throw, receiving 4d6 fire damage on a failure or half as much
+as a save. If a creature is inside the flame wall, the damage increases to 
+8d6.
 
-```
-Casting Time:
-Range:
-Components:
-Duration:
-```
-
-```
-Casting Time:
-Range:
-Components:
-Duration:
-```
-```
-Casting Time:
-Range:
-Components:
-Duration:
-```
-
-```
-Casting Time:
-Range:
-Components:
-Duration:
-```
-
-```
-Casting Time:
-Range:
-Components:
-Duration:
+You can either make the wall take the form of a 60 foot wide, 60 foot high, 10
+foot thick wall facing away from you. Alternately, you can make the wall 
+surround a 20ft square, facing outwards.
 ```

@@ -127,7 +127,7 @@ Every character has a proficiency bonus which increases with level progression. 
 Specific skills define a very narrow action, like agriculture, tracking, or poetry. They are not defined exhaustively, and can be added by supplementary books.
 
 ### General Skills
-Some skills are general in nature, and may apply to a wide variety of situations. When a feat, lineage, or class grants you proficiency in a skill, it will likely be in general skills. They are listed explicitly below.
+Some skills are general in nature, and may apply to a wide variety of situations. When a feat, lineage, or class grants you proficiency in a skill, it will likely be in general skills. They are listed explicitly below. Each may be mapped to a specific ability, depending on how the skill is used.
 - Acrobatics - Acts of agility such as performing a backflip or landing from a great height.
 - Animal Handling - Befriending, calming, or commanding animals.
 - Arcana - Recalling knowledge related to subjects of a magical nature.
@@ -487,6 +487,24 @@ Adventuring requires a great many things. Here are some of them.
 | Waterskin                    | 2 sp     | 5 lb. (full) |
 | Whetstone                    | 1 cp     | 1 lb.        |
 +------------------------------+----------+--------------+
+```
+#### Healer's Kit
+A kit filled with gauze, scissors, bandages, salves, and other medicinal gear.
+Has 10 charges.
+When you use this kit on yourself or another creature, make a medicine check
+to determine the outcome.
+
+```
++--------------+----------------------------+
+|     Roll     |          Outcome           |
++--------------+----------------------------+
+| 1 or less    | Takes 1d4 piercing damage. |
+| 2-5          | Nothing effect.            |
+| 6-10         | Stabilized if not already. |
+| 11-15        | Heals 1d4 hit points.      |
+| 16-20        | Heal 1d6 hit points.       |
+| 21 or higher | Heal 1d8 hit points.       |
++--------------+----------------------------+
 ```
 
 ### Packs

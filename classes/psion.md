@@ -46,8 +46,8 @@ Choose two from the following:
 |     6 |               5000 | 2d4      | +2                | D6          |           2 | Psionic Ability              |
 |     7 |               7500 | 3d4      | +3                | D6          |           3 |                              |
 |     8 |              10000 | 3d4      | +3                | D6          |           3 | Psionic Ability              |
-|     9 |              15000 | 3d4      | +4                | D6          |           4 |                              |
-|    10 |              20000 | 3d4      | +4                | D6          |           4 | Ability Score Increase       |
+|     9 |              15000 | 3d4      | +4                | D8          |           4 |                              |
+|    10 |              20000 | 3d4      | +4                | D8          |           4 | Ability Score Increase       |
 +-------+--------------------+----------+-------------------+-------------+-------------+------------------------------+
 ```
 
@@ -94,7 +94,8 @@ You have awakened latent abilities. They will grow stronger as you grow further
 in tune with yourself. Your spellcasting ability is wisdom. Instead of using 
 spell slots to determine the limit of your magical power, you instead use a 
 psionic die. At first level, your psionic die is a D2. It increases in size 
-according to the “psionic die” column in the psion table. 
+according to the “psionic die” column in the psion table.
+
 
 #### Using the psionic die
 When you cast a spell of first or higher level, you roll a number of dice equal
@@ -143,6 +144,7 @@ of your choice by 1. You cannot increase an ability score past 20.
 - Mind Probe[1]
 - Dreamscape[1]
 - Heart Crush
+- Mind Meld
 [1] - spell is found in the Spell Compendium Volume 1
 ## Spells
 
@@ -348,6 +350,7 @@ Components: V, S, M(a pile of objects capable of making up a creature)
 Duration: Concentration, up to 10 minutes
 You form form a group of inanimate objects into a medium-sized creature.
 The creature has 2d6 hit points and can wield any weapon you are proficient with.
+It shares your turn in initiative, and can be commanded with a bonus action.
 It's strength and dexterity are the same as your spellcasting ability.
 - Cloth, paper, or soft materials: 10 AC
 - wood: 16 AC
@@ -373,4 +376,17 @@ Duration: Instantaneous
 You target one creature that has a heart that you can see and attempt to crush their heart. They must make 
 a constitution saving throw. On a failure they receive 8d6 force damage, and on a success they take half 
 as much.
+```
+
+```
+Mind Meld (4th level)
+Casting Time: 1 minute
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+You and up to 6 creatures link hands and meditate. You each attempt to connect 
+your minds for the purpose of lending mental stamina. Each creature rolls 
+1d8. They take as much psychic damage. Add up the amount they rolled. If it
+is higher than 10, then regardless of what you roll on your psionic die for this
+particular casting, your psionic die grows to a D10.
 ```

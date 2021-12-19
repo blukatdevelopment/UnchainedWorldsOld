@@ -45,7 +45,7 @@ Choose two from the following:
 |     7 |               7500 | 3d4      | 4           |                        |
 |     8 |              10000 | 3d4      | 4           |                        |
 |     9 |              15000 | 3d4      | 5           |                        |
-|    10 |              20000 | 4d4      | 5           | Ability Score Increase |
+|    10 |              20000 | 3d4      | 5           | Ability Score Increase |
 +-------+--------------------+----------+-------------+------------------------+
 ```
 
@@ -212,6 +212,7 @@ creature.
 - Riddle[1]
 ### 4th
 - Miracle
+- Life Mist
 ### 5th
 - Judgement
 - Curse[1]
@@ -486,6 +487,17 @@ mist. You then touch one creature that has died in the last ten minutes, and the
 mist enters their nostrils or otherwise seeps into them. Roll a 1d20. On a 1, or
 if this creature has been dead for more than ten minutes, this spell fails. If
 it succeeds, the creature lives with a mark of your deity on their forehead.
+```
+
+```
+Life Mist (4th)
+Casting time: 10 minutes
+Range: 60 feet
+Components: V, S, M(incense and braisure, or hookah, or pipe)
+Duration: Instantaneous
+You pray and a tendril of mist snakes out of your mouth and writhes in search
+of those within range, entering in through their nostrils and mouths in order
+to impart healing magic. Each creature in range is healed to maximum hit points.
 ```
 
 ```
