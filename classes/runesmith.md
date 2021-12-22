@@ -139,7 +139,7 @@ you did not select at 4th level.
 - Thornwhip[1]
 - Eye Stone[1]
 - Mending[1]
-- Minor Illusion
+- Minor Illusion[1]
 ### 1st
 - Self deception
 - Sculpt Ice[1]
@@ -197,17 +197,6 @@ Range: 120 feet
 Components: V, S
 Duration: Instantaneous
 Make a ranged spell attack. On a hit, the target receives 1d10 fire damage.
-```
-
-```
-Minor Illusion (Cantrip)
-Casting Time: 1 action
-Range: 30 feet
-Components: V, S
-Duration: 1 hour
-You create a an illusion that fits inside a 5ft cube. It may take any shape or
-form, and may faintly glow. If you cast this spell again to create another
-illusion, your previous illusion fades.
 ```
 
 ```

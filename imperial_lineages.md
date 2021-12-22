@@ -1,0 +1,500 @@
+# Imperial Lineages
+
+The fall of the dwarven empires brought trade to a screeching halt and forced
+entire cities to be abandoned in favor of productive farmlands. The power vacuum
+became the foundation of the meteoric rise of the human empires. With them,
+a wave of colonization that rippled through every land that could be connected
+reliably reached by ship or trade caravan.
+
+## Imperial
+Humans are the heart of the empire, and at the heart of the empire humans
+embody the arts, sciences, and culture in formal education.
+
+**Age** mature at 18, live less than a century
+**Languages:** Common
+**Size:** Medium
+**Speed:** 30
+**Ability Score Increase:**  +1 all abilities
+
+### Well-rounded education
+You gain proficiency in two skills of your choice.
+
+### Athlete (requires at least 15 STR)
+In your education, you competed on a sports team and trained often.
+You are proficient in athletics.
+### University (requires at least 15 INT)
+Testing earned you a year's stay at college, where you graduated with a degree
+in one topic. Choose one of the below skills that you are already proficient
+in. You gain expertise in that skill and may add twice your proficiency bonus
+when making skill checks with it.
+- Arcana
+- History
+- Investigation
+- Nature
+- Religion
+### Oratory (requires at least 15 CHA)
+You learned to give speeches, and to deliver both biting criticism and sharp
+retorts. You are proficient in persuasion.
+
+## High Elf
+The elves of old wealth and high class made the best of the shifting powers by
+incorporating themselves into human nobility at their soonest convenience.
+Raised amidst hanging hardens, libraries, and market squares, the high elves
+learned to look inward.
+
+**Age** mature at 18, live up to 750 years
+**Languages:** Common, Elvish
+**Size:** Medium
+**Speed:** 30
+**Ability Score Increase:**  +2 DEX, +1 INT
+
+### Sword Dance (requires at least 15 DEX)
+You practice the traditional sword dance of your people, and in doing so
+you gain proficiency with short swords and scimitars.
+### Magic Initiate (requires at least 15 INT)
+You've learned the theory behind arcane and have learned to fuel weak magic
+with your blood. You are proficient in arcana and may expend a hit die to cast
+the prestidigitation cantrip found in the spell compendium volume 1.
+### Fey Ancestry (requires at least 15 WIS)
+Through meditation and discipline, you've tapped into your trace fey blood.
+You have advantage on wisdom saving throws made to resist spells, and you
+may not be put to sleep by magic.
+
+## Turned
+You were a mage who suffered a manageable disaster. Through a misfiring of
+a spell, your form has been permanently altered beyond recognition of what
+it once was.
+
+**Age** from less than a century to 300 years
+**Languages:** Common, one other
+**Size:** Form-specific
+**Speed:** 30
+**Ability Score Increase:** Form-specific
+
+### Risidual magic
+You know the Minor Illusion cantrip found in the spell compendium volume 1, and
+may cast it by expending one hit die.
+
+### Form
+You may choose one of the three most common afflictions below.
+
+#### Cat (Tiny, +2 DEX, +1 CHA)
+You resemble a large black cat with a white spot on your chest. Your thumbless
+paws are clumsy and you may not wield two-handed weapons. You require both paws
+to wield one-handed weapons. You may either stand upright at a height of nearly
+four feet on your digitigrade legs or on all fours and become indistinguishable
+from a large house cat.
+
+##### Claws (requires at least 15 dexterity)
+You've learned to make quick swipes with your claws to deal damage to soft
+spots. Your unarmed attacks are made with dexterity as the ability, and deal
+1d4 slashing damage.
+
+#### Squid (Medium, +2 INT, +1 DEX)
+Your skin is clammy and rubbery to the touch, and it changes color according to
+your emotion. Your smooth head is bulbous, and from your mouth extends a beard
+of writhing tentacles that may pull in morsels or hold them still. Your body
+lacks bones, and you have no brain. Your hands terminate in five tendrils, and
+your feet are long tentacles dropping from your sleek torso. You have a swim
+speed of 30 feet.
+
+##### Camoflauge (requires at least 15 wisdom)
+While unclothed, you may make a DC 15 wisdom check to cause your skin to match
+the coloration of the surrounding terrain and for your body's texture to change
+as well in mimicry. A creature that has not witnessed you perform this change
+must succeed a DC 18 perception check to detect your presence visually.
+
+#### Moth (Medium +2 WIS, +1 INT)
+You are covered in tufts of white hair, and on your back a set of wings. Your
+bulbous black eyes are vulnerable to bright light, and you have disadvantage on
+attacks and perception checks relying on sight made in direct sunlight. You have
+a flying speed of 30 feet.
+
+##### Electrosight (requires at least 15 wisdom)
+The fuzzy antennae that jut from the top of your head can detect minute
+electrical currents. For the purpose of sensing creatures, you have blindsight
+for 10 feet.
+
+## Forged
+You were a noble knight before a soul forger saw to it that you would outlive
+your last breath. Charged with the protection of a powerful noble, you find that
+mortal lifespans seem short now. You were robbed of the simple pleasures mortals
+take for granted: smell, taste, and touch.
+
+**Age** 1000 years, or longer with good maintenance
+**Languages:** Common
+**Size:** Medium
+**Speed:** 30
+**Ability Score Increase:** 
+
+### Reconstruction
+Every time you restore hit points from expending a hit die or finishing a partial
+or long rest, you must consume 1 unit of scrap. (See soul forger class) Your
+body will ingest the metals, rebuilding itself and excreting metal slag from
+your metal skin. If the mending spell is cast on you, you restore 1d8 hit
+points.
+
+### Construct
+You do not need to breathe, eat, drink water, nor sleep. Exceedingly hot
+and cold weather have no effect on you.
+
+### Steel Hull (requires at least 15 CON)
+Your form is protected by an exterior of high carbon steel. Your AC may not
+fall below 15.
+
+### Fireproof Hull (requires at least 17 CON)
+Though you may glow red hot under flame, your form endures. You are immune to
+fire damage.
+
+## Bronzehammer
+The dwarves that changed with the times found their knowledge of minerals to be
+particularly lucrative. Though many swung pickaxes in mines in the early days,
+bronzehammers gain their name from their prominant role as the industrial
+backbone of the human empires. While not all bronzehammers are smiths, they
+carry with them the reputation for the absolute finest weapons and armor.
+
+**Age** mature at 18, live up to 350 years
+**Languages:** Common
+**Size:** Medium
+**Speed:** 25
+**Ability Score Increase:** +2 CON, +1 INT
+
+### Trade School
+Early in life you ran a mandatory rotation through the smith's guild apprentice
+program. You are proficient in smith's tools.
+
+### Dwarven Armor Training (requires at least 13 CON)
+You are proficient with light and medium armor.
+### Ancestral Warhammer (requires at least 15 INT)
+You know dwarvish, and your rite of passage was the forging of an ancestral
+warhammer with dwarvish runes that tell the story of your ancestors. You are
+proficient with warhammers, and start with this ancestral warhammer.
+
+## Cogger
+Many gnomes found they were welcomed into empirial land with open arms when
+their interests aligned with meeting industrial needs. They dwell in the
+structures constructed specifically for them which incorporate three floors per
+each conventional story. Equipped with open-air courtyards, bunks, baths, and
+workshops, the coggers lived up to their name by initially converitng piles
+of raw metal into gears, springs, nails, and screws. Since then the complexity
+of their products has grown with the appetite of the empires.
+
+**Age** mature by 40, live from 350 to 500 years
+**Languages:** Common, Gnomish
+**Size:** Small (3-4 feet)
+**Speed:** 25
+**Ability Score Increase:** +2 INT, +1 DEX
+
+### Repair (requires at least 15 DEX)
+Your nimble fingers and purpose-built tools make quick work of seemingly
+devastating damage. You may consume one hit die to cast the Mending spell
+from the spell compendium volume I, except that you achieve this spell by
+conventional, and not arcane means.
+### Gnome Cunning (requires at least 15 CON)
+You have advantage on all intelligence, wisdom, and charisma saving throws
+made against spells or magical effects.
+### Tinker (requires at least 15 INT)
+You are proficient with tinker's tools.
+You produce a device with 5 AC and 1 hit point which breaks down after 24 hours. 
+It takes 1 hour and 1 unit of scrap to construct such a device. Options include:
+- Clockwork Toy - A small creature that chimes and moves forward when wound up with a key.
+- Fire Starter - May light a candle, campfire, or torch. Deals 1 fire damage.
+- Music Box - Once wound up, plays a melody for up to 1 minute.
+- Flare Gun - When fired into the air, the charge ignites and drifts to the ground, casting bright light in a 300 foot radius for one minute.
+- Thief's Light - This disk produces a dim red light in a 5 foot cone that is hard to detect at range.
+
+## Soot
+The humans that first emerged from shifts in once-dwarven mines quickly took
+on this name due to the pitch black coal dust clinging to their forms. The title
+has since been used for all sorts of laborers, from fishermen, to farmers, to
+ranchers, because of the common layer of dirt and grime that finds it's way on
+their clothes. Your resume is written with the callouses on your hands.
+
+**Age** mature at 18, live less than a century
+**Languages:** Common, one other
+**Size:** Medium
+**Speed:** 30
+**Ability Score Increase:** +2 STR, +1 WIS
+
+### Apprenticeship
+During your childhood you worked as an apprentice to help pay the bills.
+You are proficient in one tool of your choice.
+
+### Conscript (requires at least 15 STR)
+You were recruited and served a few months in the army before being returned.
+In that time you learned to wield a pole arm in formation. You are proficient
+with pikes.
+### Borrow (requires at least 15 DEX)
+When you attempt to steal an object using a sleight of hand check, you make it
+with advantage.
+### Haggle (requires at least 15 WIS)
+You didn't get where you are by paying full price.
+The first persuasion check you make to haggle with a particular trader is made
+with advantage.
+### Embelish (requires at least 15 CHA)
+It's hard for others to know what you have and haven't experienced. When you
+tell a tall tale, you get advantage on your deception check.
+
+## Burden Folk
+The empire's hard labor once rested upon human shoulders. Then came the
+hard-working beast folk that sought to make a name for themselves in the empire.
+The occasional beast folk that breaks out of back-breaking labor to become a
+barber, librarian, or doctor sets the example of hope needed for the others to
+keep pulling, pushing, and hauling for their children to one day live a better
+life than they do.
+
+**Age** mature at 18, live less than a century
+**Languages:** Common, Beast Tongue
+**Size:** Medium
+**Speed:** 30
+**Ability Score Increase:** +2 STR, +2 CON
+
+### Beast of Burden
+You are the engine of agriculture, commerce, or industry. You have advantage
+on athletics checks used to pull, push, ram, and both resist and perform
+a grapple. You may drag a creature your size while moving your regular speed.
+
+### Form
+There were a few breeds selected particularly for their physiology.
+
+#### Hoofers
+You are a hooved mammal. Common ungulate breeds include horse, cattle, goat, camel,
+and donkey. Your speed is 40 feet.
+
+##### Donkey kick (Requires Strength 15)
+Your powerful legs deliver a deadly blow. Your unarmed attacks using your
+hooves deal 1d6 bludgeoning damage. When someone attempts to grapple you from
+behind, you may use your reaction to make a donkey kick at them, and on a hit
+their grapple fails.
+
+#### Lumbear
+Your powerful ursine frame lends itself to handling lumber. You are proficient
+with hand axes and your claws grant you a climbing speed of 30 feet. Your claws
+deal 1d4 slashing damage. 
+
+##### Double-swipe (Requires Strength 15)
+When you use your action to attack with your claws, you may use your bonus
+action to make a second claw attack.
+
+#### Battle Cats
+Your niche in the empire is as caravan guard. Your rugged silhouete is a
+convincing argument for thieves and beasts alike to move along peacefully.
+Whether tiger, leophard, lion, or bobcat, you jaws are the source of your power.
+You may expend a hit die to unleash a roar that forces all creatures within
+10 feet to succeed a DC 15 wisdom saving throw or become frightened for 1 turn.
+Your bite force is your last and most powerful line of defense. Your bite deals
+1d6 piercing damage.
+
+##### Pounce (Requires Strength 15)
+When you move 20 feet in a straight line before attacking with your bite, you
+may attempt to either grapple the target, or shove them prone as part of the
+attack. Your athletics check is made with advantage.
+
+## Uprooted
+In the wake of imperial expansion, strategic resources were seized in the name
+of a growing industrial appetite. Mine after mine, tunnel after tunnel, became
+property of kings and emperors. Those that resisted discovered the extent of
+empirical science and magic. The desheveled masses were forced to retreat
+increasingly further into the bowels of the Earth, or else surface in hopes
+of finding caves not yet under imperial control. These dwarves were historically
+the first to reside entirely above ground, a displaced people neither suited
+nor interested in taking up the life of surface dwellers.
+
+**Age** mature at 18, live up to 350 years
+**Languages:** Common, Dwarvish
+**Size:** Medium
+**Speed:** 25
+**Ability Score Increase:** +2 CON, +2 STR
+
+### Ranged Decapitation (requires at least 15 STR)
+You have honed your full rage in battle. You are proficient with the battle axe
+and great axe. You may consume a hit die to throw either of them at a range of
+20/40. On a hit, this attack deals critical damage.
+### Tunnel Fighter (requires at least 15 DEX)
+When a hostile creature enters within 5 feet of you, you may consume a hit die
+to make an attack against that creature. This does not consume a reaction.
+### Dwarven Toughness (requires at least 15 CON)
+For every hit die you have, you gain +2 maximum hit points.
+
+### Dark Vision (requires at least 13 WIS)
+Life in the tunnels has trained your eyes to see beyond the torch light's center.
+You may see in 60 feet of darkness as if it is dim light, or 60 feet of dim
+light as if it is bright light. You cannot make out color in this light. On
+the surface you suffer disadvantage on skill checks relying on vision and attack 
+rolls made in direct sunlight.
+
+## Wild Folk
+On the periphery of imperial territories, where warlords and city states retain
+their autonomy, beast folk reject servitude at the feet of human hegemony.
+
+**Age** mature at 18, live less than a century
+**Languages:** Beast Tongue, one other
+**Size:** Medium
+**Speed:** 30
+**Ability Score Increase:** +2 DEX, +1 STR
+
+### Bushcraft
+You are proficient in survival and perception.
+
+### Forms
+Those beast folk that refused to assimilate commonly fit into three groups.
+
+#### Wild Cat
+Wild cats have been shooed from alleys for harboring a reputation of thieving
+and burglary. Their claws afford them a climbing speed of 30 feet and when used
+in unarmed attacks deals 1d4 slashing damage. You are proficient in stealth.
+Street cats include cheetahs and housecats.
+
+##### Feline Agility(requires 15 DEX)
+You unleash a burst of speed. You gain an amount of movement equal to your speed.
+Once you use this ability, you cannot use it again until you finish a turn without
+moving.
+
+##### Dark Vision (requires at least 13 WIS)
+Life in the tunnels has trained your eyes to see beyond the torch light's center.
+You may see in 60 feet of darkness as if it is dim light, or 60 feet of dim
+light as if it is bright light. You cannot make out color in this light. On
+the surface you suffer disadvantage on skill checks relying on vision and attack 
+rolls made in direct sunlight.
+
+#### Canid
+Dogs and their cousins such as the coyote, fox, and wolf all find themselves on
+the outskirts of imperial zones of control. Your movement speed is 40ft.
+
+##### Keen Sense (Minimum 13 WIS)
+You have advantage on perception checks that rely on smell or taste.
+
+##### Pack Tactics (Minimum 15 WIS)
+You have advantage on melee attacks targeting enemies within 5ft of an ally that
+is not unconscious.
+
+#### Avian
+Spreading their wings, the birds have found the most success in staying one
+step ahead of imperial advancement in their home lands. When they cannot avoid
+the empires, they attack fiercely. Avians such as hawk, eagle, owl, and 
+sparrow folk have a flying speed of 60 feet.
+
+##### Fly By (Minimum 15 DEX)
+When flying, your movement does not provoke attacks of opportunity.
+
+##### Talons (Minimum 15 STR)
+Your feet have talons that you've learned to perform powerful natural
+attacks with, dealing 1d6 piercing damage on a hit.
+
+### Field Medicine (requires at least 15 WIS)
+You are proficient with herbalism kits. You may expend one hit die in order
+to administer 1d10 hit points of healing to another creature. This takes 1
+minute.
+
+### Wild Eye (requires at least 15 CHA)
+You are able to give a look that makes the same impression a growling beast does.
+You are proficient in intimidation.
+
+## Spadetails
+The rise and fall of empires has been of little concern to those who carry 
+infernal blood in their veins. What matters to them has always been the 
+ubiquitous superstition and persecution that pervades all but a handful of 
+sympathetic or ambivalent communities. Lacking homeland to defend or retreat 
+to, the infernally infused seek shelter with those fringe elements that will 
+have them, or else attempt to conceal their true identity when possible.
+
+**Age** mature at 18, live less than a century
+**Languages:** Common
+**Size:** Medium
+**Speed:** 30
+**Ability Score Increase:** CHA +2, INT +1
+
+### Infernal Cosmetics
+Some are born knowing they are infernal, and for others the signs come later
+in life. Select 1d4 traits below, if you wish. For each, roll a 1d6 and reroll
+on duplicates.
+- Red, leathery skin
+- Black irises
+- Spaded tail
+- Forked tongue
+- Sharp teeth
+
+### Winged Flight (requires at least 15 STR)
+You have functioning wings. You have a flying speed of 50 feet.
+
+### Infernal Hide (requires at least 15 CON)
+Your skin is not only leathery and red, but protective. You have resistance to
+fire damage.
+### Uncharmed (requires at least 15 INT)
+Your mind can detect the patterns of incoming charms as readily as it can
+identify words. You cannot be charmed.
+### Devil's Sight (requires at least 17 WIS)
+Your eyes glow red or golden in the night, and you may see 120 feet in pitch
+black as if it were bright light.
+### Hellish Rebuke (requires at least 17 CHA)
+As a reaction when you receive damage from an attack, you may expend a hit die
+and call out a short phrase of infernal to the attacker. That creature must
+make a dexterity saving throw, taking 3d6 fire damage on a failure or half as
+much on a success when your words burn them.
+
+## Greenfoot
+Some elves which were partly responsible for the collapse of the dwarven
+empires were reluctant to see a new hegemony simply replace the last. Those with
+power consolidated it and retreated to enclaves just outside the sphere of 
+imperial influence. Others concealed their identities or sought out remote
+refuges.
+
+**Age** mature at 18, live up to 750 years
+**Languages:** Common, Elven
+**Size:** Medium
+**Speed:** 30
+**Ability Score Increase:**  +2 DEX, +1 WIS
+### Meditation (requires at least 13 INT)
+In place of traditional sleep, you may meditate and rest without losing 
+consciousness. You find that this technique is more efficient than conventional
+sleep, and that you only need 4 hours of meditation each night to sustain you.
+
+### Wheel Of Life(requires at least 15 WIS)
+Your fey ancestry has enticed the mysteries of nature to unravel themselves to
+you and reveal their underlying patterns. With this closeness you gain a magical
+hold over certain natural processes. You may use your action to expend one hit 
+die and cast the druidcraft cantrip from the spell compendium volume 1.
+
+### Nature's Tongue(requires at least 15 CHA)
+You have learned not only a better appreciation of nature, but you have also
+learned to bend your mind and speak to it. You may use your action to expend a
+hit die in order to utter a simple phrase or concept no longer than 6 seconds
+to one creature. The creature will understand it.
+
+## Wayfarer Gnome
+Gnomes pursued their interests with or without the backing of the empires of 
+man. They took on whatever risks doing so entailed. Some gained 
+support from elements opposed to the empires, while others simply lived as 
+hermits or within poverty in order to realize their pursuit of knowledge.
+
+**Age** mature by 40, live from 350 to 500 years
+**Languages:** Common, Gnomish
+**Size:** Small
+**Speed:** 30
+**Ability Score Increase:** +2 INT, +1 WIS
+
+### Special Interest
+Below are the most common of wayfarer gnome special interests. The common thread
+is their lack of backing. You have a bonus D4 added to any intelligence skill
+check that  leverages knowledge of this subject. In liue of the subjects
+provided, you may instead select a specific subject such as a particular nation,
+ public figure, or culture.
+- Mycology - fungus
+- Ichthyology - fish
+- Philology - literature
+- Aesthetics - art
+- Botany - plants
+- Zoology - animals
+- Anthropology - people
+
+### Fey Blessing (requires at least 17 WIS)
+You were approached by the fey for your child-like curiosity, as many wayfarers
+are. They bestowed upon you a blessing, a ward against those that would harm
+you. You may use your action to expend a hit die and become invisible for one
+minute. This effect requires your concentration, and if you cast a spell or make
+an attack, this effect ends.
+
+### Natural Illusionist (requires at least 15 INT)
+For the express purpoose of sharing your special interest with others, you have
+learned the Minor Illusion spelll from the spell compendium volume 1, and may
+cast it by expending a hit die.

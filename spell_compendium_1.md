@@ -4,6 +4,19 @@ This book contains spells shared between multiple classes.
 ## Cantrips
 
 ```
+Druidcraft (Cantrip)
+Casting time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+You channel the spirits of nature create one of the following effects within range.
+- You create a tiny, harmless sensory effect that predicts the weather at your location for the next 24 hours.
+- You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.
+- A spark leaps from your finger and you instantly light or snuff out a candle, a torch, or a small campfire.
+- You place a pice of moss on a stone and it adheres to the North side.
+```
+
+```
 Thornwhip (Cantrip)
 Casting time: 1 action
 Range: 15 feet
@@ -22,6 +35,17 @@ Components: V, S
 Duration: 1 hour
 You touch an object that is at most 3 feet on one side. It emits bright light
 within 15 feet, and dim light for an additional 15 feet.
+```
+
+```
+Minor Illusion (Cantrip)
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: 1 hour
+You create a an illusion that fits inside a 5ft cube. It may take any shape or
+form, and may faintly glow. If you cast this spell again to create another
+illusion, your previous illusion fades.
 ```
 
 ```
