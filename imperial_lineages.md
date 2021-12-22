@@ -10,11 +10,13 @@ reliably reached by ship or trade caravan.
 Humans are the heart of the empire, and at the heart of the empire humans
 embody the arts, sciences, and culture in formal education.
 
-**Age** mature at 18, live less than a century
-**Languages:** Common
-**Size:** Medium
-**Speed:** 30
-**Ability Score Increase:**  +1 all abilities
+```
+Age: mature at 18, live less than a century
+Languages: Common
+Size: Medium
+Speed: 30
+Ability Score Increase:  +1 all abilities
+```
 
 ### Well-rounded education
 You gain proficiency in two skills of your choice.
@@ -42,11 +44,13 @@ incorporating themselves into human nobility at their soonest convenience.
 Raised amidst hanging hardens, libraries, and market squares, the high elves
 learned to look inward.
 
-**Age** mature at 18, live up to 750 years
-**Languages:** Common, Elvish
-**Size:** Medium
-**Speed:** 30
-**Ability Score Increase:**  +2 DEX, +1 INT
+```
+Age: mature at 18, live up to 750 years
+Languages: Common, Elvish
+Size: Medium
+Speed: 30
+Ability Score Increase:  +2 DEX, +1 INT
+```
 
 ### Sword Dance (requires at least 15 DEX)
 You practice the traditional sword dance of your people, and in doing so
@@ -57,19 +61,21 @@ with your blood. You are proficient in arcana and may expend a hit die to cast
 the prestidigitation cantrip found in the spell compendium volume 1.
 ### Fey Ancestry (requires at least 15 WIS)
 Through meditation and discipline, you've tapped into your trace fey blood.
-You have advantage on wisdom saving throws made to resist spells, and you
+You have advantAge: on wisdom saving throws made to resist spells, and you
 may not be put to sleep by magic.
 
 ## Turned
-You were a mage who suffered a manageable disaster. Through a misfiring of
+You were a mAge: who suffered a manageable disaster. Through a misfiring of
 a spell, your form has been permanently altered beyond recognition of what
 it once was.
 
-**Age** from less than a century to 300 years
-**Languages:** Common, one other
-**Size:** Form-specific
-**Speed:** 30
-**Ability Score Increase:** Form-specific
+```
+Age: from less than a century to 300 years
+Languages: Common, one other
+Size: Form-specific
+Speed: 30
+Ability Score Increase: Form-specific
+```
 
 ### Risidual magic
 You know the Minor Illusion cantrip found in the spell compendium volume 1, and
@@ -86,7 +92,7 @@ four feet on your digitigrade legs or on all fours and become indistinguishable
 from a large house cat.
 
 ##### Claws (requires at least 15 dexterity)
-You've learned to make quick swipes with your claws to deal damage to soft
+You've learned to make quick swipes with your claws to deal damAge: to soft
 spots. Your unarmed attacks are made with dexterity as the ability, and deal
 1d4 slashing damage.
 
@@ -106,7 +112,7 @@ must succeed a DC 18 perception check to detect your presence visually.
 
 #### Moth (Medium +2 WIS, +1 INT)
 You are covered in tufts of white hair, and on your back a set of wings. Your
-bulbous black eyes are vulnerable to bright light, and you have disadvantage on
+bulbous black eyes are vulnerable to bright light, and you have disadvantAge: on
 attacks and perception checks relying on sight made in direct sunlight. You have
 a flying speed of 30 feet.
 
@@ -121,11 +127,13 @@ your last breath. Charged with the protection of a powerful noble, you find that
 mortal lifespans seem short now. You were robbed of the simple pleasures mortals
 take for granted: smell, taste, and touch.
 
-**Age** 1000 years, or longer with good maintenance
-**Languages:** Common
-**Size:** Medium
-**Speed:** 30
-**Ability Score Increase:** 
+```
+Age: 1000 years, or longer with good maintenance
+Languages: Common
+Size: Medium
+Speed: 30
+Ability Score Increase: 
+```
 
 ### Reconstruction
 Every time you restore hit points from expending a hit die or finishing a partial
@@ -153,11 +161,13 @@ bronzehammers gain their name from their prominant role as the industrial
 backbone of the human empires. While not all bronzehammers are smiths, they
 carry with them the reputation for the absolute finest weapons and armor.
 
-**Age** mature at 18, live up to 350 years
-**Languages:** Common
-**Size:** Medium
-**Speed:** 25
-**Ability Score Increase:** +2 CON, +1 INT
+```
+Age: mature at 18, live up to 350 years
+Languages: Common
+Size: Medium
+Speed: 25
+Ability Score Increase: +2 CON, +1 INT
+```
 
 ### Trade School
 Early in life you ran a mandatory rotation through the smith's guild apprentice
@@ -166,7 +176,7 @@ program. You are proficient in smith's tools.
 ### Dwarven Armor Training (requires at least 13 CON)
 You are proficient with light and medium armor.
 ### Ancestral Warhammer (requires at least 15 INT)
-You know dwarvish, and your rite of passage was the forging of an ancestral
+You know dwarvish, and your rite of passAge: was the forging of an ancestral
 warhammer with dwarvish runes that tell the story of your ancestors. You are
 proficient with warhammers, and start with this ancestral warhammer.
 
@@ -179,11 +189,13 @@ workshops, the coggers lived up to their name by initially converitng piles
 of raw metal into gears, springs, nails, and screws. Since then the complexity
 of their products has grown with the appetite of the empires.
 
-**Age** mature by 40, live from 350 to 500 years
-**Languages:** Common, Gnomish
-**Size:** Small (3-4 feet)
-**Speed:** 25
-**Ability Score Increase:** +2 INT, +1 DEX
+```
+Age: mature by 40, live from 350 to 500 years
+Languages: Common, Gnomish
+Size: Small (3-4 feet)
+Speed: 25
+Ability Score Increase: +2 INT, +1 DEX
+```
 
 ### Repair (requires at least 15 DEX)
 Your nimble fingers and purpose-built tools make quick work of seemingly
@@ -191,7 +203,7 @@ devastating damage. You may consume one hit die to cast the Mending spell
 from the spell compendium volume I, except that you achieve this spell by
 conventional, and not arcane means.
 ### Gnome Cunning (requires at least 15 CON)
-You have advantage on all intelligence, wisdom, and charisma saving throws
+You have advantAge: on all intelligence, wisdom, and charisma saving throws
 made against spells or magical effects.
 ### Tinker (requires at least 15 INT)
 You are proficient with tinker's tools.
@@ -210,11 +222,13 @@ has since been used for all sorts of laborers, from fishermen, to farmers, to
 ranchers, because of the common layer of dirt and grime that finds it's way on
 their clothes. Your resume is written with the callouses on your hands.
 
-**Age** mature at 18, live less than a century
-**Languages:** Common, one other
-**Size:** Medium
-**Speed:** 30
-**Ability Score Increase:** +2 STR, +1 WIS
+```
+Age: mature at 18, live less than a century
+Languages: Common, one other
+Size: Medium
+Speed: 30
+Ability Score Increase: +2 STR, +1 WIS
+```
 
 ### Apprenticeship
 During your childhood you worked as an apprentice to help pay the bills.
@@ -233,7 +247,7 @@ The first persuasion check you make to haggle with a particular trader is made
 with advantage.
 ### Embelish (requires at least 15 CHA)
 It's hard for others to know what you have and haven't experienced. When you
-tell a tall tale, you get advantage on your deception check.
+tell a tall tale, you get advantAge: on your deception check.
 
 ## Burden Folk
 The empire's hard labor once rested upon human shoulders. Then came the
@@ -243,11 +257,13 @@ barber, librarian, or doctor sets the example of hope needed for the others to
 keep pulling, pushing, and hauling for their children to one day live a better
 life than they do.
 
-**Age** mature at 18, live less than a century
-**Languages:** Common, Beast Tongue
-**Size:** Medium
-**Speed:** 30
-**Ability Score Increase:** +2 STR, +2 CON
+```
+Age: mature at 18, live less than a century
+Languages: Common, Beast Tongue
+Size: Medium
+Speed: 30
+Ability Score Increase: +2 STR, +2 CON
+```
 
 ### Beast of Burden
 You are the engine of agriculture, commerce, or industry. You have advantage
@@ -300,14 +316,16 @@ of finding caves not yet under imperial control. These dwarves were historically
 the first to reside entirely above ground, a displaced people neither suited
 nor interested in taking up the life of surface dwellers.
 
-**Age** mature at 18, live up to 350 years
-**Languages:** Common, Dwarvish
-**Size:** Medium
-**Speed:** 25
-**Ability Score Increase:** +2 CON, +2 STR
+```
+Age: mature at 18, live up to 350 years
+Languages: Common, Dwarvish
+Size: Medium
+Speed: 25
+Ability Score Increase: +2 CON, +2 STR
+```
 
 ### Ranged Decapitation (requires at least 15 STR)
-You have honed your full rage in battle. You are proficient with the battle axe
+You have honed your full rAge: in battle. You are proficient with the battle axe
 and great axe. You may consume a hit die to throw either of them at a range of
 20/40. On a hit, this attack deals critical damage.
 ### Tunnel Fighter (requires at least 15 DEX)
@@ -320,18 +338,20 @@ For every hit die you have, you gain +2 maximum hit points.
 Life in the tunnels has trained your eyes to see beyond the torch light's center.
 You may see in 60 feet of darkness as if it is dim light, or 60 feet of dim
 light as if it is bright light. You cannot make out color in this light. On
-the surface you suffer disadvantage on skill checks relying on vision and attack 
+the surface you suffer disadvantAge: on skill checks relying on vision and attack 
 rolls made in direct sunlight.
 
 ## Wild Folk
 On the periphery of imperial territories, where warlords and city states retain
 their autonomy, beast folk reject servitude at the feet of human hegemony.
 
-**Age** mature at 18, live less than a century
-**Languages:** Beast Tongue, one other
-**Size:** Medium
-**Speed:** 30
-**Ability Score Increase:** +2 DEX, +1 STR
+```
+Age: mature at 18, live less than a century
+Languages: Beast Tongue, one other
+Size: Medium
+Speed: 30
+Ability Score Increase: +2 DEX, +1 STR
+```
 
 ### Bushcraft
 You are proficient in survival and perception.
@@ -354,7 +374,7 @@ moving.
 Life in the tunnels has trained your eyes to see beyond the torch light's center.
 You may see in 60 feet of darkness as if it is dim light, or 60 feet of dim
 light as if it is bright light. You cannot make out color in this light. On
-the surface you suffer disadvantage on skill checks relying on vision and attack 
+the surface you suffer disadvantAge: on skill checks relying on vision and attack 
 rolls made in direct sunlight.
 
 #### Canid
@@ -362,10 +382,10 @@ Dogs and their cousins such as the coyote, fox, and wolf all find themselves on
 the outskirts of imperial zones of control. Your movement speed is 40ft.
 
 ##### Keen Sense (Minimum 13 WIS)
-You have advantage on perception checks that rely on smell or taste.
+You have advantAge: on perception checks that rely on smell or taste.
 
 ##### Pack Tactics (Minimum 15 WIS)
-You have advantage on melee attacks targeting enemies within 5ft of an ally that
+You have advantAge: on melee attacks targeting enemies within 5ft of an ally that
 is not unconscious.
 
 #### Avian
@@ -379,7 +399,7 @@ When flying, your movement does not provoke attacks of opportunity.
 
 ##### Talons (Minimum 15 STR)
 Your feet have talons that you've learned to perform powerful natural
-attacks with, dealing 1d6 piercing damage on a hit.
+attacks with, dealing 1d6 piercing damAge: on a hit.
 
 ### Field Medicine (requires at least 15 WIS)
 You are proficient with herbalism kits. You may expend one hit die in order
@@ -398,11 +418,13 @@ sympathetic or ambivalent communities. Lacking homeland to defend or retreat
 to, the infernally infused seek shelter with those fringe elements that will 
 have them, or else attempt to conceal their true identity when possible.
 
-**Age** mature at 18, live less than a century
-**Languages:** Common
-**Size:** Medium
-**Speed:** 30
-**Ability Score Increase:** CHA +2, INT +1
+```
+Age: mature at 18, live less than a century
+Languages: Common
+Size: Medium
+Speed: 30
+Ability Score Increase: CHA +2, INT +1
+```
 
 ### Infernal Cosmetics
 Some are born knowing they are infernal, and for others the signs come later
@@ -427,9 +449,9 @@ identify words. You cannot be charmed.
 Your eyes glow red or golden in the night, and you may see 120 feet in pitch
 black as if it were bright light.
 ### Hellish Rebuke (requires at least 17 CHA)
-As a reaction when you receive damage from an attack, you may expend a hit die
+As a reaction when you receive damAge: from an attack, you may expend a hit die
 and call out a short phrase of infernal to the attacker. That creature must
-make a dexterity saving throw, taking 3d6 fire damage on a failure or half as
+make a dexterity saving throw, taking 3d6 fire damAge: on a failure or half as
 much on a success when your words burn them.
 
 ## Greenfoot
@@ -439,11 +461,14 @@ power consolidated it and retreated to enclaves just outside the sphere of
 imperial influence. Others concealed their identities or sought out remote
 refuges.
 
-**Age** mature at 18, live up to 750 years
-**Languages:** Common, Elven
-**Size:** Medium
-**Speed:** 30
-**Ability Score Increase:**  +2 DEX, +1 WIS
+```
+Age: mature at 18, live up to 750 years
+Languages: Common, Elven
+Size: Medium
+Speed: 30
+Ability Score Increase:  +2 DEX, +1 WIS
+```
+
 ### Meditation (requires at least 13 INT)
 In place of traditional sleep, you may meditate and rest without losing 
 consciousness. You find that this technique is more efficient than conventional
@@ -467,11 +492,13 @@ man. They took on whatever risks doing so entailed. Some gained
 support from elements opposed to the empires, while others simply lived as 
 hermits or within poverty in order to realize their pursuit of knowledge.
 
-**Age** mature by 40, live from 350 to 500 years
-**Languages:** Common, Gnomish
-**Size:** Small
-**Speed:** 30
-**Ability Score Increase:** +2 INT, +1 WIS
+```
+Age: mature by 40, live from 350 to 500 years
+Languages: Common, Gnomish
+Size: Small
+Speed: 30
+Ability Score Increase: +2 INT, +1 WIS
+```
 
 ### Special Interest
 Below are the most common of wayfarer gnome special interests. The common thread
