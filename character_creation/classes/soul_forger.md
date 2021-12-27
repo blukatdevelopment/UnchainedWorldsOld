@@ -42,6 +42,8 @@ Choose 2 from the following:
 
 ## Starting Equipment
 - Heavy Wrench
+- Soul Stone
+- 1 unit of scrap
 
 ```
 +-------+--------------------+----------+------------------------+
