@@ -1,0 +1,3659 @@
+
+###########################################
+#  1: Monday, January 2(Winter)
+#  Year 325, Age of the Human
+#  Weather: 16 degrees, sunny
+#  Holday: New Year day
+
+###########################################
+#  2: Tuesday, January 3(Winter)
+#  Year 325, Age of the Human
+#  Weather: -10 degrees, sunny
+
+###########################################
+#  3: Wednesday, January 4(Winter)
+#  Year 325, Age of the Human
+#  Weather: 31 degrees, overcast
+
+###########################################
+#  4: Thursday, January 5(Winter)
+#  Year 325, Age of the Human
+#  Weather: -4 degrees, sunny
+
+###########################################
+#  5: Friday, January 6(Winter)
+#  Year 325, Age of the Human
+#  Weather: 15 degrees, sunny
+
+###########################################
+#  6: Saturday, January 7(Winter)
+#  Year 325, Age of the Human
+#  Weather: -3 degrees, sunny
+
+###########################################
+#  7: Sunday, January 8(Winter)
+#  Year 325, Age of the Human
+#  Weather: 3 degrees, sunny
+
+###########################################
+#  8: Monday, January 9(Winter)
+#  Year 325, Age of the Human
+#  Weather: 12 degrees, sunny
+
+###########################################
+#  9: Tuesday, January 10(Winter)
+#  Year 325, Age of the Human
+#  Weather: 34 degrees, sunny
+
+###########################################
+#  10: Wednesday, January 11(Winter)
+#  Year 325, Age of the Human
+#  Weather: -1 degrees, sunny
+
+###########################################
+#  11: Thursday, January 12(Winter)
+#  Year 325, Age of the Human
+#  Weather: 4 degrees, sunny
+
+###########################################
+#  12: Friday, January 13(Winter)
+#  Year 325, Age of the Human
+#  Weather: 26 degrees, sunny
+#  News: Political Gaffe
+
+###########################################
+#  13: Saturday, January 14(Winter)
+#  Year 325, Age of the Human
+#  Weather: -10 degrees, overcast
+
+###########################################
+#  14: Sunday, January 15(Winter)
+#  Year 325, Age of the Human
+#  Weather: 13 degrees, sunny
+
+###########################################
+#  15: Monday, January 16(Winter)
+#  Year 325, Age of the Human
+#  Weather: 21 degrees, sunny
+
+###########################################
+#  16: Tuesday, January 17(Winter)
+#  Year 325, Age of the Human
+#  Weather: 13 degrees, sunny
+
+###########################################
+#  17: Wednesday, January 18(Winter)
+#  Year 325, Age of the Human
+#  Weather: 9 degrees, sunny
+
+###########################################
+#  18: Thursday, January 19(Winter)
+#  Year 325, Age of the Human
+#  Weather: 19 degrees, sunny
+
+###########################################
+#  19: Friday, January 20(Winter)
+#  Year 325, Age of the Human
+#  Weather: 11 degrees, sunny
+
+###########################################
+#  20: Saturday, January 21(Winter)
+#  Year 325, Age of the Human
+#  Weather: 16 degrees, snowy
+#  News: Political Gaffe
+
+###########################################
+#  21: Sunday, January 22(Winter)
+#  Year 325, Age of the Human
+#  Weather: -10 degrees, sunny
+
+###########################################
+#  22: Monday, January 23(Winter)
+#  Year 325, Age of the Human
+#  Weather: 11 degrees, sunny
+
+###########################################
+#  23: Tuesday, January 24(Winter)
+#  Year 325, Age of the Human
+#  Weather: 0 degrees, sunny
+
+###########################################
+#  24: Wednesday, January 25(Winter)
+#  Year 325, Age of the Human
+#  Weather: 20 degrees, sunny
+
+###########################################
+#  25: Thursday, January 26(Winter)
+#  Year 325, Age of the Human
+#  Weather: -7 degrees, sunny
+
+###########################################
+#  26: Friday, January 27(Winter)
+#  Year 325, Age of the Human
+#  Weather: -2 degrees, sunny
+
+###########################################
+#  27: Saturday, January 28(Winter)
+#  Year 325, Age of the Human
+#  Weather: -8 degrees, overcast
+
+###########################################
+#  28: Sunday, January 29(Winter)
+#  Year 325, Age of the Human
+#  Weather: 12 degrees, sunny
+
+###########################################
+#  29: Monday, January 30(Winter)
+#  Year 325, Age of the Human
+#  Weather: 17 degrees, sunny
+
+###########################################
+#  30: Tuesday, February 1(Winter)
+#  Year 325, Age of the Human
+#  Weather: 9 degrees, sunny
+
+###########################################
+#  31: Wednesday, February 2(Winter)
+#  Year 325, Age of the Human
+#  Weather: 31 degrees, sunny
+
+###########################################
+#  32: Thursday, February 3(Winter)
+#  Year 325, Age of the Human
+#  Weather: 0 degrees, sunny
+
+###########################################
+#  33: Friday, February 4(Winter)
+#  Year 325, Age of the Human
+#  Weather: 17 degrees, sunny
+
+###########################################
+#  34: Saturday, February 5(Winter)
+#  Year 325, Age of the Human
+#  Weather: -8 degrees, sunny
+
+###########################################
+#  35: Sunday, February 6(Winter)
+#  Year 325, Age of the Human
+#  Weather: -14 degrees, sunny
+
+###########################################
+#  36: Monday, February 7(Winter)
+#  Year 325, Age of the Human
+#  Weather: -12 degrees, snowy
+
+###########################################
+#  37: Tuesday, February 8(Winter)
+#  Year 325, Age of the Human
+#  Weather: 22 degrees, sunny
+
+###########################################
+#  38: Wednesday, February 9(Winter)
+#  Year 325, Age of the Human
+#  Weather: 12 degrees, overcast
+
+###########################################
+#  39: Thursday, February 10(Winter)
+#  Year 325, Age of the Human
+#  Weather: 5 degrees, sunny
+
+###########################################
+#  40: Friday, February 11(Winter)
+#  Year 325, Age of the Human
+#  Weather: 7 degrees, sunny
+
+###########################################
+#  41: Saturday, February 12(Winter)
+#  Year 325, Age of the Human
+#  Weather: -10 degrees, sunny
+
+###########################################
+#  42: Sunday, February 13(Winter)
+#  Year 325, Age of the Human
+#  Weather: 8 degrees, sunny
+
+###########################################
+#  43: Monday, February 14(Winter)
+#  Year 325, Age of the Human
+#  Weather: 24 degrees, sunny
+
+###########################################
+#  44: Tuesday, February 15(Winter)
+#  Year 325, Age of the Human
+#  Weather: 1 degrees, sunny
+
+###########################################
+#  45: Wednesday, February 16(Winter)
+#  Year 325, Age of the Human
+#  Weather: 36 degrees, sunny
+
+###########################################
+#  46: Thursday, February 17(Winter)
+#  Year 325, Age of the Human
+#  Weather: 16 degrees, sunny
+
+###########################################
+#  47: Friday, February 18(Winter)
+#  Year 325, Age of the Human
+#  Weather: 2 degrees, sunny
+
+###########################################
+#  48: Saturday, February 19(Winter)
+#  Year 325, Age of the Human
+#  Weather: 8 degrees, sunny
+
+###########################################
+#  49: Sunday, February 20(Winter)
+#  Year 325, Age of the Human
+#  Weather: 30 degrees, overcast
+
+###########################################
+#  50: Monday, February 21(Winter)
+#  Year 325, Age of the Human
+#  Weather: 26 degrees, sunny
+
+###########################################
+#  51: Tuesday, February 22(Winter)
+#  Year 325, Age of the Human
+#  Weather: 38 degrees, sunny
+
+###########################################
+#  52: Wednesday, February 23(Winter)
+#  Year 325, Age of the Human
+#  Weather: 31 degrees, sunny
+
+###########################################
+#  53: Thursday, February 24(Winter)
+#  Year 325, Age of the Human
+#  Weather: 19 degrees, sunny
+
+###########################################
+#  54: Friday, February 25(Winter)
+#  Year 325, Age of the Human
+#  Weather: 31 degrees, sunny
+
+###########################################
+#  55: Saturday, February 26(Winter)
+#  Year 325, Age of the Human
+#  Weather: 14 degrees, sunny
+
+###########################################
+#  56: Sunday, February 27(Winter)
+#  Year 325, Age of the Human
+#  Weather: 5 degrees, sunny
+
+###########################################
+#  57: Monday, February 28(Winter)
+#  Year 325, Age of the Human
+#  Weather: 10 degrees, overcast
+
+###########################################
+#  58: Tuesday, February 29(Winter)
+#  Year 325, Age of the Human
+#  Weather: 34 degrees, overcast
+
+###########################################
+#  59: Wednesday, February 30(Winter)
+#  Year 325, Age of the Human
+#  Weather: -5 degrees, overcast
+
+###########################################
+#  60: Thursday, March 1(Spring)
+#  Year 325, Age of the Human
+#  Weather: 32 degrees, sunny
+
+###########################################
+#  61: Friday, March 2(Spring)
+#  Year 325, Age of the Human
+#  Weather: 62 degrees, sunny
+
+###########################################
+#  62: Saturday, March 3(Spring)
+#  Year 325, Age of the Human
+#  Weather: 35 degrees, rainy
+
+###########################################
+#  63: Sunday, March 4(Spring)
+#  Year 325, Age of the Human
+#  Weather: 42 degrees, sunny
+
+###########################################
+#  64: Monday, March 5(Spring)
+#  Year 325, Age of the Human
+#  Weather: 18 degrees, sunny
+
+###########################################
+#  65: Tuesday, March 6(Spring)
+#  Year 325, Age of the Human
+#  Weather: 21 degrees, sunny
+
+###########################################
+#  66: Wednesday, March 7(Spring)
+#  Year 325, Age of the Human
+#  Weather: 64 degrees, sunny
+
+###########################################
+#  67: Thursday, March 8(Spring)
+#  Year 325, Age of the Human
+#  Weather: 34 degrees, sunny
+
+###########################################
+#  68: Friday, March 9(Spring)
+#  Year 325, Age of the Human
+#  Weather: 29 degrees, sunny
+
+###########################################
+#  69: Saturday, March 10(Spring)
+#  Year 325, Age of the Human
+#  Weather: 47 degrees, sunny
+
+###########################################
+#  70: Sunday, March 11(Spring)
+#  Year 325, Age of the Human
+#  Weather: 45 degrees, sunny
+
+###########################################
+#  71: Monday, March 12(Spring)
+#  Year 325, Age of the Human
+#  Weather: 20 degrees, sunny
+
+###########################################
+#  72: Tuesday, March 13(Spring)
+#  Year 325, Age of the Human
+#  Weather: 53 degrees, sunny
+
+###########################################
+#  73: Wednesday, March 14(Spring)
+#  Year 325, Age of the Human
+#  Weather: 38 degrees, sunny
+
+###########################################
+#  74: Thursday, March 15(Spring)
+#  Year 325, Age of the Human
+#  Weather: 35 degrees, sunny
+
+###########################################
+#  75: Friday, March 16(Spring)
+#  Year 325, Age of the Human
+#  Weather: 33 degrees, sunny
+
+###########################################
+#  76: Saturday, March 17(Spring)
+#  Year 325, Age of the Human
+#  Weather: 61 degrees, sunny
+
+###########################################
+#  77: Sunday, March 18(Spring)
+#  Year 325, Age of the Human
+#  Weather: 48 degrees, sunny
+
+###########################################
+#  78: Monday, March 19(Spring)
+#  Year 325, Age of the Human
+#  Weather: 36 degrees, sunny
+
+###########################################
+#  79: Tuesday, March 20(Spring)
+#  Year 325, Age of the Human
+#  Weather: 34 degrees, sunny
+
+###########################################
+#  80: Wednesday, March 21(Spring)
+#  Year 325, Age of the Human
+#  Weather: 48 degrees, sunny
+
+###########################################
+#  81: Thursday, March 22(Spring)
+#  Year 325, Age of the Human
+#  Weather: 27 degrees, snowy
+
+###########################################
+#  82: Friday, March 23(Spring)
+#  Year 325, Age of the Human
+#  Weather: 40 degrees, sunny
+
+###########################################
+#  83: Saturday, March 24(Spring)
+#  Year 325, Age of the Human
+#  Weather: 34 degrees, sunny
+
+###########################################
+#  84: Sunday, March 25(Spring)
+#  Year 325, Age of the Human
+#  Weather: 45 degrees, rainy
+
+###########################################
+#  85: Monday, March 26(Spring)
+#  Year 325, Age of the Human
+#  Weather: 46 degrees, rainy
+
+###########################################
+#  86: Tuesday, March 27(Spring)
+#  Year 325, Age of the Human
+#  Weather: 41 degrees, sunny
+
+###########################################
+#  87: Wednesday, March 28(Spring)
+#  Year 325, Age of the Human
+#  Weather: 42 degrees, sunny
+
+###########################################
+#  88: Thursday, March 29(Spring)
+#  Year 325, Age of the Human
+#  Weather: 16 degrees, sunny
+
+###########################################
+#  89: Friday, March 30(Spring)
+#  Year 325, Age of the Human
+#  Weather: 59 degrees, sunny
+
+###########################################
+#  90: Saturday, April 1(Spring)
+#  Year 325, Age of the Human
+#  Weather: 4 degrees, sunny
+
+###########################################
+#  91: Sunday, April 2(Spring)
+#  Year 325, Age of the Human
+#  Weather: 44 degrees, sunny
+
+###########################################
+#  92: Monday, April 3(Spring)
+#  Year 325, Age of the Human
+#  Weather: 11 degrees, sunny
+
+###########################################
+#  93: Tuesday, April 4(Spring)
+#  Year 325, Age of the Human
+#  Weather: 64 degrees, sunny
+
+###########################################
+#  94: Wednesday, April 5(Spring)
+#  Year 325, Age of the Human
+#  Weather: 61 degrees, rainy
+
+###########################################
+#  95: Thursday, April 6(Spring)
+#  Year 325, Age of the Human
+#  Weather: 46 degrees, sunny
+
+###########################################
+#  96: Friday, April 7(Spring)
+#  Year 325, Age of the Human
+#  Weather: 36 degrees, sunny
+
+###########################################
+#  97: Saturday, April 8(Spring)
+#  Year 325, Age of the Human
+#  Weather: 30 degrees, sunny
+
+###########################################
+#  98: Sunday, April 9(Spring)
+#  Year 325, Age of the Human
+#  Weather: 25 degrees, sunny
+
+###########################################
+#  99: Monday, April 10(Spring)
+#  Year 325, Age of the Human
+#  Weather: 15 degrees, sunny
+
+###########################################
+#  100: Tuesday, April 11(Spring)
+#  Year 325, Age of the Human
+#  Weather: 21 degrees, snowy
+
+###########################################
+#  101: Wednesday, April 12(Spring)
+#  Year 325, Age of the Human
+#  Weather: 21 degrees, sunny
+
+###########################################
+#  102: Thursday, April 13(Spring)
+#  Year 325, Age of the Human
+#  Weather: 50 degrees, rainy
+
+###########################################
+#  103: Friday, April 14(Spring)
+#  Year 325, Age of the Human
+#  Weather: 23 degrees, sunny
+
+###########################################
+#  104: Saturday, April 15(Spring)
+#  Year 325, Age of the Human
+#  Weather: 24 degrees, snowy
+
+###########################################
+#  105: Sunday, April 16(Spring)
+#  Year 325, Age of the Human
+#  Weather: 32 degrees, sunny
+
+###########################################
+#  106: Monday, April 17(Spring)
+#  Year 325, Age of the Human
+#  Weather: 57 degrees, sunny
+
+###########################################
+#  107: Tuesday, April 18(Spring)
+#  Year 325, Age of the Human
+#  Weather: 33 degrees, sunny
+
+###########################################
+#  108: Wednesday, April 19(Spring)
+#  Year 325, Age of the Human
+#  Weather: 56 degrees, sunny
+
+###########################################
+#  109: Thursday, April 20(Spring)
+#  Year 325, Age of the Human
+#  Weather: 59 degrees, rainy
+
+###########################################
+#  110: Friday, April 21(Spring)
+#  Year 325, Age of the Human
+#  Weather: 36 degrees, sunny
+
+###########################################
+#  111: Saturday, April 22(Spring)
+#  Year 325, Age of the Human
+#  Weather: 59 degrees, rainy
+
+###########################################
+#  112: Sunday, April 23(Spring)
+#  Year 325, Age of the Human
+#  Weather: 22 degrees, sunny
+
+###########################################
+#  113: Monday, April 24(Spring)
+#  Year 325, Age of the Human
+#  Weather: 66 degrees, rainy
+
+###########################################
+#  114: Tuesday, April 25(Spring)
+#  Year 325, Age of the Human
+#  Weather: 18 degrees, sunny
+
+###########################################
+#  115: Wednesday, April 26(Spring)
+#  Year 325, Age of the Human
+#  Weather: 12 degrees, sunny
+
+###########################################
+#  116: Thursday, April 27(Spring)
+#  Year 325, Age of the Human
+#  Weather: 41 degrees, sunny
+
+###########################################
+#  117: Friday, April 28(Spring)
+#  Year 325, Age of the Human
+#  Weather: 46 degrees, sunny
+
+###########################################
+#  118: Saturday, April 29(Spring)
+#  Year 325, Age of the Human
+#  Weather: 32 degrees, sunny
+#  News: Political Gaffe
+
+###########################################
+#  119: Sunday, April 30(Spring)
+#  Year 325, Age of the Human
+#  Weather: 51 degrees, sunny
+
+###########################################
+#  120: Monday, May 1(Spring)
+#  Year 325, Age of the Human
+#  Weather: 33 degrees, sunny
+
+###########################################
+#  121: Tuesday, May 2(Spring)
+#  Year 325, Age of the Human
+#  Weather: 42 degrees, sunny
+
+###########################################
+#  122: Wednesday, May 3(Spring)
+#  Year 325, Age of the Human
+#  Weather: 35 degrees, rainy
+
+###########################################
+#  123: Thursday, May 4(Spring)
+#  Year 325, Age of the Human
+#  Weather: 39 degrees, sunny
+
+###########################################
+#  124: Friday, May 5(Spring)
+#  Year 325, Age of the Human
+#  Weather: 58 degrees, rainy
+
+###########################################
+#  125: Saturday, May 6(Spring)
+#  Year 325, Age of the Human
+#  Weather: 53 degrees, sunny
+
+###########################################
+#  126: Sunday, May 7(Spring)
+#  Year 325, Age of the Human
+#  Weather: 44 degrees, sunny
+
+###########################################
+#  127: Monday, May 8(Spring)
+#  Year 325, Age of the Human
+#  Weather: 50 degrees, rainy
+
+###########################################
+#  128: Tuesday, May 9(Spring)
+#  Year 325, Age of the Human
+#  Weather: 14 degrees, sunny
+
+###########################################
+#  129: Wednesday, May 10(Spring)
+#  Year 325, Age of the Human
+#  Weather: 55 degrees, sunny
+
+###########################################
+#  130: Thursday, May 11(Spring)
+#  Year 325, Age of the Human
+#  Weather: 38 degrees, sunny
+
+###########################################
+#  131: Friday, May 12(Spring)
+#  Year 325, Age of the Human
+#  Weather: 43 degrees, rainy
+
+###########################################
+#  132: Saturday, May 13(Spring)
+#  Year 325, Age of the Human
+#  Weather: 25 degrees, sunny
+
+###########################################
+#  133: Sunday, May 14(Spring)
+#  Year 325, Age of the Human
+#  Weather: 63 degrees, rainy
+
+###########################################
+#  134: Monday, May 15(Spring)
+#  Year 325, Age of the Human
+#  Weather: 40 degrees, sunny
+
+###########################################
+#  135: Tuesday, May 16(Spring)
+#  Year 325, Age of the Human
+#  Weather: 56 degrees, sunny
+
+###########################################
+#  136: Wednesday, May 17(Spring)
+#  Year 325, Age of the Human
+#  Weather: 49 degrees, sunny
+
+###########################################
+#  137: Thursday, May 18(Spring)
+#  Year 325, Age of the Human
+#  Weather: 39 degrees, rainy
+
+###########################################
+#  138: Friday, May 19(Spring)
+#  Year 325, Age of the Human
+#  Weather: 54 degrees, sunny
+
+###########################################
+#  139: Saturday, May 20(Spring)
+#  Year 325, Age of the Human
+#  Weather: 9 degrees, sunny
+
+###########################################
+#  140: Sunday, May 21(Spring)
+#  Year 325, Age of the Human
+#  Weather: 18 degrees, sunny
+
+###########################################
+#  141: Monday, May 22(Spring)
+#  Year 325, Age of the Human
+#  Weather: 47 degrees, sunny
+
+###########################################
+#  142: Tuesday, May 23(Spring)
+#  Year 325, Age of the Human
+#  Weather: 9 degrees, sunny
+
+###########################################
+#  143: Wednesday, May 24(Spring)
+#  Year 325, Age of the Human
+#  Weather: 17 degrees, snowy
+#  News: Assassination
+
+###########################################
+#  144: Thursday, May 25(Spring)
+#  Year 325, Age of the Human
+#  Weather: 42 degrees, sunny
+#  News: Political Gaffe
+
+###########################################
+#  145: Friday, May 26(Spring)
+#  Year 325, Age of the Human
+#  Weather: 43 degrees, rainy
+
+###########################################
+#  146: Saturday, May 27(Spring)
+#  Year 325, Age of the Human
+#  Weather: 58 degrees, sunny
+
+###########################################
+#  147: Sunday, May 28(Spring)
+#  Year 325, Age of the Human
+#  Weather: 59 degrees, sunny
+
+###########################################
+#  148: Monday, May 29(Spring)
+#  Year 325, Age of the Human
+#  Weather: 50 degrees, sunny
+
+###########################################
+#  149: Tuesday, May 30(Spring)
+#  Year 325, Age of the Human
+#  Weather: 39 degrees, sunny
+
+###########################################
+#  150: Wednesday, June 1(Summer)
+#  Year 325, Age of the Human
+#  Weather: 66 degrees, sunny
+
+###########################################
+#  151: Thursday, June 2(Summer)
+#  Year 325, Age of the Human
+#  Weather: 57 degrees, sunny
+
+###########################################
+#  152: Friday, June 3(Summer)
+#  Year 325, Age of the Human
+#  Weather: 68 degrees, sunny
+
+###########################################
+#  153: Saturday, June 4(Summer)
+#  Year 325, Age of the Human
+#  Weather: 106 degrees, sunny
+
+###########################################
+#  154: Sunday, June 5(Summer)
+#  Year 325, Age of the Human
+#  Weather: 88 degrees, sunny
+
+###########################################
+#  155: Monday, June 6(Summer)
+#  Year 325, Age of the Human
+#  Weather: 55 degrees, sunny
+#  News: Major Crime
+
+###########################################
+#  156: Tuesday, June 7(Summer)
+#  Year 325, Age of the Human
+#  Weather: 68 degrees, sunny
+
+###########################################
+#  157: Wednesday, June 8(Summer)
+#  Year 325, Age of the Human
+#  Weather: 86 degrees, sunny
+
+###########################################
+#  158: Thursday, June 9(Summer)
+#  Year 325, Age of the Human
+#  Weather: 64 degrees, sunny
+
+###########################################
+#  159: Friday, June 10(Summer)
+#  Year 325, Age of the Human
+#  Weather: 69 degrees, sunny
+
+###########################################
+#  160: Saturday, June 11(Summer)
+#  Year 325, Age of the Human
+#  Weather: 63 degrees, sunny
+
+###########################################
+#  161: Sunday, June 12(Summer)
+#  Year 325, Age of the Human
+#  Weather: 41 degrees, sunny
+#  News: Political Gaffe
+
+###########################################
+#  162: Monday, June 13(Summer)
+#  Year 325, Age of the Human
+#  Weather: 50 degrees, sunny
+
+###########################################
+#  163: Tuesday, June 14(Summer)
+#  Year 325, Age of the Human
+#  Weather: 73 degrees, sunny
+
+###########################################
+#  164: Wednesday, June 15(Summer)
+#  Year 325, Age of the Human
+#  Weather: 88 degrees, sunny
+
+###########################################
+#  165: Thursday, June 16(Summer)
+#  Year 325, Age of the Human
+#  Weather: 82 degrees, sunny
+
+###########################################
+#  166: Friday, June 17(Summer)
+#  Year 325, Age of the Human
+#  Weather: 69 degrees, sunny
+
+###########################################
+#  167: Saturday, June 18(Summer)
+#  Year 325, Age of the Human
+#  Weather: 65 degrees, sunny
+
+###########################################
+#  168: Sunday, June 19(Summer)
+#  Year 325, Age of the Human
+#  Weather: 68 degrees, sunny
+
+###########################################
+#  169: Monday, June 20(Summer)
+#  Year 325, Age of the Human
+#  Weather: 92 degrees, sunny
+
+###########################################
+#  170: Tuesday, June 21(Summer)
+#  Year 325, Age of the Human
+#  Weather: 73 degrees, sunny
+
+###########################################
+#  171: Wednesday, June 22(Summer)
+#  Year 325, Age of the Human
+#  Weather: 81 degrees, sunny
+#  Holday: Summer Solstice
+
+###########################################
+#  172: Thursday, June 23(Summer)
+#  Year 325, Age of the Human
+#  Weather: 66 degrees, rainy
+
+###########################################
+#  173: Friday, June 24(Summer)
+#  Year 325, Age of the Human
+#  Weather: 68 degrees, sunny
+
+###########################################
+#  174: Saturday, June 25(Summer)
+#  Year 325, Age of the Human
+#  Weather: 45 degrees, sunny
+
+###########################################
+#  175: Sunday, June 26(Summer)
+#  Year 325, Age of the Human
+#  Weather: 94 degrees, sunny
+#  News: Major Crime
+
+###########################################
+#  176: Monday, June 27(Summer)
+#  Year 325, Age of the Human
+#  Weather: 41 degrees, sunny
+
+###########################################
+#  177: Tuesday, June 28(Summer)
+#  Year 325, Age of the Human
+#  Weather: 46 degrees, sunny
+
+###########################################
+#  178: Wednesday, June 29(Summer)
+#  Year 325, Age of the Human
+#  Weather: 77 degrees, rainy
+
+###########################################
+#  179: Thursday, June 30(Summer)
+#  Year 325, Age of the Human
+#  Weather: 62 degrees, sunny
+
+###########################################
+#  180: Friday, July 1(Summer)
+#  Year 325, Age of the Human
+#  Weather: 64 degrees, sunny
+
+###########################################
+#  181: Saturday, July 2(Summer)
+#  Year 325, Age of the Human
+#  Weather: 39 degrees, sunny
+
+###########################################
+#  182: Sunday, July 3(Summer)
+#  Year 325, Age of the Human
+#  Weather: 95 degrees, sunny
+#  Holday: Day of honor
+
+###########################################
+#  183: Monday, July 4(Summer)
+#  Year 325, Age of the Human
+#  Weather: 58 degrees, sunny
+
+###########################################
+#  184: Tuesday, July 5(Summer)
+#  Year 325, Age of the Human
+#  Weather: 49 degrees, rainy
+
+###########################################
+#  185: Wednesday, July 6(Summer)
+#  Year 325, Age of the Human
+#  Weather: 90 degrees, sunny
+
+###########################################
+#  186: Thursday, July 7(Summer)
+#  Year 325, Age of the Human
+#  Weather: 86 degrees, sunny
+
+###########################################
+#  187: Friday, July 8(Summer)
+#  Year 325, Age of the Human
+#  Weather: 74 degrees, sunny
+
+###########################################
+#  188: Saturday, July 9(Summer)
+#  Year 325, Age of the Human
+#  Weather: 85 degrees, sunny
+
+###########################################
+#  189: Sunday, July 10(Summer)
+#  Year 325, Age of the Human
+#  Weather: 94 degrees, sunny
+
+###########################################
+#  190: Monday, July 11(Summer)
+#  Year 325, Age of the Human
+#  Weather: 65 degrees, sunny
+
+###########################################
+#  191: Tuesday, July 12(Summer)
+#  Year 325, Age of the Human
+#  Weather: 78 degrees, sunny
+
+###########################################
+#  192: Wednesday, July 13(Summer)
+#  Year 325, Age of the Human
+#  Weather: 64 degrees, sunny
+
+###########################################
+#  193: Thursday, July 14(Summer)
+#  Year 325, Age of the Human
+#  Weather: 61 degrees, sunny
+
+###########################################
+#  194: Friday, July 15(Summer)
+#  Year 325, Age of the Human
+#  Weather: 58 degrees, sunny
+
+###########################################
+#  195: Saturday, July 16(Summer)
+#  Year 325, Age of the Human
+#  Weather: 59 degrees, sunny
+
+###########################################
+#  196: Sunday, July 17(Summer)
+#  Year 325, Age of the Human
+#  Weather: 92 degrees, sunny
+#  News: Assassination, Major Crime
+
+###########################################
+#  197: Monday, July 18(Summer)
+#  Year 325, Age of the Human
+#  Weather: 85 degrees, sunny
+
+###########################################
+#  198: Tuesday, July 19(Summer)
+#  Year 325, Age of the Human
+#  Weather: 59 degrees, sunny
+
+###########################################
+#  199: Wednesday, July 20(Summer)
+#  Year 325, Age of the Human
+#  Weather: 93 degrees, sunny
+
+###########################################
+#  200: Thursday, July 21(Summer)
+#  Year 325, Age of the Human
+#  Weather: 54 degrees, sunny
+
+###########################################
+#  201: Friday, July 22(Summer)
+#  Year 325, Age of the Human
+#  Weather: 79 degrees, sunny
+
+###########################################
+#  202: Saturday, July 23(Summer)
+#  Year 325, Age of the Human
+#  Weather: 101 degrees, sunny
+
+###########################################
+#  203: Sunday, July 24(Summer)
+#  Year 325, Age of the Human
+#  Weather: 66 degrees, sunny
+
+###########################################
+#  204: Monday, July 25(Summer)
+#  Year 325, Age of the Human
+#  Weather: 81 degrees, sunny
+
+###########################################
+#  205: Tuesday, July 26(Summer)
+#  Year 325, Age of the Human
+#  Weather: 94 degrees, sunny
+
+###########################################
+#  206: Wednesday, July 27(Summer)
+#  Year 325, Age of the Human
+#  Weather: 73 degrees, sunny
+
+###########################################
+#  207: Thursday, July 28(Summer)
+#  Year 325, Age of the Human
+#  Weather: 53 degrees, sunny
+
+###########################################
+#  208: Friday, July 29(Summer)
+#  Year 325, Age of the Human
+#  Weather: 95 degrees, sunny
+
+###########################################
+#  209: Saturday, July 30(Summer)
+#  Year 325, Age of the Human
+#  Weather: 63 degrees, sunny
+
+###########################################
+#  210: Sunday, August 1(Summer)
+#  Year 325, Age of the Human
+#  Weather: 58 degrees, rainy
+
+###########################################
+#  211: Monday, August 2(Summer)
+#  Year 325, Age of the Human
+#  Weather: 54 degrees, sunny
+
+###########################################
+#  212: Tuesday, August 3(Summer)
+#  Year 325, Age of the Human
+#  Weather: 59 degrees, rainy
+
+###########################################
+#  213: Wednesday, August 4(Summer)
+#  Year 325, Age of the Human
+#  Weather: 74 degrees, sunny
+
+###########################################
+#  214: Thursday, August 5(Summer)
+#  Year 325, Age of the Human
+#  Weather: 45 degrees, sunny
+
+###########################################
+#  215: Friday, August 6(Summer)
+#  Year 325, Age of the Human
+#  Weather: 101 degrees, sunny
+
+###########################################
+#  216: Saturday, August 7(Summer)
+#  Year 325, Age of the Human
+#  Weather: 67 degrees, sunny
+
+###########################################
+#  217: Sunday, August 8(Summer)
+#  Year 325, Age of the Human
+#  Weather: 65 degrees, sunny
+#  News: Strange Meteor
+
+###########################################
+#  218: Monday, August 9(Summer)
+#  Year 325, Age of the Human
+#  Weather: 54 degrees, sunny
+
+###########################################
+#  219: Tuesday, August 10(Summer)
+#  Year 325, Age of the Human
+#  Weather: 69 degrees, sunny
+
+###########################################
+#  220: Wednesday, August 11(Summer)
+#  Year 325, Age of the Human
+#  Weather: 53 degrees, sunny
+
+###########################################
+#  221: Thursday, August 12(Summer)
+#  Year 325, Age of the Human
+#  Weather: 41 degrees, sunny
+
+###########################################
+#  222: Friday, August 13(Summer)
+#  Year 325, Age of the Human
+#  Weather: 96 degrees, rainy
+
+###########################################
+#  223: Saturday, August 14(Summer)
+#  Year 325, Age of the Human
+#  Weather: 101 degrees, rainy
+
+###########################################
+#  224: Sunday, August 15(Summer)
+#  Year 325, Age of the Human
+#  Weather: 57 degrees, sunny
+
+###########################################
+#  225: Monday, August 16(Summer)
+#  Year 325, Age of the Human
+#  Weather: 88 degrees, sunny
+
+###########################################
+#  226: Tuesday, August 17(Summer)
+#  Year 325, Age of the Human
+#  Weather: 80 degrees, sunny
+
+###########################################
+#  227: Wednesday, August 18(Summer)
+#  Year 325, Age of the Human
+#  Weather: 69 degrees, sunny
+
+###########################################
+#  228: Thursday, August 19(Summer)
+#  Year 325, Age of the Human
+#  Weather: 77 degrees, sunny
+
+###########################################
+#  229: Friday, August 20(Summer)
+#  Year 325, Age of the Human
+#  Weather: 52 degrees, sunny
+
+###########################################
+#  230: Saturday, August 21(Summer)
+#  Year 325, Age of the Human
+#  Weather: 60 degrees, sunny
+#  News: Assassination
+
+###########################################
+#  231: Sunday, August 22(Summer)
+#  Year 325, Age of the Human
+#  Weather: 95 degrees, sunny
+
+###########################################
+#  232: Monday, August 23(Summer)
+#  Year 325, Age of the Human
+#  Weather: 71 degrees, sunny
+
+###########################################
+#  233: Tuesday, August 24(Summer)
+#  Year 325, Age of the Human
+#  Weather: 70 degrees, sunny
+
+###########################################
+#  234: Wednesday, August 25(Summer)
+#  Year 325, Age of the Human
+#  Weather: 81 degrees, sunny
+
+###########################################
+#  235: Thursday, August 26(Summer)
+#  Year 325, Age of the Human
+#  Weather: 48 degrees, sunny
+
+###########################################
+#  236: Friday, August 27(Summer)
+#  Year 325, Age of the Human
+#  Weather: 92 degrees, sunny
+
+###########################################
+#  237: Saturday, August 28(Summer)
+#  Year 325, Age of the Human
+#  Weather: 76 degrees, sunny
+
+###########################################
+#  238: Sunday, August 29(Summer)
+#  Year 325, Age of the Human
+#  Weather: 98 degrees, sunny
+
+###########################################
+#  239: Monday, August 30(Summer)
+#  Year 325, Age of the Human
+#  Weather: 66 degrees, sunny
+
+###########################################
+#  240: Tuesday, September 1(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 19 degrees, sunny
+
+###########################################
+#  241: Wednesday, September 2(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 21 degrees, sunny
+
+###########################################
+#  242: Thursday, September 3(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 18 degrees, snowy
+
+###########################################
+#  243: Friday, September 4(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 55 degrees, sunny
+
+###########################################
+#  244: Saturday, September 5(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 27 degrees, sunny
+
+###########################################
+#  245: Sunday, September 6(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 38 degrees, sunny
+
+###########################################
+#  246: Monday, September 7(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 24 degrees, sunny
+
+###########################################
+#  247: Tuesday, September 8(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 5 degrees, sunny
+
+###########################################
+#  248: Wednesday, September 9(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 31 degrees, snowy
+
+###########################################
+#  249: Thursday, September 10(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 49 degrees, sunny
+
+###########################################
+#  250: Friday, September 11(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 40 degrees, sunny
+
+###########################################
+#  251: Saturday, September 12(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 40 degrees, sunny
+#  News: Blood Moon
+
+###########################################
+#  252: Sunday, September 13(Autumn)
+#  Year 325, Age of the Human
+#  Weather: -6 degrees, sunny
+
+###########################################
+#  253: Monday, September 14(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 48 degrees, sunny
+
+###########################################
+#  254: Tuesday, September 15(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 28 degrees, sunny
+
+###########################################
+#  255: Wednesday, September 16(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 14 degrees, sunny
+
+###########################################
+#  256: Thursday, September 17(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 12 degrees, sunny
+
+###########################################
+#  257: Friday, September 18(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 53 degrees, sunny
+#  Holday: Harvest day
+#  News: Major Crime, Blue Moon
+
+###########################################
+#  258: Saturday, September 19(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 25 degrees, overcast
+
+###########################################
+#  259: Sunday, September 20(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 24 degrees, sunny
+
+###########################################
+#  260: Monday, September 21(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 24 degrees, sunny
+
+###########################################
+#  261: Tuesday, September 22(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 40 degrees, sunny
+
+###########################################
+#  262: Wednesday, September 23(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 43 degrees, sunny
+#  Holday: Equinox
+
+###########################################
+#  263: Thursday, September 24(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 28 degrees, sunny
+
+###########################################
+#  264: Friday, September 25(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 43 degrees, sunny
+
+###########################################
+#  265: Saturday, September 26(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 47 degrees, sunny
+
+###########################################
+#  266: Sunday, September 27(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 30 degrees, sunny
+
+###########################################
+#  267: Monday, September 28(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 2 degrees, sunny
+
+###########################################
+#  268: Tuesday, September 29(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 31 degrees, sunny
+
+###########################################
+#  269: Wednesday, September 30(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 11 degrees, snowy
+
+###########################################
+#  270: Thursday, October 1(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 33 degrees, sunny
+
+###########################################
+#  271: Friday, October 2(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 47 degrees, sunny
+
+###########################################
+#  272: Saturday, October 3(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 7 degrees, sunny
+
+###########################################
+#  273: Sunday, October 4(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 33 degrees, sunny
+
+###########################################
+#  274: Monday, October 5(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 53 degrees, sunny
+
+###########################################
+#  275: Tuesday, October 6(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 31 degrees, sunny
+
+###########################################
+#  276: Wednesday, October 7(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 24 degrees, sunny
+
+###########################################
+#  277: Thursday, October 8(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 8 degrees, sunny
+
+###########################################
+#  278: Friday, October 9(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 41 degrees, sunny
+
+###########################################
+#  279: Saturday, October 10(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 41 degrees, sunny
+#  News: Major Crime
+
+###########################################
+#  280: Sunday, October 11(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 52 degrees, sunny
+
+###########################################
+#  281: Monday, October 12(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 49 degrees, sunny
+
+###########################################
+#  282: Tuesday, October 13(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 23 degrees, sunny
+
+###########################################
+#  283: Wednesday, October 14(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 40 degrees, sunny
+
+###########################################
+#  284: Thursday, October 15(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 8 degrees, snowy
+
+###########################################
+#  285: Friday, October 16(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 20 degrees, sunny
+
+###########################################
+#  286: Saturday, October 17(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 13 degrees, sunny
+
+###########################################
+#  287: Sunday, October 18(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 19 degrees, sunny
+
+###########################################
+#  288: Monday, October 19(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 42 degrees, sunny
+
+###########################################
+#  289: Tuesday, October 20(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 6 degrees, sunny
+
+###########################################
+#  290: Wednesday, October 21(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 14 degrees, sunny
+
+###########################################
+#  291: Thursday, October 22(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 23 degrees, sunny
+
+###########################################
+#  292: Friday, October 23(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 37 degrees, sunny
+
+###########################################
+#  293: Saturday, October 24(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 6 degrees, snowy
+
+###########################################
+#  294: Sunday, October 25(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 26 degrees, sunny
+
+###########################################
+#  295: Monday, October 26(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 27 degrees, sunny
+
+###########################################
+#  296: Tuesday, October 27(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 21 degrees, sunny
+
+###########################################
+#  297: Wednesday, October 28(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 13 degrees, sunny
+
+###########################################
+#  298: Thursday, October 29(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 37 degrees, sunny
+
+###########################################
+#  299: Friday, October 30(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 49 degrees, sunny
+
+###########################################
+#  300: Saturday, November 1(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 45 degrees, overcast
+#  Holday: Devils night
+
+###########################################
+#  301: Sunday, November 2(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 7 degrees, sunny
+
+###########################################
+#  302: Monday, November 3(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 22 degrees, snowy
+
+###########################################
+#  303: Tuesday, November 4(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 37 degrees, sunny
+
+###########################################
+#  304: Wednesday, November 5(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 10 degrees, sunny
+
+###########################################
+#  305: Thursday, November 6(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 18 degrees, sunny
+
+###########################################
+#  306: Friday, November 7(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 9 degrees, sunny
+
+###########################################
+#  307: Saturday, November 8(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 46 degrees, sunny
+
+###########################################
+#  308: Sunday, November 9(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 23 degrees, sunny
+
+###########################################
+#  309: Monday, November 10(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 28 degrees, sunny
+
+###########################################
+#  310: Tuesday, November 11(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 20 degrees, snowy
+
+###########################################
+#  311: Wednesday, November 12(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 26 degrees, sunny
+
+###########################################
+#  312: Thursday, November 13(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 49 degrees, sunny
+
+###########################################
+#  313: Friday, November 14(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 16 degrees, overcast
+
+###########################################
+#  314: Saturday, November 15(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 23 degrees, sunny
+
+###########################################
+#  315: Sunday, November 16(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 31 degrees, sunny
+
+###########################################
+#  316: Monday, November 17(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 42 degrees, sunny
+
+###########################################
+#  317: Tuesday, November 18(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 30 degrees, sunny
+
+###########################################
+#  318: Wednesday, November 19(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 35 degrees, sunny
+
+###########################################
+#  319: Thursday, November 20(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 25 degrees, sunny
+
+###########################################
+#  320: Friday, November 21(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 23 degrees, sunny
+
+###########################################
+#  321: Saturday, November 22(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 21 degrees, sunny
+
+###########################################
+#  322: Sunday, November 23(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 21 degrees, sunny
+
+###########################################
+#  323: Monday, November 24(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 55 degrees, sunny
+#  News: Blood Moon
+
+###########################################
+#  324: Tuesday, November 25(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 28 degrees, sunny
+
+###########################################
+#  325: Wednesday, November 26(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 51 degrees, sunny
+
+###########################################
+#  326: Thursday, November 27(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 42 degrees, sunny
+
+###########################################
+#  327: Friday, November 28(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 37 degrees, sunny
+
+###########################################
+#  328: Saturday, November 29(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 33 degrees, sunny
+
+###########################################
+#  329: Sunday, November 30(Autumn)
+#  Year 325, Age of the Human
+#  Weather: 24 degrees, sunny
+
+###########################################
+#  330: Monday, December 1(Winter)
+#  Year 325, Age of the Human
+#  Weather: -5 degrees, sunny
+
+###########################################
+#  331: Tuesday, December 2(Winter)
+#  Year 325, Age of the Human
+#  Weather: 15 degrees, overcast
+
+###########################################
+#  332: Wednesday, December 3(Winter)
+#  Year 325, Age of the Human
+#  Weather: 7 degrees, sunny
+
+###########################################
+#  333: Thursday, December 4(Winter)
+#  Year 325, Age of the Human
+#  Weather: 10 degrees, overcast
+
+###########################################
+#  334: Friday, December 5(Winter)
+#  Year 325, Age of the Human
+#  Weather: -8 degrees, sunny
+
+###########################################
+#  335: Saturday, December 6(Winter)
+#  Year 325, Age of the Human
+#  Weather: 31 degrees, sunny
+
+###########################################
+#  336: Sunday, December 7(Winter)
+#  Year 325, Age of the Human
+#  Weather: 27 degrees, snowy
+
+###########################################
+#  337: Monday, December 8(Winter)
+#  Year 325, Age of the Human
+#  Weather: 25 degrees, sunny
+
+###########################################
+#  338: Tuesday, December 9(Winter)
+#  Year 325, Age of the Human
+#  Weather: -10 degrees, sunny
+
+###########################################
+#  339: Wednesday, December 10(Winter)
+#  Year 325, Age of the Human
+#  Weather: -3 degrees, overcast
+
+###########################################
+#  340: Thursday, December 11(Winter)
+#  Year 325, Age of the Human
+#  Weather: 11 degrees, snowy
+#  Holday: Day of darkness
+
+###########################################
+#  341: Friday, December 12(Winter)
+#  Year 325, Age of the Human
+#  Weather: -1 degrees, overcast
+
+###########################################
+#  342: Saturday, December 13(Winter)
+#  Year 325, Age of the Human
+#  Weather: 26 degrees, sunny
+
+###########################################
+#  343: Sunday, December 14(Winter)
+#  Year 325, Age of the Human
+#  Weather: -2 degrees, sunny
+#  News: Blue Moon
+
+###########################################
+#  344: Monday, December 15(Winter)
+#  Year 325, Age of the Human
+#  Weather: 5 degrees, overcast
+
+###########################################
+#  345: Tuesday, December 16(Winter)
+#  Year 325, Age of the Human
+#  Weather: 7 degrees, sunny
+
+###########################################
+#  346: Wednesday, December 17(Winter)
+#  Year 325, Age of the Human
+#  Weather: 19 degrees, sunny
+
+###########################################
+#  347: Thursday, December 18(Winter)
+#  Year 325, Age of the Human
+#  Weather: 27 degrees, sunny
+#  News: Attacked Village
+
+###########################################
+#  348: Friday, December 19(Winter)
+#  Year 325, Age of the Human
+#  Weather: 1 degrees, sunny
+
+###########################################
+#  349: Saturday, December 20(Winter)
+#  Year 325, Age of the Human
+#  Weather: 22 degrees, sunny
+
+###########################################
+#  350: Sunday, December 21(Winter)
+#  Year 325, Age of the Human
+#  Weather: -7 degrees, sunny
+#  News: Major Crime
+
+###########################################
+#  351: Monday, December 22(Winter)
+#  Year 325, Age of the Human
+#  Weather: -20 degrees, sunny
+#  Holday: Winter Solstice
+
+###########################################
+#  352: Tuesday, December 23(Winter)
+#  Year 325, Age of the Human
+#  Weather: 21 degrees, sunny
+
+###########################################
+#  353: Wednesday, December 24(Winter)
+#  Year 325, Age of the Human
+#  Weather: 33 degrees, sunny
+
+###########################################
+#  354: Thursday, December 25(Winter)
+#  Year 325, Age of the Human
+#  Weather: 28 degrees, sunny
+
+###########################################
+#  355: Friday, December 26(Winter)
+#  Year 325, Age of the Human
+#  Weather: -11 degrees, overcast
+
+###########################################
+#  356: Saturday, December 27(Winter)
+#  Year 325, Age of the Human
+#  Weather: 2 degrees, sunny
+
+###########################################
+#  357: Sunday, December 28(Winter)
+#  Year 325, Age of the Human
+#  Weather: 11 degrees, sunny
+
+###########################################
+#  358: Monday, December 29(Winter)
+#  Year 325, Age of the Human
+#  Weather: 24 degrees, sunny
+
+###########################################
+#  359: Tuesday, December 30(Winter)
+#  Year 325, Age of the Human
+#  Weather: 11 degrees, sunny
+
+###########################################
+#  1: Monday, January 2(Winter)
+#  Year 325, Age of the Human
+#  Weather: 19 degrees, sunny
+#  Holday: New Year day
+
+###########################################
+#  2: Tuesday, January 3(Winter)
+#  Year 326, Age of the Human
+#  Weather: 6 degrees, snowy
+
+###########################################
+#  3: Wednesday, January 4(Winter)
+#  Year 326, Age of the Human
+#  Weather: 15 degrees, sunny
+
+###########################################
+#  4: Thursday, January 5(Winter)
+#  Year 326, Age of the Human
+#  Weather: -5 degrees, sunny
+
+###########################################
+#  5: Friday, January 6(Winter)
+#  Year 326, Age of the Human
+#  Weather: 7 degrees, sunny
+
+###########################################
+#  6: Saturday, January 7(Winter)
+#  Year 326, Age of the Human
+#  Weather: -12 degrees, sunny
+
+###########################################
+#  7: Sunday, January 8(Winter)
+#  Year 326, Age of the Human
+#  Weather: -3 degrees, sunny
+
+###########################################
+#  8: Monday, January 9(Winter)
+#  Year 326, Age of the Human
+#  Weather: 7 degrees, sunny
+#  News: Attacked Village
+
+###########################################
+#  9: Tuesday, January 10(Winter)
+#  Year 326, Age of the Human
+#  Weather: 11 degrees, sunny
+
+###########################################
+#  10: Wednesday, January 11(Winter)
+#  Year 326, Age of the Human
+#  Weather: 15 degrees, snowy
+
+###########################################
+#  11: Thursday, January 12(Winter)
+#  Year 326, Age of the Human
+#  Weather: -3 degrees, sunny
+
+###########################################
+#  12: Friday, January 13(Winter)
+#  Year 326, Age of the Human
+#  Weather: 7 degrees, sunny
+
+###########################################
+#  13: Saturday, January 14(Winter)
+#  Year 326, Age of the Human
+#  Weather: 5 degrees, overcast
+
+###########################################
+#  14: Sunday, January 15(Winter)
+#  Year 326, Age of the Human
+#  Weather: -19 degrees, sunny
+
+###########################################
+#  15: Monday, January 16(Winter)
+#  Year 326, Age of the Human
+#  Weather: -2 degrees, overcast
+
+###########################################
+#  16: Tuesday, January 17(Winter)
+#  Year 326, Age of the Human
+#  Weather: 20 degrees, sunny
+
+###########################################
+#  17: Wednesday, January 18(Winter)
+#  Year 326, Age of the Human
+#  Weather: -9 degrees, sunny
+
+###########################################
+#  18: Thursday, January 19(Winter)
+#  Year 326, Age of the Human
+#  Weather: 13 degrees, sunny
+
+###########################################
+#  19: Friday, January 20(Winter)
+#  Year 326, Age of the Human
+#  Weather: 21 degrees, sunny
+
+###########################################
+#  20: Saturday, January 21(Winter)
+#  Year 326, Age of the Human
+#  Weather: 2 degrees, sunny
+
+###########################################
+#  21: Sunday, January 22(Winter)
+#  Year 326, Age of the Human
+#  Weather: 9 degrees, sunny
+
+###########################################
+#  22: Monday, January 23(Winter)
+#  Year 326, Age of the Human
+#  Weather: 0 degrees, sunny
+#  News: Blood Moon
+
+###########################################
+#  23: Tuesday, January 24(Winter)
+#  Year 326, Age of the Human
+#  Weather: 15 degrees, sunny
+
+###########################################
+#  24: Wednesday, January 25(Winter)
+#  Year 326, Age of the Human
+#  Weather: 8 degrees, overcast
+
+###########################################
+#  25: Thursday, January 26(Winter)
+#  Year 326, Age of the Human
+#  Weather: 5 degrees, overcast
+
+###########################################
+#  26: Friday, January 27(Winter)
+#  Year 326, Age of the Human
+#  Weather: 7 degrees, sunny
+
+###########################################
+#  27: Saturday, January 28(Winter)
+#  Year 326, Age of the Human
+#  Weather: 8 degrees, sunny
+#  News: Assassination
+
+###########################################
+#  28: Sunday, January 29(Winter)
+#  Year 326, Age of the Human
+#  Weather: 6 degrees, sunny
+
+###########################################
+#  29: Monday, January 30(Winter)
+#  Year 326, Age of the Human
+#  Weather: 7 degrees, sunny
+
+###########################################
+#  30: Tuesday, February 1(Winter)
+#  Year 326, Age of the Human
+#  Weather: 11 degrees, sunny
+
+###########################################
+#  31: Wednesday, February 2(Winter)
+#  Year 326, Age of the Human
+#  Weather: 33 degrees, rainy
+
+###########################################
+#  32: Thursday, February 3(Winter)
+#  Year 326, Age of the Human
+#  Weather: 14 degrees, sunny
+
+###########################################
+#  33: Friday, February 4(Winter)
+#  Year 326, Age of the Human
+#  Weather: 14 degrees, sunny
+
+###########################################
+#  34: Saturday, February 5(Winter)
+#  Year 326, Age of the Human
+#  Weather: 5 degrees, sunny
+
+###########################################
+#  35: Sunday, February 6(Winter)
+#  Year 326, Age of the Human
+#  Weather: -6 degrees, sunny
+
+###########################################
+#  36: Monday, February 7(Winter)
+#  Year 326, Age of the Human
+#  Weather: -8 degrees, sunny
+
+###########################################
+#  37: Tuesday, February 8(Winter)
+#  Year 326, Age of the Human
+#  Weather: 18 degrees, sunny
+
+###########################################
+#  38: Wednesday, February 9(Winter)
+#  Year 326, Age of the Human
+#  Weather: 22 degrees, sunny
+#  News: Attacked Village
+
+###########################################
+#  39: Thursday, February 10(Winter)
+#  Year 326, Age of the Human
+#  Weather: -5 degrees, sunny
+
+###########################################
+#  40: Friday, February 11(Winter)
+#  Year 326, Age of the Human
+#  Weather: -13 degrees, overcast
+
+###########################################
+#  41: Saturday, February 12(Winter)
+#  Year 326, Age of the Human
+#  Weather: 19 degrees, sunny
+
+###########################################
+#  42: Sunday, February 13(Winter)
+#  Year 326, Age of the Human
+#  Weather: 11 degrees, snowy
+
+###########################################
+#  43: Monday, February 14(Winter)
+#  Year 326, Age of the Human
+#  Weather: 12 degrees, sunny
+
+###########################################
+#  44: Tuesday, February 15(Winter)
+#  Year 326, Age of the Human
+#  Weather: 13 degrees, sunny
+
+###########################################
+#  45: Wednesday, February 16(Winter)
+#  Year 326, Age of the Human
+#  Weather: -16 degrees, sunny
+
+###########################################
+#  46: Thursday, February 17(Winter)
+#  Year 326, Age of the Human
+#  Weather: 11 degrees, sunny
+
+###########################################
+#  47: Friday, February 18(Winter)
+#  Year 326, Age of the Human
+#  Weather: -18 degrees, sunny
+
+###########################################
+#  48: Saturday, February 19(Winter)
+#  Year 326, Age of the Human
+#  Weather: 18 degrees, sunny
+
+###########################################
+#  49: Sunday, February 20(Winter)
+#  Year 326, Age of the Human
+#  Weather: 6 degrees, sunny
+
+###########################################
+#  50: Monday, February 21(Winter)
+#  Year 326, Age of the Human
+#  Weather: 20 degrees, sunny
+
+###########################################
+#  51: Tuesday, February 22(Winter)
+#  Year 326, Age of the Human
+#  Weather: 33 degrees, sunny
+#  News: Assassination
+
+###########################################
+#  52: Wednesday, February 23(Winter)
+#  Year 326, Age of the Human
+#  Weather: 25 degrees, sunny
+
+###########################################
+#  53: Thursday, February 24(Winter)
+#  Year 326, Age of the Human
+#  Weather: -2 degrees, sunny
+
+###########################################
+#  54: Friday, February 25(Winter)
+#  Year 326, Age of the Human
+#  Weather: 14 degrees, sunny
+
+###########################################
+#  55: Saturday, February 26(Winter)
+#  Year 326, Age of the Human
+#  Weather: -14 degrees, sunny
+
+###########################################
+#  56: Sunday, February 27(Winter)
+#  Year 326, Age of the Human
+#  Weather: -5 degrees, sunny
+
+###########################################
+#  57: Monday, February 28(Winter)
+#  Year 326, Age of the Human
+#  Weather: 26 degrees, sunny
+
+###########################################
+#  58: Tuesday, February 29(Winter)
+#  Year 326, Age of the Human
+#  Weather: 7 degrees, sunny
+
+###########################################
+#  59: Wednesday, February 30(Winter)
+#  Year 326, Age of the Human
+#  Weather: 14 degrees, sunny
+
+###########################################
+#  60: Thursday, March 1(Spring)
+#  Year 326, Age of the Human
+#  Weather: 12 degrees, sunny
+
+###########################################
+#  61: Friday, March 2(Spring)
+#  Year 326, Age of the Human
+#  Weather: 36 degrees, rainy
+
+###########################################
+#  62: Saturday, March 3(Spring)
+#  Year 326, Age of the Human
+#  Weather: 61 degrees, sunny
+
+###########################################
+#  63: Sunday, March 4(Spring)
+#  Year 326, Age of the Human
+#  Weather: 28 degrees, sunny
+
+###########################################
+#  64: Monday, March 5(Spring)
+#  Year 326, Age of the Human
+#  Weather: 47 degrees, sunny
+
+###########################################
+#  65: Tuesday, March 6(Spring)
+#  Year 326, Age of the Human
+#  Weather: 13 degrees, snowy
+
+###########################################
+#  66: Wednesday, March 7(Spring)
+#  Year 326, Age of the Human
+#  Weather: 31 degrees, snowy
+
+###########################################
+#  67: Thursday, March 8(Spring)
+#  Year 326, Age of the Human
+#  Weather: 47 degrees, rainy
+
+###########################################
+#  68: Friday, March 9(Spring)
+#  Year 326, Age of the Human
+#  Weather: 50 degrees, sunny
+
+###########################################
+#  69: Saturday, March 10(Spring)
+#  Year 326, Age of the Human
+#  Weather: 64 degrees, rainy
+
+###########################################
+#  70: Sunday, March 11(Spring)
+#  Year 326, Age of the Human
+#  Weather: 31 degrees, snowy
+
+###########################################
+#  71: Monday, March 12(Spring)
+#  Year 326, Age of the Human
+#  Weather: 57 degrees, rainy
+
+###########################################
+#  72: Tuesday, March 13(Spring)
+#  Year 326, Age of the Human
+#  Weather: 43 degrees, sunny
+
+###########################################
+#  73: Wednesday, March 14(Spring)
+#  Year 326, Age of the Human
+#  Weather: 26 degrees, snowy
+
+###########################################
+#  74: Thursday, March 15(Spring)
+#  Year 326, Age of the Human
+#  Weather: 42 degrees, sunny
+
+###########################################
+#  75: Friday, March 16(Spring)
+#  Year 326, Age of the Human
+#  Weather: 46 degrees, sunny
+
+###########################################
+#  76: Saturday, March 17(Spring)
+#  Year 326, Age of the Human
+#  Weather: 35 degrees, sunny
+
+###########################################
+#  77: Sunday, March 18(Spring)
+#  Year 326, Age of the Human
+#  Weather: 47 degrees, sunny
+
+###########################################
+#  78: Monday, March 19(Spring)
+#  Year 326, Age of the Human
+#  Weather: 18 degrees, sunny
+
+###########################################
+#  79: Tuesday, March 20(Spring)
+#  Year 326, Age of the Human
+#  Weather: 66 degrees, sunny
+
+###########################################
+#  80: Wednesday, March 21(Spring)
+#  Year 326, Age of the Human
+#  Weather: 68 degrees, sunny
+
+###########################################
+#  81: Thursday, March 22(Spring)
+#  Year 326, Age of the Human
+#  Weather: 40 degrees, rainy
+
+###########################################
+#  82: Friday, March 23(Spring)
+#  Year 326, Age of the Human
+#  Weather: 42 degrees, sunny
+
+###########################################
+#  83: Saturday, March 24(Spring)
+#  Year 326, Age of the Human
+#  Weather: 49 degrees, sunny
+
+###########################################
+#  84: Sunday, March 25(Spring)
+#  Year 326, Age of the Human
+#  Weather: 47 degrees, sunny
+
+###########################################
+#  85: Monday, March 26(Spring)
+#  Year 326, Age of the Human
+#  Weather: 43 degrees, sunny
+
+###########################################
+#  86: Tuesday, March 27(Spring)
+#  Year 326, Age of the Human
+#  Weather: 28 degrees, sunny
+
+###########################################
+#  87: Wednesday, March 28(Spring)
+#  Year 326, Age of the Human
+#  Weather: 50 degrees, sunny
+
+###########################################
+#  88: Thursday, March 29(Spring)
+#  Year 326, Age of the Human
+#  Weather: 30 degrees, sunny
+
+###########################################
+#  89: Friday, March 30(Spring)
+#  Year 326, Age of the Human
+#  Weather: 32 degrees, sunny
+
+###########################################
+#  90: Saturday, April 1(Spring)
+#  Year 326, Age of the Human
+#  Weather: 49 degrees, sunny
+
+###########################################
+#  91: Sunday, April 2(Spring)
+#  Year 326, Age of the Human
+#  Weather: 69 degrees, sunny
+
+###########################################
+#  92: Monday, April 3(Spring)
+#  Year 326, Age of the Human
+#  Weather: 29 degrees, sunny
+
+###########################################
+#  93: Tuesday, April 4(Spring)
+#  Year 326, Age of the Human
+#  Weather: 25 degrees, sunny
+
+###########################################
+#  94: Wednesday, April 5(Spring)
+#  Year 326, Age of the Human
+#  Weather: 61 degrees, sunny
+
+###########################################
+#  95: Thursday, April 6(Spring)
+#  Year 326, Age of the Human
+#  Weather: 31 degrees, sunny
+
+###########################################
+#  96: Friday, April 7(Spring)
+#  Year 326, Age of the Human
+#  Weather: 58 degrees, rainy
+
+###########################################
+#  97: Saturday, April 8(Spring)
+#  Year 326, Age of the Human
+#  Weather: 67 degrees, sunny
+
+###########################################
+#  98: Sunday, April 9(Spring)
+#  Year 326, Age of the Human
+#  Weather: 62 degrees, sunny
+
+###########################################
+#  99: Monday, April 10(Spring)
+#  Year 326, Age of the Human
+#  Weather: 30 degrees, sunny
+
+###########################################
+#  100: Tuesday, April 11(Spring)
+#  Year 326, Age of the Human
+#  Weather: 58 degrees, sunny
+
+###########################################
+#  101: Wednesday, April 12(Spring)
+#  Year 326, Age of the Human
+#  Weather: 62 degrees, rainy
+
+###########################################
+#  102: Thursday, April 13(Spring)
+#  Year 326, Age of the Human
+#  Weather: 64 degrees, sunny
+
+###########################################
+#  103: Friday, April 14(Spring)
+#  Year 326, Age of the Human
+#  Weather: 25 degrees, sunny
+
+###########################################
+#  104: Saturday, April 15(Spring)
+#  Year 326, Age of the Human
+#  Weather: 42 degrees, sunny
+
+###########################################
+#  105: Sunday, April 16(Spring)
+#  Year 326, Age of the Human
+#  Weather: 29 degrees, snowy
+
+###########################################
+#  106: Monday, April 17(Spring)
+#  Year 326, Age of the Human
+#  Weather: 20 degrees, sunny
+
+###########################################
+#  107: Tuesday, April 18(Spring)
+#  Year 326, Age of the Human
+#  Weather: 46 degrees, sunny
+
+###########################################
+#  108: Wednesday, April 19(Spring)
+#  Year 326, Age of the Human
+#  Weather: 29 degrees, sunny
+
+###########################################
+#  109: Thursday, April 20(Spring)
+#  Year 326, Age of the Human
+#  Weather: 29 degrees, sunny
+
+###########################################
+#  110: Friday, April 21(Spring)
+#  Year 326, Age of the Human
+#  Weather: 48 degrees, sunny
+
+###########################################
+#  111: Saturday, April 22(Spring)
+#  Year 326, Age of the Human
+#  Weather: 34 degrees, rainy
+
+###########################################
+#  112: Sunday, April 23(Spring)
+#  Year 326, Age of the Human
+#  Weather: 34 degrees, rainy
+
+###########################################
+#  113: Monday, April 24(Spring)
+#  Year 326, Age of the Human
+#  Weather: 51 degrees, sunny
+
+###########################################
+#  114: Tuesday, April 25(Spring)
+#  Year 326, Age of the Human
+#  Weather: 30 degrees, sunny
+
+###########################################
+#  115: Wednesday, April 26(Spring)
+#  Year 326, Age of the Human
+#  Weather: 26 degrees, sunny
+
+###########################################
+#  116: Thursday, April 27(Spring)
+#  Year 326, Age of the Human
+#  Weather: 41 degrees, sunny
+#  News: Attacked Village
+
+###########################################
+#  117: Friday, April 28(Spring)
+#  Year 326, Age of the Human
+#  Weather: 42 degrees, sunny
+
+###########################################
+#  118: Saturday, April 29(Spring)
+#  Year 326, Age of the Human
+#  Weather: 43 degrees, sunny
+
+###########################################
+#  119: Sunday, April 30(Spring)
+#  Year 326, Age of the Human
+#  Weather: 26 degrees, sunny
+
+###########################################
+#  120: Monday, May 1(Spring)
+#  Year 326, Age of the Human
+#  Weather: 51 degrees, sunny
+
+###########################################
+#  121: Tuesday, May 2(Spring)
+#  Year 326, Age of the Human
+#  Weather: 45 degrees, sunny
+
+###########################################
+#  122: Wednesday, May 3(Spring)
+#  Year 326, Age of the Human
+#  Weather: 50 degrees, rainy
+
+###########################################
+#  123: Thursday, May 4(Spring)
+#  Year 326, Age of the Human
+#  Weather: 40 degrees, sunny
+
+###########################################
+#  124: Friday, May 5(Spring)
+#  Year 326, Age of the Human
+#  Weather: 50 degrees, rainy
+
+###########################################
+#  125: Saturday, May 6(Spring)
+#  Year 326, Age of the Human
+#  Weather: 32 degrees, snowy
+
+###########################################
+#  126: Sunday, May 7(Spring)
+#  Year 326, Age of the Human
+#  Weather: 19 degrees, snowy
+
+###########################################
+#  127: Monday, May 8(Spring)
+#  Year 326, Age of the Human
+#  Weather: 54 degrees, rainy
+
+###########################################
+#  128: Tuesday, May 9(Spring)
+#  Year 326, Age of the Human
+#  Weather: 55 degrees, sunny
+
+###########################################
+#  129: Wednesday, May 10(Spring)
+#  Year 326, Age of the Human
+#  Weather: 36 degrees, sunny
+
+###########################################
+#  130: Thursday, May 11(Spring)
+#  Year 326, Age of the Human
+#  Weather: 26 degrees, snowy
+
+###########################################
+#  131: Friday, May 12(Spring)
+#  Year 326, Age of the Human
+#  Weather: 40 degrees, sunny
+
+###########################################
+#  132: Saturday, May 13(Spring)
+#  Year 326, Age of the Human
+#  Weather: 35 degrees, sunny
+
+###########################################
+#  133: Sunday, May 14(Spring)
+#  Year 326, Age of the Human
+#  Weather: 67 degrees, sunny
+
+###########################################
+#  134: Monday, May 15(Spring)
+#  Year 326, Age of the Human
+#  Weather: 11 degrees, snowy
+
+###########################################
+#  135: Tuesday, May 16(Spring)
+#  Year 326, Age of the Human
+#  Weather: 34 degrees, sunny
+#  News: Strange Meteor
+
+###########################################
+#  136: Wednesday, May 17(Spring)
+#  Year 326, Age of the Human
+#  Weather: 47 degrees, sunny
+
+###########################################
+#  137: Thursday, May 18(Spring)
+#  Year 326, Age of the Human
+#  Weather: 38 degrees, rainy
+
+###########################################
+#  138: Friday, May 19(Spring)
+#  Year 326, Age of the Human
+#  Weather: 68 degrees, sunny
+
+###########################################
+#  139: Saturday, May 20(Spring)
+#  Year 326, Age of the Human
+#  Weather: 25 degrees, sunny
+
+###########################################
+#  140: Sunday, May 21(Spring)
+#  Year 326, Age of the Human
+#  Weather: 12 degrees, sunny
+
+###########################################
+#  141: Monday, May 22(Spring)
+#  Year 326, Age of the Human
+#  Weather: 58 degrees, sunny
+
+###########################################
+#  142: Tuesday, May 23(Spring)
+#  Year 326, Age of the Human
+#  Weather: 37 degrees, sunny
+
+###########################################
+#  143: Wednesday, May 24(Spring)
+#  Year 326, Age of the Human
+#  Weather: 32 degrees, sunny
+
+###########################################
+#  144: Thursday, May 25(Spring)
+#  Year 326, Age of the Human
+#  Weather: 29 degrees, snowy
+
+###########################################
+#  145: Friday, May 26(Spring)
+#  Year 326, Age of the Human
+#  Weather: 43 degrees, sunny
+#  News: Major Crime
+
+###########################################
+#  146: Saturday, May 27(Spring)
+#  Year 326, Age of the Human
+#  Weather: 50 degrees, rainy
+
+###########################################
+#  147: Sunday, May 28(Spring)
+#  Year 326, Age of the Human
+#  Weather: 23 degrees, snowy
+
+###########################################
+#  148: Monday, May 29(Spring)
+#  Year 326, Age of the Human
+#  Weather: 32 degrees, sunny
+
+###########################################
+#  149: Tuesday, May 30(Spring)
+#  Year 326, Age of the Human
+#  Weather: 46 degrees, sunny
+
+###########################################
+#  150: Wednesday, June 1(Summer)
+#  Year 326, Age of the Human
+#  Weather: 65 degrees, sunny
+
+###########################################
+#  151: Thursday, June 2(Summer)
+#  Year 326, Age of the Human
+#  Weather: 75 degrees, sunny
+
+###########################################
+#  152: Friday, June 3(Summer)
+#  Year 326, Age of the Human
+#  Weather: 61 degrees, sunny
+
+###########################################
+#  153: Saturday, June 4(Summer)
+#  Year 326, Age of the Human
+#  Weather: 77 degrees, sunny
+
+###########################################
+#  154: Sunday, June 5(Summer)
+#  Year 326, Age of the Human
+#  Weather: 41 degrees, sunny
+
+###########################################
+#  155: Monday, June 6(Summer)
+#  Year 326, Age of the Human
+#  Weather: 58 degrees, sunny
+
+###########################################
+#  156: Tuesday, June 7(Summer)
+#  Year 326, Age of the Human
+#  Weather: 72 degrees, sunny
+
+###########################################
+#  157: Wednesday, June 8(Summer)
+#  Year 326, Age of the Human
+#  Weather: 43 degrees, sunny
+
+###########################################
+#  158: Thursday, June 9(Summer)
+#  Year 326, Age of the Human
+#  Weather: 47 degrees, sunny
+
+###########################################
+#  159: Friday, June 10(Summer)
+#  Year 326, Age of the Human
+#  Weather: 53 degrees, rainy
+
+###########################################
+#  160: Saturday, June 11(Summer)
+#  Year 326, Age of the Human
+#  Weather: 58 degrees, sunny
+
+###########################################
+#  161: Sunday, June 12(Summer)
+#  Year 326, Age of the Human
+#  Weather: 86 degrees, sunny
+
+###########################################
+#  162: Monday, June 13(Summer)
+#  Year 326, Age of the Human
+#  Weather: 87 degrees, sunny
+
+###########################################
+#  163: Tuesday, June 14(Summer)
+#  Year 326, Age of the Human
+#  Weather: 89 degrees, sunny
+
+###########################################
+#  164: Wednesday, June 15(Summer)
+#  Year 326, Age of the Human
+#  Weather: 57 degrees, sunny
+
+###########################################
+#  165: Thursday, June 16(Summer)
+#  Year 326, Age of the Human
+#  Weather: 67 degrees, sunny
+
+###########################################
+#  166: Friday, June 17(Summer)
+#  Year 326, Age of the Human
+#  Weather: 51 degrees, sunny
+
+###########################################
+#  167: Saturday, June 18(Summer)
+#  Year 326, Age of the Human
+#  Weather: 82 degrees, sunny
+
+###########################################
+#  168: Sunday, June 19(Summer)
+#  Year 326, Age of the Human
+#  Weather: 80 degrees, sunny
+
+###########################################
+#  169: Monday, June 20(Summer)
+#  Year 326, Age of the Human
+#  Weather: 74 degrees, sunny
+
+###########################################
+#  170: Tuesday, June 21(Summer)
+#  Year 326, Age of the Human
+#  Weather: 42 degrees, sunny
+
+###########################################
+#  171: Wednesday, June 22(Summer)
+#  Year 326, Age of the Human
+#  Weather: 55 degrees, sunny
+#  Holday: Summer Solstice
+
+###########################################
+#  172: Thursday, June 23(Summer)
+#  Year 326, Age of the Human
+#  Weather: 78 degrees, sunny
+
+###########################################
+#  173: Friday, June 24(Summer)
+#  Year 326, Age of the Human
+#  Weather: 67 degrees, sunny
+
+###########################################
+#  174: Saturday, June 25(Summer)
+#  Year 326, Age of the Human
+#  Weather: 107 degrees, sunny
+
+###########################################
+#  175: Sunday, June 26(Summer)
+#  Year 326, Age of the Human
+#  Weather: 50 degrees, sunny
+
+###########################################
+#  176: Monday, June 27(Summer)
+#  Year 326, Age of the Human
+#  Weather: 74 degrees, rainy
+
+###########################################
+#  177: Tuesday, June 28(Summer)
+#  Year 326, Age of the Human
+#  Weather: 66 degrees, sunny
+
+###########################################
+#  178: Wednesday, June 29(Summer)
+#  Year 326, Age of the Human
+#  Weather: 83 degrees, sunny
+#  News: Blood Moon
+
+###########################################
+#  179: Thursday, June 30(Summer)
+#  Year 326, Age of the Human
+#  Weather: 61 degrees, sunny
+
+###########################################
+#  180: Friday, July 1(Summer)
+#  Year 326, Age of the Human
+#  Weather: 81 degrees, sunny
+
+###########################################
+#  181: Saturday, July 2(Summer)
+#  Year 326, Age of the Human
+#  Weather: 89 degrees, sunny
+
+###########################################
+#  182: Sunday, July 3(Summer)
+#  Year 326, Age of the Human
+#  Weather: 47 degrees, sunny
+#  Holday: Day of honor
+
+###########################################
+#  183: Monday, July 4(Summer)
+#  Year 326, Age of the Human
+#  Weather: 89 degrees, rainy
+
+###########################################
+#  184: Tuesday, July 5(Summer)
+#  Year 326, Age of the Human
+#  Weather: 83 degrees, sunny
+
+###########################################
+#  185: Wednesday, July 6(Summer)
+#  Year 326, Age of the Human
+#  Weather: 67 degrees, sunny
+
+###########################################
+#  186: Thursday, July 7(Summer)
+#  Year 326, Age of the Human
+#  Weather: 78 degrees, sunny
+
+###########################################
+#  187: Friday, July 8(Summer)
+#  Year 326, Age of the Human
+#  Weather: 79 degrees, sunny
+#  News: Assassination
+
+###########################################
+#  188: Saturday, July 9(Summer)
+#  Year 326, Age of the Human
+#  Weather: 72 degrees, sunny
+
+###########################################
+#  189: Sunday, July 10(Summer)
+#  Year 326, Age of the Human
+#  Weather: 57 degrees, sunny
+
+###########################################
+#  190: Monday, July 11(Summer)
+#  Year 326, Age of the Human
+#  Weather: 54 degrees, sunny
+
+###########################################
+#  191: Tuesday, July 12(Summer)
+#  Year 326, Age of the Human
+#  Weather: 65 degrees, sunny
+
+###########################################
+#  192: Wednesday, July 13(Summer)
+#  Year 326, Age of the Human
+#  Weather: 75 degrees, sunny
+
+###########################################
+#  193: Thursday, July 14(Summer)
+#  Year 326, Age of the Human
+#  Weather: 107 degrees, sunny
+
+###########################################
+#  194: Friday, July 15(Summer)
+#  Year 326, Age of the Human
+#  Weather: 42 degrees, sunny
+
+###########################################
+#  195: Saturday, July 16(Summer)
+#  Year 326, Age of the Human
+#  Weather: 57 degrees, rainy
+
+###########################################
+#  196: Sunday, July 17(Summer)
+#  Year 326, Age of the Human
+#  Weather: 53 degrees, sunny
+#  News: Strange Meteor
+
+###########################################
+#  197: Monday, July 18(Summer)
+#  Year 326, Age of the Human
+#  Weather: 57 degrees, sunny
+
+###########################################
+#  198: Tuesday, July 19(Summer)
+#  Year 326, Age of the Human
+#  Weather: 81 degrees, sunny
+
+###########################################
+#  199: Wednesday, July 20(Summer)
+#  Year 326, Age of the Human
+#  Weather: 88 degrees, sunny
+
+###########################################
+#  200: Thursday, July 21(Summer)
+#  Year 326, Age of the Human
+#  Weather: 46 degrees, sunny
+
+###########################################
+#  201: Friday, July 22(Summer)
+#  Year 326, Age of the Human
+#  Weather: 76 degrees, sunny
+
+###########################################
+#  202: Saturday, July 23(Summer)
+#  Year 326, Age of the Human
+#  Weather: 105 degrees, sunny
+
+###########################################
+#  203: Sunday, July 24(Summer)
+#  Year 326, Age of the Human
+#  Weather: 67 degrees, sunny
+
+###########################################
+#  204: Monday, July 25(Summer)
+#  Year 326, Age of the Human
+#  Weather: 90 degrees, sunny
+
+###########################################
+#  205: Tuesday, July 26(Summer)
+#  Year 326, Age of the Human
+#  Weather: 50 degrees, sunny
+
+###########################################
+#  206: Wednesday, July 27(Summer)
+#  Year 326, Age of the Human
+#  Weather: 97 degrees, sunny
+
+###########################################
+#  207: Thursday, July 28(Summer)
+#  Year 326, Age of the Human
+#  Weather: 74 degrees, sunny
+
+###########################################
+#  208: Friday, July 29(Summer)
+#  Year 326, Age of the Human
+#  Weather: 49 degrees, sunny
+
+###########################################
+#  209: Saturday, July 30(Summer)
+#  Year 326, Age of the Human
+#  Weather: 96 degrees, sunny
+
+###########################################
+#  210: Sunday, August 1(Summer)
+#  Year 326, Age of the Human
+#  Weather: 65 degrees, sunny
+
+###########################################
+#  211: Monday, August 2(Summer)
+#  Year 326, Age of the Human
+#  Weather: 80 degrees, rainy
+
+###########################################
+#  212: Tuesday, August 3(Summer)
+#  Year 326, Age of the Human
+#  Weather: 89 degrees, sunny
+
+###########################################
+#  213: Wednesday, August 4(Summer)
+#  Year 326, Age of the Human
+#  Weather: 58 degrees, sunny
+
+###########################################
+#  214: Thursday, August 5(Summer)
+#  Year 326, Age of the Human
+#  Weather: 91 degrees, sunny
+
+###########################################
+#  215: Friday, August 6(Summer)
+#  Year 326, Age of the Human
+#  Weather: 79 degrees, sunny
+
+###########################################
+#  216: Saturday, August 7(Summer)
+#  Year 326, Age of the Human
+#  Weather: 64 degrees, sunny
+
+###########################################
+#  217: Sunday, August 8(Summer)
+#  Year 326, Age of the Human
+#  Weather: 83 degrees, sunny
+
+###########################################
+#  218: Monday, August 9(Summer)
+#  Year 326, Age of the Human
+#  Weather: 83 degrees, rainy
+
+###########################################
+#  219: Tuesday, August 10(Summer)
+#  Year 326, Age of the Human
+#  Weather: 43 degrees, rainy
+
+###########################################
+#  220: Wednesday, August 11(Summer)
+#  Year 326, Age of the Human
+#  Weather: 72 degrees, sunny
+
+###########################################
+#  221: Thursday, August 12(Summer)
+#  Year 326, Age of the Human
+#  Weather: 54 degrees, sunny
+
+###########################################
+#  222: Friday, August 13(Summer)
+#  Year 326, Age of the Human
+#  Weather: 64 degrees, sunny
+
+###########################################
+#  223: Saturday, August 14(Summer)
+#  Year 326, Age of the Human
+#  Weather: 82 degrees, sunny
+#  News: Strange Meteor
+
+###########################################
+#  224: Sunday, August 15(Summer)
+#  Year 326, Age of the Human
+#  Weather: 78 degrees, sunny
+
+###########################################
+#  225: Monday, August 16(Summer)
+#  Year 326, Age of the Human
+#  Weather: 64 degrees, rainy
+
+###########################################
+#  226: Tuesday, August 17(Summer)
+#  Year 326, Age of the Human
+#  Weather: 56 degrees, sunny
+
+###########################################
+#  227: Wednesday, August 18(Summer)
+#  Year 326, Age of the Human
+#  Weather: 100 degrees, sunny
+
+###########################################
+#  228: Thursday, August 19(Summer)
+#  Year 326, Age of the Human
+#  Weather: 48 degrees, sunny
+
+###########################################
+#  229: Friday, August 20(Summer)
+#  Year 326, Age of the Human
+#  Weather: 78 degrees, sunny
+
+###########################################
+#  230: Saturday, August 21(Summer)
+#  Year 326, Age of the Human
+#  Weather: 72 degrees, sunny
+
+###########################################
+#  231: Sunday, August 22(Summer)
+#  Year 326, Age of the Human
+#  Weather: 63 degrees, sunny
+
+###########################################
+#  232: Monday, August 23(Summer)
+#  Year 326, Age of the Human
+#  Weather: 33 degrees, sunny
+
+###########################################
+#  233: Tuesday, August 24(Summer)
+#  Year 326, Age of the Human
+#  Weather: 102 degrees, rainy
+
+###########################################
+#  234: Wednesday, August 25(Summer)
+#  Year 326, Age of the Human
+#  Weather: 92 degrees, sunny
+
+###########################################
+#  235: Thursday, August 26(Summer)
+#  Year 326, Age of the Human
+#  Weather: 54 degrees, rainy
+
+###########################################
+#  236: Friday, August 27(Summer)
+#  Year 326, Age of the Human
+#  Weather: 100 degrees, sunny
+#  News: Strange Meteor
+
+###########################################
+#  237: Saturday, August 28(Summer)
+#  Year 326, Age of the Human
+#  Weather: 45 degrees, rainy
+
+###########################################
+#  238: Sunday, August 29(Summer)
+#  Year 326, Age of the Human
+#  Weather: 93 degrees, sunny
+
+###########################################
+#  239: Monday, August 30(Summer)
+#  Year 326, Age of the Human
+#  Weather: 77 degrees, sunny
+
+###########################################
+#  240: Tuesday, September 1(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 18 degrees, sunny
+
+###########################################
+#  241: Wednesday, September 2(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 46 degrees, rainy
+
+###########################################
+#  242: Thursday, September 3(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 36 degrees, sunny
+
+###########################################
+#  243: Friday, September 4(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 19 degrees, sunny
+
+###########################################
+#  244: Saturday, September 5(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 60 degrees, overcast
+
+###########################################
+#  245: Sunday, September 6(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 28 degrees, sunny
+#  News: Political Gaffe
+
+###########################################
+#  246: Monday, September 7(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 24 degrees, sunny
+
+###########################################
+#  247: Tuesday, September 8(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 7 degrees, sunny
+
+###########################################
+#  248: Wednesday, September 9(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 37 degrees, sunny
+
+###########################################
+#  249: Thursday, September 10(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 21 degrees, sunny
+#  News: Strange Meteor
+
+###########################################
+#  250: Friday, September 11(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 15 degrees, sunny
+
+###########################################
+#  251: Saturday, September 12(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 42 degrees, sunny
+
+###########################################
+#  252: Sunday, September 13(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 34 degrees, sunny
+#  News: Assassination
+
+###########################################
+#  253: Monday, September 14(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 22 degrees, sunny
+#  News: Blood Moon
+
+###########################################
+#  254: Tuesday, September 15(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 14 degrees, sunny
+
+###########################################
+#  255: Wednesday, September 16(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 12 degrees, sunny
+
+###########################################
+#  256: Thursday, September 17(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 24 degrees, sunny
+#  News: Strange Meteor, Attacked Village
+
+###########################################
+#  257: Friday, September 18(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 39 degrees, rainy
+#  Holday: Harvest day
+
+###########################################
+#  258: Saturday, September 19(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 50 degrees, sunny
+#  News: Deity visit
+
+###########################################
+#  259: Sunday, September 20(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 19 degrees, sunny
+
+###########################################
+#  260: Monday, September 21(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 31 degrees, sunny
+
+###########################################
+#  261: Tuesday, September 22(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 23 degrees, sunny
+
+###########################################
+#  262: Wednesday, September 23(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 26 degrees, sunny
+#  Holday: Equinox
+
+###########################################
+#  263: Thursday, September 24(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 14 degrees, sunny
+
+###########################################
+#  264: Friday, September 25(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 26 degrees, sunny
+
+###########################################
+#  265: Saturday, September 26(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 41 degrees, sunny
+
+###########################################
+#  266: Sunday, September 27(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 4 degrees, sunny
+
+###########################################
+#  267: Monday, September 28(Autumn)
+#  Year 326, Age of the Human
+#  Weather: -3 degrees, sunny
+
+###########################################
+#  268: Tuesday, September 29(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 20 degrees, overcast
+
+###########################################
+#  269: Wednesday, September 30(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 26 degrees, sunny
+
+###########################################
+#  270: Thursday, October 1(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 20 degrees, overcast
+
+###########################################
+#  271: Friday, October 2(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 14 degrees, sunny
+
+###########################################
+#  272: Saturday, October 3(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 57 degrees, sunny
+
+###########################################
+#  273: Sunday, October 4(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 31 degrees, sunny
+
+###########################################
+#  274: Monday, October 5(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 38 degrees, sunny
+
+###########################################
+#  275: Tuesday, October 6(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 4 degrees, sunny
+
+###########################################
+#  276: Wednesday, October 7(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 13 degrees, sunny
+
+###########################################
+#  277: Thursday, October 8(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 37 degrees, sunny
+
+###########################################
+#  278: Friday, October 9(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 24 degrees, snowy
+
+###########################################
+#  279: Saturday, October 10(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 15 degrees, sunny
+
+###########################################
+#  280: Sunday, October 11(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 45 degrees, sunny
+#  News: Major Crime
+
+###########################################
+#  281: Monday, October 12(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 23 degrees, snowy
+
+###########################################
+#  282: Tuesday, October 13(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 21 degrees, sunny
+
+###########################################
+#  283: Wednesday, October 14(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 2 degrees, sunny
+
+###########################################
+#  284: Thursday, October 15(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 35 degrees, overcast
+
+###########################################
+#  285: Friday, October 16(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 31 degrees, sunny
+
+###########################################
+#  286: Saturday, October 17(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 39 degrees, sunny
+#  News: Political Gaffe
+
+###########################################
+#  287: Sunday, October 18(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 57 degrees, sunny
+
+###########################################
+#  288: Monday, October 19(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 45 degrees, sunny
+
+###########################################
+#  289: Tuesday, October 20(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 44 degrees, rainy
+
+###########################################
+#  290: Wednesday, October 21(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 22 degrees, overcast
+
+###########################################
+#  291: Thursday, October 22(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 19 degrees, sunny
+
+###########################################
+#  292: Friday, October 23(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 52 degrees, sunny
+
+###########################################
+#  293: Saturday, October 24(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 15 degrees, sunny
+
+###########################################
+#  294: Sunday, October 25(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 48 degrees, overcast
+
+###########################################
+#  295: Monday, October 26(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 28 degrees, snowy
+
+###########################################
+#  296: Tuesday, October 27(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 42 degrees, sunny
+
+###########################################
+#  297: Wednesday, October 28(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 22 degrees, sunny
+
+###########################################
+#  298: Thursday, October 29(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 38 degrees, sunny
+
+###########################################
+#  299: Friday, October 30(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 26 degrees, sunny
+
+###########################################
+#  300: Saturday, November 1(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 45 degrees, sunny
+#  Holday: Devils night
+
+###########################################
+#  301: Sunday, November 2(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 39 degrees, sunny
+
+###########################################
+#  302: Monday, November 3(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 21 degrees, sunny
+
+###########################################
+#  303: Tuesday, November 4(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 41 degrees, sunny
+#  News: Blood Moon
+
+###########################################
+#  304: Wednesday, November 5(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 38 degrees, sunny
+
+###########################################
+#  305: Thursday, November 6(Autumn)
+#  Year 326, Age of the Human
+#  Weather: -4 degrees, snowy
+
+###########################################
+#  306: Friday, November 7(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 25 degrees, sunny
+
+###########################################
+#  307: Saturday, November 8(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 40 degrees, sunny
+
+###########################################
+#  308: Sunday, November 9(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 16 degrees, overcast
+
+###########################################
+#  309: Monday, November 10(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 34 degrees, sunny
+#  News: Political Gaffe
+
+###########################################
+#  310: Tuesday, November 11(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 14 degrees, sunny
+
+###########################################
+#  311: Wednesday, November 12(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 5 degrees, sunny
+
+###########################################
+#  312: Thursday, November 13(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 43 degrees, sunny
+
+###########################################
+#  313: Friday, November 14(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 24 degrees, sunny
+
+###########################################
+#  314: Saturday, November 15(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 19 degrees, sunny
+
+###########################################
+#  315: Sunday, November 16(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 26 degrees, sunny
+
+###########################################
+#  316: Monday, November 17(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 3 degrees, sunny
+
+###########################################
+#  317: Tuesday, November 18(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 3 degrees, overcast
+
+###########################################
+#  318: Wednesday, November 19(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 14 degrees, sunny
+
+###########################################
+#  319: Thursday, November 20(Autumn)
+#  Year 326, Age of the Human
+#  Weather: -1 degrees, sunny
+
+###########################################
+#  320: Friday, November 21(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 28 degrees, sunny
+
+###########################################
+#  321: Saturday, November 22(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 29 degrees, sunny
+
+###########################################
+#  322: Sunday, November 23(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 44 degrees, sunny
+
+###########################################
+#  323: Monday, November 24(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 37 degrees, sunny
+
+###########################################
+#  324: Tuesday, November 25(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 43 degrees, sunny
+
+###########################################
+#  325: Wednesday, November 26(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 35 degrees, sunny
+
+###########################################
+#  326: Thursday, November 27(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 35 degrees, sunny
+
+###########################################
+#  327: Friday, November 28(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 9 degrees, sunny
+
+###########################################
+#  328: Saturday, November 29(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 12 degrees, sunny
+
+###########################################
+#  329: Sunday, November 30(Autumn)
+#  Year 326, Age of the Human
+#  Weather: 34 degrees, sunny
+
+###########################################
+#  330: Monday, December 1(Winter)
+#  Year 326, Age of the Human
+#  Weather: -16 degrees, sunny
+
+###########################################
+#  331: Tuesday, December 2(Winter)
+#  Year 326, Age of the Human
+#  Weather: 1 degrees, sunny
+
+###########################################
+#  332: Wednesday, December 3(Winter)
+#  Year 326, Age of the Human
+#  Weather: 3 degrees, sunny
+
+###########################################
+#  333: Thursday, December 4(Winter)
+#  Year 326, Age of the Human
+#  Weather: 5 degrees, sunny
+
+###########################################
+#  334: Friday, December 5(Winter)
+#  Year 326, Age of the Human
+#  Weather: 22 degrees, sunny
+
+###########################################
+#  335: Saturday, December 6(Winter)
+#  Year 326, Age of the Human
+#  Weather: -12 degrees, sunny
+
+###########################################
+#  336: Sunday, December 7(Winter)
+#  Year 326, Age of the Human
+#  Weather: 7 degrees, sunny
+
+###########################################
+#  337: Monday, December 8(Winter)
+#  Year 326, Age of the Human
+#  Weather: 13 degrees, sunny
+
+###########################################
+#  338: Tuesday, December 9(Winter)
+#  Year 326, Age of the Human
+#  Weather: 31 degrees, overcast
+
+###########################################
+#  339: Wednesday, December 10(Winter)
+#  Year 326, Age of the Human
+#  Weather: 9 degrees, sunny
+
+###########################################
+#  340: Thursday, December 11(Winter)
+#  Year 326, Age of the Human
+#  Weather: -2 degrees, sunny
+#  Holday: Day of darkness
+
+###########################################
+#  341: Friday, December 12(Winter)
+#  Year 326, Age of the Human
+#  Weather: 26 degrees, overcast
+
+###########################################
+#  342: Saturday, December 13(Winter)
+#  Year 326, Age of the Human
+#  Weather: 3 degrees, sunny
+
+###########################################
+#  343: Sunday, December 14(Winter)
+#  Year 326, Age of the Human
+#  Weather: 13 degrees, sunny
+
+###########################################
+#  344: Monday, December 15(Winter)
+#  Year 326, Age of the Human
+#  Weather: 36 degrees, sunny
+
+###########################################
+#  345: Tuesday, December 16(Winter)
+#  Year 326, Age of the Human
+#  Weather: 13 degrees, sunny
+
+###########################################
+#  346: Wednesday, December 17(Winter)
+#  Year 326, Age of the Human
+#  Weather: -7 degrees, sunny
+
+###########################################
+#  347: Thursday, December 18(Winter)
+#  Year 326, Age of the Human
+#  Weather: -2 degrees, sunny
+
+###########################################
+#  348: Friday, December 19(Winter)
+#  Year 326, Age of the Human
+#  Weather: 9 degrees, sunny
+
+###########################################
+#  349: Saturday, December 20(Winter)
+#  Year 326, Age of the Human
+#  Weather: -23 degrees, sunny
+
+###########################################
+#  350: Sunday, December 21(Winter)
+#  Year 326, Age of the Human
+#  Weather: 16 degrees, sunny
+
+###########################################
+#  351: Monday, December 22(Winter)
+#  Year 326, Age of the Human
+#  Weather: 13 degrees, sunny
+#  Holday: Winter Solstice
+
+###########################################
+#  352: Tuesday, December 23(Winter)
+#  Year 326, Age of the Human
+#  Weather: 29 degrees, sunny
+#  News: Strange Meteor
+
+###########################################
+#  353: Wednesday, December 24(Winter)
+#  Year 326, Age of the Human
+#  Weather: -7 degrees, overcast
+
+###########################################
+#  354: Thursday, December 25(Winter)
+#  Year 326, Age of the Human
+#  Weather: 16 degrees, overcast
+
+###########################################
+#  355: Friday, December 26(Winter)
+#  Year 326, Age of the Human
+#  Weather: -3 degrees, overcast
+
+###########################################
+#  356: Saturday, December 27(Winter)
+#  Year 326, Age of the Human
+#  Weather: 3 degrees, sunny
+
+###########################################
+#  357: Sunday, December 28(Winter)
+#  Year 326, Age of the Human
+#  Weather: 18 degrees, sunny
+
+###########################################
+#  358: Monday, December 29(Winter)
+#  Year 326, Age of the Human
+#  Weather: 16 degrees, sunny
+
+###########################################
+#  359: Tuesday, December 30(Winter)
+#  Year 326, Age of the Human
+#  Weather: 32 degrees, sunny
+
+###########################################
+#  1: Monday, January 2(Winter)
+#  Year 326, Age of the Human
+#  Weather: -2 degrees, sunny
+#  Holday: New Year day
+
+###########################################
+#  2: Tuesday, January 3(Winter)
+#  Year 326, Age of the Human
+#  Weather: -2 degrees, overcast

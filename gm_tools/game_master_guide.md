@@ -74,6 +74,114 @@ Go do a search on the internet and you'll find a variety of competing products.
 I'll recommend something like maptool or foundry VTT for Unchained Worlds. Each
 has it's own user guide, so I'll end this section here.
 
+# Common Tools
+This section contains conceptual tools, abstractions that you can use 
+
+## Embedded roll strings
+Randomness makes everything better. Well, it can. And when you want
+something to be more random, just chuck some random values in.
+1d4 goblins are glaring at the party. Are there 1, or 4, or number
+in the middle? You'll have to check to find out. It's important
+to think through what the highest and lowest values will mean. If
+the game would be brought to a halt by either, change the range (add a
+modifier like +1 or -1), or maybe don't use a roll string here.
+
+## Generalized Process
+
+## Tables
+
+### Simple tables
+When you have a list of things to pick, and they all have the same
+probability. Great for completely random things, like a random color
+selection below.
+
+```
++------+--------+
+| Roll | Color  |
++------+--------+
+|    1 | Red    |
+|    2 | Green  |
+|    3 | Blue   |
+|    4 | Yellow |
++------+--------+
+```
+
+### DC Tables
+These tables are to adjucate when a character attempts something, and their
+modifier makes the task easier. The maximum value for these tables is
+usually either 20 or 30, assuming bounded accuracy.
+
+Here's an example of a table for pulling off a horse stunt.
+```
++-------+------------------+
+| Roll  |      Result      |
++-------+------------------+
+| 1     | Broken bone      |
+| 2-5   | Painful Wipeout  |
+| 6-15  | Barely succeed   |
+| 16-18 | Succeed easily   |
+| 19-20 | Succeed in style |
++-------+------------------+
+```
+
+## Bell curve tables
+2d6 is way different from 1d12. For one, it has 11 values, not 12. More importantly, there's not the same chance for every outcome. In fact, the closer
+to the middle you get, the more likely it is you'll roll that outcome.
+This is particularly useful when you want a list with certain options being
+far more common than others.
+
+## Hit Points
+
+### Fuzzy Hitpoints
+Monsters generally have a hit point formula and average value. You may choose
+to track damage, rather than health. When your monster hits it's minimum hit
+points worth of damage, but before it hits the max hit points worth of damage,
+you can have wiggle room to let the monster die. This works well if you want
+to introduce a bit more or less difficulty, allowing the party to either
+get in an extra attack or a bility, or else to trade a defeat for a close call.
+This is very much dice fudging.
+
+### Hearts
+Swap out your monster's hit points with some hearts and some arbitrary value
+for how many hit points is in one heart. When your players make an attack
+dealing enough to take out a heart, erase a heart. This reduces calculations
+and reduces the effect of high-damage attacks, while increasing the effect of
+low-damage attacks that are still larger than the heart size.
+
+## Clocks
+
+### Event Calendars
+Want some random environmental detail?
+Make a calendar, appropriate to your campaign (a couple months to a year is
+common). You don't need to add an event to every day, but the following
+information can make all the difference to making the world feel living and
+breathing. You can generate these by hand with dice, or write a script.
+Either way, keep track of the day as a number (from 1 to the last day in the
+year) and have a lookup table to find information for the day.
+- Day of the week - (to track weekly events like church, payday, weekend)
+- Day of the month - (to track seasons)
+- Lunar cycle (full moons, new moons, maybe even blue or blood moons)
+- Weather (rain, flooding, wind, snow, cold, heat, dry streak)
+- Holidays (who celebrates, what are they celebrating, how?)
+- World events (science discovery, fashion trend, election)
+- Plot events (big bad evil guy's plans advance, heists pulled off, assassinations)
+
+### Progress Clocks
+Draw a circle. Now draw some lines until you have N slices.
+Every time X happens, color in one of the slices. When they are all
+filled in, then Y happens. That's a progress clock.
+
+Here's some examples:
+Aggrevation clock, ticks when you annoy the NPC, when it's full they're done talking.
+Interest clock, ticks when you make the NPC more interested in your timeshare
+opportunity. When it's full, they're interested in meeting in a tavern and
+discussing it at length(while the rest of the party ransacks the NPC's house).
+
+Note that you could run two clocks at once. Maybe you want to convince the
+NPC, but avoid annoying him.
+
+Also works well as a doomsday counter for event-based plot arcs.
+
 # Making Monsters
 
 ## What is a monster?
@@ -131,6 +239,8 @@ scary by giving them a debuff that can't easily be reversed, even after the
 fight.
 
 ### Boss
+Some monsters are intended to be a spectacle to fight. Bosses need to be able
+to take hits. 
 
 
 ## Types

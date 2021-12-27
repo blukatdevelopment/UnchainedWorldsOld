@@ -143,28 +143,11 @@ and is where the king and aristocracy live.
 ################################################################################
 ```
 
-## Cast
-
-### King Baruti III
-Baruti III is a plump, gregarious human dressed in royal robes and a Uraeus made
-from the tanned hide of a giant cobra. He carries a dagger made from dragon
-steel, which deals an extra 1d4 fire damage.
-
-
-### Mardus, chief advisor to the king
-Murdus is an elderly human man dressed in silk gown and adorned with golden
-jewelry. He is straight to the point and has little humor, though he is very
-cynical and thinks poorly of those working with him.
-
-### Aleris the palm reader
-A street magician woman named Aleris wears a cloak with a hood that casts her
-face in shadow. Underneath she wears dark makeup around her eyes covering runes.
-She speaks slowly and with great grandure, using vague language when possible.
-
 ## Setup
 Have the party all come up with some details about their character.
 
 ### Claim to fame
+Each player starts with a level 2 addventurer.
 What was your story that finally made you a famous adventurer?
 Roll a 1d4. On even, you helped someone. On odd, you hurt them.
 Who are they, and how did you affect them?
@@ -187,11 +170,6 @@ The player will choose one rumor that's true and tell only the GM.
 ################################################################################
 ```
 ## Gadget
-The king's chief advisor recruits the party to act as a covert special mission squad.
-Recently, a relic known as the Wheel of Holar was stolen en route to Sanctuary.
-Only the king's men knew of this mission, so this is a conspiracy.
-- Interrogate suspects, determine where the relic is
-- Retrieve the relic
 
 ### The Royal Palace
 Each member of the party receives a letter that reads as follows.
@@ -208,11 +186,10 @@ Mardus, chief advisor to the king
 #### Palm Reading
 Aleris the palm reader will try to ask the party for a moment of their time
 to lend their palms to her that she might read their fortune. If someone
-volunteers, she reads their palm and then asks them if they would like to
+volunteers, she reads their palm and looks shocked then asks them if they would like to
 know what it says.
 ```
-"Your near future will invite tragedy, but if you are wise you
-may transform it to achieve greatness."
+"In the near future you will kill the king."
 ```
 Once she tells them, she'll ask for 10gp as payment.
 
@@ -250,8 +227,8 @@ after it expires or is remedied.
 #### Gates
 At the Eastern gates two guards(Akil, Fenuku) wielding golden quarterstalves
 fashioned like cobras will demand the party explains themselves before they
-can proceed. If the party asks, they'll get directions to the private
-celebration.
+can proceed. They will tell the party they know, and to beat it if the party
+says that Mardus sent them. They will attack if pressed.
 
 #### Halls of the palace
 The halls wind and fork, twisting back into themselves in a maze that one can
@@ -259,18 +236,211 @@ easily be lost in.
 
 #### Royal introduction
 Mardus will introduce each of the party members, telling of the story that
-brought them here.
+brought each of them here.
 
+#### The briefing
+By this point, Mardus explains that a relic known as the Wheel of Holar was
+stolen en route to Sanctuary. The project to retrieve the relic was a well-kept
+secret among the king's high-ranking officials, and so the king is forced
+to seek external parties to help investigate. The goal is to determine
+who took the relic, and tell Mardus where it is. The key suspects are the
+engineer(Ianmorn), security(Odalric), and archaeologist(Aleksandra).
+Mardus gives the apartment addresses for all three.
 
 ### Interrogate the suspects
 
-
 #### Ianmorn Boldspan
-A gnome man who headed the engineering efforts of the relic mission.
+He'll offer this information:
+- Odalric ordered the group to trade the relic for safety.
 
 #### Odalric Mason
-A stocky human man with
+He'll offer this information:
+- Aleksandra directed the caravan on a detour to study ruins conveniently before the attack.
 
+If Pressed, he'll try to run, ensuing a chase scene. He'll:
+- jump out the window and land on a cart full of hay below.
+- run through the street and tip a cabbage stand to trip pursuers.
+- then disappear into a tavern, where he'll try to blend into the crowd.
+- start a bar fight, then escape into the alley, where he'll get cornered
+
+If the party returns after questioning Odalric, he will be gone and Mardus
+will report after one day that he's been sighted in an inn room near the Western
+gate in the Silver district. If they find the room, they'll see his door is left
+open and the interior smells of strong spirits. His bedroom window is open as well.
+If they open the door without checking for traps, a glass bottle of spirits will 
+crash and coat the adventurer. He'll then pop out and light them on fire. If they
+go through the window, they'll find a hunter's trap on the other side. He'll try
+to fight them.
+
+If they investigate Odalric, he'll squeal and tell them the location of the 
+Brass Knife Crew's hideout where the relic can be found. They paid him 100 GP to 
+rig the security, and he used it to pay gambling debts that were due. The location
+is the outskirts of a forestry town, Tensander.
+
+#### Aleksandra Pekkanen
+She'll offer this information:
+- Odalric ordered the group to trade the relic for safety.
+
+### Brass Knife Crew Hideout 
+Mardus will offer the party transportation via the kingdom's private airship,
+the Providence. The pilot, Topi Lehti, will take the party up and ask them
+whether they want to touch down directly on top of the hideout, or get dropped
+off out of sight so they can approach quietly.
+
+
+#### The hideout map
+The hideout is concealed in forest, but is clearly visible from above.
+
+```
+################################################################################
+#                 x x x  x xxx xxx xxx                                         #
+#     xx xx x x x                     xxxxxxxxxxxxxxxx                         #
+#  xxxx                                               xxxxxx                   #
+#    x ┌─────┐                                             xxxxx               #
+#   xx │  A  │                                                 xxxx            #
+#   x  │     │                                                    xxx          #
+#  xx  └─────┘                                                ┌────┐ xx        #
+#  x                                                          │  A │  xx       #
+#  x                                                          │    │  xxx      #
+#  x                      ┌───────┬───────┐                   └────┘   x       #
+#  x                      │       │       │                             x      #
+#  x                      │   B   │    C  │                             xx     #
+#  x                      │       │       │                              x     #
+#  x                      └───────┴───────┘                              x     #
+#  x                                                                      x    #
+#  x                                                                       x   #
+#  x                                                                       x   #
+#  x                                                                        x  #
+#  x                                                                        x  #
+#  x                        ┌──────────────┐                    x           x  #
+#  x                        │              │                    x           x  #
+#  x                        │              │                    x           x  #
+#  x                        │       D      │                    x           x  #
+#  x                        │              │                    x           x  #
+#  x                        └──────────────┘                    x           x  #
+#  x                                                            x          xx  #
+#   x                                                           x          x   #
+#   x                                                          xx         x    #
+#   xx                                                         x          x    #
+#    xx                                                       xx         x     #
+#     x     ┌────┐                                            x          x     #
+#      xx   │ A  │                                           xx         xx     #
+#       xx  │    │                                          xx         xx      #
+#        xx └────┘                             ┌─────┐     xx         xx       #
+#          xx                                  │ A   │    xx                   #
+#            x xx                              │     │ xxx                     #
+#               xxxxxxxxx                      └─────┘xx                       #
+#                       xxxxxx x xx x  x x  x x xxxxxx                         #
+################################################################################
+```
+##### A: Watch tower
+Each watch tower is staffed with a guard.
+Hostiles:
+- Brass Sentry
+
+##### B: Boss's Quarters
+A log cabin with goodies, guarded by the boss and three men.
+- 1 10gp bottle of Tensander Brandy
+- Chest of 40GP in silver and copper coins
+- 25GP Bronze Bust of a dwarf with goggles
+Hostiles:
+- 3 X Brass Blade
+- Brass Boss
+
+##### C: Scrap heap
+This is a heap of broken glass, tools, and scraps of leather. Some of it has
+dried blood on it.
+A chest contains a silver locket with some infernal runes on the interior. This
+is cursed and causes the wearer to see a devil's phantom following them from time
+to time. The devil will try to make deals with the player. His name is Altus.
+
+##### D: Barn
+This is a two-story structure with lofts for thugs to sleep in. A horse is
+in a makeshift stable and a cart is parked with the Wheel of Holar on it. It
+appears as an 10ft diameter black metal hoop. There's a miniature forge, a 
+mold, and a table of random metal objects in various states of teardown.
+The barn is staffed with 6 guards.
+There is another table with finished ingots inside:
+- 30gp worth of brass ingots(10)
+- 10gp worth of brass ingots(10)
+- 50gp worth of silver ingots(10)
+In the center of the room, there is:
+- 50gp 10x10 artisanal rug with an image of an eagle woven in.
+Hostiles:
+- 4 X Brass Blade
+- 2 X Brass Knife Thrower
+
+#### The Brass Knife Crew stat blocks
+
+```
+Brass Sentry
+HP: 18(3d6+6)
+AC: 12
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 14| 14| 10| 15| 10|
+Attacks:
+Brass dagger +4 1d4+2
+Light Crossbow +4 1d8+2
+```
+
+```
+Brass Knife Thrower
+HP: 9(3d4)
+AC: 12
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 14| 14| 10| 15| 10|
+Knife Thrower:
+The brass knife may draw a dagger as part of an attack.
+Multiattack:
+The brass knife may make three attacks with their dagger.
+Attacks:
+Brass dagger +4 1d4+2
+```
+
+```
+Brass Blade
+HP: 18(3d6+6)
+AC: 14 (studded leather)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 12| 14| 10| 15| 10|
+Multiattack:
+The brass bruiser may attack once with brass dagger, once with brass shortsword.
+Attacks:
+Brass dagger +4 1d4+2
+Brass Shortsword + 4 1d6+2
+```
+
+```
+Brass Boss
+"He rules with a brass fist."
+HP: 24(3d8+9)
+AC: 14
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 14| 16| 10| 15| 10|
+Block Counter:
+As a reaction to a melee attack, add +2 AC. If this blocks, make a free attack.
+Attacks:
+Brass dagger +5 1d4+2
++1 Brass Fist +6 1d6+4 bludgeoning
+```
+
+### Return to Sanctuary
+Topi will load the Wheel of Holar along with any valuables, and the party will
+be returned to the palace. She'll mention that the Providence will be back in
+for maintenace for the next week or two, and will need a new Soladium Crystal.
+The party will get a week of downtime. The king pays each adventurer 20GP,
+and each adventurer levels up to level 3.
+
+#### Events in Sanctuary downtime
+- The party can find a new Soladium Crystal. It costs 75GP and the party is reimbursed 10GP extra.
+- 1d6 stragglers from the Brass Knife Crew show up for revenge.
+- They can get another reading from Aleris "You will fight time.". Usual curse/blessing.
+- Aleris will offer to identify any magic or cursed items.
+- Some thugs will offer to gamble 10GP in a wrestling match.
 
 ```
 ################################################################################
@@ -284,12 +454,20 @@ A stocky human man with
 #                                      |___/                                   #
 ################################################################################
 ```
+
 ## New King
 The relic was a piece of ancient outsider technology that can raise portals.
 The king prepares a feast and his techs wire up the wheel above his throne.
 When it fires up, it explodes and kills him.
 The advisor asks the party to locate the king's estranged son and bring him
 back before the king's next scheduled address in two weeks.
+
+### Palace
+The party is invited to the private viewing of the activation of the Wheel of 
+Holar. The king gives a speech.
+
+"The empire's state of decline is at last at an end. King Baruti brings you the
+Wheel of Holar, a "
 
 
 ```
@@ -308,6 +486,8 @@ The party failed to return the prince. Now rebels have started riots and
 brought the silver district to a halt.
 Negotiate with or eliminate the rebel leaders to restore order to the kingdom.
 The rebel leaders will try to persuade the party to turn on the dynasty.
+
+
 
 ```
 ################################################################################

@@ -59,7 +59,7 @@ of the spell you are copying, you require one hour of time and 10GP of paper, in
 you gain subsequent levels, you may learn one spell from the spell list at no cost.
 
 ### Runesmithery
-You've practiced with runes and can now carve them into flat stones during a partial rest. During a partial rest,
+You've practiced with runes and can now carve them into flat stones during a partial or full rest. During a partial rest,
 you may inscribe stones with the runes of a particular spell. Each rune you carve requires 2 silver pieces
 worth of materials needed to make arcane ink. The number of runes you may have active across all your rune stones
 at any time can be found in the runes column for your level. A runestone containing a second level spell will
@@ -184,10 +184,11 @@ you did not select at 4th level.
 - Conjure Demon
 - Curse[1]
 - Raise Undead Horde
-- Rune Gate 
+- Rune Gate
+```
 [0] - spell is found in the core rules
 [1] - spell is found in the Spell Compendium Volume 1
-
+```
 ## Spells
 
 ```
