@@ -244,24 +244,6 @@ now hold the reigns to their own fate. Time to take the training wheels off.
 From this point on, you can introduce the Advanced Power rules, or end the
 campaign with your party being rulers, depending on their preference.
 
-#### Party's Power Sheet
-The sheet the players use now has an additional field called Upkeep. Each item
-has a die. Every in-game month, the party rolls all their upkeep dice and
-subtracts that amount from their power. Here's a common sheet for upkeeps:
-```
-+----------------------------+--------+
-|           Asset            | Upkeep |
-+----------------------------+--------+
-| Each unit out of territory | 1d2    |
-| Spy                        | 1d2    |
-| 4 man scouting Party       | 1d2    |
-| 16 man army                | 1d4    |
-| 64 man army                | 1d8    |
-| Fortress/Castle            | 1d10   |
-| Airship                    | 1d10   |
-+----------------------------+--------+
-```
-
 ## Advanced Power
 These are advanced rules. This is effectively a second game run on top of the
 main Unchained Worlds campaign. Ensure your players know what they're signing
