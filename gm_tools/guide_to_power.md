@@ -136,6 +136,11 @@ can't see. The same can be used here. If you're going to run mechanics in
 the background, have a very good reason for it, and see if you can minimize that
 as much as possible.
 
+### Conclusion
+GM-facing rule sets can be constructed flexibly, depending on player interest.
+This version of the guide to power contains the Power Lite rules, but more may
+be added in the future. As a GM, feel free to develop your own.
+
 ## Power Lite
 This is the minimalist take. It has four tiers, all reflecting how invested
 your players are in the system, and thus how complex the mechanics get.
@@ -178,7 +183,7 @@ a public celebration, or one that happens in private. Now you introduce players
 to the mechanics.
 
 #### The power sheet
-The power sheet contains the following information:
+The party's power sheet contains the following information:
 - A count of power
 - A progress clock with four ticks for each type of power (Might, Narrative, Contract)
 - A list of any NPC contacts the party knows
@@ -187,10 +192,250 @@ The power sheet contains the following information:
 #### Award first power
 Provide the player-facing rules to the party and make them a power sheet.
 Have one of your players roll a 1d4. Now add it to their total power and any
-of the clocks appropriate to what they just did. 
+of the clocks appropriate to what they just did.
 
+### Tier 2: Patronage
+By this point, the party has a list of contacts that will attempt to recruit them
+to help them gain power. The patron may designate them as revolutionaries, 
+king's elite guard, or some other title that aligns the party with that NPC.
+They only become the patron when the party accepts. If the party never accepts,
+then they return to Tier 1.
 
-### Tier 2:
+#### GM Power Sheet
+It's time for you to make a power sheet of your own to represent the world's
+political activity. This will consist of a number of power clocks repesenting
+different interests in the political landscape you made. At tier 2, you will
+want three clocks. One clock is the patron that your party is working for.
+The clock size is 4, and it ticks each time the party completes one of their
+side quests. When it is complete, they achieve some goal of gaining power.
+Some examples:
+- Win an election
+- Gain control over major religious organization
+- Discover the secret rebel base
+- Capture the cult leader
+- Prevent an invasion by opponent
+At the same time, you'll want two more clocks. If possible, choose one entity
+that your party knows about, and one that they don't. Define what advances
+their clock, and then define what happens when the clock is full. These will
+likely reverse the Patron's progress by a die the same size as their clock.
+Every time the party does something to tick the clocks, tick it by 1d4.
+Some clock examples:
+- Attempted assassination of Patron
+- Mercenaries or assassins hired to fight party
+- Trap laid for party
+- A major riot in the market square
+- Insurrection
+- An alliance between two enemies of the party
+- A public speech is held decrying the patron.
 
+#### Victory
+Eventually, the patron's power clock will fill and the party will be awarded
+4d4 power. Depending on their personality, the patron will either ask the party
+to be their successors, relegate them to a position of very little power, or
+attempt to have them killed now that they've outlived their usefulness.
 
-### Tier 3: 
+The party may dismiss this opportunity, or may seize it and take the place of
+their patron through might, narrative, or contract.
+
+### Tier 3: Full Autonomy
+The party has outgrown their position as the lap dogs of a patron, and they
+now hold the reigns to their own fate. Time to take the training wheels off.
+
+From this point on, you can introduce the Advanced Power rules, or end the
+campaign with your party being rulers, depending on their preference.
+
+#### Party's Power Sheet
+The sheet the players use now has an additional field called Upkeep. Each item
+has a die. Every in-game month, the party rolls all their upkeep dice and
+subtracts that amount from their power. Here's a common sheet for upkeeps:
+```
++----------------------------+--------+
+|           Asset            | Upkeep |
++----------------------------+--------+
+| Each unit out of territory | 1d2    |
+| Spy                        | 1d2    |
+| 4 man scouting Party       | 1d2    |
+| 16 man army                | 1d4    |
+| 64 man army                | 1d8    |
+| Fortress/Castle            | 1d10   |
+| Airship                    | 1d10   |
++----------------------------+--------+
+```
+
+## Advanced Power
+These are advanced rules. This is effectively a second game run on top of the
+main Unchained Worlds campaign. Ensure your players know what they're signing
+up for. If you have not already run the Power Lite rules, try running them first.
+This is your only warning.
+
+### Political Landscape
+Refer to the "Set up your political landscape" section in the Power Lite rules
+to populate a cast of about 9 NPCs that have interests.
+
+### World Map
+Make a 50x50 grid. Now add the following to the map:
+- Mountains, Desert, rivers, coastline(if relevant)
+- Terrain type for each cell of the grid (Forest, Field, Rocky, Desert, Water)
+- Capital occupying 4-6 tiles, name them as districts
+- Three Cities, occupying 2-3 tiles each.
+- Three Towns, occupying 1-2 tiles each.
+- Three Villages, occupying 1 tiles each
+- Roads between cities, bridges across rivers, shipping lanes on shore
+
+### Party Power Sheet
+A sheet with the following information should be all the party needs to track
+their power:
+- Total Power
+- Power clock for each type of power(Might, Narrative, Contract)
+- List of enemies
+- List of contacts
+- List of Power Upkeep
+- List of power assets
+Here's an example of a power sheet for a party that has a lot of power:
+```
+Total Power: 12
+Might: 3/6
+Narrative: 0/4
+Contract: 0/4
+Contacts:
+- Lord of Deer(Druids)
+- Arch Priest(Temple of Light)
+Enemies:
+- Riguzzah(Demon army)
+Power Assets:
+- 1d4 Reindeer Farm
+- 1d2 Tin Mine
+Power Upkeep:
+- 3d4 Armies(16 man)
+- 1d8 Armies(64 man)
+- 1d10 Castle
+```
+
+### GM Power Sheet
+Look over the political landscape. Create up to 9 progress clocks.
+An example:
+```
+Successful Demon Abduction -> 0/6 -> Demon Portal Opens
+Druid Speaking Event -> 0/4 -> Druid-aligned Protests at reindeer farm
+Day without defensive spy -> 0/4 -> Sabotage Tin Mine
+Day without defensive army -> 2/6 -> Rebel insurrection
+Show of force -> 0/4 -> Peasant riot
+Day of Foreign Spy operations -> 0/6 -> Foreign Invasion Starts
+```
+
+### Power Assets
+Power assets are anything that contribute power to the party's Total Power.
+Power gained by a specific category ticks the appropriate power clock, so
+tyrants can maintain some contract by offering free ale, or zealots can grow
+their might with an execution block
+Some general examples:
+- Mines
+- Special Resources (Silk, Horses, Dinosaurs, Living Trees)
+- Trade Routes
+Some Might examples:
+- 1d4 Execution block
+- 1d2 Public stocks
+- 1d4 Monument
+- 1d4 Secret Police (Occupies a Spy)
+- 1d8 Security Checkpoints (Occupies an Army)
+Some Narrative examples:
+- 1d8 Public Daily Rituals
+- 1d4 Shrines
+- 1d4 Narrative-biased Education
+- 1d8 Narrative-biased media(criers, news paper, evangelists)
+- 1d4 Narrative-biased laws
+Some Contract examples:
+- 1d8 public gladiator pit(Requires Structure)
+- 1d4 theater(Requires Structure)
+- 1d4 free grain
+- 1d4 free ale
+- 1d8 public forum(Requires Structure)
+
+### Power Upkeep
+Maintenace of armies, spies, and structures consumes power. Other forms
+of assets can be included with this. Here's an example list.
+```
++--------------------------+--------+
+|          Asset           | Upkeep |
++--------------------------+--------+
+| Each unit away from home | 1d2    |
+| Spy                      | 1d2    |
+| 4 man scouting Party     | 1d2    |
+| 16 man army              | 1d4    |
+| 64 man army              | 1d8    |
+| Public Structure         | 1d4    |
+| Fortress/Castle          | 1d10   |
+| Airship                  | 1d10   |
++--------------------------+--------+
+```
+
+### Spending power
+
+#### Enacting Policies
+If you have an army, structure, or resource you'd like to start exploiting,
+decide the effort from one of the options(1d4, 1d6, 1d8). That's the cost
+to make it happen.
+
+#### Recruiting Units
+Recruitment cost is rolled at the time of purchase.
+```
++------+---------------------------+
+| Cost |           Unit            |
++------+---------------------------+
+| 3d4  | Spy                       |
+| 1d6  | Hunting party(scout)      |
+| 1d6  | Town Patrol               |
+| 2d12 | Crown Skirmishers brigade |
+| 5d20 | Crown Pikeman Army        |
++------+---------------------------+
+```
+
+#### Erecting Structures
+In addition to a power cost, there is a construction cost.
+```
++------------+--------+------------------+
+| Power Cost | Months |    Structure     |
++------------+--------+------------------+
+| 2d10       |      3 | Public Structure |
+| 4d20       |      6 | Castle           |
++------------+--------+------------------+
+```
+
+### Combat
+Combat on the world map that doesn't involve the party follows different rules
+from unchained worlds. If the party is involved, please refer to the stat 
+blocks found in the book of monsters.
+
+#### Movement
+Units move 2 squares per day on the map, or 4 on a road. A scout moves
+twice this speed.
+
+#### Hiding
+A scout or spy may hide by rolling 1d20 and getting 12 or above. A hidden enemy cannot be attacked.
+A spy may seek out a hidden enemy unit by rolling 1d20 and getting 16 or above.
+The stats for different units:
+```
++-------------+--------+--------+----+------------+
+|    Unit     | Attack | Damage | AC | Hit Points |
++-------------+--------+--------+----+------------+
+| Spy         | +1     | 1      | 10 |          1 |
+| Scout       | +2     | 1d4    | 12 |          4 |
+| 16 man army | +4     | 1d8+2  | 14 |         16 |
+| 64 man army | +8     | 2d8+4  | 14 |         64 |
++-------------+--------+--------+----+------------+
+```
+
+#### Attacking
+When one unit borders an enemy, they may attack. When they do so, roll
+a 1d3. On a 1, the attacker goes first.
+To make an attack, roll a 1d20 and add the attack bonus. If it meets or
+beats the enemy unit's AC, then then roll and subtract damage. After both
+attacker and defender go, each army can decide to stand their ground
+or retreat into a neighboring square. A unit can retreat once per day.
+
+#### Castles and other fortifications
+If a defending unit is inside a castle or fortified structure, they
+receive a +4 to their AC
+
+#### Restoring units
+Every day spent at a friendly castle restores a unit by 1d4 hit points.
