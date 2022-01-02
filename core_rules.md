@@ -494,6 +494,9 @@ Has 10 charges.
 When you use this kit on yourself or another creature, make a medicine check
 to determine the outcome.
 
+#### Potion of Healing
+A flask of pink liquid which heals 2d4+4 hit points when consumed.
+
 ```
 +--------------+----------------------------+
 |     Roll     |          Outcome           |

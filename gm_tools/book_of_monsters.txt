@@ -19,6 +19,47 @@
 #  II Beast                                             #
 #########################################################
 
+
+Jaguar
+Medium Beast
+HP: 18(3d8+3)
+AC: 12(leather)
+Speed: 40ft, Climb 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 14| 12| 10| 10| 10|
+Pounce: If the creature moves 10ft in a straight line before attacking, the
+target must succeed a DC 14 STR saving throw or be knocked prone.
+Attacks:
+Bite +4 1d8+2 piercing
+Claws +4 2d4+2 slashing
+
+Sharp Tooth
+Huge Beast
+HP: 90(10d12+20)
+AC: 12(natural)
+Speed: 40ft,
+|STR|DEX|CON|INT|WIS|CHA|
+| 18| 12| 12|  4| 10|  4|
+Multiattack: Sharp tooth can use bite and tail on two separate enemies.
+Attacks:
+Bite(10ft) +6 3d8+4 piercing
+Tail(15ft) +6 2d4+2 bludgeoning
+
+Featherclaw
+A small raptor with green feathers.
+Huge Beast
+HP: 8(2d4+2)
+AC: 12(natural)
+Speed: 40ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 14| 12|  4| 10|  4|
+Pack tactics: When attacking a target adjacent to a friendly, the featherclaw
+gains advantage on the attack.
+Attacks:
+Bite +3 1d8+1 piercing. On hit may make a claw attack.
+Claw +3 2d4+1 slashing
+
+
 #########################################################
 #                                                       #
 #  _____      _           _   _       _                 #
@@ -57,6 +98,7 @@ Moon Greatsword: +6 1d12+3 radiant
 #  IV Construct                                         #
 #########################################################
 
+
 #########################################################
 #                                                       #
 # ______                                                #
@@ -80,16 +122,6 @@ Moon Greatsword: +6 1d12+3 radiant
 #                                                       #
 #  VI Elemental                                         #
 #########################################################
-
-Grass Elemental
-Huge Plant
-HP: 87 (9d12+24)
-AC: 12
-Speed: 40ft
-Resistances: non-magical physical damage, cold
-Vulnerabilities: fire
-Spore Cloud: 30 foot radius, DC 14 CON save or become poisoned
-Tree club: +7 19(3d8+4) bludgeoning
 
 
 #########################################################
@@ -115,6 +147,8 @@ Tree club: +7 19(3d8+4) bludgeoning
 #  VIII Fiend                                           #
 #########################################################
 
+
+
 ########################################
 # ______                               #
 # |  _  \                              #
@@ -127,8 +161,8 @@ Tree club: +7 19(3d8+4) bludgeoning
 Soul Sucker
 A fleshy snake with a humanoid torso and a mouth like a lamprey. It feasts on
 the souls of the weak and weary. Soul suckers will run away from light sources.
-Small Demon/fiend
-HP: 8 (8d2)
+Small Demon(fiend)
+HP: 8 (2d6)
 AC: 8
 Speed: 40ft, climb 40ft
 Spray Venom: One creature within 10 feet must make a DC8 CON saving throw or
@@ -140,7 +174,7 @@ A four foot featherless bird with a fleshy toothed funnel instead of a beak.
 They feed on the brains of wounded creatures and are attracted by the sounds
 of agony. Snorks have a simbiotic relationship with soul suckers and will hunt
 together. Snorks will run away from light sources.
-Medium Demon/fiend
+Medium Demon(fiend)
 HP: 30(6d6+6)
 AC: 13
 Speed: 30ft
@@ -150,6 +184,38 @@ internal beak.
 Tap: If coupled, target must make a DC 12 CON save. On a failure, they take
 2d6 piercing damage, or halfe as much on a save. If this attack brings a creature
 to 0 hit points, the snork cracks into the skull and eats their brain.
+
+Bone Thresher
+This orange-fleshed creature has the bones of it's enemies sewed to it's hide
+as armor. It carries a large bone spear and has a cat of nine tails made with
+sharpened bone fragments. It wears a necklace of skulls.
+Large Fiend(Demon)
+HP: 32 (4d12+4)
+AC: 14(bone armor)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 12| 12| 10| 10| 10|
+Bone Whip(15ft) 2d4+3
+Bone Spear 2d8+3
+
+Gattogat
+A three-foot tall cat that can stand upright. It's whiskers are bent and it's
+coat is a bit frazzled and unkempt. It can pretend to be a large housecat, and
+can also reveal it's true form. It's eyes are bright blue unless it's using it's
+powers, at which point they turn green.
+Small Fiend(Demon)
+HP: 18 (2d12+4)
+AC 16
+Resists: Non-magical physical, psychic
+Charm(1/day): Gatto produces a telepathic illusion from it's eyes. All creatures
+that can see it must succeed a DC 16 WIS save or they find this very cute and
+the Gatto has advantage on charisma checks against them.
+Malevolent Guidance: Gatto names a malevolent deed such as stabbing a friend,
+drinking a poison, or attacking a guard. The target must succeed a DC 16 WIS
+save or perform the act. If charmed, the target makes the save with disadvantage.
+Gatto Field: While Gatto is conscious and it's eyes are green, it produces a
+field of distorted psychic energy. Attacks against are made with disadvantage.
+
 
 
 #########################################################
@@ -187,6 +253,35 @@ murder exists in most every humanoid. Tread with caution.
 #                | |               #
 #                |_|               #
 ####################################
+
+Bandit Captain
+HP: 21(3d8+6)
+AC: 13(hide)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 12| 12| 10| 12| 16|
+Multiattack: Captain can make two shortsword attacks
+Attacks:
+Shortsword +5 1d6+3 piercing
+
+Bandit
+HP: 8(2d4+2)
+AC: 12(leather)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 12| 12| 10| 12| 12|
+Attacks:
+Shortsword +4 1d6+2 piercing
+Shortbow +4 1d6+2 piercing
+
+Royal
+HP: 9(3d4)
+AC: 15(beast plate)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 14| 10| 10| 14| 16|
+Attacks:
+Rapier +4, 1d8+2 piercing
 
 Crown Guard
 HP: 10(2d6+2)
@@ -443,6 +538,56 @@ Attacks:
 Bone Dagger: +4, 1d4+2 piercing
 Stone Axe: +4, 1d6+2 slashing
 
+######################################################
+#  _   _       _                 _     _ _           #
+# | | | |     | |               | |   | (_)          #
+# | |_| | ___ | |__   __ _  ___ | |__ | |_ _ __  ___ #
+# |  _  |/ _ \| '_ \ / _` |/ _ \| '_ \| | | '_ \/ __|#
+# | | | | (_) | |_) | (_| | (_) | |_) | | | | | \__ \#
+# \_| |_/\___/|_.__/ \__, |\___/|_.__/|_|_|_| |_|___/#
+#                     __/ |                          #
+#                    |___/                           #
+######################################################
+
+Hobgoblin Blade
+HP: 21(3d8+6)
+AC: 15(Scale mail)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 12| 14| 12| 12| 12|
+Martial Advantage: When the target is within 5ft of an ally, melee attacks deal
+an addition 1d8 damage.
+Projectile deflect: With a reaction when attacked with a ranged weapon, blade
+can add +2 AC for that attack to attempt to deflect the projectile.
+Attacks:
+Longsword +4 1d8+2
+
+Hobgoblin Archer
+HP: 21(3d6+3)
+AC: 15(Scale mail)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 16| 12| 12| 12| 12|
+Multi-attack: Can make two attacks with longbow
+Attacks:
+Dagger +5 1d4+3 piercing
+Longbow +5 1d8+3 piercing
+
+Hobgoblin Captain
+HP: 24(3d10+6)
+AC: 15(Scale mail)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 12| 14| 14| 16| 16|
+Leadership: For one minute, the captain provides words of encouragement or
+direction when friendly creatures within range make attacks, granting them a d4
+bonus to their attack rolls. Ends if captain is unconscious. Can be used once
+per day.
+Attacks:
+Dagger +5 1d4+3 piercing
+Longbow +5 1d8+3 piercing
+
+
 #########################################
 #  _   __      _           _     _      #
 # | | / /     | |         | |   | |     #
@@ -515,17 +660,119 @@ Ingestion:
 Consuming a corps heals the greedy for 2d10 hit points.
 
 
+Spider Dog
+Medium Monstrosity
+HP: 6 (2d4)
+AC: 12
+Speed: spider climb 30ft
+Pack Tactics: Attacks against enemies that are within 5ft of an ally are made
+with advantage. 
+Bite +32 1d6 piercing. DC 12 CON save or 1d6 poison damage
+
+Chicken Eel
+Medium Monstrosity
+HP: 15(3d8)
+AC: 11
+Speed: 40ft, 30ft climb
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 14| 10|  3| 10|  3|
+Multiattack: Can bite and claw separate targets
+Bite(15ft) +4 1d6+2 piercing
+Claw(15ft) +4 1d4+2 slashing
+
+Long Goat
+HP: 21 (3d12)
+AC: 11
+Move: 40ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 10| 14|  4| 10|  4|
+Spring Jump: Long goat may jump over a medium creature and onto a space on the
+other side.
+Charge: If the goat moves in a straight line 20ft toward the target, horn attack
+deals an extra 1d6 damage.
+Hooves +5 1d8 bludgeoning
+Horns +5 1d6 piercing
+
+Reacher
+HP: 80(6d20+14)
+AC: 12
+Speed: 10ft, Swim 60ft
+Tentacle(30ft): DC 16 STR save or grappled. Drag 30ft. Target can remake STR save.
+Bite +6 3d8+4 piercing. Advantage on grappled prey.
+
 
 #########################################################
-#  _____                                                #
-# |  _  |                                               #
-# | | | | ___ _______                                   #
-# | | | |/ _ \_  / _ \                                  #
-# \ \_/ / (_) / /  __/                                  #
-#  \___/ \___/___\___|                                  #
+#  _____ _ _                                            #
+# /  ___| (_)                                           #
+# \ `--.| |_ _ __ ___   ___                             #
+#  `--. \ | | '_ ` _ \ / _ \                            #
+# /\__/ / | | | | | | |  __/                            #
+# \____/|_|_|_| |_| |_|\___|                            #
 #                                                       #
-#  XII Ooze                                             #
+#  XII Slime                                            #
 #########################################################
+
+Grey Slime
+Medium Slime
+HP: 7 (1d12)
+AC: 8
+Speed: spider climb 20ft
+Cammoflauge: The gray slime looks just like wet rocks when still.
+Corrosion: Melee attacks against a Grey Slime corrode the weapon, subtracting
+-1 from damage dealt by attacks.
+Smother +4 1d6+2 acid damage. If target is wearing armor, the AC falls by -1
+
+Yellow Slime
+Large Slime
+HP: 25 (3d12+4)
+AC: 8
+Speed: 30ft
+Immunities: Slashing damage
+Divide: If struck with slashing damage, a second yellow slime is created, and
+both have half(rounded up) the health of the original.
+Smother +4 1d6+2 acid damage.
+
+Black Slime
+Large Slime
+HP: 36 (5d12+10)
+HP: 8
+Speed: 30ft
+Corrosion: Melee attacks against a Grey slime corrode the weapon, subtracting
+-1 from damage dealt by attacks. Any creature that touches the black slime takes
+
+Cube Slime
+Huge Slime
+HP: 55 (5d20)
+AC: 8
+Speed: 5ft
+Cammoflauge: When completely still and filling a hallway, they are completely
+transparent and resemble a thick sheet of glass. A passive perception of 18 is
+needed to detect the cube slime.
+Engulf: When a creature enters the same space as the cube slime, they are
+engulfed in the gel. Every turn a creature remains inside the cube slime,
+they receive 3d6 acid damage as they are rapidly digested.
+
+Pink Slime
+Tiny Slime
+HP: 3 (1d4)
+AC: 8
+Speed: 5ft, spider climb 5ft
+Mind Couple: Over the course of one minute, the pink slime enters in through
+the ears, nostrils, or mouth of a creature and begins to take telepathic control
+of them. The target must be unconscious for this to work. Once under control,
+the slime has access to all their memories and mental faculties. Any psychic
+damage that the host creature takes is translated to the pink slime directly.
+
+Green Slime
+Small Slime
+HP: 3(1d4)
+Speed: 25ft
+Poison Spines: A creature struck by spines must make a DC 12 CON save or fall
+paralyzed for 1d4 turns.
+Protective spines: As a reaction, the green slime may extend it's spines,
+forcing the attacker to succeed a DC 12 dex save or take 1d4 piercing damage.
+Spine Hail: Upon death, the slime fires it's spines. All creatures within 10ft
+must succeed a DC 12 dex save or take 1d4 piercing damage.
 
 #########################################################
 #                                                       #
@@ -538,6 +785,16 @@ Consuming a corps heals the greedy for 2d10 hit points.
 #                                                       #
 #  XIII Plant                                           #
 #########################################################
+
+Grass Heap
+Huge Plant
+HP: 87 (9d12+24)
+AC: 12
+Speed: 40ft
+Resistances: non-magical physical damage, cold
+Vulnerabilities: fire
+Spore Cloud: 30 foot radius, DC 14 CON save or become poisoned
+Tree club: +7 19(3d8+4) bludgeoning
 
 #########################################################
 #                                                       #
@@ -563,3 +820,113 @@ Speed: 30ft
 Immunities: non-magical physical damage, necrotic
 Vulnerabilities: radiant
 Life Drain: +4 1d6+2 necrotic
+
+Zombie
+Medium Undead
+HP: 18 (3d8+3)
+AC: 8
+Speed: 20ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14|  8| 14|  4|  4|  4|
+Resistant: Non-magical physical
+Weak: Radiant
+Immume: Necrotic
+Undead Fortitude: When zombie falls to 0 hit points by damage other than fire
+or radiant, they can make a con save to stay up with 1 hit point. The DC is half
+the damage plus 10.
+Bash +2 1d8+1 bludgeoning
+
+Zombie Runner
+Medium Undead
+HP: 18 (3d8+3)
+AC: 8
+Speed: 20ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14|  8| 14|  4|  4|  4|
+Resistant: Non-magical physical
+Weak: Radiant
+Immume: Necrotic
+Corpse Run(1 use): As a reaction to bloodshed or a loud noise, the zombie moves
+up to 30ft toward the source.
+Multi-attack: Zombie may make two bite attacks
+Bite +2 1d4+1 piercing
+
+Ghost
+Medium Undead
+HP: 50(10d8)
+AC: 14
+Speed: Fly 40ft
+Immune: Non-magical physical, necrotic
+Weak: Radiant
+Incorporeal form: The ghost may become incorporeal and pass through objects.
+They may not attack while incorporeal.
+Life Drain: +4 1d10 necrotic
+
+Specter
+Medium Undead
+HP: 21 (3d8+6)
+Speed: 30ft
+Resist: Non-magical physical, necrotic
+Weak: Radiant
+Life Drain +4 1d10 necrotic
+Spectral Shortsword +4 1d6+2 slashing
+
+Skeleton
+Medium Undead
+HP: 10(2d8)
+AC: 13
+Speed: 30
+Weak: bludgeoning
+Blindsight: 30ft
+Shortsword +4 1d6+2 piercing
+Shortbow +4 1d6+2 piercing
+
+Reaper
+Medium Undead
+HP: 18 (3d10)
+AC: 13
+Speed: Float 30ft
+Weak: Bludgeoning
+Scythe Block: As a reaction when targeted with a melee attack, add +2 to AC for
+this attack by blocking with scythe. If this blocks the attack, the attacker
+must succeed a DC 14 STR save or drop their weapon.
+Scythe +6 2d6+2 magical slashing
+Life Drain(10ft) +6 1d8+2 necrotic. Heals damage dealt.
+
+Bone Heap
+Large Undead
+HP: 44 (4d20)
+AC: 12
+Speed: 30ft
+Weak: Bludgeoning
+Reform: At the start of it's turn, the bone heap restores 1d6 hit points.
+Engulf +4 1d4 bludgeoning. Target must succeed DC 14 STR save or be restrained.
+Can remake save using their action.
+Pummel: Restrained target must succeed DC 14 DEX save to halve 4d4 bludgeoning damage.
+
+Breath Skull
+A floating skull wreathed in brightly colored dragon's breath.
+Tiny Undead
+HP: 30 (5d6+6)
+Speed: fly 15ft
+Element: The dragon's breath is either fire, lightning, acid, or poison.
+The breath skull is resistant to this type of damage, and it's breath attack
+deals this damage type.
+Dragon's Breath: 15ft cone DC 15 DEX save to halve 3d6(see element for type)
+
+Skelemancer
+A robed skeleton with a rusty, blood-crusted dagger
+Medium Undead
+HP: 24(3d8+9)
+Speed: 30ft
+Raise(Recharge 3-6): Every bone pile and corpse within 15ft are raised as a
+skeleton or zombie, respectively. They each have 1d4 hit points.
+Letter +4 1d4+2 piercing, 1d6 necrotic
+
+Bone Gauntlet
+An armored skeleton wielding a morning star.
+Medium Undead
+HP: 27(3d8+12)
+AC: 18(rusty plate mail)
+Speed: 30ft
+Morning Star(10ft) +4 1d8+4 bludgeoning
