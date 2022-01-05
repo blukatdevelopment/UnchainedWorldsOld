@@ -435,6 +435,7 @@ on duplicates.
 - Spaded tail
 - Forked tongue
 - Sharp teeth
+- Small horns
 
 ### Winged Flight (requires at least 15 STR)
 You have functioning wings. You have a flying speed of 50 feet.

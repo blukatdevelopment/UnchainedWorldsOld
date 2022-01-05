@@ -1251,13 +1251,461 @@ In either case, the party gains a level and becomes level 4.
 #                                                                              #
 ################################################################################
 ```
+
 ## Rebels
-The party failed to return the prince. Now rebels have started riots and
-brought the silver district to a halt.
-Negotiate with or eliminate the rebel leaders to restore order to the kingdom.
-The rebel leaders will try to persuade the party to turn on the dynasty.
+The party has failed to return the prince. Now the royals have started a war
+of succession and rebels have started riots and brought the silver district to a
+halt. The rebel leaders will try to persuade the party to replace the dynasty
+with an electoral republic.
 
+### The palace
+When the party returns to the palace, they will find the doors open and
+unguarded. If the royal jaguar is not already with the party, they will find it
+hiding under the king's bed. The king has been killed, and there are elves and
+gnomes fighting in the hallways.
 
+#### The great hall
+The king is dead in his bed, and if the party has not picked up the jaguar
+yet, it is sitting by his side.
+
+#### Mardus's Chambers
+Mardus has boarded up the doors to his chambers. He won't let anyone in and
+tells the adventurers to take out Oli and Sithu, two royals who have turned the
+palace into a battleground. Sithu's holed up in the hospitality wing, and Sithu
+is holed up in the engineering wing. If each are captured or killed, this can
+be contained before it becomes a full blown war of succession.
+
+### Hospitality wing
+
+#### Stat Blocks
+
+```
+Elven High Guard
+HP: 18(3d8+3)
+AC: 16(Breast Plate)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 16| 12| 12| 16| 14|
+Spellcasting(1/day): The elven guard can cast Levitate from the spell compendium
+volume 1.
+Sword Dance: As a reaction when targeted by a melee attack that misses, elven
+guard may make an attack of opportunity.
+Multi-attack: The elven guard may make two scimitar attacks.
+Attack:
+Scimitar +5 1d6+3 slashing
+```
+
+```
+Sithu Withersong
+HP: 21(3d10+3)
+AC: 17(Half Plate)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 18| 12| 12| 16| 14|
+Spellcasting(1/day): May cast Hold Person from spell compendium volume 1.
+Sword Dance: As a reaction when targeted by a melee attack that misses, elven
+guard may make an attack of opportunity.
+Multi-attack: The elven guard may make two scimitar attacks.
+Attack:
+Scimitar +5 1d6+3 slashing
+```
+
+#### Map
+```
+
+ ┌─────────────────────────────┬──────────────┐
+ │           x                 │              │
+ │           │                 │              │
+ │           │                 │              │
+ │    A      │        B        │        C     │
+ │           │                 │              │
+ │           │                 │              │
+ │           │                 x              │
+ │           │                 │              │
+ │           │                 │              │
+ │           │                 │              │
+ ├────x──────┴─────────┬───────┴───────────┬─x│
+ │                     │                   │  │
+ │                     │                   │  │
+ │                     │                   │  │
+ │       D             │                   │  │
+ │                     │                   │  │
+ │                     │                   │  │
+ │                     │                   │  │
+ │                     │                   │  │
+ │         ┌───────────┤     F             │  │
+ │         │           │                   │  │
+ │         │   E       │                   │  │
+ │         │           x                   │  │
+ │         │           │                   │J │
+ │         │           │                   │  │
+ ├──x──────┼────x──────┼───────────────────┤  │
+ │         │           │                   │  │
+ │         │           │                   │  │
+ │         x       H   │          I        │  │
+ │     G   │           x                   x  │
+ │         │           │                   │  │
+ └──x──────┴───────────┴───────────────────┴──┘
+A: Massage Room
+B: Meditation Room
+C: Staff Room
+D: Sitting Room
+E: Locker Room
+F: Swimming pool
+G: Lobby
+H: Sauna
+I: Hot Springs
+J: Hallway
+```
+
+#### G: Lobby
+The lobby is a carpeted room with fancy furniture barricaded around a northern
+door and a receptionist desk gating off an Eastern door.
+
+#### D: Sitting Room
+If the party enters from the South through the barricade, they'll alert 4 elven
+warriors.
+
+#### A: Massage Room
+A pair of human man and woman in uniform greet the party and ask what massage
+they'll be having today.
+
+#### B: Meditation Room
+This room is full of sand. There are four elves practicing meditative arts
+here. They do not respond to anything the party says or does, unless harmed.
+
+#### C: Staff Room
+There are four human staff members tied up in the corner.
+Sithu had ordered them to tie themselves up.
+He is waiting there with two high guard while he waits for an elven army to
+organize and enter the palace.
+
+Sithu will attempt to reason with the adventurers. He will appeal to any
+non-humans about the damages caused by the human empire, and how it is a
+reflection of the dwarven empire before it. He reasons that an empire can only
+thrive under those capable of living long enough to guide it.
+
+#### E: Locker Room
+A room full of lockers, showers, and bathroom stalls. A single elven high
+guard will see the party and immediately run into the pool room, locking the
+door behind them.
+There's a large amount of soap smeared on the ground. DC 14 DEX save or fall
+and take 1d4 damage when crossing the room.
+
+#### F: Swimming pool
+An elven high guard inside will surrender if the party makes it throug the door.
+
+#### H: Sauna
+A sauna with some benches surrounding a large pit of hot coals. An elven high
+guard will douse the coals with a bucket of water, causing a cloud of steam.
+They will then vanish to the North in the confusion. Each of the party must
+succeed a DC 10 CON save or take 1 fire damage from the steam.
+
+#### I: Hot Springs
+There are several shallow pools dug into the ground with steam and bubbles,
+and are some human nobles enjoying the hot the water in the complete nude.
+One man will snap his fingers and point at a random party member.
+"You, <descriptor> fetch me a towel. The staff's been replaced with elves, and
+they're not listening."
+
+#### J: Hallway
+A hallway with a bunch of bells hanging by strings from the ceiling. They
+will alert Sithu if they ring.
+
+### Engineering wing
+
+#### Stat Blocks
+```
+Gnome Foot Soldier
+Small Humanoid
+HP: 9(3d4)
+AC: 16(Breast Plate)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+|  8| 14| 10| 15| 13| 10|
+Crossbow Burst: The gnome aims at 10ft cube centered on a point within 20ft.
+They fire ten bolts, Everyone in the area must succeed a DC 12 DEX save to halve
+2d6 piercing damage.
+Attack:
+Autocrossbow(20/40) +4 1d6+2 piercing
+Ray Gun +4 1d12+2 radiant
+Blaster +4 1d10+2 fire
+Bola Gun +4 1d4 bludgeoning. On hit, target is grappled and falls prone.
+Poison Puffer 15ft Cone, DC 15 CON save to halve 3d6 poison damage
+Rocket Launcher(60ft) +4 15ft Sphere DC 15 DEX save to halve 3d8 fire damage
+```
+
+```
+Gnome Powered Infantry
+Large Humanoid
+HP: 35(5d12)
+AC: 18(Power Armor)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 18| 14| 10| 15| 13| 10|
+Multi-attack: The powered infantry may make two attacks, which may be some
+combination of power fist and fist flail.
+Attack:
+Power Fist +6 1d8+4 bludgeoning
+Fist Flail(15ft) +6 1d6+4 bludgeoning. DC 14 STR or be grappled and pulled 10ft
+```
+
+#### Map
+```
+
+ ┌─────────────┬────────────┬───────────────┐
+ │             │            │               │
+ │             │            │               │
+ │             │   B        │       C       │
+ │     A       │            │               │
+ │             │            │               │
+ │             │            │               │
+ ├──────x──────┼────xxxx────┼──────x────────┤
+ │             │            │               │
+ │             │            │      E        │
+ │     D       x            x               │
+ │             x            x               │
+ │             │            │               │
+ ├─────────────┤            ├───────────────┤
+ │             │            │               │
+ │             │            │               │
+ │     F       │            │               │
+ │             │            │      G        │
+ │             x            x               │
+ │             x            x               │
+ │             │            │               │
+ ├─────────────┤            ├───────────────┤
+ │             │            │               │
+ │             │            │               │
+ │    H        │            │        I      │
+ │             x            x               │
+ │             x            x               │
+ │             │            │               │
+ │             │            │               │
+ ├─────────────┘            └───────────────┤
+ │                                          │
+ │                                          │
+ │                  J                       │
+ │                                          │
+ └───────────────────x──────────────────────┘
+J: Main chamber
+A: Break Room
+B: Office
+C: Bunk Room
+D: Storage A
+E: Storage B
+F: Workshop A
+G: Workshop B
+H: Hanger A
+I: Hanger B
+
+```
+#### J: Main chamber
+The party can see a hallway of large doors and one door at the end of the
+hallway. They can hear a female voice crying out in agony from a door to the
+right. DC 12 perception check reveals it's Topi Lehti, the pilot of the
+providence.
+
+#### A: Break Room
+There are four gnomes playing table tennis, and a few others playing a TTRPG.
+Each group will invite the party to play.
+
+#### B: Office
+Oli Gearturner stand behind a desk wearing power armor. He tries to talk the
+party into helping him. He explains that the reason the human empire, and the
+dwarven empires of the past, were doomed to failure is because they invested
+in technology as a means to an end, and squandered their chance at technological
+godhood. A technocracy which selects only the best and brightest leaders would
+be the only safeguard against the continual decline of nepotistic dynasties.
+
+#### C: Bunk Room
+There are gnomes asleep in the beds. One will wake up, start getting out of bed,
+then climb back into bed and pretend to snore.
+
+#### D: Tool Room
+A gnome who has just invented a bola gun begs the party to let him test it on
+them, swearing he'll let them go if they do.
+
+#### E: Chemical Lab
+Two gnomes are testing out a new poison puffer. They have hazmat suits on.
+
+#### F: Target Range
+The party walks in on a gnome testing out the rocket launcher.
+
+#### G: Workshop
+The workshop is empty. There are schematics of power armor up in various spots
+and an empty harness for one.
+
+#### H: Scrap Yard
+This room consists of large heaps of scrap, a forge, and a metal crane
+suspending a cylinder. Before anything else can happen, the the party feels
+a strange force pulling on them. Anyone with 10lb or more ferrous metal must
+either let go of it within 1 turn, or get pulled to hang from the magnet.
+
+#### I: Hanger
+The party enters to find a hanger with the Providence inside. Topi is tied up,
+and three gnomes are giving the ship a new paint job. One of them has painted
+over the name, calling it the "Cloudscooter". Topi cries out that they're
+absolute monsters. The gnomes quickly draw autocrossbows and order the party
+to keep moving. Topi begs them to stop this torture at once.
+
+### Briefing
+Now that the party has either replaced or reaffirmed Mardus as their patron,
+they are given an update. While the royals fought over the palace, rebels
+started a riot and anarchy has broken out in the silver district with
+looting, destruction of property, and have fought off crown guard in the area.
+
+The leaders of the movement have taken hostages and are making demands to meet
+before midnight. The patron tells the party to find and neutralize the rebel
+leaders.
+
+Patron rationale:
+Mardus: We need to put the rabble-rousers back in their place and restore order.
+Oli: The commoners need to be stopped before utilities break down and they starve.
+Sithu: They must be stopped, or else every group with grievances will begin
+taking hostages.
+
+### To Ironcore
+The normal railway that runs throught the silver district is currently down, so
+the party has to walk on foot. Along the way, they notice that the lights are
+out. They pass a few events on their way to the rebels.
+
+#### Looting
+A group of soots is robbing a jewelry store. If any of the party seems poor, 
+one of the soots hands them a a 10GP silver necklace.
+
+#### Destruction
+A group of soots have knocked down a statue of King Baruti and are painting
+a mural on the cement "Rest in pieces".
+
+#### Violence
+There's an area full of haze from smoke bombs. The leader of a mob stands atop
+a derailed streetcar and is shouting for the crowd to keep pushing.
+"Push them out of our streets! Send them back to the gold district!"
+The mob rushes a line of guards with shields, who batter at them with the dull
+ends of their spears. Some of the mob in the back are throwing rocks at the
+crown guard. The line doesn't look like it will hold.
+
+The guards call up that the leaders are just ahead in a sprocket factory.
+
+### Sprocket Factory
+As the party approaches the factory, they may make the following observations:
+- There are two guards making laps around the roof of the building
+- There is a second-story window on each of the four walls
+- There is a small main entrance that is boarded up
+- The building has "No more lies" written on it
+- There are large vents on the roof that lead to the rest of the building
+
+#### Stat Blocks
+
+```
+Soot Rebel
+HP: 3(1d4)
+AC: 10
+Speed: 30ft
+Attacks:
+Light Crossbow +1 1d8 piercing
+Wrench +1 1d8 bludgeoning
+Firebomb +1 1d10 fire
+```
+
+```
+Peasant Mob
+Size: Huge swarm of sixteen medium creatures
+HP: 48(16d4)
+AC: 10
+Speed: 30ft
+Area Vulnerability - Attacks that target an area of ten square feet or more deal four times normal damage.
+Mob Morale:
+Your morale die is D6. Every time the mob takes 3 or more damage in an attack,
+roll your D6 once for every 3 damage in the attack. On a 1, the mob is routed.
+The mob may repeat the roll each turn after being routed, regrouping on a 6.
+Multiattack:
+The mob may make make four pitchforks or torches attacks
+Clubs: Enemy DC 10 DEX save to halve 4d4 piercing damage
+Fire Bombs(15ft): Enemy DC 10 DEX save to halve 4d4 fire damage
+```
+
+#### Map
+```
+
+  ┌─xxxx──xxxx──xxxx──────────────────────┐
+  │                                       │
+  │                                       │
+  │                       ┌───────x───────┤
+  │                       │               │
+  │                       │               │
+  │       F               │               │
+  │                       │               │
+  │                       │               │
+  ├─────x─────────┬───────┤               │
+  │               │       │               │
+  │               │       │               │
+  │               x  G    x               │
+  │               │       │               │
+  │               │       │               │
+  │               │       │               │
+  │               ├──x────┤               │
+  │               │       │               │
+  │               │       │               │
+  │               │   H   │               │
+  │               │       │   E           │
+  │       D       │       │               │
+  │               │       │               │
+  │               │       │               │
+  │               │       │               │
+  ├──────x────────┼───────┼───────x───────┤
+  │               │       │               │
+  │       B       x  A    x    C          │
+  │               │       │               │
+  └───────────────┴──xx───┴───────────────┘
+
+A: Entrance
+B: Quality Control
+C: Quality Control
+D: Stamping line
+E: Punching Line
+F: Railcar garage
+G: Break Room
+H: Offices
+```
+
+#### A: Entrance
+Breaking into the entrance reveals it's a trap. Both East and West doors are
+barricaded. A total of 6 light crossbow attacks are made on the party as they
+enter. The barricaded rebels have 15AC. They will stabilize and capture any
+downed party members.
+
+#### B: Quality Control
+A peasant mob, which will stabilize and capture any downed party members.
+
+#### C: Quality Control
+A peasant mob, which will stabilize and capture any downed party members.
+
+#### D: Stamping line
+Hanging machinery and production lines. Hot vats of molten metal left unattended.
+
+#### E: Punching Line
+Large punching machines and a conveyor belt leading into them.
+
+#### F: Railcar garage
+Three rebels are guarding this room.
+
+#### G: Break Room
+A room with both factory floor doors barricaded.
+
+#### H: Offices
+Four rebels stand with light crossbows to the heads of high-ranking officials.
+They will implore the party meets their demands if they want to see these royals
+breathing. Their demands include:
+- 8 hour work days
+- Retirement
+- Democratically elected leaders
+- Open the border between Sanctuary and the wilds
+
+If the party agrees to these terms, and to depose whatever royal currently
+dominates them, then they will let loose their hostages on good faith.
+Otherwise, they won't. The rebel leader's name is 
 
 ```
 ################################################################################

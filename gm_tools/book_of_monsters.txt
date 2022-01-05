@@ -283,6 +283,64 @@ Speed: 30ft
 Attacks:
 Rapier +4, 1d8+2 piercing
 
+Gnome Foot Soldier
+Small Humanoid
+HP: 9(3d4)
+AC: 16(Breast Plate)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+|  8| 14| 10| 15| 13| 10|
+Crossbow Burst: The gnome aims at 10ft cube centered on a point within 20ft.
+They fire ten bolts, Everyone in the area must succeed a DC 12 DEX save to halve
+2d6 piercing damage.
+Attack:
+Autocrossbow(20/40) +4 1d6+2 piercing
+Ray Gun +4 1d12+2 radiant
+Blaster +4 1d10+2 fire
+Bola Gun +4 1d4 bludgeoning. On hit, target is grappled and falls prone.
+Poison Puffer 15ft Cone, DC 15 CON save to halve 3d6 poison damage
+Rocket Launcher(60ft) +4 15ft Sphere DC 15 DEX save to halve 3d8 fire damage
+
+Gnome Powered Infantry
+Large Humanoid
+HP: 35(5d12)
+AC: 18(Power Armor)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 18| 14| 10| 15| 13| 10|
+Multi-attack: The powered infantry may make two attacks, which may be some
+combination of power fist and fist flail.
+Attack:
+Power Fist +6 1d8+4 bludgeoning
+Fist Flail(15ft) +6 1d6+4 bludgeoning. DC 14 STR or be grappled and pulled 10ft
+
+Elven Guard
+HP: 18(3d8+3)
+AC: 16(Breast Plate)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 16| 12| 12| 16| 14|
+Spellcasting(1/day): The elven guard can cast Levitate from the spell compendium
+volume 1.
+Sword Dance: As a reaction when targeted by a melee attack that misses, elven
+guard may make an attack of opportunity.
+Multi-attack: The elven guard may make two scimitar attacks.
+Attack:
+Scimitar +5 1d6+3 slashing
+
+Elven Guard Elite
+HP: 21(3d10+3)
+AC: 17(Half Plate)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 18| 12| 12| 16| 14|
+Spellcasting(1/day): May cast Hold Person from spell compendium volume 1.
+Sword Dance: As a reaction when targeted by a melee attack that misses, elven
+guard may make an attack of opportunity.
+Multi-attack: The elven guard may make three scimitar attacks.
+Attack:
+Scimitar +6 1d6+4 slashing
+
 Crown Guard
 HP: 10(2d6+2)
 AC: 14(leather, shield)

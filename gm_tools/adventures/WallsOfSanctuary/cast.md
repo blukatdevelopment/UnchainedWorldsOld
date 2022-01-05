@@ -21,6 +21,18 @@ Murdus is an elderly human man dressed in silk gown and adorned with golden
 jewelry. He is straight to the point and has little humor, though he is very
 cynical and thinks poorly of those working with him.
 
+## Oli Gearturner
+Industrialist and opponent of Mardus, Oli is a gnome man that wants to
+reorganize Sanctuary as an industrial power, above all others. He's convinced
+that trade of consumer goods between sanctuary and the outlying land.
+His voice is high, crisp, and he often uses honorifics and very polite
+language.
+
+## Sithu Withersong
+A male elf who's tired of the empire of man and wants to launch an era of elf
+control. His voice is nasaly and full of grandeur. Haughty and patronising, 
+he values fine art and status. 
+
 ## Aleris the palm reader
 A street magician woman named Aleris wears a cloak with a hood that casts her
 face in shadow. Underneath she wears dark makeup around her eyes covering runes.
@@ -43,7 +55,7 @@ archaeologist for the Wheel of Holar mission.
 
 ## Topi Lehti
 An elven engineer woman who is an expert in lost tech. She is quirky, sarcastic,
-and likes novelty.
+and likes novelty. She is the pilot of the Providence airship.
 
 ## Ian Hutala
 A human guard captain in the town of Shosa. He is no-nonsense and cares greatly
@@ -70,13 +82,18 @@ She is flirtatious, speaks with a slight hiss.
 A spadetail woman with wings, horns, and red skin. She is softspoken and curious
 about the world. She is apologetic and has a stutter.
 
+## Eeva Tammi
+A female soot who is a rebel leader. Her main goal is to act as temporary
+leader while a democratic election can run it's course. She's very passionate
+about her revolution.
+
 Aleksandra Pekkanen
 Alma Reijonen
 Hilda Hyvärinen
 
 Paula Lehtonen
 Mervi Leinonen
-Eeva Tammi
+ 
 Titta Nenonen
 Hertta Leskinen
 Lempi Sundqvist
