@@ -24,6 +24,7 @@ You gain proficiency in two skills of your choice.
 ### Athlete (requires at least 15 STR)
 In your education, you competed on a sports team and trained often.
 You are proficient in athletics.
+
 ### University (requires at least 15 INT)
 Testing earned you a year's stay at college, where you graduated with a degree
 in one topic. Choose one of the below skills that you are already proficient
@@ -34,6 +35,7 @@ when making skill checks with it.
 - Investigation
 - Nature
 - Religion
+
 ### Oratory (requires at least 15 CHA)
 You learned to give speeches, and to deliver both biting criticism and sharp
 retorts. You are proficient in persuasion.
@@ -55,10 +57,12 @@ Ability Score Increase:  +2 DEX, +1 INT
 ### Sword Dance (requires at least 15 DEX)
 You practice the traditional sword dance of your people, and in doing so
 you gain proficiency with short swords and scimitars.
+
 ### Magic Initiate (requires at least 15 INT)
 You've learned the theory behind arcane and have learned to fuel weak magic
 with your blood. You are proficient in arcana and may expend a hit die to cast
 the prestidigitation cantrip found in the spell compendium volume 1.
+
 ### Fey Ancestry (requires at least 15 WIS)
 Through meditation and discipline, you've tapped into your trace fey blood.
 You have advantAge: on wisdom saving throws made to resist spells, and you
@@ -202,9 +206,11 @@ Your nimble fingers and purpose-built tools make quick work of seemingly
 devastating damage. You may consume one hit die to cast the Mending spell
 from the spell compendium volume I, except that you achieve this spell by
 conventional, and not arcane means.
+
 ### Gnome Cunning (requires at least 15 CON)
 You have advantAge: on all intelligence, wisdom, and charisma saving throws
 made against spells or magical effects.
+
 ### Tinker (requires at least 15 INT)
 You are proficient with tinker's tools.
 You produce a device with 5 AC and 1 hit point which breaks down after 24 hours. 
@@ -238,13 +244,16 @@ You are proficient in one tool of your choice.
 You were recruited and served a few months in the army before being returned.
 In that time you learned to wield a pole arm in formation. You are proficient
 with pikes.
+
 ### Borrow (requires at least 15 DEX)
 When you attempt to steal an object using a sleight of hand check, you make it
 with advantage.
+
 ### Haggle (requires at least 15 WIS)
 You didn't get where you are by paying full price.
 The first persuasion check you make to haggle with a particular trader is made
 with advantage.
+
 ### Embelish (requires at least 15 CHA)
 It's hard for others to know what you have and haven't experienced. When you
 tell a tall tale, you get advantAge: on your deception check.
@@ -328,9 +337,11 @@ Ability Score Increase: +2 CON, +2 STR
 You have honed your full rAge: in battle. You are proficient with the battle axe
 and great axe. You may consume a hit die to throw either of them at a range of
 20/40. On a hit, this attack deals critical damage.
+
 ### Tunnel Fighter (requires at least 15 DEX)
 When a hostile creature enters within 5 feet of you, you may consume a hit die
 to make an attack against that creature. This does not consume a reaction.
+
 ### Dwarven Toughness (requires at least 15 CON)
 For every hit die you have, you gain +2 maximum hit points.
 
@@ -356,6 +367,15 @@ Ability Score Increase: +2 DEX, +1 STR
 ### Bushcraft
 You are proficient in survival and perception.
 
+### Field Medicine (requires at least 15 WIS)
+You are proficient with herbalism kits. You may expend one hit die in order
+to administer 1d10 hit points of healing to another creature. This takes 1
+minute.
+
+### Wild Eye (requires at least 15 CHA)
+You are able to give a look that makes the same impression a growling beast does.
+You are proficient in intimidation.
+
 ### Forms
 Those beast folk that refused to assimilate commonly fit into three groups.
 
@@ -364,6 +384,13 @@ Wild cats have been shooed from alleys for harboring a reputation of thieving
 and burglary. Their claws afford them a climbing speed of 30 feet and when used
 in unarmed attacks deals 1d4 slashing damage. You are proficient in stealth.
 Street cats include cheetahs and housecats.
+
+##### Retractable claws
+Wild cats have claws that can extend or retract, allowing them to make make
+unarmed attacks that deal 1d4, and have finesse.
+
+##### Climbing (requires 13 STR)
+Using your claws, you can climb easily. You have a climbing speed of 30ft.
 
 ##### Feline Agility(requires 15 DEX)
 You unleash a burst of speed. You gain an amount of movement equal to your speed.
@@ -380,6 +407,10 @@ rolls made in direct sunlight.
 #### Canid
 Dogs and their cousins such as the coyote, fox, and wolf all find themselves on
 the outskirts of imperial zones of control. Your movement speed is 40ft.
+
+##### Jaws
+You may use your canine teeth to perform unarmed attacks deal 1d4 piercing
+damage.
 
 ##### Keen Sense (Minimum 13 WIS)
 You have advantAge: on perception checks that rely on smell or taste.
@@ -400,15 +431,6 @@ When flying, your movement does not provoke attacks of opportunity.
 ##### Talons (Minimum 15 STR)
 Your feet have talons that you've learned to perform powerful natural
 attacks with, dealing 1d6 piercing damAge: on a hit.
-
-### Field Medicine (requires at least 15 WIS)
-You are proficient with herbalism kits. You may expend one hit die in order
-to administer 1d10 hit points of healing to another creature. This takes 1
-minute.
-
-### Wild Eye (requires at least 15 CHA)
-You are able to give a look that makes the same impression a growling beast does.
-You are proficient in intimidation.
 
 ## Spadetails
 The rise and fall of empires has been of little concern to those who carry 
@@ -443,12 +465,15 @@ You have functioning wings. You have a flying speed of 50 feet.
 ### Infernal Hide (requires at least 15 CON)
 Your skin is not only leathery and red, but protective. You have resistance to
 fire damage.
+
 ### Uncharmed (requires at least 15 INT)
 Your mind can detect the patterns of incoming charms as readily as it can
 identify words. You cannot be charmed.
+
 ### Devil's Sight (requires at least 17 WIS)
 Your eyes glow red or golden in the night, and you may see 120 feet in pitch
 black as if it were bright light.
+
 ### Hellish Rebuke (requires at least 17 CHA)
 As a reaction when you receive damAge: from an attack, you may expend a hit die
 and call out a short phrase of infernal to the attacker. That creature must
