@@ -133,7 +133,9 @@ adventurer's constition is raised to 10.
 ### Bogrot
 Often caught from handling unclean frogs or swimming in raw sewage, bogrot
 appears as black necrotic boils that burst to leave craters in the flesh.
-The infected is vulnerable to necrotic damage.
+The infected is vulnerable to necrotic damage. After having bogrot once, you
+are immune from catching it again. If a healthy character catches bogrot, their
+maximum hit points drops by 1d4 until they are cured.
 
 ### Ink Lung
 Often caught from exposure to land squid ink and or magically-enriched coal,
@@ -153,15 +155,20 @@ direction of the noise.
 It's difficult to say how many have been infected with anger boils, as
 a diagnosis requires making patients angry. The infected will grow large red
 boils on their face when frustrated or angry. After one hour, the boils recede
-and the infected no longer shows symptoms as long as they remain calm. If the
-boils
+and the infected no longer shows symptoms as long as they remain calm. When the
+boils surface, the character must succeed a DC 12 CON save or take 1d4 necrotic
+damage. If the boils are cleansed with a flask of holy water or a DC 17 medicine
+check using an herbalism kit, they are cured.
 
 ### Elf's Itch
 The infected's ears grow inflamed and red, and itch intensely. When not treated
 with a calming salve, the infected has disadvantage on ability checks. The salve
-must be applied every four hours.
+must be applied every four hours. Every night, the infected may make a DC 16 CON
+save for their immune system to fight off the infection. Elves make this check
+with disadvantage.
 
 ### Sneeze Itis
 The infected experience a runny nose, nasal congestion, and frequent bouts
 of sneezing. When exposed to strong smells, animal dander, pollen, or dust,
-the infected must succeed a DC 15 con save or enter a sneezing fit for 6 seconds.
+the infected must succeed a DC 15 con save or enter a sneezing fit for 6
+seconds.
