@@ -190,7 +190,11 @@ they are bounty hunters bagging bounties each session. Maybe there's
 literally a new monster showing up each session. Maybe there's simply a new
 job each week for a patron such as an adventurer's guild. If made highly lethal,
 this is a good recipe for horror survival. If made with little lethality, this
-is a good casual mode of play for players with inconsistent schedules.
+is a good casual mode of play for players with inconsistent schedules. You can
+also have an overarching plot, but it generally has very little player autonomy
+due to the episodic nature of the campaign. When you resolve one plot, you
+run a session as a season finale, which may be longer or more intense than
+normal.
 
 ### Mystery
 The play starts with the reveal of a mystery, and it ends with that mystery
@@ -198,7 +202,19 @@ being solved. This can be a oneshot like an episode of a detective show, or it
 can be a layered mystery like the long-term plots strung across 
 
 #### Epic Adventure
-
+You have a big story to tell, so there's a big plot that spans many serialized
+sessions. There's high continuity, and your characters will each get a chance
+for a character arc and side stories tying in their backstory. Each chapter acts
+like a season of a monster of the week campaign, but has more momentum. Each
+player must be present in each session, or you'll run into continuity issues. A
+chapter resolves a lesser antangonist or conflict, which is part of a larger
+conflict. You might want a big, bad, evil person (BBEP) who is playing chess
+with the adventurers, or you might have some antagonistic force such as
+an ice age or coming age of chaos that forces the party to work decisively
+to avert disaster. Whatever the case, you give plenty of space for players to
+roleplay and flesh out their characters. It's advisable to make one chapter at
+a time, with the bones of the entire plot laid out from the start, and define
+how you want leveling to be paced(one or two levels per chapter).
 
 ## Prep tools
 
@@ -730,3 +746,66 @@ might make combat seem tedious if every fight gave you an STD, or
 inconsequential if every time a character's about to go down, something
 conveniently prevents that from happening. A little goes a long way toward
 keeping things fresh and different.
+
+# Your first adventure
+
+## Step 1: Pick your format
+A oneshot would be trivial, so I'll select episodic. We're assuming your table
+will meet weekly for a month or two, giving us 8 sessions. If you can't meet
+that frequently, then this might span four or eight months instead. You may
+have people drop in or out, and that's fine due to the episodic nature, provided
+you have enough characters to actually run a session each time you meet.
+
+## Step 2: Pick your premise
+I'm going to say monster of the day. Your campaign will span about 7 episodes
+and conclude with a season finale. If everything's successful, you can create
+a second season.
+
+## Step 3: Design your plot
+This is the bulk of your worldbuilding. Who are the party? What kind of problems
+do they solve? The party are members of the adventurer's guild, and they are
+called in to solve strange problems that they are uniquely equipped to handle
+with the best cost effectivity, never accepting pay until they succeed. Your
+characters live in the land of the Iron Lance, a kingdom. Say one interesting
+thing about this place. It resides on an island and the king made a deal with
+the god of the ocean, so the island has been unreachable by foreign ships for
+the last century. In this state of peace, the Iron Lance no longer has a
+professional military of any capacity. Ok, now let's name an antagonist. The
+king of demons wants this island for himself, and so sends demons to wreak
+havoc on the island with the goal of being summoned there. As a lesser threat,
+let's say there's a cult doing the summoning.
+
+## Step 4: Break your content out into pieces
+Wow, that's intimidating. Where do we start? With the bones, of course!
+Let's describe this story in 8 pieces. Each episode will contain a monster of
+the week, and one bit of plot. We'll ratchet up the tension as we go. The party
+will start by fighting demons that seem to be teleporting in and leaving demonic
+glyphs at their entry points. Each demon will be fighting over a spot where a
+gem is hidden, uncovering it before the fight. Eventually, the party will get
+evidence that these glyphs are being drawn by people. They'll get a session
+where they figure out the location of a cult cell. At some point, the cultists
+will attack the adventurer's guild where the gems are stored while the party is
+out fighting a demon. Lastly, the finale where the party is contracted to stop
+the cult from summoning the king of demons. Ok, let's break this into episodes.
+- Fire Demon (demon dies to reveal gem)
+- Rabbit Demon (demon actively breaks a statue to steal a gem)
+- Tooth Demon(locals claim they saw someone draw the glyphs)
+- Eyeball Demon(cultist caught drawing rune, captured)
+- Raid on Cult cell
+- House Demon, cult raids adventurer's guild
+- Season Finale: King of Demons
+
+## Step 5: Fine details
+Maybe I'll make this actual campaign some day so you can reference it, but I'll
+give you advice instead. Build a rigid formula and apply it to the first four
+episodes. Then break that formula to help drive home the building of tension by
+taking away the comfort of the familiar pattern. The pattern might fit a 
+five room dungeon like this:
+
+0. 30 second anime intro
+1. The patron gives their best briefing of the demon and the city it's near.
+2. The party has to track down the demon by investigating townsfolk and clues.
+3. New demon reveals evidence of it's power or traps.
+4. Party faces the demon.
+5. The demon drops a gem, the patron buys it.
+6. 30 second anime outro
