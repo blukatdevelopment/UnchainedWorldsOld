@@ -59,6 +59,27 @@ Attacks:
 Bite +3 1d8+1 piercing. On hit may make a claw attack.
 Claw +3 2d4+1 slashing
 
+Wolf
+Medium beast
+HP: 18 (3d8+3)
+AC: 12
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 12| 12|  4| 12|  4|
+Pack tactics: When attacking a target adjacent to a friendly, the wolf
+gains advantage on the attack.
+Bite +4 1d8+2
+Claws +4 2d4+2 slashing
+
+Dire Wolf
+Large beast
+HP: 29 (3d12+9)
+AC: 12
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 12| 16|  4| 12|  4|
+Pack tactics: When attacking a target adjacent to a friendly, the wolf
+gains advantage on the attack.
+Bite +4 2d8+3
+Claws +4 2d6+3 slashing
 
 #########################################################
 #                                                       #
@@ -228,6 +249,34 @@ field of distorted psychic energy. Attacks against are made with disadvantage.
 #                                                       #
 #  IX Giant                                             #
 #########################################################
+
+River Giant
+River giants are feared because they capture land dwellers in nets and drag
+them under water to drown them.
+Large Giant
+HP: 56 (8d12)
+AC: 12
+Speed: 35ft, swim 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 18| 10| 10|  8| 12|  4|
+Net +4 Succeed a DC 14 STR save or be restrained and grappled.
+Spear +4 2d8+4 piercing
+
+Forest Giant
+These creatures live among moose, dire wolves, and bears. They reflexively
+kill humanoids, thinking they are all hunters coming to kill their friends.
+They have woody vines growing on them, along with mosses.
+Large Giant
+HP: 40 (5d12+5)
+AC: 15 (vine armor)
+|STR|DEX|CON|INT|WIS|CHA|
+| 18| 12| 14|  8| 16|  4|
+Vulnerable: Fire
+Immune: Poison
+Healing sap: Every turn, the forest giant can gain 1d6 temporary HP
+Vine strangle(15ft) +5 1d4 bludgeoning, creature is grappled pulled 15ft closer.
+Poison oak great club +5 2d8 bludgeoning + 2d4 poison
+
 
 #########################################################
 #  _   _                                   _     _      #
