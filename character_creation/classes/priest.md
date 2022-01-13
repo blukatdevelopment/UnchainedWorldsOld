@@ -193,6 +193,10 @@ creature.
 - Mending [1]
 - Sacred Flame [1]
 - Guidance [1]
+- Touch Light[1]
+- Lay On Hands[1]
+- Thaumaturgy[1]
+
 ### 1st
 - Guiding Bolt [1]
 - Healing Word [1]
@@ -201,19 +205,32 @@ creature.
 - Calm Emotions [1]
 - Command [1]
 - Protection from good and evil [1]
+- Vorpal Snare[1]
+- Push[1]
+
 ### 2nd
 - Insight Arrow [1]
 - Radiant Weapon [1]
 - Holy Weapon [1]
 - Bird Friend [1]
+- Words of Warning[1]
+- Walk Through Walls[1]
+- Channel the Dead[1]
+- Words of Strength[1]
+- Object of Desire[1]
+- Spirit Barrier[1]
+
 ### 3rd
 - Sacrifice [1]
 - Kindness [1]
 - Confession [1]
 - Riddle [1]
+- Exorcism[1]
+
 ### 4th
 - Miracle [1]
 - Life Mist [1]
+
 ### 5th
 - Judgement [1]
 - Curse [1]

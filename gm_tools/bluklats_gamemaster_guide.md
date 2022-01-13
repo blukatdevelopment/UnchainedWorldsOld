@@ -797,15 +797,15 @@ the cult from summoning the king of demons. Ok, let's break this into episodes.
 
 ## Step 5: Fine details
 Maybe I'll make this actual campaign some day so you can reference it, but I'll
-give you advice instead. Build a rigid formula and apply it to the first four
+give you advice right now. Build a rigid formula and apply it to the first four
 episodes. Then break that formula to help drive home the building of tension by
 taking away the comfort of the familiar pattern. The pattern might fit a 
 five room dungeon like this:
 
-0. 30 second anime intro
+0. 30 second song or spoken intro
 1. The patron gives their best briefing of the demon and the city it's near.
 2. The party has to track down the demon by investigating townsfolk and clues.
 3. New demon reveals evidence of it's power or traps.
 4. Party faces the demon.
 5. The demon drops a gem, the patron buys it.
-6. 30 second anime outro
+6. 30 second song or spoken outro

@@ -83,9 +83,12 @@ A spadetail woman with wings, horns, and red skin. She is softspoken and curious
 about the world. She is apologetic and has a stutter.
 
 ## Eeva Tammi
-A female soot who is a rebel leader. Her main goal is to act as temporary
+A female soot who is a rebel negotiator. Her main goal is to act as temporary
 leader while a democratic election can run it's course. She's very passionate
 about her revolution.
+
+## Konsta Kauppi
+Soot candidate for Sanctuary's election.
 
 Aleksandra Pekkanen
 Alma Reijonen
@@ -104,4 +107,3 @@ Daniel Kauppinen
  
 Patrik Kangas
 Ilppo Venäläinen
-Konsta Kauppi

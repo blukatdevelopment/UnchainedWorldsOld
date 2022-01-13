@@ -456,7 +456,7 @@ Tree club: +7 19(3d8+4) bludgeoning
 
 Spectral Archer
 Medium Undead
-HP: 21(3d6+3)
+HP: 15(3d6+3)
 AC: 15(Scale mail)
 Speed: 30ft
 |STR|DEX|CON|INT|WIS|CHA|

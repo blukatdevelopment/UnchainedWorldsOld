@@ -110,6 +110,127 @@ If the eye stone is ever further than 120 feet from you, the spell ends and
 the eye stone reverts back.
 ```
 
+```
+Earth Whisper (Cantrip)
+Casting Time: 10 minutes
+Range: touch
+Components: V, S
+Duration: Instantaneous
+You touch your ear to a patch of ground and ask it for it's wisdom.
+Make a spell check. The DC for this check is decided by the terrain type.
+On a success, you may gain some of the following information:
+- What creatures passed this land in the last day
+- What is buried beneath the ground, up to a depth of 15ft
+- What direction water can be found in
+- If any vegetation growing on this ground is safe to eat
+
++-------------------+----+
+|      Terrain      | DC |
++-------------------+----+
+| Lush vegetation   |  8 |
+| Moss or grass     | 10 |
+| Thin or dry grass | 12 |
+| Sand or stone     | 16 |
++-------------------+----+
+```
+
+```
+Phantom Whistle (Cantrip)
+Casting Time: 1 action
+Range: 60 feet
+Components: S
+Duration: Instantaneous
+You designate one creature and whistle. To this creature the whistle
+is loud, but the whistle is inaudible to all other creatures.
+```
+
+```
+Long Ear (Cantrip)
+Casting Time: 1 minute
+Range: 120 feet
+Components: S
+Duration: Instantaneous
+You press your ear to a door, wall, ceiling, or floor. 
+You may detect the following information:
+- Whether there is a room on the other side. If not, no further info.
+- The quality and number of voices, if any.
+- The quality and number of any sounds louder than a whisper.
+- The layout of medium or larger objects/creatures within range. (Description or map)
+```
+
+```
+Minute Conjuration (Cantrip)
+Casting Time: 1 action
+Range: self
+Components: S
+Duration: Concentration, 1 hour
+You hold out your hand and a glowing object appears in it. The object must be no
+more than 3 feet on one side, and must be an object you have seen before.
+The object lasts for the duration and gives 5 feet of bright light and another
+5 feet of dim light. You may dismiss the object with an action. If the item is
+edible and consumed, it causes 1d10 necrotic damage when it disappears. If the
+object causes damage to a creature or receives damage from an attack,
+it disappears.
+```
+
+```
+Touch Light (Cantrip)
+Casting Time: 1 action
+Range: Touch
+Components: S
+Duration: 1 minute
+You touch an object and create a point of light on it's surface that produces 
+bright light for 30 feet and dim light for another 30 feet. You may attempt
+to touch a creature's eyes by making a melee spell attack. On a hit, the target
+is blinded for the duration, after which the spell ends.
+```
+
+```
+Lesser Telekinesis (Cantrip)
+Casting Time: 1 action
+Range: 60 feet
+Components: S
+Duration: 1 minute
+You create an invisible hand out of force. The hand may lift an object that
+weighs no more than 10lb. You may use your bonus action to move the hand up to
+30ft within range and to pick up or drop an item.
+```
+
+```
+Lay on hands (Cantrip)
+Casting Time: 1 minute
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+You touch one creature and make a spell check, healing according to the
+amount rolled.
+
++--------------+------------+
+|     Roll     | Hit Points |
++--------------+------------+
+| Less than 10 |          0 |
+| 10-16        |          1 |
+| 17-18        |          2 |
+| 19-20        |          4 |
+| more than 20 |          6 |
++--------------+------------+
+```
+
+```
+Thaumaturgy (Cantrip)
+Casting Time: 1 action
+Range: Self
+Components: V
+Duration: Instantaneous
+You take a deep breath, then let it out to produce one of the following
+effects.
+- Thunderous speech: you speak a 6 second phrase that can be heard from within 300 feet
+- Light: you command all the candles bonfires, torches, and similar objects within 60ft to light.
+- Extinguish: you command all the bonfires, torches, and similar objects within 60ft to snuff out.
+- Open: All unlocked doors, chests, and shutters within 60ft open.
+- Close: All open doors, chests, and shutters within 60ft close.
+- Blue Flame: All flames within 120 feet turn bright blue.
+```
 
 ## 1st level spells
 
@@ -136,6 +257,17 @@ weapon or fist glows with radiant fire when you do. If the attack hits, this
 attack deals an additional 3d8 radiant damage.
 At higher levels: When cast above level 1, the smite deals an addition 1d8
 radiant damage per level above first.
+```
+
+```
+Bane (1st)
+Casting time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 hour
+Up to 6 creatures in sight must succeed a wisdom saving throw or be charmed by
+this spell. While under the effect, the creatures have a -1d4 penalty to their
+attack rolls and saving throws.
 ```
 
 ```
@@ -330,8 +462,8 @@ Components: V
 Duration: 1 round
 You use your action to project a field of psionic force around one creature you
 touch. Until the start of your next turn, the creature is resistant to force
-damage and spells that deal half damage on a failed save instead deal no damage
-on a success and half damage on a failed save.
+damage and spells that deal half damage on a successful save instead deal no
+damage on a success and half damage on a failed save.
 ```
 
 ```
@@ -407,6 +539,133 @@ Range: self
 Components: V
 Duration: Instantaneous
 YTou tell yourself a lie for one minute, and then you believe it to be true. If asked about the lie, insight checks will reveal that you seem to be telling the truth even if your answers are false. If you tell this lie to others, you make persuasion checks instead of deception checks. You never remember casting this spell.
+```
+
+```
+Protection from good and evil (1st level)
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, 1 minute
+You target one creature within range and they become fortified. Harmful spells and attack rolls from fiends and celestials have disadvantage on this creature, and saving throws against harmful spells have advantage. This creature likewise cannot be charmed by fiends or celestials for the duration. 
+At higher levels: When you cast this psell as a 2nd or higher level spell, you may target one additional creature each level above 1st.
+```
+
+```
+Magic Caltrops (1st)
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S, M(a tiny stone carved into a four-sided pyramid)
+Duration: Concentration, up to 1 minute
+You hold the tiny pyramid in your hand and it produces dozens of spectral copies
+of itself that fill you hands. You then throw these pyramids across four
+connected 5ft squares on the ground in range. For the duration, any creature
+that enters these spaces must succeed a dexterity saving throw or take 1d10
+force damage.
+```
+
+```
+Catapult (1st)
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S, M(an object weighing less than 10lb)
+Duration: Instantaneous
+You levitate one object, then send it hurdling in a straight line up to the
+maximum range of the spell. One at a time, each creature in the path must
+succeed a dexterity saving throw, or be hit by the object, take 2d10 bludgeoning
+damage, and end the spell.
+```
+
+```
+Vorpal Snare (1st)
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S, M(50ft of rope)
+Duration: Concentration, up to 1 minute
+You throw a rope at a medium or smaller creature within range and it becomes
+animated and moves like a snake, attempting to ensnare a target. The target must
+make a strength save to resist this ensnaring. On a success, the target is
+grappled by the rope. On a failure, the target is restrained. The target may
+make a strength saving throw at the beginning of their turn to resist the rope.
+If they succeed and are by the rope grappled, they are no longer grappled by the
+rope. If they succeed and are restrained, they are no longer restrained and
+instead grappled.
+```
+
+```
+Absorb Element (1st)
+Casting Time: 1 reaction, when taking fire, cold, lightning, acid, or poison damage
+Range: Self
+Components: V
+Duration: 1 round
+You outstretch your hand and your body begins to absorb the element that you are
+being damaged with. For the duration, you have resistance against the relevant
+damage type. While this spell is active, you may touch a creature and deal 1d8
+damage of the relevant type to one creature, ending the spell. The spell ends at
+the end of your next turn.
+```
+
+```
+Beast Aspect (1st)
+Casting Time: 1 bonus action 
+Range: Self
+Components:
+Duration: Concentration, 1 hour
+You imbue yourself with one of the following abilities for the duration.
+
+Short Flight: You gain a fly speed of 60ft this turn. You may not use this feat again until you end one turn without using it.
+Claws: You gain a climb speed equal to your movement speed and may perform unarmed attacks that deal 1d6 piercing damage.
+Gills: You gain a swim speed equal to your movement speed and may breath under water for the duration.
+```
+
+```
+False Life (1st)
+Casting Time: 1 action 
+Range: Self
+Components: V, S
+Duration: 1 hour
+You augment your vitality with that of undead energy.
+You gain 10 temporary hit points.
+At higher levels: When cast as a 2nd level spell or above, you gain
+an additional 5 temporary hit points per level above 1st.
+```
+
+```
+Push (1st)
+Casting Time: 1 action 
+Range: Touch
+Components: S
+Duration: Instantaneous
+You touch one creature and they are pushed 15 feet away from you. If their path
+collides with another creature, then each creature must succeed a dexterity
+saving throw or be knocked prone. If the creature instead collides with an
+object, wall, ground, or ceiling, they instead receive 1d6 bludgeoning damage.
+```
+
+```
+Pull (1st)
+Casting Time: 1 bonus action 
+Range: 60 feet
+Components: S
+Duration: Instantaneous
+You gesture at one creature in range that you can see to come your way. They
+are pulled 15 feet toward you. If their path collides with another creature,
+each creature must succeed a dexterity saving throw or fall prone. If they
+instead collide with an object, they receive 1d6 bludgeoning damage.
+```
+
+```
+Ice Tomb (1st)
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Concentration, 1 minute
+Make a ranged spell attack against one creature within range. If it hits, the
+creature receives 1d12+8 cold damage. If you miss, the spell ends.
+For the duration, you may use your action to continue the effect of the spell,
+dealing an additional 1d12 cold damage. If you do not continue the spell, it
+ends. If the target falls below 0 hit points, they are frozen solid and
+instantly killed.
 ```
 
 ## 2nd level spells
@@ -607,21 +866,12 @@ Some targets:
 ```
 
 ```
-Protection from good and evil (1st level)
-Casting Time: 1 action
-Range: 60 feet
-Components: V, S
-Duration: Concentration, 1 minute
-You target one creature within range and they become fortified. Harmful spells and attack rolls from fiends and celestials have disadvantage on this creature, and saving throws against harmful spells have advantage. This creature likewise cannot be charmed by fiends or celestials for the duration. 
-At higher levels: When you cast this psell as a 2nd or higher level spell, you may target one additional creature each level above 1st.
-```
-
-```
 Psionic Missiles (2nd level)
 Casting Time: 1 action
 Range: 120 feet
 Components: V, S, M (up to six pieces of ammunition)
-Duration: You levitate up to six pieces of ammunition, which you propel 
+Duration: Instantaneous
+You levitate up to six pieces of ammunition, which you propel 
 towards one or more targets. Make an ranged spell attack for each piece
 of ammunition, which deals 1d4+1 piercing damage upon a hit. If all
 pieces ammunition target the same creature, you may forego the attack
@@ -630,9 +880,116 @@ When you do this, the target receives up to 6d4+6 damage on a failure,
 or half as much on a success.
 ```
 
+```
+Words of Warning (2nd)
+Casting Time: 1 action
+Range: 60ft
+Components: V
+Duration: Concentration, 1 minute
+You speak a warning to creatures of your choice within range that can hear you.
+For the duration, they cannot be frieghtened or charmed, and have advantage
+on dexterity saving throws.
+```
+
+```
+Walk Through Walls (2nd)
+Casting Time: 1 action 
+Range: Self
+Components: V, S, M(a tiny cat plushie)
+Duration: Concentration, 1 minute
+For one minute, you may walk through any walls, provided they are roughly
+perpendicular with the direction of gravity. If the spell ends while you are
+inside a wall, you take 5d6 bludgeoning damage and are shunted to the nearest
+open space.
+```
+
+```
+Fiendishness (2nd)
+Casting Time: 1 action
+Range: self
+Components: V
+Duration: Concentration, 1 minute
+You whisper a phrase in abyssal or infernal, and gain the following effects for
+the duration:
+- Your eyes glow red
+- You are resistant to fire damage
+- Wings sprout from your back and you gain a 30ft flying speed
+- You know the firebolt cantrip, and can cast it without consuming magic resources.
+- Firebolt deals an additional 1d10 fire damage.
+```
+
+```
+Channel the Dead (2nd)
+Casting Time: 1 hour
+Range: 60 feet
+Components: V, S, optional M(dead creature's posessions, or remains, consumed by this spell)
+Duration: 10 minutes
+You attempt to reach the spirit of a dead creature.
+Make a DC 18 spell check. You gain a +2 bonus on this check if you have
+a posession of the creature's, and add a +5 bonus if you have the creature's
+remains. You may enlist others to help you make contact, gaining a bonus of
++1 for each ally who joins in the ritual, to a maximum of +4.
+Once contact is established, you channel the spirit of the dead creature and
+it controls your speech for the duration. The spirit knows everything it did in
+it's previous life, and has the same attitudes. It may refuse to answer you,
+lie, or demand a trade for knowledge. At the end of the duration, any posessions
+or remains used in the casting of this spell are destroyed and your link to the
+creature is severed permanently.
+```
+
+```
+Words of Strength (2nd)
+Casting Time: 1 action
+Range: 60ft
+Components: V
+Duration: Concentration, 1 minute
+Any creature of your choice in range that can hear you has advantage on checks
+and saving throws involving strength. Melee attacks from such creatures
+deal an additional 1d4 damage.
+At higher levels: When cast as a 3rd or higher level spell, the effected
+creatures instead deal an extra 1d8 damage with their melee attacks.
+```
+
+```
+Object of Desire (2nd)
+Casting Time: 1 action
+Range: 30 feet
+Components: V
+Duration: Concentration, up to 1 minute
+You create the illusion that fits in a 5 foot cube within range. Each creature
+that can see the illusion sees the object they desire most in life, and must
+succeed a wisdom saving throw, or move toward the illusion and attempt to
+retrieve it for the duration. The effected creatures may make an intelligence
+saving throw at the beginning of their turn to realize the illusion
+```
+
+```
+Spirit Barrier (2nd)
+Casting Time: 1 minute
+Range: 100 feet
+Components: V, S, M(1lb salt or a flask of oil)
+Duration: Instantaneous
+You draw a barrier with salt or oil in a closed shape and then imbue that
+barrier with protective energy. Spirits that lack a corporeal form cannot pass
+through the barrier. A spirit inside the barrier cannot escape, and spirits
+outside cannot enter. If the oil or salt is wiped off to create a hole in the
+barrier, the magical barrier is destroyed.
+```
 
 ## 3rd level spells
 
+```
+Summon Lesser Demons (3rd)
+Casting time: 1 action
+Range: 30 feet
+Components: V, S, M(A square of human leather)
+Duration: Instantaneous
+You summon four lesser demons onto your current plane in positions of your
+choice within range. They attack the creature closest to them, and afterwards
+act as they normally would without any allegience to you.
+Compatible demons:
+- Soul Sucker
+```
 
 ```
 Confession (3rd)
@@ -826,6 +1183,89 @@ Duration: Concentration, up to 10 minutes
 You gain a 60 foot flying speed for the duration.
 ```
 
+```
+Posession (3rd)
+Casting Time: 1 action
+Range: 100 feet
+Components: V, S, M(a medium or smaller creature)
+Duration: Instantaneous
+You choose an undead within range that lacks a corporeal form, and connect it
+with the creature that is the material component for this spell. The spirit and
+creature may both make a wisdom save to resist this spell if they are conscious
+during the casting time. If either succeeds, the spell fails. Once bound, the
+spirit posesses the body of the creature until either the creature dies or the
+spirit is exorcised.
+```
+
+```
+Exorcism (3rd)
+Casting Time: 1 minute
+Range: Touch
+Components: V, S
+Duration: Concentration, up to 1 minute
+You begin to drive off a spirit that is posessing one creature. The spirit must
+make wisdom saving throws, damaging it's host with 1d4 necrotic damage on a
+success. If the spirit accumulates three successes, the spell fails. If the
+spirit accumulates three failures, the spell succeeds and the spirit is drawn
+out of the creature with 1 remaining hit point.
+```
+
+```
+Tame Beast (3rd)
+Casting Time: 1 action
+Range: 30 feet
+Components: V
+Duration: Instantaneous
+You speak a command to one beast within range. It must make a wisdom saving
+throw. If it succeeds, the beast becomes hostile and cannot be effected by this
+spell for 24 hours. If it fails, the beast Regards you as a close friend. The
+effect lasts until the beast receives damage. If you cast this spell on a beast
+that is already effected by it, the effect becomes permanent. A creature that is
+hostile or has a size of large or above has advantage on saves against this
+spell.
+```
+
+```
+Counterspell (3rd)
+Casting Time: 1 reaction taken when another creature casts a spell
+Range: 60 feet
+Components: S
+Duration: 1 action
+You aim your hand at a creature within range that is casting a spell. Both
+creatures make a contested spell check. If there is a tie or you win, the spell
+consumes the same resources as if being cast, but is not cast. If you lose, you
+may attempt to force the counterspell by consuming the resources equivalent to
+recasting it. If the other creature fails, they may force their own spell by
+consuming resources equivalent to casting the spell again. Up to three contests
+may take place.
+```
+
+```
+Rust (Leve 3)
+Casting Time: 1 action
+Range: 15 foot cone
+Components: S
+Duration: Instantaneous
+You oustretch your hands and join the tips of your thumbs and pointer fingers
+together to form a triangle. In a 15 foot cone originating from this triangle,
+any metal weapons, armor, or carried objects are instantly reduced to piles of
+rust powder. If you target a construct that is made of metal with this spell,
+they must succeed a constitution saving throw in order to halve 8d6 acid
+damage.
+```
+
+```
+Petrification (3rd)
+Casting Time: 1 action
+Range: touch
+Components: S
+Duration: Instantaneous
+Make a melee spell attack against one creature. If you hit, the creature must
+spend an action each turn to make a constitution saving throw. If they succeed
+three times, they resist petrification. If they fail three times, or use their
+action for anything other than resisting the petrification, they are petrified.
+```
+
 ## 4th level spells
 
 ```
@@ -973,6 +1413,17 @@ wisdom saving throw to avoid thinking of that memory and making it apparent to y
 creature can make a wisdom saving throw in order to break the trance.
 ```
 
+```
+Antimagic field (4th)
+Casting Time: 1 action
+Range: 30 feet
+Components: V
+Duration: 1 minute
+You speak a command word and create an anti-magic field in a 60 foot radius
+sphere centered on a point within range. Within this field spells cannot be cast
+and magic items become temporarily inert.
+```
+
 ## 5th level spells
 
 ```
@@ -1106,4 +1557,63 @@ features for your transformation, which end after the duration.
 - Holy armor: Your body is encased in glowing plate mail. Your AC is now 18, and you may still use a shield.
 - Size: You grow two sizes larger. You gain 3d10 temporary hit points.
 - Eyes: Glowing symbols of eyes float around you. Weapon attacks have disadvantage on you, and you have advantage on dexterity saving throws.
+```
+
+```
+Nightmare Gate(5th)
+Casting Time: 1 action 
+Range: 60ft
+Components: V, S
+Duration: Concentration, 10 minutes
+You create a portal on a 10ft square surface within range. Black tentacles reach
+out of the portal to grasp and drag any creature within 30ft of it closer. Each
+creatue must succeed a strength saving throw, or else become grappled and
+dragged 10ft closer. Each tentacle has 10HP and 12AC.
+```
+
+```
+Bodyswap (5th)
+Casting Time: 1 action 
+Range: Touch
+Components: V, S
+Duration: 1 day
+You touch one creature, which must succeed a wisdom saving throw. If it fails,
+both you and the creature switch bodies. You each reserve your mental abilit
+scores(INT, WIS, CHA), but your physical ability scores are inherited from your
+new body. If your old body is killed, you are stuck in your new body.
+```
+
+## 6th level spells
+
+```
+Time Jump (6th)
+Casting Time: 1 minute
+Range: 30 feet
+Components: V, S, M(1 gem worth 500GP, which never existed after this spell is cast)
+Duration: Instantaneous
+You and up to five willing creatures in range are jolted backwards in time.
+You name a target time (ie "10 years ago", "year 400 of the dwarven empire").
+You and the creatures are removed from the current timeline, where it appears
+you have met a gruesome fate from the gem exploding. Roll on each time table to
+determine the magntiude and direction you miss your exact destination by. If you
+encounter an older version of yourself or an ancenstor and they are killed, you
+will continue to exist. You are now unbound by previous timelines.
+
++------+-------------------------+
+| Roll |        Magnitude        |
++------+-------------------------+
+|    1 | second                  |
+|    2 | year                    |
+|    3 | decade(10 years)        |
+|    4 | century(100 years)      |
+|    5 | millennium(1,000 years) |
+|    6 | Epoch(1,000,000)        |
++------+-------------------------+
+
++------+-----------+
+| Roll | Direction |
++------+-----------+
+| 1-2  | Earlier   |
+| 3-4  | Later     |
++------+-----------+
 ```

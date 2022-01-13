@@ -137,22 +137,39 @@ on itself.
 
 ### Cantrips
 - Firebolt [1]
-- Prestidigitation[0]
-- Light[1]
-- Spare the dying[1]
-- Thornwhip[1]
-- Eye Stone[1]
-- Mending[1]
-- Minor Illusion[1]
+- Prestidigitation [0]
+- Light [1]
+- Spare the dying [1]
+- Thornwhip [1]
+- Eye Stone [1]
+- Mending [1]
+- Minor Illusion [1]
+- Earth Whisper [1]
+- Phantom Whistle [1]
+- Long Ear [1]
+- Minute Conjuration [1]
+- Touch Light [1]
+- Lesser Telekinesis [1]
+
 ### 1st
-- Self deception
-- Sculpt Ice[1]
-- Command[1]
-- Protection from good and evil[1]
-- Magic Missile
-- Shield
-- Hasty Retreat
-- Instant Athlete
+- Self deception [1]
+- Sculpt Ice [1]
+- Command [1]
+- Protection from good and evil [1]
+- Magic Missile [1]
+- Shield [1]
+- Hasty Retreat [1]
+- Instant Athlete [1]
+- Magic Caltrops [1]
+- Catapult [1]
+- Vorpal Snare [1]
+- Absorb Element [1]
+- Beast Aspect [1]
+- False Life [1]
+- Push [1]
+- Pull [1]
+- Ice Tomb [1]
+
 ### 2nd
 - Blink Step [1]
 - Consort With Devils [1]
@@ -166,6 +183,13 @@ on itself.
 - Psionic Missiles [1]
 - suggestion [1]
 - Hold Person [1]
+- Words of Warning [1]
+- Walk Through Walls [1]
+- Fiendishness [1]
+- Channel The Dead [1]
+- Object of Desire [1]
+- Spirit Barrier [1]
+
 ### 3rd
 - Cause Fear [1]
 - Create Undead Vermin Swarm [1]
@@ -175,6 +199,12 @@ on itself.
 - Lightning Bolt [1]
 - Riddle [1]
 - Silent Prance [1]
+- Posession [1]
+- Tame Beast [1]
+- Counterspell [1]
+- Rust [1]
+- Petrification [1]
+
 ### 4th
 - Stone skin [1]
 - Fireball [1]
@@ -182,6 +212,8 @@ on itself.
 - Summon Devil [1]
 - Dreamscape [1]
 - Polymorph [1]
+- Antimagic Field [1]
+
 ### 5th
 - Firewall [1]
 - Chain Lightning [1]
@@ -189,6 +221,8 @@ on itself.
 - Curse [1]
 - Raise Undead Horde [1]
 - Rune Gate [1]
+- Nightmare Gate [1]
+- Bodyswap [1]
 ```
 [0] - spell is found in the core rules
 [1] - spell is found in the Spell Compendium Volume 1

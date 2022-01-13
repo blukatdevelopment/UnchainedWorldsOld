@@ -136,7 +136,7 @@ Age: 1000 years, or longer with good maintenance
 Languages: Common
 Size: Medium
 Speed: 30
-Ability Score Increase: 
+Ability Score Increase: CON +2, STR +1
 ```
 
 ### Reconstruction
@@ -179,6 +179,7 @@ program. You are proficient in smith's tools.
 
 ### Dwarven Armor Training (requires at least 13 CON)
 You are proficient with light and medium armor.
+
 ### Ancestral Warhammer (requires at least 15 INT)
 You know dwarvish, and your rite of passAge: was the forging of an ancestral
 warhammer with dwarvish runes that tell the story of your ancestors. You are

@@ -126,6 +126,12 @@ of your choice by 1. You cannot increase an ability score past 20.
 - Glowing Filament [1]
 - Splash Freeze [1]
 - Sculpt Ice[1]
+- Catapult[1]
+- Absorb Element[1]
+- Push[1]
+- Pull[1]
+- Ice Tomb[1]
+- Vorpal Snare[1]
 ### 2nd
 - Psionic Bridge [1]
 - Water Walk [1]
@@ -134,6 +140,7 @@ of your choice by 1. You cannot increase an ability score past 20.
 - Psionic Missiles[1]
 - Flying Weapon [1]
 - Levitate[1]
+- Object of Desire[1]
 ### 3rd
 - Malevolent Guidance [1]
 - Delusion[1]

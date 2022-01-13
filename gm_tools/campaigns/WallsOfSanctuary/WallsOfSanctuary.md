@@ -1705,7 +1705,43 @@ breathing. Their demands include:
 
 If the party agrees to these terms, and to depose whatever royal currently
 dominates them, then they will let loose their hostages on good faith.
-Otherwise, they won't. The rebel leader's name is 
+Otherwise, they won't. The rebels don't have a leader, but their negotiator is
+Eeva Tammi, a soot woman who offers to act as temporary leader to oversee the
+election.
+
+### Patron Reward
+Depending on who the patron is, the party will get a magic item.
+- Sithu offers Silent Curve, a +1 scimitar that autocrits on surprised enemies
+- Oli offers a Jump Suit
+- Mardus offers the Exit Plan, a +1 wand that can consume a hit die to cast Hasty Retreat [1]
+- Eeva offes 4 potions of healing and her Cluster Crossbow
+[1] - Spell compendium Volume 1
+
+```
+Jump Suit
+This half plate has jets on the back that produce blue flame to propel the
+wearer into the air. It has 6 charges, which return at dawn. When active,
+the suit consumes one charge per round of combat and confers a 60ft flying speed
+to the wearer.
+```
+
+```
+Cluster Crossbow
+This special light crossbow fires four crossbow bolts simultaneously.
+When you target a creature with it within normal range, the creature must
+succeed a DC 14 Dexterity saving throw. If you fire past normal range, the
+creature has advantage on the save. On a failed save, the creature receives
+normal damage.
+```
+
+### Downtime Events
+The party gains a level, and they are granted a week of downtime as the new
+government is put in place.
+- Topi Lehti will ask for the party to convince their patron to fund upgrades to the Providence.
+- Hostage situation by 1d4 elven high guard demanding patron steps down
+- They can get another reading from Aleris "You will be decieved by truth." Usual curse/blessing.
+- Aleris will offer to identify any magic or cursed items.
+- Some thugs fight a Chicken Eel against a Long Goat, take bets 1:4 in the goat's favor.
 
 ```
 ################################################################################
@@ -1720,7 +1756,247 @@ Otherwise, they won't. The rebel leader's name is
 ```
 ## Election
 When the party turns on the dynasty, they must oversee an election of a new
-leader by the people's will, transforming Sanctuary into a republic.
+leader by the people's will, transforming Sanctuary into a republic. The race is
+between a soot named Konsta representing the factory workers, a spadetail named
+Ces representing the new immigrants, and an Imperial representing the wealthy
+named Aleksandra Pekkanen. Eeva asks the party to investigate three plots that
+intelligence have uncovered.
+- Vote selling scheme
+- Assassination Plot
+- Harassment at Polls
+
+### Vote Selling Scheme
+Eeva tells the party that there are rumors of votes being sold in the alleys of
+the stacks at night, and that the perpetrators will be watching carefully for
+the party now that they're famous.
+
+#### Street corners
+A man in formal attire will move through the streets, claiming to be on his way
+home from the bar if questioned. If he trusts the party, he'll ask if they want
+to make some money. If they do, he'll ask them to put on blindfolds and hop
+into a carriage.
+
+#### The basement
+Once the party is out of the carriage, they are lead down some stairs and
+their blindfolds are removed to reveal a pentagram on the ground. There are
+two guards wearing demon masks. A devil is seated at a table with contracts and
+gold out. He explains his contract.
+"You will receive 10 gold each, and you will vote. When you do, you will select
+the third and final name listed on the ballot, whoever it may be. If you do not
+vote, or you do not vote in this way, you will summon a demon to this plane that
+will hunt you down and kill you in your sleep. Do you understand?"
+If the party fights, the guards will attempt to knock the party out and drop
+them off where they were found initially. They'll know the last option on the
+ballot is the candidate running this scheme. If they succeed in chasing down
+either the man in formal attire, the devil, or the masked guard, they will be
+told who the candidate is(Aleksandra Pekkanen).
+
+
+```
+Masked Guard
+Medium Humanoid
+HP: 15(3d6+3)
+AC: 12(leather)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 16| 12| 10| 10| 10|
+Attacks:
+Blow Dart +5 1 piercing DC 18 CON save or become paralyzed
+Rapier +5 1d8+3 slashing
+```
+
+```
+Devil Scribe
+Standing about five feet tall with leathery red skin and black hair, a devil
+scribe often wears a suit and carries a book of dark magic that it uses to
+create fiendish contracts.
+Medium Fiend(devil)
+HP: 24(6d6)
+AC: 14(natural)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 10| 10| 16| 16| 18|
+Spellcasting:
+May use each of the following spells once per day. Charisma is their spell mod.
+- Bane[1]
+- Force Field[1]
+- Flying Weapon[1]
+- Summon Lesser Demons[1] (Soul Suckers)
+[1] Spell Compendium Volume 1
+Fire Ray +5 2d10 fire
+Trident +3 1d6 slashing
+```
+
+```
+Soul Sucker
+A fleshy snake with a humanoid torso and a mouth like a lamprey. It feasts on
+the souls of the weak and weary. Soul suckers will run away from light sources.
+Small Demon(fiend)
+HP: 8 (2d6)
+AC: 8
+Speed: 40ft, climb 40ft
+Spray Venom: One creature within 10 feet must make a DC8 CON saving throw or
+become paralyzed for 1 minute.
+Suck: +1 1d4 necrotic
+```
+
+#### Ballot factory
+If the party tries to figure out who the last candidate is going to be, they'll
+be directed to the ballot factory. On the factory floor, there are mostly just
+workers doing their job. They will mention that they just put the ballots in
+order provided by their boss, who can be found in his personal office. He will
+deflect, and then ask for two thugs to come in and take care of the party if
+pressed. Under duress, he'll admit that it's Aleksandra Pekkanen's campaign
+manager pulling the strings. The party can take this to authorities. They also
+have the chance to change the outcome of the election by changing the order of
+the candidates, the last of which will get an unfair number of votes.
+
+```
+Soot Thug
+HP: 24(3d10+4)
+AC: 11(leather)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 10| 14| 10| 12| 12|
+Attacks:
+Wrench(greatclub) 1d8+2 bludgeoning
+```
+
+```
+Factory Boss(Lairo Kemp)
+HP: 8(2d4+2)
+AC: 12(leather)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 12| 12| 10| 12| 14|
+Attacks:
+Dagger +4 1d4+2 piercing
+Hand crossobw +4 1d6+2 piercing
+```
+
+### Assassination Plot
+There are rumors of an assassination plot being planned by the elven high guard,
+who are integrated into the crown guard.
+
+#### Informant's Apartment
+The party will be directed to the informant's apartment, which will be turned
+inside out with the door left open and the guard tearing it apart further in
+search of them. The party will be told that the resident of the partment, 
+Martin Lawrence, is suspected of treason and needs to be arrested to stand trial
+for their crimes.
+
+If the party leaves, Martin will approach the party from an Alley to ask for
+help. Once found, he'll reveal the organizer of the assassination plot is in the
+guard and made up charges against him. The guard's name is Itham Oloqirelle.
+They might be found either at the local temple of light at sunset, or at the
+local guard tower. Either way, resisting them without proof will likely get the
+whole party arrested.
+
+#### Temple of Light
+If the party watches Itham, they'll see himself and some other elven high guards
+going into the basement of the temple. Down there, they'll find an underground
+meeting of the cult of light. The group will openly discuss the assassination
+plot to deliver a rune containing fireball on it and have followers place it on
+the stage and trigger it from the crowd during the debate. If the party
+intervenes, they'll need to fight three elven high guard, three moon candles,
+and a moon torch.
+
+```
+
+ ┌──────────────────────────────────────────────────────────────┐
+ │                                                              │
+ │                                                              │
+ │                                                              │
+ │                                                              │
+ │                                                              │
+ │                                                              │
+ │                           A                                  │
+ │                                                              │
+ │                                                              │
+ │                                                              │
+ │                                                              │
+ │                                                              │
+ │                                                              │
+ │                                                              │
+ │                                                              │
+ ├───────────────────────┬────────────┬─────────────────────────┤
+ │                       │            │                         │
+ │                       │            │                         │
+ │                       │            │                         │
+ │                       x            x        C                │
+ │        B             xx            x                         │
+ │                       │            x                         │
+ │                       │            │                         │
+ │                       │            │                         │
+ ├───────────────────────┤            ├─────────────────────────┤
+ │                       │            │                         │
+ │                       │            │                         │
+ │                       │            │                         │
+ │                 D     │            │                         │
+ │                       x       E    x                         │
+ │                       x            x            F            │
+ │                       │            │                         │
+ │                       │            │                         │
+ │                       │            │                         │
+ │                       │            │                         │
+ │                       │            │                         │
+ └───────────────────────┴────xxx─────┴─────────────────────────┘
+A: Shrine of the moon
+B: Tombs
+C: Scriptorium
+D: Wine cellar
+E: Free shelter
+F: Main hallway
+```
+
+
+```
+Elven High Guard
+HP: 18(3d8+3)
+AC: 16(Breast Plate)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 16| 12| 12| 16| 14|
+Spellcasting(1/day): The elven guard can cast Levitate from the spell compendium
+volume 1.
+Sword Dance: As a reaction when targeted by a melee attack that misses, elven
+guard may make an attack of opportunity.
+Multi-attack: The elven guard may make two scimitar attacks.
+Attack:
+Scimitar +5 1d6+3 slashing
+```
+
+
+```
+Moon Candle
+HP: 3 (1d4)
+AC: 12
+Speed: 30ft
+Light: 30 bright, 30 dim
+Sacred Flame( 30ft): DC 12 WIS or 1d6 radiant
+Attacks:
+Dagger: +2 1d4+1 piercing
+```
+
+```
+Moon Torch
+HP: 3 (2d4)
+AC: 12
+Speed: 30ft
+Immunities: radiant damage
+Light: 30 bright, 30 dim
+Moon Blast: 15 cone, DEX save to halve 3d6 radiant damage
+Blinding light: 60 foot sphere, DC 15 CON save or blind for 1 turn
+Attacks:
+Dagger: +2 1d4+1 piercing
+```
+
+#### Guard Tower
+
+
+### Harassment at Polls
+
+### Downtime
 
 
 ```

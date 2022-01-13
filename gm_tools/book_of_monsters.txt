@@ -237,7 +237,35 @@ save or perform the act. If charmed, the target makes the save with disadvantage
 Gatto Field: While Gatto is conscious and it's eyes are green, it produces a
 field of distorted psychic energy. Attacks against are made with disadvantage.
 
+#########################################################
+# ______           _ _                                  #
+# |  _  \         (_) |                                 #
+# | | | |_____   ___| |___                              #
+# | | | / _ \ \ / / | / __|                             #
+# | |/ /  __/\ V /| | \__ \                             #
+# |___/ \___| \_/ |_|_|___/                             #
+#                                                       #
+#########################################################
 
+
+Devil Scribe
+Standing about five feet tall with leathery red skin and black hair, a devil
+scribe often wears a suit and carries a book of dark magic that it uses to
+create fiendish contracts.
+Medium Fiend(devil)
+HP: 24(6d6)
+AC: 14(natural)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 10| 10| 16| 16| 18|
+Spellcasting:
+May use each of the following spells once per day.
+- Bane[1]
+- Force Field[1]
+- Flying Weapon[1]
+[1] Spell Compendium Volume 1
+Fire Ray +5 2d10 fire
+Trident +3 1d6 slashing
 
 #########################################################
 #  _____ _             _                                #
@@ -396,6 +424,15 @@ AC: 14(leather, shield)
 Speed: 30ft
 Attacks:
 Spear +4, 1d6+2 piercing
+
+Soot Thug
+HP: 24(3d10+4)
+AC: 11(leather)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 10| 14| 10| 12| 12|
+Attacks:
+Wrench(greatclub) 1d8+2 bludgeoning
 
 Crown Skirmisher
 HP: 15(3d6+3)
@@ -670,7 +707,7 @@ Attacks:
 Longsword +4 1d8+2
 
 Hobgoblin Archer
-HP: 21(3d6+3)
+HP: 15(3d6+3)
 AC: 15(Scale mail)
 Speed: 30ft
 |STR|DEX|CON|INT|WIS|CHA|
