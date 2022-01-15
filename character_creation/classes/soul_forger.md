@@ -49,14 +49,14 @@ Choose 2 from the following:
 | Level | Minimum Experience | Hit Dice | Proficiency Bonus |       Features          |
 +-------+--------------------+----------+-------------------+-------------------------+
 |     1 |                  0 | 1d4      |                +1 |  Scrap, Forge, Repair   |
-|     2 |                300 | 2d4      |                +1 |                         |
+|     2 |                300 | 2d4      |                +1 |  Command                |
 |     3 |                900 | 2d4      |                +2 |                         |
 |     4 |               1200 | 3d4      |                +2 |                         |
 |     5 |               2700 | 3d4      |                +2 |  Ability Score Increase |
-|     6 |               5000 | 3d4      |                +2 |                         |
+|     6 |               5000 | 3d4      |                +2 |  Field Repair           |
 |     7 |               7500 | 3d4      |                +3 |                         |
 |     8 |              10000 | 3d4      |                +3 |                         |
-|     9 |              15000 | 3d4      |                +4 |                         |
+|     9 |              15000 | 3d4      |                +4 |  Miniaturization        |
 |    10 |              20000 | 3d4      |                +4 |  Ability Score Increase |
 +-------+--------------------+----------+-------------------+-------------------------+
 ```
@@ -75,8 +75,9 @@ During a partial or full rest, you may build chassis, components, or soul
 stones. A soul stone requires 15 units of scrap. Each chassis and component
 has it's scrap cost listed in it's respective section. Part of forging
 involves removing impurities and extracting trace alchemical ingredients.
-You may forge a number of souls stones equal to your intelligence modifier
-active at any one time.
+You may have a number of souls stones equal to your proficiency bonus + your
+intelligence modifier active at any one time. Your constructs each have their
+own turn in initiative, unless you are piloting or carrying them.
 
 ### Repair
 During a short rest, you may repair one construct. To do so, make an
@@ -85,6 +86,23 @@ points you restore for the targeted construct. Your constructs may discharge
 their soul stones. If this happens, you may expend one of your hit dice to
 recharge the soul stone.
 
+### Command
+On your turn, you may consume a hit die to use your bonus action and issue one
+of the following commands to your constructs:
+- Retreat: Your constructs move their full movement away from the combat.
+- Advance: Your constructs move their full movement toward enemies.
+- Focus fire: Each construct may make a ranged attack against the designated target.
+- Regroup: Your constructs move their full movement towards you.
+
+### Field Repair
+You may expend a hit die and an action to use tinker's tools or a heavy wrench
+to get an unconscious construct running again.
+
+### Miniaturization
+You have learned to fit more mechanisms in less space. Pick a component that
+requires two or more slots. It now requires half as many slots to install,
+rounded up.
+
 ## Designing a Construct
 
 ### Chassis
@@ -92,7 +110,7 @@ Choose the body of your construct. Each requires a certain number of
 intact soul stones to operate. Having less than that causes the construct to
 fall unconscious. When using a special ability, roll the chassis's discharge
 dice. If any of the dice roll a 1, a soul stone is discharged from the
-construct.
+construct. Note: your constructs share your proficiency bonus.
 
 #### Tiny Chassis
 Tiny constructs can be carried in an adventurer's pocket or on their shoulder.
