@@ -29,17 +29,18 @@ Select two from the following:
 
 ## Starting equipment
 - Dagger
+- Explorer's pack
 
 ```
 +-------+--------------------+----------+-------------------+--------+---------------------------------------+
 | Level | Minimum Experience | Hit Dice | Proficiency Bonus | Shifts |        Features        	             |
 +-------+--------------------+----------+-------------------+--------+---------------------------------------+
 |     1 |                  0 | 1d4      | +1                |      0 | Lycanthrope Form, Controlled Shifting |
-|     2 |                300 | 1d4      | +1                |      1 | Lycanthrope Form ability              |
-|     3 |                900 | 1d4      | +2                |      1 | Tough Hide                            |
-|     4 |               1200 | 2d4      | +2                |      1 | Lycanthrope Form ability              |
-|     5 |               2700 | 2d4      | +2                |      2 | Ability Score Increase                |
-|     6 |               5000 | 2d4      | +2                |      2 |                                       |
+|     2 |                300 | 2d4      | +1                |      1 | Lycanthrope Form ability              |
+|     3 |                900 | 2d4      | +2                |      1 | Tough Hide                            |
+|     4 |               1200 | 3d4      | +2                |      1 | Lycanthrope Form ability              |
+|     5 |               2700 | 3d4      | +2                |      2 | Ability Score Increase                |
+|     6 |               5000 | 3d4      | +2                |      2 |                                       |
 |     7 |               7500 | 3d4      | +3                |      2 |                                       |
 |     8 |              10000 | 3d4      | +3                |      2 | Extra Attack                          |
 |     9 |              15000 | 3d4      | +4                |      3 |                                       |

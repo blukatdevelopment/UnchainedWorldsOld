@@ -33,17 +33,18 @@ Choose two from the following:
 
 ## Starting equipment
 - Dagger
+- Peasant's Pack
 
 ```
 +-------+--------------------+----------+-------------------+-------------+-------------+------------------------------+
 | Level | Minimum Experience | Hit Dice | Proficiency Bonus | Psionic Die | Spell Level |           Features           |
 +-------+--------------------+----------+-------------------+-------------+-------------+------------------------------+
 |     1 |                  0 | 1d4      | +1                | --          |           0 | Invisible Hand, Silent Voice |
-|     2 |                300 | 1d4      | +1                | D2          |           1 | Psionic Guidance             |
-|     3 |                900 | 1d4      | +2                | D4          |           1 | Psionic Spellcasting         |
-|     4 |               1200 | 2d4      | +2                | D4          |           1 | Psionic Ability              |
-|     5 |               2700 | 2d4      | +2                | D6          |           2 | Ability Score Increase       |
-|     6 |               5000 | 2d4      | +2                | D6          |           2 | Psionic Ability              |
+|     2 |                300 | 2d4      | +1                | D2          |           1 | Psionic Guidance             |
+|     3 |                900 | 2d4      | +2                | D4          |           1 | Psionic Spellcasting         |
+|     4 |               1200 | 3d4      | +2                | D4          |           1 | Psionic Ability              |
+|     5 |               2700 | 3d4      | +2                | D6          |           2 | Ability Score Increase       |
+|     6 |               5000 | 3d4      | +2                | D6          |           2 | Psionic Ability              |
 |     7 |               7500 | 3d4      | +3                | D6          |           3 |                              |
 |     8 |              10000 | 3d4      | +3                | D6          |           3 | Psionic Ability              |
 |     9 |              15000 | 3d4      | +4                | D8          |           4 |                              |
@@ -62,7 +63,8 @@ than 10lb. The hand can be active for up to one minute.
 #### From higher levels
 When cast as a first level spell, the range increases to 60 feet, it can carry
 50lb, and you may attack with it to deal 1d4 bludgeoning damage. Wisdom is
-the ability used for melee attacks with your invisible hand.
+the ability used for melee attacks with your invisible hand. You are proficient
+with your invisible hand.
 
 When cast as a second level spell, the hand can carry 100lb, grapple, shove, or
 drag creatures(make a spellcheck in lieu of athletics checks). Attack damage 

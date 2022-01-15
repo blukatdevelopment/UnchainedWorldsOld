@@ -44,11 +44,11 @@ Choose 2 from the following list:
 | Level | Minimum Experience | Hit Dice | Proficiency Bonus |  Maneuvers |        Features        |
 +-------+--------------------+----------+-------------------+------------+------------------------+
 |     1 |                  0 | 1d10     | +1                |  0         | Warrior's Respite      |
-|     2 |                300 | 1d10     | +1                |  1         | Maneuvers              |
-|     3 |                900 | 1d10     | +2                |  2         |                        |
-|     4 |               1200 | 2d10     | +2                |  3         |                        |
-|     5 |               2700 | 2d10     | +2                |  3         | Ability Score Increase |
-|     6 |               5000 | 2d10     | +2                |  3         | Extra Attack           |
+|     2 |                300 | 2d10     | +1                |  1         | Maneuvers              |
+|     3 |                900 | 2d10     | +2                |  2         |                        |
+|     4 |               1200 | 3d10     | +2                |  3         |                        |
+|     5 |               2700 | 3d10     | +2                |  3         | Ability Score Increase |
+|     6 |               5000 | 3d10     | +2                |  3         | Extra Attack           |
 |     7 |               7500 | 3d10     | +3                |  4         |                        |
 |     8 |              10000 | 3d10     | +3                |  4         | Ability Score Increase |
 |     9 |              15000 | 3d10     | +4                |  5         |                        |

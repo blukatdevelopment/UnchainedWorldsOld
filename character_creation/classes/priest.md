@@ -31,17 +31,18 @@ Choose two from the following:
 - Dagger or mace
 - Holy Book
 - Holy Symbol
+- Priest's Pack
 
 ```
 +-------+--------------------+----------+-------------+------------------------+
 | Level | Minimum Experience | Hit Dice | Spell Level |        Features        |
 +-------+--------------------+----------+-------------+------------------------+
 |     1 |                  0 | 1d4      |   Cantrip   | Divine Spellcasting    |
-|     2 |                300 | 1d4      | 1           | Domain                 |
-|     3 |                900 | 1d4      | 2           |                        |
-|     4 |               1200 | 2d4      | 2           |                        |
-|     5 |               2700 | 2d4      | 3           | Ability Score Increase |
-|     6 |               5000 | 2d4      | 3           | Channel Divinity       |
+|     2 |                300 | 2d4      | 1           | Domain                 |
+|     3 |                900 | 2d4      | 2           |                        |
+|     4 |               1200 | 3d4      | 2           |                        |
+|     5 |               2700 | 3d4      | 3           | Ability Score Increase |
+|     6 |               5000 | 3d4      | 3           | Channel Divinity       |
 |     7 |               7500 | 3d4      | 4           |                        |
 |     8 |              10000 | 3d4      | 4           |                        |
 |     9 |              15000 | 3d4      | 5           |                        |

@@ -93,7 +93,7 @@ You resemble a large black cat with a white spot on your chest. Your thumbless
 paws are clumsy and you may not wield two-handed weapons. You require both paws
 to wield one-handed weapons. You may either stand upright at a height of nearly
 four feet on your digitigrade legs or on all fours and become indistinguishable
-from a large house cat.
+from a large house cat. Your size is small.
 
 ##### Claws (requires at least 15 dexterity)
 You've learned to make quick swipes with your claws to deal damAge: to soft

@@ -37,18 +37,18 @@ Choose 2 from the following:
 - Either (A) a musket, (B) one revolver, or (C) four pocket pistols
 - 20 medieval bullets
 - A shortsword or 2 daggers
-- Explorer's Pack
+- Tinker's Pack
 
 ```
 +-------+--------------------+----------+-------------------+------------+------------------------+
 | Level | Minimum Experience | Hit Dice | Proficiency Bonus |  Maneuvers |         Features       |
 +-------+--------------------+----------+-------------------+------------+------------------------+
-|     1 |                  0 | 1d6      | +1                |          1 | Scraft, Smith          |
-|     2 |                300 | 1d6      | +1                |          1 |                        |
-|     3 |                900 | 1d6      | +2                |          2 |                        |
-|     4 |               1200 | 2d6      | +2                |          2 | Second Wind            |
-|     5 |               2700 | 2d6      | +2                |          3 | Ability Score Increase |
-|     6 |               5000 | 2d6      | +2                |          4 |                        |
+|     1 |                  0 | 1d6      | +1                |          1 | Scrap, Smith           |
+|     2 |                300 | 2d6      | +1                |          1 |                        |
+|     3 |                900 | 2d6      | +2                |          2 |                        |
+|     4 |               1200 | 3d6      | +2                |          2 | Second Wind            |
+|     5 |               2700 | 3d6      | +2                |          3 | Ability Score Increase |
+|     6 |               5000 | 3d6      | +2                |          4 |                        |
 |     7 |               7500 | 3d6      | +3                |          5 | Advanced Smith         |
 |     8 |              10000 | 3d6      | +3                |          5 | Ability Score Increase |
 |     9 |              15000 | 3d6      | +4                |          6 |                        |

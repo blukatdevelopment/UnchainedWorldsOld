@@ -35,6 +35,7 @@ Choose 4 from the following:
 ## Starting Equipment
 - Alchemy Kit
 - Dagger
+- Scholar's Pack
 
 
 ```
@@ -42,11 +43,11 @@ Choose 4 from the following:
 | Level | Minimum Experience | Hit Dice | Proficiency Bonus | Techniques Known |        Features        |
 +-------+--------------------+----------+-------------------+------------------+------------------------+
 |     1 |                  0 | 1d6      | +1                |                1 | Novice Alchemy         |
-|     2 |                300 | 1d4      | +1                |                2 |                        |
-|     3 |                900 | 1d4      | +2                |                3 |                        |
-|     4 |               1200 | 2d4      | +2                |                4 | Journeyman Alchemy     |
-|     5 |               2700 | 2d4      | +2                |                5 | Ability Score Increase |
-|     6 |               5000 | 2d4      | +2                |                6 |                        |
+|     2 |                300 | 2d4      | +1                |                2 |                        |
+|     3 |                900 | 2d4      | +2                |                3 |                        |
+|     4 |               1200 | 3d4      | +2                |                4 | Journeyman Alchemy     |
+|     5 |               2700 | 3d4      | +2                |                5 | Ability Score Increase |
+|     6 |               5000 | 3d4      | +2                |                6 |                        |
 |     7 |               7500 | 3d4      | +3                |                7 | Expert Alchemy         |
 |     8 |              10000 | 3d4      | +3                |                7 |                        |
 |     9 |              15000 | 3d4      | +4                |                7 | Master Alchemy         |

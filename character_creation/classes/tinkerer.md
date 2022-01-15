@@ -20,11 +20,11 @@ preventative maintenance, and repairs to keep these things barely running.
 | Level | Minimum Experience | Hit Dice Features |                          |
 +-------+--------------------+-------------------+--------------------------+
 |     1 |                  0 | 1d4               |   Contraptions           |
-|     2 |                300 | 1d4               |   Repair                 |
-|     3 |                900 | 1d4               |   Expertise              |
-|     4 |               1200 | 2d4               |                          |
-|     5 |               2700 | 2d4               |   Ability Score Increase |
-|     6 |               5000 | 2d4               |   Refined Technique      |
+|     2 |                300 | 2d4               |   Repair                 |
+|     3 |                900 | 2d4               |   Expertise              |
+|     4 |               1200 | 3d4               |                          |
+|     5 |               2700 | 3d4               |   Ability Score Increase |
+|     6 |               5000 | 3d4               |   Refined Technique      |
 |     7 |               7500 | 3d4               |                          |
 |     8 |              10000 | 3d4               |   Advanced Technique     |
 |     9 |              15000 | 3d4               |                          |
@@ -49,7 +49,7 @@ Select four from the following:
 - Sleight of Hand
 
 ## Starting equipment
-- Heavy-weight Wrench
+- Tinker's Pack
 
 ## Features
 

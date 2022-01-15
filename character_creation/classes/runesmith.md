@@ -22,24 +22,25 @@ Choose 2 from the following:
 - Arcana
 - History
 - Insight
-- Inevestigation
+- Investigation
 - Medicine
 - Religion
 
 ## Starting Equipment
 - Book of Runes
 - Dagger or quarterstaff
+- Scholar's Pack
 
 ```
 +-------+--------------------+----------+-------------------+-------+-------------+---------------------------+
 | Level | Minimum Experience | Hit Dice | Proficiency Bonus | Runes | Spell Level |         Features          |
 +-------+--------------------+----------+-------------------+-------+-------------+---------------------------+
 |     1 |                  0 | 1d4      | +1                |     0 |           1 | Runebook                  |
-|     2 |                300 | 1d4      | +1                |     1 |           1 | Runesmithery, Runecasting |
-|     3 |                900 | 1d4      | +2                |     2 |           1 |                           |
-|     4 |               1200 | 2d4      | +2                |     4 |           2 | Runecasting Style         |
-|     5 |               2700 | 2d4      | +2                |     5 |           2 | Ability Score Increase    |
-|     6 |               5000 | 2d4      | +2                |     6 |           3 |                           |
+|     2 |                300 | 2d4      | +1                |     1 |           1 | Runesmithery, Runecasting |
+|     3 |                900 | 2d4      | +2                |     2 |           1 |                           |
+|     4 |               1200 | 3d4      | +2                |     4 |           2 | Runecasting Style         |
+|     5 |               2700 | 3d4      | +2                |     5 |           2 | Ability Score Increase    |
+|     6 |               5000 | 3d4      | +2                |     6 |           3 |                           |
 |     7 |               7500 | 3d4      | +3                |     8 |           3 | Runesmithing Technique    |
 |     8 |              10000 | 3d4      | +3                |     9 |           4 |                           |
 |     9 |              15000 | 3d4      | +4                |    10 |           4 | Runecasting Style         |
@@ -68,7 +69,7 @@ may contain four copies of the same cantrip spell.
 
 ### Runecasting
 When holding a rune stone in your hand, you may use an action to release the stored spell from the stone.
-Intelligence is your spellcasting ability. The rune stone you cast with acts as a spell focus, and is 
+Intelligence is your spellcasting abiNasdelle Fallirortlity. The rune stone you cast with acts as a spell focus, and is 
 consumed after the spell is cast.
 
 ### Ability Score increase

@@ -41,27 +41,25 @@ Choose 2 from the following:
 - Religion
 
 ## Starting Equipment
-- Heavy Wrench
 - Soul Stone
-- 1 unit of scrap
+- Tinker's Pack
 
 ```
-+-------+--------------------+----------+------------------------+
-| Level | Minimum Experience | Hit Dice |        Features        |
-+-------+--------------------+----------+------------------------+
-|     1 |                  0 | 1d4      | Scrap, Forge, Repair   |
-|     2 |                300 | 1d4      |                        |
-|     3 |                900 | 1d4      |                        |
-|     4 |               1200 | 2d4      |                        |
-|     5 |               2700 | 2d4      | Ability Score Increase |
-|     6 |               5000 | 2d4      |                        |
-|     7 |               7500 | 3d4      |                        |
-|     8 |              10000 | 3d4      |                        |
-|     9 |              15000 | 3d4      |                        |
-|    10 |              20000 | 3d4      | Ability Score Increase |
-+-------+--------------------+----------+------------------------+
++-------+--------------------+----------+-------------------+-------------------------+
+| Level | Minimum Experience | Hit Dice | Proficiency Bonus |       Features          |
++-------+--------------------+----------+-------------------+-------------------------+
+|     1 |                  0 | 1d4      |                +1 |  Scrap, Forge, Repair   |
+|     2 |                300 | 2d4      |                +1 |                         |
+|     3 |                900 | 2d4      |                +2 |                         |
+|     4 |               1200 | 3d4      |                +2 |                         |
+|     5 |               2700 | 3d4      |                +2 |  Ability Score Increase |
+|     6 |               5000 | 3d4      |                +2 |                         |
+|     7 |               7500 | 3d4      |                +3 |                         |
+|     8 |              10000 | 3d4      |                +3 |                         |
+|     9 |              15000 | 3d4      |                +4 |                         |
+|    10 |              20000 | 3d4      |                +4 |  Ability Score Increase |
++-------+--------------------+----------+-------------------+-------------------------+
 ```
-
 
 ## Features
 
@@ -82,10 +80,10 @@ active at any one time.
 
 ### Repair
 During a short rest, you may repair one construct. To do so, make an
-intelligence and add your proficiency bonus. This is the amount of hit points
-you restore for the targeted construct. Your constructs may discharge their
-soul stones. If this happens, you may expend one of your hit dice to recharge
-the soul stone.
+intelligence check and add your proficiency bonus. This is the amount of hit
+points you restore for the targeted construct. Your constructs may discharge
+their soul stones. If this happens, you may expend one of your hit dice to
+recharge the soul stone.
 
 ## Designing a Construct
 
@@ -222,7 +220,7 @@ Description:
 A ranged weapon which fires a small bolt of fire up to 30 feet. The attack is
 +5 to hit and deals 1d6 fire damage on a hit. If you have multiple blasters
 installed in a construct, they may fire two of them with each action, rolling
-your discharge once for each blaster.
+your discharge once for each blaster. The blaster's range is 30/60ft
 ```
 
 #### Lightning Rifle

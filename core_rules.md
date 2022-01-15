@@ -515,7 +515,7 @@ A flask of pink liquid which heals 2d4+4 hit points when consumed.
 ### Explorer's Pack
 - Backpack
 - Waterskin
-- Traver's Clothes
+- Traveler's Clothes
 - 10 rations
 - 50ft rope
 - bedroll
@@ -528,6 +528,14 @@ A flask of pink liquid which heals 2d4+4 hit points when consumed.
 - Common clothes
 - 5lb sack of wheat
 - pouch of 5SP
+
+### Tinker's Pack
+- Backpack
+- Heavy Wrench
+- Tinker's Tools
+- one 10lb unit of scrap
+- common clothes with apron
+- pouch of 5GP
 
 ### Noble's Pack
 - Backpack
@@ -564,13 +572,22 @@ A flask of pink liquid which heals 2d4+4 hit points when consumed.
 - Costume clothes
 - A pouch of 1SP
 
-### Priest's pack
+### Priest's Pack
 - backpack
 - vestments
 - holy book
 - holy symbol
 - 2 blocks of incense
 - 5GP
+
+### Burglar's Pack
+- backpack
+- bag of caltrops(20)
+- flask of strong spirits
+- crowbar
+- black outfit with hood and mask
+- 50ft of hempen rope
+- razor blade
 
 ### Weapons
 
