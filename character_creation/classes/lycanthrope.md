@@ -59,7 +59,9 @@ and you will lose control of your actions for 1d4 hours. During this time, the
 GM can intermittently or entirely control your actions. All of your lycanthrope
 abilities and features are active during an unwilling shift. When you leave your
 lycanthrope form from an unwilling shift, you have 1 hit point and your clothing
-is damaged according to the extent of your growth during the transformation.
+is damaged according to the extent of your growth during the transformation. If
+you resist a trigger, you are immune being triggered involuntarily for the next
+hour.
 
 ```
 +--------------------------------+----+

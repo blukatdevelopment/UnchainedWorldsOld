@@ -138,7 +138,7 @@ on itself.
 
 ### Cantrips
 - Firebolt [1]
-- Prestidigitation [0]
+- Prestidigitation [1]
 - Light [1]
 - Spare the dying [1]
 - Thornwhip [1]
@@ -225,6 +225,5 @@ on itself.
 - Nightmare Gate [1]
 - Bodyswap [1]
 ```
-[0] - spell is found in the core rules
 [1] - spell is found in the Spell Compendium Volume 1
 ```

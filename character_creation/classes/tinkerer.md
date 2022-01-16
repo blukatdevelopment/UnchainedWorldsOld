@@ -36,6 +36,7 @@ preventative maintenance, and repairs to keep these things barely running.
 Weapons: simple weapons, heavy crossbows, hand crossbows
 Armor: None
 Tools: Tinker's Tools
+Saving Throws: Dexterity, Wisdom
 
 ## Skills
 Select four from the following:
@@ -55,7 +56,7 @@ Select four from the following:
 
 ### Contraptions
 Your study in engineering has lead you to create prototype devices. These
-devices require careful care and maintenace. You may keepa number of
+devices require careful care and maintenace. You may keep a number of
 contraptions up and running that is equal to your intelligence modifier.
 During a partial or full rest you may construct and retire contraptions.
 
@@ -82,7 +83,7 @@ plus double your intelligence modifier.
 
 ### Flame Thrower
 1 use. This contraption sprays a fuel-air mixture past an ignition point and creates a 15 foot cone of fire.
-All creatures within the cone must make a dex save, receiving 3d6 damage on a save and half as much on a failure.
+All creatures within the cone must make a DC 15 dex save, receiving 3d6 damage on a save and half as much on a failure.
 
 ### Grapple Shot
 Many use. This contraption fires a grappling hook up to 600 feet, and has a crank that can reel in a large or smaller creature. If the grapple shot is mounted to a sturdy object, it automatically succeeds in reeling in the target 30 feet per every 6 seconds. Otherwise, the wielder must succeed an opposing athletics check to not have the grapple shot yanked out of their hands.
@@ -111,7 +112,7 @@ Many uses. This contraption triggers a connected contraption in response to a lo
 ### Lightning pack
 Many uses. This contraption consists of a backpack with an 10ft antenna connected by wire to an emitter ray gun. During a long rest when there is thunder and lightning, one can charge the lightning pack by exposing it to a lightning strike. Once charged, it has a single shot. A shot from a lightning pack fires a lightning bolt 50 feet in a straight line. All creatures within the bolt's path must make a dexterity saving throw. On a failure, they take 4d6 lightning damage, and half as much on a success.
 
-### Auto hand crossbow
+### Hand Autocrossbow
 Many uses. This hand-crossbow has a pneumatic cocking mechanism and an internal magazine which holds 20 crossbow bolts. It loses the ammunition property. After firing the auto hand crossbow with an action, it can be fired a additional time using a bonus action.
 
 ### Steam Powered Tool

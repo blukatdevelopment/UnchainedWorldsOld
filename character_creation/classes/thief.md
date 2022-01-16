@@ -14,7 +14,7 @@ of night, you are an expert in all things stealth and theft.
 
 ## Proficiencies
 Armor: Light
-Weapons: Simple weapons, hand crossbows, longswords, rapiers, shortswords
+Weapons: Simple weapons, hand crossbows
 Tools: Thieve's tools
 Saving Throws: Dexterity, Intelligence
 
@@ -32,8 +32,7 @@ You are proficient in stealth and 3 from the following:
 - Sleight of hand
 
 ## Starting equipment
-- Rapier or shortsword
-- Shotbow and quiver of 20 arrows or shortsword
+- 10 darts
 - Leather armor, two daggers, and thieve's tools
 - Burglar's pack
 

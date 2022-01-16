@@ -1017,7 +1017,7 @@ Spectral Shortsword +4 1d6+2 slashing
 
 Skeleton
 Medium Undead
-HP: 10(2d8)
+HP: 5(1d8)
 AC: 13
 Speed: 30
 Weak: bludgeoning

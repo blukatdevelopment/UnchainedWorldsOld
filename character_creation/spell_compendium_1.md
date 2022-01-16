@@ -4,6 +4,26 @@ This book contains spells shared between multiple classes.
 ## Cantrips
 
 ```
+Prestidigitation (Cantrip)
+Casting Time: 1 action
+Range: 10 feet
+Components: V, S
+Duration: 1 hour
+This is a novice spell used by beginning spellcasters for practice. When you cast this spell, you create on of the 
+following magical effects within range:
+
+- You create an instantaneous, harmless sensory effect.
+- You instantaneously light or snuff out a candle, torch, small camp fire, or equivalent fire.
+- You instantaneously clean or soil an object no larger than 1 cubic foot.
+- You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
+- You make a color, a small mark, or a symbol appear on an object or surface for 1 hour.
+- You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
+
+If you cast the spell multiple times, up to three non-instantaneous effects can be active at once and can be dismissed each
+effect using an action.
+```
+
+```
 Chastise (Cantrip)
 Casting time: 1 action
 Range: 60 feet

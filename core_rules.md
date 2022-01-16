@@ -169,7 +169,7 @@ The one background provided is the farmer.
 ### Farmer
 You bent your back under a blazing sun to till the land and raise a crop.
 **Skills:** agriculture, proficiency with sickles
-**Items:** Common clothes, a sickle, a chicken, a 30lb sack of wheat berries, and a pouch containing 5 silver pieces
+**Items:** Common clothes, a chicken, a 30lb sack of wheat berries, and a pouch containing 5 silver pieces
 
 ## Class
 Your class decides your hit dice, class features, and informs the role you'll play in your party.
@@ -667,7 +667,7 @@ Small creatures receive disadvantage on Attack rolls with heavy weapons.
 
 ##### Light
 When you make an attack with a light weapon in one hand, you may use your bonus action to make an attack using
-a light weapon in another hand. This attack does not benefit from your proficiency bonus.
+a light weapon in another hand. This attack's damage does not benefit from your ability modifier.
 
 ##### Loading
 Each time you use an action, bonus action, or reaction to make an attack with a weapon posessing the loading
@@ -1080,26 +1080,3 @@ in the spell.
 ##### Sphere
 The sphere extends outward from a point a distance equal to it's radius. Anything a distance equal or less than the radius of the sphere
 from it's center is inside it.
-
-### Spell List
-This core rule book provides one spell, but others are provided by supplemental books.
-
-```
-Prestidigitation (Cantrip)
-Casting Time: 1 action
-Range: 10 feet
-Components: V, S
-Duration: 1 hour
-This is a novice spell used by beginning spellcasters for practice. When you cast this spell, you create on of the 
-following magical effects within range:
-
-- You create an instantaneous, harmless sensory effect.
-- You instantaneously light or snuff out a candle, torch, small camp fire, or equivalent fire.
-- You instantaneously clean or soil an object no larger than 1 cubic foot.
-- You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
-- You make a color, a small mark, or a symbol appear on an object or surface for 1 hour.
-- You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
-
-If you cast the spell multiple times, up to three non-instantaneous effects can be active at once and can be dismissed each
-effect using an action.
-```
