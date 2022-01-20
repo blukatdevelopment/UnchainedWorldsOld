@@ -56,7 +56,7 @@ game master then schedule a session.
 
 ### Play
 The party makes any purchases and hires any hirelings. They then embark on their
-adventure, traveling to the location.
+adventure, traveling to the location. They leave and return to a guild hall.
 
 ## Guild Headquarters Upgrades
 Characters can invest their gold into various upgrades to the adventurer's guild
