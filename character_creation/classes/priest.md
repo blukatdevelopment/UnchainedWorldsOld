@@ -94,7 +94,7 @@ so.
 | Apprehend Criminal                | 1d10 * 100   |
 | Sacrifice heart of large monster  | 1d4 * 1000   |
 | Save a life from immediate danger | 1d12 * 100   |
-| Cure the sick                     | 1d2 * 1000   |
+| Cure the sick                     | 1d4 * 1000   |
 | Sacrifice heart of huge monster   | 1d6 * 1000   |
 +-----------------------------------+--------------+
 ```
@@ -220,6 +220,7 @@ creature.
 - Words of Strength[1]
 - Object of Desire[1]
 - Spirit Barrier[1]
+- Cure Sickness[1]
 
 ### 3rd
 - Sacrifice [1]

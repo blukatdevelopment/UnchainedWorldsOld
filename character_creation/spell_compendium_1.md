@@ -801,6 +801,16 @@ You read from the pages of your fiendish text and the book levitates into the ai
 ```
 
 ```
+Cure Sickness (2nd)
+Casting Time: 1 minute
+Range: self
+Components: V, S, M(a leech or herbs)
+Duration: Instantaneous
+You select one illness, disease, or medical condition and end it. Cure sickness
+cannot regrow nor re-attach limbs, nor can it prevent the natural effects of aging.
+```
+
+```
 Eyeball Zone (2nd level)
 Casting Time: 1 action
 Range: self
