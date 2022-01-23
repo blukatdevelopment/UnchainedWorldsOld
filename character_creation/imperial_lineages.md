@@ -283,7 +283,7 @@ a grapple. You may drag a creature your size while moving your regular speed.
 ### Form
 There were a few breeds selected particularly for their physiology.
 
-#### Hoofers
+#### Hoofer
 You are a hooved mammal. Common ungulate breeds include horse, cattle, goat, camel,
 and donkey. Your speed is 40 feet.
 
@@ -302,7 +302,7 @@ deal 1d4 slashing damage.
 When you use your action to attack with your claws, you may use your bonus
 action to make a second claw attack.
 
-#### Battle Cats
+#### Battle Cat
 Your niche in the empire is as caravan guard. Your rugged silhouete is a
 convincing argument for thieves and beasts alike to move along peacefully.
 Whether tiger, leophard, lion, or bobcat, you jaws are the source of your power.

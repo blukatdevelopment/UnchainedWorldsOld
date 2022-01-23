@@ -134,6 +134,7 @@ of your choice by 1. You cannot increase an ability score past 20.
 - Pull[1]
 - Ice Tomb[1]
 - Vorpal Snare[1]
+- Jump [1]
 ### 2nd
 - Psionic Bridge [1]
 - Water Walk [1]

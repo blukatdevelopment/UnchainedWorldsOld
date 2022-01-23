@@ -170,6 +170,7 @@ on itself.
 - Push [1]
 - Pull [1]
 - Ice Tomb [1]
+- Jump [1]
 
 ### 2nd
 - Blink Step [1]

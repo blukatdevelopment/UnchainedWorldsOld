@@ -9,6 +9,22 @@
 #  I Aberration                                         #
 #########################################################
 
+Puppetmaster
+A blob of inky black flesh that pulses and sprouts hands. This outsider comes to
+hold puppet shows and lure creatures into it's mouth for a snack.
+Huge Aberration
+HP: 55(5d20)
+AC: 12(leather)
+Speed: 5ft, Climb 5ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 14| 12| 10| 10| 10|
+Teleport: Puppetmaster may blink out of existence, presumably returning to it's
+original plane.
+Grapple: May grapple up to 4 creatures at once using marionettes. +7 on their
+athletics check.
+Attacks:
+Bite +4 2d10 piercing, can target all grappled creatures simultaneously
+
 #########################################################
 # ______                _                               #
 # | ___ \              | |                              #
@@ -18,12 +34,21 @@
 # \____/ \___|\__,_|___/\__|                            #
 #  II Beast                                             #
 #########################################################
-
+Blackbear
+Medium Beast
+HP: 21(3d10+3)
+AC: 13(natural)
+Speed: 40ft, Climb 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 14| 12| 10| 10| 10|
+Multiattack: Blackbear may make 2 claw attacks.
+Bite +4 1d8+2 piercing
+Claws +4 2d4+2 slashing
 
 Jaguar
 Medium Beast
 HP: 18(3d8+3)
-AC: 12(leather)
+AC: 12
 Speed: 40ft, Climb 30ft
 |STR|DEX|CON|INT|WIS|CHA|
 | 14| 14| 12| 10| 10| 10|
@@ -118,6 +143,64 @@ Moon Greatsword: +6 1d12+3 radiant
 #  \____/\___/|_| |_|___/\__|_|   \__,_|\___|\__|       #
 #  IV Construct                                         #
 #########################################################
+
+Animated Book
+Tiny Construct
+HP: 3 (1d4)
+AC: 8
+Speed: 30 fly
+Vulnerable: Fire
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 10| 10|  4| 10|  4|
+Papercut +2 1 slashing
+
+Swarm of Animated Books
+Large Swarm of tiny Constructs
+HP: 22 (2d20)
+AC: 8
+Speed: 30 fly
+Vulnerable: Fire
+Resistant: physical damage
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 12| 10|  4| 10|  4|
+Highly flammable: If lit with fire damage, swarm will suffer 1d10 fire damage
+at the start of each turn.
+Multi-attack: May make 2 paper cuts
+Papercut +3 1d6+2 slashing
+
+Animated Coat
+Small Construct
+HP: 6 (2d4)
+AC: 10
+Speed: 20 fly
+Immune: non-magical bludgeoning
+Vulnerable: slashing
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 12| 10|  4| 12|  4|
+Athletics +5
+Strangle: A grappled creature must make a DC 12 strenght save, or take 1d4-1
+bludgeoning damage as the coat strangles them.
+
+Animated Bathtub
+Large Construct
+HP: 18 (3d10)
+AC: 16(Cast Iron)
+Speed: 20ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 10| 10|  4| 12|  4|
+Pour(1 use): Water begins to boil, then tub tips over to pour out it's contents.
+All creatures within 10ft must make a DC 12 dexterity saving throw to halve 1d6
+fire damage.
+Slam +4 1d8+3 bludgeoning
+
+Enforcer
+This device is made to enforce rules within a dungeon, and will only attack
+when those rules are broken, or in self defense if tampered with.
+Large Construct
+HP: 55(5d20)
+AC: 18
+Speed: 0ft
+Zap: One creature must succeed a DEX saving throw to halve 3d6 lightning damage.
 
 
 #########################################################
@@ -341,6 +424,16 @@ Multiattack: Captain can make two shortsword attacks
 Attacks:
 Shortsword +5 1d6+3 piercing
 
+Petty Bandit
+HP: 4(1d4+1)
+AC: 11
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 12| 12| 10| 12| 12|
+Attacks:
+Dagger +2 1d4+1 piercing
+Sling +2 1d4+1 bludgeoning
+
 Bandit
 HP: 8(2d4+2)
 AC: 12(leather)
@@ -549,6 +642,43 @@ Pikes(10ft range): Enemy must make DC 13 DEX save to halve 8d10+8 piercing damag
 #  \____/\__,_|_|\__|_|___/\__|___/ #
 #                                   #
 #####################################
+
+##################
+#  Feather Cult  #
+##################
+The feather cult is composed of wealthy people who seek to summon a
+white-feathered demon from the 9 hells. They receive their magic from this demon
+and feed it by marking victims with a soul-stealing rune before killing them.
+
+Feather Initiate
+HP: 6 (2d4)
+AC: 11
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 13| 10| 10| 10| 10|
+Abilities:
+Posion: When their blade is pulled from it's scabbard, it's coated in poison.
+Their first attack deals an additional 2d6 poison damage.
+Jump: They may cast the jump spell from the spell compendium volume 1.
+Attacks:
+Dagger: +3 1d4+1 piercing
+
+Feather Elite
+HP: 12 (3d4+3)
+AC: 16
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 14| 12| 10| 10| 10|
+Abilities:
+Posion: When their blade is pulled from it's scabbard, it's coated in poison.
+Their first attack deals an additional 2d6 poison damage.
+Jump: They may cast the jump spell from the spell compendium volume 1.
+Feathers: As a bonus action, they may sprout feathery wings from their back,
+granting a 30ft fly speed. At the end of their turn, they must land or fall.
+Attacks:
+Shortsword: +3 1d6+1 piercing
+
+
 
 ##################
 #  Shadow Cult   #

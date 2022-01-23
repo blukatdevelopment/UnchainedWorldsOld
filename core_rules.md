@@ -196,7 +196,7 @@ Choose 2 from the following: Athletics, Insight, History, Nature, Religion
 | Level | Hit Dice | Proficiency Bonus | Minimum XP |       Feats       |
 +-------+----------+-------------------+------------+-------------------+
 |     0 | 1d4      | +1                |          0 |                   |
-|     1 | 1d4      | +2                |        200 | Training Montage  |
+|     1 | 1d4      | +1                |        100 | Training Montage  |
 +-------+----------+-------------------+------------+-------------------+
 ```
 
@@ -509,6 +509,13 @@ A flask of pink liquid which heals 2d4+4 hit points when consumed.
 | 21 or higher | Heal 1d8 hit points.       |
 +--------------+----------------------------+
 ```
+
+#### Caltrops
+You may drop caltrops over a space of four 5ft squares that are connected. When
+you do, any creature who enters that space must make a DC 14 dex save. On a
+failure, the creature receives 1 piercing damage and their movement is reduced
+to 0. A creature who moves carefully treats the square as difficult terrain and
+rolls normally. A creature who moves normally rolls with disadvantage.
 
 ### Packs
 

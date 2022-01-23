@@ -688,6 +688,18 @@ ends. If the target falls below 0 hit points, they are frozen solid and
 instantly killed.
 ```
 
+```
+Jump (1st)
+Casting Time: 1 bonus action
+Range: Self
+Components: S
+Duration: 1 minute
+You feel the strength of your legs magically augmented. You may jump 20 feet
+vertically or horizontally, and falling from 20 or less feet does not deal fall
+damage, provided you land on your feet. You may use your action to jump 40 feet
+instead of 20.
+```
+
 ## 2nd level spells
 
 ```

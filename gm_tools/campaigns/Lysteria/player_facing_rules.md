@@ -13,6 +13,12 @@
 
 ## Character creation rules
 
+### Steps to create a commoner
+1. Get a token/actor in Foundry
+2. Roll abilities, swap up to one pair
+3. Roll for background
+4. Pick lineage
+
 ### Stats
 For ability scores, roll 4d6 and drop the lowest. Abilities are rolled in order,
 but one pair of abilities may be swapped before any bonuses are applied. Health
@@ -213,7 +219,7 @@ be offered.
 Characters that die with at least 10GP can be buried with a 32 letter
 inscription on their tombstone. One of their surviving peers comes up with this
 inscription.
-
+'
 ### Cleanup Crew (2GP/Day)
 This crew loads a donkey cart with loot. On major roads, it travels two squares
 a day and takes 1 day to load up.

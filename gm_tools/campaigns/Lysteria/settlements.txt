@@ -7,17 +7,59 @@ HEALTH: Failed
 ECONOMY: Government
 GOVERNMENT: Dictatorship
 Lineage: Undead
+
+ ┌───────────────────────────────────────DD────────────────────────────────┐
+ │                                     DDD                                 │
+ │                              BB   DD                                    │
+ │           HHH                 BB DDD     JJJJJJJJJJJJ                   │
+ │             HH                 DDDD                 JJJJJ               │
+ │               HH              DDDDDB                     JJJJ   A       │
+ │                 HH          DDD     BB                      JJAAA       │
+ │                  HHH      DD          BB                   AAA          │
+ │                    HH   DDD             B                AAA            │
+ │                      H DDD            IIIB            AAAE              │
+ │      C               DDD             II   B         AAA  EEE            │
+ │       C             D              II       BB    AA       EEE          │
+ │        C          D              III          BAAA           EEE        │
+ │        CC      DD               II            ABB              EE       │
+ │          C   DD              IIII           AA   B              EEEE    │
+ │           CDD              III            AA      BB               EE   │
+ │          DDD             II              AA        BB               EEE │
+ │        DDD  C          III              A            B                EE│
+ │       DD     C        II              AA              B                 │
+ │      DD       CC    II              AA                 BB               │
+ │    DDD          C  II              AAG                  B               │
+ │   DD             C C             AA  GG                  B              │
+ │  DD                 C          AAA     GG                 BB            │
+ │ DD                   CC       A         GG                 B            │
+ │                       CC   AAA            GG                B           │
+ │                        ACCA                GGG              BB          │
+ │                       A   CC                 GG              BB         │
+ │                    AAA     CCC                 GG             B         │
+ │                   A          CCC                GGG            B        │
+ │                A A             CCC                GGG          BB       │
+ │               A                   CC                GGG         B       │
+ │             AA                   FF CC                G          B      │
+ │           AA                   FFF    CC                         B      │
+ │          AA                  FF        CCC                       B      │
+ │        AA                 FFF            CCCC                    BB     │
+ │                        FFFF                 CCC                   B     │
+ │                      FFF                       CCCC                     │
+ │                                                   C                     │
+ └─────────────────────────────────────────────────────────────────────────┘
+
+
 Streets:
-- Arch Street
-- Gray Passage
-- Great Row
-- Kingwood Lane
-- Baker Route
-- Crystal Street
-- Park Avenue
-- Clearance Street
-- Java Avenue
-- Theater Avenue
+A - Arch Street
+B - Gray Passage
+C - Great Row
+D - Kingwood Lane
+E - Baker Route
+F - Crystal Street
+G - Park Avenue
+H - Clearance Street
+I - Java Avenue
+J - Theater Avenue
 Locations:
 # The Metal Violin (Tavern)
 # The Unnatural Meat Pub(Tavern)
@@ -51,6 +93,14 @@ Names:
 - The Waving Wraith(F, Ghost)
 - The Sitting Servant(F, Ghost)
 - The Jolly Shade(F, Ghost)
+Description:
+Flamevale is a city that suffered a great fire in which most of it's inhabitants
+died. It is inhabited largely by the ghosts of it's former inhabitants and 
+settlers from nearby cities. Many of the buildings continue to burn with
+spectral flames to this very day.
+
+
+
 #---------------------------------#
 #   Oldrock
 #---------------------------------#
