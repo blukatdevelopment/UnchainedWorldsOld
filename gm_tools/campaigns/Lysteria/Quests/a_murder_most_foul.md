@@ -1,6 +1,55 @@
 # A murder most fowl
 Reward: 100GP, 100XP
 
+## Posting
+The posting reads:
+"Please speak with the mayor of Flamevale, who is offering 100GP for an
+undisclosed job. He warns that only outsiders can do it."
+
+## Road there and back
+Each player rolls a 1d20. If one of them gets a 1, then they are ambushed by
+bandits demanding they deposit half of any gold they have.
+Bandits:
+- 1 Bandit Captain
+- 2 Bandits
+- 2 Petty Bandits
+
+```
+Bandit Captain
+HP: 21(3d8+6)
+AC: 13(hide)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 12| 12| 10| 12| 16|
+Multiattack: Captain can make two shortsword attacks
+Attacks:
+Shortsword +5 1d6+3 piercing
+```
+
+```
+Petty Bandit
+HP: 4(1d4+1)
+AC: 11
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 12| 12| 10| 12| 12|
+Attacks:
+Dagger +2 1d4+1 piercing
+Sling +2 1d4+1 bludgeoning
+```
+
+```
+Bandit
+HP: 8(2d4+2)
+AC: 12(leather)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 12| 12| 10| 12| 12|
+Attacks:
+Shortsword +4 1d6+2 piercing
+Shortbow +4 1d6+2 piercing
+```
+
 
 ## Intro
 Intro music: https://www.youtube.com/watch?v=xqTDOsGWLCY
