@@ -34,3 +34,15 @@ Use the result however you want.
 Oh, you wanna change my files? Well, uh, submit a pull request. Make sure that you
 communicate what you're changing and why. If it's a new class, prepare for some
 constructive criticism and advanced knit-picking.
+
+## File structure
+`core_rules.md`
+This is all you technically need to run and Play unchained Worlds, but you'll
+probably want some supplement books.
+
+`character_creation/`
+This folder contains classes, lineages, spells, backgrounds, and other character
+creation options.
+
+`gm_tools/`
+This folder contains books for  for game masters

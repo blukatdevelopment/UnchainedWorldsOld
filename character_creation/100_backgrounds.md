@@ -5,7 +5,8 @@
 
 This list of backgrounds is intended for a 1d100 roll and random assignment.
 Each background is a minimal representation of the career and lifestyle an
-adventurer has had before they started adventuring. Each background has
+adventurer has had before they started adventuring. If a background includes
+a pack, it replaces the pack normally given by the class.
 
 
 ## The table
@@ -115,67 +116,3 @@ adventurer has had before they started adventuring. Each background has
 |   100 | Circus Performer     | Performance, Acrobatics             | Juggling Pins, Artist's Pack             |
 +-------+----------------------+-------------------------------------+------------------------------------------+
 ```
-
-
-## Packs
-
-
-### Explorer's Pack
-- Backpack
-- Waterskin
-- Traver's Clothes
-- 10 rations
-- 50ft rope
-- bedroll
-- Mess kit
-- 10 torches
-- pouch of 5GP
-
-### Peasant's Pack
-- Backpack
-- Common clothes
-- 5lb sack of wheat
-- pouch of 5SP
-
-### Noble's Pack
-- Backpack
-- Fine Clothes
-- Signet Ring
-- fancy Cane or stylish hat
-- pouch of 15GP
-
-### Scholar's Pack
-- Backpack
-- quill pen
-- book
-- 2 bottles of ink
-- 10 pieces of paper
-- 10 candles
-- tinderbox
-- bag of sand
-- small knife
-- Fine clothes
-- pouch of 10GP
-
-### Guildmember's Pack
-- Backpack
-- quill pen
-- bottle of ink
-- 5 sheets of paper
-- common clothes
-- pouch of 5GP
-
-### Artist's Pack
-- Backpack
-- one instrument OR painter's kit OR quill pen, bottle of ink, 10 pieces of paper
-- Common clothes
-- Costume clothes
-- A pouch of 1SP
-
-### Priest's pack
-- backpack
-- vestments
-- holy book
-- holy symbol
-- 2 blocks of incense
-- 5GP

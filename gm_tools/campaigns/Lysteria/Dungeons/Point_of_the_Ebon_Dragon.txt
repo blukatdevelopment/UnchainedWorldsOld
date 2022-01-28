@@ -1,0 +1,138 @@
+################################################################
+# ______     _       _            __                           #
+# | ___ \   (_)     | |          / _|                          #
+# | |_/ /__  _ _ __ | |_    ___ | |_                           #
+# |  __/ _ \| | '_ \| __|  / _ \|  _|                          #
+# | | | (_) | | | | | |_  | (_) | |                            #
+# \_|  \___/|_|_| |_|\__|  \___/|_|                            #
+#                                                              #
+#                                                              #
+#                   _   _                                      #
+#                  | | | |                                     #
+#                  | |_| |__   ___                             #
+#                  | __| '_ \ / _ \                            #
+#                  | |_| | | |  __/                            #
+#                   \__|_| |_|\___|                            #
+#                                                              #
+#                                                              #
+#  _____ _                  ______                             #
+# |  ___| |                 |  _  \                            #
+# | |__ | |__   ___  _ __   | | | |_ __ __ _  __ _  ___  _ __  #
+# |  __|| '_ \ / _ \| '_ \  | | | | '__/ _` |/ _` |/ _ \| '_ \ #
+# | |___| |_) | (_) | | | | | |/ /| | | (_| | (_| | (_) | | | |#
+# \____/|_.__/ \___/|_| |_| |___/ |_|  \__,_|\__, |\___/|_| |_|#
+#                                             __/ |            #
+#                                            |___/             #
+################################################################
+
+###########################
+# Level 1
+###########################
+
+
+
+
+
+            xxxx
+            x  xx
+            x 2  xx           xxxxxxxxxxxxxxx
+            x     xx       xxx        3     xx
+            x       xx   xx                  x
+            xx       x xx        xxxxxxxxxxxxx
+             x       xx       xxxx
+             x                x
+             xx               x
+              x               xx
+    xxxxxxxxxxx                x
+ xxx                           x
+ xx  1                         x
+  xx                            x      xxxxxxxx
+   xxxxxx                       xxxxxxxx       xxxx
+        xxxxxxxx                                  xxx
+               xx                            4       xx
+                xx           xxxxxxxxxxxx             xx
+                 xx          x          xxxxxxxxxxxxxxxx
+                  x          xx
+                   x          xxxx
+                   x             xxxxxx
+                    xx                 xxxxxxxx
+                     xx                        xxxx
+                      xx               5          xx
+                        xxxxxx                    x
+                              xxxxxxxxxxxxxxx xxxxx
+
+
+# 1
+# 2
+# 3
+# 4
+# 5
+
+
+###########################
+# Level 2
+###########################
+
+
+
+
+
+         xxxxxx
+       xx     xxx
+        x 1   xxx
+       xx     xx
+       x       x
+       x        x
+        x       xx
+         x       xx
+         xx       xx
+          xx       xx
+           x        xx
+            x        xxx
+            x          x
+            xx         xx
+             x          x
+             x          x
+             x          x
+            x          xx
+           xx         xx
+           x          xxxxxxxxx
+          xx                    x xx xx
+          x                            xxx
+          x    2                          xx
+          x                                xx
+         xx        xxxxxxxxxxxxxxxxx        x
+        xx         x                xxx      x
+        x          xx                 xx      x
+        x           x                  x       x
+        x           x                  x  3    xx
+        x           x                  x        x
+        x           x                  x        x
+        x           xx                 x         x
+        x            x                xx         x
+         x           x                x          x
+         x           xx              xx          x
+         xx           x              x          xx
+          x            x             x         xx
+          xx           x             x        xxxx
+           x           xx            x        x  xx
+           xx           xx          xx            xx
+            xx       4   xxx       xx              xx
+              x            xxx    xx                xx
+              xx              xxxxx                  x
+               xx                                    xx
+                xx                                    x
+                 xx                                   x
+                  xx                     5            x
+                   x                                 x
+                   x                                xx
+                   xxxx                           xxx
+                      xxxxx                      xx
+                           xxxxxx             xxx
+                                 xxxxxxxxxxxxx
+
+# 1
+# 2
+# 3
+# 4
+# 5

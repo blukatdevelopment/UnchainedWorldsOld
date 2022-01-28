@@ -127,7 +127,7 @@ Every character has a proficiency bonus which increases with level progression. 
 Specific skills define a very narrow action, like agriculture, tracking, or poetry. They are not defined exhaustively, and can be added by supplementary books.
 
 ### General Skills
-Some skills are general in nature, and may apply to a wide variety of situations. When a feat, lineage, or class grants you proficiency in a skill, it will likely be in general skills. They are listed explicitly below.
+Some skills are general in nature, and may apply to a wide variety of situations. When a feat, lineage, or class grants you proficiency in a skill, it will likely be in general skills. They are listed explicitly below. Each may be mapped to a specific ability, depending on how the skill is used.
 - Acrobatics - Acts of agility such as performing a backflip or landing from a great height.
 - Animal Handling - Befriending, calming, or commanding animals.
 - Arcana - Recalling knowledge related to subjects of a magical nature.
@@ -156,14 +156,8 @@ Your lineage describes both the physical traits and cultural traditions handed d
 **Speed:** 30 feet
 **Ability Score Increase:** +1 to each ability score
 
-Choose one of the following features:
-- **Actor:** You have advantage on charisma checks made when trying to act as a different person. If you have heard a creature speak or make a sound for at least one minute, you may now speak like them or mimic the sound. Other creatures can contest (insight vs deception) this speech or sound to determine it’s fake.
-- **Charger:** You can use a bonus action to make one melee weapon attack or shove a creature when you use your action to dash. If you have just moved at least 10 feet in a straight line, you either gain a +5 bonus to the attack’s damage roll or push the target up to 10 feet away from you if you successfully shove the target.
-- **Crossbow Expert:** You can ignore the loading quality of crossbows, provided you are proficient with them. You no longer have disadvantage on ranged attack rolls as a result of being within 5 feet of a hostile creature. You may use a bonus action to attack with a hand crossbow after using your action to attack with a one-handed weapon.
-- **Linguist:** You learn three languages of your choice.
-- **Mobile:** Your base speed increases by ten feet. When you dash, difficult terrain doesn’t cost extra movement on that turn. After you make a melee attack against a creature, you don’t provoke opportunity attacks from that creature for the rest of the turn regardless of whether you hit.
-- **Alert:** Your initiative rolls gain a +5 bonus, you cannot be surprised while conscious, and other creatures don’t gain advantage on attack rolls made against you as a result of being unseen by you.
-- **Magic initiate:** You learn the prestidigitation cantrip. After you cast it using this ability, you must complete a full rest in order to cast it again with this ability.
+#### Bonus Skills
+You gain proficiency with two skills of your choice.
 
 ## Background
 Your background describes the life you had before you began adventuring. It decides your societal status, skills, and general level of wealth. A brief backstory which describes the following elements works well:
@@ -175,7 +169,7 @@ The one background provided is the farmer.
 ### Farmer
 You bent your back under a blazing sun to till the land and raise a crop.
 **Skills:** agriculture, proficiency with sickles
-**Items:** Common clothes, a sickle, a chicken, a 30lb sack of wheat berries, and a pouch containing 5 silver pieces
+**Items:** Common clothes, a chicken, a 30lb sack of wheat berries, and a pouch containing 5 silver pieces
 
 ## Class
 Your class decides your hit dice, class features, and informs the role you'll play in your party.
@@ -202,7 +196,7 @@ Choose 2 from the following: Athletics, Insight, History, Nature, Religion
 | Level | Hit Dice | Proficiency Bonus | Minimum XP |       Feats       |
 +-------+----------+-------------------+------------+-------------------+
 |     0 | 1d4      | +1                |          0 |                   |
-|     1 | 1d4      | +2                |        200 | Training Montage  |
+|     1 | 1d4      | +1                |        100 | Training Montage  |
 +-------+----------+-------------------+------------+-------------------+
 ```
 
@@ -494,13 +488,123 @@ Adventuring requires a great many things. Here are some of them.
 | Whetstone                    | 1 cp     | 1 lb.        |
 +------------------------------+----------+--------------+
 ```
+#### Healer's Kit
+A kit filled with gauze, scissors, bandages, salves, and other medicinal gear.
+Has 10 charges.
+When you use this kit on yourself or another creature, make a medicine check
+to determine the outcome.
+
+#### Potion of Healing
+A flask of pink liquid which heals 2d4+4 hit points when consumed.
+
+```
++--------------+----------------------------+
+|     Roll     |          Outcome           |
++--------------+----------------------------+
+| 1 or less    | Takes 1d4 piercing damage. |
+| 2-5          | Nothing effect.            |
+| 6-10         | Stabilized if not already. |
+| 11-15        | Heals 1d4 hit points.      |
+| 16-20        | Heal 1d6 hit points.       |
+| 21 or higher | Heal 1d8 hit points.       |
++--------------+----------------------------+
+```
+
+#### Caltrops
+You may drop caltrops over a space of four 5ft squares that are connected. When
+you do, any creature who enters that space must make a DC 14 dex save. On a
+failure, the creature receives 1 piercing damage and their movement is reduced
+to 0. A creature who moves carefully treats the square as difficult terrain and
+rolls normally. A creature who moves normally rolls with disadvantage.
+
+### Packs
+
+### Explorer's Pack
+- Backpack
+- Waterskin
+- Traveler's Clothes
+- 10 rations
+- 50ft rope
+- bedroll
+- Mess kit
+- 10 torches
+- pouch of 5GP
+
+### Peasant's Pack
+- Backpack
+- Common clothes
+- 5lb sack of wheat
+- pouch of 5SP
+
+### Tinker's Pack
+- Backpack
+- Heavy Wrench
+- Tinker's Tools
+- one 10lb unit of scrap
+- common clothes with apron
+- pouch of 5GP
+
+### Noble's Pack
+- Backpack
+- Fine Clothes
+- Signet Ring
+- fancy Cane or stylish hat
+- pouch of 15GP
+
+### Scholar's Pack
+- Backpack
+- quill pen
+- book
+- 2 bottles of ink
+- 10 pieces of paper
+- 10 candles
+- tinderbox
+- bag of sand
+- small knife
+- Fine clothes
+- pouch of 10GP
+
+### Guildmember's Pack
+- Backpack
+- quill pen
+- bottle of ink
+- 5 sheets of paper
+- common clothes
+- pouch of 5GP
+
+### Artist's Pack
+- Backpack
+- one instrument OR painter's kit OR quill pen, bottle of ink, 10 pieces of paper
+- Common clothes
+- Costume clothes
+- A pouch of 1SP
+
+### Priest's Pack
+- backpack
+- vestments
+- holy book
+- holy symbol
+- 2 blocks of incense
+- 5GP
+
+### Burglar's Pack
+- backpack
+- bag of caltrops(20)
+- flask of strong spirits
+- crowbar
+- black outfit with hood and mask
+- 50ft of hempen rope
+- razor blade
+
 ### Weapons
 
 ```
++---------------------------------------------------------------------------------------------------------------------+
+| Simple Weapons                                                                                                      |
 +------------------------+-------+-----------------+---------+--------------------------------------------------------+
 |         Weapon         | Cost  |     Damage      | Weight  |                       Properties                       |
 +------------------------+-------+-----------------+---------+--------------------------------------------------------+
-| Unarmed                | --    | 1 + Strength    | --      |
+| Unarmed                | --    | 1 + Strength    | --      |                                                        |
 | Simple Melee Weapons   |       |                 |         |                                                        |
 | Club                   | 1 sp  | 1d4 bludgeoning | 2 lb.   | Light                                                  |
 | Dagger                 | 2 gp  | 1d4 piercing    | 1 lb.   | Finesse, light, thrown (range 20/60)                   |
@@ -517,7 +621,11 @@ Adventuring requires a great many things. Here are some of them.
 | Dart                   | 5 cp  | 1d4 piercing    | 1/4 lb. | Finesse, thrown (range 20/60)                          |
 | Shortbow               | 25 gp | 1d6 piercing    | 2 lb.   | Ammunition (range 80/320), two-handed                  |
 | Sling                  | 1 sp  | 1d4 bludgeoning | —       | Ammunition (range 30/120)                              |
-| Martial Melee Weapons  |       |                 |         |                                                        |
++---------------------------------------------------------------------------------------------------------------------+
+| Martial Melee Weapons                                                                                               |
++------------------------+-------+-----------------+---------+--------------------------------------------------------+
+|         Weapon         | Cost  |     Damage      | Weight  |                       Properties                       |
++------------------------+-------+-----------------+---------+--------------------------------------------------------+
 | Battleaxe              | 10 gp | 1d8 slashing    | 4 lb.   | Versatile (1d10)                                       |
 | Flail                  | 10 gp | 1d8 bludgeoning | 2 lb.   | —                                                      |
 | Glaive                 | 20 gp | 1d10 slashing   | 6 lb.   | Heavy, reach, two-handed                               |
@@ -536,7 +644,11 @@ Adventuring requires a great many things. Here are some of them.
 | War pick               | 5 gp  | 1d8 piercing    | 2 lb.   | —                                                      |
 | Warhammer              | 15 gp | 1d8 bludgeoning | 2 lb.   | Versatile (1d10)                                       |
 | Whip                   | 2 gp  | 1d4 slashing    | 3 lb.   | Finesse, reach                                         |
-| Martial Ranged Weapons |       |                 |         |                                                        |
++------------------------+-------+-----------------+---------+--------------------------------------------------------+
+| Martial Ranged Weapons                                                                                              |
++---------------------------------------------------------------------------------------------------------------------+
+|         Weapon         | Cost  |     Damage      | Weight  |                       Properties                       |
++------------------------+-------+-----------------+---------+--------------------------------------------------------+
 | Blowgun                | 10 gp | 1 piercing      | 1 lb.   | Ammunition (range 25/100), loading                     |
 | Crossbow, hand         | 75 gp | 1d6 piercing    | 3 lb.   | Ammunition (range 30/120), light, loading              |
 | Crossbow, heavy        | 50 gp | 1d10 piercing   | 18 lb.  | Ammunition (range 100/400), heavy, loading, two-handed |
@@ -562,7 +674,7 @@ Small creatures receive disadvantage on Attack rolls with heavy weapons.
 
 ##### Light
 When you make an attack with a light weapon in one hand, you may use your bonus action to make an attack using
-a light weapon in another hand. This attack does not benefit from your proficiency bonus.
+a light weapon in another hand. This attack's damage does not benefit from your ability modifier.
 
 ##### Loading
 Each time you use an action, bonus action, or reaction to make an attack with a weapon posessing the loading
@@ -975,32 +1087,3 @@ in the spell.
 ##### Sphere
 The sphere extends outward from a point a distance equal to it's radius. Anything a distance equal or less than the radius of the sphere
 from it's center is inside it.
-
-### Spell List
-This core rule book provides one spell, but others are provided by supplemental books.
-
-#### Prestidigitation
-```
-+------------------------------+
-| Prestidigitation             |
-+--------------+---------------+
-| Level        | Cantrip       |
-| Casting Time | 1 Action      |
-| Range        | 10ft          |
-| Components   | V,S           |
-| Duration     | 1 hour        |
-| School       | Transmutation |
-+--------------+---------------+
-```
-This is a novice spell used by beginning spellcasters for practice. When you cast this spell, you create on of the 
-following magical effects within range:
-
-- You create an instantaneous, harmless sensory effect.
-- You instantaneously light or snuff out a candle, torch, small camp fire, or equivalent fire.
-- You instantaneously clean or soil an object no larger than 1 cubic foot.
-- You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
-- You make a color, a small mark, or a symbol appear on an object or surface for 1 hour.
-- You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
-
-If you cast the spell multiple times, up to three non-instantaneous effects can be active at once and can be dismissed each
-effect using an action.
