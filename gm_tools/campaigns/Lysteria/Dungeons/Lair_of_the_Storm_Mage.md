@@ -263,7 +263,7 @@ Speed: fly 30ft
 | 12| 16| 12| 18| 12| 12|
 Resist: Non-magical physical
 Multi-attack: 
-Lightning Zap +7 1d10 lightning DC 12 DEX save to not drop held items.
+Lightning Zap +4 1d10 lightning DC 12 DEX save to not drop held items.
 ```
 
 ## 6 Hallway (10GP)
@@ -340,7 +340,7 @@ Spells:
 - Fiendishness
 - Psionic Missiles
 - Cause Fear
-Lightning Zap +7 1d10 lightning DC 12 DEX save to not drop held items.
+Lightning Zap +4 1d10 lightning DC 12 DEX save to not drop held items.
 ```
 
 ```
@@ -363,6 +363,31 @@ Spells:
 - Psionic Missiles
 - Cause Fear
 Eye beam
-Lightning Zap +7 1d10 lightning DC 12 DEX save to not drop held items.
+Lightning Zap +5 1d10 lightning DC 12 DEX save to not drop held items.
 
+```
+
+# Second Wave
+The party destroyed the bath tub, burned the library, broke the bishop, stole the
+ruby from the puppetmaster, trashed the pickle room, and then irritated the 
+projection of the storm mage.
+
+## The mage's reinforcements
+
+Since the party has ravaged the mage's lair, he has contracted a small band of
+commoners to help him. 
+
+Three petty bandits wait in the hallway of the first floor with a jar containing
+a pickle wolf. They tell the adventurers to scram, or they'll bust the jar.
+
+```
+Petty Bandit
+HP: 4(1d4+1)
+AC: 11
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 12| 12| 10| 12| 12|
+Attacks:
+Dagger +2 1d4+1 piercing
+Sling +2 1d4+1 bludgeoning
 ```

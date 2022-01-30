@@ -3,7 +3,7 @@ Reward: 100GP, 100XP
 
 ## Posting
 The posting reads:
-"Please speak with the mayor of Flamevale, who is offering 100GP for an
+"Please speak with the mayor of Flamevale(Mayor Perez), who is offering 100GP for an
 undisclosed job. He warns that only outsiders can do it."
 
 ## Road there and back
@@ -114,7 +114,7 @@ The crime scene has been cleaned up completely of blood. There's a bed, a
 nightstand, a window, and a desk. While looking, they see throws a green smoke
 bomb into the room, then shut and lock the door. They hear footsteps moving away
 rapidly. DC 12 con save to not be poisoned for 10 minutes. If they party chases,
-they will find a man with a chicken mask and long blonde hair running. The man
+they will find a man with a chicken mask and long blonde hair running(Sean Lawrence). The man
 will throw caltrops. He will then get cornered in an alleyway for one turn,
 drawing a poisoned dagger(2d6 extra poison damage).
 "One nip from my blade and you'll never see the next day's dawn."
@@ -276,4 +276,3 @@ Attacks:
 Dagger: +3 1d4+1 piercing
 Longsword +3 1d8+1 slashing
 ```
-
