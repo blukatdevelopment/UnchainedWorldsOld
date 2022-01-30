@@ -314,7 +314,7 @@ foiliage for the duration. This spell ends if you lose your temporary hit points
 ```
 
 ```
-Identify (1st)
+Identify (1st, Ritual)
 Casting time: 1 action
 Range: Touch
 Components: V, S, M (a pearl or monocle worth 10GP)
@@ -502,7 +502,7 @@ hours.
 ```
 
 ```
-Sculpt Ice (1st level)
+Sculpt Ice (1st level, Ritual)
 Casting Time: 1 action
 Range: 10 feet
 Components:
@@ -553,7 +553,7 @@ to use the dash action.
 ```
 
 ```
-Self deception (1st level)
+Self deception (1st level, Ritual)
 Casting Time: 1 minute
 Range: self
 Components: V
@@ -783,7 +783,7 @@ of the weapon and receive 1d4 damage of the weapon's type.
 ```
 
 ```
-Water Walk (2nd level)
+Water Walk (2nd level, Ritual)
 Casting Time: 1 action
 Range: Self
 Components: V
@@ -804,7 +804,7 @@ A sherical portal opens around you, consuming you. In that same instant a spheri
 ```
 
 ```
-Consort With Devils (2nd)
+Consort With Devils (2nd, Ritual)
 Casting Time: 1 action
 Range: self
 Components: V, S, M(a book written in a fiendish language)
@@ -823,7 +823,7 @@ cannot regrow nor re-attach limbs, nor can it prevent the natural effects of agi
 ```
 
 ```
-Eyeball Zone (2nd level)
+Eyeball Zone (2nd level, Ritual)
 Casting Time: 1 action
 Range: self
 Components: V, S
@@ -874,7 +874,7 @@ each level above third.
 ```
 
 ```
-Insight Arrow (2nd level)
+Insight Arrow (2nd level, Ritual)
 Casting Time: 1 minute
 Range: 30 feet
 Components: V, S
@@ -961,7 +961,7 @@ the duration:
 ```
 
 ```
-Channel the Dead (2nd)
+Channel the Dead (2nd, Ritual)
 Casting Time: 1 hour
 Range: 60 feet
 Components: V, S, optional M(dead creature's posessions, or remains, consumed by this spell)

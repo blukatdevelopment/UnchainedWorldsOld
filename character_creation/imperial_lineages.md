@@ -384,7 +384,7 @@ Those beast folk that refused to assimilate commonly fit into three groups.
 Wild cats have been shooed from alleys for harboring a reputation of thieving
 and burglary. Their claws afford them a climbing speed of 30 feet and when used
 in unarmed attacks deals 1d4 slashing damage. You are proficient in stealth.
-Street cats include cheetahs and housecats.
+Wild cats include cheetahs and housecats.
 
 ##### Retractable claws
 Wild cats have claws that can extend or retract, allowing them to make make

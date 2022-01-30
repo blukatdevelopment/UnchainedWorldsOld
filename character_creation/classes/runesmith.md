@@ -35,7 +35,7 @@ Choose 2 from the following:
 +-------+--------------------+----------+-------------------+-------+-------------+---------------------------+
 | Level | Minimum Experience | Hit Dice | Proficiency Bonus | Runes | Spell Level |         Features          |
 +-------+--------------------+----------+-------------------+-------+-------------+---------------------------+
-|     1 |                  0 | 1d4      | +1                |     0 |           1 | Runebook                  |
+|     1 |                  0 | 1d4      | +1                |     0 |           1 | Runebook, Ritual Casting  |
 |     2 |                300 | 2d4      | +1                |     1 |           1 | Runesmithery, Runecasting |
 |     3 |                900 | 2d4      | +2                |     2 |           1 |                           |
 |     4 |               1200 | 3d4      | +2                |     4 |           2 | Runecasting Style         |
@@ -51,7 +51,7 @@ Choose 2 from the following:
 ## Feataures
 
 ### Runebook
-You have a book of runes for your spells. You start with two cantrips and three 1st level spells from the
+You have a book of runes for your spells. You start with two cantrips and five 1st level spells from the
 runesmith spell list and may add additional spells.
 
 #### Copying Spells
@@ -66,6 +66,11 @@ worth of materials needed to make arcane ink. The number of runes you may have a
 at any time can be found in the runes column for your level. A runestone containing a second level spell will
 require two runes, a third level spell will require three runes, and so on. A runestone with a single rune on it
 may contain four copies of the same cantrip spell.
+
+### Ritual Casting
+Your knowledge of certain spells allows you to channel magic through their runes through ritual. You may cast any spell marked as
+a ritual using ritual casting. When you do so, the spell's casting time increases by 10 minutes. Ritual casting does not consume
+runes, nor any other magical resources, as the ritual itself powers the cast.
 
 ### Runecasting
 When holding a rune stone in your hand, you may use an action to release the stored spell from the stone.
