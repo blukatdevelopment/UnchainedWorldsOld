@@ -991,6 +991,21 @@ Speed: 10ft, Swim 60ft
 Tentacle(30ft): DC 16 STR save or grappled. Drag 30ft. Target can remake STR save.
 Bite +6 3d8+4 piercing. Advantage on grappled prey.
 
+Eyeless Beaker
+Huge Monstrosity
+A featherless, eyeless bird with a 15 foot wingspan and talons. It uses echo
+location and keen hearing to "see" it's way around. It's wings use skin flaps
+to keep it aloft.
+HP: 27 (3d12+6)
+AC: 12
+Speed: 25ft, 60ft fly
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 14| 14|  4| 10|  4|
+Blindsight: 500ft
+Multi-attack: May make talon and beak attack
+Toothed Beak +4 1d12 piercing, grapple on hit
+Talons +4 2d6 slashing
+
 
 #########################################################
 #  _____ _ _                                            #
@@ -1209,6 +1224,7 @@ Skelemancer
 A robed skeleton with a rusty, blood-crusted dagger
 Medium Undead
 HP: 24(3d8+9)
+AC: 12
 Speed: 30ft
 Raise(Recharge 3-6): Every bone pile and corpse within 15ft are raised as a
 skeleton or zombie, respectively. They each have 1d4 hit points.

@@ -273,6 +273,17 @@ Your blade sparks with a powerful electrical charge for the duration.
 The next melee attack you make causes the stored energy to surge. Regardless of whether the attack hits, the target receives 1d8 lightning damage. If the target is wearing armor, this attack deals 1d12 lightning damage instead.
 ```
 
+```
+Death Grip (Cantrip)
+Casting Time: 1 action
+Range: 30ft
+Components: S, V
+Duration: Instantaneous
+You grasp toward a creature's throat in range and they feel the grip on their
+throat. They must succeed a con save, or else receive 1d6 necrotic damage and
+be unable to benefit from healing until the start of your next turn.
+```
+
 ## 1st level spells
 
 ```

@@ -1,5 +1,5 @@
 # A murder most fowl
-Reward: 100GP, 100XP
+Reward: 100GP
 
 ## Posting
 The posting reads:
@@ -137,7 +137,7 @@ Attacks:
 Dagger: +3 1d4+1 piercing
 ```
 
-## Lab
+## Crime Lab
 The party enters into the basement of a burned out office building where they
 find a small team of undead ghost analysts. They can find the following
 info on clues:

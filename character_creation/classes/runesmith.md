@@ -158,6 +158,7 @@ on itself.
 - Minute Conjuration [1]
 - Touch Light [1]
 - Lesser Telekinesis [1]
+- Death Grip [1]
 
 ### 1st
 - Self deception [1]
