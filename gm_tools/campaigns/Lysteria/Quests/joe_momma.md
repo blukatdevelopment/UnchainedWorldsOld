@@ -27,3 +27,12 @@ flying from his hands.  There's a staircase down.
 #### Staff
 The spadetail staff will be working. 
 Rirvas(M), Boch(M), and Duvra(F) are currently on staff, and Sama(F) is in the
+library. 
+
+When the party visits Sama, they'll find she has bags under her eyes and
+there are empty coffee mugs piled up on the table with some books. There's a
+corkboard with pins in it and various pieces of paper.
+
+Sama will inform the party that she's been looking up all the
+
+### 

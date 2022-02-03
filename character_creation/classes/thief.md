@@ -158,6 +158,10 @@ attempt to trip the creature. Use your acrobatics against their
 athletics. If they are larger than you, they have advantage on their check. If
 you succeed, the creature falls prone.
 
+### Trickster's Step(Minimum level 5)
+You know the Blink Step 2nd level spell from the spell compendium volume 1,
+and may cast it by consuming two hit dice.
+
 ### Trickster's Advanced Arcana (Minimum level 6)
 You know the Vorpal Snare and Catapult spells from the spell compendium volume
 1. You may cast either of these spells by consuming two hit dice.

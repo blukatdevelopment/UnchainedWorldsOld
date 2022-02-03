@@ -209,11 +209,11 @@ Instead of a normal ranged weapon attack, a weapon with the burst fire property 
 ## Explosives
 ```
 +-----------------+-------+--------+
-|      Item       | Cost  | Weight |
+|      Item       | Scrap | Weight |
 +-----------------+-------+--------+
-| Bomb            | 50gp  | 1 lb   |
-| Dynamite(stick) | 50gp  | 2 lb   |
-| Smoke Bomb      | 25gp  | 1 lb   |
+| Bomb            |   10  | 1 lb   |
+| Dynamite(stick) |   12  | 2 lb   |
+| Smoke Bomb      |   12  | 1 lb   |
 +-----------------+-------+--------+
 ```
 

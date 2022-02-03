@@ -252,6 +252,27 @@ effects.
 - Blue Flame: All flames within 120 feet turn bright blue.
 ```
 
+```
+Bonfire (Cantrip)
+Casting Time: 1 action
+Range: 30ft
+Components: S, V
+Duration: Concentration, 1 minute
+You point to a 5 foot square on the ground within range and a fire roars in that
+spot. Any creature that starts it's turn in the square or enters it for the
+first time on their turn must succeed a DEX saving throw or take 1d8 fire damage. You may end the bonfire at will.
+```
+
+```
+Sparking Blade (Cantrip)
+Casting Time: 1 action
+Range: 30ft
+Components: S, V, M(a metal blade)
+Duration: Concentration, 1 minute
+Your blade sparks with a powerful electrical charge for the duration.
+The next melee attack you make causes the stored energy to surge. Regardless of whether the attack hits, the target receives 1d8 lightning damage. If the target is wearing armor, this attack deals 1d12 lightning damage instead.
+```
+
 ## 1st level spells
 
 ```

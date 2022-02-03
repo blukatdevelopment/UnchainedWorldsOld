@@ -744,7 +744,7 @@ AC: 12
 Speed: 30ft
 Immunities: radiant damage
 Light: 30 bright, 30 dim
-Moon Blast: 15 cone, DEX save to halve 3d6 radiant damage
+Moon Blast: 15 cone, DEX save to halve 2d6 radiant damage
 Blinding light: 60 foot sphere, DC 15 CON save or blind for 1 turn
 Attacks:
 Dagger: +2 1d4+1 piercing
@@ -774,6 +774,23 @@ Transformation(Action): Stat block is replaced with Celestial form
 Legendary Action: Transformation
 Attacks:
 Moon Dagger: +5 1d8+1 radiant
+
+#################
+# Cult of Sun   #
+#################
+The cult of the Sun is an order of kobolds that believe that the Sun was once 
+a red dragon named Dimaska that 
+
+Lesser Ray
+HP: 3 (1d4)
+AC: 11
+Speed: 25ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 08| 14| 10| 10| 12| 08|
+Attacks:
+Dagger: +2, 1d4+1
+Bonfire DC 11 DEX or 1d8 fire
+Firebolt +1 1d10 fire
 
 
 #######################################                                      
@@ -885,7 +902,7 @@ AC: 11
 Speed: 25ft
 Attacks:
 Quarterstaff: 1d6-1 bludgeoning
-Dragon Breath: 15ft cone DC 13 WIS save to halve 3d6 fire/cold/acid/lightning damage
+Dragon Breath: 15ft cone DC 13 WIS save to halve 2d6 fire/cold/acid/lightning damage
 
 Kobold Hunter
 HP: 9 (3d4)

@@ -142,6 +142,8 @@ on itself.
 ## Runesmith Spell List
 
 ### Cantrips
+- Sparking Blade [1]
+- Bonfire [1]
 - Firebolt [1]
 - Prestidigitation [1]
 - Light [1]

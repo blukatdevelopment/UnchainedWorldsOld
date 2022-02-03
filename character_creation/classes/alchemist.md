@@ -39,20 +39,20 @@ Choose 4 from the following:
 
 
 ```
-+-------+--------------------+----------+-------------------+------------------+------------------------+
-| Level | Minimum Experience | Hit Dice | Proficiency Bonus | Techniques Known |        Features        |
-+-------+--------------------+----------+-------------------+------------------+------------------------+
-|     1 |                  0 | 1d6      | +1                |                1 | Novice Alchemy         |
-|     2 |                300 | 2d4      | +1                |                2 |                        |
-|     3 |                900 | 2d4      | +2                |                3 |                        |
-|     4 |               1200 | 3d4      | +2                |                4 | Journeyman Alchemy     |
-|     5 |               2700 | 3d4      | +2                |                5 | Ability Score Increase |
-|     6 |               5000 | 3d4      | +2                |                6 |                        |
-|     7 |               7500 | 3d4      | +3                |                7 | Expert Alchemy         |
-|     8 |              10000 | 3d4      | +3                |                7 |                        |
-|     9 |              15000 | 3d4      | +4                |                7 | Master Alchemy         |
-|    10 |              20000 | 3d4      | +4                |                7 | Ability Score Increase |
-+-------+--------------------+----------+-------------------+------------------+------------------------+
++-------+--------+----------+------------+------------+------------------------+
+| Level | Min XP | Hit Dice | Prof Bonus | Techniques |        Features        |
++-------+--------+----------+------------+------------+------------------------+
+|     1 |      0 | 1d6      | +1         |          1 | Novice Alchemy         |
+|     2 |    300 | 2d4      | +1         |          2 | Lesser Splash Potions  |
+|     3 |    900 | 2d4      | +2         |          3 | Big Dipper             |
+|     4 |   1200 | 3d4      | +2         |          4 | Journeyman Alchemy     |
+|     5 |   2700 | 3d4      | +2         |          5 | Ability Score Increase |
+|     6 |   5000 | 3d4      | +2         |          6 |                        |
+|     7 |   7500 | 3d4      | +3         |          7 | Expert Alchemy         |
+|     8 |  10000 | 3d4      | +3         |          7 | Greater Splash Potions |
+|     9 |  15000 | 3d4      | +4         |          7 | Master Alchemy         |
+|    10 |  20000 | 3d4      | +4         |          7 | Ability Score Increase |
++-------+--------+----------+------------+------------+------------------------+
 ```
 
 ## Features
@@ -62,7 +62,18 @@ You learn to brew simple potions using the Amateur's Bubbling Cauldron
 technique. During each partial or full rest, you may spend 5SP of alchemical
 ingredients to brew a potion using a known technique. You may brew a number
 of potions equal to your intelligence modifier during that rest. You may use
-a separate alchemy technique for each potion.
+a separate alchemy technique for each potion. In addition to making potions,
+you may use your alchemy kit to identify a potion. Doing so requires 10 minutes.
+
+### Lesser Splash Potions
+You learn to temporarily heighten the potency of a potion so that it can be
+divided up between two bottles. The process requires one action and consumes
+one hit die to fuel the magic, but results in two potions. These potions remain
+potent for 1 minute, after which they lose all potency.
+
+### Big Dipper
+Your practice has paid off. You may now dip a weapon or piece of ammunition in
+a potion using your bonus action.
 
 ### Journeyman Alchemy
 Above and beyond simply making potions, you've learned to refine your technique
@@ -70,7 +81,6 @@ by using additives to avoid defects and increse the potency of your potions.
 You may add 5SP of extra alchemical ingredients to a potion and add 1d6 to your
 roll for that potion. If your roll is higher than the values in the table, you
 pick the highest value in the table.
-
 
 ### Expert Alchemy
 You have further refined your use of additives to better control the output
@@ -86,6 +96,10 @@ chart of the total number of rolls and cost in ingredients.
 |     6 | 10GP |
 +-------+------+
 ```
+
+### Greater Splash Potions
+When you create splash potions, you may now produce four from a single potion,
+instead of two.
 
 ### Master Alchemy
 You have gained mastery over the field of alchemy. You have learned to copy
@@ -108,7 +122,7 @@ Roll 1d4.
 +------+--------------------+
 ```
 
-## Healer's Shimmy (Minimum level 2)
+### Healer's Shimmy (Minimum level 2)
 Roll a 1d6
 ```
 +------+------------------------+
@@ -121,6 +135,24 @@ Roll a 1d6
 |    5 | Awkward Healing Potion |
 |    6 | Amaro Guarire          |
 +------+------------------------+
+```
+
+### The Poisoner's Purple Pantsuit (Minimum level 2)
+You've learned to reliably produce a poison that deals 2d4+2 poison damage to
+those it effects. However, each version comes with a side effect. The effect
+lasts 1 minute.
+Roll 1d6
+```
++------+---------------+----------------------------------------------------+
+| Roll |    Poison     |                    Side Effect                     |
++------+---------------+----------------------------------------------------+
+|    1 | Black Mamba   | hands become snakes                                |
+|    2 | Whiny Squire  | voice becomes shrill                               |
+|    3 | Waterworks    | uncontrollable sobbing                             |
+|    4 | You wreak-a   | strong body odor, cannot hide                      |
+|    5 | Leafy Greens  | leaves sprout from body, dealing 1 necrotic damage |
+|    6 | painful truth | must succeed private DC 14 WIS save to lie         |
++------+---------------+----------------------------------------------------+
 ```
 
 ### Soldier's Courage (Minimum level 2)
@@ -166,6 +198,22 @@ Roll a 1d4.
 +------+---------------------+
 ```
 
+### Restorative Feverdream(minimum level 3)
+This technique guarantees a potion that provides 2d4+4 healing, but also a
+side effect. The side effect lasts for 1 hour.
+Roll a 1d6
+```
++------+------------------+-----------------------------------------------------------+
+| Roll |      Potion      |                        Side Effect                        |
++------+------------------+-----------------------------------------------------------+
+|    1 | Affection Aperol | You feel unusually affectionate                           |
+|    2 | Angel's Delight  | You sprout feathery wings and a halo                      |
+|    3 | April Rain       | A tiny rain cloud hovers over your head                   |
+|    4 | Aura in Me       | Your body glows a color of your choosing                  |
+|    5 | Black Cat        | You involuntarily meow while talking                      |
+|    6 | Burning Bush     | If you have hair, it turns bright red, orange, and yellow |
++------+------------------+-----------------------------------------------------------+
+```
 
 ### The One Slipper Jim (minimum level 3)
 Roll a 1d6.

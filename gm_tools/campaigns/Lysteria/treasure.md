@@ -89,4 +89,3 @@ If the valuable has historical, religious, or arcane significance, allow profici
 If the character has proficiency with a tool that would be used to work or create the valuable, grant them advantage on the roll.
 
 On a success, describe the item as appropriate and provide an appraised value as explained below.
-

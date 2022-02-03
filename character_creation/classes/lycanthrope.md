@@ -101,7 +101,7 @@ action, you may make one additional attack.
 #### Fierce physique
 At level one, you can transform into your lycanthrope form.
 Your size is medium and your speed is 40ft. Your maximum hit points are 
-recalculated with your hit die size changed to 1d10 during this transformation. 
+replaced with 10+CON per hit die during this transformation. 
 Acrobatics checks and strength saving throws are made with advantage. Your 
 attacks gain advantage when made against an enemy within 5ft of an ally that is
 not unconscious.
@@ -128,7 +128,7 @@ shortswords, and longswords.
 #### Agile physique
 At level one, you can transform into your lycanthrope form.
 Your size is medium and your speed is 30ft. Your maximum hit points are 
-recalculated with your hit die size changed to 1d10 during this transformation. 
+recalculated to be 8+CON per hit die during this transformation. 
 Acrobatics checks and dexterity saving throws are made with advantage.
 
 #### Incisors
@@ -160,7 +160,7 @@ equal to 1d4+dexterity.
 #### Powerful physique
 At level one, you can transform into your lycanthrope form.
 Your size is large and your movement is 25ft. Your maximum hit points are 
-recalculated with your hit die size changed to 1d12. Athletics checks and 
+recalculated to be 12+CON per hit die. Athletics checks and 
 constitution saving throws are made with advantage. When you take the attack 
 action, you may attack one extra time.
 
