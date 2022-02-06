@@ -219,14 +219,26 @@ This briefcase can house an existing Hand Autocrossbow or up to 15lb of gear.
 If it contains a Hand Autocrossbow, the handle has a switch that can be used
 as a trigger, and there is a small hole for bolts to fire out of in the front.
 
+### Light Scatterbow
+Many uses. This crossbow has bolt that can hold up to 10 crossbow bolts at once.
+When fired, it hurls a volley of bolts in a 30ft cone, forcing every creature
+that is not in cover to make a DC 15 DEX save or take 1d8 piercing damage.
+The scatterbow takes an entire action to reload.
+
 ### Steam Powered Tool
 This backpack steam-powered unit has multiple heads that can be replaced to function as different tools. The tool requires both hands. Once powered up, the tool remains powered for one minute. At the end of the duration, the tool requires one hour of maintenance to power up again.
 - Drill: digs a small-sized hole that medium-sized creatures can squeeze through. It grants the user a borrowing speed of 5ft, and can dig through stone.
 - Chainsaw: can carve through wood easily. When used as a melee weapon, it deals 1d12 slashing damage.
 - Bolt gun: Can drive bolts into wooden surfaces. When used as a weapon, has a range of 15/30ft, deals 1d6 piercing damage.
 
+### Moler
+This is an expansion unit for the Steam Powered Tool, and cannot work without
+it. Once you fix this massive drillbit to the Steam Powered Tool, you may
+borrow a medium-sized hole into the ground, gaining a dig speed of 20ft. You
+may not dash to dig faster.
+
 ### Net cannon
-This hand cannon fires a weighted net. It has a range of 15/30 feet. This net gun fires a net that, upon a hit, restrains a large or smaller creature. On each turn, the restrained creature can use their action to succeed a DC 16 strength save to break free from the net. The net has an AC of 10 and 5 hit points, an can be targeted to rip the net open.
+This hand cannon fires a weighted net. It has a range of 15/30 feet. This net gun fires a net that, upon a hit, restrains a large or smaller creature. On each turn, the restrained creature can use their action to succeed a DC 16 strength save to break free from the net. The net has an AC of 10 and 5 hit points, an can be targeted to rip the net open. Requires an action to reload, stocked with one net.
 
 ### Crank Jack
 This machine can be wedged in a narrow space and ratcheted to lift objects up to 2 tons, or force doors open.
@@ -249,5 +261,5 @@ Many uses. A case containing a few special rocks floating in a heavy fluid. Each
 ### Hunter's Hands
 Many uses. The dominant hand of this pair of gauntlets has a hunter's trap installed on it. When you land an unarmed attack with it, you spring the trap and deal an additional 1d10 piercing damage. It takes one action to re-arm the hunter's hands.
 
-### Martial Countermeasure System
+### MCS(Martial Countermeasure System)
 Many uses. This cuirass contains several telescopic spikes deployed by miniature blasting charges. When you are grappled, you may use your reaction to fail the grapple and instead activate the cuirass, causing 2d10 piercing damage to the grappler. You may also trigger the cuirass as part of a successful grapple of your own, dealing 2d10 piercing damage to the grappled. Once activated, it takes 10 minutes to replace the fuses on the cuirass.

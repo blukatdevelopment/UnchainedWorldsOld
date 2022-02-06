@@ -202,6 +202,22 @@ AC: 18
 Speed: 0ft
 Zap: One creature must succeed a DEX saving throw to halve 3d6 lightning damage.
 
+Dragon Armor
+This bipedal armor deals 2d10 necrotic damage to the pilot before activating
+for 10 minutes of use.
+Large Construct
+Dragon armor is a vehicle. The pilot 
+HP: 39 (3d20+6)
+AC: 16 (Steel)
+Speed: 25ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 18| 12| 14|  3| 12|  3|
+Jets: Reduces duration of use by 1 minute per turn. Gain 30ft flying speed.
+Blame breath: Reduces duration of use by 1 minute. A 15 foot cone of fire pours
+from one arm, and all creatures inside it must succeed a DC 14 DEX save to
+halve 3d6 fire damage.
+Attacks:
+Longsword +6 2d10+4 piercing
 
 #########################################################
 #                                                       #
@@ -792,6 +808,18 @@ Dagger: +2, 1d4+1
 Bonfire DC 11 DEX or 1d8 fire
 Firebolt +1 1d10 fire
 
+Bright Ray
+HP: 9 (3d4)
+AC: 11
+Speed: 25ft
+|STR|DEX|CON|INT|WIS|CHA|
+|  8| 14| 10| 10| 16|  8|
+Attacks:
+Dagger: +4, 1d4+1
+Bonfire DC 11 DEX or 1d8 fire
+Firebolt +4 1d10 fire
+Flame Whip(15ft) +4 1d6 fire
+
 
 #######################################                                      
 #  _____       _     _ _              #
@@ -892,6 +920,8 @@ Kobold Scavenger
 HP: 3 (1d4)
 AC: 11
 Speed: 25ft
+|STR|DEX|CON|INT|WIS|CHA|
+|  8| 12| 10|  8| 12|  8|
 Attacks:
 Dagger: +2, 1d4+1
 Sling: +2, 1d4+1 piercing
@@ -900,6 +930,8 @@ Kobold Sorcerer
 HP: 6 (2d4)
 AC: 11
 Speed: 25ft
+|STR|DEX|CON|INT|WIS|CHA|
+|  8| 12| 10|  8| 12|  8|
 Attacks:
 Quarterstaff: 1d6-1 bludgeoning
 Dragon Breath: 15ft cone DC 13 WIS save to halve 2d6 fire/cold/acid/lightning damage
@@ -908,6 +940,8 @@ Kobold Hunter
 HP: 9 (3d4)
 AC: 11
 Speed: 25ft
+|STR|DEX|CON|INT|WIS|CHA|
+|  8| 12| 10|  8| 12|  8|
 Attacks:
 Blow Dart +4 1 piercing, 1d10 poison
 

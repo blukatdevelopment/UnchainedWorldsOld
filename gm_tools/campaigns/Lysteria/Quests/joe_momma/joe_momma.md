@@ -13,13 +13,17 @@ The posting reads:
 "Sama from Flamevale says she's found something important after digging through
 all the library books checked out by 'Joe Momma'."
 
-
-
 ### Road to/from Flamevale
-Each player rolls a 1d20. If one of them gets a 1, then they are ambushed by
+Each player rolls a 1d20. If one of them rolls under a 5, then they are ambushed by
 human bandits wearing black headbands and demanding they deposit half of
 any gold they have to ensure safe travels. The captain's name is Leroy, and the
 group is known as the Black Sashes.
+
+Leroy will start with "Hey, gnome girl. What's your name?" They'll hold up a
+picture, then look at Akatsuki. "One of my buddies spotted you selling
+a hammer with my brother's name on it right as he and his crew went missing.
+Something tells me you know where he's at. Well? Spill the beans."
+
 The entire group has 2d12GP, 2d20SP, and 2d100CP on them.
 Bandits:
 - 1 Bandit Captain
@@ -58,7 +62,7 @@ Shortsword +4 1d6+2 piercing
 Shortbow +4 1d6+2 piercing
 ```
 
-If they roll a 2 or 3, then they are visited by a group of three Guul Gang
+If they roll under 10, then they are visited by a group of three Guul Gang
 thugs. They will recognize any of the party from "A murder most fowl" and will
 demand the party pay the "Guul tax" of one gold per head in order to overlook
 the mayor's lapdogs trotting around on their turf.
@@ -115,8 +119,10 @@ On the board:
 - Blackdrift: Possible Cult location
 
 ### Crime Lab
-When the party reaches the crime lab, they find Monty Mollis having coffe and
-sweet rolls. He offers to share some with the party. When they go to visit
+When the party reaches the crime lab, they find Monty Mollis having coffee and
+sweet rolls. He offers to share some with the party, then mentions that he won't
+share any with Lucky, because he's heard nasty rumors about him. When they go to
+visit
 Sean, they find him laying face down on his bed in his room. If they
 investigate, they'll find blood on the bed. Rolling him over reveals it's the
 body of a Frankle, the man trusted to watch over Sean. Frankle's neck has been
@@ -587,8 +593,9 @@ three waves of 2d4+1 hunters will come and rush the party,  After a few deaths,
 the hunters will surrender.
 
 #### The Heavenly Frog
-If they agree to this, the goblins will
-challenge them to all sorts of contests.
+If they agree to this, the goblins will challenge them to all sorts of contests.
+Some goblins will hit on Polket, thinking he's the only one of the party that
+looks attractive.
 - Arm wrestling DC 12 Athletics, wager 1SP, 25 XP on win
 - Danceoff DC 12 Performance, wager 1SP, 25 XP on success
 - Catch the greased rat, DC 16 Athletics, wager 1SP, 25XP on success
