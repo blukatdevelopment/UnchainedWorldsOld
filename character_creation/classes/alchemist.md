@@ -47,7 +47,7 @@ Choose 4 from the following:
 |     3 |    900 | 2d4      | +2         |          3 | Big Dipper             |
 |     4 |   1200 | 3d4      | +2         |          4 | Journeyman Alchemy     |
 |     5 |   2700 | 3d4      | +2         |          5 | Ability Score Increase |
-|     6 |   5000 | 3d4      | +2         |          6 |                        |
+|     6 |   5000 | 3d4      | +2         |          6 | GlassBlower            |
 |     7 |   7500 | 3d4      | +3         |          7 | Expert Alchemy         |
 |     8 |  10000 | 3d4      | +3         |          7 | Greater Splash Potions |
 |     9 |  15000 | 3d4      | +4         |          7 | Master Alchemy         |
@@ -81,6 +81,11 @@ by using additives to avoid defects and increse the potency of your potions.
 You may add 5SP of extra alchemical ingredients to a potion and add 1d6 to your
 roll for that potion. If your roll is higher than the values in the table, you
 pick the highest value in the table.
+
+### Glassblower
+You may now craft 1d12 flasks or 1d4 vials during a partial or long rest at a
+campfire. You may instead produce a single glass arrow, which can be filled with
+any potion and fired from a shortbow or longbow.
 
 ### Expert Alchemy
 You have further refined your use of additives to better control the output

@@ -225,6 +225,13 @@ When fired, it hurls a volley of bolts in a 30ft cone, forcing every creature
 that is not in cover to make a DC 15 DEX save or take 1d8 piercing damage.
 The scatterbow takes an entire action to reload.
 
+### Boxarockets
+This shoulder-mounted box contains nine rocket tubes. One unit of scrap will
+yield nine rockets, which can be crafted during a partial or full rest. The
+boxarockets has a range of 30/120 and deals 1d10+DEX fire damage on a hit.
+After firing all 9 rockets, the boxarockets requires one action to reload with
+new rockets.
+
 ### Steam Powered Tool
 This backpack steam-powered unit has multiple heads that can be replaced to function as different tools. The tool requires both hands. Once powered up, the tool remains powered for one minute. At the end of the duration, the tool requires one hour of maintenance to power up again.
 - Drill: digs a small-sized hole that medium-sized creatures can squeeze through. It grants the user a borrowing speed of 5ft, and can dig through stone.
