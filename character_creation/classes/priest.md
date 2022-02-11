@@ -103,6 +103,7 @@ so.
 +-------------------------------+-------------+
 |          Bad Acts             | Piety Lost  |
 +-------------------------------+-------------+
+| Knowingly Harming innocents   | 1d10 * 1000 |
 | Blasphemy or profanity        | 1d10 * 1000 |
 | Murder                        | 2d20 * 1000 |
 | Forbidden Act(Domain specific)|  1d6 * 1000 |
@@ -121,7 +122,7 @@ acts. Domain spells do not count against the number of spells you may prepare.
 |  Domain   |     Honorable Act     |     Forbidden Act      |                Spells                  |
 +-----------+-----------------------+------------------------+----------------------------------------+
 | Light     | Lighting a new shrine | Leaving a shrine unlit | Light[1], Dazzling Light, Bend Light   |
-| Life      | Blessing an newborn   | Killing a humanoid     | Spare the dying[1], Mana, Revivify     |
+| Life      | Blessing a newborn    | Killing a humanoid     | Spare the dying[1], Mana, Revivify     |
 | Nature    | Planting a tree       | Cutting a tree         | Thornwhip[1], Vine Suit, lightning bolt|
 | Knowledge | Teaching someone      | Keeping a secret       | Eye stone[1], Identify, Mind Probe[1]  |
 |           | for an hour           |                        |                                        |

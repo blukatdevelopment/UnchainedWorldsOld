@@ -181,7 +181,7 @@ program. You are proficient in smith's tools.
 You are proficient with light and medium armor.
 
 ### Ancestral Warhammer (requires at least 15 INT)
-You know dwarvish, and your rite of passAge: was the forging of an ancestral
+You know dwarvish, and your rite of passage: was the forging of an ancestral
 warhammer with dwarvish runes that tell the story of your ancestors. You are
 proficient with warhammers, and start with this ancestral warhammer.
 
@@ -257,7 +257,7 @@ with advantage.
 
 ### Embelish (requires at least 15 CHA)
 It's hard for others to know what you have and haven't experienced. When you
-tell a tall tale, you get advantAge: on your deception check.
+tell a tall tale, you get advantage on your deception check.
 
 ## Burden Folk
 The empire's hard labor once rested upon human shoulders. Then came the
@@ -478,7 +478,7 @@ black as if it were bright light.
 ### Hellish Rebuke (requires at least 17 CHA)
 As a reaction when you receive damAge: from an attack, you may expend a hit die
 and call out a short phrase of infernal to the attacker. That creature must
-make a dexterity saving throw, taking 3d6 fire damAge: on a failure or half as
+make a dexterity saving throw, taking 2d6 fire damAge: on a failure or half as
 much on a success when your words burn them.
 
 ## Greenfoot

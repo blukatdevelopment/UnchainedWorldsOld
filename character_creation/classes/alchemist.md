@@ -42,7 +42,7 @@ Choose 4 from the following:
 +-------+--------+----------+------------+------------+------------------------+
 | Level | Min XP | Hit Dice | Prof Bonus | Techniques |        Features        |
 +-------+--------+----------+------------+------------+------------------------+
-|     1 |      0 | 1d6      | +1         |          1 | Novice Alchemy         |
+|     1 |      0 | 1d4      | +1         |          1 | Novice Alchemy         |
 |     2 |    300 | 2d4      | +1         |          2 | Lesser Splash Potions  |
 |     3 |    900 | 2d4      | +2         |          3 | Big Dipper             |
 |     4 |   1200 | 3d4      | +2         |          4 | Journeyman Alchemy     |
