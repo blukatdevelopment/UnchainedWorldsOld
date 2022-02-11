@@ -61,7 +61,9 @@ abilities and features are active during an unwilling shift. When you leave your
 lycanthrope form from an unwilling shift, you have 1 hit point and your clothing
 is damaged according to the extent of your growth during the transformation. If
 you resist a trigger, you are immune being triggered involuntarily for the next
-hour.
+hour. During an uncontrolled shift, you may make a DC 14 wisdom saving throw
+once per minute to end the transformation. If you roll a natural 20 on this
+save, the uncontrolled shift becomes a controlled shift.
 
 ```
 +--------------------------------+----+
@@ -81,7 +83,7 @@ You've learned to control your shift into your beast form.
 You may use your bonus action to willingly transform into your lycanthrope form.
 You remain in that state for 1 minute, after which you must make a DC 12 wisdom
 saving throw to exit it. If you fail the save, the controlled shift becomes
-an uncontrolled shift and lasts for 1d4 hours. You can use this ability a number
+an uncontrolled shift. You can use this ability a number
 of times indicated in the shifts column of the lycanthrope table. You restore
 all your shifts on a partial or full rest. As a reaction when an unwilling
 shift is triggered, you may expend a shift in order to take control of yourself.
