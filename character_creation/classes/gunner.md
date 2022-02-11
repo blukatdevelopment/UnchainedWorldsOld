@@ -142,8 +142,9 @@ your next shot this turn advantage.
 
 ### Dual-wielding
 You've learned to wield ranged weapons with both hands. The weapons must be
-one-handed. If one or more of the weapons have the reloading property, you must
-use an action on the next turn to reload both weapons.
+one-handed, but do not require the light property. If one or more of the weapons
+have the reloading property, you must use an action on the next turn to reload
+both weapons. You may store or draw two of such weapons at the same time.
 
 ### Trigger Guard Catch
 When a blade(dagger, shortsword, longsword, rapier) targets you with an attack
