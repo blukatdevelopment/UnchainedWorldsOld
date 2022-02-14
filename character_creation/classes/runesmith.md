@@ -159,11 +159,12 @@ on itself.
 - Touch Light [1]
 - Lesser Telekinesis [1]
 - Death Grip [1]
+- Detect Magic [1]
+
 
 ### 1st
 - Self deception [1]
 - Sculpt Ice [1]
-- Command [1]
 - Protection from good and evil [1]
 - Magic Missile [1]
 - Shield [1]
@@ -174,6 +175,7 @@ on itself.
 - Vorpal Snare [1]
 - Absorb Element [1]
 - Beast Aspect [1]
+- Identify [1]
 - False Life [1]
 - Push [1]
 - Pull [1]

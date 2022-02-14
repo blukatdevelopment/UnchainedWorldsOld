@@ -732,6 +732,116 @@ damage, provided you land on your feet. You may use your action to jump 40 feet
 instead of 20.
 ```
 
+```
+Command (1st)
+Casting Time: 1 action
+Range: 60 feet
+Components: S
+Duration: 1 round
+You speak a single word command to a creature that can hear you within range.
+The target must succeed a Wisdom save or follow the command on it's next turn.
+
+Some options are defined, but the GM will help arbitrare any you create.
+
+Approach. The target moves toward you by the shortest and most direct route,
+ending its turn if it moves within 5 feet of you.
+
+Drop. The target drops whatever it is holding and then ends its turn.
+
+Flee. The target spends its turn moving away from you by the fastest available
+means.
+
+Grovel. The target falls prone and then ends its turn.
+
+Halt. The target doesn't move and takes no actions. A flying creature stays
+aloft, provided that it is able to do so. If it must move to stay aloft, it
+flies the minimum distance needed to remain in the air.
+```
+
+```
+Bane (1st)
+Casting Time: 1 action
+Range: 30ft
+Components: V, S, M(a drop of blood)
+Duration: Concentration, up to 1 minute
+Up to three targets you can see in range must make a charisma saving throw. If they fail, all attack rolls and saving throws they make for the duration have a penalty of -1d4 on them.
+```
+
+```
+Bless (1st)
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S, M (A sprinkle of holy water)
+Duration: Concentration, up to 1 minute
+Up to three creatures you can see in range are blessed. Their attack rolls and
+saving throws receive a bonus of 1d4 for the duration.
+```
+```
+Create or Destroy Water (1st)
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S, M (drop of water or few grains of sand)
+Duration: Instantaneous
+Create Water: You create 10 gallons of water in a container, or otherwise falling as rain in a 30ft cube.
+
+Destroy water: Up to 10 gallons of water or a 30ft cube of fog are destroyed.
+```
+
+```
+Detect Evil And Good (1st)
+Casting Time: 1 action
+Range: self
+Components: V, S
+Duration: Concentration, up to 10 minutes
+For the duration, the presence of any aberration, celestial, elemental, fey, fiend, or undead within 30ft of you becomes apparent. The spell can penetrate one foot of stone, one inch of common metal, a thin sheet of lead, or three feet of wood or dirt.
+```
+
+```
+Detect Magic (1st, Ritual)
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Concentration, up to 10 minutes
+For the duration, you can see magic within a 30ft radius of you. The spell can penetrate one foot of stone, one inch of common metal, a thin sheet of lead, or three feet of wood or dirt.
+```
+
+```
+Detect Poison and Disease (1st)
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (some herbs)
+Duration: Concentration, up to 10 minutes
+For the duration, you can identify any poisons or diseases within 30ft of you. The spell can penetrate one foot of stone, one inch of common metal, a thin sheet of lead, or three feet of wood or dirt.
+```
+
+```
+Inflict Wounds (1st)
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+Make a melee spell attack against a creature, dealing 3d10 necrotic damage on a hit.
+```
+
+```
+Sanctuary (1st)
+Casting Time: 1 bonus action
+Range: 30 feet
+Components: V, S, M(A small silver mirror)
+Duration: 1 minute
+You place a ward on one creature within range that you can see. Any creature targeting the warded creature with an attack or harmful spell must succeed a Wisdom save, select a new target, or lose the spell or attack.
+```
+
+```
+Purify Drink or Food (1st)
+Casting Time: 1 action
+Range: 10 feet
+Components: V, S
+Duration: Instantaneous
+Within a 5ft radius sphere centered on a point in range, you render all nonmagical food and drink purified and free of poison and disease.
+```
+
+
 ## 2nd level spells
 
 ```

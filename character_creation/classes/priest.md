@@ -203,12 +203,21 @@ creature.
 - Guiding Bolt [1]
 - Healing Word [1]
 - Cure Wounds [1]
-- Shield of Faith
+- Shield of Faith [1]
 - Calm Emotions [1]
 - Command [1]
 - Protection from good and evil [1]
 - Vorpal Snare[1]
 - Push[1]
+- Bane [1]
+- Bless [1]
+- Create or Destroy Water [1]
+- Detect Evil and Good [1]
+- Detect Magic [1]
+- Detect Poison and Disease [1]
+- Inflict Wounds [1]
+- Sanctuary [1]
+- Purify Drink or Food [1]
 
 ### 2nd
 - Insight Arrow [1]
