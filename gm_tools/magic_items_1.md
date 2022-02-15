@@ -2,140 +2,353 @@
 
 ## Magic Focuses
 
-### +1 Wand
+### +1 Wand (Uncommon)
 This wand has a +! bonus to both spell attack rolls and damage dealt by
 spell attacks cast with the wand.
 
-### +2 Wand
+### +2 Wand (Rare)
 This wand has a +! bonus to both spell attack rolls and damage dealt by
 spell attacks cast with the wand.
 
-### +3 Wand
+### +3 Wand (Very Rare)
 This wand has a +! bonus to both spell attack rolls and damage dealt by
 spell attacks cast with the wand.
 
-### Spell-stealing Wand
+### Cantrip Wand (Rare)
+When you cast a cantrip with this wand, you may decide to store the cantrip
+inside the wand. Anyone holding the wand may then expend a hit die to cast
+the spell using the wand. The attack bonus is +4 and the DC is 12.
+
+### Spell-storing wand (Rare)
+When you cast a spell while using this wand, you may choose to store the spell
+instead of casting it normally. The spell is stored with your spell attack
+bonus and your spell DC. Anyone holding the wand may cast the spell stored in
+it, emptying the wand.
+
+### Spell-stealing Wand (Very Rare)
 This wand has a cover that you can slide open to reveal a hidden compartment.
 If you open the compartment within 10ft of a spellcaster when they cast a spell,
 that spell is stored in the wand instead of being cast. You may then cast the
 spell at a later time, which has a +2 modifier and a spell DC of 12. This wand
 can only store one spell, which is expended when you cast it.
 
-### Shooting star wand
+### Shooting star wand (Rare)
 When you cast a spell with an attack roll, this spell deals an additional 1d4
 force damage as it fires tiny shooting stars as part of the attack. If you
 roll a natural 1 with this wand on an attack roll, the wand produces sparks
 instead of casting.
 
+### Immovable rod (Very Rare)
+This spell focus has a button that clicks in to activate it's main feature,
+which is that it is immovable.
+
+When an Unstoppable rod meets an Immovable rod, a hole is torn in the weave.
+1d4 rounds later, there is an eruption. Everything within a 1 mile radius 
+sphere becomes a permanent anti-magic field, and the two rods are destroyed.
+
+### Unstoppable rod (Very Rare)
+This spell focus has a button that clicks in to activate it's main feature,
+which is that it ignores gravity and moves in the direction of it's tip at
+a rate of 5ft for every minute.
+
+When an Unstoppable rod meets an Immovable rod, a hole is torn in the weave.
+1d4 rounds later, there is an eruption. Everything within a 1 mile radius
+sphere becomes a permanent anti-magic field, and the two rods are destroyed.
+
+### Portal Wand (Very Rare)
+This wand can be used to produce either a blue or orange portal. Each is
+projected onto a flat 5ft square surface within 60ft. The blue portal consumes
+two hit dice, and the orange portal consumes one hit die. The portals stay
+active for one minute, during which they may be traveled through, preserving
+momentum.
+
 ## Weapons
 
-### Rubber Sword
+### Rubber Sword (common)
 This rubber longsword is pointed at the end, and stretches when swung, giving
-it 10ft of range. If you roll a nat 1 on an attack roll with this sword, it
-deals half damage to you instead.
+it an extra 5ft of range. If you roll a nat 1 on an attack roll with this sword,
+it deals half damage to you instead.
 
-### +1 weapon
+### +1 weapon (Uncommon)
 This weapon has a +1 bonus to both attack rolls and the damage dealt by an
 attack.
 
-### +2 weapon
+### +2 weapon (Rare)
 This weapon has a +2 bonus to both attack rolls and the damage dealt by an
 attack.
 
-### +3 weapon
+### +3 weapon (Very Rare)
 This weapon has a +3 bonus to both attack rolls and the damage dealt by an
 attack.
 
-### Bleeding Heart Dagger
+### Bleeding Heart Dagger (Rare)
 When you attack someone with this blade, the target begins recounting every
 failed or unrealized relationship in their life, ruminating on it. They must
 make a DC 13 wisdom saving throw, or take 1d4 psychic damage.
 
-### Froggy Staff
+### Froggy Staff (Rare)
 Magical quarterstaff
 Has 3 charges that restore at dawn. You may expend one charge in order to 
 jump 30 feet either as a long jump or a high jump. If you drop the froggy staff,
 it produces a loud frog's croak audible for up to 120 feet.
 
-### Cluster Crossbow
+### Cluster Crossbow (Uncommon)
 This special light crossbow fires four crossbow bolts simultaneously.
 When you target a creature with it within normal range, the creature must
 succeed a DC 14 Dexterity saving throw. If you fire past normal range, the
 creature has advantage on the save. On a failed save, the creature receives
 normal damage.
 
+### Death's Bane (Very Rare)
+A magical +1 sword.
+Killing a humanoid or beast with Death's bane will raise the creature back as an
+undead form of themself. They will retain the same memories as when they were
+alive, and will have control over themself.
+
+### Extending rod (Uncommon)
+This quarterstaff may extend to up to 15ft long, extending the normal attack
+range by 10ft.
+
+### Magic boomerang (Uncommon)
+This +1 thrown weapon deals a base damage of 1d4 bludgeoning damage and has finess. It can be thrown up to 60 feet, and always returns to the thrower's
+hand at the start of their next turn, provided there is a path for it to return.
+
 ## Armor
 
-### Cherryblossom Shield
+### Cherryblossom Shield (Common)
 Has one charge which restores each day. As a reaction to being targeted with
 a melee attack, you can release a flurry of cherryblossoms from this shield
 which will cause the attack to be made with disadvantage.
 
-### Miner's Helm
+### Miner's Helm (Common)
 This helmet has a built-in bullseye lantern that can be switched on and off
 with a command word. The flame is magical and does not consume fuel.
 
-### Flowering Cloak
+### Flowering Cloak (Rare)
 This cloak is covered in flowers that attract butterflies and moths. It confers
 advantage on animal handling checks.
 
-### Frog-eyed Necklace
+### Frog-eyed Necklace (Rare)
 This necklace consists of twine with a frog eye hanging from it.
 Requires attunement. When worn by the attuned creature, provides advantage
 on perception checks. However, you become hypervigialent of bugs. If you are
 in the presence of bugs, you must succeed a DC 15 wisdom saving throw or attempt
 to eat one of the bugs.
 
-### Croak Cloak
+### Croak Cloak (Uncommon)
 When you pull the hood of this green cloak over your head, your skin turns green
 and slick with mucus. You have advantage on checks made to avoid being grappled.
 Your fingers become webbed. You gain a swimming speed equal to your normal speed.
 
-### Visor of Doom
+### Visor of Doom (Common)
 When you wear this helmet, your eyes glow bright red.
 
-### Cocao Heavy Armor
+### Cocao Heavy Armor (Uncommon)
 This +1 heavy armor maintains a toasty warm temperature, even in extremely hot
 or cold environments. When you take damage, make a DC 12 constitution saving
 throw. On a failure, the armor fails to regulate heat and burns you, dealing
 1d4 fire damage.
 
-### +1 armor
+### +1 armor (Uncommon)
 This armor has a +1 bonus to the AC of the wearer.
 
-### +2 armor
+### +2 armor (Rare)
 This armor has a +2 bonus to the AC of the wearer.
 
-### +3 armor
+### +3 armor (Very Rare)
 This armor has a +3 bonus to the AC of the wearer.
 
-### Jump Suit
+### Jump Suit (Rare)
 This half plate has jets on the back that produce blue flame to propel the
 wearer into the air. It has 6 charges, which return at dawn. When active,
-the suit consumes one charge per round of combat and confers a 60ft flying speed
+the suit consumes one charge per 6 seconds and confers a 60ft flying speed
 to the wearer.
+
+### Cape of Billowing (Common)
+At all times, the cape flutters as if blown by a strong wind.
+
+### Boots of Spiderwalk (Uncommon)
+When wearing these boots, you have a climb speed equal to your movement speed
+and may walk perpendicularly up walls or upside-down on ceilings.
+
+### Boots of Dashing (Uncommon)
+When wearing these boots, you may expend a hit die to move an additional 60 feet.
+
+### Boots of air step (Uncommon)
+When wearing these boots, you may expend a hit die to move horizontally on open
+air as if it were solid ground. This effect ends at the end of your turn.
+
+### Boots of waterwalk (Uncommon)
+When wearing these boots, you may walk on water as if it were solid ground.
+
+### Winged boots (Uncommon)
+When wearing these boots, you may expend a hit die to gain a flying speed of
+60ft until the start of your next turn.
+
+### Boots of Elven Kind (Uncommon)
+When wearing these boots, your footsteps make no sound, and you have advantage 
+on stealth checks relying on moving silently.
+
+### Spring boots (Common)
+When wearing these boots, you may expend a hit die to jump up to 30ft as a long
+jump or high jump.
+
+### Knife boots (Common)
+When you tap these boots together, a spring-loaded knife extends from the toe.
+The knife boot uses strength and deals 1d4+STR piercing damage.
+
+### Gauntlets of Dwarven Kind (Uncommon)
+When wearing these gauntlets, your unarmed attacks deal 1d6+STR bludgeoning
+damage.
+
+### Gauntlets of fire (Uncommon)
+When wearing these gauntlets, you may expend a hit die to add 2d6 fire damage
+to an unarmed attack.
+
+### Shock Gauntlets (Uncommon)
+When wearing these gauntlets, you may use your bonus action to expend a hit die 
+and deal 2d6 lightning damage to a grappled target.
+
+### Ice Gauntlets (Uncommon)
+When wearing these gauntlets, you may use an action to expend a hit die and
+blast a 15ft cone of cold air. All creatures in the cone must succeed a DC 12
+DEX save to halve 2d6 cold damage. On a failure, a creature's movement is
+reduced to 0ft until the start of your next turn.
+
+### Seeker Swarm Gauntlet (Rare)
+When wearing these gauntlets, you may use a bonus action to expend a hit die and 
+cast the magic missile spell from the spell compendium volume 1. When you do,
+the darts appear as tiny flying needles that pierce through or graze their target
+before returning to your gauntlet.
+
+### Shield Gauntlet (Rare)
+This gauntlet has a retractable shield that you may expand or retract by using
+your bonus action. It does not require an empty hand to deploy.
+
+### Ring of Invisibility (Rare)
+You may consume a hit die to become invisible for 1 hour. The effect ends if you
+perform an attack or cast a spell.
+
+### Ring of the robust (Uncommon)
+You may use a bonus action to consume a hit die, rolling it and gaining that
+much temporary hit points.
+
+### Ring of regretful wisdom (Rare)
+You activate the ring by speaking a grave regret of yours. If the ring accepts
+your answer, it will consume a hit die and grant you advantage on wisdom saving
+throws for the next hour.
+
+### Blood Band of Flames (Rare)
+You may activate the ring using a bonus action, at which time it consumes 1d4
+hit points from you and allows you to cast the Burning Hands spell from the
+spell compendium volume I.
+
+### Amulet of fortitude (Legendary)
+When you wear this amulet, it sinks into your chest and replaces your heart.
+You no longer have a pulse, and you are now vulnerable to lightning damage.
+Your constitution becomes 18. When you die, the amulet surfaces from your chest.
+
 
 ## Consumables
 
-### Exploding Shuriken
+### +1 Quiver (Common)
+This quiver contains 12 arrows that each cause an additional +1 damage on a hit.
+Arrows added to the quiver do not gain this property.
+
+### +2 Quiver (Uncommon)
+This quiver contains 12 arrows that each cause  an additional +2 damage on a hit.
+This quiver contains 12 arrows that each cause 
+
+### +3 Quiver (Rare)
+This quiver contains 12 arrows that each cause an additional +3 damage on a hit.
+This quiver contains 12 arrows that each cause 
+
+### Bottomless Quiver (Rare)
+When you fire an arrow removed from this quiver, it disappears shortly after
+impact and a new one reapears inside the quiver.
+
+### Blu’s tiny tavern (Rare)
+A peculiar playing card with a picture of a tavern drawn on the front. Lay it on
+the ground, say the command word (meow), and stand back. From the card, a small
+tavern will appear. Inside are 1d4+2 warm beds and food and drink for the same 
+number of people. No magical barrier or properties, just a tavern. Once used, 
+cannot be used again. Tavern stays standing where placed.
+
+### Exploding Shuriken (Common)
 This throwing star shares proficiency with darts. If you throw this shuriken
 and hit a target, it sticks into them. Speaking the command word with a bonus
 action causes the shuriken to explode, which forces all creatures within 10ft
 of the target to make a dex saving throw. On a failure they take 3d6 fire
 damage, and half as much on a success.
 
-### Fin Candy
+### Fin Candy (Common)
 When you eat this grey fin-shaped candy, you find that it is sweet with a
 leathery, gummy texture. Your head transforms into that of a hammerhead shark,
 allowing you to breathe underwater for 1 hour.
 
+### Spell Scroll
+This scroll contains a spell and the magical energy needed to cast it. A command
+phrase is written on the scroll. Speaking it aloud while holding the scroll will
+cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
+
+#### Cantrip spell scroll (Common)
+This scroll contains a spell and the magical energy needed to cast it. A command
+phrase is written on the scroll. Speaking it aloud while holding the scroll will
+cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
+
+#### 1st spell scroll (Common)
+This scroll contains a spell and the magical energy needed to cast it. A command
+phrase is written on the scroll. Speaking it aloud while holding the scroll will
+cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
+
+#### 2nd spell scroll (Uncommon)
+This scroll contains a spell and the magical energy needed to cast it. A command
+phrase is written on the scroll. Speaking it aloud while holding the scroll will
+cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
+
+#### 3rd spell scroll (Rare)
+This scroll contains a spell and the magical energy needed to cast it. A command
+phrase is written on the scroll. Speaking it aloud while holding the scroll will
+cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
+
+#### 4th spell scroll (Rare)
+This scroll contains a spell and the magical energy needed to cast it. A command
+phrase is written on the scroll. Speaking it aloud while holding the scroll will
+cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
+
+#### 5th spell scroll (Very Rare)
+This scroll contains a spell and the magical energy needed to cast it. A command
+phrase is written on the scroll. Speaking it aloud while holding the scroll will
+cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
+
+#### 6th spell scroll (Legendary)
+This scroll contains a spell and the magical energy needed to cast it. A command
+phrase is written on the scroll. Speaking it aloud while holding the scroll will
+cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
+
+## Potions
+
+### Potion of greater healing (Common)
+A flask of pink liquid which heals 4d4+4 hit points when consumed.
+
+### Potion of supreme healing (Uncommon)
+A flask of pink liquid which heals 10d4+20 hit points when consumed.
+
 ## Miscellaneous
 
-### Pulse Orb
+### Bag of Holding (Uncommon)
+This bag contains a portal to a pocket dimension. The interior has a volume
+of ten cubic feet.
+
+### Private Canvas (Common)
+This canvas contains a painting of countryside. You may draw on top of
+it after specifying the audience, your drawing disappears and is only
+visible to the specified audience.
+
+### Pulse Orb (Common)
 The pulse orb is a sticky blue globe of gel. When you activate it, it strobes
 slowly, producing a bright light each time it strobes on. It strobes on for 6
 seconds, and then off for 6 seconds, alternating. You may stick the
 strobe to a surface or a creature, and it can be thrown up to 30 feet. While
 strobed on, it produces bright light for 30 feet and dim light for an additional
 30 feet.
-
