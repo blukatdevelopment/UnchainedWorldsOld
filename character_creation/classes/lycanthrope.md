@@ -32,20 +32,20 @@ Select two from the following:
 - Explorer's pack
 
 ```
-+-------+--------------------+----------+-------------------+--------+---------------------------------------+
-| Level | Minimum Experience | Hit Dice | Proficiency Bonus | Shifts |        Features        	             |
-+-------+--------------------+----------+-------------------+--------+---------------------------------------+
-|     1 |                  0 | 1d4      | +1                |      0 | Lycanthrope Form, Controlled Shifting |
-|     2 |                300 | 2d4      | +1                |      1 | Lycanthrope Form ability              |
-|     3 |                900 | 2d4      | +2                |      1 | Tough Hide                            |
-|     4 |               1200 | 3d4      | +2                |      1 | Lycanthrope Form ability              |
-|     5 |               2700 | 3d4      | +2                |      2 | Ability Score Increase                |
-|     6 |               5000 | 3d4      | +2                |      2 |                                       |
-|     7 |               7500 | 3d4      | +3                |      2 |                                       |
-|     8 |              10000 | 3d4      | +3                |      2 | Extra Attack                          |
-|     9 |              15000 | 3d4      | +4                |      3 |                                       |
-|    10 |              20000 | 3d4      | +4                |      3 | Ability Score Increase                |
-+-------+--------------------+----------+-------------------+--------+---------------------------------------+
++-------+--------+----------+-----------+--------------------------------------+
+| Level | Min XP | Hit Dice | Prof Bonus|        Features                      |
++-------+--------+----------+-----------+--------------------------------------+
+|     1 |      0 | 1d4      | +1        | Lycanthrope Form, Controlled Shifting|
+|     2 |    300 | 2d4      | +1        | Lycanthrope Form ability             |
+|     3 |    900 | 2d4      | +2        | Tough Hide                           |
+|     4 |   1200 | 3d4      | +2        | Lycanthrope Form ability             |
+|     5 |   2700 | 3d4      | +2        | Ability Score Increase               |
+|     6 |   5000 | 3d4      | +2        |                                      |
+|     7 |   7500 | 3d4      | +3        |                                      |
+|     8 |  10000 | 3d4      | +3        | Extra Attack                         |
+|     9 |  15000 | 3d4      | +4        |                                      |
+|    10 |  20000 | 3d4      | +4        | Ability Score Increase               |
++-------+--------+----------+-----------+--------------------------------------+
 
 ```
 
@@ -80,13 +80,12 @@ save, the uncontrolled shift becomes a controlled shift.
 
 ### Controlled Shift
 You've learned to control your shift into your beast form. 
-You may use your bonus action to willingly transform into your lycanthrope form.
-You remain in that state for 1 minute, after which you must make a DC 12 wisdom
-saving throw to exit it. If you fail the save, the controlled shift becomes
-an uncontrolled shift. You can use this ability a number
-of times indicated in the shifts column of the lycanthrope table. You restore
-all your shifts on a partial or full rest. As a reaction when an unwilling
-shift is triggered, you may expend a shift in order to take control of yourself.
+You may use your bonus action to expend a hit die and shift at will. When you
+shift this way, you are in full control of yourself. That control lasts for
+1 minute. When this time runs out, you may succeed a DC 12 wisdom save in order
+to maintain control and either remain in a controlled shift, or transform back
+into your humanoid form. If you fail this save, you lose control and your shift
+becomes an uncontrolled shift.
 
 #### Tough hide
 You have resistance to non-magical and non-silvered slashing, piercing, and

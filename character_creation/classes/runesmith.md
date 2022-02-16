@@ -74,7 +74,7 @@ runes, nor any other magical resources, as the ritual itself powers the cast.
 
 ### Runecasting
 When holding a rune stone in your hand, you may use an action to release the stored spell from the stone.
-Intelligence is your spellcasting abiNasdelle Fallirortlity. The rune stone you cast with acts as a spell focus, and is 
+Intelligence is your spellcasting abiility. The rune stone you cast with acts as a spell focus, and is 
 consumed after the spell is cast.
 
 ### Ability Score increase
