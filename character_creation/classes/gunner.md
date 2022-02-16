@@ -81,7 +81,6 @@ heal the rolled amount of hit points.
 ### Advanced Smith
 You may now craft cartridges and weapons that use cartridges.
 
-
 ## Maneuvers
 
 ### Humanoid shield

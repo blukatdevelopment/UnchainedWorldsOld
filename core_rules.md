@@ -522,7 +522,7 @@ When you use this kit on yourself or another creature, make a medicine check
 to determine the outcome.
 
 #### Potion of Healing
-A flask of pink liquid which heals 2d4+4 hit points when consumed.
+A flask of pink liquid which heals 2d4+2 hit points when consumed.
 
 ```
 +--------------+----------------------------+
