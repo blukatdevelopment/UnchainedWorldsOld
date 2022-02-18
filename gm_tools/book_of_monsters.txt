@@ -34,13 +34,23 @@ Bite +4 2d10 piercing, can target all grappled creatures simultaneously
 # \____/ \___|\__,_|___/\__|                            #
 #  II Beast                                             #
 #########################################################
+Giant Rat
+Medium Beast
+HP: 10(2d6+2)
+AC: 12
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 14| 12|  3| 14|  3|
+Attacks:
+Bite +4 1d8+2 piercing
+
 Blackbear
 Medium Beast
 HP: 21(3d10+3)
 AC: 13(natural)
 Speed: 40ft, Climb 30ft
 |STR|DEX|CON|INT|WIS|CHA|
-| 14| 14| 12| 10| 10| 10|
+| 14| 14| 12|  3| 12|  3|
 Multiattack: Blackbear may make 2 claw attacks.
 Bite +4 1d8+2 piercing
 Claws +4 2d4+2 slashing
@@ -105,6 +115,17 @@ Pack tactics: When attacking a target adjacent to a friendly, the wolf
 gains advantage on the attack.
 Bite +4 2d8+3
 Claws +4 2d6+3 slashing
+
+
+Shark
+Medium Beast
+HP: 28(6d6+4)
+AC: 13
+Speed: 5ft, 40ft swim
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 14| 12|  3| 14|  3|
+Attacks:
+Bite +5 2d6+3 piercing
 
 #########################################################
 #                                                       #
@@ -218,6 +239,20 @@ from one arm, and all creatures inside it must succeed a DC 14 DEX save to
 halve 3d6 fire damage.
 Attacks:
 Longsword +6 2d10+4 piercing
+
+
+Forgeling Utility Floater
+Like a toaster that can fly. It has two prongs to pick up objects on it's rear
+side and a red soul crystal on it's front.
+Small Construct
+HP: 3(1d4)
+AC: 12
+Speed: 0ft, 30ft fly
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 14| 10|  4| 10|  4|
+Attacks:
+Prong Bite +3 1d4 piercing
+
 
 #########################################################
 #                                                       #
@@ -1039,6 +1074,24 @@ Blindsight: 500ft
 Multi-attack: May make talon and beak attack
 Toothed Beak +4 1d12 piercing, grapple on hit
 Talons +4 2d6 slashing
+
+
+Wererat
+Medium Humanoid
+HP: 27(2d8+3)
+AC: 12
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 14| 12|  8| 14| 12|
+Darkvision: Can see in dark 60ft
+Resist: Non-magical, non-silvered physical
+Unnatural mobility: wererat may use it's bonus action to perform the dash,
+dodge, or hide actions.
+Fury swipes: Use claw attack 1d4 times
+Attacks:
+Bite +4 1d6+2 piercing DC 14 CON save or contract wererat lycanthropy
+Claw +4 1d4+2 slashing DC 14 CON save or contract wererat lycanthropy
+
 
 
 #########################################################

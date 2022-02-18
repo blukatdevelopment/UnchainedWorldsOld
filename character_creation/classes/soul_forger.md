@@ -129,7 +129,7 @@ in this way. A tiny chassis requires 1 soul stone and 1 scrap to construct.
 |   8 |  14 |   8 |   4 |  10 |   4 |
 +-----+-----+-----+-----+-----+-----+
 | Bite +2 1 piercing damage         |
-+-----------------------------------|
++-----------------------------------+
 ```
 
 
@@ -149,7 +149,7 @@ A small chassis requires 1 soul stone and 3 scrap to construct.
 |  10 |  14 |  10 |   4 |  10 |   4 |
 +-----+-----+-----+-----+-----+-----+
 | Bite +3 1d4 piercing damage       |
-+-----------------------------------|
++-----------------------------------+
 ```
 
 #### Medium Chassis (requires level 3)
@@ -168,7 +168,7 @@ A medium chassis requires 2 soul stones and 10 scrap to construct.
 |  12 |  12 |  12 |   4 |  10 |   4 |
 +-----+-----+-----+-----+-----+-----+
 | Punch +4 1d4 bludgeoning damage   |
-+-----------------------------------|
++-----------------------------------+
 ```
 
 #### Large Chassis (requires level 5)
@@ -187,7 +187,7 @@ It takes 2 soul stones and 50 scrap to construct.
 |  16 |  12 |  12 |   4 |  10 |   4 |
 +-----+-----+-----+-----+-----+-----+
 | Slam +6 2d6 bludgeoning damage    |
-+-----------------------------------|
++-----------------------------------+
 ```
 
 #### Huge Chassis (requires level 7)
@@ -205,7 +205,7 @@ It takes 3 soul stones and 150 scrap to construct.
 |  20 |  12 |  12 |   4 |  10 |   4 |
 +-----+-----+-----+-----+-----+-----+
 | Slam +6 3d8 bludgeoning damage    |
-+-----------------------------------|
++-----------------------------------+
 ```
 
 ### Modules

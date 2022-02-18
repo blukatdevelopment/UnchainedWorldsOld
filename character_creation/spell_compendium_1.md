@@ -24,6 +24,16 @@ effect using an action.
 ```
 
 ```
+Mending (Cantrip)
+Casting time: 1 minute
+Range: touch
+Components: S
+Duration: Instantaneous
+You repair one tear, puncture, or a single break in an object. The object cannot
+be more than 3 feet on a side. 
+```
+
+```
 Chastise (Cantrip)
 Casting time: 1 action
 Range: 60 feet
