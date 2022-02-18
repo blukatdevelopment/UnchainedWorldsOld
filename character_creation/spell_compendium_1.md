@@ -29,8 +29,9 @@ Casting time: 1 minute
 Range: touch
 Components: S
 Duration: Instantaneous
-You repair one tear, puncture, or a single break in an object. The object cannot
-be more than 3 feet on a side. 
+You repair one tear, puncture, or a single break in an object. A hole repaired
+cannot be more than one foot wide. An object broken in half cannot be more than
+six feet on one side.
 ```
 
 ```
