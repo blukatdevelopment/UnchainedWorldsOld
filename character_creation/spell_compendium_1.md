@@ -1054,6 +1054,341 @@ Duration: Instantaneous
 Within a 5ft radius sphere centered on a point in range, you render all nonmagical food and drink purified and free of poison and disease.
 ```
 
+```
+Alarm (1st, Ritual)
+Casting Time: 1 minute
+Range: 30ft
+Components: V, S, M(a little bell and piece of fine silver wire)
+Duration: 8 Hours
+You set a ward which detects unwanted intrusion. Choose a door, window, threshold, or an area within range that is no larger than a 20ft cube. Until the spell ends, an alarm is triggered every time a tiny or larger creature touches or enters the wartded area. At the time of casting, you may define creatures that won't set off the alarm, and may choose to make the alarm audible to all within 60ft, or only inside your mind within a 1 mile radius.
+```
+
+```
+Cause Fear (1st)
+Casting Time: 1 action
+Range: 60 feet
+Components: V
+Duration: Concentration, up to 1 minute
+Your eyes burn toward one creature in sight, which cannot be a construct or
+undead. The target must succeed a wisdom save or become freightened until the 
+spell ends. The freightened creature can repeat the save at the end of it's 
+turns to  end the spell.
+```
+
+```
+Charm Person (1st)
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: 1 hour
+One creature you see within range is targeted by your charm magic. It must 
+succeed a WIS save or become charmed. This check is made with advantage if you 
+or your allies are fighting it. If you or your allies do anything harmful to 
+the creature, the spell's effect ends.
+```
+
+```
+Chromatic Orb (1st)
+Casting Time: 1 action
+Range: 10 feet
+Components: V, S, M(A prism worth 25GP)
+Duration: Instantaneous
+A 4-inch diameter sphere of energy appears in your palm, and you hurl it at one 
+creature that you can see within range. You may choose acid, cold, fire, 
+lightning, poison, or thunder as the orb's element, then make a ranged spell 
+attack. On a hit, the creature takes 3d8 damage of the chosen type.
+```
+
+```
+Color Spray (1st)
+Casting Time: 1 action
+Range: self (15 foot cone)
+Components: V, S, M (a pinch of rainbow sand)
+Duration: 1 round
+Roll 6d10 to get your total. The DM starts with the lowest hit point conscious 
+creature in range. If the creatures HP is equal or less than the total, subtract
+the HP from your total, apply the spell's effect, and move on to the next 
+lowest. Any creature effected by this spell is blinded until the end of your 
+next turn.
+```
+
+```
+Comprehend Languages (1st, Ritual)
+Casting Time: 1 action
+Range: self
+Components: V, S, M (a pinch of salt)
+Duration: 1 hour
+For the duration, you understand the literal meaning of any spoken language you 
+hear with your ears. If you touch a surface, you may likewise understand a 
+language written on it. One page of text takes 1 minute to read.
+
+This spell doesn't decode secret messages in a text or glyph that aren't part
+of a written language, such as a magic glyph or circuitry.
+```
+
+```
+Disguise Self (1st)
+Casting Time: 1 action
+Range: self
+Components: V, S
+Duration: 1 hour
+You disguise your body, clothing, armor, weapons, and any other posessions to
+assume the form of one other creature. You may use your action to dismiss it.
+These changes are not physical and do not hold up to close scrutiny. If you
+create a hat, objects may pass through it. An investigation check opposing your
+spell DC may overcome the disguise.
+```
+
+```
+Distort Value (1st)
+Casting Time: 1 Minute
+Range: Touch
+Components: V
+Duration: 8 hours
+Select one object no more than 1 foot on a side. The object's perceived value
+doubles, or halves. With an investigation check opposing your spell DC, a
+creature may see through this illusion.
+```
+
+```
+Earth Tremor (1st)
+Casting Time: 1 action
+Range: 10 feet
+Components: V, S
+Duration: Instantaneous
+A tremor shakes the land within range. Creatures other than you in the area must each make a DEX save to avoid taking 1d6 bludgeoning damage and falling prone. On loose Earth or stone, the ground becomes difficult terrain until cleared, with each 5ft square requiring 1 minute to clear by hand.
+```
+
+```
+Color Spray (1st)
+Casting Time: 1 action
+Range: self (15 foot cone)
+Components: V, S, M (a pinch of rainbow sand)
+Duration: 1 round
+Roll 6d10 to get your total. The DM starts with the lowest hit point conscious creature in range. If the creatures HP is equal or less than the total, subtract
+the HP from your total, apply the spell's effect, and move on to the next lowest. Any creature effected by this spell is blinded until the end of your next turn.
+```
+
+```
+Feather Fall (1st)
+Casting Time: 1 reaction, taken when you or a creature within 60ft falls.
+Range: 60ft
+Components: V, S, M (a feather or piece of down)
+Duration: 1 minute
+Up to five falling creatures begin falling at a rate of 60ft per round until the spell ends. Landing while the spell is active prevents any fall damage.
+```
+
+```
+Find Familiar (1st, ritual)
+Casting Time: 1 hour
+Range: 10 feet
+Components: V, S, M (5gp worth of charcoal, incense, and herbs, which are consumed)
+Duration: Instantaneous
+You summon a familiar, a spirit that assumes the form of one of the following
+animals: bat, cat, crab, frog, toad, hawk, lizard, octopus, owl, poisonous snake, fish, rat, raven, sea horse, spider, or weasel. They share your turn
+in initiative and may not take the attack action. When within 100ft, you may
+telepathically speak with your familiar and see through their eyes. As an 
+action, you may send to or conjure them from the plane from whence they came. 
+If they are killed, they return to their plane and you must recast this spell. 
+Casting this spell when you already have a familiar replaces your current 
+familiar. Spells with a range of touch may use the familiar's touch, provided 
+you are within 100ft of your familiar.
+```
+
+```
+Fog Cloud (1st)
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Concentration, 1 hour
+A 20-foot-radius sphere of fog appears centered on a point of your choice 
+within range. The area inside the cloud is heavily obscured, and thus not 
+visible. A wind exceeding 10 miles per hour may move the cloud.
+```
+
+```
+Frost Fingers (1st)
+Casting Time: 1 action
+Range: self (15 foot cone)
+Components: V, S
+Duration: Instantaneous
+Each creature within a 15 foot cone must succeed a CON save to halve 2d8 cold 
+damage. The effect freezes nonmagical liquids within range that aren't worn or 
+carried.
+```
+
+```
+Grease (1st)
+Casting Time: 1 action
+Range: 60ft
+Components: V, S, M(a bit of pork fat or butter)
+Duration: 1 minute
+A 10-foot square centered on a point within range is suddenly covered in 
+grease, becoming difficult terrain. Each creature in this space when it turns 
+greasy must succeed a DEX save or fall prone. If ignited, the grease burns 
+rapidly and deals 1d10 fire damage to all standing on it.
+```
+
+```
+Ice Knife (1st)
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M(a drop of water or piece of ice)
+Duration: Instantaneous
+A shard of ice appears in your hand and you throw it at one creature in range. 
+Make a ranged spell attack against the creature. On a hit, the creature takes 
+1d10 piercing damage. The shard explodes on impact regardless of whether it 
+hits. All creatures within 5ft of it must succeed a DEX save or take 2d6 cold 
+damage.
+```
+
+```
+Mage Armor (1st)
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M(a piece of cured leather)
+Duration: 8 hours
+Touch one creature that is willing and isn't wearing armor to surround them in protective magic. The target's AC becomes 13+ their DEX mod. The spell ends if the creature dons armor or if you dismiss the spell as an action.
+```
+
+```
+Ray of Sickness (1st)
+Casting Time: 1 action
+Range: 60ft
+Components: V, S
+Duration: Instantaneous
+You blast a ray of sickening green energy at a creature within range. Make a ranged spell attack against the creature. On a hit, the creature takes 2d8 poison damage and must make a CON save to avoid being poisoned until the end of your next turn.
+```
+
+```
+Silent Image (1st)
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M(a bit of fleece)
+Duration: Concentration, up to 10 minutes
+You create a 3D image that is no larger than a 15-foot cube in a spot centered
+on a point within range which lasts for the duration. You can reposition the image anywhere within range using your action. The image is accompanied by no 
+sound, smell, taste, or touch, but can be animated. A successful investigation 
+check against your spell DC reveals the image to be an illusion.
+```
+
+```
+Sleep (1st)
+Casting Time: 1 action
+Range: 90 feet
+Components: V, S, M(a pinch of fine sand, rose petals, a cricket, or milk)
+Duration: 1 minute
+Pick a point within range. All creatures within 20ft of that point are in range 
+of the effect. Roll 5d8 to get your total. The DM starts with the lowest hit 
+point conscious creature in range. If the creatures HP is equal or less than 
+the total, subtract the HP from your total, apply the spell's effect, and move 
+on to the next lowest. If a creature is affected by this spell, they fall into 
+a magical slumber unless they are shaken awake with an action or receive 
+damage. 
+```
+
+```
+Snare (1st)
+Casting Time: 1 minute
+Range: Touch
+Components: V, S, M(25ft oof rope, which is consumed)
+Duration: 8 hours
+Use the rope to create a 5-foot radius circle on the ground. The rope turns 
+nearly invisible, creating a magical trap. A successful investigation check 
+against your spellcasting DC can detect the trap. Once triggered by a small, 
+medium, or large creature that moves over the space, said creature is hoisted 
+upwards to dangle upside down three feet off the ground. They are restrained, 
+but may end the condition by succeeding a DEX save against your spell DC at the 
+end of their turn.
+```
+
+```
+Caustic Brew (1st)
+Casting Time: 1 action
+Range: Self(30-foot line)
+Components: V, S, M(a bit of rancid food)
+Duration: concentration, up to 1 minute
+You spray a stream of acid in a 30ft long, 5ft wide line in a direction of your 
+choice. Every creature hit must succeed a DEX save or be covered in acid for 
+the duration, taking 2d4 acid damage at the start of their turn. The acid can 
+be scraped or washed off using an action.
+```
+
+```
+Hideous Laughter (1st)
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S, M(tiny tarts and a feather that is waved in the air)
+Duration: concentration, up to 1 minute
+Choose a creature within range that you can see. They perceive everything as 
+hilariously funny and fall into fits of laughter. The target must succeed a WIS 
+save or fall prone, becoming incapacitated and unable to stand up for the 
+duration. A creature with intelligence score of 4 or less is not affected. At 
+the end of the turn, and each time the creature takes damage, it may repeat the 
+WIS save to end the spell. The save is made with advantage if it was caused by 
+taking damage.
+```
+
+```
+Floating Disk (1st, Ritual)
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S, M(a drop of mercury)
+Duration: 1 hour
+You create a disk of force 3 feet in dameter and 1 inch thick that floats 3 
+feet above the ground in an unoccupied space of your choosing that you can see 
+within range. The disk may hold up to 500 pounds, but the spell ends if it 
+receives more than that. The disk remains stationary until you move more than 
+20 feet away, which causes it to follow you. It cannot climb a wall nor can
+it cross a 10ft hole, but it can climb stairs and move over difficult terrain.
+```
+
+```
+Thunderwave (1st)
+Casting Time: 1 action
+Range: self(5ft radius)
+Components: V, S
+Duration: Instantaneous
+Every creature within range must succeed a CON save to halve 2d8 thunder damage and avoid being pushed 10ft away in a straight line. Unsecured objects are pushed 10 feet away, and the thunder is audible out to 300 feet.
+```
+
+```
+Sleep (1st)
+Casting Time: 1 action
+Range: 90 feet
+Components: V, S, M(a pinch of fine sand, rose petals, a cricket, or milk)
+Duration: 1 minute
+Pick a point within range. All creatures within 20ft of that point are in range 
+of the effect. Roll 5d8 to get your total. The DM starts with the lowest hit 
+point conscious creature in range. If the creatures HP is equal or less than 
+the total, subtract the HP from your total, apply the spell's effect, and move 
+on to the next lowest. If a creature is affected by this spell, they fall into 
+a magical slumber unless they are shaken awake with an action or receive 
+damage. 
+```
+
+```
+Unseen Servant (1st, Ritual)
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M(a piece of string and a bit of wool)
+Duration: 1 hour
+You create an invisible, mindless, shapeless, medium force that performs simple
+tasks at your command until the spell ends. The servant has an AC of 10, 1 hit 
+point, a strength of 2, and can't attack. You may issue commands telepathically 
+using your bonus action. The force may perform simple tasks such as cleaning, 
+mending, folding clothes, serving food, etc.
+```
+
+```
+Witch Bolt (1st)
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S, M(a twig from a tree that has been struck by lightning)
+Duration: Concentration, up to 1 minute
+You fire a beam of crackling purple energy at a creature within range, forming
+an arc of lightning between yourself and the target. The attack deals 1d12 lightning damage on a hit, and you may use your action to deal 1d12 lightning damage again on subsequent turns. If you use your action for anything else, or the target enters full cover, the spell ends.
+```
 
 ## 2nd level spells
 
@@ -1192,7 +1527,11 @@ Casting Time: 1 action
 Range: 60 feet
 Components: V, S, M(a vial of mucus)
 Duration: 1 hour
-You hurl a ball of green slime roughly the size of an apple at a point within range. It expands into 10 gallons of gooey green slime that coats all creatures within a 20 foot diameter sphere. Any creature hit by the slime is blinded until they use an action to clear the slime from their face. The area affected by the slime is considered difficult terrain.
+You hurl a ball of green slime roughly the size of an apple at a point within 
+range. It expands into 10 gallons of gooey green slime that coats all creatures 
+within a 20 foot diameter sphere. Any creature hit by the slime must succeed a 
+CON save, or is blinded until they use an action to clear the slime from their
+face. The area affected by the slime is considered difficult terrain.
 ```
 
 ```
@@ -1201,7 +1540,13 @@ Casting Time: 1 action
 Range: 30 feet
 Components: V, S, M(a spider web)
 Duration: 1 hour
-You extend your thumb, pinky, and index fingers, but press your other two fingers to your palm. Sticky spider silk sprays from your wrist. You may build a web over a 20 foot by 20 foot plane, provided it touches a solid surface on at least two sides. Any creature that comes into contact with the webs must succeed on a strength saving throw or become restrained. They may repeat the saving throw before each of their following turns. If the web is lit on fire, it will burn rapidly, dealing 10 fire damage to creatures within its space.
+You extend your thumb, pinky, and index fingers, but press your other two 
+fingers to your palm. Sticky spider silk sprays from your wrist. You may build 
+a web over a 20 foot by 20 foot plane, provided it touches a solid surface on 
+at least two sides. Any creature that comes into contact with the webs must 
+succeed on a strength saving throw or become restrained. They may repeat the 
+saving throw before each of their following turns. If the web is lit on fire, 
+it will burn rapidly, dealing 1d10 fire damage to creatures within its space.
 ```
 
 ```
