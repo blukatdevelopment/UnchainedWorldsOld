@@ -295,6 +295,208 @@ throat. They must succeed a con save, or else receive 1d6 necrotic damage and
 be unable to benefit from healing until the start of your next turn.
 ```
 
+```
+Acid Splash (Cantrip)
+Casting Time: 1 action
+Range: 60ft
+Components: S, V
+Duration: Instantaneous
+Choose one target in range, or two adjacent targets in range to hurl a bubble
+of acid at. They must succeed a DEX save or receive 1d6 acid damage.
+```
+
+```
+Control Flames (Cantrip)
+Casting Time: 1 action
+Range: 60ft
+Components: S
+Duration: Instantaneous or 1 hour
+Select non-magical fire within range that fits in a 5 foot cube. You cause one
+of the following effects.
+- You grow the flame by 5 feet in one direction, provided there is fuel for it there.
+- You extinguish the fire in that cube.
+- You double or halve the intensity of the light produced.
+- You cause shapes to appear in the fire that last 1 hour.
+- You change the color of the flame.
+- You make the flame magical and heatless.
+```
+
+```
+Friends (Cantrip)
+Casting Time: 1 action
+Range: self
+Components: S, M (makeup applied to the face)
+Duration: Instantaneous
+Choose one creature that isn't hostile to you. You have advantage on charisma checks made against it. After the spell ends, the creature will realize that
+you used magic to tamper with it's mind.
+```
+
+```
+Frostbite (Cantrip)
+Casting Time: 1 action
+Range: 60ft
+Components: S, V
+Duration: Instantaneous
+Choose one creature you can see within range to coat with a numbing frost.
+It must succeed a constitution saving throw or take 1d6 cold damage and
+suffer disadvantage on the next attack it makes before the end of it's next 
+turn.
+```
+
+```
+Viridescent blade (Cantrip)
+Casting Time: 1 action
+Range: self (15ft radius)
+Components: S, M(melee weapon worth at least 1sp)
+Duration: Instantaneous
+Make a melee attack with your melee weapon as part of casting this spell. On a
+hit, the target takes normal damage and you may choose one creature within 5ft
+of it to take fire damage equal to your spellcasting modifier as a green flame
+leaps from your blade and burns them.
+```
+
+```
+Gust(Cantrip)
+Casting Time: 1 action
+Range: 30ft
+Components: S, V
+Duration: Instantaneous
+You command the air to create one of the effects below:
+- A medium or smaller creature of your choice must succeed a STR save or be pushed 5ft away from you.
+- You push an object weighing 5lb or less up to 10ft away from you. It cannot be held, worn, or tied down.
+- You cause a harmless sensory effect using the air such as fluttering a cape, blowing out a candle, or causing a treebranch to sway.
+```
+
+```
+Vermin Cloud (Cantrip)
+Casting Time: 1 action
+Range: 30ft
+Components: S, V, M(a living parasite)
+Duration: Instantaneous
+A cloud of parasitic mites, fleas, or worms climbs up or descends upon one
+target in range. The target must succeed a CON save or take 1d6 poison damage
+and run 5ft in a random direction if possible.
+```
+
+```
+Mind Sliver (Cantrip)
+Casting Time: 1 action
+Range: 60ft
+Components: V
+Duration: 1 round
+You open your third eye and let it's gaze burn one target in range. The target
+must succeed an INT save to avoid taking 1d6 psychic damage and suffering a 1d4
+penalty from their next saving throw made before the end of your
+next turn.
+```
+
+```
+Mold Earth (Cantrip)
+Casting Time: 1 action
+Range: 30ft
+Components: S
+Duration: Instantaneous or 1 hour
+You command the Earth within a 5ft cube and cause it to change in one of the 
+following ways:
+- If it's loose Earth, you excavate it and move it up to 5ft.
+- You shape the Earth into a form that lasts for 1 hour
+- You create difficult terrain, or turn difficult terrain into normal terrain.
+You can stack up to two of these effects at once. Creating a third effect 
+dispels the first.
+```
+
+```
+Poison Spray (Cantrip)
+Casting Time: 1 action
+Range: 10ft
+Components: S, V
+Duration: Instantaneous
+You projecta puff of noxious gas toward one creature in sight. The creature 
+must succeed a CON save to avoid 1d12 poison damage.
+```
+
+```
+Ray of Frost (Cantrip)
+Casting Time: 1 action
+Range: 60ft
+Components: S, V
+Duration: Instantaneous
+You produce a beam of teal light aimed at one creature in range.  Make a ranged 
+spell attack which deals 1d8 cold damage on a hit.
+```
+
+```
+Shape Water (Cantrip)
+Casting Time: 1 action
+Range: 30ft
+Components: S
+Duration: Instantaneous or 1 hour
+You command water within a 5ft cube and cause one of the following effects:
+- The water moves 5ft in any direction
+- The water is shaped into a form that lasts for 1 hour
+- The water's opacity or color changes for 1 hour
+- The water is frozen, provided it is free of creatures, for 1 hour
+```
+
+```
+Shocking Grasp (Cantrip)
+Casting Time: 1 action
+Range: Touch
+Components: S, V
+Duration: Instantaneous
+Choose one creature within range, which must succeed a DEX save or receive 1d8
+lightning damage and lose all reactions until the start of it's next turn.
+If the creature is wearing or made of metal, it has disadvantage on this save.
+```
+
+```
+Thunderclap (Cantrip)
+Casting Time: 1 action
+Range: 5ft
+Components: S, V
+Duration: Instantaneous
+You clap, producing a sound that can be heard for 100ft. Every creature within this spell's range must succeed a CON save to avoid 1d6 thunder damage.
+```
+
+```
+Toll The Dead (Cantrip)
+Casting Time: 1 action
+Range: 60ft
+Components: S, V
+Duration: Instantaneous
+You point at a creature and the sound of a funeral bell fills it's immediate 
+area. It must succeed a WIS save to avoid 1d8 necrotic damage. The damage increases to 1d12 if the target is missing any hit points.
+```
+
+```
+Resistance (Cantrip)
+Casting Time: 1 action
+Range: Touch
+Components: S, V, M(a miniature cloak)
+Duration: Concentration, up to 1 minute
+You touch one willing creature, which is imbued with this ward. Within the 
+duration, the creature may receive a bonus d4 to one saving throw of it's choice, which can be rolled before or after making the save. Gaining this bonus ends the spell.
+```
+
+```
+Spare the dying (Cantrip)
+Casting Time: 1 action
+Range: Touch
+Components: S, V
+Duration: Instantaneous
+You touch one living creature that has less than 1 hit point, and it is stabilized. Undead and constructs are unaffected by this magic.
+```
+
+```
+Word of Radiance (Cantrip)
+Casting Time: 1 action
+Range: 5ft
+Components: V, M(a holy symbol)
+Duration: Instantaneous
+You speak a word which burns bright with radiant power. Each creature of your
+choice within range must succeed a CON save or take 1d6 radiant damage.
+```
+
 ## 1st level spells
 
 ```

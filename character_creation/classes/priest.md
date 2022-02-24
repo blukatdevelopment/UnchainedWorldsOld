@@ -195,9 +195,13 @@ creature.
 - Mending [1]
 - Sacred Flame [1]
 - Guidance [1]
-- Touch Light[1]
-- Lay On Hands[1]
-- Thaumaturgy[1]
+- Touch Light [1]
+- Lay On Hands [1]
+- Thaumaturgy [1]
+- Toll the Dead [1]
+- Resistance [1]
+- Spare the Dying [1]
+- Word of Radiance [1]
 
 ### 1st
 - Guiding Bolt [1]

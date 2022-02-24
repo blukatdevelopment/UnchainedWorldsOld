@@ -270,6 +270,9 @@ Names:
 #---------------------------------#
 #   Shadowtown
 #---------------------------------#
+The city's population took a hit during a couple years of nighly zombie raids,
+but now the boarded up buildings are being reopened for permanent use. The forest
+to the West was completely burned down.
 SIZE: Large City
 HEALTH: Ghost Town
 ECONOMY: Airport
@@ -287,6 +290,7 @@ Locations:
 # The Barbarian(Nightclub)
 # Hamillyn Estate(Mansion)
 # The Mithril Mantle(Magic shop)
+# City Airport
 # Opus Athenaeum(Library)
 # Spring River Cemetery(Graveyard)
 # The Unique Boutique(Craft Store)
@@ -297,6 +301,8 @@ Locations:
 Names:
 - Conaire Mac Braonáin(M, Human)
 - Imchad Ó Madáin(M, Human)
+- King Magnus (M, Human) king
+- Captain Morgan (M, Human) Captain of the guard
 - Beolagh Ó Muireadhaigh(M, Human)
 - Maodhóg Ó Maolmhaghna(M, Human)
 - Dúnlang Mac Conshámha(M, Human)
@@ -304,13 +310,13 @@ Names:
 - Fínín Ó Cionnaith(M, Human)
 - Íobhar Ó Síocháin(M, Human)
 - Colmán Mac Uighlilin(M, Human)
-- Éignach Ó Duilleáin(M, Human)
+- Éignach Ó Duilleáin(M, Human) Bard for King
 - Féthnat Uí Bruacháin(F, Human)
 - Comnait Ní Donnabháin(F, Human)
 - Aibhilín Mhic Giolla Chúda(F, Human)
-- Fionnuala Uí Maonaigh(F, Human)
-- Dunla Ní Flaithbertaigh(F, Human)
-- Lasair Uí hAinbhthín(F, Human)
+- Fionnuala Uí Maonaigh(F, Human) owner of the Odd Guinea pig
+- Dunla Ní Flaithbertaigh(F, Human) Nurse
+- Lasair Uí hAinbhthín(F, Human) Airship Technician
 - Fínscoth Nic Riada(F, Human)
 - Lann Mhic Giolla Rua(F, Human)
 - Sadhbh Uí hUainín(F, Human)
@@ -468,7 +474,7 @@ Streets:
 - Estate Lane
 Locations:
 # The Real Crocodile(Tavern)
-# The Lyrical Owl Tavern(Tavern)
+# The Lyrical Owl Tavern(Tavern) "It's better than the one in Dawnwallow"
 # Grand Monastery Library(Library)
 # Grandview Medical Clinic(Hospital)
 # Paradise Burial Grounds(Graveyard)
@@ -478,7 +484,7 @@ Locations:
 # The Blue Terrace(Temple of Ruvagi, God Of Health)
 Names:
 - Ildebad(M, Human)
-- Candac(M, Human)
+- Candac(M, Human) Owner of the Lyrical Owl
 - Tanca(M, Human)
 - Vinitharius(M, Human)
 - Hildebad(M, Human)
@@ -951,6 +957,8 @@ Names:
 #---------------------------------#
 #   Sandfrost
 #---------------------------------#
+The town only accepts company script, thirteen crowns of which are worth one
+copper.
 SIZE: Small Town
 HEALTH: Failed
 ECONOMY: Livestock
@@ -959,14 +967,17 @@ Lineage: Human
 Streets:
 - Campus Row
 Locations:
-# The Lyrical Owl Tavern(Tavern)
+# The Lyrical Owl Tavern(Tavern) "Ours has a pawn shop"
+The party can sell items. For every copper of worth, they'll buy valuable items
+for 5 crowns on the copper.
+
 # Nemesis Graveyard(Graveyard)
 # Two Pines Ranch(Farm)
 # The Strumihaja(Temple of Gidur, God Of Hell)
 # The Otreaceris(Temple of Gegtix, Goddess Of Spring)
 Names:
 - Rauni Järveläinen(M, Human)
-- Arto Paavola(M, Human)
+- Arto Paavola(M, Human) Owner of the Lyrical Tavern
 - Anttoni Pukki(M, Human)
 - Vihtori Hänninen(M, Human)
 - Valdemar Meri(M, Human)
@@ -1151,11 +1162,12 @@ Locations:
 # The Drab Yam Pub(Tavern)
 # Serenity Cemetery(Graveyard)
 # Lucky Range(Farm)
+# Mayor's house(Crashed airship)
 # The Eopleluna(Temple of Bimros, God Of The Military)
 # The Eaqudhari(Temple of Gegtix, Goddess Of Spring)
 Names:
 - Balbalar(M, Fae)
-- Ilipeiros(M, Fae)
+- Ilipeiros(M, Fae) Mayor
 - Beiric(M, Fae)
 - Lowewallon(M, Fae)
 - Bricant(M, Fae)
@@ -1498,6 +1510,7 @@ Names:
 #---------------------------------#
 #   Lagoonstall
 #---------------------------------#
+These hobgoblins follow Zarrat's Pyramid
 SIZE: Hamlet
 HEALTH: Ghost Town
 ECONOMY: Tourism
@@ -1506,11 +1519,11 @@ Lineage: Hobgoblins
 Locations:
 # Born and Bread(Bakery)
 Names:
-- Novarg(M, Hobgoblin)
+- Novarg(M, Hobgoblin) Supreme Leader
 - Rendrodun(M, Hobgoblin)
-- Rhag(M, Hobgoblin)
+- Rhag(M, Hobgoblin) 
 - Khalzuk(M, Hobgoblin)
-- Nendeg(M, Hobgoblin)
+- Nendeg(M, Hobgoblin) Tour Guide
 - Medac The Beast(M, Hobgoblin)
 - Unkenol Twist(M, Hobgoblin)
 - Khalzur The Watcher(M, Hobgoblin)
@@ -1768,16 +1781,16 @@ Lineage: Beastfolk
 Locations:
 # Mossy Cobble Gardens(Farm)
 Names:
-- Štěpán Zeman(M, Beatfolk)
-- Vincenc Jelínek(M, Beatfolk)
-- Herbert Šulc(M, Beatfolk)
-- Oto Pešek(M, Beatfolk)
-- Břetislav Dvořáček(M, Beatfolk)
-- Přemysl Ševčík(M, Beatfolk)
-- Havel Horák(M, Beatfolk)
-- Pankrác Hošek(M, Beatfolk)
-- Stanislav Havel(M, Beatfolk)
-- Věroslav Vítek(M, Beatfolk)
+- Štěpán Zeman(M, bearfolk)
+- Vincenc Jelínek(M, bearfolk)
+- Herbert Šulc(M, bearfolk)
+- Oto Pešek(M, bearfolk)
+- Břetislav Dvořáček(M, bearfolk)
+- Přemysl Ševčík(M, bearfolk)
+- Havel Horák(M, bearfolk)
+- Pankrác Hošek(M, bearfolk)
+- Stanislav Havel(M, bearfolk)
+- Věroslav Vítek(M, bearfolk)
 - Šarlota Dvořáčková(F, Bearfolk)
 - Pavla Adamová(F, Bearfolk)
 - Monika Vlasáková(F, Bearfolk)

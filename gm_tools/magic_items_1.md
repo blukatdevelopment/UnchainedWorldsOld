@@ -92,12 +92,36 @@ Has 3 charges that restore at dawn. You may expend one charge in order to
 jump 30 feet either as a long jump or a high jump. If you drop the froggy staff,
 it produces a loud frog's croak audible for up to 120 feet.
 
+### Staff of magic missile
+Magical quarterstaff
+The holder may consume a hit die in order to cast magic missile.
+
 ### Cluster Crossbow (Uncommon)
 This special light crossbow fires four crossbow bolts simultaneously.
 When you target a creature with it within normal range, the creature must
 succeed a DC 14 Dexterity saving throw. If you fire past normal range, the
 creature has advantage on the save. On a failed save, the creature receives
 normal damage.
+
+### Blaster (Common)
+Ranged weapon (30/60), Light
+Weight:2lb
+Damage: 1d6 fire
+Uses hand crossbow or firearm proficiency. Has two charges.
+Can be recharged with a hit die during a rest.
+
+### Lightning Rifle (Uncommon)
+Ranged weapon(120/125)
+Damage 2d12 lightning
+Uses heavy crossbow or firearm proficiency. Has one charge.
+User must use action to charge up the rifle for 6 seconds.
+Can be recharged with a hit die during a rest.
+
+### Power fist (Uncommon)
+Unarmed attacks deal 1d4 damage when wearing this. The power fist is considered
+light. The power fist can be charged by consuming two hit dice. When attacking,
+the fist can expend it's charge to deal an additional 2d10 bludgeoning damage on
+a hit.
 
 ### Death's Bane (Very Rare)
 A magical +1 sword.
@@ -172,6 +196,7 @@ When wearing these boots, you have a climb speed equal to your movement speed
 and may walk perpendicularly up walls or upside-down on ceilings.
 
 ### Boots of Dashing (Uncommon)
+These boots have stylish lightning bolts on them.
 When wearing these boots, you may expend a hit die to move an additional 60 feet.
 
 ### Boots of air step (Uncommon)

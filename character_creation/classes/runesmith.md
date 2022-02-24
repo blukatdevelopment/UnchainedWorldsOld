@@ -159,7 +159,21 @@ on itself.
 - Touch Light [1]
 - Lesser Telekinesis [1]
 - Death Grip [1]
-- Detect Magic [1]
+- Acid Splash [1]
+- Control Flames [1]
+- Friends [1]
+- Frostbite [1]
+- Green Flame Blade [1]
+- Gust [1]
+- Infestation [1]
+- Mind Sliver [1]
+- Mold Earth [1]
+- Poison Spray [1]
+- Ray of Frost [1]
+- Shape Water [1]
+- Shocking Grasp [1]
+- Thunderclap [1]
+- Toll the Dead [1]
 
 
 ### 1st
@@ -181,6 +195,7 @@ on itself.
 - Pull [1]
 - Ice Tomb [1]
 - Jump [1]
+- Detect Magic [1]
 
 ### 2nd
 - Blink Step [1]

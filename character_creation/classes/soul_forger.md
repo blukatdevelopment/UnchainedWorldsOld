@@ -252,7 +252,7 @@ Description:
 Roll your discharge dice and use an action to charge the lightning rifle. Once
 charged, it emits a high-pitched whine. On your next turn you may roll your
 discharge dice to make a ranged attack roll with a +5 to hit modifier which
-deals 2d12 lightning damage on a hit. The range for this weapon is 120 feet.
+deals 2d12 lightning damage on a hit. The range for this weapon is 120/125 feet.
 ```
 
 #### Flamer

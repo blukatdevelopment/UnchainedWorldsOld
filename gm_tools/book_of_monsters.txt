@@ -254,6 +254,93 @@ Attacks:
 Prong Bite +3 1d4 piercing
 
 
+Forgeling Patroller
+A skeletal humanoid construct often used as a cheap foot soldier.
+Medium Construct
+HP: 9(3d4)
+AC: 12
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 12| 12|  4| 10|  4|
+Attacks:
+Punch +2 1d4 bludgeoning
+Blaster +2 1d6 fire damage
+
+Forgeling Ceiling Turret
+A forgeling mounted to a ceiling. It will hunker down when creatures are within
+melee range of it. 
+Small Construct
+HP: 4(1d4)
+AC: 12
+Speed: 0ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 14| 10|  4| 10|  4|
+Hunker down: The forgeling can retreat into it's armored shell, raising it's AC
+to 18 and preventing it from firing.
+Multi-attack: The forgeling turret may make three blaster attacks
+Attacks:
+Blaster(30/60) +2 1d6 fire
+
+Forgeling Blade Trooper
+A skeletal humanoid construct with two longswords. It's most effective as a
+frontline melee soldier.
+Medium Construct
+HP: 9(3d4)
+AC: 12
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 12| 12|  4| 10|  4|
+Spin slash: Every creature within 5ft of the trooper must succeed a DC 12 saving
+throw or receive normal longsword damage as the trooper spins it's torso
+independent of it's legs.
+Swivel defense: Trooper may use it's reaction to slash at a creature that enters
+attack range.
+Riposte: When targeted with a melee attack, the trooper may use it's reaction to
+add +2 to it's AC by blocking.
+Multiattack: Blade Trooper may make two longsword attacks
+Attacks:
+Punch +2 1d4 bludgeoning
+Longsword +2 1d8+1 slashing
+
+Forgeling Electrospear Trooper
+A skeletal humanoid construct with an electrospear. It's most effective as a
+frontline melee soldier.
+Medium Construct
+HP: 9(3d4)
+AC: 12
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 12| 12|  4| 10|  4|
+Unflinching throw: Trooper may throw spears from within 5ft of an enemy without
+disadvantage.
+Vault: trooper may use spear to leap 15ft into the air and land up to 15ft from
+it's starting position.
+Riposte: When targeted with a melee attack, the trooper may use it's reaction to
+add +2 to it's AC by blocking.
+Multiattack: Trooper may make two electro spear attacks
+Attacks:
+Punch +2 1d4 bludgeoning
+Electrospear +2 1d8+1 slashing 1d8 lightning
+
+Forgeling Blast Trooper
+A skeletal humanoid construct with two blasters. It's most effective at laying
+down suppressing fire.
+Medium Construct
+HP: 9(3d4)
+AC: 12
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 12| 12|  4| 10|  4|
+Spam fire: Trooper may fire four times with a -2 to-hit modifier.
+Quick reflexes: When targeted by a ranged weapon, trooper may use reaction to
+fire first with a -2 to-hit modifier.
+Unflinching aim: Trooper does not suffer disadvantage when attacking within 5ft
+with ranged weapons.
+Multiattack: May make two blaster attacks
+Attacks:
+Punch +2 1d4 bludgeoning
+Blaster(30/60ft) +2 1d6 fire
+
 #########################################################
 #                                                       #
 # ______                                                #
@@ -903,6 +990,38 @@ Stone Axe: +4, 1d6+2 slashing
 #                    |___/                           #
 ######################################################
 
+Blade of Zarrat
+HP: 21(3d8+6)
+AC: 17(Dragonsteel Splint Armor)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 12| 14| 12| 12| 12|
+Resists: Fire
+Actions:
+Rage weed: The blade huffs a red powder and becomes resistant to weapon damage
+for up to 1 minute, but ends prematurely if blade does not attack or take damage
+after which they lose consciousness for 1d4 hours.
+Martial Advantage: When the target is within 5ft of an ally, melee attacks deal
+an addition 1d8 damage.
+Projectile deflect: With a reaction when attacked with a ranged weapon, blade
+can add +2 AC for that attack to attempt to deflect the projectile.
+Block breaker: If the blade's longsword attack is blocked', they may use their
+bonus action to make another, forcing. On a hit, the blocking weapon or shield
+is cut through during the attack.
+Attacks:
++1 Dragonsteel Longsword +5 1d8+3
+
+Bow of Zarrat
+HP: 15(3d6+3)
+AC: 15(Breastplate)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 16| 12| 12| 12| 12|
+Multi-attack: Can make two attacks with longbow
+Attacks:
+Dagger +5 1d4+3 piercing
+Longbow +5 1d8+3 piercing
+
 Hobgoblin Blade
 HP: 21(3d8+6)
 AC: 15(Scale mail)
@@ -1092,7 +1211,20 @@ Attacks:
 Bite +4 1d6+2 piercing DC 14 CON save or contract wererat lycanthropy
 Claw +4 1d4+2 slashing DC 14 CON save or contract wererat lycanthropy
 
-
+Young Blink Lion
+Large Monstrosity
+A lion with tenetacles on it's back and tail. It has a third eye with a golden
+iris.
+HP: 27 (3d12+6)
+AC: 12
+Speed: 40ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 14| 14|  4| 10|  4|
+Blink: As a bonus action or reaction when targeted by ranged attacks, may
+teleport to another point within 30ft.
+Claws +5 1d6+2 slashing
+Tentacles +5 1 piercing, instant grapple
+Tail +5 1d4 piercing, instant grapple
 
 #########################################################
 #  _____ _ _                                            #
@@ -1166,6 +1298,41 @@ Protective spines: As a reaction, the green slime may extend it's spines,
 forcing the attacker to succeed a DC 12 dex save or take 1d4 piercing damage.
 Spine Hail: Upon death, the slime fires it's spines. All creatures within 10ft
 must succeed a DC 12 dex save or take 1d4 piercing damage.
+
+Slime Brute
+A muscular humanoid creature with writhing tentacles coming out of it's left
+arm socket and a very muscular right arm.
+Large Slime
+HP: 24(6d6)
+AC: 11
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 10| 14| 10| 10| 10|
+Acid spray: All creatures in a 15ft cone must succeed a DC 12 DEX save to halve
+2d4 acid damage.
+Throw: May throw a grappled creature up to 15 feet as a bonus action.
+Multiattack:  May make a slam attack and a tentacles attack
+Slam +4 1d4+3 bludgeoning
+Tentacles +4 1d6+3 slashing, instant grapple
+
+Slime Behemoth
+A blob of green slime which has up to five pseudopods that come from nearby
+water sources. A tiny guppie-like fish swims around inside the slime.
+Large Slime
+HP: 50(12d6+2)
+AC: 11
+Speed: 25ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 10| 14| 10| 10| 10|
+Pseudopods: Up to five pseudopods appear from nearby water sources. The pods
+have 11AC, 8HP, and 30ft movement. They can grapple and drag a target. At the
+end of the behemoth's turn, all pseudopods regrow.
+Engulf: A pseudopod extends and grips the target, which must succeed a DC 14
+strength saving throw or be engulfed. Once engulfed, and on the end of each turn
+spent engulfed, the target must succeed a DC 12 CON save to halve 1d8 acid damage.
+Target may remake the strength save to escape.
+Nip +3 1 piercing
+
 
 #########################################################
 #                                                       #
@@ -1286,6 +1453,34 @@ must succeed a DC 14 STR save or drop their weapon.
 Scythe +6 2d6+2 magical slashing
 Life Drain(10ft) +6 1d8+2 necrotic. Heals damage dealt.
 
+Tower Shield Skeleton
+A skeleton with a big shield
+Medium Undead
+HP: 5(1d8)
+AC: 14
+Speed: 30
+Weak: bludgeoning
+Blindsight: 30ft
+Deploy Shield(Bonus action): Once hidden behind the shield, skeleton has +5 AC.
+Attacks that halve damage with a successful save are halved by default, dealing
+no damage on a successful save.
+Spear +4 1d6+2 piercing
+
+Slimy Skeleton
+A skeleton oozing green slime.
+Medium Undead
+HP: 3(1d4)
+AC: 8
+Speed: 30
+Weak: bludgeoning
+Acid Spray: One target within 15ft must succeed a DC 12 DEX save or take 1d6
+acid damage.
+Acidic touch: Grappling or being grappled forces a DC 12 CON save to avoid
+taking 1d4 acid damage. Check is remade at skeleton's turn until grapple is
+broken. Any humanoid killed by a slimy skeleton rises up as one on the next
+turn.
+Blindsight: 30ft
+
 Bone Heap
 Large Undead
 HP: 44 (4d20)
@@ -1300,12 +1495,13 @@ Pummel: Restrained target must succeed DC 14 DEX save to halve 4d4 bludgeoning d
 Breath Skull
 A floating skull wreathed in brightly colored dragon's breath.
 Tiny Undead
-HP: 30 (5d6+6)
+AC: 14
+HP: 9 (3d4)
 Speed: fly 15ft
 Element: The dragon's breath is either fire, lightning, acid, or poison.
 The breath skull is resistant to this type of damage, and it's breath attack
 deals this damage type.
-Dragon's Breath: 15ft cone DC 15 DEX save to halve 3d6(see element for type)
+Breath: 15ft cone DC 15 DEX save to halve 2d4(see element for type)
 
 Skelemancer
 A robed skeleton with a rusty, blood-crusted dagger
