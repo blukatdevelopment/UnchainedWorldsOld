@@ -32,20 +32,20 @@ Choose 2 from the following:
 - Scholar's Pack
 
 ```
-+-------+--------------------+----------+-------------------+-------+-------------+---------------------------+
-| Level | Minimum Experience | Hit Dice | Proficiency Bonus | Runes | Spell Level |         Features          |
-+-------+--------------------+----------+-------------------+-------+-------------+---------------------------+
-|     1 |                  0 | 1d4      | +1                |     0 |           1 | Runebook, Ritual Casting  |
-|     2 |                300 | 2d4      | +1                |     1 |           1 | Runesmithery, Runecasting |
-|     3 |                900 | 2d4      | +2                |     2 |           1 |                           |
-|     4 |               1200 | 3d4      | +2                |     4 |           2 | Runecasting Style         |
-|     5 |               2700 | 3d4      | +2                |     5 |           2 | Ability Score Increase    |
-|     6 |               5000 | 3d4      | +2                |     6 |           3 |                           |
-|     7 |               7500 | 3d4      | +3                |     8 |           3 | Runesmithing Technique    |
-|     8 |              10000 | 3d4      | +3                |     9 |           4 |                           |
-|     9 |              15000 | 3d4      | +4                |    10 |           4 | Runecasting Style         |
-|    10 |              20000 | 3d4      | +4                |    12 |           5 | Ability Score Increase    |
-+-------+--------------------+----------+-------------------+-------+-------------+---------------------------+
++-------+--------+----------+------------+-------+-------------+---------------------------+
+| Level | Min XP | Hit Dice | Prof Bonus | Runes | Spell Level |         Features          |
++-------+--------+----------+------------+-------+-------------+---------------------------+
+|     1 |      0 | 1d4      | +1         |     0 |           1 | Runebook, Ritual Casting  |
+|     2 |    300 | 2d4      | +1         |     1 |           1 | Runesmithery, Runecasting |
+|     3 |    900 | 2d4      | +2         |     2 |           1 |                           |
+|     4 |   1200 | 3d4      | +2         |     4 |           2 | Runecasting Style         |
+|     5 |   2700 | 3d4      | +2         |     5 |           2 | Ability Score Increase    |
+|     6 |   5000 | 3d4      | +2         |     6 |           3 |                           |
+|     7 |   7500 | 3d4      | +3         |     8 |           3 | Runesmithing Technique    |
+|     8 |  10000 | 3d4      | +3         |     9 |           4 |                           |
+|     9 |  15000 | 3d4      | +4         |    10 |           4 | Runecasting Style         |
+|    10 |  20000 | 3d4      | +4         |    12 |           5 | Ability Score Increase    |
++-------+--------+----------+------------+-------+-------------+---------------------------+
 ```
 
 ## Feataures
@@ -56,7 +56,7 @@ runesmith spell list and may add additional spells.
 
 #### Copying Spells
 You may copy spells from a spellbook or scroll if they are on the runesmith spell list. For every level
-of the spell you are copying, you require one hour of time and 10GP of paper, inks, and materials. WHen
+of the spell you are copying, you require one hour of time and 10GP of paper, inks, and materials. When
 you gain subsequent levels, you may learn one spell from the spell list at no cost.
 
 ### Runesmithery
