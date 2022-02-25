@@ -1160,16 +1160,6 @@ A tremor shakes the land within range. Creatures other than you in the area must
 ```
 
 ```
-Color Spray (1st)
-Casting Time: 1 action
-Range: self (15 foot cone)
-Components: V, S, M (a pinch of rainbow sand)
-Duration: 1 round
-Roll 6d10 to get your total. The DM starts with the lowest hit point conscious creature in range. If the creatures HP is equal or less than the total, subtract
-the HP from your total, apply the spell's effect, and move on to the next lowest. Any creature effected by this spell is blinded until the end of your next turn.
-```
-
-```
 Feather Fall (1st)
 Casting Time: 1 reaction, taken when you or a creature within 60ft falls.
 Range: 60ft
@@ -1216,6 +1206,18 @@ Each creature within a 15 foot cone must succeed a CON save to halve 2d8 cold
 damage. The effect freezes nonmagical liquids within range that aren't worn or 
 carried.
 ```
+
+```
+Burning Hands (1st)
+Casting Time: 1 action
+Range: self (15 foot cone)
+Components: V, S
+Duration: Instantaneous
+Each creature within a 15 foot cone must succeed a CON save to halve 3d6 fire 
+damage. The effect ignites flammable objects within range that aren't worn or 
+carried.
+```
+
 
 ```
 Grease (1st)
@@ -1716,6 +1718,39 @@ barrier with protective energy. Spirits that lack a corporeal form cannot pass
 through the barrier. A spirit inside the barrier cannot escape, and spirits
 outside cannot enter. If the oil or salt is wiped off to create a hole in the
 barrier, the magical barrier is destroyed.
+```
+
+```
+Aid (2nd)
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S, M(a tiny strip of white cloth)
+Duration: 8 hours
+Up to three creatures of your choice within range are bolstered with toughness
+and resolve. Their max hit points and current hit points increase by 5 for
+the duration.
+```
+
+```
+Blindness/Deafness (2nd)
+Casting Time: 1 action
+Range: 30 feet
+Components: V
+Duration: 1 minute
+One creature of your choice that you can see within range must succeed a CON
+save to avoid being either blinded or deafened(your choice) for the duration.
+At the end of each turn, the creature can repeat the CON save to end the effect.
+```
+
+```
+Continual Flame (2nd)
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M(Ruby dust worth 5gp)
+Duration: Until dispelled
+A heatless flame sprouts from an object you touch. It is the size and brightness
+of a torch, but does not consume oxygen. It can be hidden or covered, but not
+smothered or quenched. It remains until dispelled.
 ```
 
 ## 3rd level spells

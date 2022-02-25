@@ -37,13 +37,13 @@ Choose 2 from the following:
 +-------+--------+----------+------------+-------+-------------+---------------------------+
 |     1 |      0 | 1d4      | +1         |     0 |           1 | Runebook, Ritual Casting  |
 |     2 |    300 | 2d4      | +1         |     1 |           1 | Runesmithery, Runecasting |
-|     3 |    900 | 2d4      | +2         |     2 |           1 |                           |
+|     3 |    900 | 2d4      | +2         |     2 |           1 | Extra Cantrip             |
 |     4 |   1200 | 3d4      | +2         |     4 |           2 | Runecasting Style         |
 |     5 |   2700 | 3d4      | +2         |     5 |           2 | Ability Score Increase    |
 |     6 |   5000 | 3d4      | +2         |     6 |           3 |                           |
 |     7 |   7500 | 3d4      | +3         |     8 |           3 | Runesmithing Technique    |
 |     8 |  10000 | 3d4      | +3         |     9 |           4 |                           |
-|     9 |  15000 | 3d4      | +4         |    10 |           4 | Runecasting Style         |
+|     9 |  15000 | 3d4      | +4         |    10 |           4 | Extra Cantrip             |
 |    10 |  20000 | 3d4      | +4         |    12 |           5 | Ability Score Increase    |
 +-------+--------+----------+------------+-------+-------------+---------------------------+
 ```
@@ -51,7 +51,7 @@ Choose 2 from the following:
 ## Feataures
 
 ### Runebook
-You have a book of runes for your spells. You start with two cantrips and five 1st level spells from the
+You have a book of runes for your spells. You start with four cantrips and five 1st level spells from the
 runesmith spell list and may add additional spells.
 
 #### Copying Spells
@@ -62,10 +62,14 @@ you gain subsequent levels, you may learn one spell from the spell list at no co
 ### Runesmithery
 You've practiced with runes and can now carve them into flat stones during a partial or full rest. During a partial rest,
 you may inscribe stones with the runes of a particular spell. Each rune you carve requires 2 silver pieces
-worth of materials needed to make arcane ink. The number of runes you may have active across all your rune stones
-at any time can be found in the runes column for your level. A runestone containing a second level spell will
-require two runes, a third level spell will require three runes, and so on. A runestone with a single rune on it
-may contain four copies of the same cantrip spell.
+worth of materials needed to make arcane ink. The base number of runes you may have active across all your rune stones
+at any time can be found in the runes column for your level.
+
+#### Runesmithing 2nd level and higher spells
+Spells of higher levels require more more runes. Specifically, the spell level indicates how many runes are required to smith a runestone of that level. A 2nd level takes two runes, a 3rd takes 3, and so forth.
+
+#### Runesmithing Cantrips
+Cantrips are smaller spells, and you can fit 6 of them on a single runestone. When you expend a rune to smith a cantrip stone, you may mix and match any combination of 6 cantrips onto it. For instance, you may pick 6 copies of firebolt, or you may have three copies of firebolt and one copy each of minor illusion, minor conjuration, and mold earth.
 
 ### Ritual Casting
 Your knowledge of certain spells allows you to channel magic through their runes through ritual. You may cast any spell marked as
@@ -76,6 +80,9 @@ runes, nor any other magical resources, as the ritual itself powers the cast.
 When holding a rune stone in your hand, you may use an action to release the stored spell from the stone.
 Intelligence is your spellcasting abiility. The rune stone you cast with acts as a spell focus, and is 
 consumed after the spell is cast.
+
+### Extra Cantrip
+You learn one additional Cantrip from the runesmith spell list.
 
 ### Ability Score increase
 You may increase one ability score by 2, or you can increase two ability scores of your choice by 1.
@@ -96,12 +103,19 @@ runes equal to your intelligence modifier plus your proficiency bonus. Your
 runes now cost 5 silver to produce, instead of 2.
 
 #### Cantrip Savant
-You have learned to smith new cantrip runes that can be invoked endlessly.
-Such a rune requires 5 gold pieces to smith.
+You have learned to attune gems to your magical aura using a special gauntlet.
+The gauntlet requires 10GP of materials to produce, and has a slot for a gem on
+each finger and on your palm. Each gem must be worth at least 5gp in order for
+you to inscribe a cantrip onto it and insert it into the slot. Each cantrip on
+your gauntlet can be cast an unlimited number of times. The gauntlet holds up
+to six cantrips, and only works for your unqiue magical aura.
+
+### Extra Cantrip
+You learn one additional Cantrip from the runesmith spell list.
 
 #### Rune Artisan
 You have learned to smith advanced rune stones. Each time you carve runes onto a
-rune stone, you may carve an additional rune to smith an artisinal rune stone
+rune stone, you may expend an additional rune to smith an artisinal rune stone
 with one of the following properties:
 - Upcast - The spell is cast as if from two levels higher.
 - Blast - If the spell deals damage, you may reroll the the damage and choose the highest.
@@ -120,7 +134,8 @@ After you use this feature, you may not use it again until the runestone and
 it's duplicate have been cast.
 
 #### Glyph
-You may now draw glyphs, which can be drawn on any 10ft square surface and use
+You may now draw glyphs, which can be drawn on any 10ft square surface
+(which it exactly covers) and use
 5gp of alchemical ink. Drawing time is 10 minutes per spell level, ranging from
 10 minutes for a 1st level spell, to 1 hour for a 5th level spell. The runes
 spent to make a glyph do not count toward your total number of glyphs, and the
@@ -222,6 +237,7 @@ on itself.
 - Tunderwave [1]
 - Unseen Servant [1]
 - Witch Bolt [1]
+- Burning Hands [1]
 
 
 ### 2nd
