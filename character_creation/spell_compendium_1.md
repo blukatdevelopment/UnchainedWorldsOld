@@ -1729,6 +1729,9 @@ Duration: 8 hours
 Up to three creatures of your choice within range are bolstered with toughness
 and resolve. Their max hit points and current hit points increase by 5 for
 the duration.
+
+At higher levels: For every level past 2nd, the amount of hitpoints is increased
+by 5.
 ```
 
 ```
