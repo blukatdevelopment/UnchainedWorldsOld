@@ -73,7 +73,8 @@ Your spell attack modifier is proficiency bonus + wisdom modifier.
 
 #### Preparing Spells
 Before you sleep at night, you may perform a prayer to request a number of
-spells equal to your wisdom modifier. You may select these spells from the 
+spells equal to half your priest level (rounded down) plus your wisdom modifier, 
+minimum of one spell. You may select these spells from the 
 priest spell list, and they must be first level or higher. You may only cast
 spells that you have prepared.
 
