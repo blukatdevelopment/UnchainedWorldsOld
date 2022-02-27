@@ -261,6 +261,9 @@ on itself.
 - Channel The Dead [1]
 - Object of Desire [1]
 - Spirit Barrier [1]
+- Enhance Ability [1]
+- Gentle Repose [1]
+- Locate Object [1]
 
 ### 3rd
 - Cause Fear [1]

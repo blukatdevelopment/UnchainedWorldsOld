@@ -1756,6 +1756,115 @@ of a torch, but does not consume oxygen. It can be hidden or covered, but not
 smothered or quenched. It remains until dispelled.
 ```
 
+```
+Enhance Ability (2nd)
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M(fur or feather from beast)
+Duration: Concentration, up to 1 hour
+You magically augment one creature you touch. Choose an ability to augment. The target gains advantage on checks and saving throws with this ability, and one additional effect depending on that ability.
+- STR(Bull's strength) double carrying capacity
+- DEX(Cat's Grace) no fall damage from 20ft or less if conscious
+- CON(Bear's endurance) 2d6 temporary hit points for the duration
+- INT(Fox's Cunning) your eyes turn bright blue
+- WIS(Owl's Wisdom) you will occasionally make an owl sound when talking
+- CHA(Eagle's Splendor) you will gain an appetite for raw meat
+```
+
+```
+Find Traps (2nd)
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S, M(A holy symbol)
+Duration: Instantaneous
+You hold your holy symbol up. If there are any traps in range and in your line
+of sight, the symbol glows red. If there are none, the symbol glows blue.
+```
+
+```
+Gentle Repose (2nd)
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M(a copper piece placed on each of the target's eyes,
+which must remain)
+Duration: 10 days
+You place a copper piece on each of a corpse's eyes and place a ward of against 
+the effects of decay and undeath that lasts for the duration. They will neither 
+rot not be raised for the duration. If the target was qualified for resurrection
+before they were killed, they remain this way for the duration.
+```
+
+```
+Lesser Restoration (2nd)
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+You touch a creature and end one disease, corruption, or condition effecting it.
+The condition can be blinded, deafened, deafened, paralyzed, or poisoned.
+```
+
+```
+Locate Object (2nd)
+Casting Time: 1 action
+Range: Self
+Components: V, S, M(a small piece of metal such as a tuning fork or holy symbol)
+Duration: Concentration, up to 10 minutes
+You hold up your piece of metal and name or describe a particular object that
+you have seen in person, or a generic kind of item like a weapon, jewel, or 
+bead. So long as the object is within 1000 feet of you, your piece of metal 
+will begin pulsing. The pulsing quickens when aimed in the object's direction, 
+and will constantly vibrate when you are within 30ft of the item. The spell 
+cannot penetrate a barrier made of lead.
+```
+
+```
+Prayer of Healing (2nd)
+Casting Time: 10 minutes
+Range: 30 feet
+Components: V
+Duration: Instantaneous
+All creatures of your choice within range that you can see regain hit points 
+equal to 2d8 + your spellcasting modifier. Undead and constructs are unaffected 
+by this spell.
+```
+
+```
+Protection from Poison (2nd)
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: 1 hour
+You touch one willing creature. You neutralize any active poison in it's system 
+if it's poisoned. For the duration, the creature has advantage on saving throws 
+against being poisoned and has resistance against poison damage.
+```
+
+```
+Silence (2nd)
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Concentration, up to 10 minutes
+You create a 20 foot radius sphere centered on a point within range, and no 
+sound may exist within the sphere. All creatures within the sphere are 
+deafened, immune to thunder damage, and cannot cast spells with verbal 
+components.
+```
+
+```
+Warding Bond (2nd)
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M(a pair of rings worth at least 25GP that you and the target must wear for the duration)
+Duration: 1 hour
+While the target is within 30 feet of you, they gain a +1 bonus to AC and saving throws and resistance to all damage. Each time they take damage, you take the same amount of damage.
+
+If you drop to 0 hit points or if you and the target become separated by more
+than 60 feet, the spell ends. It additionally ends if the spell is cast again 
+on either of the connected creatures. The spell can be dismissed as an action.
+```
+
 ## 3rd level spells
 
 ```

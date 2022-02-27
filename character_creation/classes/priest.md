@@ -136,8 +136,7 @@ acts. Domain spells do not count against the number of spells you may prepare.
 
 ### Channel Divinity
 As the discipline in your domain grows solid, your deity offers up a domain-specific ability.
-After you use this ability, you must complete a partial or full rest before you can use it
-again. Channeling divinity takes an action.
+Using channel divinity uses an action and expends 2 hit dice.
 
 #### Holy Light (Light Domain)
 You outstretch your arms and a 60 foot diameter cylinder that extends from the 
@@ -181,7 +180,7 @@ range share this sight, and additionally gain advantage on any attack rolls
 they make. Each turn, you may use your action to continue chanting in order to
 extend this effect for up to 1 minute.
 
-#### Reap (Justice)
+#### Reap (Justice Domain)
 You use one hand to point at an evil creature within 60 feet, and hold your
 other hand in the air as you declare that the creature will be reaped in the
 name of your deity. A spectral scythe appears in your hand. You are proficient
@@ -241,6 +240,15 @@ creature.
 - Aid [1]
 - Blindness/Deafness [1]
 - Continual Flame [1]
+- Enhance Ability [1]
+- Find Traps [1]
+- Gentle Repose [1]
+- Lesser Restoration [1]
+- Locate Object [1]
+- Prayer of Healing [1]
+- Protection from Poison [1]
+- Silence [1]
+- Warding Bond [1]
 
 ### 3rd
 - Sacrifice [1]
