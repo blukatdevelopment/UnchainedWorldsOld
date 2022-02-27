@@ -80,6 +80,8 @@ runes, nor any other magical resources, as the ritual itself powers the cast.
 When holding a rune stone in your hand, you may use an action to release the stored spell from the stone.
 Intelligence is your spellcasting abiility. The rune stone you cast with acts as a spell focus, and is 
 consumed after the spell is cast.
+Your spell DC (difficulty class) is 8+proficiency bonus + intelligence modifier.
+Your spell attack modifier is proficiency bonus + intelligence modifier.
 
 ### Extra Cantrip
 You learn one additional Cantrip from the runesmith spell list.

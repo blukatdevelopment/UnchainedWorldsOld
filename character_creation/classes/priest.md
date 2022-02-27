@@ -55,6 +55,8 @@ Choose two from the following:
 ### Divine Spellcasting
 You've learned to call upon the power of a deity. Wisdom is your spellcasting
 ability. You learn two cantrips
+Your spell DC (difficulty class) is 8+proficiency bonus + wisdom modifier.
+Your spell attack modifier is proficiency bonus + wisdom modifier.
 
 ```
 +-------------+-------------+
