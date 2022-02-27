@@ -771,6 +771,23 @@ are up.
 Attacks:
 Pikes(10ft range): Enemy must make DC 13 DEX save to halve 8d10+8 piercing damage
 
+Iron Fang Clan Mercenary
+HP: 21(3d8+6)
+AC: 16(chainmail)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 12| 17| 12| 12| 12|
+Defensive Grapple: As a reaction whe targeted by a melee attack, mercenary may
+make a grapple check. On a success, the attack is wasted and the attacker is
+grappled.
+Pounce: when the Fang moves 20ft in a straight line before attacking with bite,
+they may attempt to either grapple or shove as part of the attack.
+Multiattack: May make two pike attacks
+Attacks:
+Bite +5, 1d6 piercing
+Pike +5 1d10+2 piercing
+Dagger +4 1d4+1 piercing
+
 #####################################
 #  _____       _ _   _     _        #
 # /  __ \     | | | (_)   | |       #
@@ -1100,6 +1117,21 @@ Attacks:
 Blow Dart +4 1 piercing, 1d10 poison
 
 
+Fae Guardian
+The fae choose their strongers to patrol and protect widerness from axe, pick,
+and plow. They often ride on the back of ferhorns.
+Small Humanoid
+HP: 9 (3d4)
+AC: 12 (Carapace)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+|  8| 12| 10| 12| 12| 16|
+Invisibility(1/day): Fae may become invisible for 1 hour, which drops if they
+lose concentration, cast a spell, or attack.
+Name magic: if a fae knows the name of a creature, they may learn the location
+of the creature. If they are given the name, the creature forgets their name
+and all other creatures lose their memories of the creature.
+Bubble Staff(60ft) +4 1d4 bludgeoning, pushes target 20ft
 
 #########################################################
 # ___  ___                _                 _ _         #
@@ -1225,6 +1257,30 @@ teleport to another point within 30ft.
 Claws +5 1d6+2 slashing
 Tentacles +5 1 piercing, instant grapple
 Tail +5 1d4 piercing, instant grapple
+
+Ferhorn
+A small-size horse with many traits of a housefly.
+Small Mount
+HP: 10 (2d8)
+AC: 12
+Speed: 30ft, 30ft spider climb, 60ft fly
+|STR|DEX|CON|INT|WIS|CHA|
+| 18| 14| 10|  3| 14|  3|
+Sturdy Exoskeleton: The Ferhorn can carry a creature one size larger than it
+through shear sturdiness.
+Acid Reflux: Target within 15ft must succeed a DEX save to halve 1d8 acid damage.
+
+Snarlbeak
+A bird with a toothy beak and a big, fluffy tail.
+Medium Monstrosity
+HP: 6 (1d4)
+AC: 13
+Speed: 15, 60ft fly
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 16| 10|  3| 14|  3|
+Flyby: Flying does not trigger opportunity attacks.
+Bite +4 1d4+2 piercing
+
 
 #########################################################
 #  _____ _ _                                            #
@@ -1512,6 +1568,23 @@ Speed: 30ft
 Raise(Recharge 3-6): Every bone pile and corpse within 15ft are raised as a
 skeleton or zombie, respectively. They each have 1d4 hit points.
 Letter +4 1d4+2 piercing, 1d6 necrotic
+
+Bone Gauntlet
+An armored skeleton wielding a morning star.
+Medium Undead
+HP: 27(3d8+12)
+AC: 18(rusty plate mail)
+Speed: 30ft
+Morning Star(10ft) +4 1d8+4 bludgeoning
+
+Vampire
+Given eternal youth and fortitude by the same curse that drains
+their humanity.
+Medium Undead
+HP: 24(3d6+3)
+AC: 12
+Speed: 30ft
+
 
 Bone Gauntlet
 An armored skeleton wielding a morning star.

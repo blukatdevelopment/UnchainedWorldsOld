@@ -27,7 +27,7 @@
 ```
 # Preface
 
-Oh, hey there! It's me, Blukat, your firendly neighborhood gamemaster. I just
+Oh, hey there! It's me, Blukat, your friendly neighborhood gamemaster. I just
 wanted to give a quick heads-up. My intent in writing a guide isn't to speak
 authoritatively and create a relationship with this game where players and GMs
 search for my social media activity to determine rulings. No, my goal is to
@@ -528,6 +528,8 @@ Note that you could run two clocks at once. Maybe you want to convince the
 NPC, but avoid annoying him.
 
 Also works well as a doomsday counter for event-based plot arcs.
+
+## Experience Points
 
 
 ## Side quests

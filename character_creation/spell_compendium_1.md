@@ -211,9 +211,9 @@ Range: Touch
 Components: S
 Duration: 1 minute
 You touch an object and create a point of light on it's surface that produces 
-bright light for 30 feet and dim light for another 30 feet. You may attempt
-to touch a creature's eyes by making a melee spell attack. On a hit, the target
-is blinded for the duration, after which the spell ends.
+bright light for 30 feet and dim light for another 30 feet. The target must make
+a DEX save against your spell DC in order to avoid being blinded for the
+duration, after which the spell ends.
 ```
 
 ```

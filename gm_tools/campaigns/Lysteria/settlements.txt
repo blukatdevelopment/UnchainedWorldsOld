@@ -467,7 +467,7 @@ Names:
 SIZE: Small City
 HEALTH: Healthy
 ECONOMY: Colonization
-GOVERNMENT: Hierarchy
+GOVERNMENT: Hierarchy (Grand Dutchess Viridian TrueMoon)
 Lineage: Human
 Streets:
 - Station Boulevard
@@ -620,7 +620,7 @@ Names:
 #---------------------------------#
 SIZE: Small City
 HEALTH: Flourishing
-ECONOMY: Slavery
+ECONOMY: Slavery (Industrial)
 GOVERNMENT: Militocracy
 Lineage: Kobolds
 Streets:
@@ -633,6 +633,7 @@ Locations:
 # Flair is Fair(Craft Store)
 # The Blessed Geyser(Temple of Letarr, God Of Animals)
 # The True Island(Temple of Ehena, Goddess Of Order)
+# Friedrick Estate
 # The Phoenix Hot Spring(Temple of Coenta, Goddess Of Life & Death)
 Names:
 - Sun(M, Kobold)
