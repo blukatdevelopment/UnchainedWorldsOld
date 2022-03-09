@@ -90,11 +90,13 @@ so.
 |            Good Acts              | Piety Gained |
 +-----------------------------------+--------------+
 | Lead Prayer(Short Rest)           | 1d100        |
+| Celebrate Holiday                 | 1d100        |
+| Bless newborn, wedding, funeral   | 2d100        |
 | Provide counsel(Roleplay it)      | 2d100        |
 | Honorable Act(Domain Specific)    | 1d2 * 100    |
 | Alms to the poor                  | 5d100        |
-| Convert believer                  | 1d10 * 100   |
-| Apprehend Criminal                | 1d10 * 100   |
+| Convert non-believer              | 1d10 * 100   |
+| Apprehend/dissuade Criminal       | 1d10 * 100   |
 | Sacrifice heart of large monster  | 1d4 * 1000   |
 | Save a life from immediate danger | 1d12 * 100   |
 | Cure the sick                     | 1d4 * 1000   |
@@ -125,7 +127,7 @@ acts. Domain spells do not count against the number of spells you may prepare.
 |  Domain   |     Honorable Act     |     Forbidden Act      |                Spells                  |
 +-----------+-----------------------+------------------------+----------------------------------------+
 | Light     | Lighting a new shrine | Leaving a shrine unlit | Light[1], Dazzling Light, Bend Light   |
-| Life      | Blessing a newborn    | Killing a humanoid     | Spare the dying[1], Mana, Revivify     |
+| Life      | Blessing a child      | Killing a humanoid     | Spare the dying[1], Mana, Revivify     |
 | Nature    | Planting a tree       | Cutting a tree         | Thornwhip[1], Vine Suit, lightning bolt|
 | Knowledge | Teaching someone      | Keeping a secret       | Eye stone[1], Identify, Mind Probe[1]  |
 |           | for an hour           |                        |                                        |
