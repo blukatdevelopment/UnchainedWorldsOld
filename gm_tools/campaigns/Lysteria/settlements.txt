@@ -958,6 +958,58 @@ Names:
 #---------------------------------#
 #   Sandfrost
 #---------------------------------#
+
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │                                                                         │
+  │                                                                         │
+  │                               A                                         │
+  │                                                                         │
+  │                     ┌──────┐  │  ┌─────┐                                │
+  │                     │  B   │  │  │  C  │         ┌────────────────┐     │
+  │                     │      │  │  │     │         │                │     │
+  │                     └──────┘  │  └─────┘         │                │     │
+  │                               │                  │                │     │
+  │                               │                  │                │     │
+  │                               │                  │     J          │     │
+  │                    ┌───────┐  │ ┌──────────┐     │                │     │
+  │                    │       │  │ │          │     │                │     │
+  │                    │    D  │  │ │      E   │     │                │     │
+  │                    │       │  │ │          │     │                │     │
+  │                    └───────┘  │ └──────────┘     └────────────────┘     │
+  │                               │                                         │
+  │                               │                                         │
+  │                 ┌─────────┐   │                                         │
+  │                 │         │   │   ┌────────┐                            │
+  │                 │  F      │   │   │        │                            │
+  │                 │         │   │   │   G    │                            │
+  │                 └─────────┘   │   │        │                            │
+  │                               │   └────────┘                            │
+  │                               │                                         │
+  │                ┌──────────┐   │  ┌─────────┐                            │
+  │                │          │   │  │         │                            │
+  │                │    H     │   │  │         │                            │
+  │                │          │   │  │    I    │                            │
+  │                └──────────┘   │  │         │                            │
+  │                               │  └─────────┘                            │
+  │                               │                                         │
+  │                          ┌────┴───┐                                     │
+  │                          │  K     │                                     │
+  │                          │        │                                     │
+  │                          └────────┘                                     │
+  │                                                                         │
+  └─────────────────────────────────────────────────────────────────────────┘
+A Feather Row 
+B Mayor Rauni's House
+C Anita Jussila's House
+D Sampsa's Wash 
+E Lyrical Owl
+F The Otreaceris
+G Orphanage
+H Naima's Thread
+I Nemesis Graveyard
+J Two Pines Farm
+K The Strumihaja
+
 The town only accepts company script, thirteen crowns of which are worth one
 copper.
 SIZE: Small Town
@@ -966,18 +1018,26 @@ ECONOMY: Livestock
 GOVERNMENT: Kleptocracy
 Lineage: Human
 Streets:
-- Campus Row
+- Feather Row
 Locations:
 # The Lyrical Owl Tavern(Tavern) "Ours has a pawn shop"
-The party can sell items. For every copper of worth, they'll buy valuable items
-for 5 crowns on the copper.
+The party can sell items. The pawn shop exchanges money and sells goods for
+crowns.
 
+# Sampsa's Wash
+A laundromat and bath house
 # Nemesis Graveyard(Graveyard)
+# Orphanage
 # Two Pines Ranch(Farm)
 # The Strumihaja(Temple of Gidur, God Of Hell)
-# The Otreaceris(Temple of Gegtix, Goddess Of Spring)
+The town was originally established by a cult of Gidur, but they were driven
+off and replaced by farmers.
+# The Otreaceris(Temple of Betix, Goddess Of Spring)
+# Naima's Thread
+A tailor that only makes chicken clothing
+
 Names:
-- Rauni Järveläinen(M, Human)
+- Rauni Järveläinen(M, Human) Mayor of town
 - Arto Paavola(M, Human) Owner of the Lyrical Tavern
 - Anttoni Pukki(M, Human)
 - Vihtori Hänninen(M, Human)
@@ -991,11 +1051,11 @@ Names:
 - Hely Heikkinen(F, Human)
 - Mira Paasio(F, Human)
 - Anelma Kari(F, Human)
-- Naima Rekola(F, Human)
+- Naima Rekola(F, Human) owner of Naima's Thread
 - Piia Vesa(F, Human)
 - Raita Jokelainen(F, Human)
 - Kyllikki Tuominen(F, Human)
-- Anita Jussila(F, Human)
+- Anita Jussila(F, Human) business owner
 - Eelin Janhunen(F, Human)
 
 #---------------------------------#
@@ -1362,7 +1422,7 @@ Names:
 SIZE: Village
 HEALTH: Failed
 ECONOMY: Government
-GOVERNMENT: Satrapy
+GOVERNMENT: Kingdom
 Lineage: Elf
 Locations:
 # The Jaded Barricade Tavern(Tavern)

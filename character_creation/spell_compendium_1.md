@@ -1392,6 +1392,17 @@ You fire a beam of crackling purple energy at a creature within range, forming
 an arc of lightning between yourself and the target. The attack deals 1d12 lightning damage on a hit, and you may use your action to deal 1d12 lightning damage again on subsequent turns. If you use your action for anything else, or the target enters full cover, the spell ends.
 ```
 
+```
+Diagnose Curse (1st, Ritual)
+Casting time: 1 minute
+Range: Touch
+Components: V, S, M (A leech, pickled, fresh, or dried)
+Duration: Instantaneous
+You touch one creature, object, or surface and immediately learn if about one
+curse affecting it. You learn what the curse is, what it's current effects are,
+and what will break the curse.
+```
+
 ## 2nd level spells
 
 ```

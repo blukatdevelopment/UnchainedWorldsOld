@@ -1584,7 +1584,8 @@ Medium Undead
 HP: 24(3d6+3)
 AC: 12
 Speed: 30ft
-
+Immune to nonmagical physical damage
+Longsword +5 1d8+2
 
 Bone Gauntlet
 An armored skeleton wielding a morning star.

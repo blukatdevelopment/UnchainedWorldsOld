@@ -224,6 +224,7 @@ creature.
 - Inflict Wounds [1]
 - Sanctuary [1]
 - Purify Drink or Food [1]
+- Diagnose Curse [1]
 
 ### 2nd
 - Insight Arrow [1]

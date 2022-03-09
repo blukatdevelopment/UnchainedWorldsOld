@@ -116,8 +116,8 @@ If a melee attack would hit by 2 or less, you may use your reaction to deflect
 the attack.
 
 ### Violent Grapple Break
-When a creature fails an attempted grapple on you, you may use your reaction to
-make an attack against them.
+When a creature fails an attempted grapple on you, you may make an attack
+against them.
 
 ### Zealous Strike
 When a creature enters your attack range, you may use your reaction to make an

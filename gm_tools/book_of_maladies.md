@@ -122,7 +122,27 @@ You gain the Lycanthrope Form feature from the lycanthrope class. If you receive
 |    2 | Wererat  |
 |    3 | Werebear |
 +------+----------+
+
++------+------------------------------------------------------------------------+
+| Roll |                                  Cure                                  |
++------+------------------------------------------------------------------------+
+|    1 | Say a quick prayer                                                     |
+|    2 | Wrap the wound in cabbage leaves for 1 day                             |
+|    3 | Breathe the fumes of 5gp worth of herbs and spices                     |
+|    4 | Bite the ear of a living wolf, bear, or giant rat                      |
+|    5 | Give the curse to someone else by biting them                          |
+|    6 | Gain the blessing of a lycanthrope                                     |
+|    7 | Kill the one that gave you the curse                                   |
+|    8 | Drink a vial of blood from the one that gave you the curse             |
+|    9 | Withstand one full moon without killing                                |
+|   10 | Feast on the flesh of your respective creature (bear, wolf, giant rat) |
++------+------------------------------------------------------------------------+
 ```
+
+#### Cures
+When someone diagnoses their malignant lycanthropy, roll on the following table
+for a cure for this particular case.
+
 
 ## Diseases
 When a character is created with a negative constitution modifier, it is often
