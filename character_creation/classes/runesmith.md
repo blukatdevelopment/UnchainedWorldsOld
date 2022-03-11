@@ -71,6 +71,8 @@ Spells of higher levels require more more runes. Specifically, the spell level i
 #### Runesmithing Cantrips
 Cantrips are smaller spells, and you can fit 6 of them on a single runestone. When you expend a rune to smith a cantrip stone, you may mix and match any combination of 6 cantrips onto it. For instance, you may pick 6 copies of firebolt, or you may have three copies of firebolt and one copy each of minor illusion, minor conjuration, and mold earth.
 
+![Cantrip Runestone](../../img/cantrip_runes.png?raw=true "Cantrip Runestone")
+
 ### Ritual Casting
 Your knowledge of certain spells allows you to channel magic through their runes through ritual. You may cast any spell marked as
 a ritual using ritual casting. When you do so, the spell's casting time increases by 10 minutes. Ritual casting does not consume
