@@ -64,6 +64,7 @@ You've practiced with runes and can now carve them into flat stones during a par
 you may inscribe stones with the runes of a particular spell. Each rune you carve requires 2 silver pieces
 worth of materials needed to make arcane ink. The base number of runes you may have active across all your rune stones
 at any time can be found in the runes column for your level.
+![Runestone](../../img/runestone.png?raw=true "Runestone")
 
 #### Runesmithing 2nd level and higher spells
 Spells of higher levels require more more runes. Specifically, the spell level indicates how many runes are required to smith a runestone of that level. A 2nd level takes two runes, a 3rd takes 3, and so forth.
