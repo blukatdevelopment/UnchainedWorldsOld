@@ -395,26 +395,275 @@ that cannot be dispelled. Roll for the effect.
 |   10 | Dryness(Exposed water disappears)          |
 +------+--------------------------------------------+
 ``` 
-### 91
-Your mouth becomes that of a leech's.
-### 92
-Your tongue becomes forked and triples in length. You can flick it to detect heat and gain blindsight in 10ft.
-### 93
-You transform into a medium-sized humanoid comprised entirely of writhing worms.
-### 94
-You grow gills behind your ears and can breathe under water.
-### 95
-Your throat inflates like that of a frog's, and you often accidentally croak while talking. 
-### 96
-Your eyes merge into a single large eye.
-### 97
-Your body disintigrates into a swarm of monarch butterflies that flies off to leave your posessions behind.
-### 98
-You transform into a medium size arthropod humanoid(mantis, crab, scorpion, Hornet, Spider, Grasshopper). Your AC cannot be lower than 16.
-### 99
-Your transform. You lose all traits from your lineage, and instead gain a random lineage.
-### 100
-You learn a random 1st level spell that you can cast by expending a hit die.
+
+### 91 Very Bad Transformation
+Roll a 1d3
+
+#### 1 Diminutive transformation
+You are permanently transformed into a random creature with an embarassingly
+miniscule creature with a short lifespan.
+
+```
++------+---------------+
+| Roll |   Creature    |
++------+---------------+
+|    1 | Earthworm     |
+|    2 | Leech         |
+|    3 | Bat           |
+|    4 | Mouse         |
+|    5 | Frog          |
+|    6 | Moth          |
+|    7 | Fish          |
+|    8 | Seahorse      |
+|    9 | Beetle        |
+|   10 | Ant           |
++------+---------------+
+```
+
+#### 2 Magic Item Transformation
+You are permanently transformed into a magic item. Those who succeed a DC 18
+perception check can see you in the reflection in the item. The item requires
+attunment, and those attuned may hear you telepathically.
+
+```
++------+--------------+
+| Roll |     Item     |
++------+--------------+
+|    1 | +1 Weapon    |
+|    2 | +2 Weapon    |
+|    3 | +3 Weapon    |
+|    4 | Magic Mirror |
+|    5 | +1 Armor     |
+|    6 | +2 Armor     |
+|    7 | +3 Armor     |
+|    8 | Instrument   |
++------+--------------+
+```
+
+#### 3 Fading Transformation
+You are permanently transformed into an entity that is particularly ephemeral.
+```
++------+---------------------------------------------------------------+
+| Roll |                             Item                              |
++------+---------------------------------------------------------------+
+|    1 | Lightning Bolt (Cast lightning bolt)                          |
+|    2 | small flame that burns for 1 minute                           |
+|    3 | swarm of flies                                                |
+|    4 | swarm of butterflies                                          |
+|    5 | cloud                                                         |
+|    6 | a blooming rose                                               |
++------+---------------------------------------------------------------+
+```
+
+### 92 Very Bad body mod
+
+#### 1 Heavy Stench
+You produce a magically enhanced odor that can be detected from 200 feet.
+
+#### 2 Amphibian Skin
+You develop soft, slick, mucus-covered skin that must be wetted with water each
+hour, or else you gain a level of exhaustion.
+
+#### 3 Cold blooded
+You lose the ability to regulate your body heat. No matter your clothing, you
+gain a level of exhaustion from each hour spent in extreme hot or cold.
+
+#### 4 Crystal Skin
+Your skin turns crystaline. If the surface of your skin touches an external 
+source of water other than your blood, it begins to degrade and you take 1d10 
+necrotic damage every 6 seconds you spend wet.
+
+#### 5 Slime skin
+Your body oozes slime from it's pores, which readily dissolve most fabrics and
+turn your body blue.
+
+#### 6 Evil Limb
+A random limb turns evil and tries to attack anyone that gets in range of it.
+
+#### 7 Outsider Vision
+Your eyes turn milky and you can no longer see on the material plane. Instead,
+you see another another random plane.
+
+```
++------+----------------+
+| Roll |     Plane      |
++------+----------------+
+|    1 | Celestia       |
+|    2 | Hell           |
+|    3 | Ethereal Plane |
+|    4 | Plane of Fire  |
++------+----------------+
+```
+
+#### 8 Empath's Vision
+Your eyes no longer see from your perspective. Instead, they see from the
+perspective of another random creature within 100ft of you. If there are no
+creatures in range, you are permanently blinded.
+
+#### 9 Sympathy
+You link with a random creature that you know within 100 feet. Each time the creature takes damage, you take that same amount of damage. If no one is within 
+range, you instead are vulnerable to all damage.
+
+#### 10 Soft Flesh
+Your base AC is now 5+DEX when you are not wearing armor.
+
+### 93 Can only heal when...
+You must meet this condition each time you heal. If it is an action you perform,
+you must perform it each time you heal.
+```
++------+--------------------------------+
+| Roll |           Condition            |
++------+--------------------------------+
+|    1 | eat humanoid brains            |
+|    2 | consume alcohol                |
+|    3 | smoke tobacco                  |
+|    4 | get permission from a stranger |
+|    5 | write your name in a book      |
+|    6 | are within 5ft of a humanoid   |
+|    7 | it is raining                  |
+|    8 | it is not raining              |
+|    9 | it is a full moon              |
+|   10 | you wrap your body in leaves   |
++------+--------------------------------+
+```
+### 94 Lose max HP
+Your maximum hit points reduce by a certain amount. If your maximum hit
+points are reduced to or below 0, you die.
+```
++------+-------------+
+| Roll | Max HP lost |
++------+-------------+
+|    1 | 4           |
+|    2 | 6           |
+|    3 | 8           |
+|    4 | 12          |
++------+-------------+
+```
+
+### 95 Ability Loss
+Your abilities are degraded.
+Roll 10 times for an ability, decreasing the rolled ability score by 1.
+
+```
++------+---------+
+| Roll | Ability |
++------+---------+
+|    1 | STR     |
+|    2 | DEX     |
+|    3 | CON     |
+|    4 | INT     |
+|    5 | WIS     |
+|    6 | CHA     |
++------+---------+
+```
+
+### 96 Sustained by...
+You are sustained by something new, and will perish if you do not get it.
+Roll for duration and the source of your sustenance.
+
+```
++------+----------+
+| Roll | Duration |
++------+----------+
+|    1 | Day      |
+|    2 | Week     |
+|    3 | Month    |
+|    4 | Year     |
++------+----------+
+```
+
+```
++------+-----------------------------------+
+| Roll |            Sustenance             |
++------+-----------------------------------+
+|    1 | killing a tree                    |
+|    2 | murder                            |
+|    3 | consuming humanoid brain          |
+|    4 | drinking humanoid blood           |
+|    5 | consuming humanoid flesh          |
+|    6 | wine                              |
+|    7 | bathing with soap                 |
+|    8 | laughing at misfortunes of others |
++------+-----------------------------------+
+```
+### 97 Can no longer take bonus actions
+You may no longer take bonus actions on your turn. All bonus action abilities
+now require a full action.
+
+### 98 Evil Transformation
+You transform into an evil creature, losing control of your character, which
+now becomes an evil NPC.
+
+```
++------+-------------------------------------------+
+| Roll |               Evil Creature               |
++------+-------------------------------------------+
+|    1 | Doppelganger (50% chance nothing happens) |
+|    2 | Black Dragon                              |
+|    3 | Undead                                    |
+|    4 | Aberration                                |
+|    5 | Demon Lord                                |
+|    6 | Powerful Devil                            |
++------+-------------------------------------------+
+```
+
+### 99 Instant Death
+Your life immediately ends in a horrific way.
+
+```
++------+-----------------------------------------------------+
+| Roll |                    Instant Death                    |
++------+-----------------------------------------------------+
+|    1 | Skin melts off                                      |
+|    2 | only your skeleton doubles in size                  |
+|    3 | explode into confetti                               |
+|    4 | disintegrate into dust                              |
+|    5 | bleed out from every orifice                        |
+|    6 | gory explosion harmless to others                   |
+|    7 | limbs and head fall off                             |
+|    8 | internal organs become animated and leave your body |
+|    9 | soul is consumed, leaving an unconscious husk       |
+|   10 | immolation                                          |
++------+-----------------------------------------------------+
+```
+
+### 100 Instant Catastrophic Death
+Roll for a random, catastrophic instant death.
+
+#### 1 Head Explode
+Your head explodes. Fireball is cast centered inside your head.
+
+#### 2 Hornets
+Your entire biomass is converted into angry hornets that sting everyone within
+60 feet for 1 minute, dealing 3d6 poison damage each turn spent in range.
+
+#### 3 Void
+You create a tear in the fabric of space inside your head. Everyone within 100 
+feet must succeed a DC 16 STR save to hold onto a sturdy object or be pulled 20
+feet towards the void. The void lasts a minute, and getting pulled into it is 
+instant death.
+
+#### 4 Time Travel
+You and up to 2 creatures within 15 feet travel to the conditions just before 
+the universe was formed. Your death during the big bang frees your soul, which 
+becomes part of the seed that created the gods.
+
+#### 5 Nuclear reaction
+Everything within a 1 mile radius is vaporised as a mushroom cloud rises up and
+the land in the radius is tainted with radiant energy, dealing 1d4 radiant
+damage to any creature that stays in the land for 1 minute.
+
+#### 6 Acid Explosion
+You explode and spray acid in a 30ft radius. All creatures must succeed a DC 15
+DEX save to halve 4d6 acid damage.
+
+#### 7 Ice Storm
+Everything within a 1 mile radius is frozen solid, and a blizzard rages until
+someone destroys your icy heart.
+
+#### 8 Tree of life
+A tree sprouts from you and rises until it extends 1 mile into the air, it's roots expanding into vast networks underground. If you are inside a structure,
+it collapses and every creature inside takes 10d8 bludgeoning damage.
 
 ## Curses
 
