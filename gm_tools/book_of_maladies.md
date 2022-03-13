@@ -162,28 +162,239 @@ You gain a level of exhaustion if you don't eat humanoid flesh each day, but eat
 An ancient one whispers into your mind, luring you to perform acts of evil.
 ### 79
 You grow a set of whiskers.
-### 80
-A set of animal ears grows on your head.
-### 81
-You grow an animal tail.
-### 82
-You grow a spade tail.
-### 83
-Your skin turns leathery and changes to a random color (red, blue, green, gold).
-### 84
-You shrink and you are now one size smaller.
-### 85
-Squid-like tentacles hang from your mouth like a beard.
-### 86
-An extra mouth appears on a random body part (face, chest, back, arm, leg, palm)
-### 87
-You grow a fuzzy tail that terminates with the head of a rabbit.
-### 88
-You transform into a large worm and may only communicate telepathically.
-### 89
-You transform into a random animal whenever you make physical contact with another humanoid. (Dog, Pig, Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Goat, Monkey, Rooster, Cat)
-### 90
-Your mouth constantly drools. 
+### 80 Bad Transformation
+Roll a 1d3 for which kind of bad transformation you get.
+
+#### 1 Zodiac Animal
+Roll for an animal. Any time you directly touch another creature, you turn into 
+this animal for 1d4 hours.
+```
++------+---------+
+| Roll | Animal  |
++------+---------+
+|    1 | Rat     |
+|    2 | Ox      |
+|    3 | Tiger   |
+|    4 | Rabbit  |
+|    5 | Dragon  |
+|    6 | Snake   |
+|    7 | Horse   |
+|    8 | Goat    |
+|    9 | Monkey  |
+|   10 | Rooster |
+|   11 | Dog     |
+|   12 | Pig     |
++------+---------+
+```
+
+#### 2 Abomination
+Roll for a form. When transformed, your clothes rip, your movement speed reduces
+to 15ft, you cannot hold items, and your AC is reduced to 8.
+
+```
++------+-------------------------------------------------------------+
+| Roll |                            Form                             |
++------+-------------------------------------------------------------+
+|    1 | Ball of black tentacles.                                    |
+|    2 | Ball of eyes and wings.                                     |
+|    3 | Ball of tongues that can taste everything it touches        |
+|    4 | Gibbering blob of constantly babbling mouths.               |
++------+-------------------------------------------------------------+
+```
+
+Roll for a trigger, which causes the transformation for 1d4 hours.
+
+```
++------+--------------------------------------------+
+| Roll |                  Trigger                   |
++------+--------------------------------------------+
+|    1 | Falling below half hit points              |
+|    2 | Watching a friendly creature die           |
+|    3 | Looking at celestial, demon, or aberration |
+|    4 | Gaining a level of exhaustion              |
++------+--------------------------------------------+
+```
+#### 3 Turned Beast
+All your lineage features are lost. Your size is small, and you lose your
+opposable thumbs. One-handed items require both your hands, and you can no
+longer manipulate two-handed items. You can alternate between standing upright 
+and walking on all fours with a movement speed of 15ft. You are clumsy in this
+form and make acrobatics and athletics checks with disadvantage.
+
+```
++------+-----------+
+| Roll |  Animal   |
++------+-----------+
+|    1 | Beaver    |
+|    2 | Fox       |
+|    3 | Red Panda |
+|    4 | Axolotl   |
+|    5 | Armadillo |
+|    6 | Porcupine |
+|    7 | Toad      |
+|    8 | Skunk     |
+|    9 | Possum    |
+|   10 | Mouse     |
+|   11 | Raccoon   |
+|   12 | Cat       |
+|   13 | Bunny     |
+|   14 | Chipmunk  |
+|   15 | Mole      |
+|   16 | Weasel    |
+|   17 | Wombat    |
+|   18 | Kiwi bird |
+|   19 | Lizard    |
+|   20 | Turtle    |
++------+-----------+
+```
+
+
+### 81 Bad body mod
+Roll 1d10 for a bad body mod.
+
+#### 1 Daylight sensitivity
+Disadvantage on skill checks and attack rolls in daylight.
+#### 2 Short Legs
+ -5 to your movement speed.
+#### 3 Short Arms
+Disadvantage on using weapons with two hands.
+#### 4 Snake Tail
+Your legs are gone, and your body instead terminates with a 5ft snake tail.
+-5 to your movement speed.
+#### 5 Perpetually Sweaty Hands
+Disadvantage on checks that require a firm grip.
+#### 6 Incurable Drip Rot
+You take 1d4 necrotic damage for each hour spent wet.
+#### 7 Shrunken Lungs
+After moving more than half your speed, you must succeed a DC 12 CON save or
+your movement is reduced to 0 for your next turn as you gasp for breath.
+#### 8 Painful Boils
+When grappled or knocked prone, you take 1d6 necrotic damage as your boils
+burst.
+#### 9 Mole Sight
+You have disadvantage on attacks and perception checks past a 20ft range.
+#### 10 Bleat Faints
+You must succeed a DC 18 CON save to avoid bleating loudly and falling
+unconscious for 6 seconds when startled.
+
+
+### 82 Bane
+You suffer a 1d4 penalty to attack rolls. You may remove this effect temporary.
+Roll for your treatment.
+
+```
++------+---------------------------------------+
+| Roll |               Treatment               |
++------+---------------------------------------+
+|    1 | Eating a hard candy(Lasts for 1 hour) |
+|    2 | Being intoxicated                     |
+|    3 | Taking damage. (Lasts for 8 hours)    |
+|    4 | Being hugged (Lasts for 1 minute)     |
++------+---------------------------------------+
+```
+
+### 83 Lose a random feat
+Roll for a random feat on your list. If you choose spellcasting, maneuvers, or 
+another feat that represents a collection of feats, roll for which specific feat 
+is lost. 
+
+### 84 Lose a proficiency
+Number out your skill, tool, and language proficiencies. Roll to see which one
+you lose.
+
+### 85 Double exhaustion
+Whenever you would normally take one level of exhaustion, you instead take two.
+
+### 86 Can only sleep when...
+Your sleep is harder to achieve. Roll for the condition that must be met for
+you to experience a partial or full rest.
+
+```
++------+--------------------------------+
+| Roll |           Condition            |
++------+--------------------------------+
+|    1 | Drinking Warm milk             |
+|    2 | Wearing pajamas                |
+|    3 | Being tucked in                |
+|    4 | Being told a bedtime story     |
+|    5 | Holding a stuffed animal       |
+|    6 | Drinking a warm glass of blood |
+|    7 | Eating a fresh spider          |
+|    8 | Eating hair                    |
++------+--------------------------------+
+```
+
+### 87 Damage Vulnerability
+Roll a random damage type.
+If you had immunity to this damage type, you now have resistance. If you had
+resistance to it, you now lack resistance to it. If you had neither, you now
+are vulnerable to this damage type.
+
+```
++------+-------------+
+| Roll |  Condition  |
++------+-------------+
+|    1 | acid        |
+|    2 | bludgeoning |
+|    3 | cold        |
+|    4 | fire        |
+|    5 | lightning   |
+|    6 | necrotic    |
+|    7 | piercing    |
+|    8 | poison      |
+|    9 | psychic     |
+|   10 | radiant     |
+|   11 | slashing    |
+|   12 | thunder     |
++------+-------------+
+```
+
+### 88 Reduce mobility
+Roll a 1d6 to determine your mobility penalty.
+```
++------+-----------------------------------------+
+| Roll |            Movement Penalty             |
++------+-----------------------------------------+
+|    1 | Cannot Dash                             |
+|    2 | Dash takes both bonus action and action |
+|    3 | Cannot disengage                        |
+|    4 | -5ft speed                              |
+|    5 | -10ft speed                             |
+|    6 | -15ft speed                             |
++------+-----------------------------------------+
+```
+
+### 89 Start Cataclysm
+```
++------+-------------------------------+
+| Roll |           Cataclysm           |
++------+-------------------------------+
+|    1 | Awaken sleeping dragon        |
+|    2 | Open a Hell Gate              |
+|    3 | Corrupting meteorite shower   |
+|    4 | Total Darkness for 1d6+1 days |
++------+-------------------------------+
+```
+### 90 Create Field
+In a 1 mile radius sphere, you create a field with a permanent magical effect 
+that cannot be dispelled. Roll for the effect.
+
+```
++------+--------------------------------------------+
+| Roll |                   Effect                   |
++------+--------------------------------------------+
+|    1 | Anti-Magic                                 |
+|    2 | Wild Magic (Corruption on nat 1)           |
+|    3 | Amplified Magic(All spell damage crits)    |
+|    4 | Corruption(Corruption per 8 hour exposure) |
+|    5 | Darkness                                   |
+|    6 | Light                                      |
+|    7 | Cold                                       |
+|    8 | Heat                                       |
+|    9 | Rain                                       |
+|   10 | Dryness(Exposed water disappears)          |
++------+--------------------------------------------+
+``` 
 ### 91
 Your mouth becomes that of a leech's.
 ### 92
