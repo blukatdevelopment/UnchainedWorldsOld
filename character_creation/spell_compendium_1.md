@@ -497,6 +497,18 @@ You speak a word which burns bright with radiant power. Each creature of your
 choice within range must succeed a CON save or take 1d6 radiant damage.
 ```
 
+```
+Sanguine Sight (Cantrip)
+Casting time: 1 Bonus Action
+Range: Self
+Components: S
+Duration: Concentration, 1 minute
+You can see the auraus of any living creature which contains blood within 120
+feet of you and can see them through up to three feet of stone, one foot of
+iron, or one inch of lead. Any blood that has been spilled by a creature that
+is still alive will also be visible this way for the duration.
+```
+
 ## 1st level spells
 
 ```
@@ -1403,6 +1415,81 @@ curse affecting it. You learn what the curse is, what it's current effects are,
 and what will break the curse.
 ```
 
+```
+Hellish Rebuke (1st)
+Casting time: 1 reaction, when you receive damage from an attack
+Range: 60ft
+Components: V
+Duration: Instantaneous
+You call out a short phrase of rebuke against one creature within range that
+has attacked you and spit a ball of flame at them. They must succeed a dEX 
+saving throw to avoid taking 2d10 fire damage.
+```
+
+```
+Blood Respite (1st)
+Casting time: 1 bonus action 
+Range: Touch
+Components: S
+Duration: Instantaneous
+You touch one creature and grant them 1d8 temporary hit points.
+```
+
+```
+Softening Hex (1st)
+Casting time: 1 bonus action 
+Range: 90 feet
+Components: V, S, M(a newt, fresh or dried)
+Duration: Concentration, up to 1 hour
+You target one creature in range that you can see, and until the spell ends your
+attacks against them deal an additional 1d6 necrotic damage. You may use your 
+bonus action to transfer targets when your current target drops to 0 hit points.
+```
+
+```
+Weakening Hex (1st)
+Casting time: 1 bonus action 
+Range: 90 feet
+Components: V, S, M(a newt, fresh or dried)
+Duration: Concentration, up to 1 hour
+You target one creature in range that you can see, and select one ability. When
+the creature makes an ability check, skill check, or saving throw with the 
+selected ability, they have disadvantage and receive 1d10 necrotic damage. Each 
+time they take damage from this spell, they may make a WIS saving throw to end
+the spell.
+```
+
+```
+Ice Armor (1st)
+Casting time: 1 action 
+Range: self
+Components: V, S, M(a cup of water)
+Duration: 1 hour
+You pour water over yourself and it forms around you into shards of magical ice 
+armor. You gain 5 temporary hit points. While your armor is still intact and
+you have remaining temporary hit points, you are protected by a magical ward.
+Any creature that attacks you with a melee attack receives 5 cold damage.
+
+At Higher Levels: When you cast this spell as a second or higher level spell,
+both the temporary hit points and cold damage increase by 5.
+```
+
+```
+Arms of the void (1st)
+Casting time: 1 action 
+Range: self
+Components: V, S
+Duration: 1 hour
+You touch your index finger to your thumb and open a rift to a void dimension
+within the space. Black tendrils emerge from the rift and lash out at all 
+creatures within 10 feet of you. Each effected creature must succeed a STR save
+to halve 2d6 necrotic damage and avoid losing all reactions until their next
+turn.
+
+At Higher Levels: When cast as a 2nd or higher level spell, the damage
+increases by 1d6 for each level above 1st.
+```
+
 ## 2nd level spells
 
 ```
@@ -1561,6 +1648,51 @@ succeed on a strength saving throw or become restrained. They may repeat the
 saving throw before each of their following turns. If the web is lit on fire, 
 it will burn rapidly, dealing 1d10 fire damage to creatures within its space.
 ```
+
+```
+Spider Climb (2nd level)
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M(a spider)
+Duration: 1 hour
+You touch one creature, and until the spell ends they gain the ability 
+to move up, down, and across vertical surfaces anbd upside down along 
+ceilings, while leaving it's hands free. The creature also gains a 
+climbing speed equal to it's walking speed.
+```
+
+```
+Darkness (2nd level)
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M(bat fur and a piece of coal)
+Duration: Concentration, up to 10 minutes
+Magical darkness spreads from a point of your choosing within range. 
+It fills a 15-foot radius sphere while the spell lasts. Light cannot 
+pass through the darkness to aid in sight. You may center the spell on 
+an object you are holding, or that is not being held or worn. If any 
+of the area collides with the area of magical light from a 2nd or 
+higher level spell, this spell ends.
+```
+
+```
+Invisibility (2nd level)
+Casting Time: 1 action
+Range: touch
+Components: V, S, M(eyelash encased in resin)
+Duration: Concentration, up to 1 hour
+You touch a creature and they become invisible until the spell ends. They and anything they are wearing or carrying becomes invisible as long as it is on the target's person. The spell ends if the target casts a spell or makes an attack.
+```
+
+```
+Invisibility (2nd level)
+Casting Time: 1 action
+Range: touch
+Components: V, S, M(eyelash encased in resin)
+Duration: Concentration, up to 1 hour
+You touch a creature and they become invisible until the spell ends. They and anything they are wearing or carrying becomes invisible as long as it is on the target's person. The spell ends if the target casts a spell or makes an attack.
+```
+
 
 ```
 Suggestion (2nd)
@@ -1876,6 +2008,17 @@ than 60 feet, the spell ends. It additionally ends if the spell is cast again
 on either of the connected creatures. The spell can be dismissed as an action.
 ```
 
+```
+Hasty Hex (2nd)
+Casting time: 1 bonus action 
+Range: 90 feet
+Components: V, S, M(a newt, fresh or dried)
+Duration: Concentration, up to 1 hour
+You target one creature in range that you can see. If the creature falls to 0
+hit points while this spell is active, you may move up to your movement speed,
+perform one action, and transfer the spell to a new suitable target.
+```
+
 ## 3rd level spells
 
 ```
@@ -2164,6 +2307,20 @@ Make a melee spell attack against one creature. If you hit, the creature must
 spend an action each turn to make a constitution saving throw. If they succeed
 three times, they resist petrification. If they fail three times, or use their
 action for anything other than resisting the petrification, they are petrified.
+```
+
+```
+Vitality Drain (2nd)
+Casting time: 1 action
+Range: Self
+Components: S, M(a blade)
+Duration: Concentration, 1 minute
+As part of casting this spell, you attack a creature with the blade. If the
+attack hits, the attack deals an additional 1d8 necrotic damage and the blade
+begins syphoning. You restore half of the necrotic damage dealt, rounded up.
+For the duration while you are within 60ft of the target, you may use your
+action to deal 1d8 more necrotic damage and restore half of that damage, rounded
+up.
 ```
 
 ## 4th level spells

@@ -225,6 +225,11 @@ You pay 10GP to keep your bills paid and provide for travel expenses, then help
 someone accomplish their downtime. That someone may make one roll with advantage
 , and may benefit from spells you cast.
 
+
+### Learn Goblin from Ash
+You pay 10GP to learn Goblin from Ash. You make a DC 12 investigation check.
+If you succeed twice cumulatively, you learn the goblin language.
+
 ### Buy a magic item (requires magic item shop 3 upgrade)
 Using 10GP to cover the bills and travel expenses, you follow some leads that
 the magic shop owner offers you on finding magic items.

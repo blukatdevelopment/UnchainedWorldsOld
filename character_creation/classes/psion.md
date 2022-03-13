@@ -36,20 +36,20 @@ Choose two from the following:
 - Peasant's Pack
 
 ```
-+-------+--------------------+----------+-------------------+-------------+-------------+------------------------------+
-| Level | Minimum Experience | Hit Dice | Proficiency Bonus | Psionic Die | Spell Level |           Features           |
-+-------+--------------------+----------+-------------------+-------------+-------------+------------------------------+
-|     1 |                  0 | 1d4      | +1                | --          |           0 | Invisible Hand, Silent Voice |
-|     2 |                300 | 2d4      | +1                | D2          |           1 | Psionic Guidance             |
-|     3 |                900 | 2d4      | +2                | D4          |           1 | Psionic Spellcasting         |
-|     4 |               1200 | 3d4      | +2                | D4          |           1 | Psionic Ability              |
-|     5 |               2700 | 3d4      | +2                | D6          |           2 | Ability Score Increase       |
-|     6 |               5000 | 3d4      | +2                | D6          |           2 | Psionic Ability              |
-|     7 |               7500 | 3d4      | +3                | D6          |           3 |                              |
-|     8 |              10000 | 3d4      | +3                | D6          |           3 | Psionic Ability              |
-|     9 |              15000 | 3d4      | +4                | D8          |           4 |                              |
-|    10 |              20000 | 3d4      | +4                | D8          |           4 | Ability Score Increase       |
-+-------+--------------------+----------+-------------------+-------------+-------------+------------------------------+
++-------+-------+----------+------------+-------------+-------------+------------------------------+
+| Level | Min XP| Hit Dice | Prof Bonus | Psionic Die | Spell Level |           Features           |
++-------+-------+----------+------------+-------------+-------------+------------------------------+
+|     1 |     0 | 1d4      | +1         | --          |           0 | Invisible Hand, Silent Voice |
+|     2 |   300 | 2d4      | +1         | D2          |           1 | Psionic Guidance             |
+|     3 |   900 | 2d4      | +2         | D4          |           1 | Psionic Spellcasting         |
+|     4 |  1200 | 3d4      | +2         | D4          |           1 | Psionic Ability              |
+|     5 |  2700 | 3d4      | +2         | D6          |           2 | Ability Score Increase       |
+|     6 |  5000 | 3d4      | +2         | D6          |           2 | Psionic Ability              |
+|     7 |  7500 | 3d4      | +3         | D6          |           3 |                              |
+|     8 | 10000 | 3d4      | +3         | D6          |           3 | Psionic Ability              |
+|     9 | 15000 | 3d4      | +4         | D8          |           4 |                              |
+|    10 | 20000 | 3d4      | +4         | D8          |           4 | Ability Score Increase       |
++-------+-------+----------+------------+-------------+-------------+------------------------------+
 ```
 
 ## Features

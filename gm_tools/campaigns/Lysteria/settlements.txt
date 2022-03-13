@@ -78,7 +78,7 @@ Locations:
 # From the Art(Craft Store)
 # Stitch Itch(Craft Store)
 # The Amethyst(Casino)
-# Sanctum Of Eternity(Temple of Megyn, Goddess Of Light)
+# Sanctum Of Eternity(Temple of Megyn, Goddess Of Twilight)
 # Monastery Of The Afterlife(Temple of Coenta, Goddess Of Life & Death)
 # House Of Meditation(Temple of Wistus, God Of Blacksmiths)
 # Church Of Udtos(Temple of Dhyarus, God Of Tranquillity)
@@ -192,7 +192,7 @@ Locations:
 # Guardian General Hospital(Hospital)
 # Snowflake Cemetery(Graveyard)
 # Needle in a Haystack(Craft Store)
-# Pagoda Of Revelations(Temple of Megyn, Goddess Of Light)
+# Pagoda Of Revelations(Temple of Megyn, Goddess Of Twilight)
 # Monastery Of Quietude(Temple of Nara, Goddess Of Misfortune)
 # Pantheon Of The Sea(Temple of Adia, Goddess Of Rain)
 # Pantheon Of Bethar(Temple of Uaos, God Of Hunting)
@@ -297,7 +297,7 @@ Locations:
 # The Vreahunova(Temple of Zerreus, God Of The Ocean)
 # The Evreahava(Temple of Nara, Goddess Of Misfortune)
 # Cathedral Of Truth(Temple of Gegtix, Goddess Of Spring)
-# Pantheon Of Friendship(Temple of Megyn, Goddess Of Light)
+# Pantheon Of Friendship(Temple of Megyn, Goddess Of Twilight)
 Names:
 - Conaire Mac Braonáin(M, Human)
 - Imchad Ó Madáin(M, Human)
@@ -348,7 +348,7 @@ Locations:
 # Shrine Of Exploration(Temple of Letarr, God Of Animals)
 # Pantheon Of Yhmos(Temple of Yrmir, God Of The Mountains)
 # Temple Of Kuldohr(Temple of Domdall, God Of Youth)
-# The Patriarch Oak(Temple of Bimros, God Of The Military)
+# The Patriarch Oak(Temple of Bimros, God Of War)
 Names:
 - Tragolor(M, Fae)
 - Aepetor(M, Fae)
@@ -437,7 +437,7 @@ Locations:
 # Soulriver Catacombs(Graveyard)
 # Red Pine Vineyard(Farm)
 # Sanctum Of Reliance(Temple of Ehena, Goddess Of Order)
-# Temple Of The Prophet(Temple of Megyn, Goddess Of Light)
+# Temple Of The Prophet(Temple of Megyn, Goddess Of Twilight)
 # Mosque Of Demise(Temple of Wistus, God Of Blacksmiths)
 Names:
 - Behumud(M, Devil)
@@ -550,7 +550,7 @@ Locations:
 # The Dazzling Rock Pub(Tavern)
 # Moonlight Cemetery(Graveyard)
 # The Haekrahaya(Temple of Nara, Goddess Of Misfortune)
-# Church Of The Future(Temple of Megyn, Goddess Of Light)
+# Church Of The Future(Temple of Megyn, Goddess Of Twilight)
 # Mosque Of Answers(Temple of Tadis, God Of Thunder)
 Names:
 - Ishmid-Ili(M, Rabbitfolk)
@@ -754,7 +754,7 @@ Locations:
 # Grand Monastery Library(Library)
 # Burning Soul Necropolis(Graveyard)
 # The Flair Bear(Craft Store)
-# Cathedral Of Xucdarr(Temple of Bimros, God Of The Military)
+# Cathedral Of Xucdarr(Temple of Bimros, God Of The War)
 # The Azure Totem(Temple of Guvtune, Goddess Of Funerals)
 # The Golden Creek(Temple of Zerreus, God Of The Ocean)
 Names:
@@ -931,7 +931,7 @@ Streets:
 Locations:
 # The Real Crocodile(Tavern)
 # Juniper Gardens Burial Grounds(Graveyard)
-# The Sanctified Peak(Temple of Ghavulla, Goddess Of Knowledge)
+# The Sanctified Peak(Temple of Ghavulla, Goddess Of Numbers)
 # The Azure Enclave(Temple of Krixthys, Goddess Of Revenge)
 Names:
 - Fynn Goldwasser(M, Giant Insect)
@@ -1032,7 +1032,7 @@ A laundromat and bath house
 # The Strumihaja(Temple of Gidur, God Of Hell)
 The town was originally established by a cult of Gidur, but they were driven
 off and replaced by farmers.
-# The Otreaceris(Temple of Betix, Goddess Of Spring)
+# The Otreaceris(Temple of Betix, Goddess Of Winter)
 # Naima's Thread
 A tailor that only makes chicken clothing
 
@@ -1071,7 +1071,7 @@ Streets:
 Locations:
 # The Old Melons Inn
 # Bleak Mountain Mortuary(Graveyard)
-# Pagoda Of The Light(Temple of Ghavulla, Goddess Of Knowledge)
+# Pagoda Of The Light(Temple of Ghavulla, Goddess Of Numbers)
 # Pantheon Of Revival(Temple of Xikmir, God Of Luck)
 Names:
 - Skortaj(M, Giant)
@@ -1183,8 +1183,8 @@ Streets:
 Locations:
 # The False Cabbage(Tavern)
 # Skeletalview Crypts(Graveyard)
-# The Revered Lake(Temple of Shaesis, God Of Conquest)
-# The Exalted Yew(Temple of Ghavulla, Goddess Of Knowledge)
+# The Revered Lake(Temple of Shaesis, God Of Swords)
+# The Exalted Yew(Temple of Ghavulla, Goddess Of Numbers)
 Names:
 - Orivia Dreamhauler Veomigano(F, Goliath)
 - Orithu Rockaid Vuma-Thathai(F, Goliath)
@@ -1224,7 +1224,7 @@ Locations:
 # Serenity Cemetery(Graveyard)
 # Lucky Range(Farm)
 # Mayor's house(Crashed airship)
-# The Eopleluna(Temple of Bimros, God Of The Military)
+# The Eopleluna(Temple of Bimros, God Of War)
 # The Eaqudhari(Temple of Gegtix, Goddess Of Spring)
 Names:
 - Balbalar(M, Fae)
@@ -1904,7 +1904,7 @@ ECONOMY: Religion
 GOVERNMENT: Militocracy
 Lineage: Human
 Locations:
-# Synagogue Of Boleus(Temple of Bimros, God Of The Military)
+# Synagogue Of Boleus(Temple of Bimros, God Of The War)
 Names:
 - Hlodver(M, Human)
 - Chlotar(M, Human)
