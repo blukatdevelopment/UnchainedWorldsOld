@@ -48,11 +48,12 @@ Choose 2 from the following:
 +-------+--------+----------+------------+-------+-------------+---------------------------+
 ```
 
-## Feataures
+## Features
 
 ### Runebook
-You have a book of runes for your spells. You start with four cantrips and five 1st level spells from the
-runesmith spell list and may add additional spells.
+You have a book of runes for your spells. You start with four cantrips and five
+1st level spells from the runesmith spell list and may add additional spells. 
+Each level you gain, you may learn 1 new spell from the runesmith spell list.
 
 #### Copying Spells
 You may copy spells from a spellbook or scroll if they are on the runesmith spell list. For every level
