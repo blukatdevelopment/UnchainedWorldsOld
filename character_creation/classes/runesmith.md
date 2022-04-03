@@ -36,15 +36,15 @@ Choose 2 from the following:
 | Level | Min XP | Hit Dice | Prof Bonus | Runes | Spell Level |         Features          |
 +-------+--------+----------+------------+-------+-------------+---------------------------+
 |     1 |      0 | 1d4      | +1         |     0 |           1 | Runebook, Ritual Casting  |
-|     2 |    300 | 2d4      | +1         |     1 |           1 | Runesmithery, Runecasting |
-|     3 |    900 | 2d4      | +2         |     2 |           1 | Extra Cantrip             |
-|     4 |   1200 | 3d4      | +2         |     4 |           2 | Runecasting Style         |
-|     5 |   2700 | 3d4      | +2         |     5 |           2 | Ability Score Increase    |
-|     6 |   5000 | 3d4      | +2         |     6 |           3 |                           |
-|     7 |   7500 | 3d4      | +3         |     8 |           3 | Runesmithing Technique    |
-|     8 |  10000 | 3d4      | +3         |     9 |           4 |                           |
-|     9 |  15000 | 3d4      | +4         |    10 |           4 | Extra Cantrip             |
-|    10 |  20000 | 3d4      | +4         |    12 |           5 | Ability Score Increase    |
+|     2 |    300 | 2d4      | +1         |     2 |           1 | Runesmithery, Runecasting |
+|     3 |    900 | 2d4      | +2         |     4 |           1 | Extra Cantrip             |
+|     4 |   1200 | 3d4      | +2         |     8 |           2 | Runecasting Style         |
+|     5 |   2700 | 3d4      | +2         |    10 |           2 | Ability Score Increase    |
+|     6 |   5000 | 3d4      | +2         |    12 |           3 |                           |
+|     7 |   7500 | 3d4      | +3         |    16 |           3 | Runesmithing Technique    |
+|     8 |  10000 | 3d4      | +3         |    18 |           4 |                           |
+|     9 |  15000 | 3d4      | +4         |    20 |           4 | Extra Cantrip             |
+|    10 |  20000 | 3d4      | +4         |    24 |           5 | Ability Score Increase    |
 +-------+--------+----------+------------+-------+-------------+---------------------------+
 ```
 
