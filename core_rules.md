@@ -521,9 +521,6 @@ Has 10 charges.
 When you use this kit on yourself or another creature, make a medicine check
 to determine the outcome.
 
-#### Potion of Healing
-A flask of pink liquid which heals 2d4+2 hit points when consumed.
-
 ```
 +--------------+----------------------------+
 |     Roll     |          Outcome           |
@@ -536,6 +533,10 @@ A flask of pink liquid which heals 2d4+2 hit points when consumed.
 | 21 or higher | Heal 1d8 hit points.       |
 +--------------+----------------------------+
 ```
+
+#### Potion of Healing
+A flask of pink liquid which heals 2d4+2 hit points when consumed.
+
 
 #### Caltrops
 You may drop caltrops over a space of four 5ft squares that are connected. When
