@@ -526,7 +526,7 @@ to determine the outcome.
 |     Roll     |          Outcome           |
 +--------------+----------------------------+
 | 1 or less    | Takes 1d4 piercing damage. |
-| 2-5          | Nothing effect.            |
+| 2-5          | No effect.                 |
 | 6-10         | Stabilized if not already. |
 | 11-15        | Heals 1d4 hit points.      |
 | 16-20        | Heal 1d6 hit points.       |
