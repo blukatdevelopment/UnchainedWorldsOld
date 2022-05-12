@@ -42,7 +42,7 @@ Speed: 30ft
 |STR|DEX|CON|INT|WIS|CHA|
 | 14| 14| 12|  3| 14|  3|
 Attacks:
-Bite +4 1d8+2 piercing
+Bite +4 1d4+2 piercing
 
 Blackbear
 Medium Beast
@@ -240,6 +240,28 @@ halve 3d6 fire damage.
 Attacks:
 Longsword +6 2d10+4 piercing
 
+Statue Warrior
+This stone man wields a stone sword.
+Medium Construct
+HP: 24(4d10)
+AC: 16
+Resistant: Fire, Cold, Lightning damage
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 10| 10| 10| 10| 10|
+Speed: 25ft
+Longsword +1 1d8 slashing
+
+Dragon Statue
+A dragon made of stone.
+Large Construct
+HP: 30(5d10)
+AC: 16
+Resistant: Fire, Cold, Lightning damage
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 10| 10| 10| 10| 10|
+Speed: 30ft
+Firebreath(recharge 3-6): 15ft cone, DC 12 DEX save to avoid 2d6 fire damage.
+Bite +2 1d6+1 piercing
 
 Forgeling Utility Floater
 Like a toaster that can fly. It has two prongs to pick up objects on it's rear

@@ -1008,7 +1008,7 @@ G Orphanage
 H Naima's Thread
 I Nemesis Graveyard
 J Two Pines Farm
-K The Strumihaja
+K The Spirit Gym
 
 The town only accepts company script, thirteen crowns of which are worth one
 copper.

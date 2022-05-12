@@ -8,6 +8,7 @@
 #     \_____/\__, |___/\__\___|_|  |_|\__,_|                                   #
 #             __/ |                                                            #
 #            |___/                                                             #
+# Season 2                                                                     #
 ################################################################################
 ```
 
@@ -15,10 +16,10 @@
 
 ### Steps to create a commoner
 1. Get a token/actor in Foundry
-2. Roll abilities, swap up to one pair
+2. Roll abilities(4d6, drop lowest), swap up to one pair
 3. Roll for background
 4. Pick lineage
-5. Apply commoner stuff
+5. Apply commoner proficiencies/equipment
 
 ### Stats
 For ability scores, roll 4d6 and drop the lowest. Abilities are rolled in order,
@@ -26,27 +27,35 @@ but one pair of abilities may be swapped before any bonuses are applied. Health
 is rolled. If your character changes from commoner to another class, health is
 re-rolled.
 
-### Commoners to adventurers
-Each player starts with three level 0 characters with the commoner class from
-the core rules. Their lineage can be selected from the imperial lineages,
-but their background is rolled randomly from the list in 100 backgrounds.
+### Character Slots
+Each player has three character slots. They may retire any character level 1 or
+higher. If the player has an empty character slot, they can fill it with a new
+commoner.
 
-When a player's commoners level up, they may select one of them to level up into
-a leveled class. They become level 1 in a class of their choice from the list
-below. Any other surviving commoners can be held in reserve, taking the place
-of the player's character if they are retired or killed.
-- Alchemist
-- Gunner
-- Lycanthrope
-- Priest
-- Psion
-- Runesmith
-- Soul Forger
-- Thief
-- Tinkerer
-- Warrior
+### Character advancement
+Each player character starts as a level 0 commoner. (See: Core rules commoner
+class) When you level up, you may pick a class. You keep all your skill
+proficiencies, but reroll your hit points using the new class's hit die.
 
-If all of your characters are dead or retired, you gain three more commoners.
+#### Table rule: Session-based XP
+For this campaign, XP an every session will grant 1XP.
+```
++-------+----+
+| Level | XP |
++-------+----+
+|     0 |  0 |
+|     1 |  1 |
+|     2 |  2 |
+|     3 |  3 |
+|     4 |  5 |
+|     5 |  7 |
+|     6 |  9 |
+|     7 | 12 |
+|     8 | 15 |
+|     9 | 18 |
+|    10 | 21 |
++-------+----+
+```
 
 ## Sessions
 
