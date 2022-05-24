@@ -1,8 +1,21 @@
+
+
 ### On the road
 
 #### Black Pauldrons 
 A band of six human bandits demand the party give them 50GP, or something fancy.
 
+```
+Bandit
+HP: 8(2d4+2)
+AC: 12(leather)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 12| 12| 10| 12| 12|
+Attacks:
+Shortsword +4 1d6+2 piercing
+Shortbow +4 1d6+2 piercing
+```
 
 ## Sandfrost
 The party will be approached by a chikileaf(chkmn002). If attacked, it will cry out, and a small child will run up to defend it. Her name's Chelsea, and she'll direct the party to talk to the mayor.

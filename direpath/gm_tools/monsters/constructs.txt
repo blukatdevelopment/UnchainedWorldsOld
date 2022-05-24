@@ -1,0 +1,208 @@
+#########################################################
+#                                                       #
+#  _____                 _                   _          #
+# /  __ \               | |                 | |         #
+# | /  \/ ___  _ __  ___| |_ _ __ _   _  ___| |_        #
+# | |    / _ \| '_ \/ __| __| '__| | | |/ __| __|       #
+# | \__/\ (_) | | | \__ \ |_| |  | |_| | (__| |_        #
+#  \____/\___/|_| |_|___/\__|_|   \__,_|\___|\__|       #
+#  IV Construct                                         #
+#########################################################
+
+Animated Book
+Tiny Construct
+HP: 3 (1d4)
+AC: 8
+Speed: 30 fly
+Vulnerable: Fire
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 10| 10|  4| 10|  4|
+Papercut +2 1 slashing
+
+Swarm of Animated Books
+Large Swarm of tiny Constructs
+HP: 22 (2d20)
+AC: 8
+Speed: 30 fly
+Vulnerable: Fire
+Resistant: physical damage
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 12| 10|  4| 10|  4|
+Highly flammable: If lit with fire damage, swarm will suffer 1d10 fire damage
+at the start of each turn.
+Multi-attack: May make 2 paper cuts
+Papercut +3 1d6+2 slashing
+
+Animated Coat
+Small Construct
+HP: 6 (2d4)
+AC: 10
+Speed: 20 fly
+Immune: non-magical bludgeoning
+Vulnerable: slashing
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 12| 10|  4| 12|  4|
+Athletics +5
+Strangle: A grappled creature must make a DC 12 strenght save, or take 1d4-1
+bludgeoning damage as the coat strangles them.
+
+Animated Bathtub
+Large Construct
+HP: 18 (3d10)
+AC: 16(Cast Iron)
+Speed: 20ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 10| 10|  4| 12|  4|
+Pour(1 use): Water begins to boil, then tub tips over to pour out it's contents.
+All creatures within 10ft must make a DC 12 dexterity saving throw to halve 1d6
+fire damage.
+Slam +4 1d8+3 bludgeoning
+
+Enforcer
+This device is made to enforce rules within a dungeon, and will only attack
+when those rules are broken, or in self defense if tampered with.
+Large Construct
+HP: 55(5d20)
+AC: 18
+Speed: 0ft
+Zap: One creature must succeed a DEX saving throw to halve 3d6 lightning damage.
+
+Dragon Armor
+This bipedal armor deals 2d10 necrotic damage to the pilot before activating
+for 10 minutes of use.
+Large Construct
+Dragon armor is a vehicle. The pilot 
+HP: 39 (3d20+6)
+AC: 16 (Steel)
+Speed: 25ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 18| 12| 14|  3| 12|  3|
+Jets: Reduces duration of use by 1 minute per turn. Gain 30ft flying speed.
+Blame breath: Reduces duration of use by 1 minute. A 15 foot cone of fire pours
+from one arm, and all creatures inside it must succeed a DC 14 DEX save to
+halve 3d6 fire damage.
+Attacks:
+Longsword +6 2d10+4 piercing
+
+Statue Warrior
+This stone man wields a stone sword.
+Medium Construct
+HP: 24(4d10)
+AC: 16
+Resistant: Fire, Cold, Lightning damage
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 10| 10| 10| 10| 10|
+Speed: 25ft
+Longsword +1 1d8 slashing
+
+Dragon Statue
+A dragon made of stone.
+Large Construct
+HP: 30(5d10)
+AC: 16
+Resistant: Fire, Cold, Lightning damage
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 10| 10| 10| 10| 10|
+Speed: 30ft
+Firebreath(recharge 3-6): 15ft cone, DC 12 DEX save to avoid 2d6 fire damage.
+Bite +2 1d6+1 piercing
+
+Forgeling Utility Floater
+Like a toaster that can fly. It has two prongs to pick up objects on it's rear
+side and a red soul crystal on it's front.
+Small Construct
+HP: 3(1d4)
+AC: 12
+Speed: 0ft, 30ft fly
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 14| 10|  4| 10|  4|
+Attacks:
+Prong Bite +3 1d4 piercing
+
+
+Forgeling Patroller
+A skeletal humanoid construct often used as a cheap foot soldier.
+Medium Construct
+HP: 9(3d4)
+AC: 12
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 12| 12|  4| 10|  4|
+Attacks:
+Punch +2 1d4 bludgeoning
+Blaster +2 1d6 fire damage
+
+Forgeling Ceiling Turret
+A forgeling mounted to a ceiling. It will hunker down when creatures are within
+melee range of it. 
+Small Construct
+HP: 4(1d4)
+AC: 12
+Speed: 0ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 14| 10|  4| 10|  4|
+Hunker down: The forgeling can retreat into it's armored shell, raising it's AC
+to 18 and preventing it from firing.
+Multi-attack: The forgeling turret may make three blaster attacks
+Attacks:
+Blaster(30/60) +2 1d6 fire
+
+Forgeling Blade Trooper
+A skeletal humanoid construct with two longswords. It's most effective as a
+frontline melee soldier.
+Medium Construct
+HP: 9(3d4)
+AC: 12
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 12| 12|  4| 10|  4|
+Spin slash: Every creature within 5ft of the trooper must succeed a DC 12 saving
+throw or receive normal longsword damage as the trooper spins it's torso
+independent of it's legs.
+Swivel defense: Trooper may use it's reaction to slash at a creature that enters
+attack range.
+Riposte: When targeted with a melee attack, the trooper may use it's reaction to
+add +2 to it's AC by blocking.
+Multiattack: Blade Trooper may make two longsword attacks
+Attacks:
+Punch +2 1d4 bludgeoning
+Longsword +2 1d8+1 slashing
+
+Forgeling Electrospear Trooper
+A skeletal humanoid construct with an electrospear. It's most effective as a
+frontline melee soldier.
+Medium Construct
+HP: 9(3d4)
+AC: 12
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 12| 12|  4| 10|  4|
+Unflinching throw: Trooper may throw spears from within 5ft of an enemy without
+disadvantage.
+Vault: trooper may use spear to leap 15ft into the air and land up to 15ft from
+it's starting position.
+Riposte: When targeted with a melee attack, the trooper may use it's reaction to
+add +2 to it's AC by blocking.
+Multiattack: Trooper may make two electro spear attacks
+Attacks:
+Punch +2 1d4 bludgeoning
+Electrospear +2 1d8+1 slashing 1d8 lightning
+
+Forgeling Blast Trooper
+A skeletal humanoid construct with two blasters. It's most effective at laying
+down suppressing fire.
+Medium Construct
+HP: 9(3d4)
+AC: 12
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 12| 12|  4| 10|  4|
+Spam fire: Trooper may fire four times with a -2 to-hit modifier.
+Quick reflexes: When targeted by a ranged weapon, trooper may use reaction to
+fire first with a -2 to-hit modifier.
+Unflinching aim: Trooper does not suffer disadvantage when attacking within 5ft
+with ranged weapons.
+Multiattack: May make two blaster attacks
+Attacks:
+Punch +2 1d4 bludgeoning
+Blaster(30/60ft) +2 1d6 fire

@@ -1,0 +1,26 @@
+#########################################################
+#                                                       #
+#  _____      _           _   _       _                 #
+# /  __ \    | |         | | (_)     | |                #
+# | /  \/ ___| | ___  ___| |_ _  __ _| |                #
+# | |    / _ \ |/ _ \/ __| __| |/ _` | |                #
+# | \__/\  __/ |  __/\__ \ |_| | (_| | |                #
+#  \____/\___|_|\___||___/\__|_|\__,_|_|                #
+#  III Celestial                                        #
+#########################################################
+
+Moon's Eye(Celestial)
+The Moon's Eye grows until they stand ten feet tall, at which time a set of
+feathery wings sprouts from their back and they grow an extra set of arms.
+A sword of light flares up in each hand.
+Large Celestial
+HP: 63 (9d10+18)
+AC: 12
+Speed: 40ft, fly 30ft
+Resistances: non-magical physical damage
+Immunities: Radiant damage
+Moon Beam(Action): 5ft by 100ft beam, DC 15 DEX save to halve 4d6 
+Searing Aura(Bonus Action): Receive 3(1d4) necrotic damage, gain 9(3d4) temp hit points
+Multiattack: Each arm may attack with a Moon Sword, or attack with moon beam
+Attacks:
+Moon Greatsword: +6 1d12+3 radiant

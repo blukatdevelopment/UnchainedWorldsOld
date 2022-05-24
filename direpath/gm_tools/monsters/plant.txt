@@ -1,0 +1,21 @@
+#########################################################
+#                                                       #
+# ______ _             _                                #
+# | ___ \ |           | |                               #
+# | |_/ / | __ _ _ __ | |_                              #
+# |  __/| |/ _` | '_ \| __|                             #
+# | |   | | (_| | | | | |_                              #
+# \_|   |_|\__,_|_| |_|\__|                             #
+#                                                       #
+#  XIII Plant                                           #
+#########################################################
+
+Grass Heap
+Huge Plant
+HP: 87 (9d12+24)
+AC: 12
+Speed: 40ft
+Resistances: non-magical physical damage, cold
+Vulnerabilities: fire
+Spore Cloud: 30 foot radius, DC 14 CON save or become poisoned
+Tree club: +7 19(3d8+4) bludgeoning

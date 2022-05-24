@@ -1,0 +1,26 @@
+#########################################################
+#   ___  _                         _   _                #
+#  / _ \| |                       | | (_)               #
+# / /_\ \ |__   ___ _ __ _ __ __ _| |_ _  ___  _ __     #
+# |  _  | '_ \ / _ \ '__| '__/ _` | __| |/ _ \| '_ \    #
+# | | | | |_) |  __/ |  | | | (_| | |_| | (_) | | | |   #
+# \_| |_/_.__/ \___|_|  |_|  \__,_|\__|_|\___/|_| |_|   #
+#                                                       #
+#                                                       #
+#########################################################
+
+Puppetmaster
+A blob of inky black flesh that pulses and sprouts hands. This outsider comes to
+hold puppet shows and lure creatures into it's mouth for a snack.
+Huge Aberration
+HP: 55(5d20)
+AC: 12(leather)
+Speed: 5ft, Climb 5ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 14| 12| 10| 10| 10|
+Teleport: Puppetmaster may blink out of existence, presumably returning to it's
+original plane.
+Grapple: May grapple up to 4 creatures at once using marionettes. +7 on their
+athletics check.
+Attacks:
+Bite +4 2d10 piercing, can target all grappled creatures simultaneously

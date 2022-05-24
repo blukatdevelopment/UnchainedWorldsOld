@@ -1,0 +1,55 @@
+Soot Thug
+HP: 24(3d10+4)
+AC: 11(leather)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 10| 14| 10| 12| 12|
+Attacks:
+Wrench(greatclub) 1d8+2 bludgeoning
+
+Bandit Captain
+HP: 21(3d8+6)
+AC: 13(hide)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 12| 12| 10| 12| 16|
+Multiattack: Captain can make two shortsword attacks
+Attacks:
+Shortsword +5 1d6+3 piercing
+
+Petty Bandit
+HP: 4(1d4+1)
+AC: 11
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 12| 12| 10| 12| 12|
+Attacks:
+Dagger +2 1d4+1 piercing
+Sling +2 1d4+1 bludgeoning
+
+Bandit
+HP: 8(2d4+2)
+AC: 12(leather)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 12| 12| 10| 12| 12|
+Attacks:
+Shortsword +4 1d6+2 piercing
+Shortbow +4 1d6+2 piercing
+
+Iron Fang Clan Mercenary
+HP: 21(3d8+6)
+AC: 16(chainmail)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 12| 17| 12| 12| 12|
+Defensive Grapple: As a reaction whe targeted by a melee attack, mercenary may
+make a grapple check. On a success, the attack is wasted and the attacker is
+grappled.
+Pounce: when the Fang moves 20ft in a straight line before attacking with bite,
+they may attempt to either grapple or shove as part of the attack.
+Multiattack: May make two pike attacks
+Attacks:
+Bite +5, 1d6 piercing
+Pike +5 1d10+2 piercing
+Dagger +4 1d4+1 piercing

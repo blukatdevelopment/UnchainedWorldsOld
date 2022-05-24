@@ -1,0 +1,106 @@
+#########################################################
+# ______ _                _                             #
+# |  ___(_)              | |                            #
+# | |_   _  ___ _ __   __| |                            #
+# |  _| | |/ _ \ '_ \ / _` |                            #
+# | |   | |  __/ | | | (_| |                            #
+# \_|   |_|\___|_| |_|\__,_|                            #
+#                                                       #
+#########################################################
+
+########################################
+# ______                               #
+# |  _  \                              #
+# | | | |___ _ __ ___   ___  _ __  ___ #
+# | | | / _ \ '_ ` _ \ / _ \| '_ \/ __|#
+# | |/ /  __/ | | | | | (_) | | | \__ \#
+# |___/ \___|_| |_| |_|\___/|_| |_|___/#
+########################################
+
+Soul Sucker
+A fleshy snake with a humanoid torso and a mouth like a lamprey. It feasts on
+the souls of the weak and weary. Soul suckers will run away from light sources.
+Small Demon(fiend)
+HP: 8 (2d6)
+AC: 8
+Speed: 40ft, climb 40ft
+Spray Venom: One creature within 10 feet must make a DC8 CON saving throw or
+become paralyzed for 1 minute.
+Suck: +1 1d4 necrotic
+
+Snork
+A four foot featherless bird with a fleshy toothed funnel instead of a beak.
+They feed on the brains of wounded creatures and are attracted by the sounds
+of agony. Snorks have a simbiotic relationship with soul suckers and will hunt
+together. Snorks will run away from light sources.
+Medium Demon(fiend)
+HP: 30(6d6+6)
+AC: 13
+Speed: 30ft
+Couple: Target must succeed a DC 12 STR save or else become grappled as the snork
+attaches to their head and begins searching for a weak in the skull with their
+internal beak.
+Tap: If coupled, target must make a DC 12 CON save. On a failure, they take
+2d6 piercing damage, or halfe as much on a save. If this attack brings a creature
+to 0 hit points, the snork cracks into the skull and eats their brain.
+
+Bone Thresher
+This orange-fleshed creature has the bones of it's enemies sewed to it's hide
+as armor. It carries a large bone spear and has a cat of nine tails made with
+sharpened bone fragments. It wears a necklace of skulls.
+Large Fiend(Demon)
+HP: 32 (4d12+4)
+AC: 14(bone armor)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 12| 12| 10| 10| 10|
+Bone Whip(15ft) 2d4+3
+Bone Spear 2d8+3
+
+Gattogat
+A three-foot tall cat that can stand upright. It's whiskers are bent and it's
+coat is a bit frazzled and unkempt. It can pretend to be a large housecat, and
+can also reveal it's true form. It's eyes are bright blue unless it's using it's
+powers, at which point they turn green.
+Small Fiend(Demon)
+HP: 18 (2d12+4)
+AC 16
+Resists: Non-magical physical, psychic
+Charm(1/day): Gatto produces a telepathic illusion from it's eyes. All creatures
+that can see it must succeed a DC 16 WIS save or they find this very cute and
+the Gatto has advantage on charisma checks against them.
+Malevolent Guidance: Gatto names a malevolent deed such as stabbing a friend,
+drinking a poison, or attacking a guard. The target must succeed a DC 16 WIS
+save or perform the act. If charmed, the target makes the save with disadvantage.
+Gatto Field: While Gatto is conscious and it's eyes are green, it produces a
+field of distorted psychic energy. Attacks against are made with disadvantage.
+
+#########################################################
+# ______           _ _                                  #
+# |  _  \         (_) |                                 #
+# | | | |_____   ___| |___                              #
+# | | | / _ \ \ / / | / __|                             #
+# | |/ /  __/\ V /| | \__ \                             #
+# |___/ \___| \_/ |_|_|___/                             #
+#                                                       #
+#########################################################
+
+
+Devil Scribe
+Standing about five feet tall with leathery red skin and black hair, a devil
+scribe often wears a suit and carries a book of dark magic that it uses to
+create fiendish contracts.
+Medium Fiend(devil)
+HP: 24(6d6)
+AC: 14(natural)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 10| 10| 16| 16| 18|
+Spellcasting:
+May use each of the following spells once per day.
+- Bane[1]
+- Force Field[1]
+- Flying Weapon[1]
+[1] Spell Compendium Volume 1
+Fire Ray +5 2d10 fire
+Trident +3 1d6 slashing

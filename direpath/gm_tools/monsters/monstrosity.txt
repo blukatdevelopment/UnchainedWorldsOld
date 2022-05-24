@@ -1,0 +1,147 @@
+#########################################################
+# ___  ___                _                 _ _         #
+# |  \/  |               | |               (_) |        #
+# | .  . | ___  _ __  ___| |_ _ __ ___  ___ _| |_ _   _ #
+# | |\/| |/ _ \| '_ \/ __| __| '__/ _ \/ __| | __| | | |#
+# | |  | | (_) | | | \__ \ |_| | | (_) \__ \ | |_| |_| |#
+# \_|  |_/\___/|_| |_|___/\__|_|  \___/|___/_|\__|\__, |#
+#                                                  __/ |#
+#                                                 |___/ #
+#  XI Monstrosity                                       #
+#########################################################
+Beasts abide by the laws of nature, but monstrosities
+take them as guidelines to ignore when convenient.
+
+
+Greedy
+A greedy is an amorphous blob of bubbling semi-liquid flesh comprised of many
+bodies. They are attracted to bodies that were left unbiried.
+Huge Monstrosity
+HP: 86 (6d20+20)
+AC: 8
+Speed: 5ft
+Immunities: non-magical physical damage
+Vulnerabilities: lightning
+Reform(action): The greedy breaks down into a liquid and oozes up to 30 feet
+before reforming.
+Absorb(reaction, when receiving melee attack):
+Multiple bony arms reach out of the greedy and grab hold of the attacker's weapon.
+The attacker must make a DC 16 STR save. If they fail, they are pulled by their
+weapon into the greedy, and are restrained. They may remake the save at the start
+of their turn. Each turn spent inside the greedy deals the creature 2d6 acid damage.
+Flesh Lasso:
+A chain of linked limbs extends from the greedy and wraps around one creature
+within 30 feet. They must succeed a DC 16 STR save or be absorbed.
+Ingestion:
+Consuming a corps heals the greedy for 2d10 hit points.
+
+
+Spider Dog
+Medium Monstrosity
+HP: 6 (2d4)
+AC: 12
+Speed: spider climb 30ft
+Pack Tactics: Attacks against enemies that are within 5ft of an ally are made
+with advantage. 
+Bite +32 1d6 piercing. DC 12 CON save or 1d6 poison damage
+
+Chicken Eel
+Medium Monstrosity
+HP: 15(3d8)
+AC: 11
+Speed: 40ft, 30ft climb
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 14| 10|  3| 10|  3|
+Multiattack: Can bite and claw separate targets
+Bite(15ft) +4 1d6+2 piercing
+Claw(15ft) +4 1d4+2 slashing
+
+Long Goat
+HP: 21 (3d12)
+AC: 11
+Move: 40ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 10| 14|  4| 10|  4|
+Spring Jump: Long goat may jump over a medium creature and onto a space on the
+other side.
+Charge: If the goat moves in a straight line 20ft toward the target, horn attack
+deals an extra 1d6 damage.
+Hooves +5 1d8 bludgeoning
+Horns +5 1d6 piercing
+
+Reacher
+HP: 80(6d20+14)
+AC: 12
+Speed: 10ft, Swim 60ft
+Tentacle(30ft): DC 16 STR save or grappled. Drag 30ft. Target can remake STR save.
+Bite +6 3d8+4 piercing. Advantage on grappled prey.
+
+Eyeless Beaker
+Huge Monstrosity
+A featherless, eyeless bird with a 15 foot wingspan and talons. It uses echo
+location and keen hearing to "see" it's way around. It's wings use skin flaps
+to keep it aloft.
+HP: 27 (3d12+6)
+AC: 12
+Speed: 25ft, 60ft fly
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 14| 14|  4| 10|  4|
+Blindsight: 500ft
+Multi-attack: May make talon and beak attack
+Toothed Beak +4 1d12 piercing, grapple on hit
+Talons +4 2d6 slashing
+
+
+Wererat
+Medium Humanoid
+HP: 27(2d8+3)
+AC: 12
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 14| 12|  8| 14| 12|
+Darkvision: Can see in dark 60ft
+Resist: Non-magical, non-silvered physical
+Unnatural mobility: wererat may use it's bonus action to perform the dash,
+dodge, or hide actions.
+Fury swipes: Use claw attack 1d4 times
+Attacks:
+Bite +4 1d6+2 piercing DC 14 CON save or contract wererat lycanthropy
+Claw +4 1d4+2 slashing DC 14 CON save or contract wererat lycanthropy
+
+Young Blink Lion
+Large Monstrosity
+A lion with tenetacles on it's back and tail. It has a third eye with a golden
+iris.
+HP: 27 (3d12+6)
+AC: 12
+Speed: 40ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 14| 14|  4| 10|  4|
+Blink: As a bonus action or reaction when targeted by ranged attacks, may
+teleport to another point within 30ft.
+Claws +5 1d6+2 slashing
+Tentacles +5 1 piercing, instant grapple
+Tail +5 1d4 piercing, instant grapple
+
+Ferhorn
+A small-size horse with many traits of a housefly.
+Small Mount
+HP: 10 (2d8)
+AC: 12
+Speed: 30ft, 30ft spider climb, 60ft fly
+|STR|DEX|CON|INT|WIS|CHA|
+| 18| 14| 10|  3| 14|  3|
+Sturdy Exoskeleton: The Ferhorn can carry a creature one size larger than it
+through shear sturdiness.
+Acid Reflux: Target within 15ft must succeed a DEX save to halve 1d8 acid damage.
+
+Snarlbeak
+A bird with a toothy beak and a big, fluffy tail.
+Medium Monstrosity
+HP: 6 (1d4)
+AC: 13
+Speed: 15, 60ft fly
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 16| 10|  3| 14|  3|
+Flyby: Flying does not trigger opportunity attacks.
+Bite +4 1d4+2 piercing

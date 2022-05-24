@@ -1,0 +1,116 @@
+#######################################                                      
+#  _____       _     _ _              #
+# |  __ \     | |   | (_)             #
+# | |  \/ ___ | |__ | |_ _ __  ___    #
+# | | __ / _ \| '_ \| | | '_ \/ __|   #
+# | |_\ \ (_) | |_) | | | | | \__ \   #
+#  \____/\___/|_.__/|_|_|_| |_|___/   #
+#######################################                                       
+
+Goblin Ambusher
+HP: 4 (1d4+1)
+AC: 10
+Speed: 30ft
+Attacks:
+club +2 1d4 bludgeoning
+Net +4
+
+Goblin Hunter
+HP: 8 (2d4+2)
+AC: 12(leather scraps)
+Speed: 30ft
+Goblin Shuffle: 
+Attacks:
+Bone Knife +4 1d4+1 piercing
+Bone Spear +4 1d8+1 piercing
+Bola(15ft): +4 target must succeed DC 16 STR or fall prone
+
+Goblin Brute
+HP: 12 (3d6+3)
+AC: 14 (hide)
+Speed: 30ft
+Block (Reaction): When wielding stone axe, may add +2 to AC for one attack.
+Attacks:
+Bone Dagger: +4, 1d4+2 piercing
+Stone Axe: +4, 1d6+2 slashing
+
+######################################################
+#  _   _       _                 _     _ _           #
+# | | | |     | |               | |   | (_)          #
+# | |_| | ___ | |__   __ _  ___ | |__ | |_ _ __  ___ #
+# |  _  |/ _ \| '_ \ / _` |/ _ \| '_ \| | | '_ \/ __|#
+# | | | | (_) | |_) | (_| | (_) | |_) | | | | | \__ \#
+# \_| |_/\___/|_.__/ \__, |\___/|_.__/|_|_|_| |_|___/#
+#                     __/ |                          #
+#                    |___/                           #
+######################################################
+
+Blade of Zarrat
+HP: 21(3d8+6)
+AC: 17(Dragonsteel Splint Armor)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 12| 14| 12| 12| 12|
+Resists: Fire
+Actions:
+Rage weed: The blade huffs a red powder and becomes resistant to weapon damage
+for up to 1 minute, but ends prematurely if blade does not attack or take damage
+after which they lose consciousness for 1d4 hours.
+Martial Advantage: When the target is within 5ft of an ally, melee attacks deal
+an addition 1d8 damage.
+Projectile deflect: With a reaction when attacked with a ranged weapon, blade
+can add +2 AC for that attack to attempt to deflect the projectile.
+Block breaker: If the blade's longsword attack is blocked', they may use their
+bonus action to make another, forcing. On a hit, the blocking weapon or shield
+is cut through during the attack.
+Attacks:
++1 Dragonsteel Longsword +5 1d8+3
+
+Bow of Zarrat
+HP: 15(3d6+3)
+AC: 15(Breastplate)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 16| 12| 12| 12| 12|
+Multi-attack: Can make two attacks with longbow
+Attacks:
+Dagger +5 1d4+3 piercing
+Longbow +5 1d8+3 piercing
+
+Hobgoblin Blade
+HP: 21(3d8+6)
+AC: 15(Scale mail)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 12| 14| 12| 12| 12|
+Martial Advantage: When the target is within 5ft of an ally, melee attacks deal
+an addition 1d8 damage.
+Projectile deflect: With a reaction when attacked with a ranged weapon, blade
+can add +2 AC for that attack to attempt to deflect the projectile.
+Attacks:
+Longsword +4 1d8+2
+
+Hobgoblin Archer
+HP: 15(3d6+3)
+AC: 15(Scale mail)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 16| 12| 12| 12| 12|
+Multi-attack: Can make two attacks with longbow
+Attacks:
+Dagger +5 1d4+3 piercing
+Longbow +5 1d8+3 piercing
+
+Hobgoblin Captain
+HP: 24(3d10+6)
+AC: 15(Scale mail)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 12| 14| 14| 16| 16|
+Leadership: For one minute, the captain provides words of encouragement or
+direction when friendly creatures within range make attacks, granting them a d4
+bonus to their attack rolls. Ends if captain is unconscious. Can be used once
+per day.
+Attacks:
+Dagger +5 1d4+3 piercing
+Longbow +5 1d8+3 piercing

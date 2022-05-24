@@ -78,7 +78,6 @@ A list of attendees:
 - Splitleaf family of high elves (father Fendhir, mother Sherha, son Golsa)
 - Ironside family of bronzehammers(father Ghoramir, mother Fenda, son Dalgarn, son Tor, daughter Lara)
 - Servants: Roger Wettleberg(M), Jack Muttenfinger(M), Tina Flutenbell(F), Rachel Butternut(F)
-#### Guard cordon
 
 #### Guard Cordon
 If the guard interrogates the party at the elegance, the manor will be surrounded by guards, who will begin negotiating with the Moddlesber to let them investigate.

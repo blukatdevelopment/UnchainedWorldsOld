@@ -695,7 +695,7 @@ You gain the Lycanthrope Form feature from the lycanthrope class. If you receive
 ```
 
 #### Cures
-When someone diagnoses their malignant lycanthropy, roll on the following table
+When someone diagnoses their malignant lycanthropy, roll on the abpvetable
 for a cure for this particular case.
 
 
@@ -747,3 +747,21 @@ The infected experience a runny nose, nasal congestion, and frequent bouts
 of sneezing. When exposed to strong smells, animal dander, pollen, or dust,
 the infected must succeed a DC 15 con save or enter a sneezing fit for 6
 seconds.
+
+### Mouthfoam
+The infection is transferred by the bite from an infected animal. The infected 
+starts with one level of mouthfoam, and at the end of each day must succeed a 
+DC 15 CON save to avoid gaining another level. There is no known non-magical
+cure for mouthfoam.
+```
++-------+----------------------+
+| Level |        Effect        |
++-------+----------------------+
+|     1 | Irritability         |
+|     2 | Aggressive outbursts |
+|     3 | Foaming at the mouth |
+|     4 | Fear of water        |
+|     5 | Loss of memory       |
+|     6 | Feral mental state   |
++-------+----------------------+
+```
