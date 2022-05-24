@@ -49,17 +49,17 @@ constructive criticism and advanced knit-picking.
 [spell compendium volume 1](direpath/character_creation/spell_compendium_1.md)
 
 #### Classes
-[alchemist](direpath/character_creation/classes/alchemist.md)
-[commoner](direpath/character_creation/classes/commoner.md)
-[gunner](direpath/character_creation/classes/gunner.md)
-[lycanthrope](direpath/character_creation/classes/lycanthrope.md)
-[priest](direpath/character_creation/classes/priest.md)
-[psion](direpath/character_creation/classes/psion.md)
-[runesmith](direpath/character_creation/classes/runesmith.md)
-[soul forger](direpath/character_creation/classes/soul_forger.md)
-[thief](direpath/character_creation/classes/thief.md)
-[tinkerer](direpath/character_creation/classes/tinkerer.md)
-[warrior](direpath/character_creation/classes/warrior.md)
+- [alchemist](direpath/character_creation/classes/alchemist.md)
+- [commoner](direpath/character_creation/classes/commoner.md)
+- [gunner](direpath/character_creation/classes/gunner.md)
+- [lycanthrope](direpath/character_creation/classes/lycanthrope.md)
+- [priest](direpath/character_creation/classes/priest.md)
+- [psion](direpath/character_creation/classes/psion.md)
+- [runesmith](direpath/character_creation/classes/runesmith.md)
+- [soul forger](direpath/character_creation/classes/soul_forger.md)
+- [thief](direpath/character_creation/classes/thief.md)
+- [tinkerer](direpath/character_creation/classes/tinkerer.md)
+- [warrior](direpath/character_creation/classes/warrior.md)
 
 ## File structure
 `core_rules.md`
