@@ -37,7 +37,14 @@ constructive criticism and advanced knit-picking.
 
 ## Quick Links
 
+### Core Rules
+[Core Rules](core_rules.md)
+This is all you technically need to run and Play unchained Worlds, but you'll
+probably want some supplement books.
+
+
 ### Direpath
+This content pack contains a variety of pulp-fantasy character classes.
 
 #### Backgrounds
 [100 backgrounds](direpath/character_creation/100_backgrounds.md)
@@ -60,19 +67,3 @@ constructive criticism and advanced knit-picking.
 - [thief](direpath/character_creation/classes/thief.md)
 - [tinkerer](direpath/character_creation/classes/tinkerer.md)
 - [warrior](direpath/character_creation/classes/warrior.md)
-
-## File structure
-`core_rules.md`
-This is all you technically need to run and Play unchained Worlds, but you'll
-probably want some supplement books.
-
-`direpath`
-This is the first content pack. It contains a variety of pulp-fantasy character
-classes.
-
-`character_creation/`
-This folder contains classes, lineages, spells, backgrounds, and other character
-creation options.
-
-`gm_tools/`
-This folder contains books for  for game masters
