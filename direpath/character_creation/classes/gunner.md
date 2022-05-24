@@ -39,20 +39,20 @@ Choose 2 from the following:
 - Tinker's Pack
 
 ```
-+-------+--------------------+----------+-------------------+------------+------------------------+
-| Level | Minimum Experience | Hit Dice | Proficiency Bonus |  Maneuvers |         Features       |
-+-------+--------------------+----------+-------------------+------------+------------------------+
-|     1 |                  0 | 1d6      | +1                |          1 | Scrap, Smith           |
-|     2 |                300 | 2d6      | +1                |          1 |                        |
-|     3 |                900 | 2d6      | +2                |          2 |                        |
-|     4 |               1200 | 3d6      | +2                |          2 | Second Wind            |
-|     5 |               2700 | 3d6      | +2                |          3 | Ability Score Increase |
-|     6 |               5000 | 3d6      | +2                |          4 |                        |
-|     7 |               7500 | 3d6      | +3                |          5 | Advanced Smith         |
-|     8 |              10000 | 3d6      | +3                |          5 | Ability Score Increase |
-|     9 |              15000 | 3d6      | +4                |          6 |                        |
-|    10 |              20000 | 3d6      | +4                |          6 | Ability Score Increase |
-+-------+--------------------+----------+-------------------+------------+------------------------+
++-------+--------+----------+------------+------------+------------------------+
+| Level | Min XP | Hit Dice | Prof Bonus |  Maneuvers |         Features       |
++-------+--------+----------+------------+------------+------------------------+
+|     1 |      0 | 1d6      | +1         |          1 | Scrap, Smith           |
+|     2 |    300 | 2d6      | +1         |          1 |                        |
+|     3 |    900 | 2d6      | +2         |          2 |                        |
+|     4 |   1200 | 3d6      | +2         |          2 | Second Wind            |
+|     5 |   2700 | 3d6      | +2         |          3 | Ability Score Increase |
+|     6 |   5000 | 3d6      | +2         |          4 |                        |
+|     7 |   7500 | 3d6      | +3         |          5 | Advanced Smith         |
+|     8 |  10000 | 3d6      | +3         |          5 | Ability Score Increase |
+|     9 |  15000 | 3d6      | +4         |          6 |                        |
+|    10 |  20000 | 3d6      | +4         |          6 | Ability Score Increase |
++-------+--------+----------+------------+------------+------------------------+
 ```
 
 ## Features
@@ -100,11 +100,11 @@ up to three ranged attacks in place of one. Each attack has disadvantage.
 
 ### Suppressing fire
 You use a weapon with at least five shots left in it to lay down suppressing
-fire. Target a 10 foot cube in range. You fire five times into this area until the
-start of your next turn. A creature that starts its turn in this cube or enters
-it for the first time must succeed a DC 15 wisdom saving throw or fall prone
-and end its turn. If a creature succeeds the saving throw and moves in your
-line of sight, you may target it with one of your 5 shots. This attack has
+fire. Target a 10 foot cube in range. You fire five times into this area until
+the start of your next turn. A creature that starts its turn in this cube or
+enters it for the first time must succeed a DC 15 wisdom saving throw or fall
+prone and end its turn. If a creature succeeds the saving throw and moves in
+your line of sight, you may target it with one of your 5 shots. This attack has
 disadvantage, but forces the creature to remake the wisdom saving throw even
 if it misses.
 
@@ -179,30 +179,35 @@ cannot use double-tap if you have fired more than once already on this turn.
 ## Firearms
 
 ```
-+--------------------+--------+---------+------+----------+------------+-----------------------+
-|        Item        | Damage |  Range  | Ammo | Scrap    | Weight(lb) |      Properties       |
-+--------------------+--------+---------+------+----------+------------+-----------------------+
-| Pocket Pistol      | 1d8    | 30/90   |    1 |        2 |          2 | Light, Reloading      |
-| Pistol             | 1d10   | 30/90   |    1 |        5 |          3 | Reloading             |
-| Musket             | 1d12   | 40/120  |    1 |       20 |         10 | Two-handed, reloading |
-| Revolver           | 1d10   | 30/90   |    6 |       50 |          3 |                       |
-| Shotgun*           | 2d8    | 30/90   |    1 |       35 |          6 | Two-handed            |
-| Bolt-action Rifle* | 2d10   | 100/500 |    5 |       50 |          8 | Two-handed            |
-| Harmonica Gun      | 1d12   | 40/120  |   10 |       50 |         10 | Two-handed            |
-| Crank Gun*         | 1d12   | 40/120  |  300 |      500 |        100 | Burst Fire            |
-| Medieval Bullet(20)|        |         |      |        4 |          2 |                       |
-| Cartridge(20)      |        |         |      |        4 |          2 |                       |
-+--------------------+--------+---------+------+----------+------------+-----------------------+
++--------------------+--------+---------+------+-------+------------+-----------------------+
+|        Item        | Damage |  Range  | Ammo | Scrap | Weight(lb) |      Properties       |
++--------------------+--------+---------+------+-------+------------+-----------------------+
+| Pocket Pistol      | 1d8    | 30/90   |    1 |     2 |          2 | Light, Reloading      |
+| Pistol             | 1d10   | 30/90   |    1 |     5 |          3 | Reloading             |
+| Musket             | 1d12   | 40/120  |    1 |    20 |         10 | Two-handed, reloading |
+| Revolver           | 1d10   | 30/90   |    6 |    50 |          3 | Reloading             |
+| Shotgun*           | 2d8    | 30/90   |    1 |    35 |          6 | Two-handed            |
+| Bolt-action Rifle* | 2d10   | 100/500 |    5 |    50 |          8 | Reloading, Two-handed |
+| Harmonica Gun      | 1d12   | 40/120  |   10 |    50 |         10 | Reloading, Two-handed |
+| Crank Gun*         | 1d12   | 40/120  |  300 |   500 |        100 | Burst Fire            |
+| Medieval Bullet(20)|        |         |      |     4 |          2 |                       |
+| Cartridge(20)      |        |         |      |     4 |          2 |                       |
++--------------------+--------+---------+------+-------+------------+-----------------------+
 * Uses Cartridges
 ```
 
 ### Properties
 
 #### Reloading Property
-A weapon with the reloading property contains more than one ammunition. You may expend an action to reload such a weapon up to its full capacity, provided you have enough ammunition to do so.
+A weapon with the reloading property contains one or more pieces of ammunition.
+You may expend an action to reload such a weapon up to its full capacity,
+provided you have enough ammunition to do so.
 
 #### Burst Fire
-Instead of a normal ranged weapon attack, a weapon with the burst fire property may fire ten rounds of ammunition in rapid succession on a ten foot cube. Every creature inside the cube must succeed a DC15 dex saving throw or receive the weapon’s normal damage. This consumes ten rounds of ammunition.
+Instead of a normal ranged weapon attack, a weapon with the burst fire property
+may fire ten rounds of ammunition in rapid succession on a ten foot cube. Every
+creature inside the cube must succeed a DC15 dex saving throw or receive the
+weapon’s normal damage. This consumes ten rounds of ammunition.
 
 
 ## Explosives
