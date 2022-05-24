@@ -35,10 +35,40 @@ Oh, you wanna change my files? Well, uh, submit a pull request. Make sure that y
 communicate what you're changing and why. If it's a new class, prepare for some
 constructive criticism and advanced knit-picking.
 
+## Quick Links
+
+### Direpath
+
+#### Backgrounds
+[100 backgrounds](direpath/character_creation/100_backgrounds.md)
+
+#### Lineages
+[imperial lineages](direpath/character_creation/imperial_lineages.md)
+
+#### Spells
+[spell compendium volume 1](direpath/character_creation/spell_compendium_1.md)
+
+#### Classes
+[alchemist](direpath/character_creation/classes/alchemist.md)
+[commoner](direpath/character_creation/classes/commoner.md)
+[gunner](direpath/character_creation/classes/gunner.md)
+[lycanthrope](direpath/character_creation/classes/lycanthrope.md)
+[priest](direpath/character_creation/classes/priest.md)
+[psion](direpath/character_creation/classes/psion.md)
+[runesmith](direpath/character_creation/classes/runesmith.md)
+[soul forger](direpath/character_creation/classes/soul_forger.md)
+[thief](direpath/character_creation/classes/thief.md)
+[tinkerer](direpath/character_creation/classes/tinkerer.md)
+[warrior](direpath/character_creation/classes/warrior.md)
+
 ## File structure
 `core_rules.md`
 This is all you technically need to run and Play unchained Worlds, but you'll
 probably want some supplement books.
+
+`direpath`
+This is the first content pack. It contains a variety of pulp-fantasy character
+classes.
 
 `character_creation/`
 This folder contains classes, lineages, spells, backgrounds, and other character
