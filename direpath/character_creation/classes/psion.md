@@ -92,11 +92,10 @@ creature’s attack, ability check, skill check, or saving throw.
 
 ### Psionic Spellcasting
 You have awakened latent abilities. They will grow stronger as you grow further
-in tune with yourself. Your spellcasting ability is wisdom. Instead of using 
-spell slots to determine the limit of your magical power, you instead use a 
-psionic die. At first level, your psionic die is a D2. It increases in size 
-according to the “psionic die” column in the psion table.
-
+in tune with yourself. Your spellcasting ability is wisdom. To determine the 
+limit of your magical capacity you use a psionic die. At first level, your
+psionic die is a D2. It increases in size according to the “psionic die” column in the psion table. Spells you cast never need verbal, somatic, nor material 
+components.
 
 #### Using the psionic die
 When you cast a spell of first or higher level, you roll a number of dice equal
@@ -148,6 +147,10 @@ of your choice by 1. You cannot increase an ability score past 20.
 - Delusion[1]
 - Psionic Construct [1]
 - Flight [1]
+- Enemies Abound [1]
+- Force Sphere [1]
+- Dispel Magic [1]
+- Fast Friends [1]
 ### 4th
 - Ferroform [1]
 - Mind Probe[1]

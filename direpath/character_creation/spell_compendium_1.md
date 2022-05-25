@@ -2019,6 +2019,20 @@ hit points while this spell is active, you may move up to your movement speed,
 perform one action, and transfer the spell to a new suitable target.
 ```
 
+```
+Vitality Drain (2nd)
+Casting time: 1 action
+Range: Self
+Components: S, M(a blade)
+Duration: Concentration, 1 minute
+As part of casting this spell, you attack a creature with the blade. If the
+attack hits, the attack deals an additional 1d8 necrotic damage and the blade
+begins syphoning. You restore half of the necrotic damage dealt, rounded up.
+For the duration while you are within 60ft of the target, you may use your
+action to deal 1d8 more necrotic damage and restore half of that damage, rounded
+up.
+```
+
 ## 3rd level spells
 
 ```
@@ -2310,17 +2324,258 @@ action for anything other than resisting the petrification, they are petrified.
 ```
 
 ```
-Vitality Drain (2nd)
+Blazing Trail (3rd)
+Casting time: 1 bonus action
+Range: Self
+Components: V, S
+Duration: Concentration, 1 minute
+Draconic flames ignite your feet and your speed increases by 20 feet. Your
+movement does not provoke attacks of opportunity. Any creature or object that
+isn't currently held receives 1d6 fire damage as you pass within 5ft of it.
+```
+
+```
+Animate Dead (3rd)
+Casting time: 1 minute
+Range: Self
+Components: V, S, M(a drop of blood and pile of bones or corpse)
+Duration: Instantaneous
+You create an undead servant, either a skeleton from a pile of bones, or a
+zombie from a corpse. On your turn, you may use a bonus action to command any 
+creatures you've created using this spell if they are within 60ft of you. If 
+you do not order your creatures, they will take the dodge action.
+
+Your command over this undead servant lasts for twenty four hours. You may 
+recast this spell to maintain control over three of these creatures. If you do 
+not re-assert control, they will roam and hunt the living.
+```
+
+```
+Blink (3rd)
 Casting time: 1 action
 Range: Self
-Components: S, M(a blade)
+Components: S, M
+Duration: 1 minute
+At the end of each turn, roll a 1d20. If you roll 11 or above, you are 
+transported to the ethereal plane. When you're in the etherial plane at the 
+start of your turn or when the spell ends, you return in an unoccupied space 
+of your choosing within 10ft of where you vanished. If you are in the etherial
+plane already, you instead are transported into the material plane.
+```
+
+```
+Clairvoyance (3rd)
+Casting time: 10 minutes
+Range: 1 mile
+Components: V, S, M(a focus worth 50GP or more)
+Duration: Concentration, 10 minutes
+You create an invisible, immaterial sensor within range in an area familiar to 
+you, or an obvious place unfamiliar to you. You may choose to hear or see from 
+this sensor, and may switch using an action. A creature that can see invisible 
+entities sees your sensor as a glowing eye(if seeing) or ear(if hearing).
+```
+
+```
+Dispell Magic (3rd)
+Casting time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Instantaneous
+You choose one creature, object, or magical effect within range. All spells of 
+3rd level or lower on the target end. For higher spells, make an ability check 
+using your spellcasting ability. THe DC is 10 + the spell's level. If 
+successful, the spell ends.
+```
+
+```
+Enemies Abound (3rd)
+Casting time: 1 action
+Range: 120 feet
+Components: V, S
 Duration: Concentration, 1 minute
-As part of casting this spell, you attack a creature with the blade. If the
-attack hits, the attack deals an additional 1d8 necrotic damage and the blade
-begins syphoning. You restore half of the necrotic damage dealt, rounded up.
-For the duration while you are within 60ft of the target, you may use your
-action to deal 1d8 more necrotic damage and restore half of that damage, rounded
-up.
+You target the mind of a creature within range, penentrating it with your own.
+The target must succeed an intelligence check against your spellcasting DC to 
+make this spell automatically fail and become immune to it for 24 hours. If
+the target fails, they see all creatures around them as enemies. Each time 
+they take damage, the target may remake their intelligence save. When the 
+target selects an enemy to attack, they must randomly choose from creatures 
+within range.
+```
+
+```
+Erupting Earth (3rd)
+Casting time: 1 action
+Range: 120 feet
+Components: V, S, M(a piece of obsidian)
+Duration: Instantaneous
+You select a point on the ground within range and a 20 foot cube of dirt and 
+stone erupts from the ground. All creatures beneath the cube must succeed a 
+dexterity saving throw to halve 2d12 bludgeoning damage. The area effected 
+becomes difficult terrain, unless ten minutes are spent to clear the area of 
+debris.
+```
+
+```
+Fast Friends (3rd)
+Casting time: 1 action
+Range: 30 feet
+Components: V
+Duration: Concentration, 1 hour
+You speak to one creature, who must succeed a wisdom save or become charmed. 
+While charmed by this spell, the creature will regard you as a friend and 
+extends the same courtesy and assistance they would to a friend. When the 
+spell ends, the creature is aware you charmed them.
+```
+
+```
+Feign Death (3rd)
+Casting time: 1 action
+Range: touch
+Components: V, S, M(a pinch of dirt from a grave)
+Duration: 1 hour
+You touch a willing creature and put it into a deep, breathless sleep. The 
+creature is unconscious and appears outwardly to be dead. You may dispel the 
+creature by touching it again. Any disease, poison, or curse on the creature 
+is suspended for the duration of the spell.
+```
+
+```
+Flame Arrows (3rd)
+Casting time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, 1 hour
+You touch a quiver containing arrows or arrows. For the duration, the arrows or bolts explode into a burst of flame on impact, dealing an additional 1d6 fire damage. The spell ends when the quiver is empty.
+```
+
+```
+Gaseous Form (3rd)
+Casting time: 1 action
+Range: Touch
+Components: V, S, M(a glass vial of smoke)
+Duration: Concentration, 1 hour
+You transform a willing creature you touch along with everything it's wearing 
+into a cloud of colorful gas. It's movement is limited to a 10 foot flying 
+speed, and can fit through any barrier that does not provide an airtight seal. 
+The creature is likewise resistant to non-magical physical damage.
+```
+
+```
+Glyph of Warding (3rd)
+Casting time: 1 hour
+Range: touch
+Components: V, S, M(25GP of crystal dust)
+Duration: Until dispelled or triggered
+You engrave a magical glyph onto a 5 foot square surface, which stores a spell 
+of level 3 or lower. If the spell targets a creature, it targets the nearest 
+creature in range when triggered. If the spell targets an area, it centers the 
+effect on itself. When making the glyph, you specify a trigger. It may be a 
+spoken phrase, a creature entering a certain range, or some other condition 
+that takes place near the glyph. If the glyph is moved more than 10 feet from 
+it's point of origin, it is dispelled. You may also dispel the glyph 
+telepathically from any range.
+```
+
+```
+Haste (3rd)
+Casting time: 1 action
+Range: 30 feet
+Components: V, S, M(a dried tea leaf)
+Duration: Concentration, 1 minute
+One willing creature within range gains a +2 bonus to their AC, has their 
+speed doubled, has advantage on dexterity saving throws, and has an extra 
+action on their turn. When the spell ends, the target cannot move or take 
+actions until the end of it's next turn.
+```
+
+```
+Hypnotic Pattern (3rd)
+Casting time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Concentration, 1 hour
+You create an ethereal hypnotic pattern within a 30 foot cube centered on a 
+point within range. All creatures within must succeed a wisdom saving throw or 
+become charmed to inter. While charmed, the creatures are incapacitated and 
+have a speed of 0, their minds lost in the pattern. A creature is broken of 
+this charm if they take damage or someone else uses an action to shake them 
+awake.
+```
+
+```
+Force Sphere (3rd)
+Casting time: 1 action
+Range: self(10 foot dome)
+Components: V, S, M(A thimble-sized clay bowl)
+Duration: Concentration, 8 hours
+A 10 foot dome of force extends around you, impermiable to entry. Up to nine 
+medium-sized creatures may safely reside within the dome for the duration, but 
+creatures can neither enter nor exit the sphere. Spells may target creatures 
+within the sphere, but elemental effects such as fire or lightning cannot 
+permeate the force barrier.
+```
+
+```
+Incite Greed (3rd)
+Casting time: 1 action
+Range: 30ft
+Components: V, S, M(A gem worth at least 50gp)
+Duration: Concentration, 1 minute
+All creatures of your choosing within range must succeed a wisdom save to 
+avoid being charmed. While charmed, a creature uses their movement to safely 
+approach the gem, and covet it. If the creature takes damage, the charm ends 
+on it.
+```
+
+```
+Intellect Fortress (3rd)
+Casting time: 1 action
+Range: 30 feet
+Components: V
+Duration: Concentration, 1 hour
+You or a willing creature you can see within range becomes resistant to 
+psychic damage and has advantage on intelligence, wisdom, and charisma saving 
+throws for the duration.
+```
+
+```
+ (3rd)
+Casting time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, 1 hour
+```
+
+```
+ (3rd)
+Casting time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, 1 hour
+```
+
+```
+ (3rd)
+Casting time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, 1 hour
+```
+
+```
+ (3rd)
+Casting time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, 1 hour
+```
+
+```
+ (3rd)
+Casting time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, 1 hour
 ```
 
 ## 4th level spells

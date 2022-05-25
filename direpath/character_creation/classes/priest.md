@@ -6,7 +6,6 @@
 # |  __/ '__| |/ _ \/ __| __|                                                  #
 # | |  | |  | |  __/\__ \ |_                                                   #
 # \_|  |_|  |_|\___||___/\__|                                                  #
-# V0.0.0                                                                       #
 ################################################################################
 ```
 You live as an example to all that share your faith. In service of a deity,
@@ -259,7 +258,10 @@ creature.
 - Kindness [1]
 - Confession [1]
 - Riddle [1]
-- Exorcism[1]
+- Exorcism [1]
+- Dispel Magic [1]
+- Feign Death [1]
+- Gaseous Form [1]
 
 ### 4th
 - Miracle [1]
