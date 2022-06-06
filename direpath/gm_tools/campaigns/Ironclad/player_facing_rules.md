@@ -1,5 +1,12 @@
 # Ironclad
 
+## Meta info
+This is my first attempt at writing a true sandbox campaign. The party is given
+objectives for the entire campaign and no further prompting. The table is
+closed, with a consistent set of players present each session. The world is
+highly deadly, and geared towards tactical combat and resource management with
+roleplay taking a tertiary role.
+
 ## Premise
 
 The elementals have been unleashed on the kingdom of Ferrus, tearing through the
@@ -95,16 +102,53 @@ details. Ability scores already include their lineage ability score increases.
 ```
 
 ## Base Camp
+The base camp produces enough food to feed everyone living there and this place
+is where stockpiled resources go.
 
 ### Moving the base camp
-You can select the base camp's coastal position at the start of the campaign.
-After that, it takes one week for the base camp to move one hex on the map.
+Instead of giving teams of workers background assignments, you may instead
+employ everyone not in your adventuring party to move the base camp one
+hex over the course of a week.
 
-### Jobs
-Every 5 commoners at base camp can be assigned jobs.
-- Scavenge secured Location (2 days per hex distance from base camp, plus 1)
-- Harvest monsters(produces rations and crafting materials)
-- Craft 10 wooden items (ie club, quarterstaff, spear, shield, torch, arrow)
-- Craft 1 complex item (using crafting materials)
-- Scout for monsters (1 in 3 chance to discover roaming monster each week)
-- Trade mission (2 days per hex distance from base camp. Buys/sells everything on a shopping list)
+### Background Assignments
+Characters that aren't in your adventuring party can be given other jobs.
+A team of 5 people at home base on one of the following assignments.
+If a team needs to move to accomplish a task, they move at a rate of one hex
+per day. A team can carry 250lb without a cart, or 1000lb with one.
+
+#### Scavenge secured Location
+The team visits a location that was cleared out and scavenges anything of value.
+Monsters and traps left behind will endanger the team. The GM rolls 1d20 against
+a DC to determine if the group is attacked. 
+
+#### Harvest monsters
+The team spends a week breaking down a pile of monster corpses. They turn the
+monster meat into rations and monster parts.
+```
++--------+---------+
+|  Size  | Rations |
++--------+---------+
+| Tiny   | 1d2-1   |
+| Small  | 1d4-1   |
+| Medium | 1d4     |
+| Large  | 4d4+4   |
+| Huge   | 10d4+10 |
++--------+---------+
+```
+
+#### Craft Wooden Items
+The team of 5 can produce one of the following over the course of a week:
+- 5 clubs, great clubs, flint spears, or quarterstaffs
+- 5 wooden shields
+- 10 torches
+- 10 arrows
+- A recipe discovered after harvesting specific monster parts.
+
+#### Scout for monsters
+The team searches a specified hex looking for monsters. A 1d4 is rolled for the
+week. On a 4, the team locates a monster lair. On a 1, the team is attacked by
+one or more monsters.
+
+#### Trade mission
+The team carries goods to sell to settlement and a list of items to buy for the
+return trip.
