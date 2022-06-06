@@ -16,6 +16,7 @@
 
 Rat
 Tiny Beast
+XP: 10
 HP: 3(1d4)
 AC: 12
 Speed: 25ft
@@ -25,6 +26,7 @@ Attacks:
 Bite +1 1 piercing
 
 Giant Rat
+XP: 25
 Medium Beast
 HP: 9(3d4)
 AC: 12
@@ -35,6 +37,7 @@ Attacks:
 Bite +3 1d4+2 piercing
 
 Feral Dog
+XP: 50
 This dog foams at the mouth.
 Medium Beast
 HP: 9(3d4)
@@ -46,6 +49,7 @@ Attacks:
 Bite +3 1d4+2 piercing, DC 11 CON save or contract mouthfoam
 
 Sewer Gator
+XP: 100
 These creatures live in the sewers
 Medium Beast
 HP: 9(3d4)
@@ -65,6 +69,7 @@ Bite +3 1d8+2 piercing, DC 13 STR or grapple
 
 Blackbear
 Medium Beast
+XP: 200
 HP: 21(3d10+3)
 AC: 13(natural)
 Speed: 30ft, Climb 30ft
@@ -76,6 +81,7 @@ Claws +3 2d4+2 slashing
 
 Wolf
 Medium beast
+XP: 100
 HP: 12 (3d6)
 AC: 12
 Speed: 40ft
@@ -85,8 +91,22 @@ Pack tactics: When attacking a target adjacent to a friendly, the wolf
 gains advantage on the attack.
 Bite +3 1d6+2
 
+Elk
+Large Beast
+XP: 50
+HP: 13(2d10+2)
+AC: 10
+Speed: 50ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 19| 16| 14|  7| 14| 10|
+Charge: After moving 20ft in straight line at target, ram forces a DC13 STR save
+to halve 2d6 extra bludgeoning damage and avoid being knocked prone.
+Ram(10ft) +5 1d6+3 bludgeoning
+Hooves(against prone) +5 2d4+3 bludgeoning
+
 Dire Wolf
 Large beast
+XP: 200
 HP: 21 (3d8+9)
 AC: 12
 Speed: 40ft
@@ -98,6 +118,7 @@ Bite +4 2d6+3
 
 Mountain lion
 Medium Beast
+XP: 200
 HP: 18(3d6+3)
 AC: 12
 Speed: 40ft, Climb 30ft
@@ -108,6 +129,19 @@ Attacks:
 Bite +3 1d6+2 piercing
 Claws +3 2d4+2 slashing
 
+Giant Elk
+Huge Beast
+XP: 450
+HP: 35(5d12)
+AC: 14
+Speed: 60ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 19| 16| 14|  7| 14| 10|
+Charge: After moving 20ft in straight line at target, ram forces a DC 14 STR
+save to halve 2d6 extra bludgeoning damage and avoid being knocked prone.
+Ram(10ft) +6 2d6+4 bludgeoning
+Hooves(against prone) +6 4d8+4 bludgeoning
+
 #########################################################
 #   Prehistoric
 #########################################################
@@ -115,6 +149,7 @@ Claws +3 2d4+2 slashing
 Littlefoot
 A dino roughly the size of a cat. Often hunt in packs.
 Tiny Beast
+XP: 10
 HP: 3(1d4)
 AC: 10
 Speed: 35ft
@@ -129,6 +164,7 @@ Bite +3 1d4 piercing. On hit, attach.
 Featherclaw
 A small raptor with green feathers.
 Small Beast
+XP: 50
 HP: 8(2d4+2)
 AC: 12(natural)
 Speed: 40ft
@@ -140,8 +176,25 @@ Attacks:
 Bite +3 1d8+1 piercing. On hit may make a claw attack.
 Claw +3 2d4+1 slashing
 
+Saber-Toothed Tiger
+Large Beast
+XP: 450
+HP: 47(7d10+5)
+AC: 12(natural)
+Speed: 40ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 18| 14| 15|  3| 12|  8|
+Keen Sense: Advantage on perception checks utilizing smell.
+Pounce: After moving 20ft in a straight line, hitting with a claw attack forces
+target to succeed a DC 14 STR save or be knocked prone. If prone, the tiger can
+make a bite attack as a bonus action.
+Attacks:
+Bite +6 1d10+5 piercing
+Claw +6 2d6+5 slashing
+
 Sharp Tooth
 Huge Beast
+XP: 2300
 HP: 90(10d12+20)
 AC: 12(natural)
 Speed: 40ft,
@@ -156,12 +209,26 @@ Tail(15ft) +6 2d4+2 bludgeoning
 #   Nautical
 #########################################################
 
+Giant Leech
+Medium Beast
+XP:
+HP: 12(3d6)
+AC: 13
+Speed: 5ft, 40ft swim
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 14| 12|  3| 14|  3|
+Attacks:
+Bite +5 2d6+3 piercing
+
 Shark
 Medium Beast
+XP: 450
 HP: 28(6d6+4)
 AC: 13
 Speed: 5ft, 40ft swim
 |STR|DEX|CON|INT|WIS|CHA|
 | 16| 14| 12|  3| 14|  3|
+Feeding frenzy: Shark may make a second attack on a target that has less than
+half it's hitpoints.
 Attacks:
 Bite +5 2d6+3 piercing

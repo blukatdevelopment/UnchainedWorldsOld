@@ -1,28 +1,57 @@
+## Human Forces
 
 Crown Guard
-HP: 10(2d6+2)
-AC: 14(leather, shield)
+Medium Humanoid
+XP: 25
+HP: 5(1d6+1)
+AC: 11(padded)
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 10| 12| 10| 13| 12|
 Speed: 30ft
 Attacks:
-Spear +4, 1d6+2 piercing
+Club +3 1d4+2
 
-Crown Skirmisher
+Crown Bowman
+Medium Humanoid
+XP: 50
 HP: 15(3d6+3)
 AC: 13(leather)
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 15| 12| 10| 13| 12|
 Speed: 30ft
 Attacks: 
-Shortsword +6, 1d6+2
-Light Crossbow +6, 1d8+2
+Dagger +4, 1d4+2
+Light Crossbow +4, 1d8+2
 
 Crown Pikeman
+Medium Humanoid
+XP: 50
 HP: 15(3d6+3)
 AC: 13(hide)
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 10| 12| 10| 13| 12|
 Speed: 30ft
 Attacks:
-Pike(10ft) +6, 1d10+2
+Pike(10ft) +4, 1d10+2
+
+Knight
+Medium Humanoid
+XP: 450
+HP: 24(3d8+9)
+AC: 21(platemail)
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 10| 16| 10| 13| 16|
+Speed: 30ft
+Multi-attack: Can make two longsword attacks
+Attacks:
+Longsword +5 1d8+3 slashing
+Heavy Crossbow +2 1d10 piercing
+
+## Gnomes
 
 Gnome Foot Soldier
 Small Humanoid
+XP: 50
 HP: 9(3d4)
 AC: 16(Breast Plate)
 Speed: 30ft
@@ -42,24 +71,34 @@ Rocket Launcher(60ft) +4 15ft Sphere DC 15 DEX save to halve 3d8 fire damage
 Gnome Powered Infantry
 Large Humanoid
 HP: 35(5d12)
-AC: 18(Power Armor)
+AC: 20(Power Armor)
+XP: 700
 Speed: 30ft
 |STR|DEX|CON|INT|WIS|CHA|
 | 18| 14| 10| 15| 13| 10|
+Power Cell: One minute after activation, the powered infantry goes silent unless
+supplied with more fuel.
 Multi-attack: The powered infantry may make two attacks, which may be some
 combination of power fist and fist flail.
 Attack:
 Power Fist +6 1d8+4 bludgeoning
 Fist Flail(15ft) +6 1d6+4 bludgeoning. DC 14 STR or be grappled and pulled 10ft
 
+## Elves
+
 Elven Guard
+Medium Humanoid
+XP: 450
 HP: 18(3d8+3)
 AC: 16(Breast Plate)
 Speed: 30ft
 |STR|DEX|CON|INT|WIS|CHA|
 | 10| 16| 12| 12| 16| 14|
-Spellcasting(1/day): The elven guard can cast Levitate from the spell compendium
-volume 1.
+Spellcasting(1/day): The elven guard may cast one of the following spells
+- Hideous Laughter
+- Disguise Self
+- Color Spray
+- Levitate
 Sword Dance: As a reaction when targeted by a melee attack that misses, elven
 guard may make an attack of opportunity.
 Multi-attack: The elven guard may make two scimitar attacks.
@@ -67,49 +106,20 @@ Attack:
 Scimitar +5 1d6+3 slashing
 
 Elven Guard Elite
+Medium Humanoid
+XP: 750
 HP: 21(3d10+3)
 AC: 17(Half Plate)
 Speed: 30ft
 |STR|DEX|CON|INT|WIS|CHA|
 | 10| 18| 12| 12| 16| 14|
-Spellcasting(1/day): May cast Hold Person from spell compendium volume 1.
+Spellcasting(2/day): May cast one of the following spells
+- Flame Arrows
+- Haste
+- Counterspell
+- Shadow Magic
 Sword Dance: As a reaction when targeted by a melee attack that misses, elven
 guard may make an attack of opportunity.
 Multi-attack: The elven guard may make three scimitar attacks.
 Attack:
 Scimitar +6 1d6+4 slashing
-
-Crown Skirmishers brigade
-Size: Huge swarm of sixteen medium creatures
-HP: 240 (48d6+48)
-AC: 10[+ Armor] - 2
-Speed: 30ft
-Area Vulnerability - Attacks that target an area of ten square feet or more deal four times normal damage.
-Your morale die is D6. Every time the brigade takes 15 or more damage in an attack,
-roll your D6 once for every 3 damage in the attack. On a 1, the brigade is routed.
-The brigade may repeat the roll each turn after being routed, regrouping on a 6.
-Multiattack:
-The brigade may attack four times using shortswords or light crossbows.
-Alternately, it may make one Light Crossbow Volley
-Shortswords: Enemy DEX save to halve 4d6+4 slashing damage
-Light Crossbows(120ft): Enemy DC 12 DEX save to halve 4d8+4 piercing damage
-Light Crossbow Volley(120ft): Enemies in 10ft cube must make DC 12 DEX save to halve 4d8+4 piercing damage
-
-Crown Pikeman Army
-Size: Gigantic (20x20ft) swarm of sixty four medium creatures
-HP: 640
-AC: 13(hide), 17 with shields up
-Speed: 30ft
-Area Vulnerability -
-Tower Shields:
-The front row of the army may wield tower shields instead of pikes,
-granting +4 AC.
-Damage from area of effect attacks deal 8 times as much damage, or 4 times as
-much if shields are up.
-Perimeter Defense:
-The army may make one attack as a reaction when an enemy enters 10ft of it.
-Multiattack:
-The army may make four attacks with pikes, or three if their shields
-are up.
-Attacks:
-Pikes(10ft range): Enemy must make DC 13 DEX save to halve 8d10+8 piercing damage
