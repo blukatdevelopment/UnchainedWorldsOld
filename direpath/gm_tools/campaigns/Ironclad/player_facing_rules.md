@@ -40,7 +40,7 @@ The following classes are available in this campaign:
 - warrior
 
 ### Roster
-50 commoners landed on Korrus. The following table contains their pertinent
+Commoners landed on Korrus. The following table contains their pertinent
 details. Ability scores already include their lineage ability score increases.
 
 ```
