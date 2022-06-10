@@ -8,6 +8,7 @@
 #                                   #
 #####################################
 
+
 ##################
 #  Feather Cult  #
 ##################
@@ -53,6 +54,8 @@ gain it's favor and become powerful. The shadow cult attracts the power-hungry
 and unscrupulous.
 
 Shadow Initiate
+Medium Humanoid
+XP: 25
 HP: 3 (1d4)
 AC: 12
 Speed: 30ft
@@ -79,11 +82,14 @@ Dagger: +5 1d4+2 piercing
 Shadow Sword: +5 2d8+2 Piercing
 
 Shadow Elite
+Medium Humanoid
+XP: 200
 HP: 9 (3d4)
 AC: 15(Mage Armor)
 Speed: 30ft 
 Dark feast(60ft): willing creature takes 30(6d8) necrotic, gain as much temp HP
 Legendary action(when ally dies):  Dark Feast fallen ally
+Shadow Sword: +5 2d8+2 Piercing
 
 #################
 # Cult of light #

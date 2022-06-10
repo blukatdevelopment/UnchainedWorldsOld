@@ -49,13 +49,14 @@ This orange-fleshed creature has the bones of it's enemies sewed to it's hide
 as armor. It carries a large bone spear and has a cat of nine tails made with
 sharpened bone fragments. It wears a necklace of skulls.
 Large Fiend(Demon)
+XP: 450
 HP: 32 (4d12+4)
 AC: 14(bone armor)
 Speed: 30ft
 |STR|DEX|CON|INT|WIS|CHA|
 | 16| 12| 12| 10| 10| 10|
-Bone Whip(15ft) 2d4+3
-Bone Spear 2d8+3
+Bone Whip(15ft) +5 2d4+3
+Bone Spear +5 2d8+3
 
 Gattogat
 A three-foot tall cat that can stand upright. It's whiskers are bent and it's
@@ -63,8 +64,12 @@ coat is a bit frazzled and unkempt. It can pretend to be a large housecat, and
 can also reveal it's true form. It's eyes are bright blue unless it's using it's
 powers, at which point they turn green.
 Small Fiend(Demon)
-HP: 18 (2d12+4)
-AC 16
+XP: 450
+HP: 20 (4d4+8)
+AC 16 (natural armor)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 16| 12| 16| 11| 16|
 Resists: Non-magical physical, psychic
 Charm(1/day): Gatto produces a telepathic illusion from it's eyes. All creatures
 that can see it must succeed a DC 16 WIS save or they find this very cute and

@@ -19,3 +19,41 @@ Resistances: non-magical physical damage, cold
 Vulnerabilities: fire
 Spore Cloud: 30 foot radius, DC 14 CON save or become poisoned
 Tree club: +7 19(3d8+4) bludgeoning
+
+Rothead King
+A rothead king's host brain still works, and the fungus hijacks it in the same way it hijacks the rest of the bodies of regular rotheads. Without a king, a rothead colony will collapse.
+XP: 50
+HP: 10 (2d4+4)
+AC: 10
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 10| 14|  5| 10|  7|
+Resistant: Non-magical physical
+Bash +3 1d8+1 bludgeoning
+Bite +3 1d4 piercing, DC 13 CON save or contract Bogrot
+
+Rothead
+A fungus hijacking the muscles of their braindead host.
+Medium Plant
+XP: 50
+HP: 10 (2d4+4)
+AC: 10
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 10| 14|  5| 10|  7|
+Resistant: Non-magical physical
+Bash +3 1d8+1 bludgeoning
+Bite +3 1d4 piercing, DC 13 CON save or contract Bogrot
+
+RotMutt
+A fungus hijacking the muscles of their braindead host.
+Medium Plant
+XP: 25
+HP: 5 (1d4+2)
+AC: 10
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 10| 14|  5| 10|  7|
+Resistant: Non-magical physical
+Bash +3 1d8+1 bludgeoning
+Bite +3 1d4 piercing, DC 13 CON save or contract Bogrot

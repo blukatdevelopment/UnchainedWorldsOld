@@ -91,6 +91,19 @@ Pack tactics: When attacking a target adjacent to a friendly, the wolf
 gains advantage on the attack.
 Bite +3 1d6+2
 
+Giant Spider
+Large beast
+XP: 200
+HP: 24 (4d10+4)
+AC: 14 (natural armor)
+Speed: 30ft, climb30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 16| 12|  2| 11|  4|
+Web walker: Ignores restrictions from webs.
+Web senses: When touching web, spider can locate any 
+other creature touching the web.
+Bite +5 1d6+3 piercing, DC 11 CON to halve 2d8 poison damage and avoid being poisoned for 1 hour. If poison drops the target to or below 0, they are stable but paralyzed and poisoned.
+
 Elk
 Large Beast
 XP: 50

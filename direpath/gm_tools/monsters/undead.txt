@@ -25,7 +25,8 @@ Life Drain: +4 1d6+2 necrotic
 
 Zombie
 Medium Undead
-HP: 18 (3d8+3)
+XP: 25
+HP: 10 (2d4+4)
 AC: 8
 Speed: 20ft
 |STR|DEX|CON|INT|WIS|CHA|
@@ -40,7 +41,8 @@ Bash +2 1d8+1 bludgeoning
 
 Zombie Runner
 Medium Undead
-HP: 18 (3d8+3)
+XP: 25
+HP: 10 (2d4+4)
 AC: 8
 Speed: 20ft
 |STR|DEX|CON|INT|WIS|CHA|
@@ -52,6 +54,20 @@ Corpse Run(1 use): As a reaction to bloodshed or a loud noise, the zombie moves
 up to 30ft toward the source.
 Multi-attack: Zombie may make two bite attacks
 Bite +2 1d4+1 piercing
+
+Shadow
+Medium Undead
+XP: 50
+HP: 9(3d4)
+AC: 12
+Speed: Fly 40ft
+Immune: necrotic
+Resistance: Non-magical physical, acid, cold, fire, lightning, thuinder
+Weak: Radiant
+Amorphous: Shadow may change shape and slide through small crevices.
+Shadow stealth: A shadow may use it's bonus action to hide in dim light or darkness, and gains a +6 to said check.
+Sunlight weakness: In direct light, shadow has disadvantage on attack rolls, checks, and saving throws.
+Strength Drain +4 2d6+2, reduce target's strength score by 1 until they finish a rest. If strength falls below 1, they die.
 
 Ghost
 Medium Undead
@@ -164,19 +180,18 @@ Speed: 30ft
 Morning Star(10ft) +4 1d8+4 bludgeoning
 
 Vampire
+Medium Undead
+XP: 450
 Given eternal youth and fortitude by the same curse that drains
 their humanity.
 Medium Undead
 HP: 24(3d6+3)
 AC: 12
 Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 15| 14| 15| 16| 17|
+Vampiric surge(Recharge 3-6): This turn, the vampire's movement speed doubles, they may take the disengage action as a bonus action, and they may make one extra attack.
 Immune to nonmagical physical damage
-Longsword +5 1d8+2
-
-Bone Gauntlet
-An armored skeleton wielding a morning star.
-Medium Undead
-HP: 27(3d8+12)
-AC: 18(rusty plate mail)
-Speed: 30ft
-Morning Star(10ft) +4 1d8+4 bludgeoning
+Multiattack: Vampire may make two rapier attacks
+Rapier +5 1d8+2
+Feed +5 1d6 piercing, gains damage dealt as temporary hit points
