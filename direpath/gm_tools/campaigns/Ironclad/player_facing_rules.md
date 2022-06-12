@@ -24,7 +24,9 @@ dodge action if they aren't commanded.
 
 ### XP and advancement
 Characters gain 10XP for each gold earned, and XP is also earned by killing
-monsters.
+monsters. XP is divided up equally between all player characters and followers
+present. This means that if a party of four gains 4 gold, each character gains
+10XP ( 4 gold pieces * 10 XP per gold / 4 characters = 10 ).
 
 ### Classes
 As the commoners level up, they may select adventurer classes.
