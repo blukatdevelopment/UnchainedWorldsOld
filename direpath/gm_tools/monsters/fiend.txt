@@ -34,15 +34,18 @@ They feed on the brains of wounded creatures and are attracted by the sounds
 of agony. Snorks have a simbiotic relationship with soul suckers and will hunt
 together. Snorks will run away from light sources.
 Medium Demon(fiend)
+XP: 100
 HP: 30(6d6+6)
 AC: 13
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 12| 12| 10| 10| 10|
 Speed: 30ft
 Couple: Target must succeed a DC 12 STR save or else become grappled as the snork
 attaches to their head and begins searching for a weak in the skull with their
 internal beak.
-Tap: If coupled, target must make a DC 12 CON save. On a failure, they take
-2d6 piercing damage, or halfe as much on a save. If this attack brings a creature
-to 0 hit points, the snork cracks into the skull and eats their brain.
+Tap: If coupled, target must make a DC 12 CON save to halve 2d6 piercing damage.
+If this attack brings a creature to 0 hit points, the snork cracks into the
+skull and eats their brain.
 
 Bone Thresher
 This orange-fleshed creature has the bones of it's enemies sewed to it's hide

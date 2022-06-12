@@ -94,7 +94,7 @@ Bite +3 1d6+2
 Giant Spider
 Large beast
 XP: 200
-HP: 24 (4d10+4)
+HP: 18 (3d10+4)
 AC: 14 (natural armor)
 Speed: 30ft, climb30ft
 |STR|DEX|CON|INT|WIS|CHA|

@@ -47,7 +47,8 @@ Bite +32 1d6 piercing. DC 12 CON save or 1d6 poison damage
 
 Chicken Eel
 Medium Monstrosity
-HP: 15(3d8)
+XP: 450
+HP: 21(3d8+6)
 AC: 11
 Speed: 40ft, 30ft climb
 |STR|DEX|CON|INT|WIS|CHA|
@@ -81,6 +82,7 @@ Huge Monstrosity
 A featherless, eyeless bird with a 15 foot wingspan and talons. It uses echo
 location and keen hearing to "see" it's way around. It's wings use skin flaps
 to keep it aloft.
+XP: 450
 HP: 27 (3d12+6)
 AC: 12
 Speed: 25ft, 60ft fly
@@ -109,14 +111,32 @@ Bite +4 1d6+2 piercing DC 14 CON save or contract wererat lycanthropy
 Claw +4 1d4+2 slashing DC 14 CON save or contract wererat lycanthropy
 
 Young Blink Lion
-Large Monstrosity
 A lion with tenetacles on it's back and tail. It has a third eye with a golden
 iris.
+Large Monstrosity
+XP: 50
 HP: 27 (3d12+6)
 AC: 12
 Speed: 40ft
 |STR|DEX|CON|INT|WIS|CHA|
 | 16| 14| 14|  4| 10|  4|
+Blink: As a bonus action or reaction when targeted by ranged attacks, may
+teleport to another point within 30ft.
+Claws +5 1d6+2 slashing
+Tentacles +5 1 piercing, instant grapple
+Tail +5 1d4 piercing, instant grapple
+
+Mature Blink Lion
+A lion with tenetacles on it's back and tail. It has a third eye with a golden
+iris.
+Large Monstrosity
+XP: 450
+HP: 41 (5d12+6)
+AC: 12
+Speed: 40ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 14| 14|  4| 10|  4|
+Multi-attack: May make two claw attacks against a grappled target.
 Blink: As a bonus action or reaction when targeted by ranged attacks, may
 teleport to another point within 30ft.
 Claws +5 1d6+2 slashing

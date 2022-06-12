@@ -1,3 +1,72 @@
+## Start of campaign
+The campaign begins when the party decides where to land on Korrus and set up
+camp. 
+
+Authority(glaive), Justice(longsword), and Stability(dagger) are the three
+artifacts that must be retrieved to fight the elementals.
+
+### Justice (Legendary)
+This longsword stores the souls of any humanoids it kills. It requires
+attunement, and each time attunement is lost, the souls leave the blade.
+
+```
++-------+-----------------------------------------------------+
+| Souls |                       Effect                        |
++-------+-----------------------------------------------------+
+|     1 | +1 to damage and attacks                            |
+|     5 | Sword can provide 20ft of bright, 20ft of dim light |
+|    15 | +2 to damage and attacks                            |
+|    35 | Can consume 5 souls to cast lightning bolt          |
+|    55 | +3 to damage and attacks                            |
++-------+-----------------------------------------------------+
+```
+
+### Authority (Legendary)
+This glaive stores the souls of any humanoids it kills. It requires attunement,
+and each time attunement is lost, the souls leave the blade.
+
+```
++-------+----------------------------------+
+| Souls |              Effect              |
++-------+----------------------------------+
+|     1 | +1                               |
+|     5 | Cast Toll The dead 3 times a day |
+|    15 | +2                               |
+|    35 | Cast Cause Fear once a day       |
+|    55 | +3                               |
++-------+----------------------------------+
+```
+
+### Stability (Legendary)
+This dagger stores the souls of any humanoids it kills. It requires attunement,
+and each time attunement is lost, the souls leave the blade.
+
+```
++-------+---------------------------------------------------------+
+| Souls |                         Effect                          |
++-------+---------------------------------------------------------+
+|     1 | Cast Disguise Self once a day                           |
+|     5 | Can consume a hit die to attack three times with dagger |
+|    15 | +1                                                      |
+|    35 | Cast Shadow Magic once a day                            |
+|    55 | +2                                                      |
++-------+---------------------------------------------------------+
+```
+
+Roll to see where each of the three artifacts have landed. The party does not
+have access to this information.
+```
++------+--------------------------------------------------+
+| Roll |                     location                     |
++------+--------------------------------------------------+
+|    1 | The Rot King in the axehead mountains            |
+|    2 | Mayor Arnoldo of Mbaleo                          |
+|    3 | Tcharovos in the Snakefen River                  |
+|    4 | Nerafher in the Argent Vale's loot pile          |
+|    5 | Minas Mana 5th floor, on couch beside bear       |
+|    6 | Horgur's horde at the mouth of the Hirkidw River |
++------+--------------------------------------------------+
+```
 
 ## Recruitable Roster
 There is a pool of recruitable commoners. Each requires 50 gold to join
@@ -35,13 +104,46 @@ permanently.
 +----+---------------------------+----------------+-----------------+--------------------------+
 ```
 
+## Overland travel encounters
+```
++-----------+--------------------------------------------------+
+| Roll 2d12 |                    Encounter                     |
++-----------+--------------------------------------------------+
+|         2 | 1d4+! basiliskoids                               |
+|         3 | Minotaur                                         |
+|         4 | Flock of 2d4 snarlbeaks                          |
+|         5 | swarm of 2d4 Ferhorns                            |
+|         6 | Young blink lion                                 |
+|         7 | chicken eel                                      |
+|         8 | Pack of 3d4 spider dogs                          |
+|         9 | 2d4+1 hobgoblin warriors                         |
+|        10 | 2d4 mercenaries                                  |
+|        11 | 2d4+1 featherclaw ambush                         |
+|        12 | Pack of 3d4 wolves                               |
+|        13 | 2d4 petty bandits, 2d4 bandits, 1 bandit captain |
+|        14 | 1d4 dire wolves                                  |
+|        15 | Giant Elk                                        |
+|        16 | Saber-toothed tiger                              |
+|        17 | Eyeless beaker                                   |
+|        18 | Mature blink lion                                |
+|        19 | Grassheap                                        |
+|        20 | River Giant                                      |
+|        21 | Forest Giant                                     |
+|        22 | Devil Scribe                                     |
+|        23 | 1d4 Elven headhunters (Elven Guard)              |
+|        24 | 1d4+1 evil knights                               |
++-----------+--------------------------------------------------+
+```
+
 
 ## Mbaleo(City)
 A small town with a flour mill, stable, and smith.
-Mayor Arnoldo will tell the party about the Hirkidw River. In actuality, he is
+Mayor Arnoldo(m) will tell the party about the Hirkidw River. In actuality, he is
 a vampire that wants everyone to believe vampires are a myth. He'll offer 100GP
 for the head of the vampire and for proof that it was not actually a vampire,
-as they do not exist.
+as they do not exist. Arnoldo's bodyguard, Meridah(f), is a retired shadow
+assassin that has unprofessed feelings for Arnoldo. If engaged in a fight, crown
+guards will arrive in the mayor's defense every 1d4 turns.
 
 ```
 Vampire
@@ -62,11 +164,117 @@ Rapier +5 1d8+2
 Feed +5 1d6 piercing, gains damage dealt as temporary hit points
 ```
 
+```
+Shadow Assassin
+HP: 9 (3d4)
+AC: 15(Mage armor)
+Speed: 30ft
+Knife step(bonus action): Throw knife to position within 30ft, teleport there and catch knife.
+Attacks:
+Dagger: +5 1d4+2 piercing
+Shadow Sword: +5 2d8+2 Piercing
+```
+
+
+```
++------+-----------------------------------------------------------------------------------+
+| Roll |                                      Encounter                                    |
++------+-----------------------------------------------------------------------------------+
+|    1 | A murder just occurred, the party is blamed.                                      |
+|    2 | Mayor Arnoldo accuses party of being vampires.                                    |
+|    3 | A bar fight breaks out in the tavern.                                             |
+|    4 | A villager wagers 5 GP on an arm wrestle.                                         |
+|    5 | A building catches fire, people trapped inside.                                   |
+|    6 | Villagers ask for help killing a monster nearby.                                  |
+|    7 | Festival with costumes, food, and dancing.                                        |
+|    8 | Attacked by 1d4+1 feral dogs from an alley.                                       |
+|    9 | A criminal is being beheaded in the city.                                         |
+|   10 | A vampire is on public trial.                                                     |
+|   11 | Traveling weapon smiths are in town selling +1 weapons for 150GP each             |
+|   12 | A troupe of traveling performs are in town.                                       |
+|   13 | A robber asks the party to temporarily hide him in exchange for some gold.        |
+|   14 | A suspected vampire begs the party to help them escape from an angry mob.         |
+|   15 | The party encounters an actual vampire.                                           |
+|   16 | A group of 1d4 commoners approaches the party asking to join, asking 50GP a head. |
+|   17 | A merchant gives the party a free flask of holy water and some garlic.            |
+|   18 | The party is approached by a vampire at night.                                    |
+|   19 | Villagers offer free stuff or try to chase the party out of town.                 |
+|   20 | A bounty of 100GP is placed on a fugitive vampire, dead or alive.                 |
++------+-----------------------------------------------------------------------------------+
+```
+
+
 ## The Hallowed City of Sirasea(City)
-A monestary with an orchard, oat farms, and temple of Justice.
+A monestary with an orchard, oat farms, and temple of Justice. Their goddess,
+Charna, is preserved by the blood of the punished guilty. The trees are watered
+with the literal blood of evildoers.
+Priests will remove a curse for 25GP.
+
+```
++------+-----------------------------------------------------------------------+
+| Roll |                               Encounter                               |
++------+-----------------------------------------------------------------------+
+|    1 | Priest offers PC 25gp to accompany them home                          |
+|    2 | Job board lists 50GP to kill a sinner                                 |
+|    3 | Party is demanded to confess their sins                               |
+|    4 | Party is offered weapons if they spread the word of Charna            |
+|    5 | Priest gives location of Justice(the blade)                           |
+|    6 | Priest waters orchard with blood                                      |
+|    7 | Monk challenges party member to fist fight for honor                  |
+|    8 | Monks are performing a ritual swordfight                              |
+|    9 | Monk begs the party for mortal pleasures(food, music, clothing)       |
+|   10 | Prisoner escapes, begs party for help                                 |
+|   11 | Priests offer blessing of Charna. (Cast Viridescent blade once a day) |
+|   12 | Someone with a severed arm is healed, their arm growing back          |
++------+-----------------------------------------------------------------------+
+```
 
 ## Sheagrove(City)
-A small struggling town with an apothecary and 
+A small struggling town with an apothecary and mages guild.
+
+```
+
++------+-----------------------------------------------------------------------------------------------------------------------+
+| Roll |                                                       Encounter                                                       |
++------+-----------------------------------------------------------------------------------------------------------------------+
+|    1 | Runaway broom with young witch on board                                                                               |
+|    2 | Hundreds of black cats moves past                                                                                     |
+|    3 | A Bone Thresher(max HP) escaped someone's portal is wreaking havoc                                                    |
+|    4 | The apothecary has happy hour, 2d4 random potions are 25GP each                                                       |
+|    5 | An arcana class is being conducted, which will take a week and cost 50gp a head                                       |
+|    6 | Shady merchant offers the party to make a dark pact for power. (once per day cast fiendishness)                       |
+|    7 | A stray talking dog asks the party for some scraps.                                                                   |
+|    8 | A tavern offers each adventurer a good luck pie for 20gp each                                                         |
+|    9 | A cloud sheep(converts between sheep and living cloud) follows the party.                                             |
+|   10 | Mad Mage Marold will give the party a cursed ring of +1 STR that creates a fart sound with exertion.                  |
+|   11 | Two mages are being arrested for not having a magic license.                                                          |
+|   12 | The party is stopped and searched by guards. If they have magic items, they'll be fined 50gp                          |
+|   13 | A merchant approaches the party and asks for them to go gather some alchemical ingredients for 15gp                   |
+|   14 | Some trained a bear to cast spells, and it gives a show downtown.                                                     |
+|   15 | There's a magic competition. Any magic user can enter, paying 5gp for a 50gp grand prize.                             |
+|   16 | If someone in the party has a negative stat, they are approached by a doctor offering free surgery. (Roll corruption) |
+|   17 | Mad Mage Marold turns one party member into a frog for 1d4 days.                                                      |
+|   18 | Two wizards get in a slapfight and people start taking bets bets.                                                     |
+|   19 | Someone brings a clothes line full of laundry to life and it wreaks havok.                                            |
+|   20 | A drunk mage tries to flirt with the strongest member of the party.                                                   |
++------+-----------------------------------------------------------------------------------------------------------------------+
+```
+
+```
+Bone Thresher
+This orange-fleshed creature has the bones of it's enemies sewed to it's hide
+as armor. It carries a large bone spear and has a cat of nine tails made with
+sharpened bone fragments. It wears a necklace of skulls.
+Large Fiend(Demon)
+XP: 450
+HP: 32 (4d12+4)
+AC: 14(bone armor)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 12| 12| 10| 10| 10|
+Bone Whip(15ft) +5 2d4+3
+Bone Spear +5 2d8+3
+```
 
 ## Minas Mana(Keep)
 A mage tower populated by the mad mage Marold. If confronted, Marold will
@@ -487,7 +695,7 @@ Bite +3 1d4 piercing, DC 13 CON save or contract Bogrot
 ### 3 Pink Mold farm
 ### 4 Pantry 2d4+1 jars of mold
 ### 5 Kitchen
-### 6 King of Rot's Throne
+### 6 Rot King's Throne
 - 2d4 rotheads
 - +1 shield
 - +1 longsword
@@ -513,6 +721,7 @@ Bite +3 1d4 piercing, DC 13 CON save or contract Bogrot
 - (3) rusty scalemail
 - golden holy symbol (15gp)
 - Knife boots
+- 1d12 * 5 GP
 
 ### 21 Clawfoot bathtub and 2d4-1 bottles of Skingriff wine(worth 10GP each).
 ### 22 shelves with 2d6 decorative plates (1gp each)
@@ -525,6 +734,7 @@ Bite +3 1d4 piercing, DC 13 CON save or contract Bogrot
 - rusty platemail
 - (2) rusty chainmail
 - Cluster Crossbow
+- 1d12 * 5 GP
 
 ### 27 Rothead den 3d6  Ice Gauntlets
 ### 28 Statue faces plastered southeast wall. Pit trap beneath. (1d6) 
@@ -766,6 +976,7 @@ On the ground lay several skeletons of fallen adventurers. Their items:
 - (3) Rusty Shield
 - Rusty Chainmail
 - +1 crossbow made from chromed parts and 20 bolts
+- 1d4 * 25 GP + 2gp
 
 ### 2 Divided in half by poisonous hedge wall that deals 2d6 poison damage.
 ### 3 Patch of yellow sleepers
@@ -833,21 +1044,33 @@ The river's boat comes out at night, and is driven by a vampire named Grace,
 who carries and pets a cat.
 In actuality, she is a pawn controlled by the Gattogat she's carrying. The
 Gattogat's name is Horgur, and he is eating the souls ushered to the river.
+If attacked, Horgur will raise an army of 12 skeletons in the banks of the
+river and attempt to flee. At the head of the river, there's an island in the
+river where Horgur keeps his horde of loot.
+
+- 2d4-1 * 25 GP
+- A suit of rusty platemail
+- Rusty longsword
+- (2d4) holy symbols worth 10gp each
+- A pile of letters to deceased loved ones
+- 3 bottles of wine worth 15gp each
 
 ```
-Gattogat
+Horgur, the Gattogat
 A three-foot tall cat that can stand upright. It's whiskers are bent and it's
 coat is a bit frazzled and unkempt. It can pretend to be a large housecat, and
 can also reveal it's true form. It's eyes are bright blue unless it's using it's
 powers, at which point they turn green.
 Small Fiend(Demon)
 XP: 450
-HP: 20 (4d4+8)
+HP: 32 (5d4+12)
 AC 16 (natural armor)
 Speed: 30ft
 |STR|DEX|CON|INT|WIS|CHA|
 | 12| 16| 12| 16| 11| 16|
 Resists: Non-magical physical, psychic
+Legendary reaction: Chomp: When a melee attack misses, Horgur may make a bite
+attack at their attacker.
 Charm(1/day): Gatto produces a telepathic illusion from it's eyes. All creatures
 that can see it must succeed a DC 16 WIS save or they find this very cute and
 the Gatto has advantage on charisma checks against them.
@@ -856,6 +1079,22 @@ drinking a poison, or attacking a guard. The target must succeed a DC 16 WIS
 save or perform the act. If charmed, the target makes the save with disadvantage.
 Gatto Field: While Gatto is conscious and it's eyes are green, it produces a
 field of distorted psychic energy. Attacks against are made with disadvantage.
+bite +4 1d4 piercing
+```
+
+```
+Skeleton
+Medium Undead
+XP: 50
+HP: 7(1d8+2)
+AC: 13(scraps of leather)
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 12| 14| 10| 11|  4|
+Speed: 30
+Weak: bludgeoning
+Blindsight: 30ft
+Shortsword +4 1d6+2 piercing
+Shortbow +4 1d6+2 piercing
 ```
 
 

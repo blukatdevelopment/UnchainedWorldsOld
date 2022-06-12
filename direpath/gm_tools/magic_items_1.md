@@ -137,6 +137,54 @@ range by 10ft.
 This +1 thrown weapon deals a base damage of 1d4 bludgeoning damage and has finess. It can be thrown up to 60 feet, and always returns to the thrower's
 hand at the start of their next turn, provided there is a path for it to return.
 
+### Justice (Legendary)
+This longsword stores the souls of any humanoids it kills. It requires
+attunement, and each time attunement is lost, the souls leave the blade.
+
+```
++-------+-----------------------------------------------------+
+| Souls |                       Effect                        |
++-------+-----------------------------------------------------+
+|     1 | +1 to damage and attacks                            |
+|     5 | Sword can provide 20ft of bright, 20ft of dim light |
+|    15 | +2 to damage and attacks                            |
+|    35 | Can consume 5 souls to cast lightning bolt          |
+|    55 | +3 to damage and attacks                            |
++-------+-----------------------------------------------------+
+```
+
+### Authority (Legendary)
+This glaive stores the souls of any humanoids it kills. It requires attunement,
+and each time attunement is lost, the souls leave the blade.
+
+```
++-------+----------------------------------+
+| Souls |              Effect              |
++-------+----------------------------------+
+|     1 | +1                               |
+|     5 | Cast Toll The dead 3 times a day |
+|    15 | +2                               |
+|    35 | Cast Cause Fear once a day       |
+|    55 | +3                               |
++-------+----------------------------------+
+```
+
+### Stability (Legendary)
+This dagger stores the souls of any humanoids it kills. It requires attunement,
+and each time attunement is lost, the souls leave the blade.
+
+```
++-------+---------------------------------------------------------+
+| Souls |                         Effect                          |
++-------+---------------------------------------------------------+
+|     1 | Cast Disguise Self once a day                           |
+|     5 | Can consume a hit die to attack three times with dagger |
+|    15 | +1                                                      |
+|    35 | Cast Shadow Magic once a day                            |
+|    55 | +2                                                      |
++-------+---------------------------------------------------------+
+```
+
 ## Armor
 
 ### Cherryblossom Shield (Common)
@@ -263,6 +311,36 @@ You activate the ring by speaking a grave regret of yours. If the ring accepts
 your answer, it will consume a hit die and grant you advantage on wisdom saving
 throws for the next hour.
 
+### Ring of +1 ability score (Uncommon)
+Each ring has a particular ability. A wearer that attunes to it will have a +1
+bonus to that ability score. Wearing the ring cannot raise an ability score past
+20.
+
+### Ring of +2 ability score (Rare)
+Each ring has a particular ability. A wearer that attunes to it will have a +2
+bonus to that ability score. Wearing the ring cannot raise an ability score past
+20.
+
+### Ring of +3 ability score (Very Rare)
+Each ring has a particular ability. A wearer that attunes to it will have a +3
+bonus to that ability score. Wearing the ring cannot raise an ability score past
+20.
+
+### Ring of ghostly breath (Uncommon)
+When attuned to this ring, the wearer's breath will become visible when within
+300 feet of an undead.
+
+### Ring of Disguise (Rare)
+When attuned to this ring, the wearer may cast disguise self at will.
+
+### Ring of Elemental redirection (Rare)
+When attuned to this ring and targeted with an attack roll that would deal
+lightning, fire, or cold damage, the wearer may consume one hit die to attempt
+to deflect the attack. They make an acrobatics check against the attack roll.
+On a success, they may send the attack off harmlessly in another direction. If
+they succeed by 5 or more, they may redirect the attack back to the sender for
+normal damage.
+
 ### Blood Band of Flames (Rare)
 You may activate the ring using a bonus action, at which time it consumes 1d4
 hit points from you and allows you to cast the Burning Hands spell from the
@@ -275,6 +353,8 @@ Your constitution becomes 18. When you die, the amulet surfaces from your chest.
 
 
 ## Consumables
+
+
 
 ### +1 Quiver (Common)
 This quiver contains 12 arrows that each cause an additional +1 damage on a hit.
@@ -351,6 +431,17 @@ This scroll contains a spell and the magical energy needed to cast it. A command
 phrase is written on the scroll. Speaking it aloud while holding the scroll will
 cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
 
+#### Good Luck Pie (Uncommon)
+This pie may have a sweet or savory, but it's the fairy wings that give it it's
+name. Eating a pie grants advantage on one saving throw, attack, or ability
+check within the next hour.
+
+#### Blu's Tiny Tavern (Very Rare)
+This small wooden carving of a tavern fits in your palm. When you speak the
+command word, it expands into a full-size tavern with a small staff of blue
+awakened cats to provide free room and board for as long as supplies last. Once
+expanded, the tavern cannot be returned to it's previous size.
+
 ## Potions
 
 ### Potion of greater healing (Common)
@@ -360,6 +451,21 @@ A flask of pink liquid which heals 4d4+4 hit points when consumed.
 A flask of pink liquid which heals 10d4+20 hit points when consumed.
 
 ## Miscellaneous
+
+### +1 tool (Common)
+This tool grants a +1 in addition to any other bonuses that it would normally
+afford for the purpose of ability or skill checks.
+
+### +2 tool (Uncommon)
+This tool grants a +3 in addition to any other bonuses that it would normally
+afford for the purpose of ability or skill checks.
+
+### +3 tool (Rare)
+This tool grants a +3 in addition to any other bonuses that it would normally
+afford for the purpose of ability or skill checks.
+
+### Broom of flying (Common)
+This broom has a flying speed of 50ft and can seat one rider.
 
 ### Bag of Holding (Uncommon)
 This bag contains a portal to a pocket dimension. The interior has a volume

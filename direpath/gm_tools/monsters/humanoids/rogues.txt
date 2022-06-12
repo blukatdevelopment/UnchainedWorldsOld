@@ -37,7 +37,7 @@ Attacks:
 Shortsword +4 1d6+2 piercing
 Shortbow +4 1d6+2 piercing
 
-Iron Fang Clan Mercenary
+Mercenary
 HP: 21(3d8+6)
 AC: 16(chainmail)
 Speed: 30ft

@@ -1684,14 +1684,6 @@ Duration: Concentration, up to 1 hour
 You touch a creature and they become invisible until the spell ends. They and anything they are wearing or carrying becomes invisible as long as it is on the target's person. The spell ends if the target casts a spell or makes an attack.
 ```
 
-```
-Invisibility (2nd level)
-Casting Time: 1 action
-Range: touch
-Components: V, S, M(eyelash encased in resin)
-Duration: Concentration, up to 1 hour
-You touch a creature and they become invisible until the spell ends. They and anything they are wearing or carrying becomes invisible as long as it is on the target's person. The spell ends if the target casts a spell or makes an attack.
-```
 
 
 ```

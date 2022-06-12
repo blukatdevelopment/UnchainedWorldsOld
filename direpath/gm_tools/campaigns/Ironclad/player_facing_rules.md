@@ -23,8 +23,8 @@ modifier. PC can expend a bonus action to command their followers, who take the
 dodge action if they aren't commanded.
 
 ### XP and advancement
-Characters gain 10XP for each gold earned on an away mission, and XP is earned
-by killing monsters.
+Characters gain 10XP for each gold earned, and XP is also earned by killing
+monsters.
 
 ### Classes
 As the commoners level up, they may select adventurer classes.
@@ -85,45 +85,8 @@ Instead of giving teams of workers background assignments, you may instead
 employ everyone not in your adventuring party to move the base camp one
 hex over the course of a week.
 
-### Background Assignments
-Characters that aren't in your adventuring party can be given other jobs.
-A team of 5 people at home base on one of the following assignments.
-If a team needs to move to accomplish a task, they move at a rate of one hex
-per day. A team can carry 250lb without a cart, or 1000lb with one.
-
-#### Scavenge secured Location
-The team visits a location that was cleared out and scavenges anything of value.
-Monsters and traps left behind will endanger the team. The GM rolls 1d20 against
-a DC to determine if the group is attacked. 
-
-#### Harvest monsters
-The team spends a week breaking down a pile of monster corpses. They turn the
-monster meat into rations and monster parts.
-```
-+--------+---------+
-|  Size  | Rations |
-+--------+---------+
-| Tiny   | 1d2-1   |
-| Small  | 1d4-1   |
-| Medium | 1d4     |
-| Large  | 4d4+4   |
-| Huge   | 10d4+10 |
-+--------+---------+
-```
-
-#### Craft Wooden Items
-The team of 5 can produce one of the following over the course of a week:
-- 5 clubs, great clubs, flint spears, or quarterstaffs
-- 5 wooden shields
-- 10 torches
-- 10 arrows
-- A recipe discovered after harvesting specific monster parts.
-
-#### Scout for monsters
-The team searches a specified hex looking for monsters. A 1d4 is rolled for the
-week. On a 4, the team locates a monster lair. On a 1, the team is attacked by
-one or more monsters.
-
-#### Trade mission
-The team carries goods to sell to settlement and a list of items to buy for the
-return trip.
+## Overland Travel
+Each day, the party may either move one hex in order to make time for foraging,
+or may move two hexes and consume rations. Two D20s are rolled for each day of
+travel. One represent's the day's travel, and the other represents the night.
+If either result in a 1, the party encounters creatures.
