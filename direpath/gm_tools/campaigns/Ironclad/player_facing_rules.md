@@ -9,11 +9,11 @@ roleplay taking a tertiary role.
 
 ## Premise
 
-The elementals have been unleashed on the kingdom of Ferrus, tearing through the
-kings strongest warriors and laying waste to the cities. In the wake of such
-destruction, the church of Kazoth(god of smithing) rallied a group of commoners
-to sail to the land of Korrus and retrieve the three magical weapons used to
-contain the elementals eons ago.
+In the aftermath of elemental evil laying waste to their homeland of Ferrus,
+a small band of commoners sets out on an expedition to retrieve the three
+legendary weapons that defeated the evil eons ago. Justice, Authority, and 
+Stability are scattered across the island, and they are the only means known
+to take back the land of Ferrus.
 
 ## Characters
 
