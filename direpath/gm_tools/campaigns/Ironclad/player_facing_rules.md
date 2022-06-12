@@ -12,8 +12,8 @@ roleplay taking a tertiary role.
 In the aftermath of elemental evil laying waste to their homeland of Ferrus,
 a small band of commoners sets out on an expedition to retrieve the three
 legendary weapons that defeated the evil eons ago. Justice, Authority, and 
-Stability are scattered across the island, and they are the only means known
-to take back the land of Ferrus.
+Stability are scattered across the island of Korrus, and they are the only means
+known to take back the land of Ferrus.
 
 ## Characters
 
