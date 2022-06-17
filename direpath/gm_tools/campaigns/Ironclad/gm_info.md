@@ -726,6 +726,11 @@ Bite +3 1d4 piercing, DC 13 CON save or contract Bogrot
 ### 21 Clawfoot bathtub and 2d4-1 bottles of Skingriff wine(worth 10GP each).
 ### 22 shelves with 2d6 decorative plates (1gp each)
 ### 23 Shelves with jugs of fungus
+- 2 jugs of purple fungus, regrows limbs
+- 3 jugs of grey fungus, +1 bonus on checks and attacks for 1 hour
+- 2 jugs of green fungus, restores 3d4+4 hit points
+- 3 jugs of deep blue fungus, restores 1 spell resource (adjucated by GM)
+
 ### 24 statue faces put on corpses
 ### 25 Statues with the faces broken off.
 ### 26 loot pile
