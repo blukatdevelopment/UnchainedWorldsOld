@@ -691,22 +691,27 @@ Bite +3 1d4 piercing, DC 13 CON save or contract Bogrot
 ```
 
 ### 1 piles of broken wooden furniture
-### 2 bones strewn on floor
+Holy symbol and flask of holy water
+### 2 bones strewn on floor, salt deposit on wall
 ### 3 Pink Mold farm
+Small mushrooms begin squealing loudly if stepped on.
 ### 4 Pantry 2d4+1 jars of mold
 ### 5 Kitchen
+5d4 rations
+
 ### 6 Rot King's Throne
 - 2d4 rotheads
 - +1 shield
 - +1 longsword
 - 500gp crown
 
-### 7 Closet of 2d4-1 untarnished Fine clothes(10GP)
+### 7 Wardrobe of 2d4-1 untarnished Fine clothes(10GP)
+Three other wardrobes of rotted clothing
 ### 8 Latrines that drain into dark crevice
 ### 9 Dining room covered in orange glowing mold (silverware 20gp)
 ### 10 rothead den 2d6
 ### 11 ornate carpet(20gp), couch, table with tea set(15gp), closet of skulls
-### 12 rotmutt den 1d4
+### 12 rotmutt den 1d4, sulfur deposit on walls
 ### 13 basiliskoid den 2d4
 ### 14 1d4+1 spools of spider silk(15GP each)
 ### 15 intact statues with expressions of screaming
@@ -745,39 +750,64 @@ Bite +3 1d4 piercing, DC 13 CON save or contract Bogrot
 ### 28 Statue faces plastered southeast wall. Pit trap beneath. (1d6) 
 ### 29 Rot chamber, green mold, 1d4 commoner prisoners
 ### 30 basiliskoid den 3d4-2
-### 31 Room of faceless statues
+### 31 Room of three faceless statues dragging another, all facing the same way
 ### 32 green mold farm
+Disturbing the mold causes spores. DC 13 check to avoid 1d4 poison damage.
 ### 33 Paintings on wall with faces ripped out
 ### 34 rot chamber, 1d4 commoner prisoners
 ### 35 ornate livingroom with decorative +1 rapier on wall
+Arm chairs, rug, coffee table
 ### 36 Broken wooden furniture with pink mold growing on it
+Small mushrooms begin squealing loudly if stepped on.
 ### 37 hole to surface, patch of berry bushes growing
+1d4-1 pounds of berries.
 ### 38 Unlit torches on the wall. "Turn back" drawn in blood in common.
 ### 39 chained up basiliskoid, eyes gouged out
-### 40 Statue with missing face
-### 41 statues with faces present, looks of fear
-### 42 rothead den 2d4 Gauntlets of fire
-### 43 A layer of fluffy white mold
+### 40 Statue of adventurers with missing face
+### 41 Rothead statues with faces present, looks of fear
+### 42 rothead den 2d4
+Furniture barricading doors, game of spin the bottle in session.
+Gauntlets of fire
+### 43 A layer of fluffy white mold on the ground, walls, and ceiling
+The room is sound-dampened and very little escapes into adjacent tunnels.
 ### 44 port cullis trap with table and 20gb tea set on it, rot spores
+Each 6 seconds forces a DC16 CON
+save, or gain level of headrot. Three levels turns adventurer into rothead.
 ### 45 pink mold farm
+Small mushrooms begin squealing loudly if stepped on.
 ### 46 port cullis trap with a bowl of 2d4 * 10 gold, rings bells to attrack 2d6 rotheads
-### 47 room full of moldy beds
+### 47 room full of beds covered in black mold
+Touching causes DC15 CON save to avoid bogrot.
 ### 48 hole to surface. An apple tree grows in a patch of grass.
+3d4 pounds of apples.
 ### 49 Bone piles. Wall has "Turn back" written on it in common.
+In bones, 12d4 silver pieces if searched.
 ### 50 Small lab
 Chemistry equipment on table, broken glass on another, vials of various specimen.
 Journal talks about finding a cure to the brain rot.
 ### 51 port cullis tap attracts 2d6 rotheads on outer doors
 table with 100gp crystal ball. If picked up, triggered traps and rings bell.
-### 52 Dining room with faceless statues seated
+### 52 Dining room with faceless statues seated, all facing the door
 ### 53 pressure plate drops port cullises, release rot spores
-### 54 Rothead den 2d6  Spring Boots
+Each 6 seconds forces a DC16 CON
+save, or gain level of headrot. Three levels turns adventurer into rothead.
+### 54 Rothead den 2d6
+Floor has holes in it leading into a sinkhole chamber full of stalagmites.
+3d10 piercing to any creature that falls in and gets impaled on stalagmites.
+Spring Boots
 ### 55 wardrobe of 2d4 fine clothes(10gp each) and moldy clothes
-### 56 bath tubs filled with moldy water
+### 56 four bath tubs filled with moldy water
+A pile of goods:
+- 2d4 bars of lavender soap 1gp each
+- 1d4 bottles of perfume, 1.5gp each
+- 3 clean towels, untarnished
+
 ### 57 rotten tapestries
 ### 58 divided in half by crevice filled with black mold, 10ft across.
-### 59 Mud pit with bones and statue face in it
+Falling in deals 2d6 bludgeoning damage, requires DC17 CON save to avoid bogrot.
+### 59 Mud pit with bones and adventurer statue faces on the skulls
 ### 60 mural painted with colorful mold
+Touching causes the poisoned effect for 1 hour, causing vivid hallucinations.
 ### 61 rot chamber with 1d4 commoners
 ### 62 loot pile
 - flask of holy water
@@ -788,29 +818,43 @@ table with 100gp crystal ball. If picked up, triggered traps and rings bell.
 - 1d4 * 25 + 3 gold
 
 ### 63 A crop of glowing blue mushrooms
-### 64 Northeast corner is slippery slope leading into a rotmutt Den
-### 65 Rothead den 3d6 Extending Rod
+Can harvest 5d6 pounds, bonus 1d6 with survival proficiency. Each pound restores
+one unit of spell economy, as decided by GM. 
+### 64 Northeast corner is slime-slick slope leading into a rotmutt Den
+### 65 Rothead den 3d6 
+Rottheads are giving one another mold makeovers
+Extending Rod
 ### 66 broken furniture with blue mushrooms growing on top
-### 67 chasm splitting room into North and south halves 10ft across, filled with deadly black mold
+### 67 chasm splitting room into North and south halves 10ft across
+Pit contains black mold, which prompts DC17 CON save to avoid catching bogrot.
 ### 68 Basiliskoid den 2d4
 ### 69 pressure plate
 shuts port cullis doors, rings a bell to attract 2d6 roteads 
 ### 70 intact statues with expressions of shock and fear
 ### 71 rothead den 3d6 Magic Boomerang
 ### 72 dried blood on wall reads "Keep going" with faceless statues
+in various states of shock, facing East
 ### 73 statue faces arranged in circle on floor
 ### 74 bones strewn on ground
 ### 75 tables with human leather outfits for rotmutts
 ### 76 green mold farm
-### 77 wooden cages with 2d4 rothmutts
-### 78 small obstacle course
-### 79 three beds with faceless statues tucked in
+Disturbing the mold causes spores. DC 13 check to avoid 1d4 poison damage.
+### 77 wooden cages with 2d4 rothmutts wearing collars
+### 78 small obstacle course for rotmutts
+### 79 three beds with faceless statues tucked in, looking at door
 ### 80
-Table with golden lamp on surface. Removing breaks a glass vial of rot spores,
-drops port cullis.
-### 81
-Pantry with jugs of mold
+Table with golden lamp on surface. Trying to pick it up flips a switch which
+rains rot spores down and drops port cullis. Each 6 seconds forces a DC16 CON
+save, or gain level of headrot. Three levels turns adventurer into rothead.
+### 81 Pantry with jugs of fungus
+- 3 jugs of grey fungus, +1 bonus on checks and attacks for 1 hour
+- 2 jugs of green fungus, restores 3d4+4 hit points
+- 3 jugs of deep blue fungus, restores 1 spell resource (adjucated by GM)
+
 ### 82 Pink mold farm
+Small mushrooms begin squealing loudly if stepped on.
+
+
 
 ## Argent Vale
 A silver archway is said to keep the spirits inside the forest on the other
