@@ -15,20 +15,20 @@ preventative maintenance, and repairs to keep these things barely running.
 
 
 ```
-+-------+--------------------+-------------------+--------------------------+
-| Level | Minimum Experience | Hit Dice Features |                          |
-+-------+--------------------+-------------------+--------------------------+
-|     1 |                  0 | 1d4               |   Contraptions           |
-|     2 |                300 | 2d4               |   Repair                 |
-|     3 |                900 | 2d4               |   Expertise              |
-|     4 |               1200 | 3d4               |                          |
-|     5 |               2700 | 3d4               |   Ability Score Increase |
-|     6 |               5000 | 3d4               |   Refined Technique      |
-|     7 |               7500 | 3d4               |                          |
-|     8 |              10000 | 3d4               |   Advanced Technique     |
-|     9 |              15000 | 3d4               |                          |
-|    10 |              20000 | 3d4               |   Ability Score Increase |
-+-------+--------------------+-------------------+--------------------------+
++-------+--------------------+----------+------+--------------------------+
+| Level | Minimum Experience | Hit Dice | Prof |   Features               |
++-------+--------------------+----------+------+--------------------------+
+|     1 |                  0 | 1d4      |   +1 |   Contraptions           |
+|     2 |                300 | 2d4      |   +1 |   Repair                 |
+|     3 |                900 | 2d4      |   +1 |   Expertise              |
+|     4 |               1200 | 3d4      |   +1 |                          |
+|     5 |               2700 | 3d4      |   +1 |   Ability Score Increase |
+|     6 |               5000 | 3d4      |   +1 |   Refined Technique      |
+|     7 |               7500 | 3d4      |   +1 |                          |
+|     8 |              10000 | 3d4      |   +1 |   Advanced Technique     |
+|     9 |              15000 | 3d4      |   +1 |                          |
+|    10 |              20000 | 3d4      |   +1 |   Ability Score Increase |
++-------+--------------------+----------+------+--------------------------+
 ```
 
 ## Proficiencies
@@ -56,8 +56,9 @@ Select four from the following:
 ### Contraptions
 Your study in engineering has lead you to create prototype devices. These
 devices require careful care and maintenace. You may keep a number of
-contraptions up and running that is equal to your intelligence modifier.
-During a partial or full rest you may construct and retire contraptions.
+contraptions up and running that is equal to your intelligence modifier + your
+proficiency modifier. During a partial or full rest you may construct and retire
+contraptions.
 
 ### Repair
 You may spend a short rest repairing one contraption that has run out of uses.

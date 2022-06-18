@@ -32,7 +32,6 @@ present. This means that if a party of four gains 4 gold, each character gains
 As the commoners level up, they may select adventurer classes.
 The following classes are available in this campaign:
 - alchemist
-- commoner
 - gunner
 - priest
 - psion
