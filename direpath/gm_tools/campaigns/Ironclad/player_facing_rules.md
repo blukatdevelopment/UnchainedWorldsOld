@@ -45,7 +45,6 @@ Commoners landed on Korrus. The following table contains their pertinent
 details. Ability scores already include their lineage ability score increases.
 
 ```
-
 +----+---------------------------+----------------+-----------------+--------------------------+
 | #  |           Name            |    Lineage     |   Background    |        Abilities         |
 +----+---------------------------+----------------+-----------------+--------------------------+
@@ -91,3 +90,82 @@ Each day, the party may either move one hex in order to make time for foraging,
 or may move two hexes and consume rations. Two D20s are rolled for each day of
 travel. One represent's the day's travel, and the other represents the night.
 If either result in a 1, the party encounters creatures.
+
+### Packs
+
+### Explorer's Pack
+- Backpack
+- Waterskin
+- Traveler's Clothes
+- 10 rations
+- 50ft rope
+- bedroll
+- Mess kit
+- 10 torches
+- pouch of 5GP
+
+### Peasant's Pack
+- Backpack
+- Common clothes
+- 5lb sack of wheat
+- pouch of 5SP
+
+### Tinker's Pack
+- Backpack
+- Heavy Wrench
+- Tinker's Tools
+- one 10lb unit of scrap
+- common clothes with apron
+- pouch of 5GP
+
+### Noble's Pack
+- Backpack
+- Fine Clothes
+- Signet Ring
+- fancy Cane or stylish hat
+- pouch of 15GP
+
+### Scholar's Pack
+- Backpack
+- quill pen
+- book
+- 2 bottles of ink
+- 10 pieces of paper
+- 10 candles
+- tinderbox
+- bag of sand
+- small knife
+- Fine clothes
+- pouch of 10GP
+
+### Guildmember's Pack
+- Backpack
+- quill pen
+- bottle of ink
+- 5 sheets of paper
+- common clothes
+- pouch of 5GP
+
+### Artist's Pack
+- Backpack
+- one instrument OR painter's kit OR quill pen, bottle of ink, 10 pieces of paper
+- Common clothes
+- Costume clothes
+- A pouch of 1SP
+
+### Priest's Pack
+- backpack
+- vestments
+- holy book
+- holy symbol
+- 2 blocks of incense
+- 5GP
+
+### Burglar's Pack
+- backpack
+- bag of caltrops(20)
+- flask of strong spirits
+- crowbar
+- black outfit with hood and mask
+- 50ft of hempen rope
+- razor blade
