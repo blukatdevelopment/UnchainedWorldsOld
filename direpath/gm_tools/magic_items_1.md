@@ -354,8 +354,6 @@ Your constitution becomes 18. When you die, the amulet surfaces from your chest.
 
 ## Consumables
 
-
-
 ### +1 Quiver (Common)
 This quiver contains 12 arrows that each cause an additional +1 damage on a hit.
 Arrows added to the quiver do not gain this property.
@@ -371,13 +369,6 @@ This quiver contains 12 arrows that each cause
 ### Bottomless Quiver (Rare)
 When you fire an arrow removed from this quiver, it disappears shortly after
 impact and a new one reapears inside the quiver.
-
-### Blu’s tiny tavern (Rare)
-A peculiar playing card with a picture of a tavern drawn on the front. Lay it on
-the ground, say the command word (meow), and stand back. From the card, a small
-tavern will appear. Inside are 1d4+2 warm beds and food and drink for the same 
-number of people. No magical barrier or properties, just a tavern. Once used, 
-cannot be used again. Tavern stays standing where placed.
 
 ### Exploding Shuriken (Common)
 This throwing star shares proficiency with darts. If you throw this shuriken
@@ -439,7 +430,7 @@ check within the next hour.
 #### Blu's Tiny Tavern (Very Rare)
 This small wooden carving of a tavern fits in your palm. When you speak the
 command word, it expands into a full-size tavern with a small staff of blue
-awakened cats to provide free room and board for as long as supplies last. Once
+awakened cats to provide free room and board for thirty days for the party. Once
 expanded, the tavern cannot be returned to it's previous size.
 
 ## Potions

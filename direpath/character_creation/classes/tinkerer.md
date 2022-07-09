@@ -81,18 +81,18 @@ plus double your intelligence modifier.
 
 ## Contraptions
 
-### Flame Thrower
+### Wrist Flamer
 1 use. This contraption sprays a fuel-air mixture past an ignition point and creates a 15 foot cone of fire.
 All creatures within the cone must make a DC 15 dex save, receiving 3d6 damage on a save and half as much on a failure.
 
-### Grapple Shot
-Many use. This contraption fires a grappling hook up to 600 feet, and has a crank that can reel in a large or smaller creature. If the grapple shot is mounted to a sturdy object, it automatically succeeds in reeling in the target 30 feet per every 6 seconds. Otherwise, the wielder must succeed an opposing athletics check to not have the grapple shot yanked out of their hands.
+### Wrist Grapple Shot
+Many use. This contraption fires a miniscule grappling hook up to 120 feet, and has a crank to allow the operator to ascend or repell heights. 
 
-### Flash card
-1 use. This is a card with flash powder glued to it and a short fuse. Once lit, it can be slid into a narrow space such as an open window or under a door. When it goes off, all creatures that can see it must succeed a DC 16 constitution saving throw or be blinded. Each round, the saving throw can be repeated in order to end the blinding effect.
+### Flash Grenade
+1 use. This cannister can be thrown up to 30 feet, after which it ignites to produce a blinding light. All creatures that can see it must succeed a DC 16 constitution save, or else be blinded. A creature blinded by the flash may remake the save at the start of their turn.
 
-### Poison Puffer
-6 uses. This contraption puffs a concentrated burst of poison into the air. The cloud is 10 feet in diameter and lingers in the air for 6 seconds. A creature that starts it's turn in this cloud or enters the cloud must succeed a DC 14 constitution saving throw or become poisioned and receive 1d6 poison damage.
+### Poison Grenade
+1 use. This cannister can be thrown up to 30 feet, after which it releases a cloud of poison gas. The cloud is 10 feet in diameter and lingers in the air for 6 seconds. A creature that starts it's turn in this cloud or enters the cloud must succeed a DC 15 constitution saving throw or become poisioned for an hour and receive 2d6 poison damage.
 
 ### Mounted Lantern
 Many uses. This contraption is a small bullseye lantern that can be mounted to a helmet, crossbow, or other mobile object. If it takes damage, it will explode and cause 1d4 fire damage to whomever is within 5ft of it.

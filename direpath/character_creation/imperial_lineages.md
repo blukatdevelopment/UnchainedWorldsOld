@@ -386,7 +386,7 @@ refuges.
 
 ```
 Age: mature at 18, live up to 750 years
-Languages: Common, Elven
+Languages: Common, Elvish
 Size: Medium
 Speed: 30
 Ability Score Increase:  +2 DEX, +1 WIS

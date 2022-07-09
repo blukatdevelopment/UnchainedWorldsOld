@@ -84,7 +84,8 @@ pick the highest value in the table.
 ### Glassblower
 You may now craft 1d12 flasks or 1d4 vials during a partial or long rest at a
 campfire. You may instead produce a single glass arrow, which can be filled with
-any potion and fired from a shortbow or longbow.
+any potion and fired from a shortbow or longbow and which shatters on impact,
+applying the potion's effect to the target on a hit.
 
 ### Expert Alchemy
 You have further refined your use of additives to better control the output
@@ -302,7 +303,7 @@ bubbles appear. This lasts for 1d4 hours.
 ### Poisoner's Perfume
 This bright pink liquid carries a strong floral aroma similar to roses. As good
 as it smells, it has high concentrations of cyanide and arsenic. The poison
-tastes slightly bitter to the touch, and if consumed will deal 5d10 poison
+tastes slightly bitter, and if consumed will deal 5d10 poison
 damage. You may dip up to ten pieces of ammunition in this perfume, or pour
 half the bottle out onto a melee weapon that deals piercing or slashing damage.
 The coating lasts for one minute, and the first attack with a coated weapon

@@ -8,7 +8,7 @@ artifacts that must be retrieved to fight the elementals.
 ### Justice (Legendary)
 This longsword stores the souls of any humanoids it kills. It requires
 attunement, and each time attunement is lost, the souls leave the blade.
-
+The original wielder was a traveling lawman who executed thieves on sight.
 ```
 +-------+-----------------------------------------------------+
 | Souls |                       Effect                        |
@@ -23,7 +23,11 @@ attunement, and each time attunement is lost, the souls leave the blade.
 
 ### Authority (Legendary)
 This glaive stores the souls of any humanoids it kills. It requires attunement,
-and each time attunement is lost, the souls leave the blade.
+and each time attunement is lost, the souls leave the blade. The polearm
+belonged to a general who used it to personally slay any soldiers who retreated
+under his watch. The general's whispers can be heard by an attuned creature, and
+he instructs the creature to "make an example" of any captured enemies, or
+any allies that defy them.
 
 ```
 +-------+----------------------------------+
@@ -38,8 +42,11 @@ and each time attunement is lost, the souls leave the blade.
 ```
 
 ### Stability (Legendary)
-This dagger stores the souls of any humanoids it kills. It requires attunement,
-and each time attunement is lost, the souls leave the blade.
+This dagger stores the souls of any humanoids it kills. It was originally owned
+by a spy, whose face is carved into the handle of the blade. It requires attunement,
+and each time attunement is lost, the souls leave the blade. When attuned, 
+the spy will appear as a vision to the wielder and attempt to instill paranoia
+into them.
 
 ```
 +-------+---------------------------------------------------------+
@@ -70,7 +77,7 @@ have access to this information.
 
 ## Recruitable Roster
 There is a pool of recruitable commoners. Each requires 50 gold to join
-permanently.
+permanently. Alternately, one may roll additional level 0 commoners.
 
 ```
 +----+---------------------------+----------------+-----------------+--------------------------+
@@ -138,12 +145,29 @@ permanently.
 
 ## Mbaleo(City)
 A small town with a flour mill, stable, and smith.
-Mayor Arnoldo(m) will tell the party about the Hirkidw River. In actuality, he is
-a vampire that wants everyone to believe vampires are a myth. He'll offer 100GP
-for the head of the vampire and for proof that it was not actually a vampire,
-as they do not exist. Arnoldo's bodyguard, Meridah(f), is a retired shadow
-assassin that has unprofessed feelings for Arnoldo. If engaged in a fight, crown
-guards will arrive in the mayor's defense every 1d4 turns.
+A panic surrounding vampires has lead the town into a state of hyper-vigialance
+bordering on paranoia. Vendors will offer garlic and stakes, and others will
+attempt to sell the same items supposedly carrying the blessings of clerics for
+10gp a piece.
+
+### Mayor Arnoldo
+A suave man who dresses in hooded fine clothes, mayor Arnoldo settled Mbaleo
+when his coven was raided by vampire hunters and he fled to Korrus. Throughout
+the years, he has ridded the land of his dissenters by infecting them with
+vampirism and having the town's people execute said vampires. If the party
+annoys him or begins asking too many questions, he will accuse one of them of
+being a vampire, and the rest for consorting with vampires if they resist such
+an arrest. In addition to his stated abilities, Arnoldo may turn into a bat with
+AC of 12 and 1HP. 
+
+### Meridah
+A pale woman dressed in fine clothes. She wears daggers strapped to her ankles,
+brazier, and wrists. Meridah has unrequitted feelings for Arnoldo, and this is
+what gives him reluctance to employ her as a body guard despite her skill. As a
+former shadow assassin, her skills are paired with a drive to stalk prey. If the
+party publicly attacks the mayor, she will hunt them.
+
+
 
 ```
 Vampire
@@ -232,8 +256,77 @@ Priests will remove a curse for 25GP.
 ## Sheagrove(City)
 A small struggling town with an apothecary and mages guild.
 
+### Apothecary
+An imperial named Vincent owns the shop. He will inform the party that his
+potions are too expensive if the party contains a soot or wildfolk, and will
+charge double prices if the party insists on purchasing items.
+
+If the party gets on Vincent's good side, he'll put up a sign advertising
+an alchemy 101 class, which only costs 30GP and takes a week. This will
+advance any commoners that attend into level 1 alchemists.
+
+Vincent's daughter, Ariel, will ask the party to meet her in the alley outside.
+If the party does so, she will offer them 10GP to deliver a letter to her love
+in Mbaleo. His name is Johan, and he sells garlic in Mbaleo.
+```
++----------+--------------------+----------+
+| Quantity |        Item        | Cost(GP) |
++----------+--------------------+----------+
+|        3 | Smelling Salt Soup |       15 |
+|        2 | Tekilya            |       15 |
+|        1 | Invisible Brandy   |       25 |
++----------+--------------------+----------+
 ```
 
+### Mages guild 
+The guild hall appears to be a worn down old schoolhouse. Attempting to open the
+door reveals the doorknocker is animated, and demands a demonstration of magic.
+Once the party casts magic for the doorknocker, it will open to reveal the
+interior of an underground guild hall located somewhere other than the
+schoolhouse.
+
+
+#### Mage's shop
+The mage's shop is run by a chipper greenfoot man named Cornaith Ralorie, and is
+stocked with The following inventory:
+```
++----------+-------------------+----------+
+| Quantity |       Item        | Cost(GP) |
++----------+-------------------+----------+
+|        2 | Broom of flying   |      100 |
+|        1 | Bag of Holding    |      200 |
+|        1 | Miner's Helm      |      100 |
++----------+-------------------+----------+
+```
+
+#### Admission office
+If a member of the party who posesses magic writes a letter of introduction,
+they may send one or more commoner party members before the Magus for an
+entrance exam. Each applicant makes three intelligence checks of DC 12, 14, and
+16 respectively. The number of successes decides the cost of their tuition for
+a week of classes, which can advance them into a level 1 runesmith and grant
+them a book of runes.
+```
++-----------+---------+
+| Successes | Tuition |
++-----------+---------+
+|         0 | 100gp   |
+|         1 |  50gp   |
+|         2 |  25gp   |
+|         3 |  Free   |
++-----------+---------+
+```
+
+The grand magus is named Argonen. A fiery bushel of beard obscures this bronzehammer's
+face. Adorned in grey robes and cap, he is extremely serious, but has a soft
+side for anyone displaying a passion for the pursuit of knowledge.
+
+#### Library
+The library contains a copy of each 1st and 2nd level spell from the runesmith's
+spell list. A kindly wayfarer lady named Hirblat permits the party to each check
+out one book per day, but cannot leave the library with it.
+
+```
 +------+-----------------------------------------------------------------------------------------------------------------------+
 | Roll |                                                       Encounter                                                       |
 +------+-----------------------------------------------------------------------------------------------------------------------+
@@ -394,6 +487,7 @@ There's a stand with the following wands on display:
 - Cantrip Wand
 - Spell-stealing Wand
 -  Shooting Star Wand
+
 ### Level 4 Red Mirror: LVL 1 RED
 ### Level 4 Green Mirror: 500 feet above the tower
 ### Level 4 Blue Mirror: LVL 3 BLUE
@@ -700,9 +794,17 @@ Small mushrooms begin squealing loudly if stepped on.
 5d4 rations
 
 ### 6 Rot King's Throne
+#### Rot King
+Reginald lead his people into the caves with ambitions of building a keep at the
+peak of Axehead Mountain. This failed when he and the construction team came
+down with parasitic brain rot. Though he has forgotten most of his autobiography,
+Reginald nonetheless retains his taste for the finer things, which are lacking
+in the tunnels. If presented with fine gifts such as fine wine or perfume, he
+will entertain the party with a conversation instead of attacking outright.
+
 - 2d4 rotheads
 - +1 shield
-- +1 longsword
+- A sword of jade metal with an engraving in elvish("Arlen Family"). (+1 longsword)
 - 500gp crown
 
 ### 7 Wardrobe of 2d4-1 untarnished Fine clothes(10GP)
