@@ -18,7 +18,7 @@ Before we begin our adventure, you must determine the location of the three magi
 ```
 
 ## Start of campaign
-![Korrus](../img/korrus.png?raw=true "Korrus")
+![Korrus](./img/korrus.png?raw=true "Korrus")
 We begin with the expedition landing on the island of Korrus in search of the
 three legendary weapons of the past. The party decides the location to land.
 From there, each player creates their character and embarks.
@@ -127,7 +127,7 @@ have access to this information.
 +-----------+--------------------------------------------------+
 ```
 
-![Mbaleo](../img/mbaleo.png?raw=true "Mbaleo")
+![Mbaleo](./img/mbaleo.png?raw=true "Mbaleo")
 ## Mbaleo(City)
 A small town with a flour mill, stable, and smith.
 A panic surrounding vampires has lead the town into a state of hyper-vigialance
@@ -257,7 +257,7 @@ Shortbow +4 1d6+2 piercing
 |   20 | A bounty of 100GP is placed on a fugitive vampire, dead or alive.                 |
 +------+-----------------------------------------------------------------------------------+
 ```
-![Sirasea](../img/the_hallowed_city_of_sirasea.png?raw=true "Sirasea")
+![Sirasea](./img/the_hallowed_city_of_sirasea.png?raw=true "Sirasea")
 ## The Hallowed City of Sirasea(City)
 A monestary with an orchard, oat farms, and temple of Justice. Their goddess,
 Charna, is preserved by the blood of the punished guilty. The trees are watered
@@ -294,7 +294,7 @@ given room and board, and afforded a batch of
 |   12 | Someone with a severed arm is healed, their arm growing back          |
 +------+-----------------------------------------------------------------------+
 ```
-![Sheagrove](../img/sheagrove.png?raw=true "Sheagrove")
+![Sheagrove](./img/sheagrove.png?raw=true "Sheagrove")
 ## Sheagrove(City)
 A small struggling town with an apothecary and mages guild.
 
@@ -558,7 +558,7 @@ There's a stand with the following wands on display:
 ## Barad Ainath(Keep)
 A keep inhabited by an order of lawful evil knights.
 
-![Level1](../img/Barad_Ainath_Level_1.png?raw=true "Level1")
+![Level1](./img/Barad_Ainath_Level_1.png?raw=true "Level1")
 
 ### Level 1: Church of Light
 The surface level is occupied by the church of light, which interacts with
@@ -600,7 +600,7 @@ Attacks:
 Dagger: +2 1d4+1 piercing
 ```
 
-![Level 2](../img/Barrad_Ainath_Level_2.png?raw=true "Level 2")
+![Level 2](./img/Barrad_Ainath_Level_2.png?raw=true "Level 2")
 ### Level 2: Cult of Shadow
 Everyone down here lives in permanent dark.
 ### Lvl2 Room 1 Shadow elite's chambers
@@ -705,7 +705,7 @@ A few beds
 ### Lvl2 Room 15 Cloak Closet
 This room's filled with cloaks and holy symbols for the church of light.
 
-![Level 3](../img/Barad_Ainath_Level_3.png?raw=true "Level 3")
+![Level 3](./img/Barad_Ainath_Level_3.png?raw=true "Level 3")
 ### Level 3: Knight's lair
 ### Lvl3 Room 1 Flame Rune room
 There are walls and pillars covered in red runes.
@@ -775,7 +775,7 @@ Heavy Crossbow +2 1d10 piercing
 
 ## Axehead Mountains
 Honeycombed with tunnels full of mutant creatures.
-![Axehead Caves](../img/axehead_caves.png?raw=true "Axehead caves")
+![Axehead Caves](./img/axehead_caves.png?raw=true "Axehead caves")
 ### Monsters
 ```
 RotMutt
@@ -1022,7 +1022,7 @@ save, or gain level of headrot. Three levels turns adventurer into rothead.
 Small mushrooms begin squealing loudly if stepped on.
 
 
-![Argent Vale](../img/Argent_Vale.png?raw=true "Argent Vale")
+![Argent Vale](./img/Argent_Vale.png?raw=true "Argent Vale")
 ## Argent Vale
 A silver archway is said to keep the spirits inside the forest on the other
 side. Adventurers who break this arch will be confronted by an army of 5d4
