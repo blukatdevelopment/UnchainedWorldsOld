@@ -1,8 +1,29 @@
-## Start of campaign
-The campaign begins when the party decides where to land on Korrus and set up
-camp. 
+## Before the start
+Before we begin our adventure, you must determine the location of the three magic weapons.
+```
++------+----------------------------------------------------+
+| Roll |                      Location                      |
++------+----------------------------------------------------+
+|    1 | Sheagrove, mages guild magic shop                  |
+|    2 | Barad Ainath, Lightning Rune Knight                |
+|    3 | Minas Mana, sitting on the couch by Gurt, the bear |
+|    4 | Sirasea, Father Adonijah's quarters                |
+|    5 | Mbaleo, on Mayor Arnoldo                           |
+|    6 | Hirkidw River, eaten by Horgur                     |
+|    7 | Snakefen River, by Tcharovos                       |
+|    8 | Argent Vale, on Nerafher                           |
+|    9 | Axehead mountains, on the Rot King                 |
+|   10 | Reroll                                             |
++------+----------------------------------------------------+
+```
 
-Authority(glaive), Justice(longsword), and Stability(dagger) are the three
+## Start of campaign
+![Korrus](../img/korrus.png?raw=true "Korrus")
+We begin with the expedition landing on the island of Korrus in search of the
+three legendary weapons of the past. The party decides the location to land.
+From there, each player creates their character and embarks.
+
+Authority(glaive), Justice(longsword), and Privacy(dagger) are the three
 artifacts that must be retrieved to fight the elementals.
 
 ### Justice (Legendary)
@@ -41,7 +62,7 @@ any allies that defy them.
 +-------+----------------------------------+
 ```
 
-### Stability (Legendary)
+### Privacy (Legendary)
 This dagger stores the souls of any humanoids it kills. It was originally owned
 by a spy, whose face is carved into the handle of the blade. It requires attunement,
 and each time attunement is lost, the souls leave the blade. When attuned, 
@@ -75,42 +96,6 @@ have access to this information.
 +------+--------------------------------------------------+
 ```
 
-## Recruitable Roster
-There is a pool of recruitable commoners. Each requires 50 gold to join
-permanently. Alternately, one may roll additional level 0 commoners.
-
-```
-+----+---------------------------+----------------+-----------------+--------------------------+
-| #  |           Name            |    Lineage     |   Background    |        Abilities         |
-+----+---------------------------+----------------+-----------------+--------------------------+
-|  1 | Honorine Beauvilliers(f)  | Soot           | Rat Catcher     | [14, 14, 17, 15, 11, 15] |
-|  2 | Jean-Paul Pelletier(m)    | Soot           | Urchin          | [14, 7, 8, 8, 7, 10]     |
-|  3 | Noémie Bullion(f)         | Soot           | Trapper         | [17, 12, 16, 14, 16, 11] |
-|  4 | Alexia Gaumont(f)         | Soot           | Miner           | [13, 11, 10, 14, 15, 13] |
-|  5 | Raoul Deschanel(m)        | Soot           | Farmer          | [18, 14, 8, 7, 12, 16]   |
-|  6 | Lenna Chaerora(f)         | greenfoot      | Forester        | [13, 11, 10, 9, 16, 14]  |
-|  7 | Verrona Omafir(f)         | greenfoot      | Farmer          | [16, 13, 10, 16, 13, 13] |
-|  8 | Emmyth Zinmaer(m)         | greenfoot      | Carpenter       | [11, 19, 5, 13, 15, 12]  |
-|  9 | Jhaan Ianquinal(m)        | greenfoot      | Trapper         | [15, 16, 14, 13, 14, 14] |
-| 10 | Qildor Craris(m)          | greenfoot      | Farmer          | [13, 8, 14, 11, 13, 16]  |
-| 11 | Khunmikara Oakenbrewer(f) | uprooted       | Farmer          | [17, 13, 13, 13, 9, 10]  |
-| 12 | Thefrig Hornhorn(m)       | uprooted       | Farmer          | [16, 10, 12, 7, 7, 12]   |
-| 13 | Gabuilyn Hardthane(f)     | uprooted       | Miner           | [15, 13, 17, 12, 12, 10] |
-| 14 | Lugredrid Flaskcloak(f)   | uprooted       | Urchin          | [14, 10, 15, 10, 11, 12] |
-| 15 | Namdatalyn Boulderarm(f)  | uprooted       | Trapper         | [19, 15, 11, 15, 15, 14] |
-| 16 | gnipnem(f)                | wayfarer gnome | Rat Catcher     | [10, 14, 12, 16, 16, 11] |
-| 17 | smenka(f)                 | wayfarer gnome | Rat Catcher     | [12, 15, 9, 9, 13, 13]   |
-| 18 | sladnir(m)                | wayfarer gnome | Forester        | [15, 9, 10, 8, 9, 6]     |
-| 19 | gnirkac(m)                | wayfarer gnome | Smith           | [14, 10, 11, 16, 17, 12] |
-| 20 | fnarwar(f)                | wayfarer gnome | Urchin          | [11, 12, 12, 16, 10, 12] |
-| 21 | Sofiya(f)                 | Lumbear        | Rat Catcher     | [9, 17, 10, 16, 8, 10]   |
-| 22 | Denys(m)                  | Hoofer         | Farmer          | [9, 16, 11, 13, 6, 14]   |
-| 23 | Olesya(f)                 | Hoofer         | Forester        | [11, 16, 12, 15, 14, 15] |
-| 24 | Alina(f)                  | Battle Cat     | Miner           | [14, 10, 17, 16, 12, 11] |
-| 25 | Nina(f)                   | Battle Cat     | Trapper         | [13, 15, 13, 14, 9, 10]  |
-+----+---------------------------+----------------+-----------------+--------------------------+
-```
-
 ## Overland travel encounters
 ```
 +-----------+--------------------------------------------------+
@@ -142,7 +127,7 @@ permanently. Alternately, one may roll additional level 0 commoners.
 +-----------+--------------------------------------------------+
 ```
 
-
+![Mbaleo](../img/mbaleo.png?raw=true "Mbaleo")
 ## Mbaleo(City)
 A small town with a flour mill, stable, and smith.
 A panic surrounding vampires has lead the town into a state of hyper-vigialance
@@ -157,17 +142,8 @@ the years, he has ridded the land of his dissenters by infecting them with
 vampirism and having the town's people execute said vampires. If the party
 annoys him or begins asking too many questions, he will accuse one of them of
 being a vampire, and the rest for consorting with vampires if they resist such
-an arrest. In addition to his stated abilities, Arnoldo may turn into a bat with
-AC of 12 and 1HP. 
-
-### Meridah
-A pale woman dressed in fine clothes. She wears daggers strapped to her ankles,
-brazier, and wrists. Meridah has unrequitted feelings for Arnoldo, and this is
-what gives him reluctance to employ her as a body guard despite her skill. As a
-former shadow assassin, her skills are paired with a drive to stalk prey. If the
-party publicly attacks the mayor, she will hunt them.
-
-
+an arrest. If the party hangs around town for long, they will very likely
+wind up meeting the mayor, who will question the newcomers. If he determines
 
 ```
 Vampire
@@ -182,11 +158,20 @@ Speed: 30ft
 |STR|DEX|CON|INT|WIS|CHA|
 | 14| 15| 14| 15| 16| 17|
 Vampiric surge(Recharge 3-6): This turn, the vampire's movement speed doubles, they may take the disengage action as a bonus action, and they may take two actions.
+Bat form: The vampire transforms into a bat with 12AC, 1HP, and a fly speed of 50ft, which they may exit at will.
 Immune to nonmagical physical damage
 Multiattack: Vampire may make two rapier attacks
 Rapier +5 1d8+2
 Feed +5 1d6 piercing, gains damage dealt as temporary hit points
 ```
+
+### Meridah
+A pale woman dressed in fine clothes. She wears daggers strapped to her ankles,
+brazier, and wrists. Meridah has unrequitted feelings for Arnoldo, and this is
+what gives him reluctance to employ her as a body guard despite her skill. As a
+former shadow assassin, her skills are paired with a drive to stalk prey. If the
+party publicly attacks the mayor, she will hunt them. Meridah works with the
+local guard, and will appear if the party makes a commotion.
 
 ```
 Shadow Assassin
@@ -199,6 +184,52 @@ Dagger: +5 1d4+2 piercing
 Shadow Sword: +5 2d8+2 Piercing
 ```
 
+### Marketplace (b)
+There's a gathering of shops. Many sell fruits, vegetables, and tools. A young
+man working there will ask the party to deliver a letter to the apothecary in
+Sheagrove, offering 10GP for the deed, provided they deliver it to the owner's
+daughter, Ariel. The 10GP is to be paid by her upon delivery. If opened, the
+letter reads:
+```
+Beloved,
+
+Your father's cruelty shows no bounds, forbidding our love. Let us away to the
+Hallowed City of Sirasea. You may await the call of an owl, and we will sneak
+out with you in the dark of night. If this letter finds you, the deliverers can
+be trusted to bring us the way. Inform them that I can pay them fifty gold
+pieces, which I can provide by selling my father's sword.
+
+We will be together again soon, love
+```
+
+### Fence (a)
+Outside of town is a shack that buys goods of dubious quality run by an elderly
+dwarf man with shifty eyes.
+
+### Grey Mare Tavern (c)
+The old stone structue appears to have once been a small fort. On the wall above
+the front desk there is a coat of arms for Mbaleo made of two decorative
+longswords, each worth 100GP. The imperial woman, Prisca, owns the tavern and
+will sell a room for five silver a head.
+
+#### Greyband mercenary group
+One of the tables in the tavern is encircled by sword-wielding soots with grey
+sashes. If the party interacts with them, they'll introduce themselves, and
+offer their services. There are ten in total, and each will accompany the party
+for a fee of 5SP a day. Any attempt to haggle will instigate a tavern brawl.
+```
+Greyband Mercenary
+HP: 6(2d4+2)
+AC: 12(leather)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 12| 12| 10| 12| 12|
+Attacks:
+Shortsword +4 1d6+2 piercing
+Shortbow +4 1d6+2 piercing
+```
+
+### Arnoldo's Keep (d)
 
 ```
 +------+-----------------------------------------------------------------------------------+
@@ -226,13 +257,24 @@ Shadow Sword: +5 2d8+2 Piercing
 |   20 | A bounty of 100GP is placed on a fugitive vampire, dead or alive.                 |
 +------+-----------------------------------------------------------------------------------+
 ```
-
-
+![Sirasea](../img/the_hallowed_city_of_sirasea.png?raw=true "Sirasea")
 ## The Hallowed City of Sirasea(City)
 A monestary with an orchard, oat farms, and temple of Justice. Their goddess,
 Charna, is preserved by the blood of the punished guilty. The trees are watered
 with the literal blood of evildoers.
 Priests will remove a curse for 25GP.
+
+### Monestary
+A stone structure sits on the highest point of the town. Upon approach, lithe
+monks are raking sand. They will wordlessly motion for the party to follow, 
+leading them in to the office of Father Adonijah, an elderly man covered in
+tattoos of Charna. He will offer them food and shelter, if they can prove their
+worthiness to Charna. If they agree, he'll light incense and ask one speaker
+to step forward, casting Insight arrow on them. The smoke will comrpise the
+arrow. He'll ask for them to explain an act of justice the party has perfoemd.
+
+If Father Adonijah is satisfied by the truthful response, the party will be
+given room and board, and afforded a batch of 
 
 ```
 +------+-----------------------------------------------------------------------+
@@ -252,42 +294,15 @@ Priests will remove a curse for 25GP.
 |   12 | Someone with a severed arm is healed, their arm growing back          |
 +------+-----------------------------------------------------------------------+
 ```
-
+![Sheagrove](../img/sheagrove.png?raw=true "Sheagrove")
 ## Sheagrove(City)
 A small struggling town with an apothecary and mages guild.
 
-### Apothecary
-An imperial named Vincent owns the shop. He will inform the party that his
-potions are too expensive if the party contains a soot or wildfolk, and will
-charge double prices if the party insists on purchasing items.
+### Mages guild (a)
+The guild hall consumes a series of structures in a block.
 
-If the party gets on Vincent's good side, he'll put up a sign advertising
-an alchemy 101 class, which only costs 30GP and takes a week. This will
-advance any commoners that attend into level 1 alchemists.
-
-Vincent's daughter, Ariel, will ask the party to meet her in the alley outside.
-If the party does so, she will offer them 10GP to deliver a letter to her love
-in Mbaleo. His name is Johan, and he sells garlic in Mbaleo.
-```
-+----------+--------------------+----------+
-| Quantity |        Item        | Cost(GP) |
-+----------+--------------------+----------+
-|        3 | Smelling Salt Soup |       15 |
-|        2 | Tekilya            |       15 |
-|        1 | Invisible Brandy   |       25 |
-+----------+--------------------+----------+
-```
-
-### Mages guild 
-The guild hall appears to be a worn down old schoolhouse. Attempting to open the
-door reveals the doorknocker is animated, and demands a demonstration of magic.
-Once the party casts magic for the doorknocker, it will open to reveal the
-interior of an underground guild hall located somewhere other than the
-schoolhouse.
-
-
-#### Mage's shop
-The mage's shop is run by a chipper greenfoot man named Cornaith Ralorie, and is
+#### Magic shop
+The magic shop is run by a chipper greenfoot man named Cornaith Ralorie, and is
 stocked with The following inventory:
 ```
 +----------+-------------------+----------+
@@ -298,6 +313,11 @@ stocked with The following inventory:
 |        1 | Miner's Helm      |      100 |
 +----------+-------------------+----------+
 ```
+If a legendary weapon is here, it is on the wall behind Cornaith. She will 
+regail the party with the story of the weapon, but instruct them that it is not 
+for sale. If the party explains they need it, she will demand a primary source
+reference from the library about such a prophecy.
+
 
 #### Admission office
 If a member of the party who posesses magic writes a letter of introduction,
@@ -325,6 +345,46 @@ side for anyone displaying a passion for the pursuit of knowledge.
 The library contains a copy of each 1st and 2nd level spell from the runesmith's
 spell list. A kindly wayfarer lady named Hirblat permits the party to each check
 out one book per day, but cannot leave the library with it.
+
+If the party asks for a book on the prophecy, they'll be informed by Hirblat 
+that the book was checked out by Finneas, who went missing after traveling West.
+Following his footsteps leads to a hobgoblin camp where he is held prisoner and 
+the book is kept with his things.
+
+### Apothecary (b)
+An imperial named Vincent owns the shop. He will inform the party that his
+potions are too expensive for them if the party contains a soot or wildfolk,
+and will charge double prices if the party insists on purchasing items.
+```
++----------+--------------------+----------+
+| Quantity |        Item        | Cost(GP) |
++----------+--------------------+----------+
+|        3 | Smelling Salt Soup |       15 |
+|        2 | Tekilya            |       15 |
+|        1 | Invisible Brandy   |       25 |
++----------+--------------------+----------+
+```
+
+If the party gets on Vincent's good side, he'll put up a sign advertising
+an alchemy 101 class, which only costs 30GP and takes a week. This will
+advance any commoners that attend into level 1 alchemists.
+
+Vincent's daughter, Ariel, will ask the party to meet her in the alley outside.
+If the party does so, she will offer them 10GP to deliver a letter to her love
+in Mbaleo. His name is Johan, and he sells garlic in Mbaleo. The reward is to be
+paid by him upon delivery.
+```
+Beloved Johan,
+
+My father's cruelty shows no bounds, forbidding our love. Let us away to the
+Hallowed City of Sirasea. I'll await the call of an owl, and will sneak out with
+you in the dark of night. If this letter finds you, they can be trusted to bring
+us the way. Inform them that I can pay them fifty gold pieces, taken from my
+father's till.
+
+Please hurry, love
+```
+
 
 ```
 +------+-----------------------------------------------------------------------------------------------------------------------+
@@ -498,6 +558,8 @@ There's a stand with the following wands on display:
 ## Barad Ainath(Keep)
 A keep inhabited by an order of lawful evil knights.
 
+![Level1](../img/Barad_Ainath_Level_1.png?raw=true "Level1")
+
 ### Level 1: Church of Light
 The surface level is occupied by the church of light, which interacts with
 the public. The priests are none the wiser of the knights' evil ways, nor the
@@ -537,6 +599,8 @@ Sacred Flame( 30ft): DC 12 WIS or 1d6 radiant
 Attacks:
 Dagger: +2 1d4+1 piercing
 ```
+
+![Level 2](../img/Barrad_Ainath_Level_2.png?raw=true "Level 2")
 ### Level 2: Cult of Shadow
 Everyone down here lives in permanent dark.
 ### Lvl2 Room 1 Shadow elite's chambers
@@ -641,6 +705,7 @@ A few beds
 ### Lvl2 Room 15 Cloak Closet
 This room's filled with cloaks and holy symbols for the church of light.
 
+![Level 3](../img/Barad_Ainath_Level_3.png?raw=true "Level 3")
 ### Level 3: Knight's lair
 ### Lvl3 Room 1 Flame Rune room
 There are walls and pillars covered in red runes.
@@ -665,7 +730,7 @@ The walls in this room are made of transparent ice. There are blue heatless
 torches on the walls.
 
 ```
-Icerune Knight
+Ice Rune Knight
 Medium Humanoid
 XP: 450
 HP: 24(3d8+9)
@@ -685,7 +750,7 @@ Heavy Crossbow +2 1d10 piercing
 ### Lvl3 Room 4 Room with furnace and two Commoner servants.
 ### Lvl3 Room 5 Lightning rune room 
 ```
-Lightningrune Knight
+Lightning Rune Knight
 Medium Humanoid
 XP: 450
 HP: 24(3d8+9)
@@ -710,7 +775,7 @@ Heavy Crossbow +2 1d10 piercing
 
 ## Axehead Mountains
 Honeycombed with tunnels full of mutant creatures.
-
+![Axehead Caves](../img/axehead_caves.png?raw=true "Axehead caves")
 ### Monsters
 ```
 RotMutt
@@ -957,7 +1022,7 @@ save, or gain level of headrot. Three levels turns adventurer into rothead.
 Small mushrooms begin squealing loudly if stepped on.
 
 
-
+![Argent Vale](../img/Argent_Vale.png?raw=true "Argent Vale")
 ## Argent Vale
 A silver archway is said to keep the spirits inside the forest on the other
 side. Adventurers who break this arch will be confronted by an army of 5d4
