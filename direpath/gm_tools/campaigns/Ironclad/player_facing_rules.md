@@ -17,7 +17,7 @@ known to take back the land of Ferrus.
 
 The party must embark to regain the legendary weapons. The only knowledge of
 this island is a single map.
-![Korrus](../img/korrus.png?raw=true "Korrus")
+![Korrus](./img/korrus.png?raw=true "Korrus")
 
 ## Characters
 
