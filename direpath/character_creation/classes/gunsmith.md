@@ -1,11 +1,11 @@
 ```
 ################################################################################
-#  _____                                                                       #
-# |  __ \                                                                      #
-# | |  \/_   _ _ __  _ __   ___ _ __                                           #
-# | | __| | | | '_ \| '_ \ / _ \ '__|                                          #
-# | |_\ \ |_| | | | | | | |  __/ |                                             #
-#  \____/\__,_|_| |_|_| |_|\___|_|                                             #
+#       _____                           _ _   _                                #
+#      |  __ \                         (_) | | |                               #
+#      | |  \/_   _ _ __  ___ _ __ ___  _| |_| |__                             #
+#      | | __| | | | '_ \/ __| '_ ` _ \| | __| '_ \                            #
+#      | |_\ \ |_| | | | \__ \ | | | | | | |_| | | |                           #
+#       \____/\__,_|_| |_|___/_| |_| |_|_|\__|_| |_|                           #
 ################################################################################
 ```
 Maybe you dispatch your enemies from a secure vantage point, draw at
@@ -13,6 +13,9 @@ high noon, or bring down buildings. You're a master of steel, lead,
 and gunpowder. A cold, calculating killer who calls thunder down on those
 unlucky enough to face the business end of your arsennal, you represent the
 tip of the spear in military innovation.
+
+## Starting hit points
+1d4+CON
 
 ## Proficiencies
 Armor: Light Armor
@@ -39,31 +42,36 @@ Choose 2 from the following:
 - Tinker's Pack
 
 ```
-+-------+--------+----------+------------+------------+------------------------+
-| Level | Min XP | Hit Dice | Prof Bonus |  Maneuvers |         Features       |
-+-------+--------+----------+------------+------------+------------------------+
-|     1 |      0 | 1d6      | +1         |          1 | Scrap, Smith           |
-|     2 |    300 | 2d6      | +1         |          1 |                        |
-|     3 |    900 | 2d6      | +2         |          2 |                        |
-|     4 |   1200 | 3d6      | +2         |          2 | Second Wind            |
-|     5 |   2700 | 3d6      | +2         |          3 | Ability Score Increase |
-|     6 |   5000 | 3d6      | +2         |          4 |                        |
-|     7 |   7500 | 3d6      | +3         |          5 | Advanced Smith         |
-|     8 |  10000 | 3d6      | +3         |          5 | Ability Score Increase |
-|     9 |  15000 | 3d6      | +4         |          6 |                        |
-|    10 |  20000 | 3d6      | +4         |          6 | Ability Score Increase |
-+-------+--------+----------+------------+------------+------------------------+
+LVL = level
+XP = total experience points needed for level
+SD = Stamina Dice
+Prof = proficiency bonus
+MNVS = Maneuvers
++-----+-------+-----+-----+-----+------------------------+
+| LVL | XP    | SD  | Prof|MVNS |         Features       |
++-----+-------+-----+-----+-----+------------------------+
+|   1 |     0 | 1d6 | +1  |   1 | Scrap, Smith           |
+|   2 |   300 | 2d6 | +1  |   1 | Hit point Increase     |
+|   3 |   900 | 3d6 | +2  |   2 | Hit point Increase     |
+|   4 |  1200 | 4d6 | +2  |   2 | Second Wind            |
+|   5 |  2700 | 5d6 | +2  |   3 | Ability Score Increase |
+|   6 |  5000 | 6d6 | +2  |   4 |                        |
+|   7 |  7500 | 7d6 | +3  |   5 | Advanced Smith         |
+|   8 | 10000 | 8d6 | +3  |   5 | Ability Score Increase |
+|   9 | 15000 | 9d6 | +4  |   6 |                        |
+|  10 | 20000 |10d6 | +4  |   6 | Ability Score Increase |
++-----+-------+-----+-----+-----+------------------------+
 ```
 
 ## Features
 
-### Gunner Maneuvers
+### Gunsmith Maneuvers
 You learn to perform maneuvers from the maneuvers list. The number of maneuvers
 you know can be found in the list of the maneuvers column.
 
 ### Scrap
 One unit of scrap consists of 10lb of iron, chemicals, and other metal. It can
-be purchased from most shops for 1GP. During a partial or full rest, you may
+be purchased from most shops for 1GP. During a rest, you may
 break down metal items into scrap. When you break down a batch of metal items,
 divide the total weight by 10 to find the number scrap units you get. The
 remainder is wasted.
@@ -72,10 +80,16 @@ remainder is wasted.
 During a partial or full rest, you may craft weapons using scrap.
 You may not craft cartridges, nor weapons that use cartridges.
 
+### Hit point Increase
+Your maximum hit points increase by 1d6+CON.
+
+### Hit point Increase
+Your maximum hit points increase by 1d6+CON.
+
 ### Second Wind
 You may use your bonus action to take a deep breath and brace yourself for more
-carnage. You must have at least one hit die, which you expend by rolling. You
-heal the rolled amount of hit points.
+carnage. You must have at least one stamina die, which you expend by rolling.
+You heal the rolled amount of hit points.
 
 ### Advanced Smith
 You may now craft cartridges and weapons that use cartridges.
@@ -176,6 +190,10 @@ After hitting an enemy with a ranged attack using a weapon that still has
 more ammunition, you may use your reaction to fire an additional time. You
 cannot use double-tap if you have fired more than once already on this turn.
 
+### Action Surge
+You may now expend a stamina die take one additional action this turn. You may
+only use action surge once per turn.
+
 ## Firearms
 
 ```
@@ -208,7 +226,6 @@ Instead of a normal ranged weapon attack, a weapon with the burst fire property
 may fire ten rounds of ammunition in rapid succession on a ten foot cube. Every
 creature inside the cube must succeed a DC15 dex saving throw or receive the
 weapon’s normal damage. This consumes ten rounds of ammunition.
-
 
 ## Explosives
 ```

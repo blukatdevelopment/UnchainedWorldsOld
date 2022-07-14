@@ -23,6 +23,8 @@ boundaries that cause some to laugh and others to take pause and reconsider.
 Metal, crystal, and wood are your building tools, but the constructs that
 you build are more than the sum of their parts. You have created life.
 
+## Starting hit points
+1d4+CON
 
 ## Proficiencies
 Armor: None
@@ -44,33 +46,37 @@ Choose 2 from the following:
 - Tinker's Pack
 
 ```
-+-------+--------+----------+------------+-------------------------+
-| Level | Min XP | Hit Dice | Prof Bonus |       Features          |
-+-------+--------+----------+------------+-------------------------+
-|     1 |      0 | 1d4      |         +1 |  Scrap, Forge, Repair   |
-|     2 |    300 | 2d4      |         +1 |  Command                |
-|     3 |    900 | 2d4      |         +2 |                         |
-|     4 |   1200 | 3d4      |         +2 |                         |
-|     5 |   2700 | 3d4      |         +2 |  Ability Score Increase |
-|     6 |   5000 | 3d4      |         +2 |  Field Repair           |
-|     7 |   7500 | 3d4      |         +3 |                         |
-|     8 |  10000 | 3d4      |         +3 |                         |
-|     9 |  15000 | 3d4      |         +4 |  Miniaturization        |
-|    10 |  20000 | 3d4      |         +4 |  Ability Score Increase |
-+-------+--------+----------+------------+-------------------------+
+LVL = level
+XP = total experience points needed for level
+SD = Stamina Dice
+Prof = proficiency bonus
++-----+-------+-----+------+------------------------------+
+| Llv | XP    | SD  | Prof |       Features               |
++-----+-------+-----+------+------------------------------+
+|   1 |     0 | 1d4 |   +1 |  Scrap, Forge, Repair        |
+|   2 |   300 | 2d4 |   +1 |  Command, Hit point Increase |
+|   3 |   900 | 3d4 |   +2 |  Hit point Increase          |
+|   4 |  1200 | 4d4 |   +2 |                              |
+|   5 |  2700 | 5d4 |   +2 |  Ability Score Increase      |
+|   6 |  5000 | 6d4 |   +2 |  Field Repair                |
+|   7 |  7500 | 7d4 |   +3 |                              |
+|   8 | 10000 | 8d4 |   +3 |                              |
+|   9 | 15000 | 9d4 |   +4 |  Miniaturization             |
+|  10 | 20000 |10d4 |   +4 |  Ability Score Increase      |
++-----+-------+-----+------+------------------------------+
 ```
 
 ## Features
 
 ### Scrap
 One unit of scrap consists of 10lb of iron or other metal. It can be purchased
-from most shops for 1GP. During a partial or full rest, you may break down
+from most shops for 1GP. During a Rest, you may break down
 metal items into scrap. When you break down a batch of metal items, divide the
 total weight by 10 to find the number scrap units you get. The remainder is
 wasted.
 
 ### Forge
-During a partial or full rest, you may build chassis, components, or soul
+During a rest, you may build chassis, components, or soul
 stones. A soul stone requires 15 units of scrap. Each chassis and component
 has it's scrap cost listed in it's respective section. Part of forging
 involves removing impurities and extracting trace alchemical ingredients.
@@ -79,11 +85,10 @@ intelligence modifier active at any one time. Your constructs each have their
 own turn in initiative, unless you are piloting or carrying them.
 
 ### Repair
-During a short rest, you may repair one construct. To do so, make an
-intelligence check and add your proficiency bonus. This is the amount of hit
-points you restore for the targeted construct. Your constructs may discharge
-their soul stones. If this happens, you may expend one of your hit dice to
-recharge the soul stone.
+By spending 10 minutes and a stamina die, you may repair one construct.
+To do so, make an intelligence check and add your proficiency bonus. This is
+the amount of hit points you restore for the targeted construct. Repair
+recharges soul stones.
 
 ### Command
 On your turn, you may consume a hit die to use your bonus action and issue one
@@ -92,6 +97,12 @@ of the following commands to your constructs:
 - Advance: Your constructs move their full movement toward enemies.
 - Focus fire: Each construct may make a ranged attack against the designated target.
 - Regroup: Your constructs move their full movement towards you.
+
+### Hit point Increase
+Your maximum hit points increase by 1d4+CON.
+
+### Hit point Increase
+Your maximum hit points increase by 1d4+CON.
 
 ### Field Repair
 You may expend a hit die and an action to use tinker's tools or a heavy wrench

@@ -11,6 +11,9 @@
 Sneaking, scheming, and plotting the deeds that are better left under the cover
 of night, you are an expert in all things stealth and theft.
 
+## Starting hit points
+1d6+CON
+
 ## Proficiencies
 Armor: Light
 Weapons: Simple weapons, hand crossbows
@@ -36,20 +39,24 @@ You are proficient in stealth and 3 from the following:
 - Burglar's pack
 
 ```
-+-------+--------------------+----------+-------------------+--------+------------------------+
-| Level | Minimum Experience | Hit Dice | Proficiency Bonus | Tricks |       Features         |
-+-------+--------------------+----------+-------------------+--------+------------------------+
-|     1 |                  0 | 1d6      | +1                |      2 | Tricks, Thieves' Cant  |
-|     2 |                300 | 2d6      | +1                |      3 | Expertise              |
-|     3 |                900 | 2d6      | +2                |      4 | Ability Score Increase |
-|     4 |               1200 | 3d6      | +2                |      5 |                        |
-|     5 |               2700 | 3d6      | +2                |      6 |                        |
-|     6 |               5000 | 3d6      | +2                |      7 | Ability Score Increase |
-|     7 |               7500 | 3d6      | +3                |      8 |                        |
-|     8 |              10000 | 3d6      | +3                |      9 |                        |
-|     9 |              15000 | 3d6      | +4                |     10 |                        |
-|    10 |              20000 | 3d6      | +4                |     11 | Ability Score Increase |
-+-------+--------------------+----------+-------------------+--------+------------------------+
+LVL = level
+XP = total experience points needed for level
+SD = Stamina Dice
+Prof = proficiency bonus
++-----+-------+-----+------+--------+--------------------------------------------+
+| LVL |    XP | SD  | Prof | Tricks |       Features                             |
++-----+-------+-----+------+--------+--------------------------------------------+
+|   1 |     0 | 1d6 | +1   |      2 | Tricks, Thieves' Cant                      |
+|   2 |   300 | 2d6 | +1   |      3 | Expertise, Hit point Increase              |
+|   3 |   900 | 3d6 | +2   |      4 | Ability Score Increase, Hit point Increase |
+|   4 |  1200 | 4d6 | +2   |      5 |                                            |
+|   5 |  2700 | 5d6 | +2   |      6 |                                            |
+|   6 |  5000 | 6d6 | +2   |      7 | Ability Score Increase                     |
+|   7 |  7500 | 7d6 | +3   |      8 |                                            |
+|   8 | 10000 | 8d6 | +3   |      9 |                                            |
+|   9 | 15000 | 9d6 | +4   |     10 |                                            |
+|  10 | 20000 |10d6 | +4   |     11 | Ability Score Increase                     |
++-----+-------+-----+------+--------+--------------------------------------------+
 ```
 
 ## Features
@@ -67,6 +74,12 @@ may use these to locate criminal contacts.
 Choose one skill that you have proficiency with. Your proficiency bonus counts
 twice for checks made with this skill. You may substitute this skill proficiency
 for proficiency with thieve's tools.
+
+### Hit point Increase
+Your maximum hit points increase by 1d6+CON.
+
+### Hit point Increase
+Your maximum hit points increase by 1d6+CON.
 
 ### Ability Score increase
 You may increase one ability score by 2, or you can increase two ability scores
@@ -143,9 +156,9 @@ takes place.
 You now have advantage on attack rolls made with darts.
 
 ### Vice (Minimum Level 4)
-Whether it's food, drink, or something else entirely, you indulge in a vice.
-You may indulge in this vice for 1 minute in order to restore a hit die. Once
-you use this ability, you may not use it again until you finish a short rest.
+You take comfort in consuming something considered as a vice. When you have no
+stamina dice, you may consume 5sp worth over the course of 10 minutes to regain
+one stamina die. Common vices may be alcohol, tobacco, or burning incense.
 
 ### Cunning Action (Minimum level 4)
 You may use your bonus action to perform the Dash, Dodge, Disengage, or Hide

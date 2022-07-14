@@ -937,22 +937,29 @@ If exposed to the elements in an extremely hot or cold environment, an adventure
 throw or gain a level of exhaustion. This check repeats for each hour spent exposed to the elements. An adventurer may avoid
 these checks by staying in shelter or wearing clothing appropriate to the weather.
 
-### Rests
-An adventurer may wish to rest to recover their physical and mental stamina as well as perform light maintenance of their gear.
-
-#### Short Rest
-A short rest takes 1 hour, during which one may perform light activities such as reading a book, cooking a meal, or performing a ritual.
-One may spend a hit die to restore health. When they do so, they roll the die and add their con modifier, gaining that many hit points.
-
-#### Partial Rest
-A partial rest takes 8 hours, 6 of which are spent sleeping. A fire is necessary in most conditions, as well as some form of shelter unless
-season and weather permit sleeping beneath the stars. After a partial rest, an adventurer regains one hit die that they may spend at the time
-of the partial rest to regain hit points.
-
-#### Full Rest
-A full rest has all the requirements of a partial rest, except that it must take place in a bed such as in a tavern, inn, or house found in
-a settlement where security is provided. During a full rest, one is able to fully relax themselves. They restore all hit points, hit dice,
-and levels of exhaustion.
+### Rest
+An adventurer may wish to rest to recover their physical and mental stamina as well as perform maintenance of their 
+gear. A rest takes 8 hours, and can occur once per day. An adventurer may regain one stamina die for each amenity that
+their rest includes(See amenities table below). Adventurers may also expend up to one stamina die for each amenity during
+the rest. An adventurer may expend a stamina die to roll it, add their constitution bonus, and restore that many hit
+points. If an adventurer is not currently lacking in water, food, or sleep, they may expend a stamina die to remove one
+level of exhaustion. Many inns, taverns, and temples will offer differing amenities.
+```
++---------------------+
+|   Rest amenities    |
++---------------------+
+| Any Bedding         |
+| Fire or shelter     |
+| Food and water      |
+| Double food ration  |
+| Fine dining         |
+| Fine drink          |
+| Hot bath            |
+| Comfortable bedding |
+| Medical attention   |
+| Spa treatment       |
++---------------------+
+```
 
 ### Conditions
 

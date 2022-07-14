@@ -12,6 +12,9 @@ You live as an example to all that share your faith. In service of a deity,
 you live by a strict code of conduct and leverage your piety to wield your
 deity's magic.
 
+## Starting hit points
+1d4+CON
+
 ## Proficiencies
 Armor: Light, Medium, Shield
 Weapons: simple weapons, 
@@ -33,20 +36,24 @@ Choose two from the following:
 - Priest's Pack
 
 ```
-+-------+--------------------+----------+-------------+------------------------+
-| Level | Minimum Experience | Hit Dice | Spell Level |        Features        |
-+-------+--------------------+----------+-------------+------------------------+
-|     1 |                  0 | 1d4      |   Cantrip   | Divine Spellcasting    |
-|     2 |                300 | 2d4      | 1           | Domain                 |
-|     3 |                900 | 2d4      | 2           |                        |
-|     4 |               1200 | 3d4      | 2           |                        |
-|     5 |               2700 | 3d4      | 3           | Ability Score Increase |
-|     6 |               5000 | 3d4      | 3           | Channel Divinity       |
-|     7 |               7500 | 3d4      | 4           |                        |
-|     8 |              10000 | 3d4      | 4           |                        |
-|     9 |              15000 | 3d4      | 5           |                        |
-|    10 |              20000 | 3d4      | 5           | Ability Score Increase |
-+-------+--------------------+----------+-------------+------------------------+
+LVL = level
+XP = total experience points needed for level
+SD = Stamina Dice
+Prof = proficiency bonus
++-----+-------+-----+-------------+----------------------------+
+| LVL |XP     | SD  | Spell Level |        Features            |
++-----+-------+-----+-------------+----------------------------+
+|   1 |     0 | 1d4 |   Cantrip   | Divine Spellcasting        |
+|   2 |   300 | 2d4 | 1           | Domain, Hit point Increase |
+|   3 |   900 | 3d4 | 2           | Hit point Increase         |
+|   4 |  1200 | 4d4 | 2           |                            |
+|   5 |  2700 | 5d4 | 3           | Ability Score Increase     |
+|   6 |  5000 | 6d4 | 3           | Channel Divinity           |
+|   7 |  7500 | 7d4 | 4           |                            |
+|   8 | 10000 | 8d4 | 4           |                            |
+|   9 | 15000 | 9d4 | 5           |                            |
+|  10 | 20000 |10d4 | 5           | Ability Score Increase     |
++-----+-------+-----+-------------+----------------------------+
 ```
 
 ## Feats
@@ -88,7 +95,7 @@ so.
 +-----------------------------------+--------------+
 |            Good Acts              | Piety Gained |
 +-----------------------------------+--------------+
-| Lead Prayer(Short Rest)           | 1d100        |
+| Lead Prayer(10 min, 1 stamina die)| 1d100        |
 | Celebrate Holiday                 | 1d100        |
 | Bless newborn, wedding, funeral   | 2d100        |
 | Provide counsel(Roleplay it)      | 2d100        |
@@ -136,9 +143,15 @@ acts. Domain spells do not count against the number of spells you may prepare.
 [1]: Spell is found in the Spell Compendium Volume 1
 ```
 
+### Hit point Increase
+Your maximum hit points increase by 1d4+CON.
+
+### Hit point Increase
+Your maximum hit points increase by 1d4+CON.
+
 ### Channel Divinity
 As the discipline in your domain grows solid, your deity offers up a domain-specific ability.
-Using channel divinity uses an action and expends 2 hit dice.
+Using channel divinity uses an action and expends 2 stamina dice.
 
 #### Holy Light (Light Domain)
 You outstretch your arms and a 60 foot diameter cylinder that extends from the 
@@ -195,80 +208,79 @@ creature.
 ## Spell List
 
 ### Cantrip
-- Mending [1]
-- Sacred Flame [1]
-- Guidance [1]
-- Touch Light [1]
-- Lay On Hands [1]
-- Thaumaturgy [1]
-- Toll the Dead [1]
-- Resistance [1]
-- Spare the Dying [1]
-- Word of Radiance [1]
+- Mending 
+- Sacred Flame 
+- Guidance 
+- Touch Light 
+- Lay On Hands 
+- Thaumaturgy 
+- Toll the Dead 
+- Resistance 
+- Spare the Dying 
+- Word of Radiance 
 
 ### 1st
-- Guiding Bolt [1]
-- Healing Word [1]
-- Cure Wounds [1]
-- Shield of Faith [1]
-- Calm Emotions [1]
-- Command [1]
-- Protection from good and evil [1]
-- Vorpal Snare[1]
-- Push[1]
-- Bane [1]
-- Bless [1]
-- Create or Destroy Water [1]
-- Detect Evil and Good [1]
-- Detect Magic [1]
-- Detect Poison and Disease [1]
-- Inflict Wounds [1]
-- Sanctuary [1]
-- Purify Drink or Food [1]
-- Diagnose Curse [1]
+- Guiding Bolt 
+- Healing Word 
+- Cure Wounds 
+- Shield of Faith 
+- Calm Emotions 
+- Command 
+- Protection from good and evil 
+- Vorpal Snare
+- Push
+- Bane 
+- Bless 
+- Create or Destroy Water 
+- Detect Evil and Good 
+- Detect Magic 
+- Detect Poison and Disease 
+- Inflict Wounds 
+- Sanctuary 
+- Purify Drink or Food 
+- Diagnose Curse 
 
 ### 2nd
-- Insight Arrow [1]
-- Radiant Weapon [1]
-- Holy Weapon [1]
-- Bird Friend [1]
-- Words of Warning [1]
-- Walk Through Walls [1]
-- Channel the Dead [1]
-- Words of Strength [1]
-- Object of Desire [1]
-- Spirit Barrier [1]
-- Cure Sickness [1]
-- Hold Person [1]
-- Aid [1]
-- Blindness/Deafness [1]
-- Continual Flame [1]
-- Enhance Ability [1]
-- Find Traps [1]
-- Gentle Repose [1]
-- Lesser Restoration [1]
-- Locate Object [1]
-- Prayer of Healing [1]
-- Protection from Poison [1]
-- Silence [1]
-- Warding Bond [1]
+- Insight Arrow 
+- Radiant Weapon 
+- Holy Weapon 
+- Bird Friend 
+- Words of Warning 
+- Walk Through Walls 
+- Channel the Dead 
+- Words of Strength 
+- Object of Desire 
+- Spirit Barrier 
+- Cure Sickness 
+- Hold Person 
+- Aid 
+- Blindness/Deafness 
+- Continual Flame 
+- Enhance Ability 
+- Find Traps 
+- Gentle Repose 
+- Lesser Restoration 
+- Locate Object 
+- Prayer of Healing 
+- Protection from Poison 
+- Silence 
+- Warding Bond 
 
 ### 3rd
-- Sacrifice [1]
-- Kindness [1]
-- Confession [1]
-- Riddle [1]
-- Exorcism [1]
-- Dispel Magic [1]
-- Feign Death [1]
-- Gaseous Form [1]
+- Sacrifice 
+- Kindness 
+- Confession 
+- Riddle 
+- Exorcism 
+- Dispel Magic 
+- Feign Death 
+- Gaseous Form 
 
 ### 4th
-- Miracle [1]
-- Life Mist [1]
+- Miracle 
+- Life Mist 
 
 ### 5th
-- Judgement [1]
-- Curse [1]
-- Angelic Transformation [1]
-[1] - spell is found in the Spell Compendium Volume 1
+- Judgement 
+- Curse 
+- Angelic Transformation 

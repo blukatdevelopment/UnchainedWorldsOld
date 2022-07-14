@@ -13,6 +13,9 @@ Alchemical processes are what you struggle to control. Novice alchemy is a form
 of gambling, but after achieving mastery in the art, alchemists can truly achieve
 stability.
 
+## Starting hit points
+1d4+CON
+
 ## Proficiencies
 Armor: Light Armor
 Weapons: Simple Weapons
@@ -38,27 +41,32 @@ Choose 4 from the following:
 
 
 ```
-+-------+--------+----------+------------+------------+------------------------+
-| Level | Min XP | Hit Dice | Prof Bonus | Techniques |        Features        |
-+-------+--------+----------+------------+------------+------------------------+
-|     1 |      0 | 1d4      | +1         |          1 | Novice Alchemy         |
-|     2 |    300 | 2d4      | +1         |          2 | Lesser Splash Potions  |
-|     3 |    900 | 2d4      | +2         |          3 | Big Dipper             |
-|     4 |   1200 | 3d4      | +2         |          4 | Journeyman Alchemy     |
-|     5 |   2700 | 3d4      | +2         |          5 | Ability Score Increase |
-|     6 |   5000 | 3d4      | +2         |          6 | GlassBlower            |
-|     7 |   7500 | 3d4      | +3         |          7 | Expert Alchemy         |
-|     8 |  10000 | 3d4      | +3         |          7 | Greater Splash Potions |
-|     9 |  15000 | 3d4      | +4         |          7 | Master Alchemy         |
-|    10 |  20000 | 3d4      | +4         |          7 | Ability Score Increase |
-+-------+--------+----------+------------+------------+------------------------+
+LVL = level
+XP = total experience points needed for level
+SD = Stamina Dice
+Prof = proficiency bonus
+TN = Techniques
++-----+-------+-----+-----+---+-------------------------------------------+
+| LVL |  XP   | SD  | Prof|TN |        Features                           |
++-----+-------+-----+-----+---+-------------------------------------------+
+|   1 |     0 | 1d4 | +1  | 1 | Novice Alchemy                            |
+|   2 |   300 | 2d4 | +1  | 2 | Lesser Splash Potions, it point Increase  |
+|   3 |   900 | 2d4 | +2  | 3 | Big Dipper, Quick Brew, it point Increase |
+|   4 |  1200 | 3d4 | +2  | 4 | Journeyman Alchemy                        |
+|   5 |  2700 | 3d4 | +2  | 5 | Ability Score Increase                    |
+|   6 |  5000 | 3d4 | +2  | 6 | GlassBlower                               |
+|   7 |  7500 | 3d4 | +3  | 7 | Expert Alchemy                            |
+|   8 | 10000 | 3d4 | +3  | 7 | Greater Splash Potions                    |
+|   9 | 15000 | 3d4 | +4  | 7 | Master Alchemy                            |
+|  10 | 20000 | 3d4 | +4  | 7 | Ability Score Increase                    |
++-----+-------+-----+-----+---+-------------------------------------------+
 ```
 
 ## Features
 
 ### Novice Alchemy
 You learn to brew simple potions using the Amateur's Bubbling Cauldron 
-technique. During each partial or full rest, you may spend 5SP of alchemical
+technique. During each rest, you may spend 5SP of alchemical
 ingredients to brew a potion using a known technique. You may brew a number
 of potions equal to your intelligence modifier during that rest. You may use
 a separate alchemy technique for each potion. In addition to making potions,
@@ -67,12 +75,21 @@ you may use your alchemy kit to identify a potion. Doing so requires 10 minutes.
 ### Lesser Splash Potions
 You learn to temporarily heighten the potency of a potion so that it can be
 divided up between two bottles. The process requires one action and consumes
-one hit die to fuel the magic, but results in two potions. These potions remain
-potent for 1 minute, after which they lose all potency.
+one stamina die to fuel the magic, but results in two potions. These potions
+remain potent for 1 minute, after which they lose all potency.
+
+### Hit point Increase
+Your maximum hit points increase by 1d4+CON.
+
+### Hit point Increase
+Your maximum hit points increase by 1d4+CON.
 
 ### Big Dipper
 Your practice has paid off. You may now dip a weapon or piece of ammunition in
 a potion using your bonus action.
+
+### Quick Brew
+You may now spend 10 minutes and expend a stamina die to brew a potion.
 
 ### Journeyman Alchemy
 Above and beyond simply making potions, you've learned to refine your technique
@@ -82,10 +99,10 @@ roll for that potion. If your roll is higher than the values in the table, you
 pick the highest value in the table.
 
 ### Glassblower
-You may now craft 1d12 flasks or 1d4 vials during a partial or long rest at a
-campfire. You may instead produce a single glass arrow, which can be filled with
-any potion and fired from a shortbow or longbow and which shatters on impact,
-applying the potion's effect to the target on a hit.
+You may now craft 1d12 flasks or 1d4 vials during a rest at a campfire. You may
+instead produce a single glass arrow, which can be filled with any potion and
+fired from a shortbow or longbow and which shatters on impact, applying the
+potion's effect to the target on a hit.
 
 ### Expert Alchemy
 You have further refined your use of additives to better control the output
@@ -109,8 +126,8 @@ instead of two.
 ### Master Alchemy
 You have gained mastery over the field of alchemy. You have learned to copy
 existing potions, whether they are products of any known techniques or not.
-When making a batch of potions during a partial or full rest, you may expend
-a potion to copy it. Doing this requires 10GP of ingredients per potion.
+When making a batch of potions during a rest, you may expend a potion to produce
+copies of it. Doing this requires 10GP of ingredients per copy created.
 
 ## Alchemy Techniques
 

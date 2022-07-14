@@ -58,7 +58,7 @@ This content pack contains a variety of pulp-fantasy character classes.
 #### Classes
 - [alchemist](direpath/character_creation/classes/alchemist.md)
 - [commoner](direpath/character_creation/classes/commoner.md)
-- [gunner](direpath/character_creation/classes/gunner.md)
+- [gunsmith](direpath/character_creation/classes/gunsmith.md)
 - [lycanthrope](direpath/character_creation/classes/lycanthrope.md)
 - [priest](direpath/character_creation/classes/priest.md)
 - [psion](direpath/character_creation/classes/psion.md)

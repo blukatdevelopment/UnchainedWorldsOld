@@ -11,6 +11,9 @@
 Some channel the power of the weave by studying symbols. These symbols are known as runes. Once carved, runes contain powerful bindings to the weave that can be invoked to cast spells. The
 runesmith is one who dedicates their life to the art of the rune.
 
+## Starting hit points
+1d4+CON
+
 ## Proficiencies
 Armor: None
 Weapons: Daggers, darts, slings, quarterstaffs, light crossbows
@@ -31,20 +34,25 @@ Choose 2 from the following:
 - Scholar's Pack
 
 ```
-+-------+--------+----------+------------+-------+-------------+---------------------------+
-| Level | Min XP | Hit Dice | Prof Bonus | Runes | Spell Level |         Features          |
-+-------+--------+----------+------------+-------+-------------+---------------------------+
-|     1 |      0 | 1d4      | +1         |     0 |           1 | Runebook, Ritual Casting  |
-|     2 |    300 | 2d4      | +1         |     2 |           1 | Runesmithery, Runecasting |
-|     3 |    900 | 2d4      | +2         |     4 |           1 | Extra Cantrip             |
-|     4 |   1200 | 3d4      | +2         |     8 |           2 | Runecasting Style         |
-|     5 |   2700 | 3d4      | +2         |    10 |           2 | Ability Score Increase    |
-|     6 |   5000 | 3d4      | +2         |    12 |           3 |                           |
-|     7 |   7500 | 3d4      | +3         |    16 |           3 | Runesmithing Technique    |
-|     8 |  10000 | 3d4      | +3         |    18 |           4 |                           |
-|     9 |  15000 | 3d4      | +4         |    20 |           4 | Extra Cantrip             |
-|    10 |  20000 | 3d4      | +4         |    24 |           5 | Ability Score Increase    |
-+-------+--------+----------+------------+-------+-------------+---------------------------+
+LVL = level
+XP = total experience points needed for level
+SD = Stamina Dice
+Prof = proficiency bonus
+SL = Spell Level
++-----+-------+-----------+-------+----+-----------------------------------------------+
+| LVL | XP    | SD  | Prof| Runes | SL |    Features                                   |
++-----+-------+-----+-----+-------+----+-----------------------------------------------+
+|   1 |     0 | 1d4 | +1  |     0 |  1 | Runebook, Ritual Casting                      |
+|   2 |   300 | 2d4 | +1  |     2 |  1 | Runesmithery, Runecasting, Hit point Increase |
+|   3 |   900 | 3d4 | +2  |     4 |  1 | Extra Cantrip, Hit point Increase             |
+|   4 |  1200 | 4d4 | +2  |     8 |  2 | Runecasting Style                             |
+|   5 |  2700 | 5d4 | +2  |    10 |  2 | Ability Score Increase                        |
+|   6 |  5000 | 6d4 | +2  |    12 |  3 |                                               |
+|   7 |  7500 | 7d4 | +3  |    16 |  3 | Runesmithing Technique                        |
+|   8 | 10000 | 8d4 | +3  |    18 |  4 |                                               |
+|   9 | 15000 | 9d4 | +4  |    20 |  4 | Extra Cantrip                                 |
+|  10 | 20000 |10d4 | +4  |    24 |  5 | Ability Score Increase                        |
++-----+-------+-----+-----+-------+----+-----------------------------------------------+
 ```
 
 ## Features
@@ -61,11 +69,11 @@ of the spell you are copying, you require one hour of time and 10GP of paper, in
 you gain subsequent levels, you may learn one spell from the spell list at no cost.
 
 ### Runesmithery
-You've practiced with runes and can now carve them into flat stones during a partial or full rest. During a partial rest,
-you may inscribe stones with the runes of a particular spell. Each rune you carve requires 2 silver pieces
+You've practiced with runes and can now inscribe them onto flat stones. You may expend a hit die, rolling it and
+inscribing that many runes over the course of ten minutes. If you wish to expend more than one stamina die while carving,
+it takes an additional 10 minutes per stamina die. Each rune you carve requires 2 silver pieces
 worth of materials needed to make arcane ink. The base number of runes you may have active across all your rune stones
 at any time can be found in the runes column for your level.
-![Runestone](../../img/runestone.png?raw=true "Runestone")
 
 #### Runesmithing 2nd level and higher spells
 Spells of higher levels require more more runes. Specifically, the spell level indicates how many runes are required to smith a runestone of that level. A 2nd level takes two runes, a 3rd takes 3, and so forth.
@@ -86,6 +94,12 @@ Intelligence is your spellcasting abiility. The rune stone you cast with acts as
 consumed after the spell is cast.
 Your spell DC (difficulty class) is 8+proficiency bonus + intelligence modifier.
 Your spell attack modifier is proficiency bonus + intelligence modifier.
+
+### Hit point Increase
+Your maximum hit points increase by 1d4+CON.
+
+### Hit point Increase
+Your maximum hit points increase by 1d4+CON.
 
 ### Extra Cantrip
 You learn one additional Cantrip from the runesmith spell list.
@@ -133,11 +147,10 @@ with one of the following properties:
 When you reach 7th level, you learn one of the following techniques.
 
 #### Duplicate Inscription
-When you smith a runestone during a full rest, you may make a duplicate
-runestone which contains the same spell and requires the same material
-components, but does not count against the number of runes you've used.
-After you use this feature, you may not use it again until the runestone and
-it's duplicate have been cast.
+When smithing runes, you may make a duplicate runestone which contains the same
+spell and requires the same material components, but does not count against the
+number of runes you've used. After you use this feature, you may not use it
+again until the runestone and it's duplicate have been cast.
 
 #### Glyph
 You may now draw glyphs, which can be drawn on any 10ft square surface
@@ -163,143 +176,143 @@ on itself.
 ## Runesmith Spell List
 
 ### Cantrips
-- Sparking Blade [1]
-- Bonfire [1]
-- Firebolt [1]
-- Prestidigitation [1]
-- Light [1]
-- Spare the dying [1]
-- Thornwhip [1]
-- Eye Stone [1]
-- Mending [1]
-- Minor Illusion [1]
-- Earth Whisper [1]
-- Phantom Whistle [1]
-- Long Ear [1]
-- Minute Conjuration [1]
-- Touch Light [1]
-- Lesser Telekinesis [1]
-- Death Grip [1]
-- Acid Splash [1]
-- Control Flames [1]
-- Friends [1]
-- Frostbite [1]
-- Green Flame Blade [1]
-- Gust [1]
-- Infestation [1]
-- Mind Sliver [1]
-- Mold Earth [1]
-- Poison Spray [1]
-- Ray of Frost [1]
-- Shape Water [1]
-- Shocking Grasp [1]
-- Thunderclap [1]
-- Toll the Dead [1]
+- Sparking Blade 
+- Bonfire 
+- Firebolt 
+- Prestidigitation 
+- Light 
+- Spare the dying 
+- Thornwhip 
+- Eye Stone 
+- Mending 
+- Minor Illusion 
+- Earth Whisper 
+- Phantom Whistle 
+- Long Ear 
+- Minute Conjuration 
+- Touch Light 
+- Lesser Telekinesis 
+- Death Grip 
+- Acid Splash 
+- Control Flames 
+- Friends 
+- Frostbite 
+- Green Flame Blade 
+- Gust 
+- Infestation 
+- Mind Sliver 
+- Mold Earth 
+- Poison Spray 
+- Ray of Frost 
+- Shape Water 
+- Shocking Grasp 
+- Thunderclap 
+- Toll the Dead 
 
 
 ### 1st
-- Self deception [1]
-- Sculpt Ice [1]
-- Protection from good and evil [1]
-- Magic Missile [1]
-- Shield [1]
-- Hasty Retreat [1]
-- Instant Athlete [1]
-- Magic Caltrops [1]
-- Catapult [1]
-- Vorpal Snare [1]
-- Absorb Element [1]
-- Beast Aspect [1]
-- Identify [1]
-- False Life [1]
-- Push [1]
-- Pull [1]
-- Ice Tomb [1]
-- Jump [1]
-- Detect Magic [1]
-- Alarm [1]
-- Cause Fear [1]
-- Charm Person [1]
-- Chromatic Orb [1]
-- Color Spray [1]
-- Comprehend Languages [1]
-- Disguise Self [1]
-- Distort Value [1]
-- Earth Tremor [1]
-- Feather Fall [1]
-- Find Familiar [1]
-- Fog Cloud [1]
-- Frost Fingers [1]
-- Grease [1]
-- Ice Knife [1]
-- Mage Armor [1]
-- Ray of Sickness [1]
-- Silent Image [1]
-- Sleep [1]
-- Snare [1]
-- Caustic Brew [1]
-- Hideous Laughter [1]
-- Floating Disk [1]
-- Tunderwave [1]
-- Unseen Servant [1]
-- Witch Bolt [1]
-- Burning Hands [1]
+- Self deception 
+- Sculpt Ice 
+- Protection from good and evil 
+- Magic Missile 
+- Shield 
+- Hasty Retreat 
+- Instant Athlete 
+- Magic Caltrops 
+- Catapult 
+- Vorpal Snare 
+- Absorb Element 
+- Beast Aspect 
+- Identify 
+- False Life 
+- Push 
+- Pull 
+- Ice Tomb 
+- Jump 
+- Detect Magic 
+- Alarm 
+- Cause Fear 
+- Charm Person 
+- Chromatic Orb 
+- Color Spray 
+- Comprehend Languages 
+- Disguise Self 
+- Distort Value 
+- Earth Tremor 
+- Feather Fall 
+- Find Familiar 
+- Fog Cloud 
+- Frost Fingers 
+- Grease 
+- Ice Knife 
+- Mage Armor 
+- Ray of Sickness 
+- Silent Image 
+- Sleep 
+- Snare 
+- Caustic Brew 
+- Hideous Laughter 
+- Floating Disk 
+- Tunderwave 
+- Unseen Servant 
+- Witch Bolt 
+- Burning Hands 
 
 
 ### 2nd
-- Blink Step [1]
-- Consort With Devils [1]
-- Eyeball Zone [1]
-- Hypnotic Trigger [1]
-- Red-hot metal [1]
-- Slime [1]
-- Spin Web [1]
-- Levitate [1]
-- Insight Arrow [1]
-- Psionic Missiles [1]
-- suggestion [1]
-- Hold Person [1]
-- Words of Warning [1]
-- Walk Through Walls [1]
-- Fiendishness [1]
-- Channel The Dead [1]
-- Object of Desire [1]
-- Spirit Barrier [1]
-- Enhance Ability [1]
-- Gentle Repose [1]
-- Locate Object [1]
+- Blink Step 
+- Consort With Devils 
+- Eyeball Zone 
+- Hypnotic Trigger 
+- Red-hot metal 
+- Slime 
+- Spin Web 
+- Levitate 
+- Insight Arrow 
+- Psionic Missiles 
+- suggestion 
+- Hold Person 
+- Words of Warning 
+- Walk Through Walls 
+- Fiendishness 
+- Channel The Dead 
+- Object of Desire 
+- Spirit Barrier 
+- Enhance Ability 
+- Gentle Repose 
+- Locate Object 
 
 ### 3rd
-- Cause Fear [1]
-- Create Undead Vermin Swarm [1]
-- Shadow Magic [1]
-- Delusion [1]
-- Flight [1]
-- Lightning Bolt [1]
-- Riddle [1]
-- Silent Prance [1]
-- Posession [1]
-- Tame Beast [1]
-- Counterspell [1]
-- Rust [1]
-- Petrification [1]
-- Blazing Trail [1]
-- Animate Dead [1]
-- Blink [1]
-- Clairvoyance [1]
-- Dispel Magic [1]
-- Enemies Abound [1]
-- Erupting Earth [1]
-- Fast Friends [1]
-- Feign Death [1]
-- Flame Arrows [1]
-- Gaseous Form [1]
-- Glyph of Warding [1]
-- Haste [1]
-- Hypnotic Pattern [1]
-- Force Sphere [1]
-- Incite Greed [1]
-- Intellect Fortress [1]
+- Cause Fear 
+- Create Undead Vermin Swarm 
+- Shadow Magic 
+- Delusion 
+- Flight 
+- Lightning Bolt 
+- Riddle 
+- Silent Prance 
+- Posession 
+- Tame Beast 
+- Counterspell 
+- Rust 
+- Petrification 
+- Blazing Trail 
+- Animate Dead 
+- Blink 
+- Clairvoyance 
+- Dispel Magic 
+- Enemies Abound 
+- Erupting Earth 
+- Fast Friends 
+- Feign Death 
+- Flame Arrows 
+- Gaseous Form 
+- Glyph of Warding 
+- Haste 
+- Hypnotic Pattern 
+- Force Sphere 
+- Incite Greed 
+- Intellect Fortress 
 - Life Transference [Pending]
 - Magic Circle [Pending]
 - Major Image [Pending]
@@ -324,23 +337,20 @@ on itself.
 - water breathing [Pending]
 
 ### 4th
-- Stone skin [1]
-- Fireball [1]
-- Mind Probe [1]
-- Summon Devil [1]
-- Dreamscape [1]
-- Polymorph [1]
-- Antimagic Field [1]
+- Stone skin 
+- Fireball 
+- Mind Probe 
+- Summon Devil 
+- Dreamscape 
+- Polymorph 
+- Antimagic Field 
 
 ### 5th
-- Firewall [1]
-- Chain Lightning [1]
-- Conjure Demon [1]
-- Curse [1]
-- Raise Undead Horde [1]
-- Rune Gate [1]
-- Nightmare Gate [1]
-- Bodyswap [1]
-```
-[1] - spell is found in the Spell Compendium Volume 1
-```
+- Firewall 
+- Chain Lightning 
+- Conjure Demon 
+- Curse 
+- Raise Undead Horde 
+- Rune Gate 
+- Nightmare Gate 
+- Bodyswap 

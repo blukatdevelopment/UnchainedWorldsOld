@@ -14,6 +14,9 @@ trifle with the minds of others. There is no outward evidence of your
 difference, and it is unclear whether you will ever meet someone
 similarly-minded.
 
+## Starting hit points
+1d4+CON
+
 ## Proficiencies
 Armor: Light, Shield
 Weapons: simple weapons
@@ -35,24 +38,29 @@ Choose two from the following:
 - Peasant's Pack
 
 ```
-+-------+-------+----------+------------+-------------+-------------+------------------------------+
-| Level | Min XP| Hit Dice | Prof Bonus | Psionic Die | Spell Level |           Features           |
-+-------+-------+----------+------------+-------------+-------------+------------------------------+
-|     1 |     0 | 1d4      | +1         | --          |           0 | Invisible Hand, Silent Voice |
-|     2 |   300 | 2d4      | +1         | D2          |           1 | Psionic Guidance             |
-|     3 |   900 | 2d4      | +2         | D4          |           1 | Psionic Spellcasting         |
-|     4 |  1200 | 3d4      | +2         | D4          |           1 | Psionic Ability              |
-|     5 |  2700 | 3d4      | +2         | D6          |           2 | Ability Score Increase       |
-|     6 |  5000 | 3d4      | +2         | D6          |           2 | Psionic Ability              |
-|     7 |  7500 | 3d4      | +3         | D6          |           3 |                              |
-|     8 | 10000 | 3d4      | +3         | D6          |           3 | Psionic Ability              |
-|     9 | 15000 | 3d4      | +4         | D8          |           4 |                              |
-|    10 | 20000 | 3d4      | +4         | D8          |           4 | Ability Score Increase       |
-+-------+-------+----------+------------+-------------+-------------+------------------------------+
+LVL = level
+XP = total experience points needed for level
+SD = Stamina Dice
+Prof = proficiency bonus
+PD = Maximum Psionic Die size for level
+SL = Spell Level
++-----+-------+-----+-----+----+----+------------------------------------------------------+
+| LVL | XP    | SD  | Prof| PD | SL |           Features                                   |
++-----+-------+-----+-----+----+----+------------------------------------------------------+
+|   1 |     0 | 1d4 | +1  | -- |  0 | Invisible Hand, Silent Voice                         |
+|   2 |   300 | 2d4 | +1  | D2 |  1 | Psionic Guidance, Hit point Increase                 |
+|   3 |   900 | 3d4 | +2  | D4 |  1 | Psionic Spellcasting, Meditation, Hit point Increase |
+|   4 |  1200 | 4d4 | +2  | D4 |  1 | Psionic Ability                                      |
+|   5 |  2700 | 5d4 | +2  | D6 |  2 | Ability Score Increase                               |
+|   6 |  5000 | 6d4 | +2  | D6 |  2 | Psionic Ability                                      |
+|   7 |  7500 | 7d4 | +3  | D6 |  3 |                                                      |
+|   8 | 10000 | 8d4 | +3  | D6 |  3 | Psionic Ability                                      |
+|   9 | 15000 | 9d4 | +4  | D8 |  4 |                                                      |
+|  10 | 20000 |10d4 | +4  | D8 |  4 | Ability Score Increase                               |
++-----+-------+-----+-----+----+----+------------------------------------------------------+
 ```
 
 ## Features
-
 
 ### Invisible Hand
 When you concentrate, you can can use your action to conjure force in the form
@@ -90,6 +98,12 @@ you. Either as an action on your turn or as a reaction on another turn, you may
 roll your psionic die as if casting a spell and add the number you rolled to a 
 creature’s attack, ability check, skill check, or saving throw.
 
+### Hit point Increase
+Your maximum hit points increase by 1d4+CON.
+
+### Hit point Increase
+Your maximum hit points increase by 1d4+CON.
+
 ### Psionic Spellcasting
 You have awakened latent abilities. They will grow stronger as you grow further
 in tune with yourself. Your spellcasting ability is wisdom. To determine the 
@@ -101,13 +115,18 @@ components.
 When you cast a spell of first or higher level, you roll a number of dice equal
 to the spell’s level. If any of these dice roll a 1, your die decreases one 
 size. When you roll a 1 on a D2, you can no longer cast spells this way until 
-after a full rest. You can cast a spell of a level no higher than half the 
+you finish a rest. You can cast a spell of a level no higher than half the 
 current size of your psionic die. 
 
 #### Spells Known
 You know one 1st level spells, and learn one spell each time you gain a level 
 in this class. When you gain a level in this class, you may swap out one spell 
 with another of the same level.
+
+### Meditation
+When your psionic die's current size is D2 or higher, you may spend 10 minutes
+and one hit die to increase it's size by one. Your psionic die may not be larger
+than the maximum size for your level, indicated in the class table above.
 
 ### Ability Score increase
 You may increase one ability score by 2, or you can increase two ability scores 
@@ -116,45 +135,47 @@ of your choice by 1. You cannot increase an ability score past 20.
 ## Psion Spell List
 
 ### 1st
-- Propelling Flame [1]
-- Psionic Lasso [1]
-- Mind Blade [1]
-- Missile Wall [1]
-- Force Field [1]
-- Pyro-Osmosis [1]
-- Ice Shield [1]
-- Glowing Filament [1]
-- Splash Freeze [1]
-- Sculpt Ice[1]
-- Catapult[1]
-- Absorb Element[1]
-- Push[1]
-- Pull[1]
-- Ice Tomb[1]
-- Vorpal Snare[1]
-- Jump [1]
+- Propelling Flame 
+- Psionic Lasso 
+- Mind Blade 
+- Missile Wall 
+- Force Field 
+- Pyro-Osmosis 
+- Ice Shield 
+- Glowing Filament 
+- Splash Freeze 
+- Sculpt Ice
+- Catapult
+- Absorb Element
+- Push
+- Pull
+- Ice Tomb
+- Vorpal Snare
+- Jump 
+
 ### 2nd
-- Psionic Bridge [1]
-- Water Walk [1]
-- Hypnotic Trigger [1]
-- Red-hot metal[1]
-- Psionic Missiles[1]
-- Flying Weapon [1]
-- Levitate[1]
-- Object of Desire[1]
+- Psionic Bridge 
+- Water Walk 
+- Hypnotic Trigger 
+- Red-hot metal
+- Psionic Missiles
+- Flying Weapon 
+- Levitate
+- Object of Desire
+
 ### 3rd
-- Malevolent Guidance [1]
-- Delusion[1]
-- Psionic Construct [1]
-- Flight [1]
-- Enemies Abound [1]
-- Force Sphere [1]
-- Dispel Magic [1]
-- Fast Friends [1]
+- Malevolent Guidance 
+- Delusion
+- Psionic Construct 
+- Flight 
+- Enemies Abound 
+- Force Sphere 
+- Dispel Magic 
+- Fast Friends 
+
 ### 4th
-- Ferroform [1]
-- Mind Probe[1]
-- Dreamscape[1]
-- Heart Crush [1]
-- Mind Meld [1]
-[1] - spell is found in the Spell Compendium Volume 1
+- Ferroform 
+- Mind Probe
+- Dreamscape
+- Heart Crush 
+- Mind Meld

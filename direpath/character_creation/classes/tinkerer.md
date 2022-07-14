@@ -15,21 +15,28 @@ preventative maintenance, and repairs to keep these things barely running.
 
 
 ```
-+-------+--------------------+----------+------+--------------------------+
-| Level | Minimum Experience | Hit Dice | Prof |   Features               |
-+-------+--------------------+----------+------+--------------------------+
-|     1 |                  0 | 1d4      |   +1 |   Contraptions           |
-|     2 |                300 | 2d4      |   +1 |   Repair                 |
-|     3 |                900 | 2d4      |   +1 |   Expertise              |
-|     4 |               1200 | 3d4      |   +1 |                          |
-|     5 |               2700 | 3d4      |   +1 |   Ability Score Increase |
-|     6 |               5000 | 3d4      |   +1 |   Refined Technique      |
-|     7 |               7500 | 3d4      |   +1 |                          |
-|     8 |              10000 | 3d4      |   +1 |   Advanced Technique     |
-|     9 |              15000 | 3d4      |   +1 |                          |
-|    10 |              20000 | 3d4      |   +1 |   Ability Score Increase |
-+-------+--------------------+----------+------+--------------------------+
+LVL = level
+XP = total experience points needed for level
+SD = Stamina Dice
+Prof = proficiency bonus
++-----+-------+-----+------+---------------------------------+
+| LVL |XP     | SD  | Prof |   Features                      |
++-----+-------+-----+------+---------------------------------+
+|   1 |     0 | 1d4 |   +1 |   Contraptions                  |
+|   2 |   300 | 2d4 |   +1 |   Repair, Hit point Increase    |
+|   3 |   900 | 3d4 |   +1 |   Expertise, Hit point Increase |
+|   4 |  1200 | 4d4 |   +1 |                                 |
+|   5 |  2700 | 5d4 |   +1 |   Ability Score Increase        |
+|   6 |  5000 | 6d4 |   +1 |   Refined Technique             |
+|   7 |  7500 | 7d4 |   +1 |                                 |
+|   8 | 10000 | 8d4 |   +1 |   Advanced Technique            |
+|   9 | 15000 | 9d4 |   +1 |                                 |
+|  10 | 20000 |10d4 |   +1 |   Ability Score Increase        |
++-----+-------+-----+------+---------------------------------+
 ```
+
+## Starting hit points
+1d4+CON
 
 ## Proficiencies
 Weapons: simple weapons, heavy crossbows, hand crossbows
@@ -57,12 +64,18 @@ Select four from the following:
 Your study in engineering has lead you to create prototype devices. These
 devices require careful care and maintenace. You may keep a number of
 contraptions up and running that is equal to your intelligence modifier + your
-proficiency modifier. During a partial or full rest you may construct and retire
-contraptions.
+proficiency modifier. You may spend one hour and expend a stamina die to break
+down an existing contraption and replace it with a new one.
 
 ### Repair
-You may spend a short rest repairing one contraption that has run out of uses.
-Once repaired, it has maximum uses again.
+You may spend ten minutes and expend a stamina die repairing one contraption
+that has run out of uses. Once repaired, it has maximum uses again.
+
+### Hit point Increase
+Your maximum hit points increase by 1d4+CON.
+
+### Hit point Increase
+Your maximum hit points increase by 1d4+CON.
 
 ### Expertise
 Select two general skills that you are proficient with. You gain expertise with
@@ -126,7 +139,7 @@ DC 15 DEX save, taking 3d6 fire damage on a failure and half as much on a
 success.
 
 ### Lightning pack
-Many uses. This contraption consists of a backpack with an 10ft antenna connected by wire to an emitter ray gun. During a long rest when there is thunder and lightning, one can charge the lightning pack by exposing it to a lightning strike. Once charged, it has a single shot. A shot from a lightning pack fires a lightning bolt 50 feet in a straight line. All creatures within the bolt's path must make a dexterity saving throw. On a failure, they take 4d6 lightning damage, and half as much on a success.
+Many uses. This contraption consists of a backpack with an 10ft antenna connected by wire to an emitter ray gun. When there is thunder and lightning, one can charge the lightning pack by exposing it to a lightning strike. Once charged, it has a single shot. A shot from a lightning pack fires a lightning bolt 50 feet in a straight line. All creatures within the bolt's path must make a dexterity saving throw. On a failure, they take 4d6 lightning damage, and half as much on a success.
 
 ### Hand Glider
 You throw a glider with a cargo hold that can store up to 5lb. The glider has a
@@ -227,10 +240,10 @@ The scatterbow takes an entire action to reload.
 
 ### Boxarockets
 This shoulder-mounted box contains nine rocket tubes. One unit of scrap will
-yield nine rockets, which can be crafted during a partial or full rest. The
-boxarockets has a range of 30/120 and deals 1d10+DEX fire damage on a hit.
-After firing all 9 rockets, the boxarockets requires one action to reload with
-new rockets.
+yield nine rockets, which can be crafted by expending a stamina die over the
+course of one hour. The boxarockets has a range of 30/120 and deals 1d10+DEX
+fire damage on a hit. After firing all 9 rockets, the boxarockets requires one
+action to reload with new rockets.
 
 ### Steam Powered Tool
 This backpack steam-powered unit has multiple heads that can be replaced to function as different tools. The tool requires both hands. Once powered up, the tool remains powered for one minute. At the end of the duration, the tool requires one hour of maintenance to power up again.
