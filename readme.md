@@ -42,28 +42,24 @@ constructive criticism and advanced knit-picking.
 This is all you technically need to run and Play unchained Worlds, but you'll
 probably want some supplement books.
 
-
-### Direpath
-This content pack contains a variety of pulp-fantasy character classes.
-
 #### Backgrounds
-[100 backgrounds](direpath/character_creation/100_backgrounds.md)
+[100 backgrounds](character_creation/100_backgrounds.md)
 
 #### Lineages
-[imperial lineages](direpath/character_creation/imperial_lineages.md)
+[imperial lineages](character_creation/imperial_lineages.md)
 
 #### Spells
-[spell compendium volume 1](direpath/character_creation/spell_compendium_1.md)
+[spell compendium volume 1](character_creation/spell_compendium_1.md)
 
 #### Classes
-- [alchemist](direpath/character_creation/classes/alchemist.md)
-- [commoner](direpath/character_creation/classes/commoner.md)
-- [gunsmith](direpath/character_creation/classes/gunsmith.md)
-- [lycanthrope](direpath/character_creation/classes/lycanthrope.md)
-- [priest](direpath/character_creation/classes/priest.md)
-- [psion](direpath/character_creation/classes/psion.md)
-- [runesmith](direpath/character_creation/classes/runesmith.md)
-- [soul forger](direpath/character_creation/classes/soul_forger.md)
-- [thief](direpath/character_creation/classes/thief.md)
-- [tinkerer](direpath/character_creation/classes/tinkerer.md)
-- [warrior](direpath/character_creation/classes/warrior.md)
+- [alchemist](character_creation/classes/alchemist.md)
+- [commoner](character_creation/classes/commoner.md)
+- [gunsmith](character_creation/classes/gunsmith.md)
+- [lycanthrope](character_creation/classes/lycanthrope.md)
+- [priest](character_creation/classes/priest.md)
+- [psion](character_creation/classes/psion.md)
+- [runesmith](character_creation/classes/runesmith.md)
+- [soul forger](character_creation/classes/soul_forger.md)
+- [thief](character_creation/classes/thief.md)
+- [tinkerer](character_creation/classes/tinkerer.md)
+- [warrior](character_creation/classes/warrior.md)
