@@ -50,8 +50,8 @@ TN = Techniques
 | LVL |  XP   | SD  | Prof|TN |        Features                           |
 +-----+-------+-----+-----+---+-------------------------------------------+
 |   1 |     0 | 1d4 | +1  | 1 | Novice Alchemy                            |
-|   2 |   300 | 2d4 | +1  | 2 | Lesser Splash Potions, it point Increase  |
-|   3 |   900 | 2d4 | +2  | 3 | Big Dipper, Quick Brew, it point Increase |
+|   2 |   300 | 2d4 | +1  | 2 | Lesser Splash Potions, Hit point Increase |
+|   3 |   900 | 2d4 | +2  | 3 | Big Dipper, Quick Brew, Hit point Increase|
 |   4 |  1200 | 3d4 | +2  | 4 | Journeyman Alchemy                        |
 |   5 |  2700 | 3d4 | +2  | 5 | Ability Score Increase                    |
 |   6 |  5000 | 3d4 | +2  | 6 | GlassBlower                               |

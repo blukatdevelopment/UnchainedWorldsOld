@@ -3,8 +3,8 @@
 The fall of the dwarven empires brought trade to a screeching halt and forced
 entire cities to be abandoned in favor of productive farmlands. The power vacuum
 became the foundation of the meteoric rise of the human empires. With them,
-a wave of colonization that rippled through every land that could be connected
-reliably reached by ship or trade caravan. Roll a 1d8 for a random lineage.
+a wave of colonization that rippled through every land that could be reliably
+reached by ship or trade caravan. Roll a 1d10 for a random lineage.
 
 ```
 ################################################################################
@@ -377,7 +377,7 @@ When flying, your movement does not provoke attacks of opportunity.
 Your feet have talons that you've learned to perform powerful natural
 attacks with, dealing 1d6 piercing damAge: on a hit.
 
-## Greenfoot
+## 9 Greenfoot
 Some elves which were partly responsible for the collapse of the dwarven
 empires were reluctant to see a new hegemony simply replace the last. Those with
 power consolidated it and retreated to enclaves just outside the sphere of 
@@ -409,7 +409,7 @@ learned to bend your mind and speak to it. You may use your action to expend a
 hit die in order to utter a simple phrase or concept no longer than 6 seconds
 to one creature. The creature will understand it.
 
-## Wayfarers
+## 10 Wayfarers
 Gnomes pursued their interests with or without the backing of the empires of 
 man. They took on whatever risks doing so entailed. Some gained 
 support from elements opposed to the empires, while others simply lived as 
