@@ -12,7 +12,7 @@ Some channel the power of the weave by studying symbols. These symbols are known
 runesmith is one who dedicates their life to the art of the rune.
 
 ## Starting hit points
-1d4+CON
+You start with 4+CON hit points.
 
 ## Proficiencies
 Armor: None
@@ -45,7 +45,7 @@ SL = Spell Level
 |   1 |     0 | 1d4 | +1  |     0 |  1 | Runebook, Ritual Casting                      |
 |   2 |   300 | 2d4 | +1  |     2 |  1 | Runesmithery, Runecasting, Hit point Increase |
 |   3 |   900 | 3d4 | +2  |     4 |  1 | Extra Cantrip, Hit point Increase             |
-|   4 |  1200 | 4d4 | +2  |     8 |  2 | Runecasting Style                             |
+|   4 |  1200 | 4d4 | +2  |     8 |  2 | Runecasting Style, Hit point re-roll          |
 |   5 |  2700 | 5d4 | +2  |    10 |  2 | Ability Score Increase                        |
 |   6 |  5000 | 6d4 | +2  |    12 |  3 |                                               |
 |   7 |  7500 | 7d4 | +3  |    16 |  3 | Runesmithing Technique                        |
@@ -100,6 +100,11 @@ Your maximum hit points increase by 1d4+CON.
 
 ### Hit point Increase
 Your maximum hit points increase by 1d4+CON.
+
+### Hit point re-roll
+Now, and again each time you gain a level from now on, you recalculate your hit
+points. Roll 3d4 and add your CON modifier three times. If the value rolled is
+higher than your current max hit points, you may keep it.
 
 ### Extra Cantrip
 You learn one additional Cantrip from the runesmith spell list.

@@ -13,7 +13,7 @@ you live by a strict code of conduct and leverage your piety to wield your
 deity's magic.
 
 ## Starting hit points
-1d4+CON
+You start with 4+CON hit points.
 
 ## Proficiencies
 Armor: Light, Medium, Shield
@@ -46,7 +46,7 @@ Prof = proficiency bonus
 |   1 |     0 | 1d4 |   Cantrip   | Divine Spellcasting        |
 |   2 |   300 | 2d4 | 1           | Domain, Hit point Increase |
 |   3 |   900 | 3d4 | 2           | Hit point Increase         |
-|   4 |  1200 | 4d4 | 2           |                            |
+|   4 |  1200 | 4d4 | 2           | Hit point re-roll          |
 |   5 |  2700 | 5d4 | 3           | Ability Score Increase     |
 |   6 |  5000 | 6d4 | 3           | Channel Divinity           |
 |   7 |  7500 | 7d4 | 4           |                            |
@@ -148,6 +148,11 @@ Your maximum hit points increase by 1d4+CON.
 
 ### Hit point Increase
 Your maximum hit points increase by 1d4+CON.
+
+### Hit point re-roll
+Now, and again each time you gain a level from now on, you recalculate your hit
+points. Roll 3d4 and add your CON modifier three times. If the value rolled is
+higher than your current max hit points, you may keep it.
 
 ### Channel Divinity
 As the discipline in your domain grows solid, your deity offers up a domain-specific ability.

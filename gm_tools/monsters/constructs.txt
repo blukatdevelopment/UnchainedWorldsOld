@@ -33,6 +33,16 @@ at the start of each turn.
 Multi-attack: May make 2 paper cuts
 Papercut +3 1d6+2 slashing
 
+Animated Sword
+Tiny Construct
+50XP
+HP: 15 (3d8)
+AC: 16
+Speed: 30 fly
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 10| 10|  4| 10|  4|
+Slash +3 1d8+1 slashing
+
 Animated Coat
 Small Construct
 HP: 6 (2d4)

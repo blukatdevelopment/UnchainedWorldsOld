@@ -14,7 +14,7 @@ battle. You are an instrument of war that channels fury and skill into the art
 of violence.
 
 ## Starting hit points
-1d10+CON
+You start with 10+CON hit points.
 
 ## Proficiencies
 ```
@@ -53,7 +53,7 @@ MNVS = Maneuvers
 |   1 |     0 | 1d10  | +1  |  0    | Warrior's Respite             |
 |   2 |   300 | 2d10  | +1  |  1    | Maneuvers, Hit point Increase |
 |   3 |   900 | 3d10  | +2  |  2    | Hit point Increase            |
-|   4 |  1200 | 4d10  | +2  |  3    |                               |
+|   4 |  1200 | 4d10  | +2  |  3    | Hit point re-roll             |
 |   5 |  2700 | 5d10  | +2  |  3    | Ability Score Increase        |
 |   6 |  5000 | 6d10  | +2  |  3    | Extra Attack                  |
 |   7 |  7500 | 7d10  | +3  |  4    |                               |
@@ -80,6 +80,11 @@ Your maximum hit points increase by 1d10+CON.
 
 ### Hit point Increase
 Your maximum hit points increase by 1d10+CON.
+
+### Hit point re-roll
+Now, and again each time you gain a level from now on, you recalculate your hit
+points. Roll 3d4 and add your CON modifier three times. If the value rolled is
+higher than your current max hit points, you may keep it.
 
 ### Extra Attack
 When you use your action to make an attack, you may make two attacks instead.

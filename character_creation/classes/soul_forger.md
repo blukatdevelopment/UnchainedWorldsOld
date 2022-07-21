@@ -24,7 +24,7 @@ Metal, crystal, and wood are your building tools, but the constructs that
 you build are more than the sum of their parts. You have created life.
 
 ## Starting hit points
-1d4+CON
+You start with 4+CON hit points.
 
 ## Proficiencies
 Armor: None
@@ -56,7 +56,7 @@ Prof = proficiency bonus
 |   1 |     0 | 1d4 |   +1 |  Scrap, Forge, Repair        |
 |   2 |   300 | 2d4 |   +1 |  Command, Hit point Increase |
 |   3 |   900 | 3d4 |   +2 |  Hit point Increase          |
-|   4 |  1200 | 4d4 |   +2 |                              |
+|   4 |  1200 | 4d4 |   +2 |  Hit point re-roll           |
 |   5 |  2700 | 5d4 |   +2 |  Ability Score Increase      |
 |   6 |  5000 | 6d4 |   +2 |  Field Repair                |
 |   7 |  7500 | 7d4 |   +3 |                              |
@@ -103,6 +103,11 @@ Your maximum hit points increase by 1d4+CON.
 
 ### Hit point Increase
 Your maximum hit points increase by 1d4+CON.
+
+### Hit point re-roll
+Now, and again each time you gain a level from now on, you recalculate your hit
+points. Roll 3d4 and add your CON modifier three times. If the value rolled is
+higher than your current max hit points, you may keep it.
 
 ### Field Repair
 You may expend a hit die and an action to use tinker's tools or a heavy wrench

@@ -12,7 +12,7 @@
 ```
 
 ## Starting hit points
-1d4+CON
+You start with 4+CON hit points.
 
 ## Proficiencies
 Weapons: Dagger
@@ -44,7 +44,7 @@ Prof = proficiency bonus
 |   1 |      0 | 1d4 | +1  | Lycanthrope Form, Controlled Shift                  |
 |   2 |    300 | 2d4 | +1  | Lycanthrope ability, Hit point Increase             |
 |   3 |    900 | 3d4 | +2  | Lycanthrope ability, Tough Hide, Hit point Increase |
-|   4 |   1200 | 4d4 | +2  | Lycanthrope ability                                 |
+|   4 |   1200 | 4d4 | +2  | Lycanthrope ability, Hit point re-roll              |
 |   5 |   2700 | 5d4 | +2  | Ability Score Increase                              |
 |   6 |   5000 | 6d4 | +2  | Lycanthrope ability                                 |
 |   7 |   7500 | 7d4 | +3  |                                                     |
@@ -152,6 +152,11 @@ Your maximum hit points increase by 1d4+CON.
 
 ### Hit point Increase
 Your maximum hit points increase by 1d4+CON.
+
+### Hit point re-roll
+Now, and again each time you gain a level from now on, you recalculate your hit
+points. Roll 3d4 and add your CON modifier three times. If the value rolled is
+higher than your current max hit points, you may keep it.
 
 #### Tough hide
 You have resistance to non-magical and non-silvered slashing, piercing, and

@@ -185,11 +185,18 @@ Ability Score Increase: CON +2, STR +1
 ```
 
 ### Reconstruction
-Every time you restore hit points from expending a hit die or finishing a partial
-or long rest, you must consume 1 unit of scrap. (See soul forger class) Your
-body will ingest the metals, rebuilding itself and excreting metal slag from
-your metal skin. If the mending spell is cast on you, you restore 1d8 hit
-points.
+During a rest, you have different amenities than your organic counterparts.
+- 2lb of metal
+- 1 pint of oil
+- 1 pound of sand
+- Tinker's tools
+- Smith's tools
+- Fire
+- extra pint of oil
+- extra pound of sand
+- extra 2lb of metal
+- polish / paint
+
 
 ### Construct
 You do not need to breathe, eat, drink water, nor sleep. Exceedingly hot

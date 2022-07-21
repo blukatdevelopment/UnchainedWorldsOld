@@ -13,7 +13,7 @@ You are average, bland, and unremarkable. When you meet the dangers of the
 world, you know that you can rely on neither spell nor sword to carry you on.
 
 ## Starting hit points
-1d4+CON
+You start with 1d4+CON hit points.
 
 ## Proficiencies
 **Armor:** None

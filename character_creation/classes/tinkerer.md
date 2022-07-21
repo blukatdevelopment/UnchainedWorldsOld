@@ -25,7 +25,7 @@ Prof = proficiency bonus
 |   1 |     0 | 1d4 |   +1 |   Contraptions                  |
 |   2 |   300 | 2d4 |   +1 |   Repair, Hit point Increase    |
 |   3 |   900 | 3d4 |   +1 |   Expertise, Hit point Increase |
-|   4 |  1200 | 4d4 |   +1 |                                 |
+|   4 |  1200 | 4d4 |   +1 |   Hit point re-roll             |
 |   5 |  2700 | 5d4 |   +1 |   Ability Score Increase        |
 |   6 |  5000 | 6d4 |   +1 |   Refined Technique             |
 |   7 |  7500 | 7d4 |   +1 |                                 |
@@ -36,7 +36,7 @@ Prof = proficiency bonus
 ```
 
 ## Starting hit points
-1d4+CON
+You start with 4+CON hit points.
 
 ## Proficiencies
 Weapons: simple weapons, heavy crossbows, hand crossbows
@@ -76,6 +76,11 @@ Your maximum hit points increase by 1d4+CON.
 
 ### Hit point Increase
 Your maximum hit points increase by 1d4+CON.
+
+### Hit point re-roll
+Now, and again each time you gain a level from now on, you recalculate your hit
+points. Roll 3d4 and add your CON modifier three times. If the value rolled is
+higher than your current max hit points, you may keep it.
 
 ### Expertise
 Select two general skills that you are proficient with. You gain expertise with

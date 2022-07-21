@@ -12,7 +12,7 @@ Sneaking, scheming, and plotting the deeds that are better left under the cover
 of night, you are an expert in all things stealth and theft.
 
 ## Starting hit points
-1d6+CON
+You start with 6+CON hit points.
 
 ## Proficiencies
 Armor: Light
@@ -49,7 +49,7 @@ Prof = proficiency bonus
 |   1 |     0 | 1d6 | +1   |      2 | Tricks, Thieves' Cant                      |
 |   2 |   300 | 2d6 | +1   |      3 | Expertise, Hit point Increase              |
 |   3 |   900 | 3d6 | +2   |      4 | Ability Score Increase, Hit point Increase |
-|   4 |  1200 | 4d6 | +2   |      5 |                                            |
+|   4 |  1200 | 4d6 | +2   |      5 | Hit point re-roll                          |
 |   5 |  2700 | 5d6 | +2   |      6 |                                            |
 |   6 |  5000 | 6d6 | +2   |      7 | Ability Score Increase                     |
 |   7 |  7500 | 7d6 | +3   |      8 |                                            |
@@ -80,6 +80,11 @@ Your maximum hit points increase by 1d6+CON.
 
 ### Hit point Increase
 Your maximum hit points increase by 1d6+CON.
+
+### Hit point re-roll
+Now, and again each time you gain a level from now on, you recalculate your hit
+points. Roll 3d6 and add your CON modifier three times. If the value rolled is
+higher than your current max hit points, you may keep it.
 
 ### Ability Score increase
 You may increase one ability score by 2, or you can increase two ability scores

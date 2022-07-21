@@ -451,7 +451,7 @@ Adventuring requires a great many things. Here are some of them.
 | Magnifying glass             | 100 gp   | —            |
 | Manacles                     | 2 gp     | 6 lb.        |
 | Mirror, steel                | 5 gp     | 1/2 lb.      |
-| Oil (flask)                  | 1 sp     | 1 lb.        |
+| Oil (1 pint flask)           | 1 sp     | 1 lb.        |
 | Paper (one sheet)            | 2 sp     | —            |
 | Parchment (one sheet)        | 1 sp     | —            |
 | Perfume (vial)               | 5 gp     | —            |
@@ -468,6 +468,7 @@ Adventuring requires a great many things. Here are some of them.
 | Robes                        | 1 gp     | 4 lb.        |
 | Rope, hempen (50 feet)       | 1 gp     | 10 lb.       |
 | Rope, silk (50 feet)         | 10 gp    | 5 lb.        |
+| Scrap Metal                  | 1sp      | 1 lb.        |
 | Sack                         | 1 cp     | 1/2 lb.      |
 | Scale, merchant’s            | 5 gp     | 3 lb.        |
 | Sealing wax                  | 5 sp     | —            |
@@ -480,6 +481,8 @@ Adventuring requires a great many things. Here are some of them.
 | Spyglass                     | 1,000 gp | 1 lb.        |
 | Tent, two-person             | 2 gp     | 20 lb.       |
 | Tinderbox                    | 5 sp     | 1 lb.        |
+| Tools, Tinker's              | 10 gp    | 10 lb        |
+| Tools, Smith's               | 15 gp    | 10 lb        |
 | Torch                        | 1 cp     | 1 lb.        |
 | Vial                         | 1 gp     | —            |
 | Waterskin                    | 2 sp     | 5 lb. (full) |

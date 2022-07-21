@@ -142,6 +142,23 @@ broken. Any humanoid killed by a slimy skeleton rises up as one on the next
 turn.
 Blindsight: 30ft
 
+Dwarven Guardian
+The Dwarven warriors of past ages were buried in their armor in case they
+ever needed to rise again after death to defend their tombs.
+Medium Undead
+XP: 100
+HP: 26 (5d6+6)
+AC: 16 (chain mail)
+Speed: 25ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 17|  8| 14|  4|  4|  4|
+Resistant: Non-magical physical
+Weak: Radiant
+Immume: Necrotic
+Shout: All creatures in a 15ft cone must succeed a DC 14 STR save or be
+thrown backward 10ft, falling prone if they collide with another creature.
+Battleaxe +5 1d8+3
+
 Bone Heap
 Large Undead
 HP: 44 (4d20)

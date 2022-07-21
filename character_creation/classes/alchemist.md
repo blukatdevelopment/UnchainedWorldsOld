@@ -14,7 +14,7 @@ of gambling, but after achieving mastery in the art, alchemists can truly achiev
 stability.
 
 ## Starting hit points
-1d4+CON
+You start with 4+CON hit points.
 
 ## Proficiencies
 Armor: Light Armor
@@ -52,7 +52,7 @@ TN = Techniques
 |   1 |     0 | 1d4 | +1  | 1 | Novice Alchemy                            |
 |   2 |   300 | 2d4 | +1  | 2 | Lesser Splash Potions, Hit point Increase |
 |   3 |   900 | 2d4 | +2  | 3 | Big Dipper, Quick Brew, Hit point Increase|
-|   4 |  1200 | 3d4 | +2  | 4 | Journeyman Alchemy                        |
+|   4 |  1200 | 3d4 | +2  | 4 | Journeyman Alchemy, Hit point re-roll     |
 |   5 |  2700 | 3d4 | +2  | 5 | Ability Score Increase                    |
 |   6 |  5000 | 3d4 | +2  | 6 | GlassBlower                               |
 |   7 |  7500 | 3d4 | +3  | 7 | Expert Alchemy                            |
@@ -83,6 +83,11 @@ Your maximum hit points increase by 1d4+CON.
 
 ### Hit point Increase
 Your maximum hit points increase by 1d4+CON.
+
+### Hit point re-roll
+Now, and again each time you gain a level from now on, you recalculate your hit
+points. Roll 3d4 and add your CON modifier three times. If the value rolled is
+higher than your current max hit points, you may keep it.
 
 ### Big Dipper
 Your practice has paid off. You may now dip a weapon or piece of ammunition in

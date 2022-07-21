@@ -15,7 +15,7 @@ unlucky enough to face the business end of your arsennal, you represent the
 tip of the spear in military innovation.
 
 ## Starting hit points
-1d4+CON
+You start with 6+CON hit points.
 
 ## Proficiencies
 Armor: Light Armor
@@ -47,20 +47,20 @@ XP = total experience points needed for level
 SD = Stamina Dice
 Prof = proficiency bonus
 MNVS = Maneuvers
-+-----+-------+-----+-----+-----+------------------------+
-| LVL | XP    | SD  | Prof|MVNS |         Features       |
-+-----+-------+-----+-----+-----+------------------------+
-|   1 |     0 | 1d6 | +1  |   1 | Scrap, Smith           |
-|   2 |   300 | 2d6 | +1  |   1 | Hit point Increase     |
-|   3 |   900 | 3d6 | +2  |   2 | Hit point Increase     |
-|   4 |  1200 | 4d6 | +2  |   2 | Second Wind            |
-|   5 |  2700 | 5d6 | +2  |   3 | Ability Score Increase |
-|   6 |  5000 | 6d6 | +2  |   4 |                        |
-|   7 |  7500 | 7d6 | +3  |   5 | Advanced Smith         |
-|   8 | 10000 | 8d6 | +3  |   5 | Ability Score Increase |
-|   9 | 15000 | 9d6 | +4  |   6 |                        |
-|  10 | 20000 |10d6 | +4  |   6 | Ability Score Increase |
-+-----+-------+-----+-----+-----+------------------------+
++-----+-------+-----+-----+-----+--------------------------------+
+| LVL | XP    | SD  | Prof|MVNS |         Features               |
++-----+-------+-----+-----+-----+--------------------------------+
+|   1 |     0 | 1d6 | +1  |   1 | Scrap, Smith                   |
+|   2 |   300 | 2d6 | +1  |   1 | Hit point Increase             |
+|   3 |   900 | 3d6 | +2  |   2 | Hit point Increase             |
+|   4 |  1200 | 4d6 | +2  |   2 | Second Wind, Hit point re-roll |
+|   5 |  2700 | 5d6 | +2  |   3 | Ability Score Increase         |
+|   6 |  5000 | 6d6 | +2  |   4 |                                |
+|   7 |  7500 | 7d6 | +3  |   5 | Advanced Smith                 |
+|   8 | 10000 | 8d6 | +3  |   5 | Ability Score Increase         |
+|   9 | 15000 | 9d6 | +4  |   6 |                                |
+|  10 | 20000 |10d6 | +4  |   6 | Ability Score Increase         |
++-----+-------+-----+-----+-----+--------------------------------+
 ```
 
 ## Features
@@ -85,6 +85,11 @@ Your maximum hit points increase by 1d6+CON.
 
 ### Hit point Increase
 Your maximum hit points increase by 1d6+CON.
+
+### Hit point re-roll
+Now, and again each time you gain a level from now on, you recalculate your hit
+points. Roll 3d6 and add your CON modifier three times. If the value rolled is
+higher than your current max hit points, you may keep it.
 
 ### Second Wind
 You may use your bonus action to take a deep breath and brace yourself for more
