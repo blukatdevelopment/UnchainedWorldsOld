@@ -442,6 +442,7 @@ Adventuring requires a great many things. Here are some of them.
 | Kit, herbalism               | 5 gp     | 3 lb.        |
 | Kit, healer’s                | 5 gp     | 3 lb.        |
 | Kit, mess                    | 2 sp     | 1 lb.        |
+| Kit, painter's               | 10gp     | 2 lb.        |
 | Kit, poisoner’s              | 50 gp    | 2 lb.        |
 | Ladder (10-foot)             | 1 sp     | 25 lb.       |
 | Lamp                         | 5 sp     | 1 lb.        |

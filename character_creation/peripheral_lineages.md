@@ -195,7 +195,7 @@ During a rest, you have different amenities than your organic counterparts.
 - extra pint of oil
 - extra pound of sand
 - extra 2lb of metal
-- polish / paint
+- painter's kit
 
 
 ### Construct
