@@ -161,6 +161,10 @@ any attack you make receives advantage.
 You may now expend a stamina die take one additional action this turn. You may
 only use action surge once per turn.
 
+### Down, but not out
+When you go down, the first death saving throw you make does not expend a hit
+die.
+
 ### Enduring Will (minimum level 9)
 If you roll initiative and have no stamina dice remaining, you regain one.
 

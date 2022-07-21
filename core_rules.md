@@ -967,6 +967,15 @@ level of exhaustion. Many inns, taverns, and temples will offer differing amenit
 
 ### Conditions
 
+#### Down
+A creature is downed when their hit points fall below 1. A downed creature is
+paralyzed, knocked prone, and incoming attacks deal critical damage. At the
+start of a downed creature's turn, it must expend a stamina die to make a death
+saving throw, or else immediately die. The expended stamina die is added to the
+creature's hit points, and the down condition is removed if the creature's hit
+points are 1 or more. A creature may be stabilized if a creature uses it's
+action to make a DC 15 medicine check from within 5ft.
+
 #### Blinded
 - can't see and automatically fail any check requiring sight
 - attack rolls against have advantage

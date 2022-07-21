@@ -243,7 +243,8 @@ creature.
 - Inflict Wounds 
 - Sanctuary 
 - Purify Drink or Food 
-- Diagnose Curse 
+- Diagnose Curse
+- Death Ward
 
 ### 2nd
 - Insight Arrow 
@@ -269,7 +270,7 @@ creature.
 - Prayer of Healing 
 - Protection from Poison 
 - Silence 
-- Warding Bond 
+- Warding Bond
 
 ### 3rd
 - Sacrifice 

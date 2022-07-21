@@ -1,5 +1,4 @@
-# Spell compendium: Volume 1
-This book contains spells shared between multiple classes.
+# Spell compendium
 
 ## Cantrips
 
@@ -545,6 +544,23 @@ Duration: Concentration, up to 1 hour
 Up to 6 creatures in sight must succeed a wisdom saving throw or be charmed by
 this spell. While under the effect, the creatures have a -1d4 penalty to their
 attack rolls and saving throws.
+```
+
+```
+Death ward (1st)
+Casting time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Concentration, up to 1 hour
+You place a ward on one creature in range. For the duration, when this creature
+goes down, protective energy courses through them. While they are down, they
+may roll 1d20 to make a death saving throw. Rolling 10 or higher is a success.
+If they accumulate 3 successes, they are unconscious for 1d4 hours with 1 hit 
+point. If they instead accumulate 3 fails, they may expend stamina dice to make
+regular death saving throws.
+
+At higher levels: For each level above 1st that you cast this spell, this spell
+may effect one additional creature.
 ```
 
 ```
