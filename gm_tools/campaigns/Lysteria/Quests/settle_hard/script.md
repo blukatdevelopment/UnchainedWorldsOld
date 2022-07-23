@@ -4,7 +4,7 @@ There's a new contract posted by a group of fed-up farmers looking to migrate So
 ## Random encounter table
 If they eat a ration, they move three spaces. If they forage, they move one
 space. Half-way, add +1 bonus to 1d6 roll. Three quarters, add a +2 instead.
-
+Every day, there is a 1d6 chance of an encounter.
 
 ```
 +------+----------------+-----------------------+-----------------+

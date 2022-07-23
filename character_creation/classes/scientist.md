@@ -220,7 +220,7 @@ Slam +4 1d8 bludgeoning
 
 #### We need to go back
 You have learned time mechanics, albeit it's tricker than it looks. Expend 8 hit
-dice to open a portal in time, which can go as far back as a million years. The
+dice to open a portal in time, which can go as far back as a week. The
 portal remains open for one week, and once it closes, strands you in the past.
 Your party may follow you through the portal, but other creatures may as well
 for as long as the portal remains open.

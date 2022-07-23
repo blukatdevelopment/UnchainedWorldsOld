@@ -10,12 +10,26 @@
 #  XIII Plant                                           #
 #########################################################
 
+Root walker
+Medium Plant
+HP:  (3d12)
+AC: 12
+XP: 700
+Speed: 40ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 16| 10|  5| 10| 10|
+Resistances: non-magical physical damage, cold
+Vulnerabilities: fire
+Grass sword +4 1d8+2 slashing
+
 Grass Heap
 Huge Plant
 HP: 87 (9d12+24)
 AC: 12
 XP: 700
 Speed: 40ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 18| 10| 18|  3| 13|  3|
 Resistances: non-magical physical damage, cold
 Vulnerabilities: fire
 Vine vomit: 15x15 foot square within 30ft is covered in vines, becomes difficult
