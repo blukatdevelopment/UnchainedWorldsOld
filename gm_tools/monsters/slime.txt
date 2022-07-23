@@ -9,6 +9,21 @@
 #  XII Slime                                            #
 #########################################################
 
+Blue Slime
+These little slimes would be harmless, if it weren't for their insatiable
+appetite for metal objects.
+Small Slime
+HP: 19 (3d8+4)
+AC: 10
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 10| 14| 10| 10| 10|
+Immunities: Piercing damage
+Diffuse: Slime melts into a puddle that can rapidly travel over grassy areas.
+The slime's speed becomes 40 and ranged attacks have disadvantage on it, since
+it travels beneath the top most layer of grass. It may not attack in this state.
+Smother +4 1d6+2 acid damage.
+
 Grey Slime
 Medium Slime
 HP: 7 (1d12)

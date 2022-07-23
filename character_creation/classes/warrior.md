@@ -83,7 +83,7 @@ Your maximum hit points increase by 1d10+CON.
 
 ### Hit point re-roll
 Now, and again each time you gain a level from now on, you recalculate your hit
-points. Roll 3d4 and add your CON modifier three times. If the value rolled is
+points. Roll 3d10 and add your CON modifier three times. If the value rolled is
 higher than your current max hit points, you may keep it.
 
 ### Extra Attack
@@ -156,10 +156,6 @@ when you can see or hear the source of danger.
 You may use your bonus action to expend one of your stamina dice and roll it.
 You gain that much temporary hit points. Until the start of your next turn,
 any attack you make receives advantage.
-
-### Action Surge
-You may now expend a stamina die take one additional action this turn. You may
-only use action surge once per turn.
 
 ### Down, but not out
 When you go down, the first death saving throw you make does not expend a hit

@@ -14,11 +14,14 @@ Grass Heap
 Huge Plant
 HP: 87 (9d12+24)
 AC: 12
+XP: 700
 Speed: 40ft
 Resistances: non-magical physical damage, cold
 Vulnerabilities: fire
+Vine vomit: 15x15 foot square within 30ft is covered in vines, becomes difficult
+terrain. Creatures in this space must succeed a DC 13 STR save or be knocked prone.
 Spore Cloud: 30 foot radius, DC 14 CON save or become poisoned
-Tree club: +7 19(3d8+4) bludgeoning
+Tree club: +4 14(2d8+4) bludgeoning
 
 Rothead King
 A rothead king's host brain still works, and the fungus hijacks it in the same way it hijacks the rest of the bodies of regular rotheads. Without a king, a rothead colony will collapse.

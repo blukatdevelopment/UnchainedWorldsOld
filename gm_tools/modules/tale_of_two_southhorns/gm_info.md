@@ -10,7 +10,7 @@ living beneath it.
 ## The Diadem
 Inglewood's first ship 
 
-
+![Southhorn](./southhorn.png?raw=true "Southhorn")
 ## Southhorn
 Southhorn was founded by a band of thieves who raised it's port to service
 pirate ships. Positioned between the warring Omarian and Inglewood kingdoms in
@@ -631,20 +631,28 @@ XP: 25
 HP: 3 (1d4)
 AC: 12
 Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 12| 11| 12|  8| 14|
 Attacks:
 Dagger: +2 1d4+1 piercing
 Skin Boil(5ft): DC 12 Con save or 1d10 necrotic
 ```
 
 ```
-Cultist Elite
+Cult leader Tilman Hersh
 Medium Humanoid
 XP: 200
 HP: 9 (3d4)
 AC: 15(Mage Armor)
 Speed: 30ft 
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 15| 10| 10| 10| 16|
 Dark feast(60ft): willing creature takes 30(6d8) necrotic, gain 
 as much temp HP
+Spells(1 each/day):
+- Earth Tremor
+- Mage Armor
+- Darkness
 Legendary action(when ally dies):  Dark Feast fallen ally
 Shadow Sword: +5 2d8+2 Piercing
 ```

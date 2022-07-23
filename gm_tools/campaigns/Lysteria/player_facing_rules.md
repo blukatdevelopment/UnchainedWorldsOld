@@ -75,6 +75,21 @@ see if anyone can help them with that.
 The party makes any purchases and hires any hirelings. They then embark on their
 adventure, traveling to the location. They leave and return to a guild hall.
 
+## Hirelings
+Adventurers may take hirelings with them and may give orders to their
+hirelings using their bonus action. Hirelings may refuse orders or defect
+depending on their morale and the nature of the orders. The GM can voice the
+hirelings if they so choose, or may leave them silent.
+
+### Torchbearers
+These hirelings will come along, carrying loot and torches for you as well as
+filling non-combat roles. They will likely hide or flee from combats.
+They charge 2SP/day to come along.
+
+### Mercenaries
+These hirelings are equipped with swords and prepared to fight alongside
+adventurers in combat. They charge 2GP/day to come along.
+
 ## Downtime Activities
 
 ### Work
@@ -84,6 +99,11 @@ You work and pay your living expenses exactly. Hooray.
 You pay 10GP to keep your bills paid and provide for travel expenses, then help
 someone accomplish their downtime. That someone may make one roll with advantage
 , and may benefit from spells or abilities you are capable of offering.
+
+### Learn survival from Kati
+You pay 10GP to spend some time with Kati, who knows a thing or two about
+surving in the wilderness. You make a DC 12 investigation check. If you
+succeed twice cumulatively, you will become proficient in survival.
 
 ### Learn Goblin from Ash
 You pay 10GP to learn Goblin from Ash. You make a DC 12 investigation check.

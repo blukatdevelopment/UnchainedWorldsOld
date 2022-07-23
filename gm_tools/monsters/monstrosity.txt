@@ -70,6 +70,44 @@ deals an extra 1d6 damage.
 Hooves +5 1d8 bludgeoning
 Horns +5 1d6 piercing
 
+Smokey Mole
+A small mole that can conjure telepathic powers by shaping smoke blown from it's
+nostrils.
+Small Monstrosity
+XP: 25
+HP: 6(2d4)
+AC: 11
+Speed: 30ft, 30ft dig
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 10| 10|  3| 12|  3|
+Blindsight: 200ft(ground vibrations)
+Burrow: The mole may burrow underground, creating burrows as it goes.
+Smoke tendril: Tendrils of smoke grab a creature within 10ft of a burrow by the
+throat. The creature makes a DC 10 STR save to halve 2d6 necrotic damage.
+Bite +2 1 piercing
+
+Dirt Shaper
+A monkey with two fingers on each paw and one toe on each foot. It's psychic
+abilities are only matched by it's intelligence. Dirt shapers often reside
+in the wilderness, where they defend their land against encroaching settlers.
+Medium Monstrosity
+XP: 200
+HP: 3(1d4)
+AC: 11
+Speed: 15ft, 30ft dig
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 10| 10| 16| 16| 16|
+Blindsight: 200ft(ground vibrations)
+Mind shield(1/day): Dirt Shaper gains 3d12 temporary hit points  
+Dirt shapes: The dirt shaper pulls a 5 foot cube of Earth from the ground and
+levitates it in the air.  The dirt shaper can have up to three dirt shapes at
+one time. On it's turn, each shape may be moved 60 feet.
+Shape slam: The dirt shape flies at a target within 60ft of it. The creature
+must succeed a DC 17 dexterity saving throw or take 1d10 bludgeoning damage
+and fall prone under the pile of dirt. To get out of the dirt, the creature must
+perform a DC 12 athletics check.
+Unarmed +2 1 bludgeoning
+
 Reacher
 HP: 80(6d20+14)
 AC: 12

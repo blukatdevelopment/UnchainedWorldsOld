@@ -81,9 +81,14 @@ They may not attack while incorporeal.
 Life Drain: +4 1d10 necrotic
 
 Specter
+Raised again in a partially material form of their previous life, specters often
+attempt to live as if they were in the moments preceding their cause of death. 
 Medium Undead
-HP: 21 (3d8+6)
+XP: 50
+HP: 15 (3d4+6)
 Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 12| 14| 10| 11|  4|
 Resist: Non-magical physical, necrotic
 Weak: Radiant
 Life Drain +4 1d10 necrotic

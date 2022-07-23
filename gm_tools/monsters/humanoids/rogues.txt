@@ -7,16 +7,6 @@ Speed: 30ft
 Attacks:
 Wrench(greatclub) 1d8+2 bludgeoning
 
-Bandit Captain
-HP: 21(3d8+6)
-AC: 13(hide)
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 16| 12| 12| 10| 12| 16|
-Multiattack: Captain can make two shortsword attacks
-Attacks:
-Shortsword +5 1d6+3 piercing
-
 Petty Bandit
 HP: 4(1d4+1)
 AC: 11
@@ -36,6 +26,16 @@ Speed: 30ft
 Attacks:
 Shortsword +4 1d6+2 piercing
 Shortbow +4 1d6+2 piercing
+
+Bandit Captain
+HP: 21(3d8+6)
+AC: 13(hide)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 12| 12| 10| 12| 16|
+Multiattack: Captain can make two shortsword attacks
+Attacks:
+Shortsword +5 1d6+3 piercing
 
 Mercenary
 HP: 21(3d8+6)
