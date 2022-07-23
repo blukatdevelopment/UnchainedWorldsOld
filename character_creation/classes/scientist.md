@@ -46,12 +46,12 @@ Prof = proficiency bonus
 |   2 |   300 | 2d4 |   +1 |   Hit point Increase, Fundamental Truth           |
 |   3 |   900 | 3d4 |   +2 |   Hit point Increase, Old Reliable                |
 |   4 |  1200 | 4d4 |   +2 |   Field of expertise, Hit point re-roll           |
-|   5 |  2700 | 5d4 |   +2 |   Ability Score Increase 
-|   6 |  5000 | 6d4 |   +2 |   Branch out
-|   7 |  7500 | 7d4 |   +3 |   
-|   8 | 10000 | 8d4 |   +3 |   Capstone
-|   9 | 15000 | 9d4 |   +4 |                                 
-|  10 | 20000 |10d4 |   +4 |   Ability Score Increase        
+|   5 |  2700 | 5d4 |   +2 |   Ability Score Increase                          |
+|   6 |  5000 | 6d4 |   +2 |   Branch out                                      |
+|   7 |  7500 | 7d4 |   +3 |                                                   |
+|   8 | 10000 | 8d4 |   +3 |   Capstone                                        |
+|   9 | 15000 | 9d4 |   +4 |                                                   |
+|  10 | 20000 |10d4 |   +4 |   Ability Score Increase                          |
 +-----+-------+-----+------+---------------------------------------------------+
 ```
 
