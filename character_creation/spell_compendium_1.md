@@ -523,6 +523,18 @@ turn.
 ```
 
 ```
+Guiding Bolt (1st)
+Casting time: 1 action
+Range: 120ft
+Components: V, S
+Duration: 1 round
+You blast a streak of light towards a creature of your choice within range.
+Make a ranged spell attack against the creature. On a hit, the creature takes
+4d6 radiant damage, and the next attack made against the creature before the 
+end of your next turn has advantage.
+```
+
+```
 Smite (1st)
 Casting time: 1 action
 Range: self
