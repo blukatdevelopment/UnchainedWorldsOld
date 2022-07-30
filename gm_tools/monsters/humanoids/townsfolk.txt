@@ -18,6 +18,15 @@ Attacks:
 Pitchfork: +1 1d6 piercing
 Torch(thrown 30ft): +1 1d4 fire damage
 
+Commoner
+HP: 3(1d4)
+AC: 10
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 10| 10| 10| 10| 10|
+Attacks:
+Unarmed +1 1 bludgeoning
+
 Noble
 HP: 9(3d4)
 AC: 15(beast plate)

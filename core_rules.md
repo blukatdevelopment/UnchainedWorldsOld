@@ -509,6 +509,11 @@ to determine the outcome.
 +--------------+----------------------------+
 ```
 
+#### Flask of oil
+A flask of oil can be thrown to create a 5ft puddle or soak an enemy. If lit,
+an oil-soaked creature takes 1d8+2 fire damage. A creature that starts it's turn
+in or enters a fire makes a DC 14 DEX save to avoid 1d6 fire damage.
+
 #### Potion of Healing
 A flask of pink liquid which heals 2d4+2 hit points when consumed.
 

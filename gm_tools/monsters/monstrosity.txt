@@ -15,7 +15,7 @@ take them as guidelines to ignore when convenient.
 
 Greedy
 A greedy is an amorphous blob of bubbling semi-liquid flesh comprised of many
-bodies. They are attracted to bodies that were left unbiried.
+bodies. They are attracted to bodies that were left unburied.
 Huge Monstrosity
 HP: 86 (6d20+20)
 AC: 8
@@ -86,6 +86,19 @@ Smoke tendril: Tendrils of smoke grab a creature within 10ft of a burrow by the
 throat. The creature makes a DC 10 STR save to halve 2d6 necrotic damage.
 Bite +2 1 piercing
 
+Glass Axolotl
+Large Monstrosity
+XP: 200
+HP: 30(6d10)
+AC: 14(natural armor)
+Speed: 25ft, 40ft swim
+|STR|DEX|CON|INT|WIS|CHA|
+| 18| 12| 10| 10| 10|  4|
+Invisibility: May turn invisible, except for it's brain, liver, and stomach.
+This increases it's AC by +4 
+Multi-attack: May make two claw attacks
+Claws +5 2d4+4
+
 Dirt Shaper
 A monkey with two fingers on each paw and one toe on each foot. It's psychic
 abilities are only matched by it's intelligence. Dirt shapers often reside
@@ -130,7 +143,6 @@ Blindsight: 500ft
 Multi-attack: May make talon and beak attack
 Toothed Beak +4 1d12 piercing, grapple on hit
 Talons +4 2d6 slashing
-
 
 Wererat
 Medium Humanoid

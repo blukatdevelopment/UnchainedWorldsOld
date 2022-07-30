@@ -141,7 +141,7 @@ Roll the price for each item accordingly.
 | Rarity    |     Price      |    Range    |
 +-----------+----------------+-------------+
 | Common    | 1d4+1 * 50gp   | 100-250     |
-| uncommon  | 2d6+3 * 100gp  | 250-750     |
+| uncommon  | 2d6+3 * 50gp   | 250-750     |
 | Rare      | 3d12+5 * 100gp | 800-4100    |
 | Very Rare | 3d6+1 * 1000gp | 4000-19,000 |
 +-----------+----------------+-------------+
