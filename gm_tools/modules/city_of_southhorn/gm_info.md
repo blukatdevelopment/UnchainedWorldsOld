@@ -35,19 +35,19 @@ edit this adventure to run it accordingly.
 - Characters may die after a single wrong move or bad roll of the dice
 - Some monsters and situations are guaranteed to wipe out a party lacking creativity and caution
 - Players seek out the adventure, as it won't come to them
-- XP is earned by completing quests, killing monsters, and gaining gold pieces
-- XP is divided up among the entire party
+- XP is earned by completing quests, killing monsters, and gaining gold pieces by looting or selling loot(1GP=1XP)
+- XP is divided up among the entire party. This means if a party of 3 gains 300XP, each adventurer earns 100XP
 
 ### The setting
-We begin in the port city of Chaur, a crowd eagerly clambering onto a ship,
-ready to travel to a distant port in the city of Southhorn. Southhorn had been
-a haven for bandits, mercenaries, and other rogues until very recently the
-kingdom of Inglewood had reached a peace agreement with the Federation of Omaria
-and focused their army to take the city back by force. The party is being
-summoned by Southhorn's new leader, Count Kinkade, to finish off the remnants
-of the bandits and bring peace to the region. His first contract is to provide
-security detail for the Diadem, offering free passage to Southhaven in addition
-to 10GP per person.
+We begin in the port city of Chaur on the island of Ferrus, a crowd eagerly
+clambering onto a ship, ready to travel to a distant port in the continental
+city of Southhorn. Southhorn had been a haven for bandits, mercenaries, and
+other rogues until very recently the kingdom of Inglewood had reached a peace
+agreement with the Federation of Omaria and focused their army to take the city
+back by force. The party is being summoned by Southhorn's new leader, Count
+Kinkade, to finish off the remnants of the bandits and bring peace to the
+region. His first contract is to provide security detail for the Diadem,
+offering free passage to Southhaven in addition to 10GP per person.
 
 ### Character Creation
 If you have an existing party from another adventure such as a level 0 character
@@ -59,10 +59,11 @@ a more exotic lineage. Rolling backgrounds and asking each player to explain how
 they know at least one other member of the party would be good. In addition to
 their starting gear, Grant 10GP to each character and allow them to do
 shopping in Chaur of weapons, armor, and adventuring equipment listed in the
-core rules and access to the town's blacksmith.
+core rules and access to the town's blacksmith. If a party member dies during
+the adventure, a replacement may be assumed to have been riding quietly on the
+Diadem.
 
 Standard array: [15, 14, 13, 12, 10, 8]
-
 
 ## The Diadem
 The Diadem is Inglewood's crown jewel of the Gorrik Sea, constructed shortly
@@ -77,6 +78,34 @@ of the party evenly).
 
 ### Laws of Southhorn
 As the party boards, they are each given a copy of the laws of Southhorn
+
+```
+Laws of Southhorn
+
+Misdemeanors(1-7 days in jail, or fine not exceeding 50GP)
+- Disrespecting Guards, nobles, or church
+- Disturbing Peace
+- Wielding weapons of war within city
+- Petty Theft (less than 5GP)
+- Resisting arrest
+- Repeated misdemeanors
+- Violence against commoner
+- Public obscenity
+- Posessing contraband (restricted herbs, mushrooms, spirits, Heretical writing)
+- Public blasphemy
+
+Felonious Crimes (1-3 years, or fine exceeding 50GP)
+- Violence against guard
+- Using weapons of war
+- Grand Theft
+- Wielding unholy magic
+
+Deadly Crimes (Public execution)
+- Violence against Noble
+- Murder(attempted or successful of Noble, church or guard)
+- Assisting Enemies of Inglewood
+- Treason
+```
 
 ### Passengers
 #### 1: Erling (m)
@@ -987,9 +1016,12 @@ from the red paw. If the party investigates, she will approach them and request
 aid.
 Objectives:
 - bring food and water
-- commandeer the Diadem for the Red Paw
-- burn the herbitorium garden down to prevent spice town's revival
+- commandeer the Diadem for the Red Paw[Q9]
+- bring the bandit camp to fight against Kinkade with us[Q10]
+- convince Fastrada to end her partnership with Kinkade[Q8]
+- burn the herbitorium garden down to prevent spice town's revival[Q7]
 - find the group that went underground (Room 2 in dungeon) and report back
+- have Kinkade removed from power [Q2]
 
 ### (j) Count Kinkade's Manor
 There's a total of 50 guards protecting the property at any given time.
@@ -1000,7 +1032,13 @@ be on their trail within 10 minutes.
 If the party comes by invitation, they may stay in the guest house and
 access the amenities of the manor each day (8 amenities). Kinkade(M) will
 talk to them while attending feasts, balls, jousts, etc to discuss
-their next orders.
+their next orders. These will come in the form of contracts:
+1. 30GP Convince Hine to join Inglewood[Q8], or break up her company
+2. 10GP/bandit Stop the raiding party from killing our herb trade[Q7]
+3. 100GP Kill the Red Paw's leader[Q2]
+4. 30GP End the inquisition[Q6] to refocus efforts on demon hunting
+5. 30GP Crush the rumored black market operations in town[Q5]
+6. 100GP Destroy the bandit headquarters[Q10] 
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
@@ -1288,6 +1326,14 @@ The room has shelves to display various weapons
 - greatsword
 - shield
 
+Folmar will take kindly to the party if they help with the initial boat
+heist or approaches the thieves with a feather on their hat, offering them
+jobs.
+1. 30GP convince Hine to join the bandits[Q8].
+2. 100GP take the Diadem(if it hasn't been taken yet)[Q9]
+3. 200GP Bring back a magical dwarven weapon from their tomb
+4. 300GP assassinate Kinkade[Q2]
+
 #### (B) Merc Bunks
 10 triple-layer bunkbeds. A pile of lockboxes on the ground:
 - 50GP, 30SP, 30CP
@@ -1295,10 +1341,26 @@ The room has shelves to display various weapons
 - 3 daggers
 - 4 doses of red herb
 
-#### (C)
-#### (D)
-#### (E)
+#### (C) Bandit Bunks
+10 triple-layer bunkbeds. A pile of lockboxes on the ground.
+- 22GP,14SP, 36CP
+- 4 flasks of whiskey
+- raunchy, anonymous love letter
+- Red Paw emblem
+
+#### (D) Kitchen
+There's a couple wash basins, two stoves, and a shelf of pots, pans, and
+various staples for cooking.
+
+#### (E) Dining room
+There're three round tables with stools around them. Smells of strong ale,
+oakwood, and tobacco.
+
 #### (F) Zimrol's Tent
+Zimrol keeps a symbol of Bimros above the door of his tent, and inside has a
+small altar with a censure burning incense throughout the day. He is often
+inside, treating the wounded and praying.
+
 #### (G) Loot Tent
 - Stash of dismantled wagons/carriages/carts
 - 100 Iron rations
@@ -1589,7 +1651,6 @@ Speed: 35ft, swim 30ft
 Net +4 Succeed a DC 14 STR save or be restrained and grappled.
 Spear +4 2d8+4 piercing
 ```
-### Sidequests
 
 ### Rumor Table
 1. A demon-posessed lady is being held in the temple basement.
@@ -1605,7 +1666,7 @@ Spear +4 2d8+4 piercing
 11. Hine's Hardbacks are for hire in the Cauldberry Inn.
 12. (F)Demons are harmed by pure iron.
 13. (F)The captain of the Guard is an omarian spy.
-14. (F)"Dah Bor Viak" is abyssal for "I am a friend"
+14. (F)"Dah Bor Viak" is abyssal for "I am a friend". Saying it calms demons.
 15. Privateers are selling stolen goods to Omaria.
 16. There are secret outcasts in town hiding from the inquisitor.
 17. (F)Guards will sell contraband discreetly.
@@ -1613,7 +1674,99 @@ Spear +4 2d8+4 piercing
 19. Many of the beast folk in town came after the Red Paw burned down Spice Town.
 20. A seagull feather in your hat is all you need to visit the bandit camp.
 
+## Quests
+These quests each represent a source of tension in the world, and should have
+quest hooks or a quest-giver leading the party to discover them. To complete a
+quest, the party must resolve the tension the quest provides. They may pursue
+this in any number of ways, but common situations are described for convenience.
+It is important for you to understand their intended outcome to determine
+success or failure, with success granting 600XP to the party. Common situations
+are listed for convenience, with their additional rewards and consequences.
 
+### [Q1]Posession
+Laria is a victim of demonic posession kept in the basement of the temple. The
+party may cure her by convincing Zimrol to come back to town, or by retrieving
+Uru's lost spellbook, or by discovering the purification potion recipe in the
+temple library, which all result in Laria giving her entire life savings of 15GP
+and 4SP to the party. The demons posessing Laria will agree to leave her body
+if they can instead infect someone of noble blood. Doing this will cause demon
+posession to run rampant in Southhaven's government, and will instigate a
+sequence in which Kinkade's men storm the temple and stop the inquisition.
+
+### [Q2]Revolution
+The Red Paw is a faction of revolutionaries attempting to replace Inglewood's
+feudal rule with a system of voting. Kinkade has a bounty on their leader's
+head. If the party overthrows Kinkade's government, the Red Paw will expel the
+nobility, use Kinkade's manor as a poor house, and begin a public rewriting of
+the law in town hall. Three Red Paw revolutionaries(bandit stat block) will
+become available to join the party for free. If the party captures or kills
+Captain Makoro, then they will be paid the 50GP they were owed by Kinkade or
+Guard Captain Odger.
+
+### [Q3]Cultists
+An insidious cult is luring citizens into the sewers at night, where they are
+never heard from again. In actuality, the cult is working on behalf of the demon
+king Roth'tanag, who wants to build a demon army to destroy Southhorn. If the
+party clears this cult out, they will be paid 100GP by Kinkade or Guard Captain
+Odger. If they instead convince the cult to turn on their demonic patron, they
+will gain access to three cultist initiate followers.
+
+### [Q4]Temple Basement
+Rumors persist about an old dwarven tomb containing weapons. Clearing this tomb
+offers loot. Returning Uru's spellbook will result in him sharing it's contents
+as well as offering to accompany the party on their adventures once the
+inquisition ends.
+
+### [Q5]Black Market
+The black market in Cossot's basement is run out of necessity. If the party
+removes restricted items, she'll close the black market and sell a wider
+selection of goods at lower price. If the party exposes her operation to the
+guards, they will get ignored. If they instead expose this to Kinkade, they will
+be awarded 50GP for providing that Cossot acts as an illegal merchant. This will
+cause the Ravshack Inn to close.
+
+### [Q6]Inquisition
+Inquisitor Oshin is an Omarian agent trying to direct heat away from the demon
+posessions by refocusing blame on outcasts in Southhorn. Exposing these outcasts
+will sentence them to death. If the party delays their execution, another
+disappearance will occur, and members of the temple will call off the
+inquisition. If the party instead kills the inquisitor or exposes him as an
+agent, the inquisition likewise ends. The Inquisitor will offer to end the
+inquisition in exchange for the party's aid in destabilizing Inglewood's
+influence in the region.
+
+### [Q7]herbitorium
+The herbitorium produces a variety of botanicals for medicine and war. The Red
+Paw will seek the destruction of this facility in order to prevent it from 
+reseeding the cash crops of spice town. The owner, Turi, will pay 50GP for the
+party to confront the raiding party that keeps intercepting shipments out of
+Southhorn.
+
+### [Q8]Sisters divided
+After Southhorn fell to Inglewood, Fastrada and Hine got into a large fight over
+whether to join Inglewood or remain independent mercenaries. If the party
+convinces Hine to join Inglewood, her mercenaries will only be for service if the
+party is working for Kinkade. If Fastrada is convinced to join Hine in
+independent work, then Kinkade sentences Fastrada and her mercenaries to jail,
+and Inglewood's forces are spread thin in the region. Breaking out Fastrada's
+mercenaries brings them to side with the Red Paw in revolution.
+
+### [Q9]Diadem
+The Diadem is a precious and coveted resource. If stolen, Kinkade will pay 100GP
+to bring the vessel back. The Red Paw, cultists, and bandits will all offer
+compensation through favors(and gold from the bandits) if the party helps them
+take it. The Diadem falling out of Kinkade's hands will greatly weaken his
+control in policing the region and exporting goods.
+
+### [Q10]Bandits
+The bandit camp is guarded, and offers a haven for it's inhabitants as well
+as several groups of wandering bandits in the area. Clearing the camp will
+completely prevent future bandit encounters, and will be a major win for
+Kinkade, who will suddenly have a firm grip on the region. Convincing them of
+the Red Paw's cause will grant a group of 5 followers to the party, which will
+fight tooth and nail to end Kinkade's reign and allow the bandits to return to
+their town. Alternately, convincing the bandits to side with Omaria will lead to
+their camp being used as a staging ground for an Omarian invasion by 100 omarian. 
 
 ```
 ################################################################################
