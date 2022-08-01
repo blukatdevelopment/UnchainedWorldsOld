@@ -1816,11 +1816,11 @@ their camp being used as a staging ground for an Omarian invasion by 100 omarian
 #   <W E>          │     ┌───┼───┤    │15 │      │           └─┬─┘             #
 #     S            └─────┤16 │ 17│    └─┬─┘    ┌─┴─┐   ┌───┐   │               #
 #     V                  ├───┼─┬─┘      │  ┌───┤18 ├───┤19 ├───┘               #
-#                        │20 ├─┘        │  │   └───┘   └───┘                   #
-#                        └───┤          ├──┴┐                                  #
-#                            ├───┐  ┌───┤ 21├───┐                              #
-#                            │22 ├──┤ 23├───┤24 │                              #
-#                            └───┘  └───┤ 25├───┘                              #
+#                  ┌───┐ │20 ├─┘        │  │   └───┘   └─┬─┘                   #
+#                  │27 ├─┴───┤          ├──┴┐            │                     #
+#                  └───┘     ├───┐  ┌───┤ 21├───┐      ┌─┴─┐                   #
+#                            │22 ├──┤ 23├───┤24 │      │26 │                   #
+#                            └───┘  └───┤ 25├───┘      └───┘                   #
 #                                       └───┘                                  #
 ################################################################################
 ```
@@ -1893,7 +1893,8 @@ Resistance: physical damage
 ### 5 River Statues
 The water moves from NorthWest to SouthEast, running through a grouping of
 dwarven statues that are covered in demon nesting. Spores float through the
-air, emanating from skeletons on the statue platforms.
+air, emanating from skeletons on the statue platforms. Wind wafts from a hole in
+the wall about 30ft up. This tunnel leads to room 6.
 
 ### 6 Fallen scouting party
 A beastfolk revolutionary waits in this room, where he is burying his fallen
@@ -1904,6 +1905,7 @@ the door for their protection.
 Exits:
 - East: Downward tunnel to 7 with smell of rotting meat and buzzing flies
 - South: Tunnel to 9, sound of running water, cool, clammy air
+- West: Hold in the ground with constant suction of wind. Leads to Room 6
 
 ### 7 Gore pit
 There is a 1/4 chance a couple cultists will be building a hell knight from the
@@ -2063,7 +2065,11 @@ Kiss gold piece.
 Hold piece against West wall.
 Command secret door to open.
 ```
-Against the West wall is a pit trap dug by cultists. 
+Against the West wall is a pit trap dug by cultists, 1d6 piercing damage on
+falling. Inside the Pit trap there is an opening for a tunnel just wide enough
+to crawl through on one's hands and knees. Roughly every minute, a swarm of
+leech crawlers will surface from the hole and attack. This leads deep
+underground to room 22. Clearing 22 stops further leech crawler swarms.
 
 Exits:
 - North: Passage caved in, requires 4 DC 15 STR checks to clear
@@ -2129,11 +2135,12 @@ Exits:
 ### 15 Ritual Chamber
 The room has two inches of water over a tiled stone floor. A circle surrounded
 by glyphs can be found on the Western wall in front of a pile of offerings
-and candles sitting on rubble piles.
+and candles sitting on rubble piles. There's a draft in the room.
 
 Exits:
 - North: River flows in from this direction DC 17 athletics to swim in
 - South: Shallow tunnel
+- West: 30ft up, tunnel leading into the vault of room 17
 
 ### 16 Leech crawler nest
 ```
@@ -2201,7 +2208,7 @@ of the elders.
 ```
 Entering the vault reveals a row of six tombs. Disturbing one of the tombs
 causes all six dwarves to rise wielding battleaxes. One has dwarven runes on
-it that glow a dim orange(+1 battleaxe).
+it that glow a dim orange(+1 battleaxe). There's a draft in the room.
 
 ```
 Dwarven Guardian
@@ -2226,6 +2233,7 @@ Exits:
 - North: Passage to 13, damp air
 - West: passageway to 16
 - South: Hidden passageway inside vault leads to 20
+- East: Tunnel 30ft up on wall leads to 15
 
 ### 18 Trapped Room
 Room has an inch of water in it flowing south
@@ -2257,7 +2265,8 @@ Exits:
 
 ### 19 Drained riverbed
 Sandy floor chamber with dead fish on ground. Grind marks on walls.
-A lone grinder is grinding on the walls.
+A lone grinder is grinding on the walls. Investigating the walls reveals a hole
+into a tunnel leading to room 26.
 
 ```
 Grinder
@@ -2333,6 +2342,7 @@ Exits:
 - North: Passage to 16
 - East: half-dug tunnel to vault in 17. 5 DC 14 STR checks to finish
 - South: Paved walkway to 22
+- West: fresh mortar over tunnel to room 27
 
 ### 21 Cultist Lair
 White water rapids runs Southward. DC 17 athletics to swim against current, or 
@@ -2340,6 +2350,9 @@ DC 15 athletics check to swim perpendicular. Failing this results in 1d6
 slashing when hitting island. Player map below. 1d4 cultists per each 2x2 tent,
 9d4 in total, plus cult leader.
 
+
+4 leads to room
+7 leads to room 23, 7 leads to room 24, 8 leads to room 25, 9 leads to room 18
 ```
 Lines are plank bridges, and are straight.
 T = Tent
@@ -2440,6 +2453,7 @@ The prisoners:
 
 
 Player map below.
+1 leads to room 22, and 3 leads to room 21
 ```
 C = cage
  ┌───────────────────────────────────────────────────┐
@@ -2535,3 +2549,23 @@ slam attack using it's action. While rolled, AC increases by +3.
 Slam +4 1d6+3 bludgeoning
 Bite +4 1d8+3 piercing
 ```
+
+### 26 Geode Chamber
+This chamber is a 30ft diameter sphere skewered with white crystals as large
+as three feet in diameter. The party will begin to hear voices in their head
+begging them to break the crystals. Tapping a crystal causes it to light up.
+Breaking one causes a bright flash and an arc of white lightning will jump 
+across the room, restoring one stamina die to each creature inside the chamber.
+A ghost of a man will appear, patiently waiting for the party to free the rest
+of their family. After smashing seven crystals, the ghosts will pick up a piece
+of the crystal, link hands, and charge it until it glows indefinitely, producing
+a permanent 20ft of bright light, 20ft of dim light.
+
+
+### 27 Loot Chamber
+This tunnel is accessible from the East. Inside there is a pile of loot:
+- 6 signet rings
+- 2 pairs of golden earrings
+- 1 5lb bar of gold
+- 119GP
+- Ring of honest debate. +2 Persuasion, -4 deception
