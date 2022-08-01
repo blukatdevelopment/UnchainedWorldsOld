@@ -35,6 +35,8 @@ edit this adventure to run it accordingly.
 - Characters may die after a single wrong move or bad roll of the dice
 - Some monsters and situations are guaranteed to wipe out a party lacking creativity and caution
 - Players seek out the adventure, as it won't come to them
+- XP is earned by completing quests, killing monsters, and gaining gold pieces
+- XP is divided up among the entire party
 
 ### The setting
 We begin in the port city of Chaur, a crowd eagerly clambering onto a ship,
@@ -51,23 +53,171 @@ to 10GP per person.
 If you have an existing party from another adventure such as a level 0 character
 funnel, you are all set. If you need to create new adventurers now, I'd
 recommend starting at level 1 and using the standard array to generate their
-ability scores, allowing them to place the scores as they please. Rolling
-backgrounds and asking each player to explain how they know at least one more
-member of the party would be good. In addition to their starting gear, I would
-grant 10GP to each character and allow them to do shopping in Chaur of weapons,
-armor, and adventuring equipment listed in the core rules and access to the
-town's blacksmith.
+ability scores, allowing them to place the scores as they please. Rolling from
+the imperial lineages book is recommended, but some players may wish to select
+a more exotic lineage. Rolling backgrounds and asking each player to explain how
+they know at least one other member of the party would be good. In addition to
+their starting gear, Grant 10GP to each character and allow them to do
+shopping in Chaur of weapons, armor, and adventuring equipment listed in the
+core rules and access to the town's blacksmith.
 
 Standard array: [15, 14, 13, 12, 10, 8]
 
 
 ## The Diadem
-Inglewood's crown jewel of the Gorrik Sea. The vessel was constructed shortly
-after Southhorn was taken. The first part of this adventure is confined to this
-ship, and upon it's conclusion the party will be dropped into some section of
-Southhorn.
+The Diadem is Inglewood's crown jewel of the Gorrik Sea, constructed shortly
+after Southhorn was taken. The party will be informed that the voyage will take
+three days. Shortly after the party boards, they learn that there is little to
+do on this ship other than socialize. Each player may roll a random
+passenger the party speaks to. Alternately, the party may seek out someone they
+have spoken to before, or someone they have been told about. Once each player
+has rolled, the day is done. If the party solves a problem that one of the
+passengers has, grant them 100XP (remember that this is divided among the rest
+of the party evenly).
 
-### 
+### Laws of Southhorn
+As the party boards, they are each given a copy of the laws of Southhorn
+
+### Passengers
+#### 1: Erling (m)
+- Wants to join the Inglewood guard
+- His sword was stolen before he boarded
+- He'll offer double price for a replacement
+
+#### 2: Fintan (m)
+- Is coming to help prospect nearby mountains for mines
+- Gambles 5GP on an arm-wrestle (+4 athletics)
+
+#### 3: Cristen (m)
+- Is escaping a war that burned his hometown down
+- Plays the viola, will play for 5CP a song
+- Asks if party could talk to Ceit, too nervous to ask her about painting him
+
+#### 4: Dofnald (m)
+- Inglewood guard
+- Says there has been pirate activity in the past, but they should be safe
+- Says that the Diadem is the finest ship he has ever seen
+
+#### 5: Captain Raibart (m)
+- Captain of the ship
+- Explains that this ship is faster than any comparable pirate vessel
+
+#### 6: Padean (m)
+- Bearfolk coming to find his estranged uncle
+- Last he heard, his uncle Sandro was sent to Spicetown for his lifestyle
+- He has a crush on Wyn, but is too afraid to say anything to a noble like her
+
+#### 7: Ceit (f)
+- Is a traveling artist commissioned to draw Kinkade
+- Offers to paint a member of the party for free
+- She already painted Wyn, but Wyn paid her in exposure
+
+#### 8: Una (f)
+- Researcher coming to learn about Dwarven architecture
+- Explains that the temple in Southhorn was originally ancient Dwarven
+
+#### 9: Teasag (f)
+- Farmer leaving after dragon burned her village down
+- There are no dragons in Southhorn
+
+#### 10: Catriona (f)
+- Is coming to raise her family in peace (Geral[m], Redna[f], Gibby[m])
+- Husband eaten by goblin cannibals
+- There's no goblins in Southhaven, just a bandit fort that'll be gone soon
+
+#### 11: Saer (m)
+- Does not want to be woken, has massive hangover
+- Is a construction worker for Southhorn's walls
+- Saw the Gruffin had a pirate tattoo on his left arm
+
+#### 12: Bevan (m)
+- Noble coming to meet Kinkade and maybe buy land
+- Erling tried to buy his rapier, couldn't afford the 50GP price tag.
+- In time, Southhorn will be more civilized than this
+
+#### 13: Idwal (m)
+- Blacksmith coming to make weapons for Inglewood
+- Village burned by dragon
+- Fergus is Southhorn's blacksmith, and is his second cousin
+- Wished he kept one of his swords, as Erling's offering double for one
+
+#### 14: Sioni (m)
+- Urchin who won the ticket by gambling (actually stolen)
+- Will be a chicken farmer, or maybe (hushed) join the Red Paw and take back Southhaven
+- Offers to join party, if they need a thief, until he gets enough money for a chicken farm
+
+#### 15: Gruffin (m)
+- Claims he's a chicken farmer
+- Has visible tattoo of an anchor on his left arm
+- Explains party can turn on Inglewood when the ship is taken by pirates in two days
+
+#### 16: Morgana (f)
+- Accomplished archer
+- Wants to join Kinkade and eradicate the bandits
+- Suspects Gruffin is hiding something in the back of his pants
+
+#### 17: Eurneid (f)
+- Mercenary coming to join one of the three mercenary groups
+- Wanted to sign up as a guard, but had to pay the full ticket price
+- Thinks Sioni is a thief, and to watch your pockets around him
+
+#### 18: Hafren (F)
+- Priestess of Bimros coming for religious freedom
+- In her home, there were many different churches, but just Bimros in Southaven
+- Explains that heretics like Anna are in for a shock
+
+#### 19: Wyn (f)
+- Noble coming to attend a ball at Count Kinkade's new estate
+- Wishes this ship had first class quarters
+- Wishes gutter rats like Sioni weren't on board
+
+#### 20: Anna (f)
+- A priestess of Gegtix escaping from a crusade on the mainland
+- She offers one of the party members a blue stone to help their energy
+- The inquisition in Southhorn isn't violent like in her home land
+
+### Pirate scuffle
+The morning of the third day, a pirate vessel pulls up beside the Diadem
+at cruising speed. A mage seems to be blowing the sails up to increase speed.
+Three planks are thrown over, and boarding has begun. If the party hits the
+mage from 60 feet, he'll lose composure and the ship will fall behind.
+
+There are three Inglewood guards that will join the fight, but three pirates
+per plank. Knocking the planks into the water will likewise stop the boarding.
+If the party does not move to protect Inglewood, they will overtake the ship. 
+
+The party will be rewarded with 300XP if they defeat the pirates, or else 100XP
+if they help the pirates.
+
+```
+Swashbuckler
+HP: 8(2d4+2)
+AC: 12(leather)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 12| 12| 10| 12| 12|
+Attacks:
+Scimitar +4 1d6+2 piercing
+Pistol(30/60) +3 1d10+1 piercing
+```
+
+### Arrival
+Depending on the outcome of the pirate scuffle, the party enters Southorn from
+different positions. In either case, each player may roll on the rumor table
+to figure out what they learn from the locals.
+
+#### Ship defended
+After repelling the pirates, party winds up at docks in Southhorn, offered free
+room and drink from the captain at the Cauldberry Tavern. Afterwards, they are
+told to collect their 10GP from Kinkade himself at his manor.
+
+#### Ship overthrown
+The party is told to help put blindfolds onto the passengers if they helped the
+pirates. Everyone is blindfolded before they are unloaded at the bandit camp
+West of SouthHorn. Next, the bandits steal everything of value from the
+passengers, marching them blindfolded and in their underwear to the edge of the 
+city before turning them loose. The bandit captain, Folmar, might have some work
+for them.
 
 ```
 ################################################################################
@@ -1298,8 +1448,6 @@ Attacks:
 Bite +3 1d8+2 piercing, DC 13 STR or grapple
 ```
 
-
-
 #### In Wilderness
 Roll a 1d6 each day of travel. Encounter on a 1.
 
@@ -1441,7 +1589,7 @@ Speed: 35ft, swim 30ft
 Net +4 Succeed a DC 14 STR save or be restrained and grappled.
 Spear +4 2d8+4 piercing
 ```
-
+### Sidequests
 
 ### Rumor Table
 1. A demon-posessed lady is being held in the temple basement.
