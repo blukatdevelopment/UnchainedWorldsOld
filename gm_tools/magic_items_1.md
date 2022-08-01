@@ -16,7 +16,7 @@ spell attacks cast with the wand.
 
 ### Cantrip Wand (Rare)
 When you cast a cantrip with this wand, you may decide to store the cantrip
-inside the wand. Anyone holding the wand may then expend a hit die to cast
+inside the wand. Anyone holding the wand may then expend a stamina die to cast
 the spell using the wand. The attack bonus is +4 and the DC is 12.
 
 ### Spell-storing wand (Rare)
@@ -58,7 +58,7 @@ sphere becomes a permanent anti-magic field, and the two rods are destroyed.
 ### Portal Wand (Very Rare)
 This wand can be used to produce either a blue or orange portal. Each is
 projected onto a flat 5ft square surface within 60ft. The blue portal consumes
-two hit dice, and the orange portal consumes one hit die. The portals stay
+two hit dice, and the orange portal consumes one stamina die. The portals stay
 active for one minute, during which they may be traveled through, preserving
 momentum.
 
@@ -94,7 +94,7 @@ it produces a loud frog's croak audible for up to 120 feet.
 
 ### Staff of magic missile
 Magical quarterstaff
-The holder may consume a hit die in order to cast magic missile.
+The holder may consume a stamina die in order to cast magic missile.
 
 ### Cluster Crossbow (Uncommon)
 This special light crossbow fires four crossbow bolts simultaneously.
@@ -108,14 +108,14 @@ Ranged weapon (30/60), Light
 Weight:2lb
 Damage: 1d6 fire
 Uses hand crossbow or firearm proficiency. Has two charges.
-Can be recharged with a hit die during a rest.
+Can be recharged with a stamina die during a rest.
 
 ### Lightning Rifle (Uncommon)
 Ranged weapon(120/125)
 Damage 2d12 lightning
 Uses heavy crossbow or firearm proficiency. Has one charge.
 User must use action to charge up the rifle for 6 seconds.
-Can be recharged with a hit die during a rest.
+Can be recharged with a stamina die during a rest.
 
 ### Power fist (Uncommon)
 Unarmed attacks deal 1d4 damage when wearing this. The power fist is considered
@@ -178,7 +178,7 @@ and each time attunement is lost, the souls leave the blade.
 | Souls |                         Effect                          |
 +-------+---------------------------------------------------------+
 |     1 | Cast Disguise Self once a day                           |
-|     5 | Can consume a hit die to attack three times with dagger |
+|     5 | Can consume a stamina die to attack three times with dagger |
 |    15 | +1                                                      |
 |    35 | Cast Shadow Magic once a day                            |
 |    55 | +2                                                      |
@@ -245,17 +245,17 @@ and may walk perpendicularly up walls or upside-down on ceilings.
 
 ### Boots of Dashing (Uncommon)
 These boots have stylish lightning bolts on them.
-When wearing these boots, you may expend a hit die to move an additional 60 feet.
+When wearing these boots, you may expend a stamina die to move an additional 60 feet.
 
 ### Boots of air step (Uncommon)
-When wearing these boots, you may expend a hit die to move horizontally on open
+When wearing these boots, you may expend a stamina die to move horizontally on open
 air as if it were solid ground. This effect ends at the end of your turn.
 
 ### Boots of waterwalk (Uncommon)
 When wearing these boots, you may walk on water as if it were solid ground.
 
 ### Winged boots (Uncommon)
-When wearing these boots, you may expend a hit die to gain a flying speed of
+When wearing these boots, you may expend a stamina die to gain a flying speed of
 60ft until the start of your next turn.
 
 ### Boots of Elven Kind (Uncommon)
@@ -263,7 +263,7 @@ When wearing these boots, your footsteps make no sound, and you have advantage
 on stealth checks relying on moving silently.
 
 ### Spring boots (Common)
-When wearing these boots, you may expend a hit die to jump up to 30ft as a long
+When wearing these boots, you may expend a stamina die to jump up to 30ft as a long
 jump or high jump.
 
 ### Knife boots (Common)
@@ -275,21 +275,21 @@ When wearing these gauntlets, your unarmed attacks deal 1d6+STR bludgeoning
 damage.
 
 ### Gauntlets of fire (Uncommon)
-When wearing these gauntlets, you may expend a hit die to add 2d6 fire damage
+When wearing these gauntlets, you may expend a stamina die to add 2d6 fire damage
 to an unarmed attack.
 
 ### Shock Gauntlets (Uncommon)
-When wearing these gauntlets, you may use your bonus action to expend a hit die 
+When wearing these gauntlets, you may use your bonus action to expend a stamina die 
 and deal 2d6 lightning damage to a grappled target.
 
 ### Ice Gauntlets (Uncommon)
-When wearing these gauntlets, you may use an action to expend a hit die and
+When wearing these gauntlets, you may use an action to expend a stamina die and
 blast a 15ft cone of cold air. All creatures in the cone must succeed a DC 12
 DEX save to halve 2d6 cold damage. On a failure, a creature's movement is
 reduced to 0ft until the start of your next turn.
 
 ### Seeker Swarm Gauntlet (Rare)
-When wearing these gauntlets, you may use a bonus action to expend a hit die and 
+When wearing these gauntlets, you may use a bonus action to expend a stamina die and 
 cast the magic missile spell from the spell compendium volume 1. When you do,
 the darts appear as tiny flying needles that pierce through or graze their target
 before returning to your gauntlet.
@@ -299,16 +299,16 @@ This gauntlet has a retractable shield that you may expand or retract by using
 your bonus action. It does not require an empty hand to deploy.
 
 ### Ring of Invisibility (Rare)
-You may consume a hit die to become invisible for 1 hour. The effect ends if you
+You may consume a stamina die to become invisible for 1 hour. The effect ends if you
 perform an attack or cast a spell.
 
 ### Ring of the robust (Uncommon)
-You may use a bonus action to consume a hit die, rolling it and gaining that
+You may use a bonus action to consume a stamina die, rolling it and gaining that
 much temporary hit points.
 
 ### Ring of regretful wisdom (Rare)
 You activate the ring by speaking a grave regret of yours. If the ring accepts
-your answer, it will consume a hit die and grant you advantage on wisdom saving
+your answer, it will consume a stamina die and grant you advantage on wisdom saving
 throws for the next hour.
 
 ### Ring of +1 ability score (Uncommon)
@@ -335,7 +335,7 @@ When attuned to this ring, the wearer may cast disguise self at will.
 
 ### Ring of Elemental redirection (Rare)
 When attuned to this ring and targeted with an attack roll that would deal
-lightning, fire, or cold damage, the wearer may consume one hit die to attempt
+lightning, fire, or cold damage, the wearer may consume one stamina die to attempt
 to deflect the attack. They make an acrobatics check against the attack roll.
 On a success, they may send the attack off harmlessly in another direction. If
 they succeed by 5 or more, they may redirect the attack back to the sender for

@@ -1,10 +1,11 @@
 # Southhorn
 
 ## Foreword
-This adventure module is suitable for adventurers from level 0-3, and will
-provide them with a starting point for a larger campaign. In this adventure
-the party will find themselves confronted with a choice to side with one
-of many competing factions in the troubled city of Southhorn.
+This adventure module is a sandbox suitable for a party levels 1-3. It can be
+run as-is from start to finish, but is also intended to combine with other
+adventure modules and homebrew content. Please feel free to adapt this module
+to fit an existing setting, or to add plot hooks leading to other adventure
+modules.
 
 ```
 ################################################################################
@@ -24,9 +25,49 @@ of many competing factions in the troubled city of Southhorn.
 #     \___/_| |_|\__|_|  \___/ \__,_|\__,_|\___|\__|_|\___/|_| |_|             #
 ################################################################################
 ```
+## Beginning
+
+### Expectations
+Speak with your players about what they can expect to see in this adventure.
+If you disagree with any of the points below, cross it out and make sure to
+edit this adventure to run it accordingly.
+- This game is about the players more than the characters
+- Characters may die after a single wrong move or bad roll of the dice
+- Some monsters and situations are guaranteed to wipe out a party lacking creativity and caution
+- Players seek out the adventure, as it won't come to them
+
+### The setting
+We begin in the port city of Chaur, a crowd eagerly clambering onto a ship,
+ready to travel to a distant port in the city of Southhorn. Southhorn had been
+a haven for bandits, mercenaries, and other rogues until very recently the
+kingdom of Inglewood had reached a peace agreement with the Federation of Omaria
+and focused their army to take the city back by force. The party is being
+summoned by Southhorn's new leader, Count Kinkade, to finish off the remnants
+of the bandits and bring peace to the region. His first contract is to provide
+security detail for the Diadem, offering free passage to Southhaven in addition
+to 10GP per person.
+
+### Character Creation
+If you have an existing party from another adventure such as a level 0 character
+funnel, you are all set. If you need to create new adventurers now, I'd
+recommend starting at level 1 and using the standard array to generate their
+ability scores, allowing them to place the scores as they please. Rolling
+backgrounds and asking each player to explain how they know at least one more
+member of the party would be good. In addition to their starting gear, I would
+grant 10GP to each character and allow them to do shopping in Chaur of weapons,
+armor, and adventuring equipment listed in the core rules and access to the
+town's blacksmith.
+
+Standard array: [15, 14, 13, 12, 10, 8]
+
 
 ## The Diadem
-Inglewood's first ship 
+Inglewood's crown jewel of the Gorrik Sea. The vessel was constructed shortly
+after Southhorn was taken. The first part of this adventure is confined to this
+ship, and upon it's conclusion the party will be dropped into some section of
+Southhorn.
+
+### 
 
 ```
 ################################################################################
@@ -563,7 +604,6 @@ Cossot(F) and brimming with miscreants and outcasts.
 #### Surface Trade
 Cossot offers a few essential goods and services to visitors in the main room.
 ```
-
 +------+------------------------+
 | Cost |      Good/Service      |
 +------+------------------------+
@@ -912,16 +952,249 @@ forms of entertainment take place for the nobles.
 #### Guest House
 About six bedrooms for visitors with plush down mattresses on wooden frames.
 
+### (k) Bandit Camp
+
+#### Camp state
+The cample cycles through these states, each one taking 2d4-1 (1-7) days.
+It's defenses amount to a garrison(BG), a raiding party(RP), and a pirate
+band(PB), which are present at different times.
+
+You may roll a 1d6.
+1. Wait for caravan (BG, RP)
+2. Embark to raid caravan (BG)
+3. Strip Down Loot (BG, RP)
+4. Wait for ship(BG, RP)
+5. Unload loot on ship(BG, RP, PB)
+6. Go to step 1
+
+#### Approach
+- Camp is tucked away in the woods
+- Discover via DC 16 perception check, but reveals party by searching
+- DC 17 Stealth check to scout secretly
+- If discovered, expect patrol squad to approach the party
+
+
+
+#### Garrison
+- 25 Bandit Militia, 3 squads patrol, rest sit at camp
+- 5 Baldric Battleaxes, sit at camp
+- Ace, occupies archer nest
+
+```
+Bandit Militia
+HP: 4(1d4+1)
+AC: 16(Scale Mail)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 12| 12| 10| 12| 12|
+Attacks:
+Dagger +2 1d4+1 piercing
+Light Crossbow +2 1d8+1 piercing
+
+Baldric Battleaxe
+HP: 18(3d6+6)
+AC: 17(Scale Mail, shield)
+Speed: 25ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 12| 14| 10| 10| 10|
+Attacks:
+Battleaxe +5 1d10+4 slashing
+
+Ace
+HP: 8(2d4+2)
+AC: 14(leather)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 16| 12| 10| 12| 12|
+Attacks:
+Dagger +6 1d4+3 piercing
+Heavy Crossbow +6 1d10+3 piercing
+```
+
+#### Raiding Party
+- 5 raiders
+- 5 Baldric Battleaxes (Including Baldric)
+- Battleaxes have magic items
+Items
+- +1 Battleaxe named Fury
+- Gauntlets of Dwarven Kind
+- Ice Gauntlets 
+- Stonebreaker: Ring of +2 Strength Score
+- Spellscroll of Invisibility (Baldric)
+
+```
+Raider
+HP: 10(2d6+2)
+AC: 12(leather)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 12| 12| 10| 12| 12|
+Attacks:
+Longsword +4 1d8+2 piercing
+Heavy Crossbow +4 1d10+2 piercing
+
+Baldric Battleaxe
+HP: 18(3d6+6)
+AC: 17(Scale Mail, shield)
+Speed: 25ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 12| 14| 10| 10| 10|
+Attacks:
+Battleaxe +5 1d10+4 slashing
+```
+
+
+#### Pirate Band
+- 10 swashbucklers
+- Falclind
+- Will retreat to ship at start of trouble
+
+```
+Swashbuckler
+HP: 8(2d4+2)
+AC: 12(leather)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 12| 12| 10| 12| 12|
+Attacks:
+Scimitar +4 1d6+2 piercing
+Pistol(30/60) +3 1d10+1 piercing
+
+Captain Falclind
+HP: 21(3d8+6)
+AC: 13(hide)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 12| 12| 10| 12| 16|
+Multiattack: Captain can make two rapier attacks
+Attacks:
+Rapier +5 1d8+3 piercing
+Pistol(30/60) +3 1d10+1
+```
+
+```
+ ┌──────────────────────────────────────────────────────────────────────────────┐
+ │ FFFFFFFFFFFFFFFFFFFFFFFFFFFF FFFFFFFFFFFFFFFFFFFFFFFF FFFFFFFFFFFFFF         │
+ │ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF  F   F  F F FFFFFFFFFFFFFFFFFFFF        │
+ │FFFFFFFFFFFFFFFFFFFF FFFF                           FFFFFFFFFFFFFFF FFF       │
+ │FFF FFFFFFFFFFFFFFFFFF        ┌───────────────────┐ FFFFFFFFFF    FFFFF       │
+ │FFFFF FFFF FFFFF              │  Stake Wall       │ FFFFFFFF  FFFFF FFFF      │
+ │FFF FFFFF FFF                 └───────────────┐   │ FFFFFF FFF    FFF FF      │
+ │FFFFFFFFFF                                    │   │ FFFFFF   FFFFFFFFFF       │
+ │FFFFFFF         ┌───────┐                     │   │ FFFFF F  FFFFFFFF         │
+ │FFFFFF          │       │         ┌───────┐   │   │ FFFFF FF FF   FFFFFFF     │
+ │ FFFF           │  G    \         │       │   │   │ FFFFFFFFFFFFFFFFFFF F     │
+ │ FFFF           │       │         \   F   │   │   └──┐FFFFFFFFFFFFFFFFFF      │
+ │ FFF            └───────┘         │       │   │      │FFFFFFFFFFFFFFFF FF     │
+ │ FFF                              └───────┘   └──┐   │FFFFFFFFFFF FFFFFF      │
+ │ FFF                                             │   │FFFFFFFFFFFFFFFFF       │
+ │ FF       ┌────────┐                             │   │FFFFFFFFF FFF  FF       │
+ │ FF       │        │                             │   │   FFFFFFFF FF  FF      │
+ │          │        \                             │   └─┐ FFFFFF FF FFF F      │
+ │          │  H     │                             └──┐  │ FFFFFFFFFF  FFFF     │
+ │          └────────┘            ┌──────┐\─┬─────┐   │  │ FFFFFFFF FFFFF F     │
+ │                                │      │  │     │   │  │ FFFFFFFFFF FFFFF     │
+ │                                │   D  \  \ E   │   │  │ FFFFFFFFFFFFF  F     │
+ │         ┌─────────┐            │      │  │     │   │  │ FFFFFFFF FFFFFFF     │
+ │         │         │            ├──────┤  ├─────┤   │  │ FFFFFFFFFF FF FF     │
+ │         │   I     \            │      │  │     │   │  └┐FFFFFFFF FFFFFF      │
+ │         │         │            w  B   \  \  C  │   └┐  │FFFFFFF FFFFF        │
+ │         └─────────┘            │      │  │     │    │  │FFFFFFFFFF           │
+ │                                │      │  │     │    │  │FFFFFFFF             │
+ │           ┌──────────┐         ├──────┘\─┴─────┤    │  │FFFFFFF       F      │
+ │           │          │         │      A        │    │  │FFFFFF      FFF      │
+ │           │          │         │               │    │  │FFFFFF      FFF      │
+ │           │   J      \         └───w────────w──┘    │  │FFF FFF     FFF      │
+ │           │          │                              │  │FFFFFFF    FFF       │
+ │           └──────────┘                  ┌───────────┤  │   FFF   FFFFFF      │
+ │                                         └───────────┴──┘         FFFFFF      │
+ │                                                              FFFFF FFF       │
+ │                                                          FFFFFFF FFF         │
+ │                                                       FFF  FFFFFFFF          │
+ │                                                      FFFFF┌─────┐FF          │
+ │                                                      FFFFF│     │FFF         │
+ │   @@@@                                                FFFF│  K  │F  F        │
+ │   @@@@@@@                                             FFFF│     │FF F        │
+ │   @@@@@@@@@@@@@@@@@@@                                F FFF└─────┘FFF         │
+ │   @@@@@@@@@@@@@@@@@@@@@@@@@@@                       FFFFFFFFFFFFFFFFF        │
+ │                                                                    FF        │
+ └──────────────────────────────────────────────────────────────────────────────┘
+ ```
+
+#### Stake Wall
+- Cammoflauged in vegetation
+- Multiple spikes pointing up
+- DC 15 Athletics to climb, 1d6 piercing on fail
+- Bells on other side ring if climbed
+- Path in woods exposed to archer nest
+
+#### (A) Folmar's room
+The room has shelves to display various weapons
+- light crossbow
+- hand crossbow
+- heavy crossbow
+- dagger
+- longsword
+- greatsword
+- shield
+
+#### (B) Merc Bunks
+10 triple-layer bunkbeds. A pile of lockboxes on the ground:
+- 50GP, 30SP, 30CP
+- 3 flasks of whiskey
+- 3 daggers
+- 4 doses of red herb
+
+#### (C)
+#### (D)
+#### (E)
+#### (F) Zimrol's Tent
+#### (G) Loot Tent
+- Stash of dismantled wagons/carriages/carts
+- 100 Iron rations
+- 19 short bows
+- Trunk of 10 sets of untarnished men's fine clothes
+- Trunk of 2 untarnished fine dresses
+- 163 arrows
+- Stack of 15 50lb bags of wheat berries
+- 3 barrels each of salt pork, salt beef, salt fish
+
+#### (H) Animal tent
+- 2d4 small horses
+- 1d4-1 mules
+
+#### (I) Baldric's Tent
+- Desk with Journal that complains about Fastrada being a traitor
+- Lockchest (DC 17) with 31GP bottle of fine wine, and a 2lb gold bar
+- Cot with fine silk sheets
+
+#### (J) Folclind's Tent
+- Desk with shipping schedule on it
+- Trash bucket with love letters from Baldric
+- Lockchest (DC 17) with heavy stuffed bear plush(contains 2lb gold bar) in it
+- Bed has stuffed bear plush
+
+#### (K) Archer Nest
+- 100ft sycamore tree with nailed-on footholds (DC 17 perception to notice)
+- Guard is Ace, +6 1d8+4, 600ft engagement
+- DC 15 Perception to spot archer
+- Target less armored party members first
+
+
 ### Random Encounters
 Roll on the table, then pick an encounter from the list that fits with the
 current segment of the adventure. For instance, the cult may attempt multiple
 times to recruit the party, but might send assassins if the party works for
 Kinkade.
+
+#### In City
+Roll a 1d20 each transition between locations. Encounter on a 1.
+
 ```
 +------+------------------------------------------------+
 | Roll |                    Outcome                     |
 +------+------------------------------------------------+
-|    1 | Rogues[Muggers, Bounty Hunters, Assassins]     |
+|    1 | Petty Bandits[Muggers, Beggars, Assassins]     |
 |    2 | Leech Crawlers[Posession, Nest, Assassin]      |
 |    3 | Guards[Shakedown, Inquisition, Tax collection] |
 |    4 | Cultists[Recruiter, Kidnapper, Assassin]       |
@@ -929,6 +1202,246 @@ Kinkade.
 |    6 | Animals[Rats, Dogs, Gator]                     |
 +------+------------------------------------------------+
 ```
+```
+Petty Bandit
+HP: 4(1d4+1)
+AC: 11
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 12| 12| 10| 12| 12|
+Attacks:
+Dagger +2 1d4+1 piercing
+Sling +2 1d4+1 bludgeoning
+
+Leech crawler Assassin
+A peasant posessed by leech crawlers sent to kill the party
+HP: 13(3d4+4)
+AC: 10
+Speed: 30ft
+25XP
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 10| 18| 10|  8| 10|
+Swarm: Upon death, a swarm of leech crawlers burst from the zombie's body, ready
+to exact revenge.
+Attacks:
+Unarmed: +3 3 bludgeoning
+Poison dagger +1    1d4+1 piercing + 2d8 poison
+
+Crown Guard
+Medium Humanoid
+XP: 25
+HP: 5(1d6+1)
+AC: 11(padded)
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 10| 12| 10| 13| 12|
+Speed: 30ft
+Attacks:
+Club +3 1d4+2
+
+Cultist Initiate
+Medium Humanoid
+XP: 25
+HP: 3 (1d4)
+AC: 12
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 12| 11| 12|  8| 14|
+Attacks:
+Dagger: +2 1d4+1 piercing
+Skin Boil(5ft): DC 12 Con save or 1d10 necrotic
+
+Red Paw
+HP: 4(1d6)
+AC: 10
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 10| 10| 10| 10| 10|
+Attacks:
+Claws +1 1d4 bludgeoning
+
+Rat
+Tiny Beast
+XP: 10
+HP: 3(1d4)
+AC: 12
+Speed: 25ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 10| 10|  3| 14|  3|
+Attacks:
+Bite +1 1 piercing
+
+Feral Dog
+XP: 50
+This dog foams at the mouth.
+Medium Beast
+HP: 9(3d4)
+AC: 12
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 12| 12|  3| 14|  3|
+Attacks:
+Bite +3 1d4+2 piercing, DC 11 CON save or contract mouthfoam
+
+Sewer Gator
+XP: 100
+These creatures live in the sewers
+Medium Beast
+HP: 9(3d4)
+AC: 12
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 12| 12|  3| 14|  3|
+Actions:
+Rip and tear: Gator rotates it's body to break the bone of grappled target,
+who must make a DC 12 CON save to halve 2d8 bludgeoning damage.
+Attacks:
+Bite +3 1d8+2 piercing, DC 13 STR or grapple
+```
+
+
+
+#### In Wilderness
+Roll a 1d6 each day of travel. Encounter on a 1.
+
+Prominent bandit gangs in the area, appearing in order.
+1. Blackboots (nothing)
+2. Dimpleberry Bandits: use red herb
+3. The Shadows: Advantage on dagger throws and stealthchecks
+4. Holy Highwaymen: Bimros cult, know Radiant Weapon and Words of Strength
+
+Prominant Goblin tribes, appearing randomly:
+1. Gragra tribe: Cannibals
+2. Gutstomp tribe: Hunters, interested in trading for stone weapons
+3. Karbo tribe: Demand 5GP/head from party
+4. Waywose tribe: Wear animal skin costumes, worship Uaos, fight Inglewood
+
+```
++------+-----------------------------------------------------------------+
+| Roll |                    Outcome                                      |
++------+-----------------------------------------------------------------+
+|    1 | 8 wolves                                                        |
+|    2 | 8 petty bandits,  4 bandits, and bandit captain                 |
+|    3 | 10 goblins, 5 Goblin Hunters, 5 Goblin skirmishers              |
+|    4 | 4 Blue Slimes                                                   |
+|    5 | Mature Blink Lion                                               |
+|    6 | River Giant                                                     |
++------+-----------------------------------------------------------------+
+```
+
+```
+Petty Bandit
+HP: 4(1d4+1)
+AC: 11
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 12| 12| 10| 12| 12|
+Attacks:
+Dagger +2 1d4+1 piercing
+Sling +2 1d4+1 bludgeoning
+
+Bandit
+HP: 8(2d4+2)
+AC: 12(leather)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 12| 12| 10| 12| 12|
+Attacks:
+Shortsword +4 1d6+2 piercing
+Shortbow +4 1d6+1 piercing
+
+Bandit Captain
+HP: 21(3d8+6)
+AC: 13(hide)
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 12| 12| 10| 12| 16|
+Multiattack: Captain can make two shortsword attacks
+Attacks:
+Shortsword +5 1d6+3 piercing
+
+Goblin Cannibals
+Medium humanoid
+XP: 11
+HP: 4 (1d4+1)
+AC: 10
+|STR|DEX|CON|INT|WIS|CHA|
+|  8| 12| 12| 10| 10| 10|
+Speed: 30ft
+Attacks:
+Bone Dagger +2 1d4+1 piercing
+Net +4
+
+Goblin Hunter
+Medium humanoid
+XP: 25
+HP: 12 (3d4+3)
+AC: 14(leather)
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 14| 12| 12| 12| 12|
+Speed: 30ft
+Spear assassin: Attacks throwing spears have advantage on prone targets.
+Attacks:
+Bone Spear +3 1d8+1 piercing
+Bola(15ft) +2 target must succeed DC 16 STR or fall prone
+
+Goblin Skirmisher
+Medium humanoid
+XP: 25
+HP: 12 (3d4+3)
+AC: 15(leather and shield)
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 14| 12| 12| 12| 12|
+Goblin shuffle: May disengage with bonus action
+Speed: 30ft
+Attacks:
+Bone shortsword +4 1d6+2
+Catgut Shortbow +3 1d6+1
+
+Blue Slime
+These little slimes would be harmless, if it weren't for their insatiable
+appetite for metal objects.
+Small Slime
+HP: 19 (3d8+4)
+AC: 10
+Speed: 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 10| 14| 10| 10| 10|
+Immunities: Piercing damage
+Diffuse: Slime melts into a puddle that can rapidly travel over grassy areas.
+The slime's speed becomes 40 and ranged attacks have disadvantage on it, since
+it travels beneath the top most layer of grass. It may not attack in this state.
+Smother +4 1d6+2 acid damage.
+
+Mature Blink Lion
+A lion with tenetacles on it's back and tail. It has a third eye with a golden
+iris.
+Large Monstrosity
+XP: 450
+HP: 41 (5d12+6)
+AC: 12
+Speed: 40ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 14| 14|  4| 10|  4|
+Multi-attack: May make two claw attacks against a grappled target.
+Blink: As a bonus action or reaction when targeted by ranged attacks, may
+teleport to another point within 30ft.
+Claws +5 1d6+2 slashing
+Tentacles +5 1 piercing, instant grapple
+Tail +5 1d4 piercing, instant grapple
+
+River Giant
+River giants are feared because they capture land dwellers in nets and drag
+them under water to drown them.
+Large Giant
+HP: 56 (8d12)
+AC: 12
+Speed: 35ft, swim 30ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 18| 10| 10|  8| 12|  4|
+Net +4 Succeed a DC 14 STR save or be restrained and grappled.
+Spear +4 2d8+4 piercing
+```
+
 
 ### Rumor Table
 1. A demon-posessed lady is being held in the temple basement.
@@ -950,7 +1463,9 @@ Kinkade.
 17. (F)Guards will sell contraband discreetly.
 18. Some herbs can only be legally used by Inglewood forces.
 19. Many of the beast folk in town came after the Red Paw burned down Spice Town.
-20. A seagull feather in your hat is all you need to visit the bandit fortress.
+20. A seagull feather in your hat is all you need to visit the bandit camp.
+
+
 
 ```
 ################################################################################

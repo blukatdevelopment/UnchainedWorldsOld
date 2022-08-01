@@ -358,6 +358,8 @@ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNWMMMMMMMMM
 ### Coinage
 Coins are an adventurer's most liquid asset.
 Fifty coins of any material add up to one pound of carry weight.
+Gold bars come in either 2lb (100gp), 5lb (250gp), or 10lb(500gp) sizes and
+are used to trade large amounts of wealth.
 
 ```
 +--------------+------+------+-------+--------+
