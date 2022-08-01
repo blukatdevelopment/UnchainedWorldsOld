@@ -16,30 +16,21 @@ world, you know that you can rely on neither spell nor sword to carry you on.
 You start with 1d4+CON hit points.
 
 ## Proficiencies
-**Armor:** None
-**Weapons:** Club, dagger
-**Saving throws**: Constitution
+- None
 
 ## Skills
-Choose 2 from the following:
-- Athletics
-- Insight
-- History
-- Nature
-- Religion
+- None
 
 ## Starting Equipment
-- club
-- 5 torches
-- waterskin
+- Club
 
 ```
-+-------+----------+-------------------+------------+-------------------+
-| Level | Hit Dice | Proficiency Bonus | Minimum XP |       Feats       |
-+-------+----------+-------------------+------------+-------------------+
-|     0 | 1d4      | +1                |          0 |                   |
-|     1 | 1d4      | +1                |        100 | Training Montage  |
-+-------+----------+-------------------+------------+-------------------+
++-------+--------------------+-------------------+--------+-------------------+
+| Level | Stamina dice       | Proficiency Bonus | Min XP |       Feats       |
++-------+--------------------+-------------------+--------+-------------------+
+|     0 | 1d4                | +0                |      0 |                   |
+|     1 | 1d4                | +0                |    100 | Training Montage  |
++-------+--------------------+-------------------+--------+-------------------+
 ```
 
 ## Training Montage
