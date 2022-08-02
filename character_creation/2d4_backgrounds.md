@@ -3,37 +3,50 @@ This list of backgrounds is intended for generating level 0 commoners quickly
 and easily.
 
 ## 2 Urchin
+The sky's the limit, and the roof, and the shower. Quite versatile, really. 
+Gear:
 - Common clothes(tattered and filthy)
 - Pet animal (rat, raccoon, possum)
 - Sling (1d4 bludgeoning)
 
 ## 3 Criminal
+You take what you need, and then take the rest to sell.
+Gear:
 - Common clothes (black clothes with hood)
 - Crowbar (1d4 bludgeoning)
 - 5gp
 
 ## 4 Forester
+Felling timbers isn't glamorous, but pays a bit better than shucking wheat.
+Gear:
 - Traveler's clothes(With Coat and boots)
 - Handaxe (1d6 slashing)
 - 3GP
 
 ## 5 Farmer
+Till, sew, harvest, thresh, winnow, mill, till, sew, harvest, thresh, winnow... 
+Gear:
 - Common clothes
 - Pitchfork (1d6 piercing)
 - 2GP
 
 ## 6 Potter
+You turn wet mud into pottery, a true mingling of art and pragmatism.
+Gear:
 - Common clothes
 - Pottery tools
 - 3GP
 
 ## 7 Carpenter
+You saw, hammer, and screw until the job's done(hopefully without splinters). 
+Gear:
 - Common clothes
 - Saw
 - Light Hammer (1d4 bludgeoning)
 - 5GP
 
 ## 8 Blacksmith
+You get things hot and hit them with a hammer. 
 Gear:
 - Common clothes (With blacksmith apron, leather gloves)
 - Light Hammer (1d4 bludgeoning)
