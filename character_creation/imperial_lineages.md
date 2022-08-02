@@ -77,7 +77,7 @@ you gain proficiency with short swords and scimitars.
 
 ### Magic Initiate (requires at least 15 INT)
 You've learned the theory behind arcane and have learned to fuel weak magic
-with your blood. You are proficient in arcana and may expend a hit die to cast
+with your blood. You are proficient in arcana and may expend a stamina_die to cast
 the prestidigitation cantrip found in the spell compendium volume 1.
 
 ### Fey Ancestry (requires at least 15 WIS)
@@ -131,7 +131,7 @@ Ability Score Increase: +2 INT, +1 DEX
 
 ### Repair (requires at least 15 DEX)
 Your nimble fingers and purpose-built tools make quick work of seemingly
-devastating damage. You may consume one hit die to cast the Mending spell
+devastating damage. You may consume one stamina_die to cast the Mending spell
 from the spell compendium volume I, except that you achieve this spell by
 conventional, and not arcane means.
 
@@ -250,7 +250,7 @@ action to make a second claw attack.
 Your niche in the empire is as caravan guard. Your rugged silhouete is a
 convincing argument for thieves and beasts alike to move along peacefully.
 Whether tiger, leophard, lion, or bobcat, you jaws are the source of your power.
-You may expend a hit die to unleash a roar that forces all creatures within
+You may expend a stamina_die to unleash a roar that forces all creatures within
 10 feet to succeed a DC 15 wisdom saving throw or become frightened for 1 turn.
 Your bite force is your last and most powerful line of defense. Your bite deals
 1d6 piercing damage.
@@ -280,15 +280,15 @@ Ability Score Increase: +2 CON, +2 STR
 
 ### Ranged Decapitation (requires at least 15 STR)
 You have honed your full rAge: in battle. You are proficient with the battle axe
-and great axe. You may consume a hit die to throw either of them at a range of
+and great axe. You may consume a stamina_die to throw either of them at a range of
 20/40. On a hit, this attack deals critical damage.
 
 ### Tunnel Fighter (requires at least 15 DEX)
-When a hostile creature enters within 5 feet of you, you may consume a hit die
+When a hostile creature enters within 5 feet of you, you may consume a stamina_die
 to make an attack against that creature. This does not consume a reaction.
 
 ### Dwarven Toughness (requires at least 15 CON)
-For every hit die you have, you gain +2 maximum hit points.
+For every stamina_die you have, you gain +2 maximum hit points.
 
 ### Dark Vision (requires at least 13 WIS)
 Life in the tunnels has trained your eyes to see beyond the torch light's center.
@@ -313,7 +313,7 @@ Ability Score Increase: +2 DEX, +1 STR
 You are proficient in survival and perception.
 
 ### Field Medicine (requires at least 15 WIS)
-You are proficient with herbalism kits. You may expend one hit die in order
+You are proficient with herbalism kits. You may expend one stamina_die in order
 to administer 1d10 hit points of healing to another creature. This takes 1
 minute.
 
@@ -406,10 +406,10 @@ die and cast the druidcraft cantrip from the spell compendium volume 1.
 ### Nature's Tongue(requires at least 15 CHA)
 You have learned not only a better appreciation of nature, but you have also
 learned to bend your mind and speak to it. You may use your action to expend a
-hit die in order to utter a simple phrase or concept no longer than 6 seconds
+stamina_die in order to utter a simple phrase or concept no longer than 6 seconds
 to one creature. The creature will understand it.
 
-## 10 Wayfarers
+## 10 Wayfarer
 Gnomes pursued their interests with or without the backing of the empires of 
 man. They took on whatever risks doing so entailed. Some gained 
 support from elements opposed to the empires, while others simply lived as 
@@ -440,11 +440,11 @@ provided, you may instead select a specific subject such as a particular nation,
 ### Fey Blessing (requires at least 17 WIS)
 You were approached by the fey for your child-like curiosity, as many wayfarers
 are. They bestowed upon you a blessing, a ward against those that would harm
-you. You may use your action to expend a hit die and become invisible for one
+you. You may use your action to expend a stamina_die and become invisible for one
 minute. This effect requires your concentration, and if you cast a spell or make
 an attack, this effect ends.
 
 ### Natural Illusionist (requires at least 15 INT)
 For the express purpoose of sharing your special interest with others, you have
 learned the Minor Illusion spelll from the spell compendium volume 1, and may
-cast it by expending a hit die.
+cast it by expending a stamina_die.

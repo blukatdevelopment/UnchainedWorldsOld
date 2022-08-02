@@ -27,7 +27,7 @@ Gear:
 Till, sew, harvest, thresh, winnow, mill, till, sew, harvest, thresh, winnow... 
 Gear:
 - Common clothes
-- Pitchfork (1d6 piercing)
+- Pitchfork (1d4 piercing)
 - 2GP
 
 ## 6 Potter
