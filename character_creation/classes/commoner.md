@@ -22,7 +22,7 @@ You start with 1d4+CON hit points.
 - None
 
 ## Starting Equipment
-- Club
+- None
 
 ```
 +-------+--------------------+-------------------+--------+-------------------+
