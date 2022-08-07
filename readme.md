@@ -63,3 +63,48 @@ probably want some supplement books.
 - [thief](character_creation/classes/thief.md)
 - [tinkerer](character_creation/classes/tinkerer.md)
 - [warrior](character_creation/classes/warrior.md)
+
+
+## GM links
+
+### Rule supplements
+[book of maladies](gm_info/book_of_maladies.md) contains some diseases, curses,
+and a corruption table. 
+[magic items](gm_info/magic_items.md) here's some magic items to stuff into your
+dungeons.
+
+### Campaigns
+This is essentially campaign notes for a couple campaigns. These are not
+polished, nor intended for running as-is, but may serve as inspiration for
+others to borrow or steal from.
+
+[Ironclad](gm_info/campaigns/Ironclad/gm_info.md) is a sandbox where adventurers
+gather three legendary weapons from the island of Korrus.
+
+[Lysteria](gm_info/campaigns/Lysteria/player_facing_rules.md) is a campaign
+setting for running connected oneshots.
+
+### Funnels
+A character funnel gives each player multiple level 0 commoners, then puts the
+group of followers through a gauntlet of deadly encounters. This serves a 
+couple purposes:
+- Give new players a mechanically simplified starting point
+- Familiarize players with death in a non-traumatic way
+- Create memorable moments to bond the party together before your proper adventure
+- Provide each party member an emotionally resonant backstory
+
+[Fear's Isle](gm_info/funnels/fears_isle/gm_info.md) A ship capsizes
+unexpectedly, leaving the party seeking some way to escape the island they have
+washed up on.
+
+### Modules
+A module provides a few sessions of gameplay, accepting a group of adventurers
+within a given level range. Multiple modules may be run back-to-back to provide
+a party with a series of challenges, or a GM may geographically link the
+settings of multiple modules to create a large and detailed world for a party
+to explore freely.
+
+[City of Southhorn](gm_info/modules/city_of_southhorn/gm_info.md) a party of
+adventurers levels 1-3 enter the strife-filled city of Southhorn to uncover it's
+mysteries and discover the dungeon beneath.
+

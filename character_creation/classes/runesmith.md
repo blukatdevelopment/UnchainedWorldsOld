@@ -318,21 +318,21 @@ on itself.
 - Force Sphere 
 - Incite Greed 
 - Intellect Fortress 
-- Life Transference [Pending]
-- Magic Circle [Pending]
-- Major Image [Pending]
-- Minute Meteors [Pending]
-- Nondetection [Pending]
-- Phantom Steed [Pending]
-- Protection from energy [Pending]
-- Sending [Pending]
-- Sleet Storm [Pending]
+- Life Transference
+- Magic Circle
+- Major Image
+- Minute Meteors
+- Nondetection
+- Phantom Steed
+- Protection from energy
+- Sending
+- Sleet Storm
 - Slow [Pending]
-- Speak with dead [Pending]
-- spirit shroud [Pending]
+- Speak with dead
+- spirit shroud
 - stinking cloud [Pending]
 - summon X [Pending]
-- Thunder step [Pending]
+- Thunder step
 - tidal wave [Pending]
 - tiny servant [Pending]
 - tongues [Pending]

@@ -339,7 +339,7 @@ And if your dungeon's large? Well, make a map for each floor. Not what floors
 and rooms your stairs connect to. Put harder challenges on lower levels, and
 put better loot on each. You can either treat each floor(or group of rooms) as
 a separate dungeon, or put one massive vault at the lowest level. Try to put
-loopiung and branching paths to give players some agency in exploration.
+looping and branching paths to give players some agency in exploration.
 
 #### Loot
 You should budget a gold piece amount for your entire dungeon and keep the loot

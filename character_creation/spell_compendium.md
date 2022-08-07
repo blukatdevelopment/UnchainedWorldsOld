@@ -1887,15 +1887,201 @@ up.
 ## 3rd level spells
 
 ```
-Summon Lesser Demons (3rd)
-Casting time: 1 action
+Life Transference (3rd level)
+Casting Time: 1 action
 Range: 30 feet
 Duration: Instantaneous
-You summon four lesser demons onto your current plane in positions of your
-choice within range. They attack the creature closest to them, and afterwards
-act as they normally would without any allegience to you.
-Compatible demons:
-- Soul Sucker
+You extract some of your life essence and transfer it to another
+creature. You take 2d8 necrotic damage, which cannot be reduced
+in any way, and one creature you chose within range regains a 
+number of hit points equal to the necrotic damage you take.
+```
+
+```
+Magic Circle (3rd level)
+Casting Time: 1 minute
+Range: 10 feet
+Duration: 1 hour 
+On a point on the ground that you can see within range, you create
+a cylinder that is 10ft in diameter and 20ft tall. Runes appear 
+wherever the cylinder intersects with the floor or other surface.
+Choose one or more of the following varieties of creature: celestials, elementals, fey, fiends, or undead. The circle's magic effects a relevant creature in the following ways:
+- Cannot normally enter the cylinder. Doing so with magic requires a successful charisma save.
+- Attack rolls against targets within the cylinder have disadvantage.
+- Creatures inside the cylinder are immune to being charmed, freightened, or posessed.
+
+When you cast this spell, you may instead cause relevant creatures 
+within the cylinder, you may trap them inside and provide 
+protections to those outside of it.
+
+At higher levels: When cast as a higher spell, the duration
+increases an hour for each level above 3rd.
+```
+
+```
+Major Image (3rd level)
+Casting Time: 1 action
+Range: 120 feet
+Duration: Concentration, up to 10 minutes
+You create the image of a creature, object, or some other visibile
+thing that fits within a 20ft cube. The illusion seems real, 
+featuring sounds, smells, and temperature appropriate to the thing
+you're depicting. The illusion cannot directly cause damage. The 
+illusion can be moved, provided you have line of sight with it and
+are within range, and it can be controlled. The illusion lacks
+physical rigidity, and objects pass through it.
+
+At higher levels: WHen cast as a 6th or higher level spell, the
+illusion lasts until dispelled, no concentration required.
+```
+
+```
+Minute Meteors (3rd level)
+Casting Time: 1 action
+Range: self
+Duration: Concentration, up to 10 minutes
+Six tiny meteors appear orbiting you for the spell's duration.
+When you cast, and as a bonus action on each following turn, you
+may send one or two of these meteors flying towards up to two 
+points within 120ft of you. On impact, each meteror explodes. 
+Creatures within 5ft of the explosion must make a Dexterity saving throw to halve 2d6 fire damage.
+
+At higher levels. The number of meteors increases by two for every
+level above 3rd this spell is cast.
+```
+
+```
+Nondetection (3rd level)
+Casting Time: 1 action
+Range: Touch
+Duration: 8 hours
+You hide a target from divination magic for the duration by
+touching them, provided they're no larger than 10ft in any dimension. Scrying, magic sensors, and divination magic can't
+effect the target.
+```
+
+```
+Phantom Steed (3rd level)
+Casting Time: 1 minute
+Range:  feet
+Duration: 1 hour
+A horse wreathed in shadow appears on the ground in an unoccupied 
+space of your choice within range. It's appearance is decided by 
+the caster, but it is equipped with a saddle, bit, and bridle. When
+the spell ends, the steed and it's gear fade for 1 minute before 
+vanishing. The stat block for the steed is included below.
+
+Phantom Steed
+Large Undead
+HP: 13(2d10+2)
+AC: 10
+Speed: 100ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 10| 12|  2| 11|  7|
+Attacks:
+Hooves(10ft) +5 2d4+3 bludgeoning
+```
+
+```
+Protection from energy (3rd level)
+Casting Time: 1 action
+Range: Touching
+Duration:  Concentration, up to 1 hour
+The willing creature you touch has
+resistance to one damage type of your choice 
+for the duration. Choices include acid,
+cold, fire, lightning, or thunder.
+```
+
+```
+Sending (3rd level)
+Casting Time: 1 action
+Range: Unlimited
+Duration: 1 round
+In your mind you speak a message of 25 words 
+or less. A creature you are familiar with 
+hears this message in your head, capable of 
+recognizing your voice. 
+```
+
+```
+Sleet storm (3rd level)
+Casting Time: 1 action
+Range: 150 feet
+Duration: Concentration, up to 1 minute
+Freezing rain and sleet fall in a 20ft tall, 40ft radius cylinder centered on a 
+point of your choice within range. The cylinder's interior is heavily obscured, 
+and exposed flames are extinguished. The ground within the area becomes slick 
+with ice, becoming difficult terrain and forcing a dexterity saving throw to 
+avoid falling prone for creature entering the space. Any creature starting it's 
+turn in the area must make a concentration check against your spell DC at the 
+start of their turn.
+```
+
+```
+Slow (3rd level)
+Casting Time: 1 action
+Range: 120 feet
+Duration: Concentration, up to 1 minute
+You affect a temporal distortion around up to six creatures of your choice in a 40ft 
+cube within range. Each target makes a wisdom save to avoid the effects of the spell. 
+Effected creatures experience halved speed, a -2 penalty to AC and dexterity saving 
+throws, and cannot use reactions. Additionally, effected creatures can use either a 
+bonus action or action, but not both, and cannot make multiple attacks on it's turn.
+
+An effected creature's attempt to cast a spell using an action requires the success of 
+a flat DC 11 roll, which allows it to complete at the start of the creature's next 
+turn. Each turn, a creature may end the spell by succeeding a wisdom saving throw at 
+the end of their turn.
+
+```
+
+```
+Speak With dead (3rd level)
+Casting Time: 1 action
+Range: 10 feet
+Duration: 10 minutes
+For the duration, you imbue a corpse no more than 10 days deceased with undeath.
+You may ask 5 questions for it to answer, but it's not guaranteed to know the
+answer, or report it truthfully to you.
+```
+
+```
+Spirit Shroud (3rd level)
+Casting Time: 1 bonus action
+Range: Self
+Duration: Concentration, up to 1 minute
+Spirits encircle you for the spell's duration, intangible and invulnerable. For
+the duration, your attacks deal 1d8 extra damage within a 10ft range. The damage
+is either radiant, necrotic, or cold, specified at casting time. A creature 
+taking this damage cannot regain hit points until the start of your next turn.
+Additionally, creatures of your choice starting within 10ft of you have their 
+speed reduced by 10ft until the start of your next turn.
+```
+
+```
+Summon (3rd level)
+Casting Time: 1 action
+Range: 90 feet
+Duration: Concentration, up to 1 hour
+You call forth a fey spirit, undead spirit, or 
+
+```
+
+```
+Thunder Step (3rd level)
+Casting Time: 1 action
+Range: 90 feet
+Duration: Instantaneous
+You teleport to an unoccupied space that you can see within the spell's range, 
+creating a thunderous boom where you were standing and causing each creature 
+within 10ft of the space you left to succeed a constitution saving throw to 
+halve 3d10 thunder damage. The thunder from this spell can be heard from up to 
+300ft away. If you're overencumbered, the spell fails. You may also teleport 
+another creature with you, provided they are not overencumbered.
+
+At higher levels: When you cast this spell as a 4th level or higher, the damage
+increase 1d10 for each level above 3rd.
 ```
 
 ```
