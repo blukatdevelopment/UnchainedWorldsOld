@@ -2878,7 +2878,7 @@ Conjure Demon (5th)
 Casting Time: 1 action
 Range: 60 feet
 Duration: Concentration, 1 hour
-You throw the object carbed with the name of a fiend at a point within range and speak a command word. The object explodes into a portal from which that creature emerges. bound by your will. The creature will follow your commands for the duration. When the spell ends, the demon regains control of itself and becomes hostile.
+You throw the object carved with the name of a fiend at a point within range and speak a command word. The object explodes into a portal from which that creature emerges. bound by your will. The creature will follow your commands for the duration. When the spell ends, the demon regains control of itself and becomes hostile.
 ```
 
 ```
