@@ -230,7 +230,10 @@ provided you have enough ammunition to do so.
 Instead of a normal ranged weapon attack, a weapon with the burst fire property
 may fire ten rounds of ammunition in rapid succession on a ten foot cube. Every
 creature inside the cube must succeed a DC15 dex saving throw or receive the
-weapon’s normal damage. This consumes ten rounds of ammunition.
+weapon’s normal damage. This consumes ten rounds of ammunition. If the creature
+is beyond the weapon's normal crange, the save is made with advantage. If
+the creature is within half the weapon's normal range, the creature is hit with
+twice the weapon's normal damage dice.
 
 ## Explosives
 ```

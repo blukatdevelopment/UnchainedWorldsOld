@@ -61,7 +61,7 @@ probably want some supplement books.
 - [runesmith](character_creation/classes/runesmith.md)
 - [soul forger](character_creation/classes/soul_forger.md)
 - [thief](character_creation/classes/thief.md)
-- [tinkerer](character_creation/classes/tinkerer.md)
+- [scientist](character_creation/classes/scientist.md)
 - [warrior](character_creation/classes/warrior.md)
 
 

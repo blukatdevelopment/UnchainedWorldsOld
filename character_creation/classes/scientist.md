@@ -168,36 +168,58 @@ The board won't approve of projects with humanoid test subjects, but that can't
 stop you! Roll three times on the table below, rerolling on a
 duplicate.
 ```
-+------+-------------------------------------------------------------------------------+
-| Roll |                            Experimentation Result                             |
-+------+-------------------------------------------------------------------------------+
-|    1 | Fangs that allow you to bite for 1d4+STR piercing damage.                     |
-|    2 | A pair of feathery wings that grant a 20ft flying speed.                      |
-|    3 | Frog tongue that can snatch items from up to 15 feet away.                    |
-|    4 | Abdominal tentacles that can hold and use items.                              |
-|    5 | You learn the firebolt cantrip, and can cast it by expending a stamina die.   |
-|    6 | Gorilla arms. You gain advantage on athletics checks using your arms and      |
-|    6 | unarmed attacks deal 1d4 bludgeoning.                                         |
-|    7 | Telepathy: You can read thoughts from within a 10 foot range.                 |
-|    8 | You saw things. Gazing upon the stars fills you with great existential dread. |
-|    9 | You tragically lose your sense of fashion.                                    |
-|   10 | You secrete a film of mucus.                                                  |
-|   11 | All the hair below your neckline falls off and does not grow back.            |
-|   12 | Quivering mouths appear on your body. You may eat with them.                  |
-|   13 | You sprout long antennae, granting 10ft of blindsight.                        |
-|   14 | You lay eggs now. That's a thing.                                             |
-|   15 | You can taste sound, smell colors, see flavors.                               |
-|   16 | You turn cold-blooded and are weak to cold damage.                            |
-|   17 | You lose your vision, and instead gain 30ft of blindsight.                    |
-|   18 | You turn into a sentient dog.                                                 |
-|   19 | A third eye grows on your forehead.                                           |
-|   20 | You experience mitosis, creating an identical evil twin.                      |
-+------+-------------------------------------------------------------------------------+
++------+-----------------------------------------------------------------------+
+| Roll |                            Experimentation Result                     |
++------+-----------------------------------------------------------------------+
+|    1 | Fangs that allow you to bite for 1d4+STR piercing damage.             |
+|    2 | A pair of feathery wings that grant a 20ft flying speed.              |
+|    3 | Frog tongue that can snatch items from up to 15 feet away.            |
+|    4 | Abdominal tentacles that can hold and use items.                      |
+|    5 | You learn the firebolt cantrip, and can cast it by expending a stamina|
+|      | die.                                                                  |
+|    6 | Gorilla arms. You gain advantage on athletics checks using your arms  |
+|      | and unarmed attacks deal 1d4 bludgeoning.                             |
+|    7 | Telepathy: You can read thoughts from within a 10 foot range.         |
+|    8 | You saw things. Gazing upon the stars fills you with great existential|
+|      | dread.                                                                |
+|    9 | You tragically lose your sense of fashion.                            |
+|   10 | You secrete a film of mucus.                                          |
+|   11 | All the hair below your neckline falls off and does not grow back.    |
+|   12 | Quivering mouths appear on your body. You may eat with them.          |
+|   13 | You sprout long antennae, granting 10ft of blindsight.                |
+|   14 | You lay eggs now. That's a thing.                                     |
+|   15 | You can taste sound, smell colors, see flavors.                       |
+|   16 | You turn cold-blooded and are weak to cold damage.                    |
+|   17 | You lose your vision, and instead gain 30ft of blindsight.            |
+|   18 | You turn into a sentient dog.                                         |
+|   19 | A third eye grows on your forehead.                                   |
+|   20 | You experience mitosis, creating an identical evil twin.              |
++------+-----------------------------------------------------------------------+
 ```
 
 ### Capstone
 Now that you've proven those idiots wrong and made a name for yourself, you
 make your greatest achievement yet.
+
+#### You need a good blaster at your side, kid
+You learn to produce the blaster weapons used at the end of the Dwarven age.
+The chart below shows the gold amount needed for materials for each experimental
+weapons system. Each item requires one hour of time crafting per each 10GP of
+materials. See the Blasters list at the bottom of the class description for
+information on each item.
+```
++------------------------+--------------+
+|          Item          | GP materials |
++------------------------+--------------+
+| Blaster Pistol         |          100 |
+| Blaster Scattergun     |          120 |
+| Blaster Submachine Gun |          120 |
+| Blaster Rifle          |          200 |
+| Blaster Machine Gun    |          300 |
+| Long Blaster           |          400 |
+| 30 Blaster Shells      |           50 |
++------------------------+--------------+
+```
 
 #### It lives!
 You create an artificial lifeform, an amalgam of corpse parts that comes
@@ -209,13 +231,13 @@ them.
 Creation
 This artificial lifeform is of your design, cobbled together from body parts.
 Huge Aberration
-HP: 21(3d8+6)
+HP: 26(4d8+6)
 AC: 12(tough hide)
 Speed: 30ft
 |STR|DEX|CON|INT|WIS|CHA|
 | 17| 12| 12| 16|  4| 10|
 Attacks:
-Slam +4 1d8 bludgeoning
+Slam +4 1d8+3 bludgeoning
 ```
 
 #### We need to go back
@@ -227,12 +249,36 @@ for as long as the portal remains open.
 
 #### Hang 10!
 You have developed a board that hovers up to 15 feet off the ground, granting
-you a flying speed of 30ft. 
+you a flying speed of 30ft. Flying past another creature does not provoke an
+attack of opportunity.
 
 #### Now you're thinking with portals!
 You have developed a 15lb gun which creates an orange or blue portal on smooth
 surfaces at least 5x5ft square. When both portals are deployed, one may pass
 into one and out the other, preserving momentum.
+
+#### Life, uh, finds a way
+You may now construct cloning vats, which require 500GP of materials each.
+Using a drop of blood, bone fragment, or other biological sample of a creature,
+you may now grow a clone of that creature. Aging can be accelerated up to ten
+times normal speed, and the clone may be held in stasis for up to 500 years
+before the power source of the cloning vats gives out. Once a clone is adult
+maturity, you may transfer a creature's memories to it, allowing you to use
+the clone as a replacement for yourself or another creature.
+
+#### You're on a rampage!
+You may now expend 15 stamina dice, accruing a deficit in order to transform.
+Your size becomes huge, and you have 50 hit points. Your speed is 50ft, you have
+a climbing speed of 30, and your unarmed attacks deal 3d8 bludgeoning damage.
+Your form resembles one of the following animals: ape, lizard, rat, rhino, crab,
+wolf. Refer to the lycanthrope's flowchart in order to determine how you behave.
+The GM might request control during transformation. The form lasts up to 8
+hours, or until you reach 0 hit points. When the transformation ends, you
+transform back to your normal form, naked and unconscious. For every 8 hours
+you spend unconscious, you regain one stamina die. During this time, you still
+gain levels of exhaustion from skipping food or drink. Others may put you in a
+comfortable bed or give other amenities to you while you are out, speeding up
+your recovery.
 
 ## Instruments
 
@@ -405,3 +451,46 @@ user may expend a stamina die to crank it for 10 minutes to recharge one charge.
 |        60 | 1d6            |
 +-----------+----------------+
 ```
+
+## Blasters
+A blaster operates by activating ground dragon bone in order to charge a spell
+crystal located in a barrel. A blaster launches a bolt of fire down range when
+fired. If a blaster is destroyed, all creatures within 10ft of it must succeed
+a DC 15 dexterity saving throw to halve damage from the weapon's explosion,
+which deals 1d4 radiant damage for each unspent blaster shell in the weapon.
+
+```
++------------------------+-----+---------+--------+----------+-------------------------------+
+|          Item          | lbs |  Range  | Damage | Capacity |        Properties             |
++------------------------+-----+---------+--------+----------+-------------------------------+
+| Blaster Pistol         |   2 | 20/30   | 1d6    | 5        | Light                         |
+| Blaster Scattergun     |   5 | 20/30   | 1d12   | 5        | Scattershot                   |
+| Blaster Submachine Gun |   5 | 20/30   | 1d6    | 30       | Light, Burst Fire             |
+| Blaster Rifle          |   9 | 100/400 | 1d8    | 30       | Burst Fire, Two-handed        |
+| Blaster Machine Gun    |  15 | 100/400 | 1d8    | 100      | Burst Fire, Two-handed, Heavy |
+| Long Blaster           |   9 | 200/600 | 1d12   | 5        | Overcharge                    |
+| 30 Blaster Shells      |   1 | --      | --     | --       | --                            |
++------------------------+-----+---------+--------+----------+-------------------------------+
+```
+
+### Properties
+
+#### Scattershot
+At 5ft, a scattershot weapon does not have disadvantage and deals triple the
+weapon's normal damage dice without a dexterity modifier. At greater than 20ft,
+the scattershot deals half of normal damage.
+
+#### Burst Fire
+Instead of a normal ranged weapon attack, a weapon with the burst fire property
+may fire ten rounds of ammunition in rapid succession on a ten foot cube. Every
+creature inside the cube must succeed a DC15 dex saving throw or receive the
+weapon’s normal damage. This consumes ten rounds of ammunition. If the creature
+is beyond the weapon's normal crange, the save is made with advantage. If
+the creature is within half the weapon's normal range, the creature is hit with
+twice the weapon's normal damage dice.
+
+#### Overcharge
+The operator may use their action to begin charging, which consumes three
+blaster shells. At the start of their next turn, the weapon may be fired,
+dealing three times the normal damage dice on a hit, without the dexterity
+modifier.
