@@ -281,12 +281,60 @@ creature.
 - Dispel Magic 
 - Feign Death 
 - Gaseous Form 
+- Fast Friends
+- Animate Dead
+- Clairvoyance
+- Feign Death
+- Glyph of Warding
+- Life Transference
+- Magic Circle
+- Incite Greed
+- Protection from Energy
+- Sending
+- Speak with dead
+- Spirit Shroud
+- Tongues
+- Water Walk
+- Aura of Vitality [Pending]
+- Beacon of Hope [Pending]
+- Create Food and Water [Pending]
+- Daylight [Pending]
+- Dispel Magic [Pending]
+- Mass Healing Word [Pending]
+- Meld into stone [Pending]
+- Revivify [Pending]
+- Motivational Speech [Pending]
+- Spirit Guardians [Pending]
+
 
 ### 4th
 - Miracle 
 - Life Mist 
+- Aura Of Life[Pending]
+- Aura of Purity[Pending]
+- Banishment[Pending]
+- Control Water[Pending]
+- Death Ward[Pending]
+- Freedom of Movement[Pending]
+- Guardian of Faith[Pending]
+- Locate Creature[Pending]
+- Stone Shape[Pending]
 
 ### 5th
 - Judgement 
 - Curse 
 - Angelic Transformation 
+- Commune [pending]
+- Contagion [pending]
+- Dawn [pending]
+- Dispel Evil and Good [pending]
+- Flame Strike [pending]
+- Geas [pending]
+- Greater Restoration [pending]
+- Hallow [pending]
+- Holy Weapon [pending]
+- Insect Plague [pending]
+- Mass Cure Wounds [pending]
+- Planar Binding [pending]
+- Raise Dead [pending]
+- Scrying [pending]

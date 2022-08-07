@@ -167,6 +167,7 @@ of your choice by 1. You cannot increase an ability score past 20.
 - Flying Weapon 
 - Levitate
 - Object of Desire
+- Mind Whip[pending]
 
 ### 3rd
 - Malevolent Guidance 
@@ -176,7 +177,8 @@ of your choice by 1. You cannot increase an ability score past 20.
 - Enemies Abound 
 - Force Sphere 
 - Dispel Magic 
-- Fast Friends 
+- Fast Friends
+- Intellect fortress [Pending]
 
 ### 4th
 - Ferroform 
@@ -184,3 +186,4 @@ of your choice by 1. You cannot increase an ability score past 20.
 - Dreamscape
 - Heart Crush 
 - Mind Meld
+- Psychic Lance [Pending]
