@@ -327,19 +327,19 @@ on itself.
 - Protection from energy
 - Sending
 - Sleet Storm
-- Slow [Pending]
+- Slow
 - Speak with dead
 - spirit shroud
-- stinking cloud [Pending]
-- summon X [Pending]
+- stinking cloud
 - Thunder step
-- tidal wave [Pending]
-- tiny servant [Pending]
-- tongues [Pending]
-- vampiric touch [Pending]
-- wall of sand [Pending]
-- wall of water [Pending]
-- water breathing [Pending]
+- tidal wave
+- tongues
+- vampiric touch
+- wall of sand
+- wall of water
+- water breathing
+- tiny servant
+- summon X [Pending]
 
 ### 4th
 - Stone skin 

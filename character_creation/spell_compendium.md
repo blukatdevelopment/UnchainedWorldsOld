@@ -1983,6 +1983,30 @@ Hooves(10ft) +5 2d4+3 bludgeoning
 ```
 
 ```
+Tiny Servant (3rd level)
+Casting Time: 1 action
+Range: Touch
+Duration: 8 hours
+One tiny, nonmagical object you touch becomes animated and sprouts tiny arms and legs, becoming a creature under your control until the spell ends. The spell's effect ends for that creature when it drops to 0 hit points.
+
+As a bonus action, you can mentally command the creature if it's within 120ft of you, you may extend a single command to any or all of them.
+
+At higher levels: When you cast this spell at 4th level or higher, you may animate two extra objects for each level above 3rd.
+The creature's stat block is provided below.
+
+Tiny Servant
+Tiny construct
+HP: 6(2d4)
+AC: 10
+Speed: 30ft, 30ft climb
+|STR|DEX|CON|INT|WIS|CHA|
+|  4| 16| 10|  2| 10|  1|
+Blindsight 60ft, blind beyond radius
+Attacks:
+Slam(10ft) +5 1d4 bludgeoning
+```
+
+```
 Protection from energy (3rd level)
 Casting Time: 1 action
 Range: Touching
@@ -2035,6 +2059,85 @@ turn. Each turn, a creature may end the spell by succeeding a wisdom saving thro
 the end of their turn.
 
 ```
+
+```
+Tongues (3rd level)
+Casting Time: 1 action
+Range: Touch
+Duration: 
+A creature you touch gains the ability to understand any spoken 
+language it hears, and to speak intelligibly to any creature that 
+knows at least one language.
+```
+
+```
+Vampiric Touch (3rd level)
+Casting Time: 1 action
+Range: Self feet
+Duration: Concentration, up to 1 minute
+Your hand emanates an aura of draining shadow. Perform a melee spell 
+attack against a creature in range, dealing 3d6 necrotic damage on a 
+hit. You regain hit points equal to half the amount of necrotic 
+damage dealt by this attack. For the duration, you can make the 
+attack again on each of your turns as an action.
+```
+
+```
+Wall of Sand (3rd level)
+Casting Time: 1 action
+Range: 90 feet
+Duration: Concentration, up to 10 minutes
+A wall of swirling sand appears on the ground at a point you can see 
+within range, up to 30ft long, 10ft high, and 10ft thick. The wall 
+blocks line of sight, but not movement. Any creature entering the 
+wall is blinded while inside, requiring 3ft of movement per 1ft of 
+distance moved.
+```
+
+```
+Wall of Water (3rd level)
+Casting Time: 1 action
+Range: 60 feet
+Duration: Concentration, up to 10 minutes
+Choose a point on the ground within range that you can see. You 
+create a wall of water up to 30ft long, 10ft high, and 1 foot thick. 
+Alternatively, you may instead make a ringed wall no more than 20ft 
+in diameter, 20ft high, and 1ft thick. The wall vanishes when the 
+spell ends, and the wall's space is considered difficult terrain.
+
+Ranged attacks passing through the wall have disadvantage, and 
+incoming fire damage is halved. Cold damage spells that pass through 
+the wall cause the area of the wall to freze solid in a 5ft square. 
+If broken, the hole in the wall is not refilled with water.
+```
+
+```
+Stinking cloud (3rd level)
+Casting Time: 1 action
+Range: 90 feet
+Duration: Concentration, up to 1 minute
+Pick a point within range to create a 20ft radius sphere of amber, putrid gas. The cloud spreads around corners, and it's area is heavily obscured by the stinking gas for the duration of the spell.
+
+Every creature that is within the cloud at the start of it's turn makes a constitution saving throw to avoid spending it's action that turn reacting to the stink. Automatic success is granted to creatures that cannot smell or do not need to breathe.
+
+A weak wind may disperse the cloud after 4 rounds, while a strong one disperses it after 1 round.
+```
+```
+Tidal Wave (3rd level)
+Casting Time: 1 action
+Range: 120 feet
+Duration: Instantaneous
+Select an area within range to crash down a wave of water up to 30ft long, up to 10ft wide, and up to 10ft high. Every creature in that areay makes a dexterity saving throw to halve 4d8 bludgeoning damage and avoid being knocked prone. The water spreads out across the ground in all directions, extinguishing any unprotected flames in the area and within 30ft of it. The water then vanishes.
+```
+
+```
+Water Breathing (3rd level)
+Casting Time: 1 action
+Range: 30 feet
+Duration: 24 hours 
+Up to ten willing creatures of your choice within range that you can see gain the ability to breathe underwater until the spell ends. 
+```
+
 
 ```
 Speak With dead (3rd level)
