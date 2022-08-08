@@ -80,7 +80,7 @@ in secured locations. Choose one of the following:
 You learn one principle that applies broadly to your body of work. This guides
 your attitudes towards
 
-#### Know thy enemy
+#### Know your enemy
 When you spend one hour and a stamina die performing an autopsy of a monster's
 corpse, you gain an intimate understanding of it's anatomy. You learn details
 such as movement speed, resistances, and abilities. With the details fresh in
@@ -89,6 +89,16 @@ familiarity is lost when you perform another autopsy, as the new monster takes
 the place of the old in your mind. You retain facts about it, but lose
 advantage. Humanoids, slimes, and the undead cannot be targeted with this
 ability.
+
+### Know yourself
+You refuse to lose yourself in your pursuits. Through self-experimentation and
+careful training, you unlock your true potential. You gain every feat for your
+lineage, regardless of whether you meet the ability score requirements.
+
+### Knowledge for it's own sake
+Your focus on learning to learn, and do so indiscriminantly. This unlocks your
+true learning potential. When you make an investigation check, you may now add
+a 1d4 to your roll.
 
 ### Hit point Increase
 Your maximum hit points increase by 1d4+CON.
