@@ -519,7 +519,6 @@ in or enters a fire makes a DC 14 DEX save to avoid 1d6 fire damage.
 #### Potion of Healing
 A flask of pink liquid which heals 2d4+2 hit points when consumed.
 
-
 #### Caltrops
 You may drop caltrops over a space of four 5ft squares that are connected. When
 you do, any creature who enters that space must make a DC 14 dex save. On a
