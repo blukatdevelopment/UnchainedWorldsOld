@@ -193,14 +193,14 @@ in the Creating Monsters section above. Your monster's size is now eithe small
 or medium, and their hit points increase by 5+CON.
 - Normal: CON +4, STR +4, Multi-attack
 - Fire: CHA +4, resistant to fire damage, can cast 
-- Water: CHA +4,
-- Grass: WIS +4,
-- Electric: CHA +2
-- Ice: CHA +2,
+- Water: CHA +4, 
+- Grass: WIS +4, 
+- Electric: CHA +2, 
+- Ice: CHA +2, 
 - Poison: CON +4, 
-- Flying: DEX +4,
-- Psionic: INT +4,
-- Rock: AC +2,
-- Dark: WIS+4 
+- Flying: DEX +4, 
+- Psionic: INT +4, 
+- Rock: AC +2, 
+- Dark: WIS+4, 
 - Metal: AC +3,
-- Candy: WIS+4 
+- Candy: WIS+4, 

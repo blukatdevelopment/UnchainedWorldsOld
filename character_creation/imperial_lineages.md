@@ -57,46 +57,48 @@ when making skill checks with it.
 You learned to give speeches, and to deliver both biting criticism and sharp
 retorts. You are proficient in persuasion.
 
-## 2 High Elf
-The elves of old wealth and high class made the best of the shifting powers by
-incorporating themselves into human nobility at their soonest convenience.
-Raised amidst hanging hardens, libraries, and market squares, the high elves
-learned to look inward.
+## 2 The silent
+These humans practice stoic traditions handed down to them from various
+magical creatures. Children of the silent take a vow of silence from a young
+age, and their rite of passage into adulthood is to confirm their vow by the
+removal of their tongue. To communicate, the silent use a variety of hand signs
+known as handspeak. The ways of the silent are guarded from outsiders, and
+involve a harsh regimen of martial arts, scholarly study, and magical training.
 
 ```
-Age: mature at 18, live up to 750 years
-Languages: Common, Elvish
+Age: mature at 18, live less than a century
+Languages: Common(read/write and hear, but not speak), handspeak
 Size: Medium
 Speed: 30
-Ability Score Increase:  +2 DEX, +1 INT
+Ability Score Increase: +2 WIS, +1 DEX
 ```
 
 ### Sword Dance (requires at least 15 DEX)
 You practice the traditional sword dance of your people, and in doing so
 you gain proficiency with short swords and scimitars.
 
-### Magic Initiate (requires at least 15 INT)
-You've learned the theory behind arcane and have learned to fuel weak magic
-with your blood. You are proficient in arcana and may expend a stamina_die to cast
-the prestidigitation cantrip found in the spell compendium volume 1.
+### Magic Crystal (requires at least 15 INT)
+You proudly wear a crystal around your neck, and know how to use it for magic.
+Choose one cantrip from the Runesmith spell list. It is stored inside your
+crystal, and may be cast by touching your crystal and consuming a stamina die.
 
-### Fey Ancestry (requires at least 15 WIS)
-Through meditation and discipline, you've tapped into your trace fey blood.
-You have advantAge: on wisdom saving throws made to resist spells, and you
-may not be put to sleep by magic.
+### Trained Ears (requires at least 15 WIS)
+You've spent your life listening intently, and it has paid off. You have
+advantage when making perception checks that rely on hearing.
 
 ## 3 Bronzehammer
-The dwarves that changed with the times found their knowledge of minerals to be
-particularly lucrative. Though many swung pickaxes in mines in the early days,
-bronzehammers gain their name from their prominant role as the industrial
-backbone of the human empires. While not all bronzehammers are smiths, they
-carry with them the reputation for the absolute finest weapons and armor.
+Humans with a culture of near-worship of metal. Bronzehammers often decorate
+their homes with metal ingots, and it's not uncommon for them to believe that
+metal holds spiritual significance. From an early age, bronzehammer children
+flock to mines and forges to learn how metal is harvested and transformed into
+finished products. Metal tongue is the language of the bronzehammers, made
+specifically to efficiently discuss minerology and metalworking.
 
 ```
-Age: mature at 18, live up to 350 years
-Languages: Common
+Age: mature at 18, live less than a century
+Languages: Common, Metal Tongue
 Size: Medium
-Speed: 25
+Speed: 30
 Ability Score Increase: +2 CON, +1 INT
 ```
 
@@ -104,13 +106,13 @@ Ability Score Increase: +2 CON, +1 INT
 Early in life you ran a mandatory rotation through the smith's guild apprentice
 program. You are proficient in smith's tools.
 
-### Dwarven Armor Training (requires at least 13 CON)
-You are proficient with light and medium armor.
+### Armor Training (requires at least 13 CON)
+You spent time training in You are proficient with light and medium armor.
 
 ### Ancestral Warhammer (requires at least 15 INT)
-You know dwarvish, and your rite of passage: was the forging of an ancestral
-warhammer with dwarvish runes that tell the story of your ancestors. You are
-proficient with warhammers, and start with this ancestral warhammer.
+The runes of metal tongue spell out the names of the ancestors before you on this
+ceremonial warhammer, and your name has been added to it. You are proficient
+with warhammers.
 
 ## 4 Cogger
 Many gnomes found they were welcomed into empirial land with open arms when
@@ -260,42 +262,43 @@ When you move 20 feet in a straight line before attacking with your bite, you
 may attempt to either grapple the target, or shove them prone as part of the
 attack. Your athletics check is made with advantage.
 
-## 7 Uprooted
-In the wake of imperial expansion, strategic resources were seized in the name
-of a growing industrial appetite. Mine after mine, tunnel after tunnel, became
-property of kings and emperors. Those that resisted discovered the extent of
-empirical science and magic. The desheveled masses were forced to retreat
-increasingly further into the bowels of the Earth, or else surface in hopes
-of finding caves not yet under imperial control. These dwarves were historically
-the first to reside entirely above ground, a displaced people neither suited
-nor interested in taking up the life of surface dwellers.
+## 7 Deep folk
+The human residents of the caves and mines that honeycomb many regions, most
+deep folk never venture into the sunlight more than once or twice in their life.
+Subsisting on farming fungi and hunting underground monsters, the deep folk are
+often proud warriors. 
 
 ```
-Age: mature at 18, live up to 350 years
-Languages: Common, Dwarvish
+Age: mature at 18, live less than a century
+Languages: Common
 Size: Medium
 Speed: 25
 Ability Score Increase: +2 CON, +2 STR
 ```
 
 ### Ranged Decapitation (requires at least 15 STR)
-You have honed your full rAge: in battle. You are proficient with the battle axe
-and great axe. You may consume a stamina_die to throw either of them at a range of
-20/40. On a hit, this attack deals critical damage.
+You have honed your full rage: in battle. You are proficient with the battle axe
+and great axe. You may consume a stamina_die to throw either of them at a range
+of 20/40. On a hit, this attack deals critical damage.
 
 ### Tunnel Fighter (requires at least 15 DEX)
-When a hostile creature enters within 5 feet of you, you may consume a stamina_die
-to make an attack against that creature. This does not consume a reaction.
+When a hostile creature enters within 5 feet of you, you may consume a stamina
+die to make an attack against that creature. This does not consume a reaction.
 
-### Dwarven Toughness (requires at least 15 CON)
-For every stamina_die you have, you gain +2 maximum hit points.
+### Deep folk Toughness (requires at least 15 CON)
+Living off of mushrooms and magical monster parts fills you with an unnatural
+fortude. Whenever you roll hit points, you may add an extra +2 for each die
+rolled.
 
-### Dark Vision (requires at least 13 WIS)
-Life in the tunnels has trained your eyes to see beyond the torch light's center.
-You may see in 60 feet of darkness as if it is dim light, or 60 feet of dim
-light as if it is bright light. You cannot make out color in this light. On
-the surface you suffer disadvantAge: on skill checks relying on vision and attack 
-rolls made in direct sunlight.
+### Dim Vision (requires at least 13 WIS)
+Life in the tunnels has trained your eyes to see by the dim light of mushrooms.
+You may see dim light as bright light for 60 feet. You cannot make out color in
+this light. On the surface you suffer disadvantage on perception checks that
+rely on sight.
+
+### Tunnel Sight (requires at least 15 WIS)
+You are able to locate objects, and especially creatures with only the aid of
+your ears. You gain blindsight for 30 feet.
 
 ## 8 Wild Folk
 On the periphery of imperial territories, where warlords and city states retain
@@ -378,24 +381,30 @@ Your feet have talons that you've learned to perform powerful natural
 attacks with, dealing 1d6 piercing damAge: on a hit.
 
 ## 9 Greenfoot
-Some elves which were partly responsible for the collapse of the dwarven
-empires were reluctant to see a new hegemony simply replace the last. Those with
-power consolidated it and retreated to enclaves just outside the sphere of 
-imperial influence. Others concealed their identities or sought out remote
-refuges.
+These humans often congregate on the periphery of civilization, where they look
+after forest gardens, refusing to till the land or use metal tools. A popular
+greenfoot practice is to bring their newborns to fairy circles to beg for
+blessings and a fae name.
 
 ```
-Age: mature at 18, live up to 750 years
-Languages: Common, Elvish
+Age: mature at 18, live less than a century
+Languages: Common
 Size: Medium
 Speed: 30
-Ability Score Increase:  +2 DEX, +1 WIS
+Ability Score Increase:  +2 CHA, +1 WIS
 ```
 
+### The natural way
+You may craft simple melee weapons and shields of stone, wood, and other natural
+materials. Each item made this way requires 1 hour and access to natural 
+resources. These weapons are nearly worthless in trade, and break upon rolling 
+a natural 1 on an attack roll with them.
+
 ### Meditation (requires at least 13 INT)
-In place of traditional sleep, you may meditate and rest without losing 
-consciousness. You find that this technique is more efficient than conventional
-sleep, and that you only need 4 hours of meditation each night to sustain you.
+The fae gifted you as a child. In place of traditional sleep, you may meditate
+and rest without losing consciousness. You find that this technique is more
+efficient than conventional sleep, and that you only need 4 hours of meditation
+each night to sustain you.
 
 ### Wheel Of Life(requires at least 15 WIS)
 Your fey ancestry has enticed the mysteries of nature to unravel themselves to
@@ -403,11 +412,26 @@ you and reveal their underlying patterns. With this closeness you gain a magical
 hold over certain natural processes. You may use your action to expend one hit 
 die and cast the druidcraft cantrip from the spell compendium volume 1.
 
-### Nature's Tongue(requires at least 15 CHA)
-You have learned not only a better appreciation of nature, but you have also
-learned to bend your mind and speak to it. You may use your action to expend a
-stamina_die in order to utter a simple phrase or concept no longer than 6 seconds
-to one creature. The creature will understand it.
+### Fae Name(requires at least 13 CHA)
+The fae bestow you with a name. When you speak or whisper this name to the fae,
+they will immediately know what major deeds you have or have not done thus far
+in your life.
+
+### True Name(requires at least 15 CHA)
+You learn the true name of either Earth, Water, Wind, or Fire. You may expend a
+stamina die to cast a cantrip based on the element, or you may expend three
+stamina dice to cast a higher level spell, as shown in the table below.
+
+```
++---------+----------------+------------------+
+| Element |    Cantrip     |      Spell       |
++---------+----------------+------------------+
+| Earth   | Mold earth     | Stoneshield      |
+| Water   | Shape Water    | Water Cannon     |
+| Wind    | Gust           | Gust of Wind     |
+| Fire    | Control Flames | Blazing Scorcher |
++---------+----------------+------------------+
+```
 
 ## 10 Wayfarer
 Gnomes pursued their interests with or without the backing of the empires of 

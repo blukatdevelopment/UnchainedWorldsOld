@@ -285,8 +285,11 @@ on itself.
 - Spirit Barrier 
 - Enhance Ability 
 - Gentle Repose 
-- Locate Object 
-- Blazing Scorcher [pending]
+- Locate Object
+- Gust of Wind
+- Blazing Scorcher
+- Water Cannon
+- Eathbind
 - Arcane Lock [pending]
 - Blindness/Deafness [pending]
 - Blur [pending]
@@ -299,13 +302,11 @@ on itself.
 - Detect Thoughts [pending]
 - Dragon's Breath [pending]
 - Dust Devil [pending]
-- Eathbind [pending]
 - Enhance Ability [pending]
 - Enlarge/Reduce [pending]
 - Flaming Sphere [pending]
 - Gentle Repose [pending]
 - Gift of Gab [pending]
-- Gust of Wind [pending]
 - Hold Person [pending]
 - Invisibility [pending]
 - Glowing COin [pending]

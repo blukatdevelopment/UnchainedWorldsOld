@@ -1884,6 +1884,70 @@ action to deal 1d8 more necrotic damage and restore half of that damage, rounded
 up.
 ```
 
+```
+Gust of wind (2nd)
+Casting time: 1 action
+Range: Self(60ft line)
+Duration: Concentration, up to 1 minute
+A 10ff-wide line of strong wind blasts from you 60ft in a direction of your
+choosing. Creatures that start their turn in the line must succeed a strength
+saving throw to avoid being pushed 15 feet away from you in a direction
+following the line. The space of the wind is considered difficult terrain.
+
+With a bonus action each turn, you may change the direction of the wind coming
+from you.
+```
+
+```
+Blazing Scorcher (2nd)
+Casting Time: 1 action
+Range: 30ft
+Duration: Instantaneous
+You produce a 5ft-wide line of roaring flame that extends 30ft in a direction
+of your choice. Creatures in the line must succeed a dexterity saving throw to
+halve 3d8 fire damage.
+
+At higher levels: When you cast this spell as a 3rd level or higher spell, the
+damage increases by 1d8 per level above 2nd. 
+```
+
+```
+Water Cannon (2nd)
+Casting Time: 1 action
+Range: 60ft
+Duration: Concentration, up to 1 minute
+You produce a foot-wide stream of water that sprays up to 60 feet in a straight
+line. The stream will automatically push objects up to 50lbs 5ft each turn.
+A creature sprayed size medium or smaller must succeed a strength save or else
+fall prone. A prone creature cannot stand up while sprayed with the stream.
+Each turn, you may use your action to spray a target.
+
+At higher levels: When cast as a 3rd level spell, the stream can move 75lb
+objects up to 15ft each turn, and creatures that fail their strength save are
+pushed 15ft.
+```
+
+```
+Earthbind (2nd)
+Casting Time: 1 action
+Range: 300ft
+Duration: Concentration, up to 1 minute
+You focus on one creature you can see within range, and glowing glyphs appear
+as an intangible box around them. The creature must succeed a strength saving
+throw to avoid it's flying speed dropping to 0ft for the spell's duration. An
+airborne creature may succeed a strength save in order to land safely.
+```
+
+```
+Stoneshield (2nd)
+Casting Time: 1 reaction, taken when targeted by a ranged attack.
+Range: self
+Duration: Instantaneous
+Sensing an incoming attack, you raise a four-inch-thick sheet of stone from the
+ground in front of you, completely obscuring your form. The shield becomes the
+target of the attack. The sheet has an AC of 16 and 15HP.
+```
+
 ## 3rd level spells
 
 ```
