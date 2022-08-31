@@ -106,19 +106,22 @@ DC = 8 + PROF BONUS + CHA. Save can be repeated on start of turn.
 - Natural armor: Your natural AC is 12+DEX
 - Dark vision: you can see 30ft in darkness, 30 more feet in dim light. You are colorblind.
 
-
 ## Outlier
 You are a statistically unlikely specimen. Either roll or pick from the
 following options:
-
-- Wise Beast
-- Construct
-- Shapeshifter
-- Specter
-- Tiny
-- Huge
-- Corrupted
-
+```
++------+--------------+
+| Roll |  Body Type   |
++------+--------------+
+| 1    | Wise Beast   |
+| 2-3  | Construct    |
+| 4    | Shapeshifter |
+| 5    | Specter      |
+| 6    | Tiny         |
+| 7    | Huge         |
+| 8    | Corrupted    |
++------+--------------+
+```
 
 ## Wise Beast
 Whether you are a domesticated or wild species, common or exotic, you are more

@@ -140,7 +140,7 @@ in larger constructions such as cranes, trebuchets, and drawbridges, while
 others focus on smaller gadgets and coil computers. 
 
 ```
-Languages: Common, Gnomish
+Languages: Common
 Ability Score Increase: +2 INT, +1 DEX
 ```
 
