@@ -1,4 +1,4 @@
-# Imperial Age Cultures
+# Age of Man
 ```
 Gone is the age of titans.
 Felled are the great brutes which feasted on bone of man and god.
@@ -18,18 +18,19 @@ as inevitable as it's rise. Once the last overlord fell, the empire boiled over
 in a war of self-determination for many of it's constituent states. When the dust
 settled, only a shriveled core of the empire remained and the remainder of the
 world exploded in unrestricted vitality and growth in spite of the great
-network of imperial trade routes vanishing overnight.
+network of trade routes vanishing overnight.
 ```
 
-## 1 Imperial
-Those who benefited most from the imperial core's wealth and abundance of
+## 1 Gold Robe
+Those who benefited most from the empire of man's core's wealth and abundance of
 imports long for the return of the empire. Time is an arrow pointing forward for
-imperial society, and the fall set time back a hundred years in their eyes. The
+gold robe society, and the fall set time back a hundred years in their eyes. The
 prevailing social theory is one of distinct hierarchy, where the enlightened and
-well-educated elite make decisions on behalf of the less civilized masses.
+well-educated elite make decisions on behalf of the less civilized masses. The
+gold robes are named after the status item, a robe with golden fiber sewn in.
+The wealthier the individual, the more gold and the rarer the fabric used.
 ```
 Languages: Common
-Ability Score Increase:  +1 all abilities
 ```
 
 ### Well-rounded education
@@ -79,7 +80,6 @@ involve a harsh regimen of martial arts, scholarly study, and magical training.
 
 ```
 Languages: Common(read/write and hear, but not speak), handspeak
-Ability Score Increase: +2 WIS, +1 DEX
 ```
 ### Silent Takedown (requires at least 15 STR)
 When you use a shove or grapple attack on an unsuspecting target, you may do
@@ -113,7 +113,6 @@ specifically to efficiently discuss minerology and metalworking.
 
 ```
 Languages: Common, Metal Tongue
-Ability Score Increase: +2 CON, +1 INT
 ```
 
 ### Trade School
@@ -141,7 +140,6 @@ others focus on smaller gadgets and coil computers.
 
 ```
 Languages: Common
-Ability Score Increase: +2 INT, +1 DEX
 ```
 
 ### Repair (requires at least 15 DEX)
@@ -178,7 +176,6 @@ by proximity to smoke, coal, and oil.
 
 ```
 Languages: Common, one other
-Ability Score Increase: +2 STR, +1 WIS
 ```
 
 ### Apprenticeship
@@ -209,7 +206,6 @@ a rewarding one.
 
 ```
 Languages: Common
-Ability Score Increase: +2 STR, +2 CON
 ```
 ### Strong back (requires 13 STR)
 You can carry 20 extra pounds of carry weight before you are overencumbered.
@@ -245,7 +241,6 @@ often proud warriors.
 
 ```
 Languages: Common
-Ability Score Increase: +2 CON, +2 STR
 ```
 
 ### Ranged Decapitation (requires at least 15 STR)
@@ -279,7 +274,6 @@ opposition to the empire, wild folk can't seem to agree on much else.
 
 ```
 Languages: Common
-Ability Score Increase: +2 DEX, +1 STR
 ```
 
 ### Sword training (requires at least 15 strength)
@@ -313,7 +307,6 @@ blessings and a fae name.
 
 ```
 Languages: Common
-Ability Score Increase:  +2 CHA, +1 WIS
 ```
 
 ### The natural way
@@ -363,7 +356,6 @@ entertainment or rare services such as minor divination.
 
 ```
 Languages: Common, One other
-Ability Score Increase: +2 INT, +1 WIS
 ```
 
 ### Special Interest
