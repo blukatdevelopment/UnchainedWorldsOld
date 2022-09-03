@@ -45,11 +45,11 @@ probably want some supplement books.
 #### Backgrounds
 [100 backgrounds](character_creation/100_backgrounds.md)
 
-#### Lineages
-[imperial lineages](character_creation/imperial_lineages.md)
+#### Cultures
+[Cultures](character_creation/cultures_volume_1.md)
 
 #### Spells
-[spell compendium volume 1](character_creation/spell_compendium_1.md)
+[spells](character_creation/spell_compendium.md)
 
 #### Classes
 - [alchemist](character_creation/classes/alchemist.md)
