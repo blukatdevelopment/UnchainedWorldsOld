@@ -146,8 +146,8 @@ Deadly Crimes (Public execution)
 - She already painted Wyn, but Wyn paid her in exposure
 
 #### 8: Una (f)
-- Researcher coming to learn about Dwarven architecture
-- Explains that the temple in Southhorn was originally ancient Dwarven
+- Researcher coming to learn about Titan architecture
+- Explains that the temple in Southhorn was originally Titan
 
 #### 9: Teasag (f)
 - Farmer leaving after dragon burned her village down
@@ -338,7 +338,7 @@ to the temple of stoicism, the illicit markets have been scrubbed clean, and
 the port now services the first ship of Inglewood's royal navy.
 
 Many of the residents fled after the occupation, but many more moved underground
-into the tunnels built by uprooted dwarves and kobolds. While the Duke of 
+into the tunnels built by deep folk. While the Duke of 
 Inglewood knows of the underground, he's nonetheless unprepared to launch an 
 invasion of the tunnels, instead opting to lay siege to the vast tunnel network
 . It is a well-known secret that The Jackal did not die in the invasion, and is
@@ -508,7 +508,7 @@ connectedness
 - DC 16: Drawing his symbol creates a magical eye for him to see through
 1. Cavil Tarro's guide to Bimros: Make an investigation check
 - DC 5: God of law, symbol is an arrow turned upward and to the right
-- DC 7: Created humans to rule fields, dwarves for mountains, elves for forests
+- DC 7: Created humans in his image
 - DC 10: Demands followers follow laws of their society
 - DC 12: Demands forgiveness granted to criminals that repent and atone
 - DC 14: Rewards executing criminals lawfully in his name and offering their 
@@ -530,17 +530,17 @@ virtuous
 - DC 14: Their avatar is genderfluid
 - DC 16: Glyph is a simplified form of the Identify spell
 1. Cavil Tarro's guide to Southhorn: Make an investigation check
-- DC 5: was a port city in the dwarven age, but was abandoned
+- DC 5: was a port city in the Titan age, but was abandoned
 - DC 7: was resettled by mercenaries and privateers
-- DC 10: the town's temple is the only dwarven structure still standing
-- DC 12: dwarven elders were buried beneath the city
+- DC 10: the town's temple is the only Titan structure still standing
+- DC 12: Titan elders were buried beneath the city
 1. Cavil Tarro's guide to Inglewood: Make an investigation check
 - DC 5: feudal kingdom that predates human era
 - DC 7: king claims to have been ordained by Bimros
 - DC 10: the royal court has more power than the king
 - DC 12: nobility are deemed knights of Bimros
 1. Cavil Tarro's guide to Omaria: Make an investigation check
-- DC 5: federation created by revolting dwarven territories
+- DC 5: federation created by revolting bronzehammer-dominated territories
 - DC 7: governed by council of elected senators who convene in capitol yearly
 - DC 10: gains new states by covertly funding revolutions
 - DC 12: extensive use of mercenaries to supplement traditionally weak army
@@ -570,7 +570,7 @@ Basement
  │  ┌───────────────────┐ ├────┐  └─────────────────────┘            │
  │  │                   │ │    │                                     │
  │  │                   ├─┘   ┌┴──────────────────────┐              │
- │  │   Dwarven Tomb    │     │                       │              │
+ │  │   Titan Tomb      │     │                       │              │
  │  │                   │     │                       │              │
  │  │                   │     │    Storage Room       │              │
  │  │                   │     │                       │              │
@@ -2201,9 +2201,9 @@ Exits:
 - East: passage to 17
 - South: Passage to 20
 
-### 17 Dwarf Vault
+### 17 Titan Vault
 The SouthEast portion of the room contains a walled-off vault with a heavy metal 
-door that is locked(DC 16). There is a dwarven inscription:
+door that is locked(DC 16). There is a Titan inscription:
 
 ```
 Those that enter the vault
@@ -2212,18 +2212,18 @@ of the elders.
 ```
 
 Entering the vault reveals a row of six tombs. Disturbing one of the tombs
-causes all six dwarves to rise wielding battleaxes. One has dwarven runes on it
+causes all six Titans to rise wielding battleaxes. One has Titan runes on it
 that glow a dim orange(+1 battleaxe). There's a draft in the room.
 
 ```
-Dwarven Guardian
-The Dwarven warriors of past ages were buried in their armor in case they
+Titan Guardian
+The Titan warriors of past ages were buried in their armor in case they
 ever needed to rise again after death to defend their tombs.
 Medium Undead
 XP: 100
 HP: 26 (5d6+6)
 AC: 16 (chain mail)
-Speed: 25ft
+Speed: 30ft
 |STR|DEX|CON|INT|WIS|CHA|
 | 17|  8| 14|  4|  4|  4|
 Resistant: Non-magical physical
@@ -2241,7 +2241,7 @@ Exits:
 - East: Tunnel 30ft up on wall leads to 15
 
 ### 18 Trapped Room
-Room has an inch of water in it flowing South. Graffiti in dwarven 
+Room has an inch of water in it flowing South. Graffiti in Titan
 `Beware of ceiling axes`. Crudely carved slots in ceiling. Pressure plate 
 triggers fall into pit of leech crawlers.
 
@@ -2437,7 +2437,7 @@ Exits:
 - East: Tunnel to 24
 - South: Tunnel to 25
 
-### 22 Dwarf Nursery
+### 22 Titan Nursery
 Nursery has rows of stone creches, mobiles with gems. 3d4+1, each worth 5gp. 
 Leech crawler egg sacs in creches. There are six sacks, and each has a 1 in 2 
 chance to spawn a swarm of leech crawlers each turn. Egg sacs have an AC of 8 

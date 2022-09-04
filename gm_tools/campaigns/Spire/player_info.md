@@ -81,6 +81,12 @@ their wish list to have. The keeper gives the thumbs up, and now their character
 has bespoke features.
 ```
 
+## Lethality countermeasures
+Any character that dies can be resurrected by spending 100GP on a ritual to do
+so. If you find yourself feeling uncomfortable with the level of lethality,
+please reach out to keepers, who may help offer mechanisms to make you feel
+comfortable.
+
 ## Playing in sessions
 When keepers prepare content for a session, they may post it in the `#sessions`
 channel, where they will put all discussion of the session into a thread.
