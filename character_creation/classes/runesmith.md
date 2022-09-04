@@ -42,16 +42,16 @@ SL = Spell Level
 +-----+-------+-----------+-------+----+-----------------------------------------------+
 | LVL | XP    | SD  | Prof| Runes | SL |    Features                                   |
 +-----+-------+-----+-----+-------+----+-----------------------------------------------+
-|   1 |     0 | 1d4 | +1  |     0 |  1 | Runebook, Ritual Casting                      |
-|   2 |   300 | 2d4 | +1  |     2 |  1 | Runesmithery, Runecasting, Hit point Increase |
-|   3 |   900 | 3d4 | +2  |     4 |  1 | Extra Cantrip, Hit point Increase             |
-|   4 |  1200 | 4d4 | +2  |     8 |  2 | Runecasting Style, Hit point re-roll          |
-|   5 |  2700 | 5d4 | +2  |    10 |  2 | Ability Score Increase                        |
-|   6 |  5000 | 6d4 | +2  |    12 |  3 |                                               |
-|   7 |  7500 | 7d4 | +3  |    16 |  3 | Runesmithing Technique                        |
-|   8 | 10000 | 8d4 | +3  |    18 |  4 |                                               |
-|   9 | 15000 | 9d4 | +4  |    20 |  4 | Extra Cantrip                                 |
-|  10 | 20000 |10d4 | +4  |    24 |  5 | Ability Score Increase                        |
+|   1 |      0| 1d4 | +1  |     0 |  1 | Runebook, Ritual Casting                      |
+|   2 |    300| 2d4 | +1  |     2 |  1 | Runesmithery, Runecasting, Hit point Increase |
+|   3 |    900| 3d4 | +2  |     4 |  1 | Extra Cantrip, Hit point Increase             |
+|   4 |   1800| 4d4 | +2  |     8 |  2 | Runecasting Style, Hit point re-roll          |
+|   5 |   3600| 5d4 | +2  |    10 |  2 | Ability Score Increase                        |
+|   6 |   6100| 6d4 | +2  |    12 |  3 |                                               |
+|   7 |   9100| 7d4 | +3  |    16 |  3 | Runesmithing Technique                        |
+|   8 |  13100| 8d4 | +3  |    18 |  4 |                                               |
+|   9 |  22600| 9d4 | +4  |    20 |  4 | Extra Cantrip                                 |
+|  10 |  44600|10d4 | +4  |    24 |  5 | Ability Score Increase                        |
 +-----+-------+-----+-----+-------+----+-----------------------------------------------+
 ```
 

@@ -39,7 +39,7 @@ character was brought up in.
 You can either freely choose, or roll 3d4 to determine your character's body
 type. Note that the bodytype governs the mechanics of your character, but not
 your appearance. A character with a common body may look like a human,
-anthropomorphic, goblin, or many other options.
+anthropomorphic animal, goblin, or many other options.
 [Body Types](../../../character_creation/3d4_body_types.md)
 
 ### Class
@@ -61,6 +61,26 @@ core rules for a comprehensive list of general adventuring gear they may
 purchase.
 [Core Rules](../../../core_rules.md)
 
+### Mechanical tweaks
+If you have tweaks you'd like, talk them through with your keeper. If you want,
+we can have an example.
+
+```
+A completely hypothetical player creates a catfolk character with a common
+bodytype. His character has claws, and he wants this to be reflected. He asks
+the keeper if it's ok if his unarmed attacks deal slashing damage instead of
+bludgeoning. The request is so simple and minor that they immediately say yes.
+Thinking it over, he decided to ask for an alternative. Maybe his character's
+unarmed attacks could deal 1d4 slashing damage? The keeper thinks about it,
+shrugs, then allows it. He thinks, then says "ok, but what if they could also
+see in the dark for 60 feet, and they could also climb up trees, and they could
+also resist cold damage due to their fur, and gained extra proficiencies because
+cats are stealthy, and also-" and the keeper stops him. "Woah, that's a lot. 
+Let's just keep this simple." So the player thinks, picks a couple items from
+their wish list to have. The keeper gives the thumbs up, and now their character
+has bespoke features.
+```
+
 ## Playing in sessions
 When keepers prepare content for a session, they may post it in the `#sessions`
 channel, where they will put all discussion of the session into a thread.
@@ -76,7 +96,7 @@ a thread for it in the `#adventures` channel.
 - Campaign: a setting, pool of player characters, and their adventures and sessions.
 - Session: a roughly four-hour period of time when people play.
 - Adventure: multiple sessions where the same players play out one sceneario or
-complete on set of objectives.
+complete one set of objectives.
 - Keeper: the person at the table who controls the world and gives rulings.
 - Foundry: a virtual tabletop software used to store character sheets and to
 host a battlegrid.

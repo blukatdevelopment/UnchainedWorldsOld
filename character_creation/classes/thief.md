@@ -46,16 +46,16 @@ Prof = proficiency bonus
 +-----+-------+-----+------+--------+--------------------------------------------+
 | LVL |    XP | SD  | Prof | Tricks |       Features                             |
 +-----+-------+-----+------+--------+--------------------------------------------+
-|   1 |     0 | 1d6 | +1   |      2 | Tricks, Thieves' Cant                      |
-|   2 |   300 | 2d6 | +1   |      3 | Expertise, Hit point Increase              |
-|   3 |   900 | 3d6 | +2   |      4 | Ability Score Increase, Hit point Increase |
-|   4 |  1200 | 4d6 | +2   |      5 | Hit point re-roll                          |
-|   5 |  2700 | 5d6 | +2   |      6 |                                            |
-|   6 |  5000 | 6d6 | +2   |      7 | Ability Score Increase                     |
-|   7 |  7500 | 7d6 | +3   |      8 |                                            |
-|   8 | 10000 | 8d6 | +3   |      9 |                                            |
-|   9 | 15000 | 9d6 | +4   |     10 |                                            |
-|  10 | 20000 |10d6 | +4   |     11 | Ability Score Increase                     |
+|   1 |      0| 1d6 | +1   |      2 | Tricks, Thieves' Cant                      |
+|   2 |    300| 2d6 | +1   |      3 | Expertise, Hit point Increase              |
+|   3 |    900| 3d6 | +2   |      4 | Ability Score Increase, Hit point Increase |
+|   4 |   1800| 4d6 | +2   |      5 | Hit point re-roll                          |
+|   5 |   3600| 5d6 | +2   |      6 |                                            |
+|   6 |   6100| 6d6 | +2   |      7 | Ability Score Increase                     |
+|   7 |   9100| 7d6 | +3   |      8 |                                            |
+|   8 |  13100| 8d6 | +3   |      9 |                                            |
+|   9 |  22600| 9d6 | +4   |     10 |                                            |
+|  10 |  44600|10d6 | +4   |     11 | Ability Score Increase                     |
 +-----+-------+-----+------+--------+--------------------------------------------+
 ```
 

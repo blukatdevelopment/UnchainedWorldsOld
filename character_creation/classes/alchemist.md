@@ -52,13 +52,13 @@ TN = Techniques
 |   1 |     0 | 1d4 | +1  | 1 | Novice Alchemy                            |
 |   2 |   300 | 2d4 | +1  | 2 | Lesser Splash Potions, Hit point Increase |
 |   3 |   900 | 2d4 | +2  | 3 | Big Dipper, Quick Brew, Hit point Increase|
-|   4 |  1200 | 3d4 | +2  | 4 | Journeyman Alchemy, Hit point re-roll     |
-|   5 |  2700 | 3d4 | +2  | 5 | Ability Score Increase                    |
-|   6 |  5000 | 3d4 | +2  | 6 | GlassBlower                               |
-|   7 |  7500 | 3d4 | +3  | 7 | Expert Alchemy                            |
-|   8 | 10000 | 3d4 | +3  | 7 | Greater Splash Potions                    |
-|   9 | 15000 | 3d4 | +4  | 7 | Master Alchemy                            |
-|  10 | 20000 | 3d4 | +4  | 7 | Ability Score Increase                    |
+|   4 |  1800 | 3d4 | +2  | 4 | Journeyman Alchemy, Hit point re-roll     |
+|   5 |  3600 | 3d4 | +2  | 5 | Ability Score Increase                    |
+|   6 |  6100 | 3d4 | +2  | 6 | GlassBlower                               |
+|   7 |  9100 | 3d4 | +3  | 7 | Expert Alchemy                            |
+|   8 | 13100 | 3d4 | +3  | 7 | Greater Splash Potions                    |
+|   9 | 22600 | 3d4 | +4  | 7 | Master Alchemy                            |
+|  10 | 44600 | 3d4 | +4  | 7 | Ability Score Increase                    |
 +-----+-------+-----+-----+---+-------------------------------------------+
 ```
 

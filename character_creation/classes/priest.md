@@ -43,16 +43,16 @@ Prof = proficiency bonus
 +-----+-------+-----+-------------+----------------------------+
 | LVL |XP     | SD  | Spell Level |        Features            |
 +-----+-------+-----+-------------+----------------------------+
-|   1 |     0 | 1d4 |   Cantrip   | Divine Spellcasting        |
-|   2 |   300 | 2d4 | 1           | Domain, Hit point Increase |
-|   3 |   900 | 3d4 | 2           | Hit point Increase         |
-|   4 |  1200 | 4d4 | 2           | Hit point re-roll          |
-|   5 |  2700 | 5d4 | 3           | Ability Score Increase     |
-|   6 |  5000 | 6d4 | 3           | Channel Divinity           |
-|   7 |  7500 | 7d4 | 4           |                            |
-|   8 | 10000 | 8d4 | 4           |                            |
-|   9 | 15000 | 9d4 | 5           |                            |
-|  10 | 20000 |10d4 | 5           | Ability Score Increase     |
+|   1 |      0| 1d4 |   Cantrip   | Divine Spellcasting        |
+|   2 |    300| 2d4 | 1           | Domain, Hit point Increase |
+|   3 |    900| 3d4 | 2           | Hit point Increase         |
+|   4 |   1800| 4d4 | 2           | Hit point re-roll          |
+|   5 |   3600| 5d4 | 3           | Ability Score Increase     |
+|   6 |   6100| 6d4 | 3           | Channel Divinity           |
+|   7 |   9100| 7d4 | 4           |                            |
+|   8 |  13100| 8d4 | 4           |                            |
+|   9 |  22600| 9d4 | 5           |                            |
+|  10 |  44600|10d4 | 5           | Ability Score Increase     |
 +-----+-------+-----+-------------+----------------------------+
 ```
 

@@ -47,16 +47,16 @@ SL = Spell Level
 +-----+-------+-----+-----+----+----+------------------------------------------------------+
 | LVL | XP    | SD  | Prof| PD | SL |           Features                                   |
 +-----+-------+-----+-----+----+----+------------------------------------------------------+
-|   1 |     0 | 1d4 | +1  | -- |  0 | Invisible Hand, Silent Voice                         |
-|   2 |   300 | 2d4 | +1  | D2 |  1 | Psionic Guidance, Hit point Increase                 |
-|   3 |   900 | 3d4 | +2  | D4 |  1 | Psionic Spellcasting, Meditation, Hit point Increase |
-|   4 |  1200 | 4d4 | +2  | D4 |  1 | Psionic Ability, Hit point re-roll                   |
-|   5 |  2700 | 5d4 | +2  | D6 |  2 | Ability Score Increase                               |
-|   6 |  5000 | 6d4 | +2  | D6 |  2 | Psionic Ability                                      |
-|   7 |  7500 | 7d4 | +3  | D6 |  3 |                                                      |
-|   8 | 10000 | 8d4 | +3  | D6 |  3 | Psionic Ability                                      |
-|   9 | 15000 | 9d4 | +4  | D8 |  4 |                                                      |
-|  10 | 20000 |10d4 | +4  | D8 |  4 | Ability Score Increase                               |
+|   1 |      0| 1d4 | +1  | -- |  0 | Invisible Hand, Silent Voice                         |
+|   2 |    300| 2d4 | +1  | D2 |  1 | Psionic Guidance, Hit point Increase                 |
+|   3 |    900| 3d4 | +2  | D4 |  1 | Psionic Spellcasting, Meditation, Hit point Increase |
+|   4 |   1800| 4d4 | +2  | D4 |  1 | Psionic Ability, Hit point re-roll                   |
+|   5 |   3600| 5d4 | +2  | D6 |  2 | Ability Score Increase                               |
+|   6 |   6100| 6d4 | +2  | D6 |  2 | Psionic Ability                                      |
+|   7 |   9100| 7d4 | +3  | D6 |  3 |                                                      |
+|   8 |  13100| 8d4 | +3  | D6 |  3 | Psionic Ability                                      |
+|   9 |  22600| 9d4 | +4  | D8 |  4 |                                                      |
+|  10 |  44600|10d4 | +4  | D8 |  4 | Ability Score Increase                               |
 +-----+-------+-----+-----+----+----+------------------------------------------------------+
 ```
 

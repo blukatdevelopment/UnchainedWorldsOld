@@ -53,13 +53,13 @@ MNVS = Maneuvers
 |   1 |     0 | 1d6 | +1  |   1 | Scrap, Smith                   |
 |   2 |   300 | 2d6 | +1  |   1 | Hit point Increase             |
 |   3 |   900 | 3d6 | +2  |   2 | Hit point Increase             |
-|   4 |  1200 | 4d6 | +2  |   2 | Second Wind, Hit point re-roll |
-|   5 |  2700 | 5d6 | +2  |   3 | Ability Score Increase         |
-|   6 |  5000 | 6d6 | +2  |   4 |                                |
-|   7 |  7500 | 7d6 | +3  |   5 | Advanced Smith                 |
-|   8 | 10000 | 8d6 | +3  |   5 | Ability Score Increase         |
-|   9 | 15000 | 9d6 | +4  |   6 |                                |
-|  10 | 20000 |10d6 | +4  |   6 | Ability Score Increase         |
+|   4 |  1800 | 4d6 | +2  |   2 | Second Wind, Hit point re-roll |
+|   5 |  3600 | 5d6 | +2  |   3 | Ability Score Increase         |
+|   6 |  6100 | 6d6 | +2  |   4 |                                |
+|   7 |  9100 | 7d6 | +3  |   5 | Advanced Smith                 |
+|   8 | 13100 | 8d6 | +3  |   5 | Ability Score Increase         |
+|   9 | 22600 | 9d6 | +4  |   6 |                                |
+|  10 | 44600 |10d6 | +4  |   6 | Ability Score Increase         |
 +-----+-------+-----+-----+-----+--------------------------------+
 ```
 
