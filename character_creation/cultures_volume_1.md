@@ -23,12 +23,10 @@ network of trade routes vanishing overnight.
 
 ## 1 Gold Robe
 Those who benefited most from the empire of man's core's wealth and abundance of
-imports long for the return of the empire. Time is an arrow pointing forward for
-gold robe society, and the fall set time back a hundred years in their eyes. The
-prevailing social theory is one of distinct hierarchy, where the enlightened and
-well-educated elite make decisions on behalf of the less civilized masses. The
-gold robes are named after the status item, a robe with golden fiber sewn in.
-The wealthier the individual, the more gold and the rarer the fabric used.
+imports long for the return of the empire. Named for their status symbol, each
+individual in gold robe society wears a robe with gold fiber sewed in. The
+greater the prestige, the more gold and rarer the fabric used in the robe's
+construction.
 ```
 Languages: Common
 ```
