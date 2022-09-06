@@ -30,6 +30,9 @@ your chosen array to your ability scores in any order you'd like.
 Standard array: [15, 14, 13, 12, 10, 8]
 Min-max array: [17, 14, 13, 10, 9, 7]
 
+You may add a bonus ability score increase of +2 to one ability and +1 to
+another.
+
 ### Culture
 You can either freely choose, or roll 1d10 to determine the culture your
 character was brought up in.
