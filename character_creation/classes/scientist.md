@@ -90,12 +90,12 @@ the place of the old in your mind. You retain facts about it, but lose
 advantage. Humanoids, slimes, and the undead cannot be targeted with this
 ability.
 
-### Know yourself
+#### Know yourself
 You refuse to lose yourself in your pursuits. Through self-experimentation and
 careful training, you unlock your true potential. You gain every feat for your
-lineage, regardless of whether you meet the ability score requirements.
+culture, regardless of whether you meet the ability score requirements.
 
-### Knowledge for it's own sake
+#### Knowledge for it's own sake
 Your focus on learning to learn, and do so indiscriminantly. This unlocks your
 true learning potential. When you make an investigation check, you may now add
 a 1d4 to your roll.
