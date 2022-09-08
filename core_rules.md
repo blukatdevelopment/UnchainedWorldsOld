@@ -154,7 +154,7 @@ Every character has a proficiency bonus which increases with level progression. 
 Specific skills define a very narrow action, like agriculture, tracking, or poetry. They are not defined exhaustively, and can be added by supplementary books.
 
 ### General Skills
-Some skills are general in nature, and may apply to a wide variety of situations. When a feat, lineage, or class grants you proficiency in a skill, it will likely be in general skills. They are listed explicitly below. Each may be mapped to a specific ability, depending on how the skill is used.
+Some skills are general in nature, and may apply to a wide variety of situations. When a feat, culture, or class grants you proficiency in a skill, it will likely be in general skills. They are listed explicitly below. Each may be mapped to a specific ability, depending on how the skill is used.
 - Acrobatics - Acts of agility such as performing a backflip or landing from a great height.
 - Animal Handling - Befriending, calming, or commanding animals.
 - Arcana - Recalling knowledge related to subjects of a magical nature.
@@ -174,29 +174,15 @@ Some skills are general in nature, and may apply to a wide variety of situations
 - Stealth - Knowing how to not be seen.
 - Survival - Learning to track, hunt, skin, tan, slaughter, trap, locate clean water, and navigate using the stars.
 
-## Lineage
-Your lineage describes both the physical traits and cultural traditions handed down to you by your ancestors. Naturally, these details are mutable. That said, here’s the unskilled human. Additional lineages can be found in supplemental books.
+## Culture
+Your culture decides the beliefs, traditions, norms, and taboos of the community
+you grew up in. Each individual feature of a culture can be adopted or rejected,
+but either case should provide an interesting choice.
 
-### Human
-**Languages:** Common
-**Size:** Medium
-**Speed:** 30 feet
-**Ability Score Increase:** +1 to each ability score
-
-#### Bonus Skills
-You gain proficiency with two skills of your choice.
-
-## Background
-Your background describes the life you had before you began adventuring. It decides your societal status, skills, and general level of wealth. A brief backstory which describes the following elements works well:
-1. How did this background shape your character?
-2. Why did your character leave their background?
-3. What relationships, if any, does your character have with the other player characters.
-The one background provided is the farmer.
-
-### Farmer
-You bent your back under a blazing sun to till the land and raise a crop.
-**Skills:** agriculture, proficiency with sickles
-**Items:** Common clothes, a chicken, a 30lb sack of wheat berries, and a pouch containing 5 silver pieces
+## Body Type
+Your body type decides the mechanical differences your physiology provides. The
+common body type has 30ft movement speed, is medium size, and lives up to one
+century.
 
 ## Class
 Your class decides your hit dice, class features, and informs the role you'll 
@@ -931,29 +917,42 @@ MMMMMMMMMMMMMMMMMMMMMMWX00XWMMMMMMMMMMMMMMMMMMMMMM
 
 ```
 ### Water
-An adventurer needs to drink at least one gallon of water each day, or gain one level of exhaustion.
-If they have a water container, they may use it throughout the day, refilling it at water sources, if any can be found nearby.
-In extremely hot or dry terrain, an adventurer instead needs to drink two gallons.
+An adventurer needs to drink at least one gallon of water each day, or lose one
+stamina die. If they have a water container, they may use it throughout the day, 
+refilling it at water sources, if any can be found nearby. In extremely hot or 
+dry terrain, an adventurer instead needs to drink two gallons.
 
 ### Food
-An adventure needs to eat at least one pound of food each day, or gain one level of exhaustion.
+An adventure needs to eat at least one pound of food each day, or lose one
+stamina die.
 
 ### Sleep
-An adventurer must sleep at least 6 hours each day. Failing this, they gain one level of exhaustion each time they complete
-a day without sleep. One may not sleep in armor.
+An adventurer must sleep at least 6 hours each day. Failing this, they lose one
+stamina die each time each morning without sleep. One may not sleep in
+armor.
+
+### Stamina
+An adventurer has stamina dice to measure their state of physical endurance.
+They may not expend a stamina die if they have none left. If an adventurer loses
+a stamina die when they have none left, they must succeed a DC 15 constitution
+save to avoid falling unconscious for 1d4 hours. If you lose stamina dice when
+unconscious in this way, roll the die and subtract it from your hit points. If
+your hit points run out this way, you die.
 
 ### Clothing
 If exposed to the elements in an extremely hot or cold environment, an adventurer must succeed a DC 14 constitution saving
-throw or gain a level of exhaustion. This check repeats for each hour spent exposed to the elements. An adventurer may avoid
+throw or lose a stamina die. This check repeats for each hour spent exposed to the elements. An adventurer may avoid
 these checks by staying in shelter or wearing clothing appropriate to the weather.
 
 ### Rest
-An adventurer may wish to rest to recover their physical and mental stamina as well as perform maintenance of their 
-gear. A rest takes 8 hours, and can occur once per day. An adventurer may regain one stamina die for each amenity that
-their rest includes(See amenities table below). Adventurers may also expend up to one stamina die for each amenity during
-the rest. An adventurer may expend a stamina die to roll it, add their constitution bonus, and restore that many hit
-points. If an adventurer is not currently lacking in water, food, or sleep, they may expend a stamina die to remove one
-level of exhaustion. Many inns, taverns, and temples will offer differing amenities.
+An adventurer may wish to rest to recover their physical and mental stamina as 
+well as perform maintenance of their gear. A rest takes 8 hours, and can occur
+once per day. Provided an adventurer is not suffering from starvation, exposure
+to harsh elements(such as ice or desert sun), or dehydration, they may regain 
+one stamina die for each amenity that their rest includes(See amenities table
+below). Adventurers may also expend up to one stamina die for each amenity 
+during the rest. An adventurer may expend a stamina die to roll it, add their
+constitution bonus, and restore that many hit points.
 ```
 +---------------------+
 |   Rest amenities    |
@@ -1051,22 +1050,6 @@ action to make a DC 15 medicine check from within 5ft.
 - attacks against have advantage
 - any attack within 5ft is a critical hit
 
-### Exhaustion
-Exhaustion is strain on one's body. You can gain and lose levels of exhaustion
-as your body gains and loses this strain.
-
-```
-+-------+------------------------------------------------+
-| Level |                     Effect                     |
-+-------+------------------------------------------------+
-|     1 | Disadvantage on Ability Checks                 |
-|     2 | Speed halved                                   |
-|     3 | Disadvantage on Attack rolls and Saving Throws |
-|     4 | Hit point maximum halved                       |
-|     5 | Speed reduced to 0                             |
-|     6 | Death                                          |
-+-------+------------------------------------------------+
-```
 
 ## Magic
 
