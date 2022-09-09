@@ -8,10 +8,10 @@
 #      \____/\___/|_|\___/|___/___/\__,_|___/                                  #
 ################################################################################
 ```
-# Colossus!
-You are a being that does not dabble in honing skill or learning arcane tradition or begging for power from a god, all of your power comes from raw, unfiltered, brute strength. (note that the names of a lot of stuff is placeholder also the class is written for HP values to already cater to a huge sized player character)
+# Colossus
+You are a being that does not dabble in honing skill or learning arcane tradition or begging for power from a god, all of your power comes from raw, unfiltered, brute strength.
 
-Class prerequisite: Must be huge size creature.
+Class prerequisite: Must be huge size creature. Due to this restriction the math for hp calculation has already been done for you. 
 
 
 ## Starting Hitpoints
@@ -20,9 +20,12 @@ You start with 20 + Con Hitpoints
 ## Proficiencies:
 ```
 +---------------+---------------------------------+
-| Armor         | Heavy                           |
+| Armor         | Heavy, Shields                  |
++---------------+---------------------------------+
 | Weapons       | Simple Weapons, Martial Weapons |
++---------------+---------------------------------+
 | Tools         | None                            |
++---------------+---------------------------------+
 | Saving Throws | Strength, Constitution          |
 +---------------+---------------------------------+
 ```
@@ -58,7 +61,7 @@ COMU = Colossal Mutations
 |   3 |   900 | 3d10  | +2  |  2    | Hit point Increase            |
 |   4 |  1200 | 4d10  | +2  |  3    | Hit point re-roll             |
 |   5 |  2700 | 5d10  | +2  |  3    | Ability Score Increase        |
-|   6 |  5000 | 6d10  | +2  |  3    | Extra Attack                  |
+|   6 |  5000 | 6d10  | +2  |  3    | Extra Attack, Magical Might   |
 |   7 |  7500 | 7d10  | +3  |  4    |                               |
 |   8 | 10000 | 8d10  | +3  |  4    | Ability Score Increase        |
 |   9 | 15000 | 9d10  | +4  |  5    |                               |
@@ -70,25 +73,25 @@ COMU = Colossal Mutations
 ### Monstrous Physique 
 Your natural body has been honed by the methods which you use it for, Choose two physiques from the following which describe how you have shaped the all purpose tool of destruction you are.
 
-### Intimidating
+### Phisique: Intimidating
 You gain a +5 to intimidation checks and have advantage on these checks against medium or smaller creatures
 
-### Frightening Presence
+### Phisique: Frightening Presence
 You may expend a stamina die to force a creature at least two sizes smaller than you that sees you to make a DC 16 wisdom saving throw or be frightened of you for 10 minutes
 
-### Siege Beast
+### Phisique: Siege Beast
 You deal double damage to structures, objects, and constructs.
 
-### Ramming Speed
+### Phisique: Ramming Speed
 You may expend a stamina die and run 40 feet in a straight line towards a wall, instantly ramming a hole the size of your body through it (This ability can pierce 40 feet of wood, 20 feet of stone, 10 feet of steel, 5 feet of lead, and 1 foot of magical metal like adamantium or mithril)
 
-### Climbing Claws
+### Phisique: Climbing Claws
 You gain a climbing speed of 30 feet and your unarmed strikes deal slashing damage
 
-### Aquatic Form
+### Phisique: Aquatic Form
 You gain a swimming speed of 25 feet, you are buoyant enough to float in water, and can hold your breath for 1 hour
 
-### Agile Giant
+### Phisique: Agile Giant
 You gain an additional 20 feet of movement speed and may expend a stamina die to dash as a bonus action on your turn.
 
 ### Colossal Mutations
@@ -101,7 +104,7 @@ Your maximum hit points increase by 2d10+CON.
 Your maximum hit points increase by 2d10+CON.
 
 ### Hit point re-roll
-Now, and again each time you gain a level from now on, you recalculate your hit points. Roll 3d10 and add your CON modifier three times. If the value rolled is higher than your current max hit points, you may keep it.
+Now, and again each time you gain a level from now on, you recalculate your hit points. Roll 6d10 and add your CON modifier three times. If the value rolled is higher than your current max hit points, you may keep it.
 
 ### Extra Attack
 When you use your action to make an attack, you may make two attacks instead.
@@ -109,11 +112,14 @@ When you use your action to make an attack, you may make two attacks instead.
 ### Ability Score increase
 You may increase one ability score by 2, or you can increase two ability scores of your choice by 1. You cannot increase an ability score past 20.
 
+### Magical Might
+Your body has Mutated innate magical or counter-magical ability, making your unarmed strikes overcome immunity and resistance to nonmagical melee. 
+
 ### Epic Mutation
 You gain a mutation signifying the peak of your raw strength, choose one mutation from the following.
 
 ##### Genetic Reshuffle 
-As an action you may expend all of your stamina dice and change all the mutations currently affecting your body. This change takes 10 minutes and during that time you are incapacitated as your body shifts and grows its new mutations. You may exchange this mutation for gargantuan growth or another epic mutation but the change is irreversible and takes 1 hour during which you are incapacitated as your body shifts and grows its new epic mutation.
+As an action you may expend a number of your stamina dice and change an amount of mutations currently affecting your body equal to the amount of stamina dice you expended. This change takes 10 minutes and during that time you are incapacitated as your body shifts and grows its new mutations. You may exchange this mutation for gargantuan growth or another epic mutation but the change is irreversible and takes 1 hour during which you are incapacitated as your body shifts and grows its new epic mutation, This exchange consumes 10 stamina dice.
 
 ##### Gargantuan Growth 
 - Your body grows to become gargantuan size. 
@@ -136,7 +142,7 @@ Your arms become approximately the length of your legs, allowing you to expend a
 Your skin grows thick and leathery, or hard and scaly proofing you against attacks. You gain resistance to piercing, bludgeoning, and slashing attacks from non-magical weapons.
 
 ### Fire Bladder.
-You grow a gland in your throat that holds chemicals which, when combined, can release blasts of corrosive liquid or roaring flame. As an action you may expend two stamina dice to expell a 100 foot line or a 30 foot cone of roaring flames or corrosive acid forcing everyone in the area to make a DC 14 dexterity saving throw or take (amount of damage), taking half as much on a success.
+You grow a gland in your throat that holds chemicals which, when combined, can release blasts of corrosive liquid or roaring flame. As an action you may expend two stamina dice to expell a 100 foot line or a 30 foot cone of roaring flames or corrosive acid forcing everyone in the area to make a DC 14 dexterity saving throw or take 4d8 fire or acid damage, taking half as much on a success.
 
 ### Elemental Absorption.
 Pick two damage types from acid, cold, fire, lightning, or thunder. You become resistant to these two damage types.
@@ -153,17 +159,32 @@ You gain a forked tongue or a heightened sense of smell from an already existing
 ### Shield-like Callus.
 You grow a flat, hard growth on the forearm attached to your nondominant hand, this growth gives you a +2 to AC as if it were a shield. You are not capable of wielding a shield in your offhand while your form is mutated in this way.
  
+### Keen Sight.
+Your eyes grow large and reflect light in low light conditions. You gain perception on sight based perception checks and darkvision out to a range of 120 feet, you have disadvantage on perception checks to see things directly in sunlight.
+
+### Shrunken Prefrontal Cortex.
+The risk management centers of your brain shrink. All attacks you make are made at advantage, but all attacks made against you have advantage aswell
+
+### Secondary Arms.
+You grow a pair of secondary arms underneeth your primary ones. Your carrying and pushing capacity doubles and you are capable of making an unarmed strike as a bonus action. You require 50 extra pounds of food every day to nourish these new appendages. 
+
+### Reactive Immunity.
+Rather than growing a physiologically obvious mutation your body becomes prepared to rapidly form a wide array of them. As a reaction to having a status effect applied to yourself you may expend and roll a stamina die as your body makes a reactive mutation to negate the status effect. You become immune to the triggering status effect for a number of hours equal to the roll of your stamina die, you may not take this reaction again until the full time has elapsed. Some examples of reactive mutations would be growing extra sets of eyes to negate blindness, the instant formation of an additional filtration organ in your circulatory system to negate the poisoned status effect, or a rapid increase of mass in your legs to negate the prone condition. This reactive mutation may have unforseen benefits or drawbacks as decided by your keeper.
+
 ### Limited Wings. (Level 9 Required)
 Wing-like appendages grow from your back, you may expend a stamina die to gain a flying speed of 60 feet for 6 seconds as you expend a large amount of energy to lift your body. As a reaction, you may use this ability to reduce your slow your descent for a safe landing when falling.
 
 ### Rampage. (level 9 Required)
 The part of your brain responsible for anger expands, heightening your anger response. As a bonus action, you may expend five hit dice to enter a trance-like rampage state for the next hour. While in this ramage state you gain the following benefits and penalties:
 
-You regain 1d10 hitpoints for every 100 pounds of consumable material you ingest
-Your mutations require no stamina dice to activate
-You gain advantage on Strength and Constitution saving throws
-Your attacks deal highest possible damage regardless of your rolls
-You are unable to concentrate on anything other than destruction, making you automatically fail saving throws and checks with abilities other than Strength, Dexterity, and Constitution
-You lack all foresight and once you accomplish your original reason for entering rampage you begin destroying and killing indiscriminately.
+- You regain 1d10 hitpoints for every 100 pounds of consumable material you ingest
+- Your mutations require no stamina dice to activate
+- You gain advantage on Strength and Constitution saving throws
+- Your attacks deal highest possible damage regardless of your rolls
+- You are unable to concentrate on anything other than destruction, making you automatically fail saving throws and checks with abilities other than Strength, Dexterity, and Constitution
+- You lack all foresight and once you accomplish your original reason for entering rampage you begin destroying and killing indiscriminately.
 
-If you wish to end your rampage early you may make a DC 20 Wisdom saving throw as a free action, ending your rampage on a success. Once you take this free action you may not do so again until a minute has passed. If your wisdom modifier is too low to beat this DC you pass on a natural roll of 20. 
+If you wish to end your rampage early you may make a DC 20 Wisdom saving throw as a free action, ending your rampage on a success. Once you take this free action you may not do so again until a minute has passed. If your wisdom modifier is too low to beat this DC you pass on a natural roll of 20.
+
+### Titan's Roar. (Level 9 Required)
+Your throat canal becomes funnel shaped, allowing you to expel a roar of great magnitude as if through a megaphone. As an action you may expend 3 hit dice and roll them, 4 creatures of your choice which can hear the roar gain temporary hitpoints equal to the amount rolled, become size large, and gain advantage on saving throws, ability checks, and attack rolls as you call for their DNA to reshape them into a more powerful form. After 1d4 minutes has elapsed they return to their normal form and lose the temporary hitpoints.
