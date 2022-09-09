@@ -8,7 +8,7 @@
 #      \____/\___/|_|\___/|___/___/\__,_|___/                                  #
 ################################################################################
 ```
-# Colossus
+# Colossus!
 You are a being that does not dabble in honing skill or learning arcane tradition or begging for power from a god, all of your power comes from raw, unfiltered, brute strength. (note that the names of a lot of stuff is placeholder also the class is written for HP values to already cater to a huge sized player character)
 
 Class prerequisite: Must be huge size creature.
