@@ -127,7 +127,7 @@ As an action you may expend a number of your stamina dice and change an amount o
 - Your strength becomes 24. 
 - Your Dexterity becomes 3.
 - You gain 10 additional feet of walking speed.
-- Your HP becomes 60 plus your constitution modifier.
+- Your HP becomes 70 plus 3 times your constitution modifier.
 
 ##### Another Mutation
 You may select an additional colossal mutation.
