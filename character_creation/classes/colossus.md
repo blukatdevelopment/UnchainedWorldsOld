@@ -265,6 +265,7 @@ action you may not do so again until a minute has passed. If your wisdom
 modifier is too low to beat this DC you pass on a natural roll of 20.
 
 ### Titan's Roar. (Level 9 Required)
+<<<<<<< HEAD
 Your throat canal becomes funnel shaped, allowing you to expel a roar of great 
 magnitude as if through a megaphone. As an action you may expend 3 hit dice and
 roll them, 4 creatures of your choice which can hear the roar gain temporary 
@@ -272,3 +273,6 @@ hitpoints equal to the amount rolled, become size large, and gain advantage on
 saving throws, ability checks, and attack rolls as you call for their DNA to 
 reshape them into a more powerful form. After 1d4 minutes has elapsed they
 return to their normal form and lose the temporary hitpoints.
+=======
+Your throat canal becomes funnel shaped, allowing you to expel a roar of great magnitude as if through a megaphone. As an action you may expend 3 hit dice and roll them, 4 creatures of your choice which can hear the roar gain temporary hitpoints equal to the amount rolled, become size large, and gain advantage on saving throws, ability checks, and attack rolls as you call for their DNA to reshape them into a more powerful form. After 1d4 minutes has elapsed they return to their normal form and lose the temporary hitpoints.
+>>>>>>> 30f46c3a046dad8c6ea565a82dbf685b93ec3485
