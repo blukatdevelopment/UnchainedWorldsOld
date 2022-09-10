@@ -63,12 +63,12 @@ COMU = Colossal Mutations
 |   2 |   300 | 2d10  | +1  |  1    | Mutations, Hit point Increase |
 |   3 |   900 | 3d10  | +2  |  2    | Hit point Increase            |
 |   4 |  1800 | 4d10  | +2  |  3    | Hit point re-roll             |
-|   5 |  3600 | 5d10  | +2  |  3    | Ability Score Increase        |
-|   6 |  6100 | 6d10  | +2  |  3    | Extra Attack, Magical Might   |
-|   7 |  9100 | 7d10  | +3  |  4    |                               |
-|   8 | 13100 | 8d10  | +3  |  4    | Ability Score Increase        |
-|   9 | 22600 | 9d10  | +4  |  5    |                               |
-|  10 | 44600 |10d10  | +4  |  6    | Epic Mutation                 |
+|   5 |  3600 | 5d10  | +2  |  4    | Ability Score Increase        |
+|   6 |  6100 | 6d10  | +2  |  4    | Extra Attack, Magical Might   |
+|   7 |  9100 | 7d10  | +3  |  5    |                               |
+|   8 | 13100 | 8d10  | +3  |  5    | Ability Score Increase        |
+|   9 | 22600 | 9d10  | +4  |  6    |                               |
+|  10 | 44600 |10d10  | +4  |  7    | Epic Mutation                 |
 +-----+-------+-------+-----+-------+-------------------------------+
 ```
 
@@ -204,8 +204,9 @@ in an area.
 
 ### Shield-like Callus.
 You grow a flat, hard growth on the forearm attached to your nondominant hand,
-this growth gives you a +2 to AC as if it were a shield. You are not capable of
-wielding a shield in your offhand while your form is mutated in this way.
+this growth gives you a +2 to AC as if it were weilding a shield. You are not 
+capable of wielding a shield in your offhand while your form is mutated in this 
+way.
  
 ### Keen Sight.
 Your eyes grow large and reflect light in low light conditions. You gain
@@ -265,14 +266,29 @@ action you may not do so again until a minute has passed. If your wisdom
 modifier is too low to beat this DC you pass on a natural roll of 20.
 
 ### Titan's Roar. (Level 9 Required)
-<<<<<<< HEAD
 Your throat canal becomes funnel shaped, allowing you to expel a roar of great 
 magnitude as if through a megaphone. As an action you may expend 3 hit dice and
-roll them, 4 creatures of your choice which can hear the roar gain temporary 
-hitpoints equal to the amount rolled, become size large, and gain advantage on 
-saving throws, ability checks, and attack rolls as you call for their DNA to 
-reshape them into a more powerful form. After 1d4 minutes has elapsed they
-return to their normal form and lose the temporary hitpoints.
-=======
-Your throat canal becomes funnel shaped, allowing you to expel a roar of great magnitude as if through a megaphone. As an action you may expend 3 hit dice and roll them, 4 creatures of your choice which can hear the roar gain temporary hitpoints equal to the amount rolled, become size large, and gain advantage on saving throws, ability checks, and attack rolls as you call for their DNA to reshape them into a more powerful form. After 1d4 minutes has elapsed they return to their normal form and lose the temporary hitpoints.
->>>>>>> 30f46c3a046dad8c6ea565a82dbf685b93ec3485
+roll them. Up to 4 creatures of your choice which can hear the roar gain the
+following benefits:
+
+- They gain Temporary hitpoints equal to the amount rolled 
+- Their size becomes one size larger than their size at the time of the roar
+- They gain advantage on saving throws, ability checks, and attack rolls 
+
+as you call for their DNA to reshape them into a more powerful form. After 1d4 
+minutes has elapsed they return to their normal form and lose the temporary 
+hitpoints. You may also use this mutation to project your voice up to three 
+times the normal distance it would otherwise be able to be heard from.
+
+### Enlarged Brainstem. (Level 9 Required)
+Your brainstem enlarges, heightening your reflexes. You are capable of making a 
+reaction every turn rather than once between your turns.
+
+### Quickened Immune System. (Level 9 Required)
+Your body heat increases significantly as your immune system speeds up and your
+body's natural regenerative ability is enhanced. When taking a rest you regain
+all your hitpoints without expending any hit dice, provided you have consumed 
+300 or more pounds of food in the past 12 hours. In battle you may expend and 
+roll a hit dice to force a quickened regeneration process, healing you for 5
+plus the ammount rolled. You also become immune to the diseased status effect 
+and suffer exhaustion to cold at one third the rate.
