@@ -59,13 +59,13 @@ COMU = Colossal Mutations
 |   1 |     0 | 1d10  | +1  |  0    | Monstrous Physique            |
 |   2 |   300 | 2d10  | +1  |  1    | Mutations, Hit point Increase |
 |   3 |   900 | 3d10  | +2  |  2    | Hit point Increase            |
-|   4 |  1200 | 4d10  | +2  |  3    | Hit point re-roll             |
-|   5 |  2700 | 5d10  | +2  |  3    | Ability Score Increase        |
-|   6 |  5000 | 6d10  | +2  |  3    | Extra Attack, Magical Might   |
-|   7 |  7500 | 7d10  | +3  |  4    |                               |
-|   8 | 10000 | 8d10  | +3  |  4    | Ability Score Increase        |
-|   9 | 15000 | 9d10  | +4  |  5    |                               |
-|  10 | 20000 |10d10  | +4  |  6    | Epic Mutation                 |
+|   4 |  1800 | 4d10  | +2  |  3    | Hit point re-roll             |
+|   5 |  3600 | 5d10  | +2  |  3    | Ability Score Increase        |
+|   6 |  6100 | 6d10  | +2  |  3    | Extra Attack, Magical Might   |
+|   7 |  9100 | 7d10  | +3  |  4    |                               |
+|   8 | 13100 | 8d10  | +3  |  4    | Ability Score Increase        |
+|   9 | 22600 | 9d10  | +4  |  5    |                               |
+|  10 | 44600 |10d10  | +4  |  6    | Epic Mutation                 |
 +-----+-------+-------+-----+-------+-------------------------------+
 ```
 
