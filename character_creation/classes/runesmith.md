@@ -15,9 +15,17 @@ runesmith is one who dedicates their life to the art of the rune.
 You start with 4+CON hit points.
 
 ## Proficiencies
-Armor: None
-Weapons: Daggers, darts, slings, quarterstaffs, light crossbows
-Saving Throws: Dexterity, Intelligence
+```
++---------------+--------------------------------------------------------+
+| Armor         | None                                                   |
++---------------+--------------------------------------------------------+
+| Weapons       | Daggers, Darts, Slings, Quarterstaffs, Light Crossbows |
++---------------+--------------------------------------------------------+
+| Tools         | None                                                   |
++---------------+--------------------------------------------------------+
+| Saving Throws | Dexterity, Intelligence                                |
++---------------+--------------------------------------------------------+
+```
 
 ## Skills
 Choose 2 from the following:

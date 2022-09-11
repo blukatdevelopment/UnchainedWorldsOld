@@ -15,10 +15,17 @@ of night, you are an expert in all things stealth and theft.
 You start with 6+CON hit points.
 
 ## Proficiencies
-Armor: Light
-Weapons: Simple weapons, hand crossbows
-Tools: Thieve's tools
-Saving Throws: Dexterity, Intelligence
+```
++---------------+--------------------------------+
+| Armor         | Light Armor                    |
++---------------+--------------------------------+
+| Weapons       | Simple Weapons, Hand Crossbows |
++---------------+--------------------------------+
+| Tools         | Thieves' Tools                 |
++---------------+--------------------------------+
+| Saving Throws | Dexterity, Intelligence        |
++---------------+--------------------------------+
+```
 
 ## Skills
 You are proficient in stealth and 3 from the following:
@@ -177,11 +184,11 @@ you succeed, the creature falls prone.
 
 ### Trickster's Step(Minimum level 5)
 You know the Blink Step 2nd level spell from the spell compendium volume 1,
-and may cast it by consuming two hit dice.
+and may cast it by consuming two stamina dice.
 
 ### Trickster's Advanced Arcana (Minimum level 6)
 You know the Vorpal Snare and Catapult spells from the spell compendium volume
-1. You may cast either of these spells by consuming two hit dice.
+1. You may cast either of these spells by consuming two stamina dice.
 
 ### Superior Sneak (Minimum level 6)
 You gain advantage on a stealth check if you have moved no more than half your

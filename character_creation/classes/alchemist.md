@@ -17,10 +17,17 @@ stability.
 You start with 4+CON hit points.
 
 ## Proficiencies
-Armor: Light Armor
-Weapons: Simple Weapons
-Tools: Alchemy Kit
-Saving Throws: Intelligence, Wisdom
+```
++---------------+----------------------+
+| Armor         | Light armor          |
++---------------+----------------------+
+| Weapons       | Simple Weapons       |
++---------------+----------------------+
+| Tools         | Alchemy Kit          |
++---------------+----------------------+
+| Saving Throws | Intelligence, Wisdom |
++---------------+----------------------+
+```
 
 ## Skills
 Choose 4 from the following:
@@ -42,7 +49,7 @@ Choose 4 from the following:
 
 ```
 LVL = level
-XP = total experience points needed for level
+XP = total  perience points needed for level
 SD = Stamina Dice
 Prof = proficiency bonus
 TN = Techniques
@@ -310,7 +317,7 @@ If you drink this potion, you become invisible for one minute.
 ### Amaro Guarire
 This pungent, dark liquid is bitter tasting and supposedly good for your health.
 When you consume it, you gain 3d10 hit points and make a DC 14 constitution
-saving throw. On a failure, you gain one level of exhaustion.
+saving throw. On a failure, you lose one stamina dice.
 
 ### Speech Bubble Tea
 Filled with tapioca pearls, this fruity drink bestows powerful hallucinations.
@@ -353,12 +360,11 @@ in. When you activate this potion, pressure begins to build in the bottle.
 If you wait for 1 minute, the bottle will build pressure and explode wherever
 it is. You may instead throw the potion up to a range of 40 feet, setting off
 the potion on impact. In either case, the potion creates a dark storm cloud
-that fills a 20 foot cube. The cloud provides makes any creatures inside or
-behind it heavily obscured. The cloud lasts for 1 hour. Throwing salt into the
-cloud will cause it to darken and discharge lightning. Every creature inside
-the cloud at this time must make a dex saving throw. On a failure they take 2d6
-lightning damage. On a success, they take half as much. The cloud then
-disappears.
+that fills a 20 foot cube. The cloud hevily obscures any creatire behind or 
+inside it. The cloud lasts for 1 hour. Throwing salt into the cloud will cause 
+it to darken and discharge lightning. Every creature inside the cloud at this 
+time must make  a dex saving throw. On a failure they take 2d6 lightning damage.
+On a success, they take half as much. The cloud then disappears.
 
 ### Spark Fruit Cocktail
 This yellow liquid has a strong citrus smell and gives off a static discharge
@@ -370,7 +376,7 @@ an additional 1d6 lightning damage.
 ### Thorned Potion
 A thorn floats in some light green liquid. It tastes strongly of grass clippings
 and humus. For the next minute thorny vines sprout from your arms and you may
-use the thorn whip cantrip, found in the Spell Compendium Volume 1.
+use the thorn whip cantrip, found in the Spell Compendium Volume 1, at will.
 
 ### Bullseye light potion
 After consuming this potion, your insides glow brightly. If you open your mouth,
@@ -399,21 +405,43 @@ On a hit, the target is burned by this dark green fluid and receives 3d6 acid
 damage.
 
 ### Super solvent
-All glue, paint, and dye that comes into contact with this substances is dissolved immediately. It is also slippery, and can be used to slick up smooth surfaces. Super solvent is completely safe to the touch, making it useful for applications where damage is not desired. Do not consume super solvent. Aside from it's bitter taste,
-consuming it will cause the creature that consumed it to become poisoned for 1 hour, during which they will experience nausea, heartburn, indigestion, upset stomach,
-and diarrhea;
+All glue, paint, and dye that comes into contact with this substances is 
+dissolved immediately. It is also slippery, and can be used to slick up smooth 
+surfaces. Super solvent is completely safe to the touch, making it useful for 
+applications where damage is not desired. Do not consume super solvent. Aside 
+from it's bitter taste, consuming it will cause the creature that consumed it to
+become poisoned for 1 hour, during which they will experience nausea, heartburn,
+indigestion, upset stomach, and diarrhea;
 
 ### Insane Adhesive
-This adhesive may join two objects together and withstand a force of 200 pounds. Once it has adhered, only super solvent or a strong acid can dissolve insane adhesive. If thrown on the ground, it creates a 5 foot by 5 foot puddle that lasts for one minute. Any large or smaller creature that steps on this puddle must succeed a DC 16 strength save, or their movement is reduced to 0. They may use their action to make this save again.
+This adhesive may join two objects together and withstand a force of 200 pounds. 
+Once it has adhered, only super solvent or a strong acid can dissolve insane 
+adhesive. If thrown on the ground, it creates a 5 foot by 5 foot puddle that 
+lasts for one minute. Any large or smaller creature that steps on this puddle 
+must succeed a DC 16 strength save, or their movement is reduced to 0. They may 
+use their action to make this save again.
 
 ### Glow paint
-This liquid, once spattered on a target, will illuminate them and allow them to be targeted in complete darkness as if in bright light. The paint can also be used to mark walls. An entire flask of glow paint can be shattered on the ground to create a 10 foot square. If a creature steps on this square, they can be targeted by spells that require sight, and can be targeted by normal attacks as if in dim light. An invisible creature that steps in a puddle will produce glowing footprints that can be tracked, allowing attacks to target them with disadvantage.
+This liquid, once spattered on a target, will illuminate them and allow them to 
+be targeted in complete darkness as if in bright light. The paint can also be 
+used to mark walls. An entire flask of glow paint can be shattered on the ground 
+to create a 10 foot square. If a creature steps on this square, they can be 
+targeted by spells that require sight, and can be targeted by normal attacks as 
+if in dim light. An invisible creature that steps in a puddle will produce 
+glowing footprints that can be tracked, allowing attacks to target them with 
+disadvantage.
 
 ### Growth paint
-A creature coated in this paint will grow two sizes larger. This effect lasts for one hour. In such a state, damage from weapon attacks increases by 1d4. One jar has two uses, or one if thrown when full. If the creature is trapped in a confined space when they are grown, they will receive 4d8 bludgeoning damage and be restrained for the duration.
+A creature coated in this paint will grow two sizes larger. This effect lasts 
+for one hour. In such a state, damage from weapon attacks increases by 1d4. One 
+jar has two uses, or one if thrown when full. If the creature is trapped in a 
+confined space when they are grown, they will receive 4d8 bludgeoning damage and 
+be restrained for the duration.
 
 ### Potion of shrinking
-A creature coated in this paint will shrink down by two sizes. In such a state, damage from weapon attacks decreases by 1d4 to a minimum of 1 damage. The effect lasts for one hour.
+A creature coated in this paint will shrink down by two sizes. In such a state, 
+damage from weapon attacks decreases by 1d4 to a minimum of 1 damage. The effect 
+lasts for one hour.
 
 ### Potion of chaos
 When one consumes this potion, they roll a 1d20 and receive the corresponding effect:
@@ -491,11 +519,11 @@ next minute, you are resistant to all non-magical physical damage.
 A chunky mixture of stewwed peppers, tomatoes, and spices, dragon salsa serves 
 as a full meal. The default element is fire, but you may add an extra ingredient
 to change the element. Iron dust grants lightning, lemon grants acid, some mint
-for cold, and a small piece of nightshade plant grants poison. For the next
-minute after consuming a jar of the salsa, you may perform a breath attack. You 
-create a 15 foot cone of breath. All creatres within must make a DC 15 dexterity
-saving throw, taking 3d6 damage of the element you selected, or half as much on
-a save.
+for cold, and a small piece of nightshade plant grants poison. For a minute 
+after consuming a jar of the salsa, you may perform a breath attack. As an action
+you create a 15 foot cone of breath. All creatres within must make a DC 15 
+dexterity saving throw, taking 3d6 damage of the element you selected, or half 
+as much on a save.
 
 ### Necromancer's Pickle Brine
 If you listen carefully, you can hear whispering coming from this salty, sour

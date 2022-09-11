@@ -34,7 +34,7 @@ You start with 1d4+CON hit points.
 ```
 
 ## Training Montage
-You have survived long enough as a commoner. Remove all your hit dice and retain
-any proficiencies and equipment. You lose all levels in commoner. Choose a class
-other than commoner. You are now level 1 in the chosen class. Your current
-hit points are kept in addition to whatever your new class provides.
+You have survived long enough as a commoner. Remove all your stamina dice and 
+retain any proficiencies and equipment. You lose all levels in commoner. Choose 
+a class other than commoner. You are now level 1 in the chosen class. Your 
+current hit points are kept in addition to whatever your new class provides.

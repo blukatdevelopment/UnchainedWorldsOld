@@ -18,10 +18,17 @@ tip of the spear in military innovation.
 You start with 6+CON hit points.
 
 ## Proficiencies
-Armor: Light Armor
-Weapons: Simple Weapons, Shortsword, Heavy Crossbow, Hand Crossbow, Firearms
-Tools: Gunsmithing tools
-Saving Throws: Strength, Dexterity
+```
++---------------+------------------------------------------------------------------------+
+| Armor         | Light armor                                                            |
++---------------+------------------------------------------------------------------------+
+| Weapons       | Simple Weapons, Shortswords, Heavy Crossbows, Hand Crossbows, Firearms |
++---------------+------------------------------------------------------------------------+
+| Tools         | Gunsmithing tools                                                      |
++---------------+------------------------------------------------------------------------+
+| Saving Throws | Strength, Dexterity                                                    |
++---------------+------------------------------------------------------------------------+
+```
 
 ## Skills
 Choose 2 from the following:

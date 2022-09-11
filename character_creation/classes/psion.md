@@ -18,9 +18,17 @@ similarly-minded.
 You start with 4+CON hit points.
 
 ## Proficiencies
-Armor: Light, Shield
-Weapons: simple weapons
-Saving Throws: Wisdom, Charisma
+```
++---------------+----------------------+
+| Armor         | Light Armor, Shields |
++---------------+----------------------+
+| Weapons       | Simple Weapons       |
++---------------+----------------------+
+| Tools         | None                 |
++---------------+----------------------+
+| Saving Throws | Wisdom, Charisma     |
++---------------+----------------------+
+```
 
 ## Skills
 Choose two from the following:

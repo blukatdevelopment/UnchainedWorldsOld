@@ -19,10 +19,17 @@ sacred than this.
 You start with 6+CON hit points.
 
 ## Proficiencies
-Armor: None
-Weapons: Daggers, darts, slings, quarterstaffs, light crossbows
-Tools: Smith's tools
-Saving Throws: Dexterity, Intelligence
+```
++---------------+--------------------------------------------------------+
+| Armor         | None                                                   |
++---------------+--------------------------------------------------------+
+| Weapons       | Daggers, Darts, Slings, Quarterstaffs, Light Crossbows |
++---------------+--------------------------------------------------------+
+| Tools         | Smith's Tools                                          |
++---------------+--------------------------------------------------------+
+| Saving Throws | Dexterity, Intelligence                                |
++---------------+--------------------------------------------------------+
+```
 
 ## Skills
 Choose 2 from the following:

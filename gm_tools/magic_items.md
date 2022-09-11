@@ -58,9 +58,9 @@ sphere becomes a permanent anti-magic field, and the two rods are destroyed.
 ### Portal Wand (Very Rare)
 This wand can be used to produce either a blue or orange portal. Each is
 projected onto a flat 5ft square surface within 60ft. The blue portal consumes
-two hit dice, and the orange portal consumes one stamina die. The portals stay
-active for one minute, during which they may be traveled through, preserving
-momentum.
+two stamina dice, and the orange portal consumes one stamina die. The portals 
+stay active for one minute, during which they may be traveled through, 
+preserving momentum.
 
 ## Weapons
 
@@ -119,9 +119,9 @@ Can be recharged with a stamina die during a rest.
 
 ### Power fist (Uncommon)
 Unarmed attacks deal 1d4 damage when wearing this. The power fist is considered
-light. The power fist can be charged by consuming two hit dice. When attacking,
-the fist can expend it's charge to deal an additional 2d10 bludgeoning damage on
-a hit.
+light. The power fist can be charged by consuming two stamina dice. When 
+attacking, the fist can expend it's charge to deal an additional 2d10 
+bludgeoning damage on a hit.
 
 ### Death's Bane (Very Rare)
 A magical +1 sword.

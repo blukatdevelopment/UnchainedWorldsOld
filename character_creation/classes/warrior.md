@@ -18,10 +18,15 @@ You start with 10+CON hit points.
 
 ## Proficiencies
 ```
-Armor: Light, Medium, Heavy, Shields
-Weapons: Simple, Martial
-Tools: None
-Saving Throws: Strength, Constitution
++---------------+-------------------------------------------------+
+| Armor         | Light Armor, Medium Armor, Heavy Armor, Shields |
++---------------+-------------------------------------------------+
+| Weapons       | Simple Weapons, Martial Weapons                 |
++---------------+-------------------------------------------------+
+| Tools         | None                                            |
++---------------+-------------------------------------------------+
+| Saving Throws | Strength, Constitution                          |
++---------------+-------------------------------------------------+
 ```
 
 ## Skills
@@ -100,8 +105,7 @@ In a frenzy you are resistant to slashing, bludgeoning, and piercing damage.
 You also have advantage on athletics and strength saving throws while in a
 frenzy. Your frenzy ends after one minute, or when you begin your turn without
 taking damage or making an attack in the previous round of combat. When your
-frenzy ends, you receive one level of exhaustion. During a frenzy you ignore
-all levels of exhaustion.
+frenzy ends, you lose one hit dice.
 
 ### Stagger Block
 As a reaction when a melee weapon attack misses you by 2 or less, you can block

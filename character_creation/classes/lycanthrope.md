@@ -15,10 +15,17 @@
 You start with 4+CON hit points.
 
 ## Proficiencies
-Weapons: Dagger
-Armor: None
-Tools: None
-Saving throws: Constitution, Strength
+```
++---------------+------------------------+
+| Armor         | None                   |
++---------------+------------------------+
+| Weapons       | Daggers                |
++---------------+------------------------+
+| Tools         | None                   |
++---------------+------------------------+
+| Saving Throws | Constitution, Strength |
++---------------+------------------------+
+```
 
 ## Skills
 Select two from the following:

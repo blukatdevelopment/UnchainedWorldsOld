@@ -157,7 +157,7 @@ Most animals are terrified by you.
 ### 76
 You gain a hunchback.
 ### 77
-You gain a level of exhaustion if you don't eat humanoid flesh each day, but eating it removes all levels of exhaustion.
+You lose one stamina dice from your maximum if you don't eat humanoid flesh each day, but eating it returns your stamina dice maximum to normal.
 ### 78
 An ancient one whispers into your mind, luring you to perform acts of evil.
 ### 79
@@ -211,7 +211,7 @@ Roll for a trigger, which causes the transformation for 1d4 hours.
 |    1 | Falling below half hit points              |
 |    2 | Watching a friendly creature die           |
 |    3 | Looking at celestial, demon, or aberration |
-|    4 | Gaining a level of exhaustion              |
+|    4 | losing a hit dice to exhaustion            |
 +------+--------------------------------------------+
 ```
 #### 3 Turned Beast
@@ -303,7 +303,8 @@ Number out your skill, tool, and language proficiencies. Roll to see which one
 you lose.
 
 ### 85 Double exhaustion
-Whenever you would normally take one level of exhaustion, you instead take two.
+Whenever you would normally lose one stamina dice to exhaustion, you instead 
+lose two.
 
 ### 86 Can only sleep when...
 Your sleep is harder to achieve. Roll for the condition that must be met for
@@ -462,11 +463,11 @@ You produce a magically enhanced odor that can be detected from 200 feet.
 
 #### 2 Amphibian Skin
 You develop soft, slick, mucus-covered skin that must be wetted with water each
-hour, or else you gain a level of exhaustion.
+hour, or else you lose one stamina dice.
 
 #### 3 Cold blooded
 You lose the ability to regulate your body heat. No matter your clothing, you
-gain a level of exhaustion from each hour spent in extreme hot or cold.
+lose one stamina dice for each hour spent in extreme hot or cold.
 
 #### 4 Crystal Skin
 Your skin turns crystaline. If the surface of your skin touches an external 

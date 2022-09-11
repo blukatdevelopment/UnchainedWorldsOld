@@ -15,10 +15,17 @@ insatiable curiosity transforms your life into an unending pursuit of knowledge.
 You start with 4+CON hit points.
 
 ## Proficiencies
-Weapons: simple weapons, heavy crossbows, hand crossbows
-Armor: Light
-Tools: Tinker's Tools
-Saving Throws: Dexterity, Wisdom
+```
++---------------+-------------------------------------------------+
+| Armor         | Light Armor                                     |
++---------------+-------------------------------------------------+
+| Weapons       | Simple Weapons, Heavy Crossbows, Hand Crossbows |
++---------------+-------------------------------------------------+
+| Tools         | Tinker's Tools                                  |
++---------------+-------------------------------------------------+
+| Saving Throws | Dexterity, Wisdom                               |
++---------------+-------------------------------------------------+
+```
 
 ## Skills
 Select four from the following:
@@ -286,8 +293,8 @@ The GM might request control during transformation. The form lasts up to 8
 hours, or until you reach 0 hit points. When the transformation ends, you
 transform back to your normal form, naked and unconscious. For every 8 hours
 you spend unconscious, you regain one stamina die. During this time, you still
-gain levels of exhaustion from skipping food or drink. Others may put you in a
-comfortable bed or give other amenities to you while you are out, speeding up
+lose stamina dice from skipping food or drink. Others may put you in a 
+comfortable bed or give other amenities to you while you are out, speeding up 
 your recovery.
 
 ## Instruments

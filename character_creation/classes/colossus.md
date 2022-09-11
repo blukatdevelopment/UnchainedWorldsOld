@@ -23,7 +23,7 @@ You start with 20 + Con Hitpoints
 ## Proficiencies:
 ```
 +---------------+---------------------------------+
-| Armor         | Heavy, Shields                  |
+| Armor         | Heavy Armor, Shields            |
 +---------------+---------------------------------+
 | Weapons       | Simple Weapons, Martial Weapons |
 +---------------+---------------------------------+
@@ -32,7 +32,6 @@ You start with 20 + Con Hitpoints
 | Saving Throws | Strength, Constitution          |
 +---------------+---------------------------------+
 ```
-
 
 ## Skills (Choose 2)
 - Athletics 
@@ -245,9 +244,9 @@ descent for a safe landing when falling.
 
 ### Rampage. (level 9 Required)
 The part of your brain responsible for anger expands, heightening your anger
-response. As a bonus action, you may expend five hit dice to enter a trance-like
-rampage state for the next hour. While in this ramage state you gain the
-following benefits and penalties:
+response. As a bonus action, you may expend five stamina dice to enter a 
+trance-like rampage state for the next hour. While in this ramage state you gain 
+the following benefits and penalties:
 
 - You regain 1d10 hitpoints for every 100 pounds of consumable material you
 ingest
@@ -267,8 +266,8 @@ modifier is too low to beat this DC you pass on a natural roll of 20.
 
 ### Titan's Roar. (Level 9 Required)
 Your throat canal becomes funnel shaped, allowing you to expel a roar of great 
-magnitude as if through a megaphone. As an action you may expend 3 hit dice and
-roll them. Up to 4 creatures of your choice which can hear the roar gain the
+magnitude as if through a megaphone. As an action you may expend 3 stamina dice 
+and roll them. Up to 4 creatures of your choice which can hear the roar gain the
 following benefits:
 
 - They gain Temporary hitpoints equal to the amount rolled 
@@ -287,8 +286,8 @@ reaction every turn rather than once between your turns.
 ### Quickened Immune System. (Level 9 Required)
 Your body heat increases significantly as your immune system speeds up and your
 body's natural regenerative ability is enhanced. When taking a rest you regain
-all your hitpoints without expending any hit dice, provided you have consumed 
-300 or more pounds of food in the past 12 hours. In battle you may expend and 
-roll a hit dice to force a quickened regeneration process, healing you for 5
-plus the ammount rolled. You also become immune to the diseased status effect 
-and suffer exhaustion to cold at one third the rate.
+all your hitpoints without expending any stamina dice, provided you have 
+consumed  300 or more pounds of food in the past 12 hours. In battle you may 
+expend and  roll a stamina dice to force a quickened regeneration process, 
+healing you for 5 plus the ammount rolled. You also become immune to the 
+diseased status effect and lose stamina dice to cold at one third the rate.

@@ -185,9 +185,9 @@ common body type has 30ft movement speed, is medium size, and lives up to one
 century.
 
 ## Class
-Your class decides your hit dice, class features, and informs the role you'll 
-play in your party. Talk to you GM about what classes are available at your 
-table.
+Your class decides your stamina dice, class features, and informs the role 
+you'll play in your party. Talk to you GM about what classes are available at 
+your table.
 
 
 # Roleplaying
