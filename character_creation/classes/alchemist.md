@@ -49,7 +49,7 @@ Choose 4 from the following:
 
 ```
 LVL = level
-XP = total  perience points needed for level
+XP = total eperience points needed for level
 SD = Stamina Dice
 Prof = proficiency bonus
 TN = Techniques
