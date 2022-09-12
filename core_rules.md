@@ -32,26 +32,29 @@ Unchained Worlds is a tabletop roleplaying game designed with the intention of p
 Unchained Worlds is built with “less is more” as its motto. Character customization options are slim, hit points are low for monsters and adventurers, and levels are capped at 10. This lends itself to low power play wherein a party of players must carefully consider the consequences for their actions and use lateral thinking to overcome obstacles and limitations. The worlds explored with this system are intended to be gritty and dangerous places where decision-making and roleplaying is more important than character build. While this system can be used for linear epic campaigns and for combat-focused power gaming, such play is not the primary concern.
 
 ### How do I play Unchained Worlds?
-At your table, one person assumes the role of Game Master. They create the world that is explored, control non-player characters(henceforth NPC), and referee combat and player interaction with the world. All other people at the table are players, who each control a player character. Player characters (henceforth PCs) explore the world, interact with NPCs, and fight. There may be a linear campaign designed for the players to explore, or there may be a sandbox world that is explored according to the player’s interests.
+At your table, one person assumes the role of keeper. They create the world that is explored, control non-player characters(henceforth NPC), and referee combat and player interaction with the world. All other people at the table are players, who each control a player character. Player characters (henceforth PCs) explore the world, interact with NPCs, and fight. There may be a linear campaign designed for the players to explore, or there may be a sandbox world that is explored according to the player’s interests.
 
 # Philosophy
 Make sure your group agrees with what's written here before you take it too seriously. If your table's opinionated, they'll probably have their own version that better reflects their philosophy. If they're clever, they'll just change this section and take out this warning.
 That said, let's dive in.
 
+## Safety Tools
+For better and worse, everyone brings their unique life experiences to the table. This can help to enrich the game with a variety of perspectives. It also means that what content is fine, uncomfortable, or outright traumatic to each person can vary significantly. Sometimes people know in advance what content they'd like to tread carefully or avoid entirely. Other times, people don't realize something is deeply troubling to them until they encounter it at the table. Discuss the known content before your first game. Additionally, make sure anyone at the table is free to call for a moment or scene to stop if they realize it's troubling to them. If you do these two things, it will help to keep your table more safe and comfortable for everyone sitting at it.
+
 ## The Social Contract
 A social contract is an informal agreement between people. In this case, it's made across the table that everyone's here to have fun, and we'll all do what we can to make sure that happens. With that, I'll present you two possible social contracts. Your group should either pick one, or make a third that they think fits better.
 
 ### Fantasy Fulfillment
-Each person at the table shows up with some premade, polished, content. Players have characters with fleshed out personalities and voices, and likely backstories intended to tie into the game world and play out as a character arc in which they grow as characters. The GM creates a setting and weaves these characters into a fleshed out plot involving developed non-player characters for the party to interact with in a dramatic capacity. The mechanics and rules can change to suit the fantasy of each player, which will generally involve some element of homebrew content being written to accomodate their character concepts. There is a certain structure to these campaigns that intends to lead the party in a certain direction to progress from beginning, middle, to end. Combat is "balanced", which often means "the party is unlikely to die", allowing players space to act out the fantasy of their character and character arc as they progress between level-appropriate content modules. Very dramatic moments may include a "deadly" encounter where life and death are at stake, during which player characters may die in a dramatically satisfying way. Character death can often be reversed through resurrection, as dieing is a mistake of the GM in balancing or just an accident of bad dice when it is not planned with the consent of the player.
+Each person at the table shows up with some premade, polished, content. Players have characters with fleshed out personalities and voices, and likely backstories intended to tie into the game world and play out as a character arc in which they grow as characters. The keeper creates a setting and weaves these characters into a fleshed out plot involving developed non-player characters for the party to interact with in a dramatic capacity. The mechanics and rules can change to suit the fantasy of each player, which will generally involve some element of homebrew content being written to accomodate their character concepts. There is a certain structure to these campaigns that intends to lead the party in a certain direction to progress from beginning, middle, to end. Combat is "balanced", which often means "the party is unlikely to die", allowing players space to act out the fantasy of their character and character arc as they progress between level-appropriate content modules. Very dramatic moments may include a "deadly" encounter where life and death are at stake, during which player characters may die in a dramatically satisfying way. Character death can often be reversed through resurrection, as dieing is a mistake of the keeper in balancing or just an accident of bad dice when it is not planned with the consent of the player.
 
 ### Simulation
-The GM considers the player's requests for content, then creates a world with consistent mechanics. Players show up to the table and discover their characters, creating backstories and personalities in a collaborative environment within existing mechanics. While players may have ambitions for their characters, the onus is on each player to realize their goals within the mechanics of the world. The GM prepares any content knowing that players are free to do whatever is in their character's power. The GM respects that the player has no obligation to follow any progression along a story, and is free to carve their own path out of the world the GM has produced. Players know that their freedom comes at the cost of consequences. One wrong step or fumbled die roll can end a player character's life permanently, and the responsibility for the character's safety falls firmly on the player. The life-or-death nature of the world creates dramatic tension by transforming any random moment into a potential struggle for survival. In response to this danger, players weave stories of their character's heroic victories and defeats against overwhelming odds. Players also engage in system mastery and thinking outside the box, learning to solve problems more flexibly to avoid the specter of death for as long as possible.
+The keeper considers the player's requests for content, then creates a world with consistent mechanics. Players show up to the table and discover their characters, creating backstories and personalities in a collaborative environment within existing mechanics. While players may have ambitions for their characters, the onus is on each player to realize their goals within the mechanics of the world. The keeper prepares any content knowing that players are free to do whatever is in their character's power. The keeper respects that the player has no obligation to follow any progression along a story, and is free to carve their own path out of the world the keeper has produced. Players know that their freedom comes at the cost of consequences. One wrong step or fumbled die roll can end a player character's life permanently, and the responsibility for the character's safety falls firmly on the player. The life-or-death nature of the world creates dramatic tension by transforming any random moment into a potential struggle for survival. In response to this danger, players weave stories of their character's heroic victories and defeats against overwhelming odds. Players also engage in system mastery and thinking outside the box, learning to solve problems more flexibly to avoid the specter of death for as long as possible.
 
 ## Etiquette 
 You're probably a player reading this. There are a few ways to drive your table crazy, and I'll list some behaviors that help avoid these.
 
 ### Don't argue rules at the table
-A GM is juggling many tasks at once at the table. Sometimes their encyclopedic knowledge of the rules may falter. Now's your time to say "wait, doesn't it work like this?" If your GM says "naw, it works like I said" or "let's do **this** right now, we can revisit later", then they likely still have enough time to get back on their train of thought and continue juggling things like pacing, dramatic tension, etc, etc. If you instead press and create an argument, the game now stops. Players will now start checking their phones, pulled out of the fantasy while you and the GM hold legal precedings. When the legal precedings are adjorned and the table is ready to continue playing the game, the table must now rebuild any momentum they had before. If it's once in a blue moon, or during relaxed moments, no harm, no foul. If this is frequent enough, however, it can be extremely frustrating to pause gameplay to argue over what will likely seem to be minutia. To dodge this, just note your argument and bring it up outside the session, or during a break, or some other time when there's no momentum to lose.
+A keeper is juggling many tasks at once at the table. Sometimes their encyclopedic knowledge of the rules may falter. Now's your time to say "wait, doesn't it work like this?" If your keeper says "naw, it works like I said" or "let's do **this** right now, we can revisit later", then they likely still have enough time to get back on their train of thought and continue juggling things like pacing, dramatic tension, etc, etc. If you instead press and create an argument, the game now stops. Players will now start checking their phones, pulled out of the fantasy while you and the keeper hold legal precedings. When the legal precedings are adjorned and the table is ready to continue playing the game, the table must now rebuild any momentum they had before. If it's once in a blue moon, or during relaxed moments, no harm, no foul. If this is frequent enough, however, it can be extremely frustrating to pause gameplay to argue over what will likely seem to be minutia. To dodge this, just note your argument and bring it up outside the session, or during a break, or some other time when there's no momentum to lose.
 
 ### Take timely turns
 Initiative is rolled, the fight starts, and you watch others beginning to take their turn. Now's the time to ask "what do I do?" in your head. Consolidate it well enough, and you can quickly do your part in combat in under 30 seconds, keeping the game moving. Having a hard time remembering what options you have in combat? Draw some boxes on a blank sheet of paper. Put each of your abilities/tactics/actions in a box and draw an icon on it. If you can boil your decision down to a confident "I do X!", then you'll have plenty of space to add flowery description while keeping your turn under 30 seconds.
@@ -63,7 +66,7 @@ This one's easy. Want to flesh out your character by roleplaying? Involve anothe
 Your character starts with 1HP or has failed two death saving throws. Maybe they meet some horrible fate in a spike trap. Now's the time to ham it up. Work your dramatic muscles and get creative. You could play it straight with a "Just as I feel myself beginning to slip, I mouth the words 'so long, friends'." and see how many tears you can jerk from the party. Or, maybe this is a good moment for comedy. "I fall. 'Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh! Wow, how far down does this-' Thump." There's a lot of ways you can do this. Get creative.
 
 # Creating your character
-This handbook provides a skeletal set of character creation options, and are not intended for use in normal campaigns. Work with your game master to determine what supplemental books you will use when creating your characters.
+This handbook provides a skeletal set of character creation options, and are not intended for use in normal campaigns. Work with your keeper to determine what supplemental books you will use when creating your characters.
 
 ## Abilities
 ```
@@ -186,7 +189,7 @@ century.
 
 ## Class
 Your class decides your stamina dice, class features, and informs the role 
-you'll play in your party. Talk to you GM about what classes are available at 
+you'll play in your party. Talk to you keeper about what classes are available at 
 your table.
 
 
@@ -194,7 +197,7 @@ your table.
 
 ## Control your character
 As a player, you have the freedom to breathe life into your character. For example, let's take a player Geremy and his character Alexa, a human commoner. 
-The GM prompts Geremy "A large toad rises from the surface of the pond water and stares at you. It ribbits out a greeting. What do you do?"
+The keeper prompts Geremy "A large toad rises from the surface of the pond water and stares at you. It ribbits out a greeting. What do you do?"
 
 ### Describe
 If Geremy is just getting started or uncomfortable with acting, he might respond like this.
@@ -252,7 +255,7 @@ order, as an enemy team may go twice in a row.
 
 ### (Variant)Simultaneous initiative
 Each round, every player character chooses what they will attempt to do (eg cast a spell, attack a specific enemy, retreat and hide).
-All player rolls are made simultaneously. The game master then goes in an arbitrary order (likely left to right across a battle map)
+All player rolls are made simultaneously. The keeper then goes in an arbitrary order (likely left to right across a battle map)
 and calls for rolls in order to judge what happens. This prevents players from using knowledge of turn order, enemy, or friendly
 actions at the time of making their decision for the round. In turn, this renders combat chaotic and unpredictable.
 
@@ -273,9 +276,9 @@ There is an assortment of actions you may use in combat.
 - Disengage: Normally, an enemy may take an attack of opportunity when you leave their melee range. Disengaging prevents this.
 - Dodge: Attack rolls made against you are made with disadvantage if you can see the attacker. Dexterity saving throws are made with advantage.
 - Help: You can aid another creature in completing a task, giving them advantage with it. Or, you may distract an enemy you are within 5ft of, giving the first attack made against them advantage.
-- Hide: Provided you have entered a space that is obscured from sight, you may hide. The GM will likely ask for a stealth check made against passive nearby creature's perception.
+- Hide: Provided you have entered a space that is obscured from sight, you may hide. The keeper will likely ask for a stealth check made against passive nearby creature's perception.
 - Ready: You declare an action(and potentially movement) that you will use under a certain condition(such as if a creature turns hostile). If that condition is met, your readied action is triggered. If you prepare to cast a spell, it uses any relevant resources as if you had actually cast the spell, regardless of whether it was triggered.
-- Search: You seek to find something. Your GM will likely request an investigation or perception check.
+- Search: You seek to find something. Your keeper will likely request an investigation or perception check.
 
 #### How to make attack rolls
 Roll a 1d20. If you're proficient with the weapon, add your proficiency bonus. Then, add the relevant ability modifier. As a general rule, melee and thrown attacks use strength, while ranged attacks use dexterity. A roll that meets or beats the AC of the target is a hit. If your d20 roll is 20, you have rolled a natural 20 and automatically hit. If your d20 roll is a 1, you roll a natural 1 and automatically miss.
@@ -697,7 +700,7 @@ This weapon requirees both hands to make attacks.
 This weapon can be used with one hand, or with two hands. The two-handed damage value appears in parentheses after the property.
 
 ##### Improvised Weapons
-At the GM's discretion, a an improvised weapon may be used to inflict more damage than an unarmed attack.
+At the keeper's discretion, a an improvised weapon may be used to inflict more damage than an unarmed attack.
 If it resembles a weapon, such as a club, it may be used as such with the same damage, proficiency, and ability modifier.
 If it doesn't resemble a weapon, it deals at most 1d4 damage, has a normal range of 20 feet and a long range of 60 feet.
 
