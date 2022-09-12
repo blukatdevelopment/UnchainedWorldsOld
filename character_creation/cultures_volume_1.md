@@ -27,6 +27,7 @@ imports long for the return of the empire. Named for their status symbol, each
 individual in gold robe society wears a robe with gold fiber sewed in. The
 greater the prestige, the more gold and rarer the fabric used in the robe's
 construction.
+
 ```
 Languages: Common
 ```
@@ -76,6 +77,14 @@ removal of their tongue. To communicate, the silent use a variety of hand signs
 known as handspeak. The ways of the silent are guarded from outsiders, and
 involve a harsh regimen of martial arts, scholarly study, and magical training.
 
+Only a select few mages outside of the silent culture know it's true purpose,
+which is to safeguard any of the magical secrets that could be used to bring
+about a new age of Titans. Rather than destroy this knowledge, individual silent
+are trusted only with pieces of the entire puzzle, and it is strictly forbidden
+to share those secrets except when training successors. The only major exception
+to the secrecy of the silent is in communication with mages deemed responsible
+enough to cooperate in this goal.
+
 ```
 Languages: Common(read/write and hear, but not speak), handspeak
 ```
@@ -86,6 +95,11 @@ so with a bonus action.
 ### Sword Dance (requires at least 15 DEX)
 You practice the traditional sword dance of your people, and in doing so
 you gain proficiency with short swords and scimitars.
+
+### Steel Palm (requires at least 15 CON)
+Training has allowed you to reduce the incoming damage from an attack. When a
+non-magical melee attack hits, you may expend a stamina die, roll it, and
+subtract that much damage from the attack by blocking it with a sturdy hand.
 
 ### Magic Crystal (requires at least 15 INT)
 You proudly wear a crystal around your neck, and know how to use it for magic.
@@ -117,7 +131,17 @@ Languages: Common, Metal Tongue
 Early in life you ran a mandatory rotation through the smith's guild apprentice
 program. You are proficient in smith's tools.
 
-### Armor Training (requires at least 13 CON)
+### Flying Hammer Strike(requires at least 15 STR)
+You know not only how to throw light hammers, but how to do so with terrifying
+strength and accuracy. When you hit with a light hammer thrown attack, you may
+expend a stamina die to force the target to make a strength save against your
+attack roll, or be knocked prone.
+
+### Shield wielder(requires at least 15 DEX)
+You are proficient with shields, and may now don or doff shields using a bonus
+action.
+
+### Armor Training (requires at least 15 CON)
 You spent time training in You are proficient with light and medium armor.
 
 ### Ancestral Warhammer (requires at least 15 INT)
@@ -125,26 +149,50 @@ The runes of metal tongue spell out the names of the ancestors before you on thi
 ceremonial warhammer, and your name has been added to it. You are proficient
 with warhammers.
 
-### Minerology (requires at least 13 WIS)
+### Minerology (requires at least 15 WIS)
 Your studies have paid off.
 You have advantage on skill checks made to identity the features of or remember
 crucial information about minerals.
+
+### Silverhammer's Tongue (requires at least 15 CHA)
+You're able to communicate confidently about anything related to metal, whether
+you are knowledgeable or not. You gain advantage on any deception check which
+depends upon your perceived expertise on minerology, metallurgy, smithing, or
+mining.
 
 ## 4 Cogger
 Gaining their name from their fascination with clockwork, the coggers are a
 people who immerse themselves in tinkering as a way of life. Some specialize
 in larger constructions such as cranes, trebuchets, and drawbridges, while
-others focus on smaller gadgets and coil computers. 
+others focus on smaller gadgets and coil computers.
+
+Cogger culture holds tiny folk as special. This is partly due to the history of
+tiny folk volunteering to mend items, but also due to their ability to make very
+fine changes and fit inside clockwork devices to perform maintenance. It is a
+common practice to build tiny homes in one's attic or garden, and leave
+offerings to any tiny folk living in them. Some of the proudest achievements in
+clockwork have been made by tiny folk in these homes, freed to study clockwork
+without the pressures of working a job.
 
 ```
 Languages: Common
 ```
+### Cranky counter (requires at least 15 STR)
+You've spent countless hours winding up larger machines, and it shows. When
+a creature attempts to grapple you, you may expend a stamina die and use your
+reaction to prevent their grapple and instead make your own grapple. If you
+succeed, you grab onto one of their limbs and push it down like a crank,
+slamming them prone onto the ground and dealing 1d4 bludgeoning damage.
 
 ### Repair (requires at least 15 DEX)
 Your nimble fingers and purpose-built tools make quick work of seemingly
 devastating damage. You may consume one stamina_die to cast the Mending spell
 from the spell compendium volume I, except that you achieve this spell by
 conventional, and not arcane means.
+
+### Long hours (requires at least 15 CON)
+You have spent enough long nights working on projects that you aren't affected
+as harshly anymore by a long night. When you go l
 
 ### Tinker (requires at least 15 INT)
 You are proficient with tinker's tools.
@@ -156,12 +204,17 @@ It takes 1 hour and 1 unit of scrap to construct such a device. Options include:
 - Flare Gun - When fired into the air, the charge ignites and drifts to the ground, casting bright light in a 300 foot radius for one minute.
 - Thief's Light - This disk produces a dim red light in a 5 foot cone that is hard to detect at range.
 
-### Wisdom (requires at least 15 WIS)
+### Cog intuition (requires at least 15 WIS)
 You can readily understand the principles of clockwork underlying many complex
 traps and devices you may find within a dungeon. Without knowing the specifics,
 you are able to intuit some of the specifics of trap function. You are more
 likely to determine facts about a contraption's function, and are more
 successful in disarming or re-arming such devices.
+
+### Clock Talk (requires at least 15 CHA)
+You have the uncanny ability to deliver speak to the beats of a metronome. You
+have advantage on performance checks to entertain or distract while using this
+technique.
 
 ## 5 Soot
 The folk that first emerged from shifts in titan mines quickly took on this name
@@ -189,6 +242,16 @@ with pikes.
 When you attempt to steal an object using a sleight of hand check, you make it
 with advantage.
 
+### Tolerant Lungs (requires at least 15 CON)
+Breathing soot hasn't done great things for your health, but at least there's a
+silver lining. You are resistant to damage taken by breathing harmful
+gases.
+
+### Moonlighting academic (requires at least 15 INT)
+You worked with proximity to sensitive information. Maybe you were a chimney
+sweep for wealthy homes, or spent plenty of time around engineers in a factory,
+or something else. Choose your 
+
 ### Haggle (requires at least 15 WIS)
 You didn't get where you are by paying full price.
 The first persuasion check you make to haggle with a particular trader is made
@@ -200,7 +263,13 @@ tell a tall tale, you get advantage on your deception check.
 
 ## 6 Burden Folk
 Farmers, foresters, and fishermen bear this name. It is a simple life, but often
-a rewarding one. 
+a rewarding one.
+
+Large and huge folk play a specific role in burden folk cultures. Capable of
+pulling plows, of lifting timbers directly, and performing other miracles that
+a team would otherwise be needed for, larger folk also act as defenders for many
+burden folk communities. At summer solstice, burden folk often spend the day
+celebrating their community's giants by baking confections and singing.
 
 ```
 Languages: Common
@@ -237,6 +306,16 @@ deep folk never venture into the sunlight more than once or twice in their life.
 Subsisting on farming fungi and hunting underground monsters, the deep folk are
 often proud warriors. 
 
+Deep folk warrens have acted as spaces of refuge over the years. Many soots
+found their way into deep folk warrens when the boom and bust left them jobless,
+or when industrial accidents left entire families of orphans. The tradition of
+soots visiting warrens to check on rehomed friends and loved ones has resulted
+in the singular channel of trade that the communities are familiar with, often
+exporting fungi and monster parts.
+
+In addition to soots, the deep folk welcome the blind, elderly, corrupted,
+and even will accept and reform criminals who are wanted elsewhere.
+
 ```
 Languages: Common
 ```
@@ -255,6 +334,10 @@ Living off of mushrooms and magical monster parts fills you with an unnatural
 fortude. Whenever you roll hit points, you may add an extra +2 for each die
 rolled.
 
+### Mycologist (requires at least 15 INT)
+You're proficient in nature, and your knowledge of mushrooms is extensive enough
+that you have advantage on all intelligence checks that require this knowledge.
+
 ### Dim Vision (requires at least 13 WIS)
 Life in the tunnels has trained your eyes to see by the dim light of mushrooms.
 You may see dim light as bright light for 60 feet. You cannot make out color in
@@ -265,22 +348,39 @@ rely on sight.
 You are able to locate objects, and especially creatures with only the aid of
 your ears. You gain blindsight for 30 feet.
 
+### Voice-throwing (requires at least 15 CHA)
+Deep folk have an incredibly strong intuition about how sound echos off various
+objects. They are capable of throwing their voice up to 60 feet and in some
+cases around corners.
+
 ## 8 Wild Folk
 There are those who refused the empire of man from it's inception, and who
 played a pivotal role in hastening it's collapse. Aside from their shared
 opposition to the empire, wild folk can't seem to agree on much else.
 
+Wherever a revolt can be found, the wild folk are either instigating or backing
+the people who have. This has made them enemies with monarchs, warlords, and
+other figures of authority. It has also made them allies with many small
+villages, tribes, and religious groups who have been wronged by the same figures
+of authority. They are frequently welcomed by the greenfoot people, seen as an
+ally against industrialists.
+
 ```
 Languages: Common
 ```
 
-### Sword training (requires at least 15 strength)
+### Sword training (requires at least 15 STR)
 You were trained in a rebel group, and you are proficient with longswords. You
 own an ex-imperial longsword with the serial number filed off.
 
 ### Stalker (requires at least 15 DEX)
 Imperial soldiers occasionally remark about moments when the trees speak beast
 tongue. When in the wilderness, you receive advantage on stealth checks.
+
+### Weather hardened (requires at least 15 CON)
+You are used to being exposed to the elements. Whenever you need to make a check
+to resist the effects of natural cold, heat, humidity, or rain, you have
+advantage.
 
 ### Ambusher (requires at least 15 INT)
 You are a battle-hardened insurgent and familiar with ambushes. When you set up
@@ -313,7 +413,19 @@ materials. Each item made this way requires 1 hour and access to natural
 resources. These weapons are nearly worthless in trade, and break upon rolling 
 a natural 1 on an attack roll with them.
 
-### Meditation (requires at least 13 INT)
+### Spear Hunter (requires at least 15 STR)
+You are proficient with spears. When throwing or striking with spears, you have
+a +2 bonus to attack rolls.
+
+### Longbow hunter (requires at least 15 DEX)
+You are proficient with longbows, and have a +2 bonus on attack rolls made
+with them.
+
+### Herbal Fortitude (requires at least 15 CON)
+You've conditioned tolerances for most common poisons. When you make a
+constitution save to avoid the effects of poison, you have advantage.
+
+### Meditation (requires at least 15 INT)
 The fae gifted you as a child. In place of traditional sleep, you may meditate
 and rest without losing consciousness. You find that this technique is more
 efficient than conventional sleep, and that you only need 4 hours of meditation
@@ -352,6 +464,11 @@ empire were scattered abroad, wandering to share their special interests with
 the world. Some peddled goods as specialty merchants, while others offered
 entertainment or rare services such as minor divination.
 
+The wayfarers live as perpetual strangers to the communities they visit, but
+they are not without bonds. Some troupes are sponsored to wear the colors and
+spread the good will of wealthy gold robes, while some are connected deeply with
+the network of mage guilds across the lands, and have good standing with them.
+
 ```
 Languages: Common, One other
 ```
@@ -371,6 +488,11 @@ of this subject.
 - Zoology - animals
 - Anthropology - people
 - Musicology - music
+
+### Bear wrestler (requires at least 15 STR)
+Though you've never wrestled an actual bear, you have wrestled a large performer
+in a bear suit in front of a crowd. You do not have disadvantage on grappling
+checks made against creatures one size larger than you.
 
 ### Juggler (requires at least 15 DEX)
 You know how to juggle expertly. You have advantage when you make skill checks
