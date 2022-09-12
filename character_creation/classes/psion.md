@@ -43,7 +43,10 @@ Choose two from the following:
 
 ## Starting equipment
 - Dagger
-- Peasant's Pack
+- Backpack
+- Common clothes
+- 5lb sack of wheat
+- pouch of 5SP
 
 ```
 LVL = level

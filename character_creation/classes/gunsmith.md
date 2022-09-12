@@ -46,7 +46,12 @@ Choose 2 from the following:
 - Either (A) a musket, (B) one revolver, or (C) four pocket pistols
 - 20 medieval bullets
 - A shortsword or 2 daggers
-- Tinker's Pack
+- Backpack
+- Heavy Wrench
+- Tinker's Tools
+- one 10lb unit of scrap
+- common clothes with apron
+- pouch of 5GP
 
 ```
 LVL = level

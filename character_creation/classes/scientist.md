@@ -39,7 +39,12 @@ Select four from the following:
 - Sleight of Hand
 
 ## Starting equipment
-- Tinker's Pack
+- Backpack
+- Heavy Wrench
+- Tinker's Tools
+- one 10lb unit of scrap
+- common clothes with apron
+- pouch of 5GP
 
 ```
 LVL = level

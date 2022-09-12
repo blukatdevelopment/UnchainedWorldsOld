@@ -41,7 +41,12 @@ Choose two from the following:
 - Dagger or mace
 - Holy Book
 - Holy Symbol
-- Priest's Pack
+- backpack
+- vestments
+- holy book
+- holy symbol
+- 2 blocks of incense
+- 5GP
 
 ```
 LVL = level

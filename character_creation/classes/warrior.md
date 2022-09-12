@@ -44,7 +44,15 @@ Choose 2 from the following list:
 - Chain mail or leather armor, longbow, and 20 arrows
 - A martial weapon and shield or two martial weapons
 - A light crossbow and 20 bolts or two handaxes
-- An explorer's pack
+- Backpack
+- Waterskin
+- Traveler's Clothes
+- 10 rations
+- 50ft rope
+- bedroll
+- Mess kit
+- 10 torches
+- pouch of 5GP
 
 ```
 LVL = level

@@ -38,7 +38,15 @@ Select two from the following:
 
 ## Starting equipment
 - Dagger
-- Explorer's pack
+- Backpack
+- Waterskin
+- Traveler's Clothes
+- 10 rations
+- 50ft rope
+- bedroll
+- Mess kit
+- 10 torches
+- pouch of 5GP
 
 ```
 LVL = level

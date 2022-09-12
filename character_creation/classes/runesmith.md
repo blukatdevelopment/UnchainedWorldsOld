@@ -39,7 +39,17 @@ Choose 2 from the following:
 ## Starting Equipment
 - Book of Runes
 - Dagger or quarterstaff
-- Scholar's Pack
+- Backpack
+- quill pen
+- book
+- 2 bottles of ink
+- 10 pieces of paper
+- 10 candles
+- tinderbox
+- bag of sand
+- small knife
+- Fine clothes
+- pouch of 10GP
 
 ```
 LVL = level

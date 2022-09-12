@@ -43,7 +43,13 @@ You are proficient in stealth and 3 from the following:
 ## Starting equipment
 - 10 darts
 - Leather armor, two daggers, and thieve's tools
-- Burglar's pack
+- backpack
+- bag of caltrops(20)
+- flask of strong spirits
+- crowbar
+- black outfit with hood and mask
+- 50ft of hempen rope
+- razor blade
 
 ```
 LVL = level
