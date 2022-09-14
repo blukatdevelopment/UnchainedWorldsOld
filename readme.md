@@ -78,12 +78,6 @@ This is essentially campaign notes for a couple campaigns. These are not
 polished, nor intended for running as-is, but may serve as inspiration for
 others to borrow or steal from.
 
-[Ironclad](keeper_info/campaigns/Ironclad/keeper_info.md) is a sandbox where adventurers
-gather three legendary weapons from the island of Korrus.
-
-[Lysteria](keeper_info/campaigns/Lysteria/player_facing_rules.md) is a campaign
-setting for running connected oneshots.
-
 ### Funnels
 A character funnel gives each player multiple level 0 commoners, then puts the
 group of followers through a gauntlet of deadly encounters. This serves a 
@@ -93,9 +87,6 @@ couple purposes:
 - Create memorable moments to bond the party together before your proper adventure
 - Provide each party member an emotionally resonant backstory
 
-[Fear's Isle](keeper_info/funnels/fears_isle/keeper_info.md) A ship capsizes
-unexpectedly, leaving the party seeking some way to escape the island they have
-washed up on.
 
 ### Modules
 A module provides a few sessions of gameplay, accepting a group of adventurers
