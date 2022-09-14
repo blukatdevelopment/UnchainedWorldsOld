@@ -16,12 +16,12 @@ Sure it is. It just runs on human brains instead of computers. Git gud, scrub.
 
 ## Getting started (as a player)
 You ready to start adventuring?
-Grab a copy of the core rules book, then talk to your game master about which content books to
-look through for lineage, class, and other stuff like spells or bonus mechanics.
+Grab a copy of the core rules book, then talk to your keeper about which content books to
+look through for character creation options.
 
-## Getting started (as a game master)
+## Getting started (as a keeper)
 Grab a copy of the core rules book, then figure out what content is suitable for your campaign.
-Need a game master's guide? Well, be patient! I still gotta write one.
+Need a keeper's guide? Well, be patient! I still gotta write one.
 
 ## How to contribute?
 First off, thanks for your interest. Many hands make light work.
@@ -68,9 +68,9 @@ probably want some supplement books.
 ## GM links
 
 ### Rule supplements
-[book of maladies](gm_info/book_of_maladies.md) contains some diseases, curses,
+[book of maladies](keeper_info/book_of_maladies.md) contains some diseases, curses,
 and a corruption table. 
-[magic items](gm_info/magic_items.md) here's some magic items to stuff into your
+[magic items](keeper_info/magic_items.md) here's some magic items to stuff into your
 dungeons.
 
 ### Campaigns
@@ -78,10 +78,10 @@ This is essentially campaign notes for a couple campaigns. These are not
 polished, nor intended for running as-is, but may serve as inspiration for
 others to borrow or steal from.
 
-[Ironclad](gm_info/campaigns/Ironclad/gm_info.md) is a sandbox where adventurers
+[Ironclad](keeper_info/campaigns/Ironclad/keeper_info.md) is a sandbox where adventurers
 gather three legendary weapons from the island of Korrus.
 
-[Lysteria](gm_info/campaigns/Lysteria/player_facing_rules.md) is a campaign
+[Lysteria](keeper_info/campaigns/Lysteria/player_facing_rules.md) is a campaign
 setting for running connected oneshots.
 
 ### Funnels
@@ -93,7 +93,7 @@ couple purposes:
 - Create memorable moments to bond the party together before your proper adventure
 - Provide each party member an emotionally resonant backstory
 
-[Fear's Isle](gm_info/funnels/fears_isle/gm_info.md) A ship capsizes
+[Fear's Isle](keeper_info/funnels/fears_isle/keeper_info.md) A ship capsizes
 unexpectedly, leaving the party seeking some way to escape the island they have
 washed up on.
 
@@ -104,7 +104,7 @@ a party with a series of challenges, or a GM may geographically link the
 settings of multiple modules to create a large and detailed world for a party
 to explore freely.
 
-[City of Southhorn](gm_info/modules/city_of_southhorn/gm_info.md) a party of
+[City of Southhorn](keeper_info/modules/city_of_southhorn/keeper_info.md) a party of
 adventurers levels 1-3 enter the strife-filled city of Southhorn to uncover it's
 mysteries and discover the dungeon beneath.
 
