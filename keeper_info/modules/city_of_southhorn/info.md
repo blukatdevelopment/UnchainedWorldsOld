@@ -634,7 +634,7 @@ Attacks:
 Bite +1 1 piercing
 ```
 
-#### Dwarven Tomb
+#### titan Tomb
 ```
 ┌──────────────────────────────────────────────────────────────────┐
 │                                                                  │
@@ -670,8 +670,8 @@ it wielding a +1 shield with Bimros's arrow on it. Waking the guardian raises
 all the zombies.
 
 ```
-Dwarven Guardian
-The Dwarven warriors of past ages were buried in their armor in case they
+titan Guardian
+The titan warriors of past ages were buried in their armor in case they
 ever needed to rise again after death to defend their tombs.
 Medium Undead
 XP: 100
@@ -1025,7 +1025,7 @@ Inglewood troops. The once-glass windows were shattered and boarded up, and the
 building is pocked with arrows and a mass grave in the basement.
 
 #### Red Paw
-Inside, Captain Makoro(F, Ferretfolk) hides with 6 other beast folk warriors 
+Inside, Captain Makoro(F, possumfolk) hides with 6 other beast folk warriors 
 from the red paw. If the party investigates, she will approach them and request 
 aid. Objectives:
 - bring food and water
@@ -1215,7 +1215,7 @@ Heavy Crossbow +6 1d10+3 piercing
 
 Items
 - +1 Battleaxe named Fury
-- Gauntlets of Dwarven Kind
+- Gauntlets of titan Kind
 - Ice Gauntlets
 - Stonebreaker: Ring of +2 Strength Score
 - Spellscroll of Invisibility (Baldric)
@@ -1337,7 +1337,7 @@ Folmar will take kindly to the party and offer them jobs if they help with the
 initial boat heist or they approach the thieves with a feather on their hat.
 1. 30GP convince Hine to join the bandits[Q8].
 2. 100GP take the Diadem(if it hasn't been taken yet)[Q9]
-3. 200GP Bring back a magical dwarven weapon from their tomb
+3. 200GP Bring back a magical titan weapon from their tomb
 4. 300GP assassinate Kinkade[Q2]
 
 #### (B) Merc Bunks
@@ -1658,7 +1658,7 @@ Spear +4 2d8+4 piercing
 ### Rumor Table
 1. A demon-possessed lady is being held in the temple basement.
 2. A band called the Red Paw are fighting to abolish the crown.
-3. The basement of the temple has a tomb full of ancient dwarven weapons.
+3. The basement of the temple has a tomb full of ancient titan weapons.
 4. The Ravashack Inn's basement shop sells black market goods.
 5. Inquisitor Oshin was seen late at night leaving the Ravshack Inn.
 6. The herbitory's herb shipments are being threatened by bandit raids.
@@ -1718,7 +1718,7 @@ Odger. If they instead convince the cult to turn on their demonic patron, they
 will gain access to three cultist initiate followers.
 
 ### [Q4]Temple Basement
-Rumors persist about an old dwarven tomb containing weapons. Clearing this tomb 
+Rumors persist about an old titan tomb containing weapons. Clearing this tomb 
 offers loot. Returning Uru's spellbook will result in him sharing its contents 
 as well as offering to accompany the party on their adventures once the 
 inquisition ends.
@@ -1895,7 +1895,7 @@ Resistance: physical damage
 
 ### 5 River Statues
 The water moves from NorthWest to SouthEast, running through a grouping of 
-dwarven statues that are covered in demon nesting. Spores float through the air, 
+titan statues that are covered in demon nesting. Spores float through the air, 
 emanating from skeletons on the statue platforms. Wind wafts from a hole in the 
 wall about 30ft up. This tunnel leads to room 6.
 
@@ -1939,7 +1939,7 @@ Exits:
 - South: tunnel to 11
 
 ### 8 Leech dog zombie den
-6 dogs infected by the leeches have gathered in this entranceway to Dwarven 
+6 dogs infected by the leeches have gathered in this entranceway to titan 
 ruins.
 
 ```
@@ -1970,7 +1970,7 @@ for 60 feet, they will surface in 10. Exits:
 
 ### 10 Demon Treasure Horde
 The west side of the room is submerged in water, stairs leading up to some 
-dwarven statues covered in loot. This room contains the following:
+titan statues covered in loot. This room contains the following:
 - Cursed items
 - Gold, jewelry, fine clothes
 - Evil magic items
@@ -2058,7 +2058,7 @@ Exits:
 
 ### 13 Caved in Passage
 The Northern side of this room has caved in. On the East wall, there is graffiti 
-written in Dwarven.
+written in titan.
 
 ```
 Worthy only may enter.
@@ -2173,7 +2173,7 @@ Exits:
 └───────────────────────────────────────────────────┘
 ```
 
-Spores are heavy in the air, and a few rows of dwarven statues are covered in 
+Spores are heavy in the air, and a few rows of titan statues are covered in 
 pulsating leech crawler egg sacs. There are six sacks, and each has a 1 in 2 
 chance to spawn a swarm of leech crawlers each turn. Egg sacs have an AC of 8 
 and 8 hit points each.
@@ -2297,7 +2297,7 @@ Exits:
 - East: tunnel to 14, sound of grinding
 - West: tunnel up to 18
 
-### 20 Dwarven Feast Hall
+### 20 titan Feast Hall
 A table of nobles sit around a feast hall, infected with leech crawlers. The 
 infected will act calmly and collectedly, fully assimilated. The dutchess, 
 infected with the parasites, will thank the adventurers for rescuing them and 
