@@ -18,9 +18,9 @@ for hp calculation has already been done for you.
 
 
 ## Starting Hitpoints
-You start with 20 + Con Hitpoints
+You start with 20+CON Hitpoints
 
-## Proficiencies:
+## Proficiencies
 ```
 +---------------+---------------------------------+
 | Armor         | Heavy Armor, Shields            |
@@ -33,7 +33,8 @@ You start with 20 + Con Hitpoints
 +---------------+---------------------------------+
 ```
 
-## Skills (Choose 2)
+## Skills
+Choose two from the following:
 - Athletics 
 - Intimidation
 - Animal handling

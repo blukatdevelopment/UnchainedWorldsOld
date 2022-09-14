@@ -669,7 +669,7 @@ it collapses and every creature inside takes 10d8 bludgeoning damage.
 ## Curses
 
 ### Malignant Lycanthropy
-You gain the Lycanthrope Form feature from the lycanthrope class. If you received lycanthropy from a bite, your form mathes that of the biter. If not, roll randomly.
+You gain the Lycanthrope Form feature from the lycanthrope class. If you received lycanthropy from a bite, your form matches that of the biter. If not, roll randomly.
 ```
 +------+----------+
 | Roll |   Form   |

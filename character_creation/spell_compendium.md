@@ -327,7 +327,7 @@ leaps from your blade and burns them.
 ```
 
 ```
-Gust(Cantrip)
+Gust (Cantrip)
 Casting Time: 1 action
 Range: 30ft
 Duration: Instantaneous

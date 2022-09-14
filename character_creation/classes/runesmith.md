@@ -8,8 +8,10 @@
 # \_| \_\__,_|_| |_|\___||___/_| |_| |_|_|\__|_| |_|                           #
 ################################################################################
 ```
-Some channel the power of the weave by studying symbols. These symbols are known as runes. Once carved, runes contain powerful bindings to the weave that can be invoked to cast spells. The
-runesmith is one who dedicates their life to the art of the rune.
+Some channel the power of the weave by studying symbols. These symbols are known 
+as runes. Once carved, runes contain powerful bindings to the weave that can be 
+invoked to cast spells. The runesmith is one who dedicates their life to the art 
+of the rune.
 
 ## Starting hit points
 You start with 4+CON hit points.
