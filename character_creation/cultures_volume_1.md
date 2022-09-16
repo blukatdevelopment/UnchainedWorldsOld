@@ -192,7 +192,8 @@ conventional, and not arcane means.
 
 ### Long hours (requires at least 15 CON)
 You have spent enough long nights working on projects that you aren't affected
-as harshly anymore by a long night. When you go l
+as harshly anymore by a long night. When you go without sleep, you do not feel
+the effects until 48 hours have passed.
 
 ### Tinker (requires at least 15 INT)
 You are proficient with tinker's tools.
