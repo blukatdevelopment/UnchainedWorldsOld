@@ -19,7 +19,7 @@ now.
 
 ### Keeper Card
 ```
-0. Hello, my name is Blukat(he/him)
+0. Hello, my name is Blukat(see/her)
 1. If anything makes you feel uncomfortable, say "I use my X-card" and we'll skip past the current scene.
 2. As a keeper, I like emphasizing problem solving, exploration, and roleplay over combat.
 3. I run combat as war, not sport. By default, I won't shy away from lethal consequences.
