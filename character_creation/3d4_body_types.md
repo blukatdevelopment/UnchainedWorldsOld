@@ -195,6 +195,13 @@ Speed: 30ft
 Abilities: CHA +2
 ```
 
+### Shapeshift
+You may change your physical form to match that of a creature with a common body
+type, provided you have seen that creature before. This change lasts until you
+are reduced to 0 hit points. Shapeshifting using an action takes roughly six
+seconds to complete. Shapeshifting via free object interaction or reaction
+consumes one stamina die and is nearly-instantaneous.
+
 ## Specter
 You have a common body. Well, you used to before you died. Now you walk the
 material plane as a spirit. If cut, you bleed ectoplasm instead of blood. You
