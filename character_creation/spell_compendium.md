@@ -652,7 +652,8 @@ A jet of flame projects from each of your palms and you temporarily gain flight.
 All creatures within 5ft of you must succeed a dexterity saving throw or take 
 fire damage equal to the amount rolled on your psionic die. Until the start of 
 your next turn, you gain a flying speed of 60ft and movement does not provoke 
-an attack of opportunity.
+an attack of opportunity. If you did not cast this spell with a psionic die,
+substitute with 1d4.
 ```
 
 ```
@@ -666,7 +667,8 @@ the amount you rolled on your psionic die. The enemy may contest the grapple by
 making an acrobatics or athletics check. If you succeed, the enemy is grappled. 
 The psionic grapple lasts one minute and requires concentration. If a creature 
 grappled this way resists, you must repeat the check by rolling your psionic 
-die again.
+die again. If you did not cast this spell with a psionic die, substitute with
+1d4.
 ```
 
 ```
@@ -678,7 +680,8 @@ You use your bonus action to envision yourself holding a longsword in an empty
 hand and your psionic energy manifests to create an invisible blade of force. 
 You are proficient with the mind blade, which lasts for up to one minute and 
 requires concentration. If you make an attack with it on this turn, you may add 
-the amount rolled on your psionic die to your first attack roll.
+the amount rolled on your psionic die to your first attack roll. If you did not
+cast this spell with a psionic die, substitute with 1d4.
 ```
 
 ```
@@ -694,7 +697,8 @@ projectile hangs in the air in front of you. At the start of your next turn,
 you may send each hanging projectile at a target of your choice. Make a ranged
 spell attack for each projectile, which does 1d4 piercing damage on a hit.
 From Higher Levels: You may cast from higher levels. When you do, the total
-of the dice rolled are added to the amount of damage reduction.
+of the dice rolled are added to the amount of damage reduction. If you did not
+cast this spell with a psionic die, substitute with 1d4.
 ```
 
 ```
@@ -2323,13 +2327,14 @@ Range: 60 feet
 Duration:
 You use your action to envision a creature within 60 feet performing a harmful 
 action. Make an intelligence check and add the amount you rolled from your 
-psionic die to overwhelm their mind. This is the DC for a wisdom saving throw 
+psionic die to overwhelm their mind.This is the DC for a wisdom saving throw 
 the targeted creature must make. On a failure, the creature must perform the 
 harmful action at the start of their next turn. Harmful actions may include 
 performing an attack on themself or another creature, shoving another creature, 
 casting a spell, or moving up to their full movement speed and provoking attacks 
 of opportunity. You must be aware of the target's ability (such as their ability
-to cast a spell) to invoke it.
+to cast a spell) to invoke it. If you did not cast this spell with a psionic die,
+substitute with 1d4.
 ```
 
 ```
@@ -2809,7 +2814,8 @@ You and up to 6 creatures link hands and meditate. You each attempt to connect
 your minds for the purpose of lending mental stamina. Each creature rolls 
 1d8. They take as much psychic damage. Add up the amount they rolled. If it
 is higher than 10, then regardless of what you roll on your psionic die for this
-particular casting, your psionic die grows to a D10.
+particular casting, your psionic die grows to a D10. If you did not cast this
+spell with a psionic die, substitute with 1d4.
 ```
 
 ```
