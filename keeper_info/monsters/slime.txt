@@ -52,7 +52,7 @@ XP: 100
 Speed: 30ft
 Corrosion: Melee attacks against a Grey slime corrode the weapon, subtracting
 -1 from damage dealt by attacks. Any creature that touches the black slime takes 1d4 acid damage.
-Burn +3 1d6 acid damage
+Smother +4 1d6+2 acid damage. If target is wearing armor, the AC falls by -1
 
 Cube Slime
 Huge Slime

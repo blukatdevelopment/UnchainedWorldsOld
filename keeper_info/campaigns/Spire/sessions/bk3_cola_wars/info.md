@@ -114,6 +114,9 @@ Secrets:
 - Crew of 12 foot soldiers with muskets
 
 # Dungeon
+Recommended tracks:
+https://www.youtube.com/watch?v=4RfCSPXdbs8
+
 ## Monsters
 If the party makes a loud noise or stops moving for 10 minutes,
 roll a 1d6. On a 1 or 2, roll monsters. They will appear
