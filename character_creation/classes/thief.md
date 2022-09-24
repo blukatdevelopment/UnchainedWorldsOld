@@ -107,7 +107,7 @@ of your choice by 1. You cannot increase an ability score past 20.
 
 ### Trickster's Arcana
 You know the Lesser Telekinesis cantrip from the spell compendium volume 1. You
-may expend a hit die to cast this spell. 
+may expend a stamina die to cast this spell. 
 
 ### Improvised Shield
 If you hold an item such as a thick book, a bar stool, or table, you may use it
@@ -116,7 +116,7 @@ only 1 or 2 lower than your AC, the item takes damage from the attack, and might
 be destroyed.
 
 ### Distracting Phrase
-When a creature is about to make an attack, you may expend a hit die and
+When a creature is about to make an attack, you may expend a stamina die and
 use your reaction to call it's attention to you and away from the attack,
 granding that attack disadvantage.
 
@@ -129,7 +129,7 @@ creature's next turn, the first attack made against it has advantage due to this
 distraction.
 
 ### Pocket Sand
-You may expend your hit die to throw pocket sand at one creature within 5ft of
+You may expend your stamina die to throw pocket sand at one creature within 5ft of
 you. The creature may use it's reaction to make a DC 14 dexterity saving throw.
 If it fails or does not make the save, it is blinded until the start of your
 next turn.
@@ -143,7 +143,7 @@ You may now use your bonus action to perform sleight of hand checks, use your
 thieves' tools to disarm a trap, open a lock, or take the Use An Object action.
 
 ### Fast Feet
-You consume a hit die to unlock hidden stamina. Adrenaline pumps through your
+You consume a stamina die to unlock hidden stamina. Adrenaline pumps through your
 veins and you feel faster than normal. For this turn, your speed doubles.
 
 ### Slippery
