@@ -89,7 +89,10 @@ roll an encounter.
 - Surrounded by overgrown yard
 - Windows busted out, festering corpses scattered
 See: Dungeon
-- Entrances: North(F1R8), West(F1R7), South(F1R1)
+Entrances:
+- North(F1R8) with broken glass pouring out the door 
+- West(F1R7) smell of smoke, sound of fire
+- South(F1R1) sign that says "entrance"
 
 ## Farm
 - Rows of Goldas plants (Gold herb, regain 1 hit die)

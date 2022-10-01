@@ -22,6 +22,7 @@ network of trade routes vanishing overnight.
 ```
 
 ## 1 Gold Robe
+[![Gold Robes](../../img/culture_gold_robes.png)](../../img/culture_gold_robes.png)
 Those who benefited most from the empire of man's core's wealth and abundance of
 imports long for the return of the empire. Named for their status symbol, each
 individual in gold robe society wears a robe with gold fiber sewed in. The
@@ -70,6 +71,7 @@ You learned to give speeches, and to deliver both biting criticism and sharp
 retorts. You are proficient in persuasion.
 
 ## 2 The silent
+[![The silent](../../img/culture_silent.png)](../../img/culture_silent.png)
 These folk practice stoic traditions handed down to them from various
 magical creatures. Children of the silent take a vow of silence from a young
 age, and their rite of passage into adulthood is to confirm their vow by the
@@ -116,6 +118,7 @@ well, independently of your handspeak. You may effortlessly communicate concrete
 concepts like fire or death to creatures that do not share a language with you.
 
 ## 3 Bronzehammer
+[![Bronzehammer](../../img/culture_bronzehammer.png)](../../img/culture_bronzehammer.png)
 Folk with a culture of near-worship of metal. Bronzehammers often decorate
 their homes with metal ingots, and it's not uncommon for them to believe that
 metal holds spiritual significance. From an early age, bronzehammer children
