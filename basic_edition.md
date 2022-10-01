@@ -64,11 +64,13 @@ the relevant ability.
 ### Generating ability scores
 Roll 4d6. Set aside the lowest roll and ignore it. Add up the remaining three. This is your strength score. Repeat this process for the other five abilities. When you’re done, you may switch the scores of two abilities. You may do this only for one pair of abilities.
 
-
 ## Class
 You may choose between mage, rogue, or fighter.
 
 ### Mage
+Mages can use stalves and daggers, but cannot wear armor. You start with a
+spellbook to store your spells in, a wand to cast spells with, robes, 10
+torches, 10 days of rations, and 10 gold pieces.
 ```
 +-----+------+-----+--------+-----------+------------------+
 | LVL |  XP  | HP  | SPELLS | SPELL LVL |       Feat       |
@@ -93,12 +95,15 @@ Pick one spell. Whenever you rest, you may prepare a copy for cast, and doing so
 does not count against the number of spells you can prepare.
 
 #### Improve Spell
-Pick one spell. Work with the keeper.
+Pick one spell. Make some change or improvement to it. Work with the keeper.
 
 #### Signature Spell
 You may create your own spell. It may be any spell level. Work with the keeper.
 
 ### Rogue
+Rogues can use one-handed weapons, and can wear light armor.
+You start with two daggers, a bow with 20 arrows, 10 torches, 10 days of
+rations, a hooded outfit, and 10 gold pieces.
 ```
 +-----+------+-----+--------+
 | LVL |  XP  | HP  | Tricks |
@@ -147,6 +152,11 @@ You may create your own spell. It may be any spell level. Work with the keeper.
 10. Cat-like reflexes: All fall damage is halved for you.
 
 ### Fighter
+Fighters can use all weapons and armor. Choose one of the following options for
+starting gear:
+1. Sword, shield, medium armor
+2. sword, bow, 20 arrows, light armor
+then add 10 torches, 10 days of rations, a traveler's outfit, and 10 gold pieces.
 ```
 +-----+------+------+-----------------+
 | LVL |  XP  |  HP  |      Feat       |
@@ -158,6 +168,7 @@ You may create your own spell. It may be any spell level. Work with the keeper.
 |   5 | 2000 | 5d10 | Extra Attack    |
 +-----+------+------+-----------------+
 ```
+
 #### Weapon Training
 Pick 3 types of weapons. You gain a +2 bonus to attacks made with them.
 
@@ -177,6 +188,21 @@ Choose one of the following options:
 - Brute: Your attacks deal 1d12 damage instead of 1d6
 - Weapon Expert: Pick 3 types of weapons. You gain a +2 bonus to attacks made with them.
 
+## Additional stats
+
+### Hit points
+Hit points represent your physical well-being, reducing when you take damage.
+When your hit points fall to 0, you are dead.
+
+### Armor class
+When an attack is made, it must meet or exceed the target's armor class(AC) to
+hit. See the armor section to determine your AC.
+
+### Carry weight
+Carry weight decides how many pounds of stuff you can carry and wear on your
+person. Your carry weight is equal to 7 times your strength score. If your
+strength score is 10, for instance, you can carry 70 lbs on you.
+
 # Combat
 ## Initiative
 Each combatant rolls a 1d20 and adds their dexterity modifier to the roll. Turn order reflects the roll. On a tie, 
@@ -195,7 +221,9 @@ similarly taxing actions.
 
 #### Making attacks
 Roll a 1d20, then add your Strength(for melee) or Dexterity(for ranged) modifier
-to the roll. If your attack hits, then you can roll 1d6 and ad the same modifier
+to the roll. If that roll is higher than your target's armor class(AC), then it
+hits. The keeper keeps track of monster stats, and will tell you if your attack
+hits. If your attack hits, then you can roll 1d6 and add the same modifier
 you used earlier.
 
 ### Free object interactions
@@ -242,9 +270,7 @@ Adventuring requires a great many things. Here are some of them.
 | Block and tackle             | 1 gp     | 5 lb.        |
 | Candle                       | 1 cp     | —            |
 | Clothes, Common              | 5 sp     | 3 lb.        |
-| Clothes, costume             | 5 gp     | 4 lb.        |
 | Clothes, fine                | 15 gp    | 6 lb.        |
-| Clothes, traveler’s          | 2 gp     | 4 lb.        |
 | Crowbar                      | 2 gp     | 5 lb.        |
 | Hammer                       | 1 gp     | 3 lb.        |
 | Lantern, bullseye            | 10 gp    | 2 lb.        |
