@@ -86,7 +86,8 @@ torches, 10 days of rations, and 10 gold pieces.
 Chose either INT or WIS as your spellcasting modifier. When you make
 spell attack rolls, add this modifier. When targets make saving throws to resist
 your spells, they roll against 10 + spellcasting modifier. During each rest, you
-may pepare copies of your spells to cast. You can prepare as many spells of a
+may pepare copies of your spells to cast. You know 1 spell at first level, and
+learn a new one with each level following. You can prepare as many spells of a
 level as the number of spells known for that level. So if you know 3 1st level
 spells, you can prepare 3 1st level spells.
 
