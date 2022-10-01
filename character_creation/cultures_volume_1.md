@@ -22,7 +22,7 @@ network of trade routes vanishing overnight.
 ```
 
 ## 1 Gold Robe
-![Gold robes](../img/culture_gold_robes.png?raw=true "Gold Robes")
+![Gold robes](../../img/culture_gold_robes.png?raw=true "Gold Robes")
 Those who benefited most from the empire of man's core's wealth and abundance of
 imports long for the return of the empire. Named for their status symbol, each
 individual in gold robe society wears a robe with gold fiber sewed in. The
