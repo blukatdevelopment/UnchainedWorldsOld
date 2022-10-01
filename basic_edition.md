@@ -69,8 +69,8 @@ You may choose between mage, rogue, or fighter.
 
 ### Mage
 Mages can use stalves and daggers, but cannot wear armor. You start with a
-spellbook to store your spells in, a wand to cast spells with, robes, 10
-torches, 10 days of rations, and 10 gold pieces.
+spellbook to store your spells in, a wand to cast spells with, robed common
+clothes, 10 torches, 10 days of rations, and 10 gold pieces.
 ```
 +-----+------+-----+--------+-----------+------------------+
 | LVL |  XP  | HP  | SPELLS | SPELL LVL |       Feat       |
@@ -104,7 +104,7 @@ You may create your own spell. It may be any spell level. Work with the keeper.
 ### Rogue
 Rogues can use one-handed weapons, and can wear light armor.
 You start with two daggers, a bow with 20 arrows, 10 torches, 10 days of
-rations, a hooded outfit, and 10 gold pieces.
+rations, hooded common clothes, and 10 gold pieces.
 ```
 +-----+------+-----+--------+
 | LVL |  XP  | HP  | Tricks |
@@ -157,7 +157,8 @@ Fighters can use all weapons and armor. Choose one of the following options for
 starting gear:
 1. Sword, shield, medium armor
 2. sword, bow, 20 arrows, light armor
-then add 10 torches, 10 days of rations, a traveler's outfit, and 10 gold pieces.
+then add 10 torches, 10 days of rations, athletic common clothes, and 10 gold
+pieces.
 ```
 +-----+------+------+-----------------+
 | LVL |  XP  |  HP  |      Feat       |
@@ -193,7 +194,8 @@ Choose one of the following options:
 
 ### Hit points
 Hit points represent your physical well-being, reducing when you take damage.
-When your hit points fall to 0, you are dead.
+When your hit points fall to 0, you are dead. When you roll your hit points
+, you may add your constitution modifier for each die rolled.
 
 ### Armor class
 When an attack is made, it must meet or exceed the target's armor class(AC) to
@@ -235,6 +237,14 @@ from the ground.
 Combat is centered around 5ft increments of distance. You may move in these increments. Once you have moved your maximum movement speed
 in one turn, you cannot move again until the start of your next turn. Moving 5ft counts against all your movement speeds. This means
 if you have 30ft movement and 15 flying, you may fly 15ft and walk 15ft, but you cannot walk 30ft and then fly 15ft.
+
+## Checklist
+If you do every step on this list, your character is done.
+1. Roll ability scores. Swap one pair of scores if you want.
+2. Choose class, adding starting gear and feats/spells/tricks.
+3. Roll your hit points
+4. Calculate your AC and carry weight
+5. Name your character
 
 # Exploration
 
