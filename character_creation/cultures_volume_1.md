@@ -22,7 +22,7 @@ network of trade routes vanishing overnight.
 ```
 
 ## 1 Gold Robe
-![Gold robes](../../img/culture_gold_robes.png?raw=true "Gold Robes")
+![Gold robes](../img/culture_gold_robes.png?raw=true "Gold Robes")
 Those who benefited most from the empire of man's core's wealth and abundance of
 imports long for the return of the empire. Named for their status symbol, each
 individual in gold robe society wears a robe with gold fiber sewed in. The
@@ -254,7 +254,12 @@ gases.
 ### Moonlighting academic (requires at least 15 INT)
 You worked with proximity to sensitive information. Maybe you were a chimney
 sweep for wealthy homes, or spent plenty of time around engineers in a factory,
-or something else. Choose your 
+or something else. Choose one of the following skills, and gain expertise in it,
+adding twice your proficiency bonus when you make checks with it.
+- Investigation
+- History
+- Arcana
+- Nature
 
 ### Haggle (requires at least 15 WIS)
 You didn't get where you are by paying full price.

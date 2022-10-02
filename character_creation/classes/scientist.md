@@ -90,7 +90,7 @@ in secured locations. Choose one of the following:
 
 ### Fundamental Truth
 You learn one principle that applies broadly to your body of work. This guides
-your attitudes towards
+your attitudes you use to ask questions and answer them.
 
 #### Know your enemy
 When you spend one hour and a stamina die performing an autopsy of a monster's
