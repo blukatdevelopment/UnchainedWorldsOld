@@ -222,6 +222,7 @@ have advantage on performance checks to entertain or distract while using this
 technique.
 
 ## 5 Soot
+![Soots](../img/culture_soots.jpg?raw=true "Soots")
 The folk that first emerged from shifts in titan mines quickly took on this name
 due to the pitch black coal dust clinging to their forms. Their role remains
 preserved after the empire's collapse. If there is a dirty industrial job,
