@@ -117,8 +117,8 @@ You have learned to silently mimmick many actions and abstract concepts rather
 well, independently of your handspeak. You may effortlessly communicate concrete
 concepts like fire or death to creatures that do not share a language with you.
 
-## 3 Bronzehammer
-![Bronzehammer](../img/culture_bronzehammer.jpg?raw=true "Bronzehammer")
+## 3 Bronzehammers
+![Bronzehammers](../img/culture_bronzehammers.jpg?raw=true "Bronzehammers")
 Folk with a culture of near-worship of metal. Bronzehammers often decorate
 their homes with metal ingots, and it's not uncommon for them to believe that
 metal holds spiritual significance. From an early age, bronzehammer children
