@@ -163,7 +163,8 @@ you are knowledgeable or not. You gain advantage on any deception check which
 depends upon your perceived expertise on minerology, metallurgy, smithing, or
 mining.
 
-## 4 Cogger
+## 4 Coggers
+![Coggers](../img/culture_coggers.jpg?raw=true "Coggers")
 Gaining their name from their fascination with clockwork, the coggers are a
 people who immerse themselves in tinkering as a way of life. Some specialize
 in larger constructions such as cranes, trebuchets, and drawbridges, while
