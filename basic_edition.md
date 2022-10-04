@@ -76,8 +76,8 @@ clothes, 10 torches, 10 days of rations, and 10 gold pieces.
 | LVL |  XP  | HP  | SPELLS | SPELL LVL |       Feat       |
 +-----+------+-----+--------+-----------+------------------+
 |   1 |    0 | 1d4 |      1 |         1 | Spellcasting     |
-|   2 |  100 | 2d4 |      2 |         1 | Reliable Spell   |
-|   3 |  600 | 3d4 |      3 |         2 |                  |
+|   2 |  100 | 2d4 |      2 |         1 | Improve Spell    |
+|   3 |  600 | 3d4 |      3 |         2 | Improve Spell    |
 |   4 | 1200 | 4d4 |      4 |         2 | Improve Spell    |
 |   5 | 2000 | 5d4 |      5 |         3 | Signature Spell  |
 +-----+------+-----+--------+-----------+------------------+
@@ -87,12 +87,8 @@ Chose either INT or WIS as your spellcasting modifier. When you make
 spell attack rolls, add this modifier. When targets make saving throws to resist
 your spells, they roll against 10 + spellcasting modifier. During each rest, you
 may pepare copies of your spells to cast. You know 1 spell at first level, and
-learn a new one with each level following. You can cast each spell once per 
-rest.
-
-#### Reliable Spell
-Pick one spell. Whenever you rest, you may prepare a copy for cast, and doing so
-does not count against the number of spells you can prepare.
+learn a new one with each level following. You can cast each spell you know once
+per rest.
 
 #### Improve Spell
 Pick one spell. Make some change or improvement to it. Work with the keeper.
