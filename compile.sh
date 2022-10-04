@@ -1,6 +1,6 @@
 # This script updates the pdfs for different text files.
 # You need pandoc for this to work, and also a unix shell.
-
+# sudo apt-get install pandoc texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-extra
 
 # Compile classes doc. Change this to add more classes
 cd character_creation/classes/
@@ -16,16 +16,17 @@ cat commoner.md >> classes.md
 cat colossus.md >> classes.md
 cat lycanthrope.md >> classes.md
 sed -i 's/(└|┌|┐|┘|┬|▼)/+/g' classes.md
-pandoc classes.md -o ../../pdf/classes.pdf
+pandoc classes.md -o ../../pdf/classes.pdf -V geometry:left=0in
 rm classes.md
 
 
 # Compile supplements
 cd ..
-pandoc 3d4_body_types.md -o ../pdf/body_types.pdf
-pandoc cultures_volume_1.md -o ../pdf/cultures.pdf
-pandoc spell_compendium.md -o ../pdf/spells.pdf
+pandoc 3d4_body_types.md -o ../pdf/body_types.pdf -V geometry:left=0in
+pandoc cultures_volume_1.md -o ../pdf/cultures.pdf -V geometry:left=0in
+pandoc spell_compendium.md -o ../pdf/spells.pdf -V geometry:left=0in
 
 # Compile basic edition
 cd ..
 pandoc basic_edition.md -o pdf/basic_edition.pdf
+pandoc core_rules.md -o pdf/core_rules.pdf -V geometry:left=0in
