@@ -87,9 +87,8 @@ Chose either INT or WIS as your spellcasting modifier. When you make
 spell attack rolls, add this modifier. When targets make saving throws to resist
 your spells, they roll against 10 + spellcasting modifier. During each rest, you
 may pepare copies of your spells to cast. You know 1 spell at first level, and
-learn a new one with each level following. You can prepare as many spells of a
-level as the number of spells known for that level. So if you know 3 1st level
-spells, you can prepare 3 1st level spells.
+learn a new one with each level following. You can cast each spell once per 
+rest.
 
 #### Reliable Spell
 Pick one spell. Whenever you rest, you may prepare a copy for cast, and doing so
@@ -210,7 +209,7 @@ strength score is 10, for instance, you can carry 70 lbs on you.
 ## Initiative
 Each combatant rolls a 1d20 and adds their dexterity modifier to the roll. Turn order reflects the roll. On a tie, 
 the combatant with the highest dexterity goes first. When a tie remains after comparing dexterity, combatants each roll a 1d20 and the highest
-goes first. Combat with this initiative is consistent between rounds, and so players can count on turn order when making plans.
+goes first.
 
 ## On your turn
 On each turn, you receive the following:
