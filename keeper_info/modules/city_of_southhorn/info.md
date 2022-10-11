@@ -775,7 +775,7 @@ two guards escort the party if they enter to make purchases.
 +------+--------------------------------------+
 | 2GP  | Blue Mushroom (1d6 Temp HP)          |
 | 5GP  | Pink Mushroom (+10 speed 1 minute)   |
-| 5GP  | Gold Herb (regain 1 hit dice)        |
+| 5GP  | Gold Herb (regain 1 stamina dice)    |
 | 5GP  | White Mushroom (+2 stamina, -1d4 HP) |
 | 10GP | Purple Mushroom (2d6 poison)         |
 | 15GP | Red Herb (Frenzy 1 minute)           |
