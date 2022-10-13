@@ -211,7 +211,7 @@ Roll for a trigger, which causes the transformation for 1d4 hours.
 |    1 | Falling below half hit points              |
 |    2 | Watching a friendly creature die           |
 |    3 | Looking at celestial, demon, or aberration |
-|    4 | losing a hit dice to exhaustion            |
+|    4 | losing a stamina die to exhaustion         |
 +------+--------------------------------------------+
 ```
 #### 3 Turned Beast
