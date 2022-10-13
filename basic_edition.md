@@ -101,7 +101,7 @@ You may create your own spell. It may be any spell level. Work with the keeper.
 1. Telekinesis: From up to 100ft away, you lift an object up to 50lb and move it up to 30ft each round.
 2. Light: You touch one item and it glows for 1 hour. If you touch a monster's eyes(succeeding a contested DEX check), it is blinded for that time.
 3. Magic Missile: Fire three darts among 1-3 targets within 120 feet. Each dart hits and deals 1d4 damage.
-4. Read magic: You can detect magical effects within 30ft, and read any magical runes in order to learn spells from scrolls.
+4. Read magic: You can detect magical effects within 30ft, and read any magical runes in order to learn spells from scrolls or books.
 5. Vines: Vines grow over a 10ft square surface. Any creatures in the range make a STR save to prevent or escape being immobilized.
 6. Grease: You conjure grease onto a 30ft square surface of terrain for 1 hour. Crossing without slipping requires DEX save.
 7. Sleep: Target up to 3 creatures within 60ft. Roll 5d6. Any creature with equal or less hit points rolled falls asleep for 1 hour.
@@ -125,7 +125,7 @@ You may create your own spell. It may be any spell level. Work with the keeper.
 1. Flight: You fly for 10 minutes.
 2. Fireball: Center a 30ft sphere within 120ft. Targets make DEX save to halve 8d6 damage.
 3. Lightning bolt: 100ft bolt passes through targets. Targets make DEX save to halve 6d8 damage.
-4. Rune: You cast a spell and trap it in a rune that can be released by firmly tapping the center of the rune.
+4. Scroll: You cast another spell simultaneously and trap it on a sheet of paper, creating a spell scroll.
 5. Healing cloud: Create a 20ft spherical cloud that heals 2d6 hit points from all creatures inside.
 6. Force cage: For 1 minute you create a 30ft box made of unbreakable force.
 7. Teleport: You and up to five targets disappear, and reappear at any one location you've been to before. Roll a 1d20. On a 1, everyone takes 2d6 damage.
@@ -471,12 +471,26 @@ Curse: Target succeeds a WIS save or is cursed. Curse can be repealed by warlock
 #### Red Mage, HP:4, AC:10, [10, 10, 10, 10, 10, 10], Staff +0 1d6
 #### Necromancer, HP:4, AC:10, [10, 10, 10, 10, 10, 10], Knife +0 1d6
 
-### Tentacled Beaker (200XP)
-- HP: 20, AC: 10
-- [16, 10, 13, 4, 10, 10]
-- Can make two tentacle attacks, or one beak attack
-- Tentacle +3 1d4+3, on hit grapples target
-- Beak (target must be grappled) +3 2d8+3
+### Monstrosities
+Roll 3d10 to generate a monstrosity. Assign stats, one attack, and one ability
+accordingly.
+
+```
++------+---------------+-----------+-----------+
+| Roll |     Part1     |   Part2   |   Part3   |
++------+---------------+-----------+-----------+
+|    1 | Beaked        | Fire      | Beetle    |
+|    2 | Limbless      | Ice       | Stalker   |
+|    3 | Winged        | Lightning | Centipede |
+|    4 | Glistening    | Meat      | Blob      |
+|    5 | Eyeless       | Skin      | Crawler   |
+|    6 | Hardened      | Poison    | Sniffer   |
+|    7 | Babbling      | Eye       | Mouther   |
+|    8 | Long-fingered | Hand      | Breather  |
+|    9 | Man-faced     | Night     | Beast     |
+|   10 | Glowing       | Radiant   | Man       |
++------+---------------+-----------+-----------+
+```
 
 ### Giant (300XP)
 - HP: 50, AC: 10
@@ -519,12 +533,12 @@ Curse: Target succeeds a WIS save or is cursed. Curse can be repealed by warlock
 1. Flame tongue: Flaming sword that deals 2d8 damage
 2. Flame gauntlet: 15ft cone of fire, targets make DC 14 DEX save to halve 3d6 damage
 3. Sword of hunger: +1 bonus after it consumes 3 souls, +2 after 10 souls, +3 after 15 souls
-4. Spell Stalf: Can cast one random spell. Roll a 1d20. On 1 or 2, stalf is destroyed.
+4. Letter: This dagger contains 1d4 random spells. Spells can be cast any number of times. Each cast drains 1d4 HP from the caster.
 5. Magic sword: sentient sword with an eye. +1 to attack and damage rolls.
-6. 
-7. 
-8. 
-9. 
+6. Autocrossbow: With one action, you may fire this crossbow up to three times.
+7. Stunrod: A metal stick which shocks the target, who must succeed a DC 13 CON save or lose their next turn in initiative.
+8. Sun mace: This mace is shaped like the sun. Undead hit with this blade must succeed a DC 14 CON save to halve 3d6 extra damage.
+9. Man Slayer: Humanoids struck with this greatsword take an additional 2d6 damage.
 10. 
 11. 
 12. 
@@ -552,46 +566,46 @@ Curse: Target succeeds a WIS save or is cursed. Curse can be repealed by warlock
 12. Potion of shrinking: You halve in size for 1 hour
 13. Potion of levity: For the next ten minutes you float upwards slowly.
 14. Potion of weightlessness: For the next ten minutes, gravity has no effect on you.
-15. 
-16. 
-17. 
-18. 
-19. 
-20. 
+15. Poison of withering: For the next minute, target must succeed DC15 CON save or take 2d6 damage
+16. Poison of flammability: for the next minute, the target takes twice as much damage from damaging fire
+17. Holy Water: Deals 3d6 damage when splashed on the undead and fiends
+18. Potion of haste: You may take two actions each turn for the next hour.
+19. Verdant spirit: When poured on plants, they quickly grow up to 100 feet taller.
+20. Liquid fear: Drinking this fills you with intense fear. The undead are drawn inexorably to the scent of this liquid.
 
 ### Anomalies
 1. Soul pendant: If the wearer dies, the crystal shatters and the wearer wakes up with half their max HP.
-2. Bag of holding: Bag that leads to 15 foot cube pocket dimension
+2. Bag of holding: Bag that leads to 15 foot cubic foot pocket dimension that can hold 900 
 3. Drift globe: produces light for 6 hours per day when held.
 4. Immovable rod: Rod with button, that when pressed, prevents rod from moving.
 5. Sending stones: Set of two stones. Once per day, can communicate up to 15 words each way.
-6. Pearl of power: Allows the holder to prepare 3 more spells of any level.
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
-17. 
-18. 
+6. Pearl of power: The wearer may reroll the damage on any spell they cast and choose either value. After being used, it cannot be used again until dawn.
+7. Weather stone: Press on this stone and it will audibly tell you what the weather is around you.
+8. Flameless ration heater: This pouch grows hot enough to boil water.
+9. Portable hole: A black circle of silk 6ft in diameter. Place this against a flat surface and it becomes a gate to a 10ft tall cylindrical pocket dimension. 
+10. Quarreling stones: Kind when alone, placing these talking stones within a foot of each other causes them to bicker loudly.
+11. Easily Misplaced key: Turning this key in any door's lock transports you to the other side, without the key.
+12. Empty bucket: The inside of this bucket contains a field of annihilation destroys anything it touches.
+13. Cow Bell: Ringing this bell transforms it into a milk-producing dairy cow for one hour, after which it changes back and can't transform again until dawn.
+14. Heliocentric dial: A dial with a button on it. Adjust the position, and press the button. The world teleports to a different orbit around the sun, changing the season accordingly. Causes a meteor shower for the next day.
+15. Tiny boulder: This pebble will grow into a 1 ton, 10ft diameter boulder when you say "grow", and shrink back when you say "shrink".
+16. Mirror of truth: Invisible objects are visible in this mirror's reflection.
+17. Bard's lute: This lute has stored 1d4 random spells from the illusionist spell list. You may cast each of these spells once by playing the lute. Spells return each dawn.
+18. Wand of <spell>: This wand contains a spell. You may cast the spell using this wand. It restores at dawn.
 19. 
 20. 
 
 ### Worn
 1. Cape of flight: Grants 10 minutes of flying once per day.
-2. Bucket's bust: Plate armor that halves incoming damage from fire.
+2. Bucket's bust: Breastplate that halves incoming damage from fire.
 3. Spider boots: Can walk up walls or ceilings 
 4. Magic armor: +1 to AC
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+5. Crown of the mad mage: Wearing this crown grants +4 INT, -4 WIS
+6. Rose-tinted glasses: Wearer can see the childhood memories of anyone by gazing into their eyes.
+7. Earrings of sympathy: When worn by two creatures, incoming damage is divided equally among them both.
+8. Necklace of fireballs: has 2d4 fireball pendants. Breaking one off and throwing it casts fireball centered on the pendant.
+9. Invisibility cloak: Anything within the cloak is invisible. Wearer must cover face with hood to be entirely invisible.
+10. The family ring: Speak the name of a family backwards, and this signet ring changes to that family's symbol.
 11. 
 12. 
 13. 
@@ -604,37 +618,15 @@ Curse: Target succeeds a WIS save or is cursed. Curse can be repealed by warlock
 20. 
 
 ### Expendable
-1. Instant tavern: Tiny model tavern. Add water and it expands into a regular-sized tavern. 
+1. Blu's Instant tavern: Tiny model tavern. Add water and it expands into a regular-sized tavern staffed my small blue catfolk.
 2. Hat of infinite bunnies: Every time the hat is flipped over, a bunny falls out.
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
-17. 
-18. 
-19. 
-20. 
-
-Below are 20 magic items to give to monsters and put in treasure hoards.
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
+3. Bottled fairie: If you let this fairy go, your max HP increases by 1d4. If you fall to 0 HP with this item, the jar shatters and the fairie raises you to half your HP while it escapes.
+4. The monkey paw: Cursed. Grants one wish per finger. Each wish is granted with malicious compliance, or otherwise rejected outright.
+5. Bottle of lightning: Shattering this bottle unleashes a bolt of lightning at any creatures within 6 paces, dealing 3d6 damage.
+6. Smokebomb: Creates a cloud that fits in a 20ft cube that lasts for 10 minutes.
+7. Spell scroll: Contains one spell, whose invocation appears in a language you understand as illusory text. Reading this casts the spell with a +5 spell modifier and spell DC of 13, destroying the scroll.
+8. Spellbook: Contains 1d4-1 spells(minimum 1). Copying a spell from this book removes it from this book.
+9. Electric Salt lick: 2d4 uses. Lick the salt with your action. Until the start of your next turn, any creature that touches you takes 2d4 damage from an arc of lightning leaping from you.
 10. 
 11. 
 12. 
