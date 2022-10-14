@@ -559,7 +559,7 @@ Roll    Sin Feature1    Feature2
 9. Man Slayer: Humanoids struck with this greatsword take an additional 2d6 damage.
 10. Magic boomerang: The boomerang is thrown on an arc and may attack up to three creatures in it's path.
 11. Rune sword: The wielder may attempt to 
-12. 
+12.
 13. 
 14. 
 15. 
