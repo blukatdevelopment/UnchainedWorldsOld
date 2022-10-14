@@ -472,8 +472,9 @@ Curse: Target succeeds a WIS save or is cursed. Curse can be repealed by warlock
 #### Necromancer, HP:4, AC:10, [10, 10, 10, 10, 10, 10], Knife +0 1d6
 
 ### Monstrosities
-Roll 3d10 to generate a monstrosity. Assign stats, one attack, and one ability
-accordingly.
+Roll 3d12 to generate a random monstrosity. Assign stats, one attack, and one
+ability accordingly. If you want to theme a group of similar monstrosities, then
+choose 3d4, 3d4+4, or 3d4+8 for a small group.
 
 ```
 +------+---------------+-----------+-----------+
@@ -489,8 +490,25 @@ accordingly.
 |    8 | Long-fingered | Hand      | Breather  |
 |    9 | Man-faced     | Night     | Beast     |
 |   10 | Glowing       | Radiant   | Man       |
+|   11 | Growling      | Plump     | Tooth     |
+|   12 | Shrieking     | Dagger    | Eye       |
 +------+---------------+-----------+-----------+
 ```
+
+### Demons
+Roll    Sin Feature1    Feature2
+1   Filthiness  Spikes  Ice
+2   Gluttony    Tentacles   Fire
+3   Greed   Muscles Poison
+4   Sloth   Breath  Necrosis
+5   Wrath   Possession  Chains
+6   Envy    Shape-shifting  Pathetic
+7   Pride   Wings   Frightening
+8   Corruption  Horns   Entrancing
+9   Cruelty Claws   
+10  Complaining Fangs
+11  Cowardice   Invisibility
+12  Clamor  Weapons
 
 ### Giant (300XP)
 - HP: 50, AC: 10
@@ -531,7 +549,7 @@ accordingly.
 
 ### Weapons
 1. Flame tongue: Flaming sword that deals 2d8 damage
-2. Flame gauntlet: 15ft cone of fire, targets make DC 14 DEX save to halve 3d6 damage
+2. Flame gauntlet: 15ft cone of fire, targets make DC 14 DEX save to halve 3d6 damage. One use, which returns at dawn.
 3. Sword of hunger: +1 bonus after it consumes 3 souls, +2 after 10 souls, +3 after 15 souls
 4. Letter: This dagger contains 1d4 random spells. Spells can be cast any number of times. Each cast drains 1d4 HP from the caster.
 5. Magic sword: sentient sword with an eye. +1 to attack and damage rolls.
@@ -539,8 +557,8 @@ accordingly.
 7. Stunrod: A metal stick which shocks the target, who must succeed a DC 13 CON save or lose their next turn in initiative.
 8. Sun mace: This mace is shaped like the sun. Undead hit with this blade must succeed a DC 14 CON save to halve 3d6 extra damage.
 9. Man Slayer: Humanoids struck with this greatsword take an additional 2d6 damage.
-10. 
-11. 
+10. Magic boomerang: The boomerang is thrown on an arc and may attack up to three creatures in it's path.
+11. Rune sword: The wielder may attempt to 
 12. 
 13. 
 14. 
@@ -558,7 +576,7 @@ accordingly.
 4. Super lube: Dries after 1 hour. Renders up to a 20ft square surface frictionless.
 5. Potion of invisibility: Become invisible for 1 minute
 6. Potion of night vision: you can see in the dark for the next 1 hour
-7. Potion of <animal>. You become this animal. Every time you take a rest, you may make a DC15 WIS save to return to normal.
+7. Animal potion: You become this animal. Every time you take a rest, you may make a DC15 WIS save to return to normal.
 8. Dragon's breath: Until the end of this combat, you may use your action to create a 15ft cone of fire. All creatures inside make a DC 15 DEX save to halve 3d6 damage
 9. Greater healing potion: recover 4d4+4 HP
 10. Brute's brew: Your strength modifier is +6 until you finish your next rest.
@@ -591,9 +609,9 @@ accordingly.
 15. Tiny boulder: This pebble will grow into a 1 ton, 10ft diameter boulder when you say "grow", and shrink back when you say "shrink".
 16. Mirror of truth: Invisible objects are visible in this mirror's reflection.
 17. Bard's lute: This lute has stored 1d4 random spells from the illusionist spell list. You may cast each of these spells once by playing the lute. Spells return each dawn.
-18. Wand of <spell>: This wand contains a spell. You may cast the spell using this wand. It restores at dawn.
-19. 
-20. 
+18. Spell wand: This wand contains a spell. You may cast the spell using this wand. It restores at dawn.
+19. Blue magnet: This chunk of stone is attracted strongly to any item or material which is blue.
+20. Rat Pipe: Any rats that can hear the pipe playing will be entranced and follow the piper.
 
 ### Worn
 1. Cape of flight: Grants 10 minutes of flying once per day.
@@ -606,7 +624,7 @@ accordingly.
 8. Necklace of fireballs: has 2d4 fireball pendants. Breaking one off and throwing it casts fireball centered on the pendant.
 9. Invisibility cloak: Anything within the cloak is invisible. Wearer must cover face with hood to be entirely invisible.
 10. The family ring: Speak the name of a family backwards, and this signet ring changes to that family's symbol.
-11. 
+11. Rune armor: The wearer of this heavy armor has a +4 bonus on saves against spells.
 12. 
 13. 
 14. 
@@ -620,15 +638,15 @@ accordingly.
 ### Expendable
 1. Blu's Instant tavern: Tiny model tavern. Add water and it expands into a regular-sized tavern staffed my small blue catfolk.
 2. Hat of infinite bunnies: Every time the hat is flipped over, a bunny falls out.
-3. Bottled fairie: If you let this fairy go, your max HP increases by 1d4. If you fall to 0 HP with this item, the jar shatters and the fairie raises you to half your HP while it escapes.
+3. Deck of many cards: Deck of 52 cards. You may draw up to three cards at once. Each is assigned a random spell. You may select one of these cards to cast it's spell. All drawn cards disintigrate even if you choose none of the drawn cards.
 4. The monkey paw: Cursed. Grants one wish per finger. Each wish is granted with malicious compliance, or otherwise rejected outright.
 5. Bottle of lightning: Shattering this bottle unleashes a bolt of lightning at any creatures within 6 paces, dealing 3d6 damage.
 6. Smokebomb: Creates a cloud that fits in a 20ft cube that lasts for 10 minutes.
 7. Spell scroll: Contains one spell, whose invocation appears in a language you understand as illusory text. Reading this casts the spell with a +5 spell modifier and spell DC of 13, destroying the scroll.
 8. Spellbook: Contains 1d4-1 spells(minimum 1). Copying a spell from this book removes it from this book.
 9. Electric Salt lick: 2d4 uses. Lick the salt with your action. Until the start of your next turn, any creature that touches you takes 2d4 damage from an arc of lightning leaping from you.
-10. 
-11. 
+10. Glow in the dark paint: Object coated in this paint permanently produce light in a 5ft radius.
+11. Monster Tape: One strip can support a 500 lb weight.  One roll contains 200 feet of tape.
 12. 
 13. 
 14. 
