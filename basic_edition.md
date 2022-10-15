@@ -347,13 +347,13 @@ Adventuring requires a great many things. Here are some of them.
 | Backpack                     | 2 gp     | 5 lb.        |
 | Bedroll                      | 1 gp     | 7 lb.        |
 | Block and tackle             | 1 gp     | 5 lb.        |
-| Candle                       | 1 cp     | —            |
+| Candle(10ft light)           | 1 cp     | —            |
 | Clothes, Common              | 5 sp     | 3 lb.        |
 | Clothes, fine                | 15 gp    | 6 lb.        |
 | Crowbar                      | 2 gp     | 5 lb.        |
 | Hammer                       | 1 gp     | 3 lb.        |
-| Lantern, bullseye            | 10 gp    | 2 lb.        |
-| Lantern, hooded              | 5 gp     | 2 lb.        |
+| Lantern, bullseye(30 light)  | 10 gp    | 2 lb.        |
+| Lantern, hooded(30 light)    | 5 gp     | 2 lb.        |
 | Mirror, steel                | 5 gp     | 1/2 lb.      |
 | Oil (1 pint flask)           | 1 sp     | 1 lb.        |
 | Pick, miner’s                | 2 gp     | 10 lb.       |
@@ -364,7 +364,7 @@ Adventuring requires a great many things. Here are some of them.
 | Spellbook                    | 50 gp    | 3 lb.        |
 | Tent, two-person             | 2 gp     | 20 lb.       |
 | Tinderbox                    | 5 sp     | 1 lb.        |
-| Torch                        | 1 cp     | 1 lb.        |
+| Torch(30 light)              | 1 cp     | 1 lb.        |
 | Waterskin                    | 2 sp     | 5 lb. (full) |
 +------------------------------+----------+--------------+
 ```
@@ -548,7 +548,7 @@ Roll    Sin Feature1    Feature2
 ## Magic Items
 
 ### Weapons
-1. Flame tongue: Flaming sword that deals 2d8 damage
+1. Flame tongue: Flaming sword that deals 2d8 damage and ignites objects it touches.
 2. Flame gauntlet: 15ft cone of fire, targets make DC 14 DEX save to halve 3d6 damage. One use, which returns at dawn.
 3. Sword of hunger: +1 bonus after it consumes 3 souls, +2 after 10 souls, +3 after 15 souls
 4. Letter: This dagger contains 1d4 random spells. Spells can be cast any number of times. Each cast drains 1d4 HP from the caster.
@@ -558,16 +558,16 @@ Roll    Sin Feature1    Feature2
 8. Sun mace: This mace is shaped like the sun. Undead hit with this blade must succeed a DC 14 CON save to halve 3d6 extra damage.
 9. Man Slayer: Humanoids struck with this greatsword take an additional 2d6 damage.
 10. Magic boomerang: The boomerang is thrown on an arc and may attack up to three creatures in it's path.
-11. Rune sword: The wielder may attempt to 
-12.
-13. 
-14. 
-15. 
-16. 
-17. 
-18. 
-19. 
-20. 
+11. Rune sword: Has 1 charge, which returns at dawn. When targeted by a spell, the wielder may expend a charge to make an attack roll against the caster's spell DC. On success, the spell fails and is captured in the sword. The wielder may cast the spell as an action.
+12. Chainsaw: After an attack hits a target, all other chainsaw attacks on this creature automatically hit for the rest of the wielder's turn.
+13. Musket: Uses smokepowder to fire. Requires one action to reload after firing. Deals 1d20+DEX damage on a hit.
+14. Power fist: This gauntlet deals 2d6 damage on a hit and pushes targets 3 paces with a blast of power.
+15. Adamantium sword: This sword deals 2d8 damage and cuts through metal and as if it is wet clay.
+16. Ice sword: On a hit, target must succeed a DC 15 CON save or be frozen in an ice crystal. Such an ice crystal melts 4 hours later, leaving the target alive.
+17. Harpoon cannon: Requires an action to reload. On a hit, may reel the target 6 paces towards wielder.
+18. Bladed shield: This shield provides armor class, and may be used as a one-handed melee or thrown weapon.
+19. Reaper's Scythe: When dealing a killing blow, the wielder regains up to the number of hit points taken from the target.
+20. Moon Blade: Solid silver sword with moon on it. At night, the blade glows with 30 feet of pale moonlight and has a +2 bonus to attack rolls and damage.
 
 ### Potions
 1. Healing potion: recover 2d4+2 HP
@@ -615,7 +615,7 @@ Roll    Sin Feature1    Feature2
 
 ### Worn
 1. Cape of flight: Grants 10 minutes of flying once per day.
-2. Bucket's bust: Breastplate that halves incoming damage from fire.
+2. Dragon Scalemale: halves incoming damage from fire.
 3. Spider boots: Can walk up walls or ceilings 
 4. Magic armor: +1 to AC
 5. Crown of the mad mage: Wearing this crown grants +4 INT, -4 WIS
@@ -625,15 +625,15 @@ Roll    Sin Feature1    Feature2
 9. Invisibility cloak: Anything within the cloak is invisible. Wearer must cover face with hood to be entirely invisible.
 10. The family ring: Speak the name of a family backwards, and this signet ring changes to that family's symbol.
 11. Rune armor: The wearer of this heavy armor has a +4 bonus on saves against spells.
-12. 
-13. 
-14. 
-15. 
-16. 
-17. 
-18. 
-19. 
-20. 
+12. Ethereal robes: Has 1 charge that returns at dawn. Wearer can expend a charge to become ethereal and pass through solid objects for 1 minute.
+13. Emergency Inflating suit: Has 1 charge that returns at dawn. Wearer can expenda charge with a free object interaction to inflate the suit. The wearer's immobile while the suit is inflated. Any attack that hits the inflated suit pops it, but deals no damage to the wearer.
+14. Soul Silk robe: This light armor can be worn by mages.
+15. Doppelganger's skin: The wearer can adjust their appearance to resemble anyone they've seen.
+16. Blink lion suit: Has 1 charge that returns at dawn. Wearer can expend charge to teleport to any point they can see.
+17. Owl cloak: Has 3 charges that return at dawn. Wearer can expend a charge to fly for 6 seconds.
+18. Eldritch pact pendant: The wearer can telepathically communicate with an ancient and mysterious being of great power. This being will offer spells from the cultist and warlock spell list in exchange for completing seemingly random requests.
+19. Brute boots: The wearer's maximum hit points increases by 10 while wearing these boots.
+20.
 
 ### Expendable
 1. Blu's Instant tavern: Tiny model tavern. Add water and it expands into a regular-sized tavern staffed my small blue catfolk.
@@ -647,8 +647,8 @@ Roll    Sin Feature1    Feature2
 9. Electric Salt lick: 2d4 uses. Lick the salt with your action. Until the start of your next turn, any creature that touches you takes 2d4 damage from an arc of lightning leaping from you.
 10. Glow in the dark paint: Object coated in this paint permanently produce light in a 5ft radius.
 11. Monster Tape: One strip can support a 500 lb weight.  One roll contains 200 feet of tape.
-12. 
-13. 
+12. Eternal flame: Lighting this torch creates an etheral flame that is permamently fixed in place and creates light in a 30ft radius.
+13. Exploding darts: Wherever the dart hits, it deals 1d4 damage to all creatures within one pace.
 14. 
 15. 
 16. 
