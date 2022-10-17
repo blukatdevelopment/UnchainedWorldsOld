@@ -86,7 +86,7 @@ clothes, 10 torches, 10 days of rations, and 10 gold pieces.
 Chose either INT or WIS as your spellcasting modifier. When you make
 spell attack rolls, add this modifier. When targets make saving throws to resist
 your spells, they roll against 10 + spellcasting modifier. During each rest, you
-may pepare copies of your spells to cast. You know 1 spell at first level, and
+may pepare copies of your spells to cast. You know 2 spell at first level, and
 learn a new one with each level following. You can cast each spell you know once
 per rest.
 
@@ -438,7 +438,7 @@ Pick 1 other spell
 
 #### Druid, HP:12, AC:10, [8, 12, 12, 12, 16, 8], Walking Stick +1 1d6-1
 Spellcaster(+4, DC14). Pick 1 spell attack
-1. Flame hand: 15 foot cone of flame erupts from your hand. Creatures in range make a DEX save to halve incoming damage.
+1. Flame hand: 15 foot cone of flame erupts from your hand. Creatures in range make a DEX save to halve 3d6 damage.
 2. Lightning hand: Melee spell attack, 3d6 damage.
 3. Wind hand: 30ft cone, creatures must succeed a STR save or be pushed 15 feet, taking 1d6 damage if they collide with anything.
 4. Cloud of insects: Bugs descend on one target in range. Each turn, target may use an action to remove the insects, or take 1d4 damage.
@@ -633,7 +633,7 @@ Roll    Sin Feature1    Feature2
 17. Owl cloak: Has 3 charges that return at dawn. Wearer can expend a charge to fly for 6 seconds.
 18. Eldritch pact pendant: The wearer can telepathically communicate with an ancient and mysterious being of great power. This being will offer spells from the cultist and warlock spell list in exchange for completing seemingly random requests.
 19. Brute boots: The wearer's maximum hit points increases by 10 while wearing these boots.
-20.
+20. Annealing gloves: When the wearer touches these metal gloves to an object, they may use their action to meld the gloves into the material they are touching. They may use another action to unmeld.
 
 ### Expendable
 1. Blu's Instant tavern: Tiny model tavern. Add water and it expands into a regular-sized tavern staffed my small blue catfolk.
@@ -649,7 +649,7 @@ Roll    Sin Feature1    Feature2
 11. Monster Tape: One strip can support a 500 lb weight.  One roll contains 200 feet of tape.
 12. Eternal flame: Lighting this torch creates an etheral flame that is permamently fixed in place and creates light in a 30ft radius.
 13. Exploding darts: Wherever the dart hits, it deals 1d4 damage to all creatures within one pace.
-14. 
+14. Jar of candies: Taking a candy from this jar and eating it heals 1d4 HP. When you take a candy from this jar, roll 1d8. On a 1, the jar is empty.
 15. 
 16. 
 17. 

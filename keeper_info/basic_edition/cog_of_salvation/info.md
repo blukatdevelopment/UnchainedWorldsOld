@@ -76,12 +76,21 @@ Spellcaster(+2, DC12).
 - Engineering room
 - Food factory
 
-#### 
 
 #### Monster stat blocks
 
-##### Growling Skin Stalker, HP: 15, AC: 11, [16, 16, 14, 4, 12, 3]
+#### Clone, HP:4, AC:10, [10, 10, 10, 10, 10, 10], Improvised/unarmed +0 1d6
+
+##### Guardian Skull, HP: 50, AC: 12, [3, 3, 18, 20, 20, 3]
+- Smart bot, programmed to protect people at all costs. Made them feral to save them from their humanity.
+- Monologues about futility
+- Tentacles: Can summon two guardian tentacles per turn, at most 5 at once
+
+##### Guardian Tentacle, HP: 10, AC: 12, [16, 16, 10, 3, 12, 3], Squeeze +4 1d6+3
+
+##### Growling Skin Stalker, HP: 15, AC: 11, [16, 16, 14, 4, 12, 3], Stinger +6 1d6+2
 - Xenomorph-like creature that wears the skins of it's prey
+- Disguise. The skin fills out, causing the stalker to look identical to it's previous owner.
 
 ##### Man-faced Hand tooth, HP: 20, AC: 12, [16, 14, 16, 16, 12, 12] Squeeze +4 1d6 autograpple on hit (DC 13 STR escape)
 - Giant sentient hand with human face in the palm and teeth for fingernails
