@@ -85,10 +85,10 @@ clothes, 10 torches, 10 days of rations, and 10 gold pieces.
 #### Spellcasting
 Chose either INT or WIS as your spellcasting modifier. When you make
 spell attack rolls, add this modifier. When targets make saving throws to resist
-your spells, they roll against 10 + spellcasting modifier. During each rest, you
-may pepare copies of your spells to cast. You know 2 spell at first level, and
-learn a new one with each level following. You can cast each spell you know once
-per rest.
+your spells, they roll against 10 + spellcasting modifier. You know 2 spell at
+first level, and learn a new spells according to the spells column. You can cast
+each spell you know once per rest. You may not have multiple copies of a spell
+prepared at once.
 
 #### Improve Spell
 Pick one spell. Make some change or improvement to it. Work with the keeper.
