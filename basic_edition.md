@@ -68,6 +68,7 @@ Roll 4d6. Set aside the lowest roll and ignore it. Add up the remaining three. T
 You may choose between mage, rogue, or fighter.
 
 ### Mage
+![Mage](./img/mage.jpg?raw=true "Mage")
 Mages can use staves and daggers, but cannot wear armor. You start with a
 spellbook to store your spells in, a wand to cast spells with, robed common
 clothes, 10 torches, 10 days of rations, and 10 gold pieces.
@@ -134,6 +135,7 @@ You may create your own spell. It may be any spell level. Work with the keeper.
 10. Enter mind: You enter the mind of a creature for up to one hour. You and the creature fall motionless up to 1 hour.
 
 ### Rogue
+![Rogue](./img/rogue.jpg?raw=true "Rogue")
 Rogues can use one-handed weapons as well as bows, and can wear light armor.
 You start with two daggers, a bow with 20 arrows, 10 torches, 10 days of
 rations, hooded common clothes, and 10 gold pieces.
@@ -185,6 +187,7 @@ rations, hooded common clothes, and 10 gold pieces.
 10. Cat-like reflexes: All fall damage is halved for you.
 
 ### Fighter
+![Fighter](./img/fighter.jpg?raw=true "Fighter")
 Fighters can use all weapons and armor. Choose one of the following options for
 starting gear:
 1. Sword, shield, medium armor
