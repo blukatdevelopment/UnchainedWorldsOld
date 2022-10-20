@@ -28,5 +28,6 @@ pandoc spell_compendium.md -o ../pdf/spells.pdf -V geometry:left=0in
 
 # Compile basic edition
 cd ..
-pandoc basic_edition.md -o pdf/basic_edition.pdf
+pandoc basic_edition_player_handbook.md -o pdf/basic_edition_player_handbook.pdf -V geometry:left=0in
+pandoc basic_edition_keeper_guide.md -o pdf/basic_edition_keeper_guide.pdf -V geometry:left=0in
 pandoc core_rules.md -o pdf/core_rules.pdf -V geometry:left=0in
