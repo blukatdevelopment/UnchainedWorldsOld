@@ -15,6 +15,37 @@ linking the location to other realms. The adventuerers that congregate in the
 spire are problem-solvers and opportunists looking to explore the unknown, to
 aid those in trouble, and to find wealth and notoriety.
 
+### Spire Locations
+#### Spire proper
+This is where the adventurer's guild and all it's guild houses reside.
+
+#### The Apex
+The largely abandoned city immediately surrounding the spire. Home to
+decaying skyscrapers and and factories.
+
+#### Dragon roost
+A destroyed airport of some kind. A tent city exists among the wreckage of the
+vehicles that were once docked here.
+
+#### Aru
+An agricultural town built on the ruins of an urban center. Most rooftops
+contain small farm plots.
+
+#### Tor
+A ruined city that remains overrun with monsters. 
+
+#### Docks
+The point of contact between the Spire and the rest of the inhabitants of the
+endless sea.
+
+### Factions
+#### Guild Houses
+There are three player-made factions that 
+- House of Gold - Dedicated to using technology to build the spire as a business.
+- House of Doves - Dedicated to preserving life and protecting those in need.
+- Magnus's Crimson Court - A place of refuge for 
+
+
 ## Intro
 This campaign features multiple keepers who run sessions and adventures.
 
