@@ -57,7 +57,6 @@ The following amenities can be foundh here:
 - Mildred from Cola Wars and Demon Retrieval
 - Strawberry hair man among many other gold robes
 
-
 ## Events
 
 ### Security greeting

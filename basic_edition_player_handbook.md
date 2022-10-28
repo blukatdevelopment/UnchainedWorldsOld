@@ -119,7 +119,7 @@ You may create your own spell. It may be any spell level. Work with the keeper.
 6. Charm: Target makes WIS save or regards you as a close friend for 1 hour.
 7. Blink Step: You disappear and reappear up to 60ft away to a point you can see.
 8. Cloud of daggers: You create a 10ft cube full of flying magical daggers for 1 minute. Any target inside takes 2d6 damage per turn.
-9. Enlarge/reduce: One target or item doubles or halves in size for 1 hour.
+9. Enlarge/reduce: One target or item you can see doubles or halves in size for 1 hour.
 10. Cloud form: You become a cloud for 1 hour, and may move through any gaps.
 
 ##### Spells(level 5 minimum)
@@ -138,7 +138,7 @@ You may create your own spell. It may be any spell level. Work with the keeper.
 ![Rogue](./img/rogue.jpg?raw=true "Rogue")
 Rogues can use one-handed weapons as well as bows, and can wear light armor.
 You start with two daggers, a bow with 20 arrows, 10 torches, 10 days of
-rations, hooded common clothes, and 10 gold pieces.
+rations, crowbar, 50ft hempen rope, hooded common clothes, and 10 gold pieces.
 ```
 +-----+------+-----+--------+
 | LVL |  XP  | HP  | Tricks |
@@ -191,8 +191,8 @@ rations, hooded common clothes, and 10 gold pieces.
 Fighters can use all weapons and armor. Choose one of the following options for
 starting gear:
 1. Sword, shield, medium armor
-2. sword, bow, 20 arrows, light armor
-then add 10 torches, 10 days of rations, athletic common clothes, and 10 gold
+2. sword, bow, 20 arrows, light armor\
+In addition to your choice, add 10 torches, 10 days of rations, athletic common clothes, 50ft hempen rope, and 10 gold
 pieces.
 ```
 +-----+------+------+------------+-----------------------+
@@ -223,7 +223,7 @@ are making use of the dual wielder perk.
 1. Dual wielder: When wielding two Minor or Martial weapons and taking the attack action, you may make an additonal attack.
 2. Pugilist: Your unarmed attacks deal 1d6 damage, and you may make one additional attack when you take the attack action unarmed.
 3. Smite: Once per rest, you may channel good or evil energy and add 1d12 to an attack when it hits.
-4. Battle Buddy: You gain a pet. It's max hit points are always half yours. It has an AC of 12 and a +2 to attacks.
+4. Battle Buddy: You gain a pet. It's max hit points are always half yours. It has an AC of 12 and a +2 to attacks. 1d6 damage.
 5. Archer: You gain an additional +4 bonus to attack rolls made with bows
 6. Great weapon fighter: You may reroll the damage on any attack with a great weapon, picking the higher of the two.
 7. Threatening presence: You gain a +4 bonus to checks made to intimidate others.
@@ -236,7 +236,7 @@ are making use of the dual wielder perk.
 2. Armorer: You gain an additional +2 to your AC from wearing armor
 3. Battle steed: You gain a mount to ride on. While mounted, your movement is doubled. 
 4. Second wind: Once per combat, you may use an action to restore 1d10 hit points.
-5. Lay on Hands: You may use your action to touch a creature and heal them any amount you'd like from your heal pool of 15 hit points, which is replenished at the end of each rest.
+5. 
 6. Shield of faith: As a free object interaction, you may summon or dismiss a holy shield on your arm that gives a +3 AC bonus.
 7. Soul sight: You can see the whispy smoke leave bodies, and a faint glow from any living creature within 20 paces.
 8. Sympathy: You may perform a ceremonial rite with a creature to bind souls. Until your next rest, they receive half as much damage from attacks, and you receive the other half.

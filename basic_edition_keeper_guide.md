@@ -43,7 +43,7 @@ Spellcaster(+4, DC14). Pick 1 spell attack
 Pick 1 other spell
 1. Aid: Target's HP and max HP raises by 5 until they complete a rest.
 2. Dispel curse: Lift one curse. Consumes one crystal or gem worth at least 100GP
-3. Blessing: Before the next rest, creature may have a +10 on one roll of their choice.
+3. Blessing: Touch one creature. Before the next rest, creature may have a +10 on one roll of their choice.
 4. Angel wings: Touch one creature. It sprouts angelic wings and can fly until it completes a long rest.
 
 #### Druid, HP:12, AC:10, [8, 12, 12, 12, 16, 8], Walking Stick +1 1d6-1
@@ -106,19 +106,26 @@ choose 3d4, 3d4+4, or 3d4+8 for a small group.
 ```
 
 ### Demons
-Roll    Sin Feature1    Feature2
-1   Filthiness  Spikes  Ice
-2   Gluttony    Tentacles   Fire
-3   Greed   Muscles Poison
-4   Sloth   Breath  Necrosis
-5   Wrath   Possession  Chains
-6   Envy    Shape-shifting  Pathetic
-7   Pride   Wings   Frightening
-8   Corruption  Horns   Entrancing
-9   Cruelty Claws   
-10  Complaining Fangs
-11  Cowardice   Invisibility
-12  Clamor  Weapons
+Roll 4d12 to generate a random demon. Assign stats, one attack, and one ability
+accordingly.
+```
++------+--------------+----------------+-------------+----------+
+| Roll | Sin          |    Trait 1     | Trait 2     | Animal   |
++------+--------------+----------------+-------------+----------+
+|    1 | Filthiness   | Spikes         | Ice         | Goat     |
+|    2 | Gluttony     | Tentacles      | Fire        | Spider   |
+|    3 | Greed        | Muscles        | Poison      | Centipede|
+|    4 | Sloth        | Breath         | Necrosis    | Bat      |
+|    5 | Wrath        | Possession     | Chains      | Stag     |
+|    6 | Envy         | Shape-shifting | Pathetic    | Tiger    |
+|    7 | Pride        | Wings          | Frightening | Hound    |
+|    8 | Corruption   | Horns          | Entrancing  | Worm     |
+|    9 | Cruelty      | Claws          | Psionic     | Lobster  |
+|   10 | Complaining  | Fangs          | Mindreader  | Snake    |
+|   11 | Cowardice    | Invisibility   | Glyphmaker  | Lizard   |
+|   12 | Clamor       | Blades         | Portalmaker | Horse    |
++------+--------------+----------------+-------------+----------+
+```
 
 ### Giant (300XP)
 - HP: 50, AC: 10
@@ -139,21 +146,144 @@ Roll    Sin Feature1    Feature2
 - Incorporeal: Can become invisible and phase through walls while moving.
 - Soul steal +5 1d6+3 on hit target ages 1d4 years
 
-### Demon (150XP)
-- HP: 30, AC: 14
-- [14, 14, 12, 8, 8, 14]
-- Damage from fire is halved
-- Can make two claw attacks and a lick
-- Lick +3 1d4-1 on hit target makes DC15 CON save or is cursed with -5 max HP
-- Claw +3 1d6+2
-
 ### Dragon (600XP)
-- HP: 80, AC: 16
+- HP: 150, AC: 16
 - [18, 16, 18, 16, 16, 16]
 - Can fly
-- Breath attack 30ft cone, DC 16 DEX save to halve 8d6 damage
+- Breath attack(recharge 4-6 on D6): 60ft cone, DC 16 DEX save to halve 8d6 damage
 - Bite +6 1d20+4
 
+## Extra spell list
+The 1d100 spell table in this section is partitioned into different sub-tables.
+
+### Class spell lists
+You can use these spell lists to populate NPCs, monsters, spellbooks/spellscrolls,
+or as rewards for player characters. Offense spells are generally damage-dealing,
+whereas utility spells provide some non-damaging effect. Power spells are those
+posessed only by the higher level members of that particular class. If you want
+to roll for all three categories, use the "any" collumn.
+
+```
++-------------+---------+---------+---------+-----------+
+|    List     | Offense | Utility |  Power  | Any       |
++-------------+---------+---------+---------+-----------+
+| Druid       |  1d4    |  1d4+4  |  1d4+8  | 1d12      |
+| Priest      |  1d4+12 |  1d4+16 |  1d4+20 | 1d12 + 12 |
+| Cultist     |  1d4+24 |  1d4+28 |  1d4+32 | 1d12 + 24 |
+| Warlock     |  1d4+36 |  1d4+40 |  1d4+44 | 1d12 + 36 |
+| Paladin     |  1d4+48 |  1d4+52 |  1d4+56 | 1d12 + 48 |
+| Psion       |  1d4+60 |  1d4+64 |  1d4+68 | 1d12 + 60 |
+| Bard        |  1d4+72 |  1d4+76 |  1d4+80 | 1d12 + 76 |
++-------------+---------+---------+---------+-----------+
+```
+
+### Legendary spells
+Roll 1d10+80
+
+### Epic Spells
+Roll 1d10+90
+
+### 1d100 spell table
+1. Flame hand: 15 foot cone of flame erupts from your hand. Creatures in range make a DEX save to halve 3d6 damage.
+2. Lightning hand: Melee spell attack, 3d6 damage.
+3. Wind hand: 30ft cone, creatures must succeed a STR save or be pushed 15 feet, taking 1d6 damage if they collide with anything.
+4. Cloud of insects: Bugs descend on one target in range. Each turn, target may use an action to remove the insects, or take 1d4 damage.
+5. Wildshape: Turn into an animal of your choice until you dismiss this spell or fall to 0 hit points. When you change back, your previous hit points are preserved.
+6. Moon beam: A 30ft diameter circle is lit by the moon. At the start of your next turn, any creature inside takes 4d6 damage as the light burns them.
+7. Summon animals: Either 1 moose, 2 bears, 4 wolves, or 6 eagles show up to aid the druid for this combat.
+8. Command weather: Druid can cause the weather to be clear, thunderstorm, snowstorm, or strong winds.
+9. 
+10. 
+11. 
+12. 
+13. Spiritual weapon: Glowing weapon flies and attacks with free object interaction, +5 2d6+2
+14. Holy Flame: Melee spell attack. Target is wreathed in radiant flames. 4d6 damage
+15. Guiding bolt: Ranged spell attack. Target takes 3d6 damage, and next attack has a +5 to hit until the end of this combat.
+16. Halo: Halo appears and erupts on your head. All creatures within 3 paces succeed DEX save to halve 2d6 damage. 
+17. Aid: Target's HP and max HP raises by 5 until they complete a rest.
+18. Dispel curse: Lift one curse. Consumes one crystal or gem worth at least 100GP
+19. Blessing: Touch one creature. Before the next rest, creature may have a +10 on one roll of their choice.
+20. Angel wings: Touch one creature. It sprouts angelic wings and can fly until it completes a long rest.
+21. 
+22. 
+23. 
+24. 
+25. Face melt: Target in sight WIS save or take 1d6 damage
+26. Weak: Target deals 1d4 less damage until cultist dies.
+27. Shadow Blade: +4 2d6+3 damage melee attack
+28. Green flame: 5ft cube of flame, DEX save or 1d6 damage when inside
+29. Thorns: Thorny tentacles erupt from surfaces within sight in three 5ft cubes until the cultist dies or dismisses the effect. Standing in these space deals 1d4 damage.
+30. Ice floor: a 5ft square patch of a surface freezes over and becomes slippery for the next 8 hours. A creature must either spend double the normal paces to move over this surface, or succeed a DC 15 DEX save to avoid slipping and falling prone.
+31. Noxious cloud: an opaque cloud of green gas that fits in a 20ft cube appears. Creatures inside must succeed a CON save or take 1d6 damage at the start of their turn.
+32. Featherweight: You weigh 1 lb. and may jump 20ft into the air from a standing position.
+33. 
+34. 
+35. 
+36. 
+37. Eldritch blast: Crackling black energy. ranged spell attack, 1d12 damage
+38. Black tentacles: A portal opens, tentacles attack target. STR save to escape, can repeat at start of turn. 1d6 damage per turn.
+39. Demon Swarm: A portal opens, and 1d4+1 demons step out. They are loyal to no one.
+40. Silence: Every creature in sight makes a WIS save or becomes mute until the end of this combat
+41. Curse of Nightmares: When target attempts to take a rest, they must roll 4 or higher on 1d6 or else stay awake through the night.
+42. Curse of Spectral attaction: Ghosts will flock to target, intermittently howling and knocking objects over.
+43. Curse of Blight: Target's rests only heal up to half their maximum hit points.
+44. Curse of Weakness: Target has a -1d4 penalty on all rolls that rely on strength
+45. 
+46. 
+47. 
+48. 
+49. # paladin
+50. 
+51. 
+52. 
+53. 
+54. 
+55. 
+56. 
+57. 
+58. 
+59. 
+60. 
+61. # Psion
+62. 
+63. 
+64. 
+65. 
+66. 
+67. 
+68. 
+69. 
+70. 
+71. 
+72. 
+73. # Bard
+74. 
+75. 
+76. 
+77. 
+78. 
+79. 
+80. 
+81. # legendary
+82. 
+83. 
+84. 
+85. 
+86. 
+87. 
+88. 
+89. 
+90. 
+91. # Epic
+92. 
+93. 
+94. 
+95. 
+96. 
+97. 
+98. 
+99. 
+100. 
 
 ## Magic Items
 
@@ -260,9 +390,9 @@ Roll    Sin Feature1    Feature2
 12. Eternal flame: Lighting this torch creates an etheral flame that is permamently fixed in place and creates light in a 30ft radius.
 13. Exploding darts: Wherever the dart hits, it deals 1d4 damage to all creatures within one pace.
 14. Jar of candies: Taking a candy from this jar and eating it heals 1d4 HP. When you take a candy from this jar, roll 1d8. On a 1, the jar is empty.
-15. 
-16. 
-17. 
-18. 
-19. 
-20. 
+15. Teleportation darts: a bag of 5 darts. When you throw one, you appear where it lands if possible, or else take 1d6 damage.
+16. Forcefield ring: Has 5 charges. Speak the command word as a free action, and you project a field. It can be a 10ft diameter dome or a 10ftx10ft square wall of impenetrable force that lasts for one hour. 
+17. Reverse card: When you speak the phrase "reverso", you are transferred back in time by one hour and the card is shunted to another timeline.
+18. spell arrows(6): You may cast a spell and store it in this arrow. When fired, the spell is cast and targets the impact point.
+19. Elemental arrows(12): Arrows that deal an extra 1d6 of damage. Roll 1d6 for an element. [1=fire,2=ice,3=lightning,4=acid,5=light,6=shadow]
+20. Pink slime in a jar: The tiny pink slime inside begs you to bring it to a host's ear.

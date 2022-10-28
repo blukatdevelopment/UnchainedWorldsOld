@@ -467,24 +467,24 @@ Alternatively, the staff may offer the guide to Bimros as reading.
 invisible
 - DC 14: A greedy cannot ooze up a steep incline nor stairs
 - DC 17: Blowing a whistle can temporarily blind an eyeless beaker
-1. Cavil Tarro's guide to devils
+2. Cavil Tarro's guide to devils
 - DC 5: Devils are inherently evil
 - DC 7: Devils operate under contract-driven magic
 - DC 10: Devils act as nobility in Hell
 - DC 14: The infernal language is infused with evil magic and dangerous to speak
 - DC 17: Devils cannot force someone to sign a contract against their will
-1. Cavil Tarro's guide to demons: Make an investigation check
+3. Cavil Tarro's guide to demons: Make an investigation check
 - DC 5: Demons each embody a specific kind of evil
 - DC 7: Demonic possession taps into latent evils in the victim
 - DC 10: The smarter demons speak abyssal, a language made to express evil chaos
 - DC 14: Demons don't embody the same elements, but often resist fire
 - DC 17: A combination of moondust, red herb, and tears of
-1. Cavil Tarro's guide to the undead: Make an investigation check
+4. Cavil Tarro's guide to the undead: Make an investigation check
 - DC 5: Life is inherently good, whereas undeath is inherently evil
 - DC 7: Many undead are vulnerable to radiant energy from magic
 - DC 10: Some undeath comes from spirits refusing to leave the body after death
 - DC 14: Dark rituals may bind spirits unwillingly to bodies
-1. Cavil Tarro's guide to Uaos: Make an investigation check
+5. Cavil Tarro's guide to Uaos: Make an investigation check
 - DC 5: God of beasts, symbol is a red pawprint
 - DC 7: Created beastfolk to be ideal stewards of nature
 - DC 10: Forbids eating meat from domesticated animals
@@ -492,21 +492,21 @@ invisible
 - DC 14: Asks followers to live in packs fewer than 100 to maintain 
 connectedness
 - DC 16: Discourages accumulation of individual wealth
-1. Cavil Tarro's guide to Coenta: Make an investigation check
+6. Cavil Tarro's guide to Coenta: Make an investigation check
 - DC 5: Goddess of the moon, symbol is a crescent moon over a black sphere
 - DC 7: Created the moon to lend light to illuminate the night
 - DC 10: Teaches that time is a flat circle
 - DC 12: Lures followers with promises of reincarnation
 - DC 14: Teaches moderation in all things, even of good and evil
 - DC 16: Created lycanthropy as a blessing and a curse
-1. Cavil Tarro's guide to Gidur: Make an investigation check
+7. Cavil Tarro's guide to Gidur: Make an investigation check
 - DC 5: God of secrets, symbol is a glyph with an eye
 - DC 7: Created waystones for unknown reason
 - DC 10: Sends listeners to draw his symbols
 - DC 12: Rewards those who offer him artifacts containing rare knowledge
 - DC 14: Sends actors to carry out parts of his plans without knowing the whole
 - DC 16: Drawing his symbol creates a magical eye for him to see through
-1. Cavil Tarro's guide to Bimros: Make an investigation check
+8. Cavil Tarro's guide to Bimros: Make an investigation check
 - DC 5: God of law, symbol is an arrow turned upward and to the right
 - DC 7: Created humans in his image
 - DC 10: Demands followers follow laws of their society
@@ -515,43 +515,43 @@ connectedness
 ears
 - DC 16: Teaches that particulars are unimportant, but following laws itself is 
 virtuous
-1. Cavil Tarro's guide to Gegtix: Make an investigation check
+9. Cavil Tarro's guide to Gegtix: Make an investigation check
 - DC 5: Goddess of leaves, symbol is a leaf with an eye
 - DC 7: Forbids the use of metal tools as unholy
 - DC 10: Created the Fae to protect nature from the humanoids
 - DC 12: Teaches that all living things deserves respect and have souls
 - DC 14: Forbids followers from eating meat
 - DC 16: Can be reached through fairy circles
-1. Cavil Tarro's guide to Yxheia: Make an investigation check
+10. Cavil Tarro's guide to Yxheia: Make an investigation check
 - DC 5: deity of knowledge, symbol is a glyph with an eye
 - DC 7: Created gnomes to conduct research
 - DC 10: Invented sending stones and many other magic items
 - DC 12: Rewards those that create public libraries
 - DC 14: Their avatar is genderfluid
 - DC 16: Glyph is a simplified form of the Identify spell
-1. Cavil Tarro's guide to Southhorn: Make an investigation check
+11. Cavil Tarro's guide to Southhorn: Make an investigation check
 - DC 5: was a port city in the Titan age, but was abandoned
 - DC 7: was resettled by mercenaries and privateers
 - DC 10: the town's temple is the only Titan structure still standing
 - DC 12: Titan elders were buried beneath the city
-1. Cavil Tarro's guide to Inglewood: Make an investigation check
+12. Cavil Tarro's guide to Inglewood: Make an investigation check
 - DC 5: feudal kingdom that predates human era
 - DC 7: king claims to have been ordained by Bimros
 - DC 10: the royal court has more power than the king
 - DC 12: nobility are deemed knights of Bimros
-1. Cavil Tarro's guide to Omaria: Make an investigation check
+13. Cavil Tarro's guide to Omaria: Make an investigation check
 - DC 5: federation created by revolting bronzehammer-dominated territories
 - DC 7: governed by council of elected senators who convene in capitol yearly
 - DC 10: gains new states by covertly funding revolutions
 - DC 12: extensive use of mercenaries to supplement traditionally weak army
-1. Cavil Tarro's guide to History: DC 15 Investigation check to gain history 
+14. Cavil Tarro's guide to History: DC 15 Investigation check to gain history 
 proficiency
-2. Spellbook of Detect magic: DC 12 Arcana check to learn
-3. Spellbook of Self deception: DC 12 Arcana check to learn
-4. Spellbook of Unseen Servant: DC 12 Arcana check to learn
-5. Spellbook of Eyeball Zone: DC 17 Arcana check to learn
-6. Spellbook of Channel the Dead: DC 17 Arcana check to learn
-7. Spellbook of exorcism ritual: DC 20 Religion to learn
+15. Spellbook of Detect magic: DC 12 Arcana check to learn
+16. Spellbook of Self deception: DC 12 Arcana check to learn
+17. Spellbook of Unseen Servant: DC 12 Arcana check to learn
+18. Spellbook of Eyeball Zone: DC 17 Arcana check to learn
+19. Spellbook of Channel the Dead: DC 17 Arcana check to learn
+20. Spellbook of exorcism ritual: DC 20 Religion to learn
 
 ```
 Basement

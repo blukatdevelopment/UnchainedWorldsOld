@@ -34,11 +34,11 @@ will create three commoners. Follow the process outlined below for each
 commoner.
 
 #### Roll stats
-1. Ability Scores
+1. Ability Scores\
 Roll 4d6, then drop the lowest. You now have your Strength score. Continue
 on for Dexterity, Constitution, Intelligence, Wisdom, and Charisma in order.
 
-2. Hit points
+2. Hit points\
 Hit points represent how much physical durability your body has.
 Roll a 1d4 and add your Constitution modifier. You can use this chart below to
 figure out your modifier, based on the score.
@@ -59,17 +59,8 @@ figure out your modifier, based on the score.
 | 1     | -5       |
 +-------+----------+
 ```
-3. Determine Armor Class
+3. Determine Armor Class\
 Armor class determines how hard it is to hit and cause damage to your character.
 You can calculate it as 10 + your Dexterity modifier.
 
-4. Lineage
-Lineage describes your biological and cultural makeup. For this funnel, lineage
-will only change your appearance and have no mechanical effect. You may pick
-from the following list.
-- Soot:
-- Uprooted:
-- Wayfarer:
-- Greenfoot:
-- Burden Folk: A bulky animal-person 
-- Wild Folk:
+4. 
