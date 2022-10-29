@@ -236,11 +236,11 @@ are making use of the dual wielder perk.
 2. Armorer: You gain an additional +2 to your AC from wearing armor
 3. Battle steed: You gain a mount to ride on. While mounted, your movement is doubled. 
 4. Second wind: Once per combat, you may use an action to restore 1d10 hit points.
-5. 
+5. Aura of protection: Once per rest, you may create an 10ft radius aura for one minute that causes allies to gain a +5 to all saving throws.
 6. Shield of faith: As a free object interaction, you may summon or dismiss a holy shield on your arm that gives a +3 AC bonus.
 7. Soul sight: You can see the whispy smoke leave bodies, and a faint glow from any living creature within 20 paces.
 8. Sympathy: You may perform a ceremonial rite with a creature to bind souls. Until your next rest, they receive half as much damage from attacks, and you receive the other half.
-9. Devour soul: When you kill a creature with a melee attack, you may inhale their soul and receive 1 hit point.
+9. Devour soul: When you kill a creature with a melee attack, you may inhale their soul and receive 1d4 hit points.
 10. (un)holy mount: Once per rest, you may conjure an alicorn or a shadow steed. The creature has 10 hit points, 10AC, and can fly twice your movement speed. When you next finish a rest, it disappears.
 
 #### Techniques (Level 5 minimum)
