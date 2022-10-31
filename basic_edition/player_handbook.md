@@ -68,7 +68,7 @@ Roll 4d6. Set aside the lowest roll and ignore it. Add up the remaining three. T
 You may choose between mage, rogue, or fighter.
 
 ### Mage
-![Mage](./img/mage.jpg?raw=true "Mage")
+![Mage](../img/mage.jpg?raw=true "Mage")
 Mages can use staves and daggers, but cannot wear armor. You start with a
 spellbook to store your spells in, a wand to cast spells with, robed common
 clothes, 10 torches, 10 days of rations, and 10 gold pieces.
@@ -135,7 +135,7 @@ You may create your own spell. It may be any spell level. Work with the keeper.
 10. Enter mind: You enter the mind of a creature for up to one hour. You and the creature fall motionless up to 1 hour.
 
 ### Rogue
-![Rogue](./img/rogue.jpg?raw=true "Rogue")
+![Rogue](../img/rogue.jpg?raw=true "Rogue")
 Rogues can use one-handed weapons as well as bows, and can wear light armor.
 You start with two daggers, a bow with 20 arrows, 10 torches, 10 days of
 rations, crowbar, 50ft hempen rope, hooded common clothes, and 10 gold pieces.
@@ -187,7 +187,7 @@ rations, crowbar, 50ft hempen rope, hooded common clothes, and 10 gold pieces.
 10. Cat-like reflexes: All fall damage is halved for you.
 
 ### Fighter
-![Fighter](./img/fighter.jpg?raw=true "Fighter")
+![Fighter](../img/fighter.jpg?raw=true "Fighter")
 Fighters can use all weapons and armor. Choose one of the following options for
 starting gear:
 1. Sword, shield, medium armor
@@ -236,11 +236,11 @@ are making use of the dual wielder perk.
 2. Armorer: You gain an additional +2 to your AC from wearing armor
 3. Battle steed: You gain a mount to ride on. While mounted, your movement is doubled. 
 4. Second wind: Once per combat, you may use an action to restore 1d10 hit points.
-5. 
+5. Aura of protection: Once per rest, you may create an 10ft radius aura for one minute that causes allies to gain a +5 to all saving throws.
 6. Shield of faith: As a free object interaction, you may summon or dismiss a holy shield on your arm that gives a +3 AC bonus.
 7. Soul sight: You can see the whispy smoke leave bodies, and a faint glow from any living creature within 20 paces.
 8. Sympathy: You may perform a ceremonial rite with a creature to bind souls. Until your next rest, they receive half as much damage from attacks, and you receive the other half.
-9. Devour soul: When you kill a creature with a melee attack, you may inhale their soul and receive 1 hit point.
+9. Devour soul: When you kill a creature with a melee attack, you may inhale their soul and receive 1d4 hit points.
 10. (un)holy mount: Once per rest, you may conjure an alicorn or a shadow steed. The creature has 10 hit points, 10AC, and can fly twice your movement speed. When you next finish a rest, it disappears.
 
 #### Techniques (Level 5 minimum)

@@ -103,7 +103,7 @@ Coent becomes Coenta on the first of Coentas, assuming the form of a full-figure
 #### Coento 
 Coent becomes Coento on the first of Coentos, assuming the form of a bulky young man with fiery red hair. In progression to the first of Ceontas, his appearance shifts towards white hair, slender figure, and elderly features. His younger form encourages dutiful sacrifice, fighting evil law, and fighting individual suffering. As he ages, he encourages honorable service, reform of systems, and pursuit to universally end suffering.
 
-## Fiendish Pantheon
+## Fiendish Pantheon 
 
 ## Lesser Pantheon
 These divines are either single-aspect or not members of the Fiendish and Celestial pantheons for whatever reason.

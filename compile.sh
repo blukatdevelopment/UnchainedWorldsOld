@@ -29,17 +29,23 @@ pandoc cultures_volume_1.md -o ../pdf/cultures.pdf -V geometry:left=0in
 pandoc spell_compendium.md -o ../pdf/spells.pdf -V geometry:left=0in
 echo "Done."
 
-# Compile basic edition
-echo "Compiling player basic edition..."
+# Core rules
+echo "Compiling core rules..."
 cd ..
-pandoc basic_edition_player_handbook.md -o pdf/basic_edition_player_handbook.pdf -V geometry:left=0in
-pandoc basic_edition_keeper_guide.md -o pdf/basic_edition_keeper_guide.pdf -V geometry:left=0in
 pandoc core_rules.md -o pdf/core_rules.pdf -V geometry:left=0in
+echo "Done"
+
+# Compile basic edition
+echo "Compiling basic edition..."
+cd basic_edition
+pandoc player_handbook.md -o ../pdf/be_player_handbook.pdf -V geometry:left=0in
+pandoc keeper_guide.md -o ../pdf/basic_edition_keeper_guide.pdf -V geometry:left=0in
 echo "Done"
 
 # Compile Settings
 echo "Compiling settings..."
+cd ..
 cd keeper_info/settings
-cd korsarus
-pandoc korsarus.md -o ../../../pdf/korsarus_setting_guide.pdf -V geometry:left=0in
+#cd korsarus
+#pandoc korsarus.md -o ../../../pdf/korsarus_setting_guide.pdf -V geometry:left=0in
 echo "Done"

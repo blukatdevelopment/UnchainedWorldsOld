@@ -39,7 +39,7 @@ Spellcaster(+4, DC14). Pick 1 spell attack
 1. Spiritual weapon: Glowing weapon flies and attacks with free object interaction, +5 2d6+2
 2. Holy Flame: Melee spell attack. Target is wreathed in radiant flames. 4d6 damage
 3. Guiding bolt: Ranged spell attack. Target takes 3d6 damage, and next attack has a +5 to hit until the end of this combat.
-4. Halo: Halo appears and erupts on your head. All creatures within 3 paces succeed DEX save to halve 2d6 damage. 
+4. Halo: Halo appears and erupts on your head. All creatures within 3 paces make DEX save to halve 2d6 damage. 
 Pick 1 other spell
 1. Aid: Target's HP and max HP raises by 5 until they complete a rest.
 2. Dispel curse: Lift one curse. Consumes one crystal or gem worth at least 100GP
@@ -196,18 +196,18 @@ Roll 1d10+90
 10. 
 11. 
 12. 
-13. Spiritual weapon: Glowing weapon flies and attacks with free object interaction, +5 2d6+2
+13. Spiritual weapon: Glowing weapon flies up to 6 paces and attacks with free object interaction. It remains until you take damage. +5 2d6+2
 14. Holy Flame: Melee spell attack. Target is wreathed in radiant flames. 4d6 damage
 15. Guiding bolt: Ranged spell attack. Target takes 3d6 damage, and next attack has a +5 to hit until the end of this combat.
-16. Halo: Halo appears and erupts on your head. All creatures within 3 paces succeed DEX save to halve 2d6 damage. 
+16. Halo: Halo appears and erupts on your head. All creatures within 3 paces make DEX save to halve 2d6 damage. 
 17. Aid: Target's HP and max HP raises by 5 until they complete a rest.
 18. Dispel curse: Lift one curse. Consumes one crystal or gem worth at least 100GP
 19. Blessing: Touch one creature. Before the next rest, creature may have a +10 on one roll of their choice.
 20. Angel wings: Touch one creature. It sprouts angelic wings and can fly until it completes a long rest.
-21. 
-22. 
-23. 
-24. 
+21. Cure wounds: Touch a creature to heal 1d8+3 hit points.
+22. Healing word: Speak a command word to heal a creature that can hear you 1d4+2 hit points.
+23. Guidance: You lend guidance. Any creatures of your choice that can hear you gains a 1d4 bonus to ability checks and saves for the next minute.
+24. Sending: You may send a creature you have met a message containing 25 words or less. They may then respond with their own message of 25 words or less.
 25. Face melt: Target in sight WIS save or take 1d6 damage
 26. Weak: Target deals 1d4 less damage until cultist dies.
 27. Shadow Blade: +4 2d6+3 damage melee attack
