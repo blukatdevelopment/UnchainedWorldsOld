@@ -177,7 +177,7 @@ to roll for all three categories, use the "any" collumn.
 +-------------+---------+---------+---------+-----------+
 ```
 
-### Legendary spells
+### TBD spells
 Roll 1d10+80
 
 ### Epic Spells

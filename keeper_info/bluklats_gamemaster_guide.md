@@ -164,6 +164,12 @@ legs of the journey. Get wild, shuffle the order of the rooms, and test out
 whatever experiments you think would be cool. This isn't a cookie cutter, it's
 a bunch of building blocks that can assume any number of shapes together.
 
+### Point Crawl
+You have created points of interest with content for the party to explore.
+Perhaps random generation plays a part in this, too. Either way, travel is
+linear and there's less emphasis on getting lost or accidentally discovering
+locations.
+
 ### Hex Crawl
 Regardless of whether you use a hex grid or a square one, you have predefined
 or procedurally generated content on a world map, and the party seeks out riches

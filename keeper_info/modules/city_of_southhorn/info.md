@@ -50,6 +50,18 @@ Count Kinkade, to finish off the remnants of the bandits and bring peace to the
 region. His first contract is to provide security detail for the Diadem, 
 offering free passage to Southhaven in addition to 10GP per person.
 
+### If an adventurer dies
+If an adventurer dies, the story goes on. Have the player create a new character
+and introduce them soon. Here's some ways to pick from.
+1. On the ship headed into Southhorn, either current voyage, or a later one
+2. An adventurer awaiting contracts in:
+- the Ravshack Inn
+- the Cauldberry Tavern
+- the bandit camp
+- The red paw base in haven
+3. Someone captured or infiltrating the cult. Let them come up to the party with news of the cult.
+4. An assassin hired by a hostile faction(one of the kingdoms, bandits, cultists, red paw, etc) that the party can talk down from fighting.
+5. Someone who is wrongfully sentenced to death by Kinkade for the cult's activities.
 
 ### Character Creation
 If you have an existing party from another adventure such as a level 0 character
@@ -842,7 +854,7 @@ know and are paid off, which explains her high prices.
 ### (f) Market
 The market consists of a few tents and blankets with goods for sale that meet 
 daily, setting up just before sunrise and packing up at noon. They sell soft 
-rations via produce for 5CP for two pounds, which expire after three days of 
+rations ala produce for 5CP for two pounds, which expire after five days of 
 purchase.
 
 #### Selling goods
@@ -924,7 +936,7 @@ Dagger: +2 1d4+1 piercing
 20. Warrior for a share of treasure
 ```
 Paako the brave
-Medium humanoid(wolffolk)
+Medium humanoid(wolf folk)
 HP: 12(3d4+3)
 AC: 13(leather)
 Speed: 40ft
@@ -971,7 +983,6 @@ Iomhar, and Eideard. He will buy back weapons and armor in good condition
 for half price, moderate condition for one fourth.
 
 ```
-
 +-----------+-----------------------+
 |   Cost    |         Good          |
 +-----------+-----------------------+
@@ -1026,7 +1037,7 @@ building is pocked with arrows and a mass grave in the basement.
 
 #### Red Paw
 Inside, Captain Makoro(F, possumfolk) hides with 6 other beast folk warriors 
-from the red paw. If the party investigates, she will approach them and request 
+of the red paw. If the party investigates, she will approach them and request 
 aid. Objectives:
 - bring food and water
 - commandeer the Diadem for the Red Paw[Q9]
@@ -1106,8 +1117,8 @@ coats and shoes when they enter. Lines of armor stands display Inglewood
 emblemed half plate.
 
 #### Servant Chambers
-There are several servants working in the house. They will shoo adventurers out 
-of their quarters, which have a bed and wooden chest of clothes for each.
+There is a family of servants working in the house. They will shoo adventurers
+out  of their quarters, which have a bed and wooden chest of clothes for each.
 - Rua(M)
 - Paipa(M)
 - Arus(F)
