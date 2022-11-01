@@ -63,6 +63,27 @@ and introduce them soon. Here's some ways to pick from.
 4. An assassin hired by a hostile faction(one of the kingdoms, bandits, cultists, red paw, etc) that the party can talk down from fighting.
 5. Someone who is wrongfully sentenced to death by Kinkade for the cult's activities.
 
+### Random events
+If you'd like to introduce some more random elements, you may roll three random
+events and add them in. Note the dates they happen on, and add some telegraphing
+if you'd like. These will help change how this adventure plays each time it is
+run.
+The first happens 1d8 days after arriving:
+1. Kinkade's daughter is being married, hosts a public feast.
+2. Kinkade is captured by the cultists, there's a 300GP reward for his rescue.
+3. Kinkade is possessed and begins making unhinged decrees.(weekly tax, holiday in his name, army ordered to collect snails)
+4. Kinkade dies of a sudden illness, there is a jousting tournament for succession.
+The second happens 2d8+8 days after arriving:
+1. An Omarian envoy shows up for diplomacy. It's a ploy to assassinate Kinkade.
+2. An Omarian envoy shows up for diplomacy. It's a ploy to arm the Red Paw and kick off a revolution.
+3. An Omarian envoy shows up for diplomacy. An argument breaks out and there's an Omarian invasion of Southhorn.
+4. An Omarian envoy shows up for diplomacy. A peace treaty is signed and Omarian ships arrive at the dock.
+The third happens 3d10+24 days after arriving:
+1. The red paw base is compromised. Their members are imprisoned and scheduled for public execution.
+2. The red paw base receives 12 recruits from another city. They offer to work as mercenaries.
+3. The red paw makes plans to cut off outside communications and stage a revolution with the help of bandits.
+4. The red paw attempts to take over a ship so that they can relocate their base to the sea.
+
 ### Character Creation
 If you have an existing party from another adventure such as a level 0 character
 funnel, you are all set. If you need to create new adventurers now, I'd 
@@ -239,17 +260,7 @@ plank. Knocking the planks into the water will likewise stop the boarding. If
 the party does not move to protect Inglewood, they will overtake the ship.
 The party will be rewarded with 300XP if they defeat the pirates, or else 100XP 
 if they help the pirates.
-```
-Swashbuckler
-HP: 8(2d4+2)
-AC: 12(leather)
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 14| 12| 12| 10| 12| 12|
-Attacks:
-Scimitar +4 1d6+2 piercing
-Pistol(30/60) +3 1d10+1 piercing
-```
+
 
 ### Arrival
 Depending on the outcome of the pirate scuffle, the party enters Southhorn from 
@@ -604,23 +615,7 @@ to let her out, claiming she's trapped against her will here. The cell is shut
 with a lock. If the party breaks Laria out, she will attempt to pull a PC in, 
 lock the door, down them, and possess them with leech crawlers.
 
-```
-Possessed Laria
-A peasant possessed by leech crawlers.
-HP: 3(1d4)
-AC: 12
-Speed: 30ft, spider climb 30ft
-100XP
-|STR|DEX|CON|INT|WIS|CHA|
-| 18| 14| 10| 10|  8| 10|
-Swarm: Upon death, a swarm of leech crawlers burst from the Laria's body, ready
-to exact revenge.
-Possess: Laria may send leech crawlers from her body into an
-unconscious creature, stabilizing them and possessing them simultaneously
-Multi-attack: Laria may attack twice with unarmed, or once and Possess
-Attacks:
-Unarmed: +5 5 bludgeoning
-```
+
 
 #### Storage Room
 
@@ -633,18 +628,7 @@ This room contains six piles of boxes. Opening the boxes will attract a hoard of
 5. Open box of cheese rinds, eaten by rats
 6. empty box
 
-```
-Rat
-Tiny Beast
-XP: 10
-HP: 3(1d4)
-AC: 12
-Speed: 25ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 10| 10| 10|  3| 14|  3|
-Attacks:
-Bite +1 1 piercing
-```
+
 
 #### titan Tomb
 ```
@@ -681,41 +665,6 @@ Graves B-F have battleaxes and dormant zombies inside. Grave A has a Guardian in
 it wielding a +1 shield with Bimros's arrow on it. Waking the guardian raises 
 all the zombies.
 
-```
-titan Guardian
-The titan warriors of past ages were buried in their armor in case they
-ever needed to rise again after death to defend their tombs.
-Medium Undead
-XP: 100
-HP: 26 (5d6+6)
-AC: 16 (chain mail)
-Speed: 25ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 17|  8| 14|  4|  4|  4|
-Resistant: Non-magical physical
-Weak: Radiant
-Immune: Necrotic
-Shout: All creatures in a 15ft cone must succeed a DC 14 STR save or be
-thrown backward 10ft, falling prone if they collide with another creature.
-Battleaxe +5 1d8+3
-
-Zombie
-Medium Undead
-XP: 25
-HP: 10 (2d4+4)
-AC: 8
-Speed: 20ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 14|  8| 14|  4|  4|  4|
-Resistant: Non-magical physical
-Weak: Radiant
-Immune: Necrotic
-Undead Fortitude: When zombie falls to 0 hit points by damage other than fire
-or radiant, they can make a con save to stay up with 1 hit point. The DC is half
-the damage plus 10.
-Bash +2 1d8+1 bludgeoning
-```
-
 ### (c) Cauldberry Tavern
 The bustling dockside bar is home to Hine's Hardbacks, a dining hall with food
 and drink, and several externally accessible rooms.
@@ -728,19 +677,6 @@ been taking people.
 #### Hine's Hardbacks
 Hine and her band of twenty merry mercenaries gather around the bar. She offers 
 their services for 2GP/day per mercenary.
-
-```
-Hine's Hardback
-A mercenary with a red H on the back of their leather armor.
-HP: 8(2d4+2)
-AC: 12(leather)
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 14| 12| 12| 10| 12| 12|
-Attacks:
-Longsword +4 1d8+2 piercing
-Shortbow +3 1d6+1 piercing
-```
 
 #### Gamblers
 A group of roughians gather around, playing 21 bandits. The game works with the
@@ -878,78 +814,13 @@ Roll a 1d20 for a random merchant that appears in town for any given day.
 - Weal(1): Advantage on one of your checks in next 24 hours
 - Woe(2): Disadvantage on someone else's check within 25 hours, 30ft range
 13. Pet hound for sale 5GP
-```
-Hound
-XP: 50
-Man's best friend!
-Medium Beast
-HP: 9(3d4)
-AC: 12
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 12| 12| 12|  3| 14|  3|
-Attacks:
-Bite +3 1d4+2 piercing
-
-```
 14. Chicken eel jerky rations 4SP each
 15. Tattoo artist
 16. Bard Serenader 5GP per hour
 17. Spellbook 50GP (Cause Fear, Comprehend Languages, Ice Tomb)
-18. Hired follower: 2SP/day
-```
-Terra
-HP: 4(1d4+1)
-AC: 11
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 12| 12| 12| 10| 12| 12|
-Attacks:
-Dagger +2 1d4+1 piercing
-Sling +2 1d4+1 bludgeoning
-
-```
-19. Priest for hire: 2GP/day
-```
-Garris
-HP: 3 (1d4)
-AC: 12
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 12| 12| 10| 13| 16| 12|
-Light: 30 bright, 30 dim
-Sacred Flame( 30ft): DC 13 WIS or 1d6 radiant
-Lay on hands(3/day): 1 minute, Roll 1d20+5
-+--------------+------------+
-|     Roll     | Hit Points |
-+--------------+------------+
-| Less than 10 |          0 |
-| 10-16        |          1 |
-| 17-18        |          2 |
-| 19-20        |          4 |
-| more than 20 |          6 |
-+--------------+------------+
-Attacks:
-Dagger: +2 1d4+1 piercing
-
-```
-20. Warrior for a share of treasure
-```
-Paako the brave
-Medium humanoid(wolf folk)
-HP: 12(3d4+3)
-AC: 13(leather)
-Speed: 40ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 12| 16| 12| 10| 13| 12|
-Keen sense: Advantage on perception checks that rely on smell 
-or taste
-Attacks:
-Jaws +3 1d4+1 piercing
-Bone Dagger +5 1d4+3 piercing
-Bone Dagger(Offhand) +5 1d4 piercing
-Longbow +5 1d8+3 piercing
-```
+18. Terra, the Hired follower: 2SP/day
+19. Priest Garris for hire: 2GP/day
+20. Warrior for a share of treasure: Paako the brave
 
 ### (g) Town Square
 This area has a block of shops in town.
@@ -1188,37 +1059,6 @@ You may roll a 1d6.
 - 5 Baldric Battleaxes, sit at camp
 - Ace, occupies archer nest
 
-```
-Bandit Militia
-HP: 4(1d4+1)
-AC: 16(Scale Mail)
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 12| 12| 12| 10| 12| 12|
-Attacks:
-Dagger +2 1d4+1 piercing
-Light Crossbow +2 1d8+1 piercing
-
-Baldric Battleaxe
-HP: 18(3d6+6)
-AC: 17(Scale Mail, shield)
-Speed: 25ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 16| 12| 14| 10| 10| 10|
-Attacks:
-Battleaxe +5 1d10+4 slashing
-
-Ace
-HP: 8(2d4+2)
-AC: 14(leather)
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 12| 16| 12| 10| 12| 12|
-Attacks:
-Dagger +6 1d4+3 piercing
-Heavy Crossbow +6 1d10+3 piercing
-```
-
 #### Raiding Party
 - 5 raiders
 - 5 Baldric Battleaxes (Including Baldric)
@@ -1231,53 +1071,12 @@ Items
 - Stonebreaker: Ring of +2 Strength Score
 - Spellscroll of Invisibility (Baldric)
 
-```
-Raider
-HP: 10(2d6+2)
-AC: 12(leather)
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 14| 12| 12| 10| 12| 12|
-Attacks:
-Longsword +4 1d8+2 piercing
-Heavy Crossbow +4 1d10+2 piercing
-
-Baldric Battleaxe
-HP: 18(3d6+6)
-AC: 17(Scale Mail, shield)
-Speed: 25ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 16| 12| 14| 10| 10| 10|
-Attacks:
-Battleaxe +5 1d10+4 slashing
-```
-
 #### Pirate Band
 - 10 swashbucklers
 - Captain Falclind
 - Will retreat to ship at start of trouble
 
 ```
-Swashbuckler
-HP: 8(2d4+2)
-AC: 12(leather)
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 14| 12| 12| 10| 12| 12|
-Attacks:
-Scimitar +4 1d6+2 piercing
-Pistol(30/60) +3 1d10+1 piercing
-
-Captain Falclind
-HP: 21(3d8+6)
-AC: 13(hide)
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 16| 12| 12| 10| 12| 16|
-Multiattack: Captain can make two rapier attacks
-Attacks:
-Rapier +5 1d8+3 piercing
-Pistol(30/60) +3 1d10+1
 
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │ FFFFFFFFFFFFFFFFFFFFFFFFFFFF FFFFFFFFFFFFFFFFFFFFFFFF FFFFFFFFFFFFFF         │
@@ -1414,130 +1213,22 @@ Kinkade.
 
 #### In City
 Roll a 1d20 each transition between locations. If you roll a 1, then roll an
-encounter on the table below.
-
-```
-+------+------------------------------------------------+
-| Roll |                    Encounter                   |
-+------+------------------------------------------------+
-|    1 | Petty Bandits[Muggers, Beggars, Assassins]     |
-|    2 | Leech Crawlers[Possession, Nest, Assassin]     |
-|    3 | Guards[Shakedown, Inquisition, Tax collection] |
-|    4 | Cultists[Recruiter, Kidnapper, Assassin]       |
-|    5 | Red Paw[Recruiter, Agitator is executed, Riot] |
-|    6 | Animals[Rats, Dogs, Gator]                     |
-+------+------------------------------------------------+
-
-Petty Bandit
-HP: 4(1d4+1)
-AC: 11
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 12| 12| 12| 10| 12| 12|
-Attacks:
-Dagger +2 1d4+1 piercing
-Sling +2 1d4+1 bludgeoning
-
-Leech crawler Assassin
-A peasant possessed by leech crawlers sent to kill the party
-HP: 13(3d4+4)
-AC: 10
-Speed: 30ft
-25XP
-|STR|DEX|CON|INT|WIS|CHA|
-| 14| 10| 18| 10|  8| 10|
-Swarm: Upon death, a swarm of leech crawlers burst from the zombie's body, ready
-to exact revenge.
-Attacks:
-Unarmed: +3 3 bludgeoning
-Poison dagger +1 1d4+1 piercing + 2d8 poison
-
-Crown Guard
-Medium Humanoid
-XP: 25
-HP: 5(1d6+1)
-AC: 11(padded)
-|STR|DEX|CON|INT|WIS|CHA|
-| 14| 10| 12| 10| 13| 12|
-Speed: 30ft
-Attacks:
-Club +3 1d4+2
-
-Cultist Initiate
-Medium Humanoid
-XP: 25
-HP: 3 (1d4)
-AC: 12
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 10| 12| 11| 12|  8| 14|
-Attacks:
-Dagger: +2 1d4+1 piercing
-Skin Boil(5ft): DC 12 Con save or 1d10 necrotic
-
-Red Paw
-HP: 4(1d6)
-AC: 10
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 10| 10| 10| 10| 10| 10|
-Attacks:
-Claws +1 1d4 bludgeoning
-
-Rat
-Tiny Beast
-XP: 10
-HP: 3(1d4)
-AC: 12
-Speed: 25ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 10| 10| 10|  3| 14|  3|
-Attacks:
-Bite +1 1 piercing
-
-Feral Dog
-XP: 50
-This dog foams at the mouth.
-Medium Beast
-HP: 9(3d4)
-AC: 12
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 12| 12| 12|  3| 14|  3|
-Attacks:
-Bite +3 1d4+2 piercing, DC 11 CON save or contract mouthfoam
-
-Sewer Gator
-XP: 100
-These creatures live in the sewers
-Medium Beast
-HP: 9(3d4)
-AC: 12
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 12| 12| 12|  3| 14|  3|
-Actions:
-Rip and tear: Gator rotates its body to break the bone of grappled target,
-who must make a DC 12 CON save to halve 2d8 bludgeoning damage.
-Attacks:
-Bite +3 1d8+2 piercing, DC 13 STR or grapple
-```
+encounter below.
+1. Petty Bandits[Muggers, Beggars, Assassins]
+2. Leech Crawlers[Possession, Nest, Assassin]
+3. Guards[Shakedown, Inquisition, Tax collection]
+4. Cultists[Recruiter, Kidnapper, Assassin]
+5. Red Paw[Recruiter, Agitator is executed, Riot]
+6. Animals[Rats, Dogs, Gator] 
 
 #### In Wilderness
-Roll a 1d6 each day of travel. If you roll a 1, then roll an encounter on the
-table below.
-```
-+------+-----------------------------------------------------------------+
-| Roll |                    Outcome                                      |
-+------+-----------------------------------------------------------------+
-|    1 | 8 wolves                                                        |
-|    2 | 8 petty bandits,  4 bandits, and bandit captain                 |
-|    3 | 10 goblins, 5 Goblin Hunters, 5 Goblin skirmishers              |
-|    4 | 4 Blue Slimes                                                   |
-|    5 | Mature Blink Lion                                               |
-|    6 | River Giant                                                     |
-+------+-----------------------------------------------------------------+
-```
+Roll a 1d6 each day of travel. If you roll a 1, then roll an encounter below.
+1. 8 wolves
+2. 8 petty bandits,  4 bandits, and bandit captain
+3. 10 goblins, 5 Goblin Hunters, 5 Goblin skirmishers
+4. 4 Blue Slimes
+5. Mature Blink Lion
+6. River Giant
 
 Below are the prominent bandit gangs in the area. The party will meet one of
 them for each bandit encounter, starting with 1 and ending with 4.
@@ -1551,120 +1242,6 @@ Prominent Goblin tribes, appearing randomly:
 2. Gutstomp tribe: Hunters, interested in trading for stone weapons
 3. Karbo tribe: Demand 5GP/head from party
 4. Waywose tribe: Wear animal skin costumes, worship Uaos, fight Inglewood
-
-```
-Petty Bandit
-HP: 4(1d4+1)
-AC: 11
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 12| 12| 12| 10| 12| 12|
-Attacks:
-Dagger +2 1d4+1 piercing
-Sling +2 1d4+1 bludgeoning
-
-Bandit
-HP: 8(2d4+2)
-AC: 12(leather)
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 14| 12| 12| 10| 12| 12|
-Attacks:
-Shortsword +4 1d6+2 piercing
-Shortbow +4 1d6+1 piercing
-
-Bandit Captain
-HP: 21(3d8+6)
-AC: 13(hide)
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 16| 12| 12| 10| 12| 16|
-Multiattack: Captain can make two shortsword attacks
-Attacks:
-Shortsword +5 1d6+3 piercing
-
-Goblin Cannibals
-Medium humanoid
-XP: 11
-HP: 4 (1d4+1)
-AC: 10
-|STR|DEX|CON|INT|WIS|CHA|
-|  8| 12| 12| 10| 10| 10|
-Speed: 30ft
-Attacks:
-Bone Dagger +2 1d4+1 piercing
-Net +4
-
-Goblin Hunter
-Medium humanoid
-XP: 25
-HP: 12 (3d4+3)
-AC: 14(leather)
-|STR|DEX|CON|INT|WIS|CHA|
-| 14| 14| 12| 12| 12| 12|
-Speed: 30ft
-Spear assassin: Attacks throwing spears have advantage on prone targets.
-Attacks:
-Bone Spear +3 1d8+1 piercing
-Bola(15ft) +2 target must succeed DC 16 STR or fall prone
-
-Goblin Skirmisher
-Medium humanoid
-XP: 25
-HP: 12 (3d4+3)
-AC: 15(leather and shield)
-|STR|DEX|CON|INT|WIS|CHA|
-| 14| 14| 12| 12| 12| 12|
-Goblin shuffle: May disengage with bonus action
-Speed: 30ft
-Attacks:
-Bone shortsword +4 1d6+2
-Catgut Shortbow +3 1d6+1
-
-Blue Slime
-These little slimes would be harmless, if it weren't for their insatiable
-appetite for metal objects.
-Small Slime
-HP: 19 (3d8+4)
-AC: 10
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 16| 10| 14| 10| 10| 10|
-Immunities: Piercing damage
-Diffuse: Slime melts into a puddle that can rapidly travel over grassy areas.
-The slime's speed becomes 40 and ranged attacks have disadvantage on it, since
-it travels beneath the top most layer of grass. It may not attack in this state.
-Smother +4 1d6+2 acid damage.
-
-Mature Blink Lion
-A lion with tentacles on its back and tail. It has a third eye with a golden
-iris.
-Large Monstrosity
-XP: 450
-HP: 41 (5d12+6)
-AC: 12
-Speed: 40ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 16| 14| 14|  4| 10|  4|
-Multi-attack: May make two claw attacks against a grappled target.
-Blink: As a bonus action or reaction when targeted by ranged attacks, may
-teleport to another point within 30ft.
-Claws +5 1d6+2 slashing
-Tentacles +5 1 piercing, instant grapple
-Tail +5 1d4 piercing, instant grapple
-
-River Giant
-River giants are feared because they capture land dwellers in nets and drag
-them under water to drown them.
-Large Giant
-HP: 56 (8d12)
-AC: 12
-Speed: 35ft, swim 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 18| 10| 10|  8| 12|  4|
-Net +4 Succeed a DC 14 STR save or be restrained and grappled.
-Spear +4 2d8+4 piercing
-```
 
 ### Rumor Table
 1. A demon-possessed lady is being held in the temple basement.
@@ -1872,38 +1449,6 @@ that one of them will turn into a leech zombie and attack during each visit. If
 the party attempts to bring the victims to the surface, they will grow hostile 
 and violently resist due to voices in their heads.
 
-```
-Leech crawler zombie
-A peasant possessed by leech crawlers.
-HP: 13(3d4+4)
-AC: 10
-Speed: 30ft
-25XP
-|STR|DEX|CON|INT|WIS|CHA|
-| 14| 10| 18| 10|  8| 10|
-Swarm: Upon death, a swarm of leech crawlers burst from the zombie's body, ready
-to exact revenge.
-Attacks:
-Unarmed: +3 3 bludgeoning
-Pitchfork: +3 1d6 piercing
-Torch(thrown 30ft): +3 1d4 fire damage
-
-Swarm of Leech Crawlers
-Demonic leeches with arms and legs looking for hosts.
-Medium swarm of tiny demons.
-50XP
-HP: 15 (3d8)
-AC: 8
-|STR|DEX|CON|INT|WIS|CHA|
-| 10| 12| 12| 10| 10| 10|
-Burrow: Swarm may use action to enter an unconscious
-creature's nose, ears, and mouth. The creature rises up
-with 1 hit point, under leech control, and the swarm loses 
-1 hit point.
-Speed: 30ft
-Resistance: physical damage
-```
-
 ### 5 River Statues
 The water moves from NorthWest to SouthEast, running through a grouping of 
 titan statues that are covered in demon nesting. Spores float through the air, 
@@ -1926,25 +1471,6 @@ There is a 1/4 chance a couple cultists will be building a Hell Knight from the
 gore pit, having half its maximum hit points available to it. Otherwise, there's 
 just a pile of organs on the ground. Corpses crawling with flies.
 
-```
-Unfinished Hell Knight
-The blood steel helmet and cuirass hide the true horror of this monster, which
-is a hulking heap of rotten corpses joined by a possessing spirit. It has no
-eyes nor mouth on its head, but perceives spirits to a limited range.
-Large Fiend(Demon)
-XP: 100
-HP: 20 (5d12+3)
-AC: 12(Half Plate)
-|STR|DEX|CON|INT|WIS|CHA|
-| 20| 12| 12|  4|  4|  4|
-Speed: 30ft
-Blindsight 30ft
-Engulf: Arms reach out and drag a grappled creature into the Hell Knight's
-torso. This turn, and at the start of any following, the grappled creature takes
-1d4 piercing damage as mouths begin biting and gnawing on them.
-Bash +6 1d6+5 bludgeoning
-```
-
 Exits:
 - West: Upward tunnel to 6
 - South: tunnel to 11
@@ -1952,20 +1478,6 @@ Exits:
 ### 8 Leech dog zombie den
 6 dogs infected by the leeches have gathered in this entranceway to titan 
 ruins.
-
-```
-Leech dog zombie
-XP: 50
-This dog is controlled by a leech crawler
-Medium Beast
-HP: 9(3d4)
-AC: 12
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 12| 12| 12|  3| 14|  3|
-Attacks:
-Bite +3 1d4+2 piercing
-```
 
 Exits:
 - North: Doorway to 4
@@ -1994,40 +1506,6 @@ Exits:
 ### 11 Demon King
 The demon king sits on a throne of gore. He wears a necklace of skulls.
 
-```
-Roth'tanag
-This hulking figure is covered in blunt horns made from stone. The creature has 
-a forked tongue and powerful limbs.
-Large Fiend(Demon)
-XP: 700
-HP: 45 (10d6+6)
-AC: 13(Natural Armor)
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 18|  8| 14| 10|  8| 14|
-Resistances: Non-magical physical damage
-Stone breath[Recharge 5-6]: Creatures within a 15 foot radius must succeed a 
-DC 15 constitution save to halve 2d6 necrotic damage. If a creature fails by
-5 or more or is killed by this attack, they are petrified.
-Horn blast: Creature must succeed DC 13 dexterity saving throw or take 2d6
-piercing damage.
-Summon Soul flames[Recharge 5-6]: The Roth'tanag summons six soul flames within
-30 feet.
-
-Soul Flame
-A dark green flame that emanates a cold aura. By exhausting themselves against
-an enemy, they can know final rest.
-Tiny Demon(fiend)
-0XP
-HP: 1
-AC: 8
-|STR|DEX|CON|INT|WIS|CHA|
-| 10| 10| 10| 10| 10| 10|
-Speed: 15ft
-Burn out: The soul flame leaps onto a target and erupts, dealing 1d8 necrotic
-damage
-```
-
 Exits:
 - West: passage to 10
 - East: Passage to 12, wafts of hot air, smell of brimstone
@@ -2039,29 +1517,6 @@ Room is sweltering from a demonic forge. A sleeping Hell Knight is being
 outfitted with Hellish armor by four cultists. On the forge is blood red-tinted 
 blade of blood steel laying on the forge (+1 greatsword). The blade always 
 feels warm to the touch. Cultists will rush to wield the sword.
-
-```
-Hell Knight
-The blood steel helmet and cuirass hide the true horror of this monster, which
-is a hulking heap of rotten corpses joined by a possessing spirit. It has no
-eyes nor mouth on its head, but perceives spirits to a limited range.
-Large Fiend(Demon)
-XP: 450
-HP: 48 (5d12+3)
-AC: 16(Half Plate)
-|STR|DEX|CON|INT|WIS|CHA|
-| 20| 12| 12|  4|  4|  4|
-Speed: 30ft
-Blindsight 30ft
-Resistance: Fire
-Destruct: When the Hell Knight is killed, it's blood steel equipment explodes
-into flame. All creatures within 10ft must succeed a DC 12 dexterity saving
-throw to halve 1d6 fire damage.
-Engulf: Arms reach out and drag a grappled creature into the Hell Knight's
-torso. This turn, and at the start of any following, the grappled creature takes
-1d4 piercing damage as mouths begin biting and gnawing on them.
-Blood Sword +6 2d8+5 slashing damage
-```
 
 Exits:
 - West: Passage to 11
@@ -2121,26 +1576,6 @@ into the East and West walls. Upon discovery, 1d4+1 will pour out each turn as
 they attack the party. The stone is carved unevenly, and several sections are
 left touching from ceiling to floor.
 
-```
-Grinder
-This spherical demon opens into two hemispheres joined by a central stalk. Teeth
-brim at the edges where these pieces meet, forming a 360 degree mouth. Grinders
-gnash their teeth constantly, compelled to chew through stone despite the pain 
-it causes them. They have eyes on all sides, and three legs.
-Medium Demon(fiend)
-XP: 100
-HP: 26(4d8+6)
-AC: 14
-|STR|DEX|CON|INT|WIS|CHA|
-| 16| 10| 14| 10| 10| 10|
-Speed: 30ft
-Curl: The grinder can use its bonus action to enter or exit its curled form.
-When curled, the grinder can move up to 60 feet in a straight line and make a
-slam attack using its action. While rolled, AC increases by +3.
-Slam +4 1d6+3 bludgeoning
-Bite +4 1d8+3 piercing
-```
-
 Exits:
 - North: Passage
 - South: Passage
@@ -2189,24 +1624,6 @@ pulsating leech crawler egg sacs. There are six sacks, and each has a 1 in 2
 chance to spawn a swarm of leech crawlers each turn. Egg sacs have an AC of 8 
 and 8 hit points each.
 
-```
-Swarm of Leech Crawlers
-Demonic leeches with arms and legs looking for hosts.
-Medium swarm of tiny demons.
-50XP
-HP: 15 (3d8)
-AC: 8
-|STR|DEX|CON|INT|WIS|CHA|
-| 10| 12| 12| 10| 10| 10|
-Burrow: Swarm may use action to enter an unconscious
-creature's nose, ears, and mouth. The creature rises up
-with 1 hit point, under leech control, and the swarm loses 
-1 hit point.
-Speed: 30ft
-Resistance: physical damage
-Bite +2 1d4 piercing damage
-```
-
 Exits:
 - West: Unlocked metal door to 8
 - East: passage to 17
@@ -2226,25 +1643,6 @@ Entering the vault reveals a row of six tombs. Disturbing one of the tombs
 causes all six Titans to rise wielding battleaxes. One has Titan runes on it
 that glow a dim orange(+1 battleaxe). There's a draft in the room.
 
-```
-Titan Guardian
-The Titan warriors of past ages were buried in their armor in case they
-ever needed to rise again after death to defend their tombs.
-Medium Undead
-XP: 100
-HP: 26 (5d6+6)
-AC: 16 (chain mail)
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 17|  8| 14|  4|  4|  4|
-Resistant: Non-magical physical
-Weak: Radiant
-Immune: Necrotic
-Shout: All creatures in a 15ft cone must succeed a DC 14 STR save or be
-thrown backward 10ft, falling prone if they collide with another creature.
-Battleaxe +5 1d8+3
-```
-
 Exits:
 - North: Passage to 13, damp air
 - West: passageway to 16
@@ -2256,24 +1654,6 @@ Room has an inch of water in it flowing South. Graffiti in Titan
 `Beware of ceiling axes`. Crudely carved slots in ceiling. Pressure plate 
 triggers fall into pit of leech crawlers.
 
-```
-Swarm of Leech Crawlers
-Demonic leeches with arms and legs looking for hosts.
-Medium swarm of tiny demons.
-50XP
-HP: 15 (3d8)
-AC: 8
-|STR|DEX|CON|INT|WIS|CHA|
-| 10| 12| 12| 10| 10| 10|
-Burrow: Swarm may use action to enter an unconscious
-creature's nose, ears, and mouth. The creature rises up
-with 1 hit point, under leech control, and the swarm loses 
-1 hit point.
-Speed: 30ft
-Resistance: physical damage
-Bite +2 1d4 piercing damage
-```
-
 Exits:
 - North: Knee-deep water in tunnel flowing from 9
 - East: Secret passageway to 19. Rocks piled against passage to look like rubble.
@@ -2283,26 +1663,6 @@ Exits:
 Sandy floor chamber with dead fish on ground. Grind marks on walls. A lone 
 grinder is grinding on the walls. Investigating the walls reveals a hole into 
 a tunnel leading to room 26.
-
-```
-Grinder
-This spherical demon opens into two hemispheres joined by a central stalk. Teeth
-brim at the edges where these pieces meet, forming a 360 degree mouth. Grinders
-gnash their teeth constantly, compelled to chew through stone despite the pain 
-it causes them. They have eyes on all sides, and three legs.
-Medium Demon(fiend)
-XP: 100
-HP: 26(4d8+6)
-AC: 14
-|STR|DEX|CON|INT|WIS|CHA|
-| 16| 10| 14| 10| 10| 10|
-Speed: 30ft
-Curl: The grinder can use its bonus action to enter or exit its curled form.
-When curled, the grinder can move up to 60 feet in a straight line and make a
-slam attack using its action. While rolled, AC increases by +3.
-Slam +4 1d6+3 bludgeoning
-Bite +4 1d8+3 piercing
-```
 
 Exits:
 - East: tunnel to 14, sound of grinding
@@ -2317,38 +1677,6 @@ to 600GP if the party doesn't take the offer or sees through it. If pressed,
 they will argue that their noble hosts were already evil before being overtaken, 
 and that the two kingdoms have warred for a hundred years so far, meaning any 
 evil they can do is inconsequential.
-
-```
-Leech crawler Noble zombie
-A peasant possessed by leech crawlers.
-HP: 13(3d4+4)
-AC: 15 (Half plate)
-Speed: 30ft
-100XP
-|STR|DEX|CON|INT|WIS|CHA|
-| 14| 14| 18| 10|  8| 10|
-Swarm: Upon death, a swarm of leech crawlers burst from the zombie's body, ready
-to exact revenge.
-Attacks:
-Unarmed: +3 3 bludgeoning
-Rapier: +3 1d8+2 piercing
-
-Swarm of Leech Crawlers
-Demonic leeches with arms and legs looking for hosts.
-Medium swarm of tiny demons.
-50XP
-HP: 15 (3d8)
-AC: 8
-|STR|DEX|CON|INT|WIS|CHA|
-| 10| 12| 12| 10| 10| 10|
-Burrow: Swarm may use action to enter an unconscious
-creature's nose, ears, and mouth. The creature rises up
-with 1 hit point, under leech control, and the swarm loses 
-1 hit point.
-Speed: 30ft
-Resistance: physical damage
-Bite +2 1d4 piercing damage
-```
 
 Exits:
 - North: Passage to 16
@@ -2410,37 +1738,6 @@ S = Shallow spot on waterfall
 8. Cave entrance, campfire with cauldron of bubbling soup
 9. Cave entrance
 
-```
-Cultist Initiate
-Medium Humanoid
-XP: 25
-HP: 3 (1d4)
-AC: 12
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 10| 12| 11| 12|  8| 14|
-Attacks:
-Dagger: +2 1d4+1 piercing
-Skin Boil(5ft): DC 12 Con save or 1d10 necrotic
-
-Cult leader Tilman Hersh
-Medium Humanoid
-XP: 200
-HP: 9 (3d4)
-AC: 15(Mage Armor)
-Speed: 30ft 
-|STR|DEX|CON|INT|WIS|CHA|
-| 12| 15| 10| 10| 10| 16|
-Dark feast(60ft): willing creature takes 30(6d8) necrotic, gain 
-as much temp HP
-Spells(1 each/day):
-- Earth Tremor
-- Mage Armor
-- Darkness
-Legendary action(when ally dies):  Dark Feast fallen ally
-Shadow Sword: +5 2d8+2 Piercing
-```
-
 Exits:
 - North: Waterfall with shallow spot from 15
 - NorthEast: Tunnel to 18
@@ -2501,43 +1798,10 @@ C = cage
 2. Cages with prisoners
 3. Cave entrance
 
-
-```
-Cultist spy
-HP: 6 (2d4)
-AC: 13(leather)
-Speed: 30ft
-False Life(Bonus action, 1 use): Gain 10(2d8) temp HP
-Force Choke(15ft): +5 1d8 bludgeoning DC 14 STR save or grappled
-Attacks:
-Hidden Dagger: +5 1d4+2 piercing
-
-Prisoner
-HP: 3(1d4)
-AC: 10
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 10| 10| 10| 10| 10| 10|
-Attacks:
-Unarmed +1 1 bludgeoning
-```
-
 ### 24 Cultist armory
 Slower river. DC 14 athletics to swim. Failure results in 1d4 bludgeoning 
 against southern wall. 100ft rope bridge to treasure island. Hoard contains 5 
 animated swords, which will attack once the pile is plundered.
-
-```
-Animated Sword
-Tiny Construct
-50XP
-HP: 15 (3d8)
-AC: 16
-Speed: 30 fly
-|STR|DEX|CON|INT|WIS|CHA|
-| 12| 10| 10|  4|  4|  4|
-Slash +3 1d8+1 slashing
-```
 
 ### 25 Grinder Pit
 This chamber has a grinder in it laying on a large size pillow. The grinder is 
@@ -2546,25 +1810,6 @@ coins, one gold statue with bites out of it, and some ore. If the party
 approaches, the creature will open its mouth and expect an offering, growing 
 angry if one is not provided.
 
-```
-Grinder
-This spherical demon opens into two hemispheres joined by a central stalk. Teeth
-brim at the edges where these pieces meet, forming a 360 degree mouth. Grinders
-gnash their teeth constantly, compelled to chew through stone despite the pain 
-it causes them. They have eyes on all sides, and three legs.
-Medium Demon(fiend)
-XP: 100
-HP: 26(4d8+6)
-AC: 14
-|STR|DEX|CON|INT|WIS|CHA|
-| 16| 10| 14| 10| 10| 10|
-Speed: 30ft
-Curl: The grinder can use its bonus action to enter or exit its curled form.
-When curled, the grinder can move up to 60 feet in a straight line and make a
-slam attack using its action. While rolled, AC increases by +3.
-Slam +4 1d6+3 bludgeoning
-Bite +4 1d8+3 piercing
-```
 ### 26 Geode Chamber
 This chamber is a 30ft diameter sphere skewered with white crystals as large as 
 three feet in diameter. The party will begin to hear voices in their head 
