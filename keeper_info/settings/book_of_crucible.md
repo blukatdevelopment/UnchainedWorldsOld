@@ -1,12 +1,10 @@
 # Book of Crucible
 Hey, blukat speaking. This is just some world-building for the default setting in my campaigns and modules. Feel free to lift what you want from here in your own games, like with all content in Unchained Worlds.
 
-## Time
-
-### Epochs
-
-#### Divine Age
-- A few deitities wove the material plane, known as weavers
+## History
+### Divine Age
+![Creation](../../../img/korsarus_creation.jpg?raw=true "Creation")\
+- A few deities wove the material plane, known as weavers
 - Thousands more came to create the various forms of life
 - War broke out, casualities unspeakable
 - Weavers were killed, their corpses leaving "god bones"
@@ -14,25 +12,33 @@ Hey, blukat speaking. This is just some world-building for the default setting i
 - Many divines still interact via temples and cults
 - Some divines still interact via avatars
 
-#### Dragon Age
+### Dragon Age
 - Lizards ate the marrow from god bones, becoming dragons
 - Dragons became powerful and intelligent
+- Dragons organized under strict hierarchy of mutual defense
 - All other life became pawns and livestock in dragon wars
+- Dragons trained and hoarded dragonslayers for mutually assured destruction defense
 
-#### Dwarf Age
-- Dwarven dragon slayers usurped dragons with gnome tech
+### Titan Age
+- Titan dragon slayers usurped dragons
 - Uprising against dragons spread worldwide
 - Most of the powerful dragons were beheaded
 - Surviving powerful dragons slumbered
 - Lesser dragons retreated to wilderness
-- Dwarven empire was as brutal as dragon's rule
-- Dwarves purged scientists and mages, creating dark age
+- Titan empire was as brutal as dragon's rule
+- titans purged scientists and mages, creating dark age
 
-#### Human Era
-- Deteriorating Dwarven empire full of problems
-- Humans unite oppressed, overthrow Dwarves
+### Human Era
+- Deteriorating Titan empire full of problems
+- Humans unite oppressed, overthrow titans
 - Several human empires rise, engage in war
 - Non-humans are assimilated or expelled by human empires
+
+## Time
+
+### Epochs
+
+
 
 ### Days
 - Every week consists of seven days
@@ -77,7 +83,7 @@ Law establishes an order in the form of hierarchies via social institutions such
 Many lesser divines combined, forming more powerful divines containing multiple aspects. The celestial pantheon was formed by a few of these divines forming a loose alliance and creating a realm together from which they shape the world. They are perpetually in a state of cold war, their conflict limited entirely to the material plane where they compete using the prayers of their believers.
 
 ### Bimros
-God of arrows, hunting, and dominion over nature. He created humans to rule the fields, dwarves for the mountains, and elves for the forests.
+God of arrows, hunting, and dominion over nature. He created humans to rule the fields, titans for the mountains, and elves for the forests.
 
 ### Gegtix
 Goddess of grass, trees, flowers, thorns, fruit, and rebirth. Creating the fae to protect her aspects as they are reflected in the Crucible's wildlife. Gegtix offers an oath to pursue this goal as well, granting druidic magic to those whoi take it.

@@ -192,10 +192,10 @@ Roll 1d10+90
 6. Moon beam: A 30ft diameter circle is lit by the moon. At the start of your next turn, any creature inside takes 4d6 damage as the light burns them.
 7. Summon animals: Either 1 moose, 2 bears, 4 wolves, or 6 eagles show up to aid the druid for this combat.
 8. Command weather: Druid can cause the weather to be clear, thunderstorm, snowstorm, or strong winds.
-9. 
-10. 
-11. 
-12. 
+9. Tornado: A tornado forms at a point of your choice and lasts for one minute.
+10. Blizzard: A snowstorm rages. All flying creatures must succeed STR save at the start of their turn to stay flying. 
+11. Dominate beast: You dominate the mind of one beast you can see. It is obedient to you for 1 minute.
+12. Regrowth: You restore plant life to a 1 mile radius around you
 13. Spiritual weapon: Glowing weapon flies up to 6 paces and attacks with free object interaction. It remains until you take damage. +5 2d6+2
 14. Holy Flame: Melee spell attack. Target is wreathed in radiant flames. 4d6 damage
 15. Guiding bolt: Ranged spell attack. Target takes 3d6 damage, and next attack has a +5 to hit until the end of this combat.
@@ -213,37 +213,37 @@ Roll 1d10+90
 27. Shadow Blade: +4 2d6+3 damage melee attack
 28. Green flame: 5ft cube of flame, DEX save or 1d6 damage when inside
 29. Thorns: Thorny tentacles erupt from surfaces within sight in three 5ft cubes until the cultist dies or dismisses the effect. Standing in these space deals 1d4 damage.
-30. Ice floor: a 5ft square patch of a surface freezes over and becomes slippery for the next 8 hours. A creature must either spend double the normal paces to move over this surface, or succeed a DC 15 DEX save to avoid slipping and falling prone.
+30. Ice floor: Four 5ft square patchs of a surface freeze over and becomes slippery for the next 8 hours. A creature must either spend double the normal paces to move over these surfaces, or succeed a DC 15 DEX save to avoid slipping and falling prone.
 31. Noxious cloud: an opaque cloud of green gas that fits in a 20ft cube appears. Creatures inside must succeed a CON save or take 1d6 damage at the start of their turn.
 32. Featherweight: You weigh 1 lb. and may jump 20ft into the air from a standing position.
-33. 
-34. 
-35. 
-36. 
+33. Demonic Transformation: You turn into a demon for 1 minute, and must succeed a DC16 WIS save or else remain a demon.
+34. Shadow form: Your shadow separates from you, and has it's own movement and action, and access to your spells.
+35. Undead hoard: You raise up to 12 corpses or bone piles into some mixture of zombies and skeletons. They remain loyal as long as you live.
+36. Shadow raven: An enormous shadow raven appears and attempts to bring one creature back with it to the shadow realm. WIS save.
 37. Eldritch blast: Crackling black energy. ranged spell attack, 1d12 damage
 38. Black tentacles: A portal opens, tentacles attack target. STR save to escape, can repeat at start of turn. 1d6 damage per turn.
 39. Demon Swarm: A portal opens, and 1d4+1 demons step out. They are loyal to no one.
 40. Silence: Every creature in sight makes a WIS save or becomes mute until the end of this combat
-41. Curse of Nightmares: When target attempts to take a rest, they must roll 4 or higher on 1d6 or else stay awake through the night.
-42. Curse of Spectral attaction: Ghosts will flock to target, intermittently howling and knocking objects over.
-43. Curse of Blight: Target's rests only heal up to half their maximum hit points.
-44. Curse of Weakness: Target has a -1d4 penalty on all rolls that rely on strength
-45. 
-46. 
-47. 
-48. 
-49. # paladin
-50. 
-51. 
-52. 
-53. 
-54. 
-55. 
-56. 
-57. 
-58. 
-59. 
-60. 
+41. Curse of Nightmares: WIS save. When target attempts to take a rest, they must roll 4 or higher on 1d6 or else stay awake through the night.
+42. Curse of Spectral attraction: WIS save. Ghosts will flock to target, intermittently howling and knocking objects over.
+43. Curse of Blight: WIS save. Target's rests only heal up to half their maximum hit points.
+44. Curse of Weakness: WIS save. Target has a -1d4 penalty on all rolls that rely on strength
+45. Possession: Cast when you reach 0HP. One creature within range must make WIS save or you possess their body.
+46. Eldritch Horror: A portal opens and tentacles extend to grasp up to 6 creatures within 10 paces of it. They must make STR save or be pulled 2 paces toward portal per turn. If they reach portal, they are pulled into other realm.
+47. Duplication retreat: You create 5 illusory duplicates of yourself, and they all run away. Each has 1HP, 10AC
+48. Thrall: WIS save. Creature becomes loyal to you, repeats save daily for next 6 days. At end of six days, is permanently loyal.
+49. Holy javelin: Ranged spell attack. On hit, 3d6 damage, 6d6 for undead/demon.
+50. Radiant smite: Next melee attack within 1 minute deals 3d6 damage, 6d6 for undead/demon.
+51. Radiant weapon: Holy symbol becomes radiant weapon for 1 minute. Deals 1d6 melee damage, or 2d6 for undead/demon.
+52. Burning smite: Next melee attack within 1 minute deals 2d6 damage per turn, burning target. They succeed WIS save at start of turn to end effect.
+53. Valiant Aura: Allies within two paces of you receive a 1d4 bonus on attack and damage rolls.
+54. Sanctuary: Touch one creature. Enemies must succeed WIS save to attack this creature for 1 minute.
+55. Radiant Aura: Any undead/demon ending it's turn within 1 pace of you takes 1d6 damage.
+56. Cure illness: Touch a creature and remove one illness or affliction.
+57. Lightning strike: If sky is visible, target makes CON save to halve 8d8 damage.
+58. Plague: Choose a plague, which forms around a 1 mile radius: blood, frogs, lice, flies, boils, hail, locusts, darkness
+59. Dispelling aura: All active magical effects end within 3 paces of you for the next minute.
+60. Divine recovery: If you drop to 0HP in the next minute, you return to full HP.
 61. # Psion
 62. 
 63. 
@@ -264,7 +264,7 @@ Roll 1d10+90
 78. 
 79. 
 80. 
-81. # legendary
+81. # Modified
 82. 
 83. 
 84. 
