@@ -104,6 +104,12 @@ choose 3d4, 3d4+4, or 3d4+8 for a small group.
 |   12 | Shrieking     | Dagger    | Eye       |
 +------+---------------+-----------+-----------+
 ```
+Below are some examples.
+
+#### Long-fingered Dagger Beetle (8, 12, 1)
+#### Man-faced Ice Crawler (9, 2, 5)
+#### Shrieking Lightning Man (12, 3, 10)
+
 
 ### Demons
 Roll 4d12 to generate a random demon. Assign stats, one attack, and one ability
