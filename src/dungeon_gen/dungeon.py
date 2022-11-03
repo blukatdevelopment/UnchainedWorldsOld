@@ -33,10 +33,14 @@ LOCKED_DOOR = "locked door"
 OBSTRUCTION = "obstruction"
 SECRET_DOOR = "secret door"
 
-NORTH = "north"
-SOUTH = "south"
-EAST = "east"
-WEST = "west"
+NORTH = "North"
+SOUTH = "South"
+EAST = "East"
+WEST = "West"
+NORTHWEST = "NorthWest"
+SOUTHWEST = "SouthWest"
+NORTHEAST = "NorthEast"
+SOUTHEAST = "SouthEast"
 
 # Raw text settings and also objects
 config = {}
@@ -86,9 +90,9 @@ def build_setting(setting, setting_type):
       config[setting] = val
     else:
       config[setting] = config[setting]
-    print("Set {} to {}".format(setting, config[setting]))
-  else:
-    print("Setting missing: {}".format(setting))
+    #print("Set {} to {}".format(setting, config[setting]))
+  #else:
+    #print("Setting missing: {}".format(setting))
 
 def build_entity_list(entity_name, properties):
   config[entity_name] = []
@@ -138,31 +142,38 @@ class Connection:
       self.second_dir = ""
 
     def get_id(self):
-      return "{}->{}".format(self.a_id, self.b_id)
+      return "{}->{}".format(self.first_id, self.second_id)
 
 class Object(object):
     pass
 
+#------------------------------------------------------------------------------#
+# Dungeon building
+#------------------------------------------------------------------------------#
 
 def build_dungeon():
   dun = Dungeon()
   for i in range(len(config[FLOOR])):
     floor = config[FLOOR][i]
     level = i + 1
-    rooms = floor[ROOMS]
-    print("Building floor {} with {} rooms".format(level, rooms))
-    init_level(dun, level, rooms)
+    room_count = floor[ROOMS]
+    init_level(dun, level, room_count)
+  return dun
 
-def init_level(dun, level, room_count):
-  connections = 
+def init_level(dungeon, level, room_count):
+  #print("init_level({}, {}, {})".format(dungeon, level, room_count))
+  # Create rooms
   rooms = []
   unassigned = []
-  for i in range(room_count):
+  for i in range(int(room_count)):
     room = Room()
     room.z = level
-    rooms.add(room)
-    unassigned.add[i]
+    rooms.append(room)
+    unassigned.append(i)
+  if len(rooms) == 0:
+    return
 
+  # Place rooms
   current_room = rooms[0]
   last_direction = ""
   current_direction = ""
@@ -174,74 +185,140 @@ def init_level(dun, level, room_count):
     next_room.x = current_room.x
     next_room.y = current_room.y
 
-    # Connect it to current room
-    conn = Connection()
-    conn.first_id = current_room.get_id()
-    current_direction = random.choice([NORTH, EAST, WEST, SOUTH])
-    while current_direction == last_direction;
-      current_direction = random.choice([NORTH, EAST, WEST, SOUTH])
+    # Place it nearby
+    coords = get_next_empty_coord(current_room, rooms)
+    if coords is None:
+      print("Oh, gee, it finally happened! :(")
+      return
+    next_room.x = coords[0]
+    next_room.y = coords[1]
+    current_room = next_room
 
-    match current_direction:
-    case NORTH:
-         next_room.y += 1
-         conn.second_id
-    case EAST:
-         next_room.x += 1
-    case WEST:
-         next_room.x -= 1
-    case SOUTH:
-        next_room.y -= 1
-    conn.second_id = next_room.get_id()
+  for room in rooms:
+    dungeon.rooms[room.get_id()] = room
+    #print("Room at coords {}".format(room.get_id()))
+  connect_level(dungeon, rooms)
+
+  
 
 def get_next_empty_coord(current_room, rooms):
   found = False
+  iterations = 0
+  new_x = current_room.x
+  new_y = current_room.y
   while not found:
-    new_x = current_room.x
-    new_y = current_room.y
+    iterations += 1  
     # Pick from eight cardinal and diagonal directions
-    direction = random.choice([1, 2, 3, 4, 5, 6, 7, 8])
+    direction = random.choice([1, 2, 3, 4])
     match direction:
-    case 1:
-      new_x -= 1
-      new_y += 1
-      pass
-    case 2:
-      new_y += 1
-      pass
-    case 3:
-      new_x += 1
-      new_y += 1
-      pass
-    case 4:
-      new_x -= 1
-      pass
-    case 5:
-      new_x += 1
-      pass
-    case 6:
-      new_x -= 1
-      new_y -= 1
-      pass
-    case 7:
-      new_y -= 1
-      pass
-    case 8:
-      new_x += 1
-      new_y -= 1
-      pass
-    if not room_exists():
-      found = true
+      case 1:
+        new_x += 1
+      case 2:
+        new_x -= 1
+      case 3:
+        new_y += 1
+      case 4:
+        new_y -= 1
+    if not room_exists(new_x, new_y, current_room.z, rooms):
+      found = True
+    elif iterations > 100:
+      return None
+  #print("Does not exist yet [{},{},{}]".format(new_x, new_y, current_room.z))
+  #for room in rooms:
+  #  print(room.get_id())
   return (new_x, new_y)
 
 def room_exists(x, y, z, rooms):
   for room in rooms:
     if room.x == x and room.y == y and room.z == z:
       return True
-    return False
+    #print("Room [{},{},{}] does not exist yet".format(x, y, z))
+  return False
+
+def print_dungeon_level(dungeon, level):
+  rooms = get_rooms_by_level(list(dungeon.rooms.values()), level)
+  out = "Dungeon level {}\n".format(level)
+  for y in range(-15, 15, 1):
+    for x in range(-15, 15, 1):
+      if get_room_by_coords(x, y, level, rooms) is not None:
+        out += "R"
+      else:
+        out += " "
+    out += "\n"
+  print(out)
+
+def get_room_by_coords(x, y, z, rooms):
+  for room in rooms:
+    if room.x == x and room.y == y and room.z == z:
+      return room
+  #print("no room at [{}, {}, {}]".format(x, y, z))
+  return None
+
+def get_room_by_id(id, rooms):
+  for room in rooms:
+    if room.get_id() == id:
+      return room
+  return None
+
+def get_rooms_by_level(rooms, level):
+  #print("Rooms: {}".format(len(rooms)))
+  level_rooms = []
+  for room in rooms:
+    #print("Comparing {} to {}".format(level, room.z))
+    if room.z == level:
+      level_rooms.append(room)
+  return level_rooms
+
+def connect_level(dungeon, rooms):
+  conn_strings = {}
+  for room in rooms:
+    for neighbor in get_neighbors(room, rooms):
+      connection = "{}->{}".format(room.get_id(), neighbor.get_id())
+      reverse_connection = "{}->{}".format(neighbor.get_id(), room.get_id())
+      if connection not in conn_strings and reverse_connection not in conn_strings:
+        conn_strings[connection] = True
+  for conn_string in conn_strings:
+    conn = Connection()
+    parts = conn_string.split('->')
+    conn.first_id = parts[0]
+    conn.second_id = parts[1]
+    conn.first_type = PASSAGE
+    conn.second_type = PASSAGE
+    conn.first_dir = NORTH
+    conn.second_dir = SOUTH
+    dungeon.connections.append(conn)
+
+# Check for neighbors on the same level
+def get_neighbors(room, rooms):
+  neighbors = []
+  for candidate in rooms:
+    x_dist = abs(candidate.x - room.x)
+    y_dist = abs(candidate.y - room.y)
+    if room is not candidate and x_dist < 2 and y_dist < 2:
+      neighbors.append(candidate)
+  return neighbors
 # main
 def main():
   read_config()
   build_config_objects()
   dungeon = build_dungeon()
+  for i in [1, 2]:
+    print_dungeon_level(dungeon, i)
+  for conn in dungeon.connections:
+    print(conn.get_id())
+
+
+def main2():
+  rooms = []
+  room1 = Room()
+  room1.x = 1
+  room1.y = 1
+  room1.z = 1
+  rooms.append(room1)
+
+  if not room_exists(1, 1, 1, rooms):
+    print("Room doesn't exist")
+  else:
+    print("Room does exist")
 
 main()
