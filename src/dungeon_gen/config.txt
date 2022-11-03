@@ -1,0 +1,72 @@
+#------------------------------------#
+#  General settings                  #
+#------------------------------------#
+dungeon_name=Cool dungeon of coolness
+total_gp=300
+total_enemy_xp=1000
+secret_rooms=2
+
+#------------------------------------#
+#  Floors                            #
+#------------------------------------#
+floor_1_rooms=6
+floor_2_rooms=12
+floor_3_rooms=0
+floor_4_rooms=0
+floor_5_rooms=0
+
+#------------------------------------#
+#  Enemies                           #
+#------------------------------------#
+enemy_1_name=mork
+enemy_1_xp=50
+
+enemy_2_name=mork
+enemy_2_xp=50
+
+enemy_3_name=mork
+enemy_3_xp=50
+
+enemy_4_name=mork
+enemy_4_xp=50
+
+enemy_5_name=mork
+enemy_5_xp=50
+
+
+#------------------------------------#
+#  Loot                              #
+#------------------------------------#
+loot_1_name=challice
+loot_1_gp=10
+
+loot_2_name=challice
+loot_2_gp=10
+
+loot_3_name=challice
+loot_3_gp=10
+
+loot_4_name=challice
+loot_4_gp=10
+
+loot_5_name=challice
+loot_5_gp=10
+
+#------------------------------------#
+#      scenery:                      #
+# Bulletpoints to add to room        #
+#------------------------------------#
+scenery_1_name=Bedroom
+scenery_2_name=Bathroom
+scenery_3_name=Root Cellar
+scenery_4_name=Kitchen
+scenery_5_name=Dormatory
+
+#------------------------------------#
+#      traps                         #
+#------------------------------------#
+trap_1_name=Spike pit trap
+trap_2_name=Arrow trap
+trap_3_name=Guillotine trap
+trap_4_name=Portcullis trap
+trap_5_name=Killhole ambush point
