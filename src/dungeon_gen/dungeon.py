@@ -128,6 +128,7 @@ class Room:
       self.scenery = []
       self.enemies = []
       self.connections = []
+      self.entrance = False
 
     def get_id(self):
       return "[{},{},{}]".format(self.x, self.y, self.z)
@@ -198,8 +199,8 @@ def init_level(dungeon, level, room_count):
     dungeon.rooms[room.get_id()] = room
     #print("Room at coords {}".format(room.get_id()))
   connect_level(dungeon, rooms)
-
-  
+  assign_level_entrances(dungeon, level)
+  prune_level_connections(dungeon, level)
 
 def get_next_empty_coord(current_room, rooms):
   found = False
@@ -236,7 +237,7 @@ def room_exists(x, y, z, rooms):
   return False
 
 def print_dungeon_level(dungeon, level):
-  rooms = get_rooms_by_level(list(dungeon.rooms.values()), level)
+  rooms = get_rooms_by_level(dungeon, level)
   out = "Dungeon level {}\n".format(level)
   for y in range(-15, 15, 1):
     for x in range(-15, 15, 1):
@@ -260,7 +261,8 @@ def get_room_by_id(id, rooms):
       return room
   return None
 
-def get_rooms_by_level(rooms, level):
+def get_rooms_by_level(dungeon, level):
+  rooms = list(dungeon.rooms.values())
   #print("Rooms: {}".format(len(rooms)))
   level_rooms = []
   for room in rooms:
@@ -297,6 +299,47 @@ def get_neighbors(room, rooms):
     if room is not candidate and x_dist < 2 and y_dist < 2:
       neighbors.append(candidate)
   return neighbors
+
+# Assign some random entrances
+def assign_level_entrances(dungeon, level):
+  room_list = get_rooms_by_level(dungeon, level)
+  number_of_entrances = level + 1
+  for i in range(number_of_entrances):
+    room = random.choice(room_list)
+    room.entrance = True
+
+def prune_level_connections(dungeon, level):
+  room_list = get_rooms_by_level(dungeon, level)
+  #room_dict = {}
+  for room in room_list:
+    #room_dict[room.get_id] = room
+    connections = get_connections_by_room(room, dungeon)
+    for connection in connections:
+      if can_reach_entrance_without(dungeon, room, connection) and random.choice([1, 2, 3, 4]) != 1:
+        dungeon.connections.remove(connection)
+
+def get_connections_by_room(room, dungeon):
+  connections = []
+  room_id = room.get_id()
+  for connection in dungeon.connections:
+    if room_id == connection.first_id or room_id == connection.second_id:
+      connections.append(connection)
+  return connections
+  
+# Moves around randomly to reach an entrance room
+def can_reach_entrance_without(dungeon, room, forbidden_connection):
+  rooms = get_rooms_by_level(dungeon, room.z)
+  current_room = room
+  for i in range(1000):
+    if current_room.entrance:
+      return True
+    connection = random.choice(get_connections_by_room(room, dungeon))
+    if connection.first_id != current_room.get_id():
+      current_room = get_room_by_id(connection.first_id, rooms)
+    elif connection.second_id != current_room.get_id():
+      current_room = get_room_by_id(connection.second_id, rooms)
+  return False
+
 # main
 def main():
   read_config()
@@ -306,19 +349,5 @@ def main():
     print_dungeon_level(dungeon, i)
   for conn in dungeon.connections:
     print(conn.get_id())
-
-
-def main2():
-  rooms = []
-  room1 = Room()
-  room1.x = 1
-  room1.y = 1
-  room1.z = 1
-  rooms.append(room1)
-
-  if not room_exists(1, 1, 1, rooms):
-    print("Room doesn't exist")
-  else:
-    print("Room does exist")
 
 main()
