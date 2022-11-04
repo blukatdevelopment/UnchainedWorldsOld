@@ -101,6 +101,7 @@ When you attempt to perform a task that involves natural ability or skill, your 
 
 #### Strength
 Lift, climb, carry, grapple, throw, punch, and perform tasks that require brute force.
+The total ammount one can carry is 6 times their strength score, minimum 18lb, maximum 120lb.
 
 #### Dexterity
 Sprint, jump, duck, dodge, sneak, and perform acrobatic maneuvers.
