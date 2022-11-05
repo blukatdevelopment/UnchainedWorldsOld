@@ -12,11 +12,7 @@
 ```
 
 ## Prattler
-A soul caught by an infernal "prattle clause" in a devil's contract. Though they
-need neither sleep, drink, nor food, the second they stop talking for 6 seconds,
-their soul will be consumed. A common part of the "prattcle clause" allows a 
-prattler to swap places with the soul of another creature it kills.
-Medium Undead
+A soul caught by an infernal "prattle clause" in a devil's contract. Though they need neither sleep, drink, nor food, the second they stop talking for 6 seconds, their soul will be consumed. A common part of the "prattcle clause" allows a prattler to swap places with the soul of another creature it kills.
 
 `Prattler, XP: 50, HP: 15(3d12), AC: 12, [10, 10, 10, 10, 10, 10], Life Drain: +4 1d6+2 necrotic`
 - Vulnerabilities: radiant, Immunities: non-magical physical damage, necrotic

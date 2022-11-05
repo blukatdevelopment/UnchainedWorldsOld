@@ -1,13 +1,13 @@
 # Rescue at Twelve Angle
 
-## Plot hook
-- Contract from silent for a 200GP rescue mission.
+## Premise
+An adventure and small setting for a party of 3-4 level 1 adventurers.
 
-- Silent pay for you to rescue one of theirs from bandits that raid mountain pass
-- Titan Museum
+## Plot hook
+- Contract from Karata silent for a 300GP rescue mission.
 
 ## Twelve Angle
-A settlement of silent built arround the intersection of three lay lines.
+A settlement of silent built arround the intersection of three lay lines. Silent have removed their tongues, communicate via handspeak and writing on cards.
 
 ### Twelve stone
 - Protected by Karata(human, he/him)
@@ -74,7 +74,6 @@ Can be recharged with a stamina die.
 - Escorting Garrek across the Devil's pass will yield 10GP per person
 - Failure to do this results in bandits armed with blasters
 
-
 ## Level 1
 ```
 #######################################
@@ -96,13 +95,10 @@ Can be recharged with a stamina die.
 ### 1
 - Shelves of jarred foods (Poisoned, DC 17 CON, 2d6+4 poison, poisoned)
 - Stairs down to level 2, room 2
--
-
 
 ### 2
 - Cages with three old gold robe men inside (Karva, Purto, Sibi)
 - Assorted horses
-
 
 ### 3
 - Bandit Camp
@@ -120,8 +116,6 @@ Can be recharged with a stamina die.
 ### 4
 - Snare trap with bells
 - Bowl of 236 copper pieces in center of room
--
-
 
 ### 5
 - Slide leading down to level 2, room 5
@@ -132,7 +126,6 @@ Can be recharged with a stamina die.
 ### 6
 - "Turn back" written in chalk
 - Three human skulls on ground
--
 
 ## Level 2
 
@@ -157,8 +150,6 @@ Can be recharged with a stamina die.
 
 ### 1
 - East-facing statue guards East entrance with firebolts +5, 1d10 fire. on/off switch on back. HP 30, DC 18. Fires each time it takes damage.
--
--
 
 ### 2
 - Stairs up to level 1, room 1.
@@ -167,18 +158,13 @@ Can be recharged with a stamina die.
 
 ### 3
 - Small library of books. DC 15 investigation finds history fact. "Saun Fodimo fell to the empire of man three years before the age of man began, -3 AOM."
--
--
 
 ### 4
 - Room of soldier statues, will animate upon entry
--
--
 
 ### 5
 - Slide leading up to level 1, room 5
 - Floor is 60ft deep water filled with electric eels, leading to ocean.
--
 
 ### 6
 - Large stone plaque with engraving.
@@ -203,12 +189,8 @@ in the glory of the empire!
 
 ### 8
 - Key Guardian, statue wielding giant key(To locked west door) as weapon. Will give key if party answers "When did the last Titan city fall?"
--
--
 
 ### 9
 - Old silent, survived off rats
--
--
 
 ## Stat blocks

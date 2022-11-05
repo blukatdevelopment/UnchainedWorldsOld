@@ -176,22 +176,9 @@ Claws +5 1d6+2 slashing
 Tentacles +5 1 piercing, instant grapple
 Tail +5 1d4 piercing, instant grapple
 
-Mature Blink Lion
-A lion with tenetacles on it's back and tail. It has a third eye with a golden
-iris.
-Large Monstrosity
-XP: 450
-HP: 41 (5d12+6)
-AC: 12
-Speed: 40ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 16| 14| 14|  4| 10|  4|
-Multi-attack: May make two claw attacks against a grappled target.
-Blink: As a bonus action or reaction when targeted by ranged attacks, may
-teleport to another point within 30ft.
-Claws +5 1d6+2 slashing
-Tentacles +5 1 piercing, instant grapple
-Tail +5 1d4 piercing, instant grapple
+`Mature Blink Lion, Size: large, XP: 450, HP: 66(5d12+6), AC: 12, Speed: 40ft, [16, 14, 14, 4, 10, 4], Claws +5 1d6+3 slashing, Tentacles +5 1 piercing, instant grapple, Tail +5 1d4 piercing, instant grapple`
+- Multi-attack: May make two claw attacks against a grappled target.
+- Blink: As a bonus action or reaction when targeted by ranged attacks, may teleport to another point within 30ft.
 
 Ferhorn
 A small-size horse with many traits of a housefly.

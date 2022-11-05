@@ -1,4 +1,7 @@
 # Excorcism of Coalsborrough
+## Premise
+An adventure and small setting for a party of 3-4 level 1 adventurers.
+
 ## Plot hook
 - Coent Doara sent letter offering 200GP to assist with a case of demon possession
 

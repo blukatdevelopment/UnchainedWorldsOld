@@ -132,10 +132,7 @@ eyes nor mouth on its head, but perceives spirits to a limited range.
 
 `Leech dog zombie, XP: 50, HP: 12(3d4), AC: 12, [12, 12, 12, 3, 14, 3], Bite +3 1d4+2 piercing`
 
-This spherical demon opens into two hemispheres joined by a central stalk. Teeth
-brim at the edges where these pieces meet, forming a 360 degree mouth. Grinders
-gnash their teeth constantly, compelled to chew through stone despite the pain 
-it causes them. They have eyes on all sides, and three legs.
+This spherical demon opens into two hemispheres joined by a central stalk. Teeth brim at the edges where these pieces meet, forming a 360 degree mouth. Grinders gnash their teeth constantly, compelled to chew through stone despite the pain it causes them. They have eyes on all sides, and three legs.
 
 `Grinder, XP: 100, HP: 38(4d8+6), AC: 14, [16, 10, 14, 10, 10, 10], Slam +4 1d6+3 bludgeoning, Bite +4 1d8+3 piercing`
 - Curl: The grinder can use its bonus action to enter or exit its curled form. When curled, the grinder can move up to 60 feet in a straight line and make a slam attack using its action. While rolled, AC increases by +3.
@@ -156,7 +153,7 @@ a forked tongue and powerful limbs.
 
 A dark green flame that emanates a cold aura. By exhausting themselves against an enemy, they can know final rest.
 
-`Soul Flame, 0XP, HP: 1, AC: 8, Speed: 15ft, [10, 10, 10, 10, 10, 10]`
+`Soul Flame, XP:0, HP: 1, AC: 8, Speed: 15ft, [10, 10, 10, 10, 10, 10]`
 - Burn out: The soul flame leaps onto a target and erupts, dealing 1d8 necrotic damage
 
 `Possessed Laria, XP: 100, HP: 12(3d4), AC: 12, spider climb 30ft, [18, 14, 10, 10, 8, 10], Unarmed: +5 5 bludgeoning`

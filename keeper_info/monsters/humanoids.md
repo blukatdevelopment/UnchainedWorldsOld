@@ -2,174 +2,65 @@
 
 ## Town folk
 
-### Commoner
-```
-Commoner
-HP: 3(1d4)
-AC: 10
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 10| 10| 10| 10| 10| 10|
-Attacks:
-Unarmed +1 1 bludgeoning
-```
+`Commoner, XP: 0, HP: 3(1d4), AC: 10, [10, 10, 10, 10, 10, 10],Unarmed +1 1 bludgeoning`
 
-### Hunter
+`Bow Hunter, XP: 25, HP: 12(3d4+3), AC: 13(leather), [14, 14, 12, 12, 12, 12], Short Bow +3 1d6+2, Dagger +3 1d4+2`
 
-```
-Hunter
-Medium humanoid
-XP: 25
-HP: 12 (3d4+3)
-AC: 13(
-|STR|DEX|CON|INT|WIS|CHA|
-| 14| 14| 12| 12| 12| 12|
-Speed: 30ft
-Attacks:
-Spear +3 1d8+2 piercing
-Short Bow +3 1d6+2
-```
+`Spear Hunter, XP: 25, HP: 12(3d4+3). AC: 14(leather), [14, 14, 12, 12, 12, 12], Spear +3 1d8+1 piercing, Bola(15ft) +2 target must succeed DC 16 STR or fall prone`
+- Spear assassin: Attacks throwing spears have advantage on prone targets.
 
-### Noble
+`Noble, XP: 25, HP: 12(3d4), AC: 15(breastplate), [12, 14, 10, 10, 14, 16], Rapier +4, 1d8+2 piercing`
 
-```
-Noble
-HP: 9(3d4)
-AC: 15(beast plate)
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 12| 14| 10| 10| 14| 16|
-Attacks:
-Rapier +4, 1d8+2 piercing
-```
-
-### Guard
-
-```
-Guard
-Medium Humanoid
-XP: 25
-HP: 5(1d6+1)
-AC: 11(padded)
-|STR|DEX|CON|INT|WIS|CHA|
-| 14| 10| 12| 10| 13| 12|
-Speed: 30ft
-Attacks:
-Club +3 1d4+2
-```
+`Crown Guard, XP: 25, HP: 15(3d4+3), AC: 11(padded), [14, 10, 12, 10, 13, 12], Club +3 1d4+2`
 
 ## Rogues
 
 ### Bandits
 `Petty Bandit, XP: 10, HP: 10(2d4+3), AC: 11, [12, 12, 12, 10, 12, 12], Dagger +2 1d4+1 piercing, Sling +2 1d4+1 bludgeoning`
 `Bandit Militia, XP: 25, HP: 15(3d4+3), AC: 16(Scale Mail), [12, 12, 12, 10, 12, 12], Dagger +2 1d4+1 piercing, Light Crossbow +2 1d8+1 piercing`
+
 `Bandit, XP: 25, HP: 15(3d4+3), AC: 12(leather), [14, 12, 12, 10, 12, 12], Shortsword +4 1d6+2 piercing, Shortbow +4 1d6+1 piercing`
 
 `Bandit Captain, XP: 100, HP: 36(3d10+6), AC: 13(hide), [16, 12, 12, 10, 12, 16], Shortsword +5 1d6+3 piercing`
 - Multiattack: Captain can make two shortsword attacks
 
 `Raider, XP: 25, HP: 21(3d6+3), AC: 12(leather), [14, 12, 12, 10, 12, 12], Longsword +4 1d8+2 piercing, Heavy Crossbow +4 1d10+2 piercing`
-`Goblin Cannibals, XP: 10, HP: 12(3d4+3), AC: 11, [8, 12, 12, 10, 10, 10], Bone Dagger +2 1d4+1 piercing, Net +4`
-`Goblin Hunter, XP: 25, HP: 12(3d4+3). AC: 14(leather), [14, 14, 12, 12, 12, 12], Bone Spear +3 1d8+1 piercing, Bola(15ft) +2 target must succeed DC 16 STR or fall prone`
-- Spear assassin: Attacks throwing spears have advantage on prone targets.
-
-`Goblin Skirmisher, XP: 25, HP: 12 (3d4+3), AC: 15(leather and shield), [14, 14, 12, 12, 12, 12], Bone shortsword +4 1d6+2, Catgut Shortbow +3 1d6+1`
-- Goblin shuffle: May disengage with bonus action
 
 `Swashbuckler, XP: 25, HP: 21(3d6+3), AC: 12(leather), [14, 12, 12, 10, 12, 12], Scimitar +4 1d6+2 piercing, Pistol(30/60) +3 1d10+1 piercing`
 
-### Mercenary
+### Soldiers
 
-```
-Mercenary
-HP: 21(3d8+6)
-AC: 16(chainmail)
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 14| 12| 17| 12| 12| 12|
-Defensive Grapple: As a reaction whe targeted by a melee attack, mercenary may
-make a grapple check. On a success, the attack is wasted and the attacker is
-grappled.
-Pounce: when the Fang moves 20ft in a straight line before attacking with bite,
-they may attempt to either grapple or shove as part of the attack.
-Multiattack: May make two pike attacks
-Attacks:
-Bite +5, 1d6 piercing
-Pike +5 1d10+2 piercing
-Dagger +4 1d4+1 piercing
-```
+`Mercenary, XP:150, HP: 30(3d8+6), AC: 16(chainmail),[14, 12, 17, 12, 12, 12], Pike +5 1d10+2 piercing, Dagger +4 1d4+1 piercing`
+- Defensive Grapple: As a reaction when targeted by a melee attack, mercenary may make a grapple check. On a success, the attack is wasted and the attacker is grappled.
+- Multiattack: May make two pike attacks
 
-## Military
+`Foot Soldier, XP: 50, HP: 15(3d6+3), AC: 13(hide), [14, 10, 12, 10, 13, 12], Pike(10ft) +4, 1d10+2`
 
-### Foot Soldier
+`Skirmisher, XP: 25, HP: 12 (3d4+3), AC: 15(leather and shield), [14, 14, 12, 12, 12, 12], shortsword +4 1d6+2, Shortbow +3 1d6+1`
+- Shuffle: May disengage with bonus action
 
-```
-Foot Soldier
-Medium Humanoid
-XP: 50
-HP: 15(3d6+3)
-AC: 13(hide)
-|STR|DEX|CON|INT|WIS|CHA|
-| 14| 10| 12| 10| 13| 12|
-Speed: 30ft
-Attacks:
-Pike(10ft) +4, 1d10+2
-```
+`Sharpshooter, XP: 50, HP: 15(3d6+3), AC: 13(leather), [10, 15, 12, 10, 13, 12], Dagger +4, 1d4+2, Light Crossbow +4, 1d8+2`
+- Steady aim: If standing still for entire turn, bonus action to add advantage to ranged attacks.
 
-### Skirmisher
-
-```
-Skirmisher
-Medium humanoid
-XP: 25
-HP: 12 (3d4+3)
-AC: 15(leather and shield)
-|STR|DEX|CON|INT|WIS|CHA|
-| 14| 14| 12| 12| 12| 12|
-Shuffle: May disengage with bonus action
-Speed: 30ft
-Attacks:
-Shortsword +4 1d6+2
-Shortbow +3 1d6+1
-```
-
-### Sharpshooter
-
-```
-Sharpshooter
-Medium Humanoid
-XP: 50
-HP: 15(3d6+3)
-AC: 13(leather)
-|STR|DEX|CON|INT|WIS|CHA|
-| 10| 15| 12| 10| 13| 12|
-Speed: 30ft
-Steady aim: If stand still, bonus action to add
-advantage to ranged attacks.
-Attacks: 
-Dagger +4, 1d4+2
-Light Crossbow +4, 1d8+2
-```
-
-### Heavy Infantry
-
-```
-Heavy Infantry
-Medium Humanoid
-XP: 450
-HP: 24(3d8+9)
-AC: 21(platemail)
-|STR|DEX|CON|INT|WIS|CHA|
-| 16| 10| 16| 10| 13| 16|
-Speed: 30ft
-Multi-attack: Can make two longsword attacks
-Attacks:
-Longsword +5 1d8+3 slashing
-Heavy Crossbow +2 1d10 piercing
-```
+`Heavy Infantry, XP: 450, HP: 33(3d8+9), AC: 21(platemail), [16, 10, 16, 10, 13, 16], Longsword +5 1d8+3 slashing, Heavy Crossbow +2 1d10 piercing`
+- Multi-attack: Can make two longsword attacks
 
 ## Cultist
 
+`Cultist Initiate, XP: 25, HP: 9(3d4), AC: 12(leather), [10, 12, 11, 12, 8, 14], Dagger: +2 1d4+1 piercing, Skin Boil(5ft): DC 12 Con save or 1d10 necrotic`
+`Prisoner, XP: 0, HP: 9(3d4), AC: 10, [10, 10, 10, 10, 10, 10], Unarmed +1 1 bludgeoning`
+
+`Cult leader, XP: 200, HP: 9(3d4), AC: 15(Magic), [12, 15, 10, 10, 10, 16], Shadow Sword: +5 2d8+2 Piercing`
+- Dark feast(60ft): willing creature takes 30(6d8) necrotic, cult leader gains as much temp HP\
+Spells(1 each/day):\
+- Earth Tremor\
+- Mage Armor\
+- Darkness\
+Legendary action(when ally dies):  Dark Feast fallen ally\
+
+`Cultist spy, XP: 50, HP: 12(3d4), AC: 14(studded leather), [12, 16, 14, 13, 14, 16], Hidden Dagger: +5 1d4+2 piercing`
+- False Life(Bonus action, 1 use): Gain 10(2d8) temp HP
+- Force Choke(15ft): +5 1d8 bludgeoning DC 14 STR save or grappled
 
 ### Random gen tables
 You can pick or roll on these tables to build up a specific cult.
