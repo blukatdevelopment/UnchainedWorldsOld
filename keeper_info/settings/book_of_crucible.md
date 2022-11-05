@@ -83,13 +83,13 @@ Law establishes an order in the form of hierarchies via social institutions such
 Many lesser divines combined, forming more powerful divines containing multiple aspects. The celestial pantheon was formed by a few of these divines forming a loose alliance and creating a realm together from which they shape the world. They are perpetually in a state of cold war, their conflict limited entirely to the material plane where they compete using the prayers of their believers.
 
 ### Bimros
-God of arrows, hunting, and dominion over nature. He created humans to rule the fields, titans for the mountains, and elves for the forests.
+God of arrows, hunting, and dominion over nature. He created humans to rule the mountains, fields, and forests.
 
 ### Gegtix
 Goddess of grass, trees, flowers, thorns, fruit, and rebirth. Creating the fae to protect her aspects as they are reflected in the Crucible's wildlife. Gegtix offers an oath to pursue this goal as well, granting druidic magic to those whoi take it.
 
 ### Kord
-Goddess of sleep, ice, stone, and circles. Her avatar is a teal-skinned elf with white irises, and is known for leaving icy footsteps when she walks on land and water alike. Those who speak an oath to Kord gain magic that grows stronger in winter months.
+Goddess of sleep, ice, stone, and circles. Her avatar is a teal-skinned pointy-eared humanoid with white irises, and is known for leaving icy footsteps when she walks on land and water alike. Those who speak an oath to Kord gain magic that grows stronger in winter months.
 
 ### Yxheia
 Goddess of knowledge, research, scrolls, and wisdom. Yxheia's oath is to preserve, spread, and pursue knowledge. Yxheia's temples always contain libraries that are open to the public, but are incredibly strict about the handling of books and scrolls, requiring flameless light sources such as sky lights and magic torches to be in use. Her scribes are often rewarded for their good deeds by gaining access to carefully guarded knowledge that is deemed to dangerous for the general public.
