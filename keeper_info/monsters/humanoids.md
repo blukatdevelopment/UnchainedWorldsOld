@@ -60,47 +60,23 @@ Club +3 1d4+2
 
 ## Rogues
 
-### Cutpurse
+### Bandits
+`Petty Bandit, XP: 10, HP: 10(2d4+3), AC: 11, [12, 12, 12, 10, 12, 12], Dagger +2 1d4+1 piercing, Sling +2 1d4+1 bludgeoning`
+`Bandit Militia, XP: 25, HP: 15(3d4+3), AC: 16(Scale Mail), [12, 12, 12, 10, 12, 12], Dagger +2 1d4+1 piercing, Light Crossbow +2 1d8+1 piercing`
+`Bandit, XP: 25, HP: 15(3d4+3), AC: 12(leather), [14, 12, 12, 10, 12, 12], Shortsword +4 1d6+2 piercing, Shortbow +4 1d6+1 piercing`
 
-```
-Cutpurse
-HP: 4(1d4+1)
-AC: 11
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 12| 12| 12| 10| 12| 12|
-Attacks:
-Dagger +2 1d4+1 piercing
-Sling +2 1d4+1 bludgeoning
-```
+`Bandit Captain, XP: 100, HP: 36(3d10+6), AC: 13(hide), [16, 12, 12, 10, 12, 16], Shortsword +5 1d6+3 piercing`
+- Multiattack: Captain can make two shortsword attacks
 
-### Bandit
+`Raider, XP: 25, HP: 21(3d6+3), AC: 12(leather), [14, 12, 12, 10, 12, 12], Longsword +4 1d8+2 piercing, Heavy Crossbow +4 1d10+2 piercing`
+`Goblin Cannibals, XP: 10, HP: 12(3d4+3), AC: 11, [8, 12, 12, 10, 10, 10], Bone Dagger +2 1d4+1 piercing, Net +4`
+`Goblin Hunter, XP: 25, HP: 12(3d4+3). AC: 14(leather), [14, 14, 12, 12, 12, 12], Bone Spear +3 1d8+1 piercing, Bola(15ft) +2 target must succeed DC 16 STR or fall prone`
+- Spear assassin: Attacks throwing spears have advantage on prone targets.
 
-```
-Bandit
-HP: 8(2d4+2)
-AC: 12(leather)
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 14| 12| 12| 10| 12| 12|
-Attacks:
-Shortsword +4 1d6+2 piercing
-Shortbow +4 1d6+1 piercing
-```
+`Goblin Skirmisher, XP: 25, HP: 12 (3d4+3), AC: 15(leather and shield), [14, 14, 12, 12, 12, 12], Bone shortsword +4 1d6+2, Catgut Shortbow +3 1d6+1`
+- Goblin shuffle: May disengage with bonus action
 
-### Bandit Captain
-
-```
-Bandit Captain
-HP: 21(3d8+6)
-AC: 13(hide)
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 16| 12| 12| 10| 12| 16|
-Multiattack: Captain can make two shortsword attacks
-Attacks:
-Shortsword +5 1d6+3 piercing
-```
+`Swashbuckler, XP: 25, HP: 21(3d6+3), AC: 12(leather), [14, 12, 12, 10, 12, 12], Scimitar +4 1d6+2 piercing, Pistol(30/60) +3 1d10+1 piercing`
 
 ### Mercenary
 

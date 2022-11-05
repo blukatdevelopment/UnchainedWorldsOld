@@ -29,7 +29,7 @@ Medium Undead
 or radiant, they can make a con save to stay up with 1 hit point. The DC is half
 the damage plus 10.
 
-`Zombie, XP: 25, HP: 18(2d4+6), speed: 20ft, AC: 8, [14, 8, 14, 4, 4, 4], Bite +2 1d4+1 piercing`
+`Zombie Runner, XP: 25, HP: 18(2d4+6), speed: 20ft, AC: 8, [14, 8, 14, 4, 4, 4], Bite +2 1d4+1 piercing`
 - Resistant: Non-magical physical, Weak: Radiant, Immune: Necrotic
 - Corpse Run(1 use): As a reaction to bloodshed or a loud noise, the zombie moves up to 30ft toward the source.
 - Multi-attack: Zombie may make two bite attacks
