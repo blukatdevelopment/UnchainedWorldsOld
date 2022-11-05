@@ -109,7 +109,7 @@ Quest 3: Unrequainted love (100XP)
 
 ### 6
 - Trapdoor under sofa leading to Level 2, room 7
-- Sofa, arm chair, fireplace, tobacco, pipe, shelves of rotten books
+- Sofa, arm chair, fireplace, old tobacco, pipe, shelves of rotten books
 
 ### Level 2
 
@@ -168,15 +168,14 @@ Quest 3: Unrequainted love (100XP)
 ### 6
 - Mercenary living quarters (6 bunks)
 - Wine shelves (25) wine bottles worth 5gp each
+- 2 mercenaries
 
 ### 7
 - Staircase up to trapdoor leading to Level 1, room 6
 
 ### 8
-- round table with cards and mercenaries
+- round table with cards and 3 mercenaries
 - (100)1GP poker chips
 
 ### 9 
 - Port cullis on East door. Pressure plate on each side. When both have pressed, cullis drops, bells ring and ambush on unexplored side.
-
-## Stat blocks

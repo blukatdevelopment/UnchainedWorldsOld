@@ -29,6 +29,7 @@
 `Swashbuckler, XP: 25, HP: 21(3d6+3), AC: 12(leather), [14, 12, 12, 10, 12, 12], Scimitar +4 1d6+2 piercing, Pistol(30/60) +3 1d10+1 piercing`
 
 ### Soldiers
+`Petty mercenary, XP: 50, HP: 15(2d6+3), AC: 12(hide), [13, 11, 13, 11, 10, 8], `
 
 `Mercenary, XP:150, HP: 30(3d8+6), AC: 16(chainmail),[14, 12, 17, 12, 12, 12], Pike +5 1d10+2 piercing, Dagger +4 1d4+1 piercing`
 - Defensive Grapple: As a reaction when targeted by a melee attack, mercenary may make a grapple check. On a success, the attack is wasted and the attacker is grappled.
