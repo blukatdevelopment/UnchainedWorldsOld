@@ -1,0 +1,68 @@
+init_level(<__main__.Dungeon object at 0x7f18a7bf5e70>, 1, 6)
+init_level(<__main__.Dungeon object at 0x7f18a7bf5e70>, 2, 12)
+init_level(<__main__.Dungeon object at 0x7f18a7bf5e70>, 3, 0)
+init_level(<__main__.Dungeon object at 0x7f18a7bf5e70>, 4, 0)
+Dungeon level 1
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+              R               
+             RRR              
+               R              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+
+Dungeon level 2
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+              RR              
+             RRR              
+             R R              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+

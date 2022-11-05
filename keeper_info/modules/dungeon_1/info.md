@@ -25,6 +25,7 @@ The temple has services:
 - Oldarr was possessed by a demon from a cursed sword
 - If the sword is destroyed or taken to be purified, the demon will be exorcised
 - If Oldarr is brought alive, he can be exorcised
+- Reward is 300GP
 
 ### The Den
 - 200ft circular chamber

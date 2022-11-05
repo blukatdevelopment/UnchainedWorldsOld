@@ -18,7 +18,7 @@ A settlement of silent built arround the intersection of three lay lines.
 #### Quest 1: Rescue the silent (100XP)
 - The silent's name is Tortara
 - He was captured by bandits while crossing the Devil's pass
-- Reward is 200GP, only if silent is returned alive
+- Reward is 300GP, only if silent is returned alive
 
 ### Training grounds
 - Sword dancer tent, Karama(human, she/her)

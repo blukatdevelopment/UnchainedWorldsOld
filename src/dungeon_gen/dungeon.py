@@ -345,9 +345,6 @@ def main():
   read_config()
   build_config_objects()
   dungeon = build_dungeon()
-  for i in [1, 2]:
-    print_dungeon_level(dungeon, i)
-  for conn in dungeon.connections:
-    print(conn.get_id())
+
 
 main()
