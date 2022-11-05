@@ -1,7 +1,6 @@
-# Dungeon 1
+# Excorcism of Coalsborrough
 ## Plot hook
 - Coent Doara sent letter offering 200GP to assist with a case of demon possession
-
 
 ## City of Coalsborrough
 The town is an abandoned coal mine occupied by deep folk.
@@ -86,38 +85,28 @@ Quest 3: Unrequainted love (100XP)
 
 ### 1
 - Spike pit in front of tapestry with tiny font
--
--
-
 
 ### 2
 - Tripwire on South doorway, rings chimes
--
--
-
+- Taspestry on floor with tiny font
 
 ### 3
 -  Empty book shelves
 -  2 bedrolls
 -  camp fire with ashes
 
-
 ### 4
 - Walls close in from pressure plates near hole
 - Hole leading down to Level 2, room 4
--
-
 
 ### 5
 - Kitchen with chicken soup
 - vegetables
 - Ice box with fresh beef
 
-
 ### 6
 - Trapdoor under sofa leading to Level 2, room 7
 - Sofa, arm chair, fireplace, tobacco, pipe, shelves of rotten books
--
 
 ### Level 2
 
@@ -156,8 +145,6 @@ Quest 3: Unrequainted love (100XP)
 
 ### 1
 - Glue on floor. Boots stuck to ground.
--
--
 
 ### 2
 - Cage of 20 chickens
@@ -166,19 +153,14 @@ Quest 3: Unrequainted love (100XP)
 - Piles of fire wood
 
 ### 3
-- Mercenary captain tent (mirror, bed, bath tub, perfumes, tobacco)
--
--
+- Mercenary captain tent (mirror, bed, bath tub, perfumes, tobacco, book full of demonic runes, runes drawn on floor)
 
 ### 4
 - Hole in ceiling (20ft up) leads to Level 1, room 4
 - Walls begin closing in as soon as party lands on large pressure plate below hole.
--
 
 ### 5
 - Target range, 3 targets, 3 light crossbows, 5 quivers 12 bolt quivers 
--
--
 
 ### 6
 - Mercenary living quarters (6 bunks)
@@ -186,16 +168,12 @@ Quest 3: Unrequainted love (100XP)
 
 ### 7
 - Staircase up to trapdoor leading to Level 1, room 6
--
--
 
 ### 8
 - round table with cards and mercenaries
 - (100)1GP poker chips
--
 
 ### 9 
 - Port cullis on East door. Pressure plate on each side. When both have pressed, cullis drops, bells ring and ambush on unexplored side.
--
 
 ## Stat blocks

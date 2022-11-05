@@ -1,4 +1,4 @@
-# Dungeon 2
+# Rescue at Twelve Angle
 
 ## Plot hook
 - Contract from silent for a 200GP rescue mission.
