@@ -1,12 +1,79 @@
 # Dungeon 2
 
 ## Plot hook
+- Contract from silent for a 200GP rescue mission.
+
 - Silent pay for you to rescue one of theirs from bandits that raid mountain pass
 - Titan Museum
 
-## Bandit ambushes
-- Can escort a caravan through (5GP a person if escorted safely)
-- Ambush consists of 6 petty bandits, 4 bandits
+## Twelve Angle
+A settlement of silent built arround the intersection of three lay lines.
+
+### Twelve stone
+- Protected by Karata(human, he/him)
+- Three massive stone gates are aligned with lay lines
+- In center, strong static feeling
+- 10 minutes in center restores 1 stamina die
+
+#### Quest 1: Rescue the silent (100XP)
+- The silent's name is Tortara
+- He was captured by bandits while crossing the Devil's pass
+- Reward is 200GP, only if silent is returned alive
+
+### Training grounds
+- Sword dancer tent, Karama(human, she/her)
+- (for silent only)Pay 125GP, one week to become proficient with either shortsword, longsword, or greatsword
+- (for silent only)Pay 300GP, one week for Dual wielding training to treat longswords as if they have the light property
+
+#### Quest 2: Defeat Karama (100XP)
+- Defeat her in duel to unlock training for party
+- Duel consists of both competitors attacking at once. Highest attack roll hits. On tie, neither hit. First reduced to 0 hp loses.
+- Everyone can try once. If nobodywins, Karama will make second offer instead. She wants her father, Karata, to begin passing on his knowledge to her. 
+
+### Visitor's tents
+- Owned by Forgotten Seven(blue humanoid, she/her)
+- 5SP/night
+- Amenities (hot porridge, fire, bed)
+
+### Trader's stands
+
+#### Novel books
+- Owned by Lisa Marie(wayfarer, Stout folk, she/her)
+- 50GP book of survival (Succeed DC 17 investigation during rest, gain proficiency in survival)
+- 10GP Book of romantic tales
+- 10GP Crucible Lore Book (+1d4 on history checks when wielding)
+
+#### Lost tech arms dealer
+- owned by Garrek (gold robe, human, he/him)
+- Has 4 caravan guards(mercenary stat block)
+- 75GP, blaster
+```
+Blaster (Common)
+Ranged weapon (30/60), Light
+Weight:2lb
+Damage: 1d6 fire
+Uses hand crossbow or firearm proficiency. Has five charges.
+Can be recharged with a stamina die.
+```
+- 100GP Power Fist
+```
+Power fist (Uncommon)
+Unarmed attacks deal 1d4 damage when wearing this. The power fist is considered light. The power fist can be charged by consuming two stamina dice. When attacking, the fist can expend it's charge to deal an additional 2d10 bludgeoning damage on a hit.
+```
+- 150GP Lightning rifle
+```
+Lightning Rifle (Uncommon)
+Ranged weapon(120/125)
+Damage 2d12 lightning
+Uses heavy crossbow or firearm proficiency. Has one charge.
+User must use action to charge up the rifle for 6 seconds.
+Can be recharged with a stamina die.
+```
+
+#### Quest 3: Escord Garrek (100XP)
+- Escorting Garrek across the Devil's pass will yield 10GP per person
+- Failure to do this results in bandits armed with blasters
+
 
 ## Level 1
 ```

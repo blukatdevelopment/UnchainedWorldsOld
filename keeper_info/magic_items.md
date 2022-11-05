@@ -107,15 +107,15 @@ normal damage.
 Ranged weapon (30/60), Light
 Weight:2lb
 Damage: 1d6 fire
-Uses hand crossbow or firearm proficiency. Has two charges.
-Can be recharged with a stamina die during a rest.
+Uses hand crossbow or firearm proficiency. Has five charges.
+Can be recharged with a stamina die.
 
 ### Lightning Rifle (Uncommon)
 Ranged weapon(120/125)
 Damage 2d12 lightning
 Uses heavy crossbow or firearm proficiency. Has one charge.
 User must use action to charge up the rifle for 6 seconds.
-Can be recharged with a stamina die during a rest.
+Can be recharged with a stamina die.
 
 ### Power fist (Uncommon)
 Unarmed attacks deal 1d4 damage when wearing this. The power fist is considered

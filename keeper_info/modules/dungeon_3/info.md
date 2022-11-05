@@ -5,6 +5,34 @@
 - Abduction attempt on Gold Robe(Ardus) 
 - Ardus's double will be captured in his stead, adventurers track down whoever is organizing this
 
+## City of Austerity
+Gold robe city with skyscrapers left over from the empire of man.
+
+### Copper District
+
+#### Lesser Temple of Bimros
+- Owned by priestess Ziappa(human, she/her)
+- Praying to Bimros feeds one for that day
+- Free room/board (1/6 chance to be robbed in sleep)
+
+##### Quest 1: Enduring Charity (300XP)
+- Ziappa explains that Quarvu wants to shut down the temple of Bimros because the free food encourages poverty
+- Convince Xolar to call off the shutdown
+
+### Silver District
+
+#### Temple of Solus
+- Owned by Priest Quarvu(human, he/him)
+- Praying and offering 15GP gives blessing of smite: Exhaust smite to add 2d6 radiant damage to a weapon attack when it hits.
+
+### Gold District
+- Inner-walled circle of city
+- Must submit to 200GP credit check to get past gate
+
+#### Greater Temple of Bimros
+- Owned by priestess Xolar(human, she/her)
+- 
+
 ## Level 1
 
 ```

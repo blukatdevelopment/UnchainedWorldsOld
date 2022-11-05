@@ -1,8 +1,64 @@
 # Dungeon 1
-
 ## Plot hook
-- Soot Mercenary base
-- Capture captain Oldarr alive
+- Coent Doara sent letter offering 200GP to assist with a case of demon possession
+
+
+## City of Coalsborrough
+The town is an abandoned coal mine occupied by deep folk.
+
+### Coalsborrough Inn
+- Owner is Gordus (stout folk, they/them)
+- 5GP/night
+- Two rooms(bed, bath, massage, Sauna, hot food)
+
+### Temple of Coenta
+The chamber has an altar before a statue of Coenta with white hair.
+Priestess Coent Doara(snake-skin folk, she/her)
+The temple has services:
+- Pray for Coenta's blessing: Advantage on performance or persuasion check within 6 hours.
+- 5GP full healing
+- 15GP cured of disease
+- 40GP cured of curse
+
+#### Quest 1: Demon Possession (100XP)
+- captain Oldarr and his mercenaries used to be allies
+- Oldarr was possessed by a demon from a cursed sword
+- If the sword is destroyed or taken to be purified, the demon will be exorcised
+- If Oldarr is brought alive, he can be exorcised
+
+### The Den
+- 200ft circular chamber
+- dozens of tents
+
+#### Shops
+##### Bone worker (Herra, red-eyed human, she/her)
+- 20GP, bottle of Horn powder(5 charges, restores 1 stamina die)
+- 25GP, Bone Scale Mail (no disadvantage on stealth, breaks on receiving critical hit)
+- 10GP, bone greatsword (breaks on crit fail)
+
+##### Gut render (Porra, red-eyed catfolk, he/him)
+- 15GP, Monster gut long bow (breaks on crit fail)
+- 5GP, Monster gut short bow (breaks on crit fail)
+
+Quest 2: Babbling tentacle beast (100XP)
+- Porra will pay 50GP to slay the beast in the deeper caves
+- With those guts, he can make a rare gut bow to gift of to Shurshur
+
+##### Fungi tender (Kraton, three-armed human, he/him)
+- 5sp fungi ration
+- 10GP white mushroom (+2 stamina dice, -1d4 HP)
+- 2GP Blue Mushroom (1d6 Temp HP)
+- 5GP Pink Mushroom (+10ft speed 1 minute)
+
+##### Root farmer (Shurshur, sharp-eared folk, she/her)
+- 5sp Root ration
+- 25GP, Alis Varris root(restores 2d4+2 HP when chewwed)
+- 15GP, Gorro root(grants 3d6+3 temp HP for 10 minutes)
+- 10GP, Tuor root(5 charges, advantage on next skill check, disadvantage on skillchecks for 10 minutes after)
+
+Quest 3: Unrequainted love (100XP)
+- Shurshur wants Porra to stop giving her gifts and making romantic advances
+- She will pay 25GP if the adventurers make this happen
 
 ## Level 1
 
