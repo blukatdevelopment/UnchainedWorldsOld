@@ -250,46 +250,46 @@ Roll 1d10+90
 58. Plague: Choose a plague, which forms around a 1 mile radius: blood, frogs, lice, flies, boils, hail, locusts, darkness
 59. Dispelling aura: All active magical effects end within 3 paces of you for the next minute.
 60. Divine recovery: If you drop to 0HP in the next minute, you return to full HP.
-61. # Psion
-62. 
-63. 
-64. 
-65. 
-66. 
-67. 
-68. 
-69. 
-70. 
-71. 
-72. 
-73. # Bard
-74. 
-75. 
-76. 
-77. 
-78. 
-79. 
-80. 
-81. # Modified
-82. 
-83. 
-84. 
-85. 
-86. 
-87. 
-88. 
-89. 
-90. 
-91. # Epic
-92. 
-93. 
-94. 
-95. 
-96. 
-97. 
-98. 
-99. 
-100. 
+61. Catapult: You launch an object weighing no more than 10lb up to 30 feet. Every creature in it's path makes a DEX save to dodge. The first creature to fail is hit for 3d6 damage, ending the spell.
+62. Force push: Creature makes STR save to avoid being pushed 15 feet away
+63. Force crush: Creature makes CON save or takes 1d6 damage as you squeeze their heart.
+64. Death stare: Creature makes INT save or takes 1d6 damage. If damaged, makes CON save or goes blind for an hour.
+65. Levitate: You may lift an object up to 500lb 30ft each round.
+66. Shield: Cast when attacked. Your AC increases by 5 until your next turn starts.
+67. Telepathy: You may communicate with others using your mind up to 60ft range for the next hour.
+68. Fine telekinesis: You may perform very precise telekinesis in order to shape clay, pick a pocket, thread a needle, build a house of cards, or similar work. You may lift no more than 5lb this way.
+69. Mass hallucination: Every creature within 120 feet of you must succeed a WIS save or hear, see, smell, taste, and feel hallucinations of your choice for the next ten minutes.
+70. Meat Puppet: Select a corpse or creature. If it is a creature, it may make a WIS save at the start of each of it's turns to end the spell. When you cast, and as an action for up to one minute, you may move the body as if it were a puppet.
+71. Telekinetic Tornado: You create a 30ft wide tornado centered on a point you can see. All creatures inside must succed a DEX save to halve 3d6 damage.
+72. Psionic cannon: You aim your palm at a creature within 15 feet. It must succeed a DEX save to avoid 5d6 damage and being pushed 30 feet. You are pushed back 10 feet.
+73. Tongues: You speak, and any creature that can hear you understands for the next hour.
+74. Vicious mockery: You give a dire insult to a creature, who must succeed a WIS saving throw or take 1d6 damage.
+75. Serenade of skill: You play a song to one creature describing a skillful task it can perform. It has a +5 bonus to rolls made for this task for the next 10 minutes, or until you stop singing.
+76. Counterspell: Cast by you when another creature casts a spell. Make a contested CHA check. If you tie or beat their roll, the spell fails.
+77. Bardic Inspiration: Up to three creatures you see gain a 1d6 bonus to a single die roll within the next 10 minutes.
+78. Madness: You sing to one creature and they must succeed a WIS saving throw or else attack a random creature within range. They may repeat the save at the start of each of their turns.
+79. Finding song: You sing of a creature or object, and you learn what direction it is in.
+80. Song of polymorph: You sing of a creature becoming another kind of creature. It must succeed a WIS save if it wishes to resist this spell, or else transforms into that kind of creature. If you wish for this effect to permanent, the creature must attempt the save, and it must be made with a +5 bonus.
+81. Roll 2 spells(80 or lower on this table). Combine them into one new spell.
+82. Roll a spell(80 or lower on this table). Improve it.
+83. Roll a spell(80 or lower on this table). The keeper improves it.
+84. Roll a spell(80 or lower on this table). Improve it twice. Your improvements cannot be of the same aspect.
+85. Roll a spell(80 or lower on this table). Improve it three times. Your improvements cannot be of the same aspect.
+86. Cantrip: Roll a spell(80 or lower on this table). Weaken it or assign a penalty to casting it. You may cast it at will.
+87. ritual: Roll a spell(80 or lower on this table). It takes 10 minutes to cast, but you may cast it at will.
+88. Quick spell: Roll a spell(80 or lower on this table). You may cast it with your free action.
+89. Potent spell: Roll a spell(80 or lower on this table). Any damage dice grow one size. Any effects last twice as long. Any saving throws are made with a -3 penalty.
+90. Fungible spell: If you copy this spell into another book, the original copy is not destroyed.
+91. Zone: You declare up to a 1 mile radius centered on a point in sight and create one of the following zones: silence, anti-magic, hyper-magic, corruption, darkness, gravity-free, frictionless, timeless, annihilation. It lasts until dispelled, or until you cast this spell again.
+92. Power Word Kill: You command one creature you can see to die. If it has less than 70 hit points, it does.
+93. Wish: You make one wish, and it is granted exactly as you phased it. The force granting the wish will attempt to grant it according to phrasing, but against the spirit of the request.
+94. Teleport: You and up to 10 other creatures you can see vanish and appear in a space of your choice. It can be in any dimension, provided you can envision it.
+95. Raise undead horde: Up to 100 corpses and bone piles within 100ft of you rise and are loyal to you until you cast this spell again.
+96. Soul bind: You may bind the soul of a willing humanoid to a sword. They make an intelligence or wisdom check. The sword gains an attack and damage bonus of +1 if they get below 12, +2 for below 20, and otherwise +3.
+97. Command weather: You command the skies to change. You may make them rainy, sunny, cloudy, windy, snowy, or any variation of these.
+98. Meteorite: You call upon a celestial body to strike a position that you can see. 3 days later a falling star lands on that point, creating a 1 mile radius crater. You may cancel this spell within the first two days.
+99. Life drain: A creature you can see must succeed a WIS save or they age by 10 years, and you gain the youth they lost.
+100. Resurrection: One creature you see that is dead wakes up, alive. If it is a skeleton, it's flesh regenerates.
 
 ## Magic Items
 
