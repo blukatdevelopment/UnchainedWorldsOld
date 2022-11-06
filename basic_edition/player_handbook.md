@@ -176,7 +176,7 @@ rations, crowbar, 50ft hempen rope, hooded common clothes, and 10 gold pieces.
 
 #### Tricks(level 5 minimum)
 1. Uncanny dodge: Once per round of combat, you can halve the damage of an incoming attack.
-2. Arcane Adept: You learn one 2nd level spell and can cast it once per rest. 
+2. Arcane Adept: You learn one 3rd level spell and can cast it once per rest. 
 3. Expertise: pick one level 1 trick that gave you a bonus to a particular task. The bonus increases to +8
 4. Evasion: When you succeed a saving throw to halve damage, you take none. When you fail the same roll, you take half.
 5. Distraction: Once per round during an enemy's turn, you can impose a -4 penalty to their attack roll if they can hear or see your distraction.
