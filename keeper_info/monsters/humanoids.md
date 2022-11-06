@@ -13,6 +13,22 @@
 
 `Crown Guard, XP: 25, HP: 15(3d4+3), AC: 11(padded), [14, 10, 12, 10, 13, 12], Club +3 1d4+2`
 
+`Priest, XP: 100, HP: 12(3d4), AC: 12, [12, 12, 10, 13, 16, 12], Dagger: +2 1d4+1 piercing`
+- Light: 30 bright, 30 dim
+- Sacred Flame( 30ft): DC 13 WIS or 1d6 radiant
+- Lay on hands(3/day): 1 minute, Roll 1d20+5
+```
++--------------+------------+
+|     Roll     | Hit Points |
++--------------+------------+
+| Less than 10 |          0 |
+| 10-16        |          1 |
+| 17-18        |          2 |
+| 19-20        |          4 |
+| more than 20 |          6 |
++--------------+------------+
+```
+
 ## Rogues
 
 ### Bandits

@@ -64,6 +64,7 @@ Quest 3: Unrequainted love (100XP)
 - She will pay 25GP if the adventurers make this happen
 
 ## Level 1
+If spotted, party will be questioned. If they seem suspicious or hostile, an alarm will be called and the whole camp will be present shortly to apprehend or fight them.
 
 ```
 ############################
@@ -90,10 +91,12 @@ Quest 3: Unrequainted love (100XP)
 - Spike pit in front of tapestry with tiny font
 
 ### 2
+- One very bored Petty Mercenary
 - Tripwire on South doorway, rings chimes
 - Taspestry on floor with tiny font
 
 ### 3
+- 2 Petty mercenaries
 -  Empty book shelves
 -  2 bedrolls
 -  camp fire with ashes
@@ -103,6 +106,7 @@ Quest 3: Unrequainted love (100XP)
 - Hole leading down to Level 2, room 4
 
 ### 5
+- 2 petty mercenaries with weapons on a table
 - Kitchen with chicken soup
 - vegetables
 - Ice box with fresh beef
@@ -157,6 +161,7 @@ Quest 3: Unrequainted love (100XP)
 
 ### 3
 - Mercenary captain tent (mirror, bed, bath tub, perfumes, tobacco, book full of demonic runes, runes drawn on floor)
+- Mercenary Captain Oldarr
 
 ### 4
 - Hole in ceiling (20ft up) leads to Level 1, room 4
@@ -168,13 +173,13 @@ Quest 3: Unrequainted love (100XP)
 ### 6
 - Mercenary living quarters (6 bunks)
 - Wine shelves (25) wine bottles worth 5gp each
-- 2 mercenaries
+- 3 petty mercenaries
 
 ### 7
 - Staircase up to trapdoor leading to Level 1, room 6
 
 ### 8
-- round table with cards and 3 mercenaries
+- round table with cards and 4 petty mercenaries
 - (100)1GP poker chips
 
 ### 9 

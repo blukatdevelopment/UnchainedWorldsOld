@@ -293,11 +293,10 @@ Using your action, you may perform an intensive task. Some examples:
 - Use object
 
 #### Making attacks
-Roll a 1d20, then add your Strength(for melee) or Dexterity(for ranged) modifier
-to the roll. If that roll is higher than your target's armor class(AC), then it
-hits. The keeper keeps track of monster stats, and will tell you if your attack
-hits. If your attack hits, then you can roll 1d6 and add the same modifier
-you used earlier.
+Roll a 1d20, then add your Strength(for melee) or Dexterity(for ranged) modifier to the roll. If that roll is higher than your target's armor class(AC), then it hits. The keeper keeps track of monster stats, and will tell you if your attack hits. If your attack hits, then you can roll 1d6 and add the same modifier you used earlier.
+
+##### Situational bonuses
+If you are hidden from an enemy, or attacking a prone enemy, or otherwise have an advantage determined by your keeper, you gain a +5 bonus on the attack roll you make.
 
 ### Free object interactions
 Some actions such as storing or retrieving an object from your inventory, opening a door, speaking a six second message, or picking up an object
