@@ -62,7 +62,7 @@ SS = Number of Soul Stones
 |   1 |     0 | 1d6 |   +1 |  1 | Infuser
 |   2 |   300 | 2d6 |   +1 |  2 | Hit point Increase, Enhanced Infuser
 |   3 |   900 | 3d6 |   +2 |  4 | Hit point Increase, Discipline
-|   4 |  1800 | 4d6 |   +2 |  6 | Hit point re-roll, 
+|   4 |  1800 | 4d6 |   +2 |  6 | Hit point re-roll
 |   5 |  3600 | 5d6 |   +2 |  9 | Ability Score Increase, Discipline ability
 |   6 |  6100 | 6d6 |   +2 | 12 | 
 |   7 |  9100 | 7d6 |   +3 | 16 | Discipline ability
@@ -139,80 +139,35 @@ points. Roll 3d6 and add your CON modifier three times. If the value rolled is
 higher than your current max hit points, you may keep it.
 
 ### Discipline
-Choose one of the following disciplines: Demon Forger, Technomancer, or pocket
-trainer. You gain a feat in this discipline now, as well as at levels 5, 7, and
+Choose one of the following disciplines: Devil Forger. You gain a feat in this discipline now, as well as at levels 5, 7, and
 9. See the disciplines section for more details.
 
 
 ## Disciplines
 
-### Demon Forger
+### Devil Forger
+Devils are born of magical contracts. Whether through a mentoring devil, or by independent discovery, you have learned the art of drafting magically-binding contracts. You know the infernal language. You know the 4th level Summon Devil spell, which you may cast at will to summon devils that have an active pact with you.
 
-### Technomancer
+#### Pact of Creation
+At 3rd level, You may find a venue where at least one humanoid has died, and spend ten minutes reciting the terms of your pact. You describe the body they may inhabit, and that they must swear fealty to you, and the debt they must repay to end that fealty. At this time, you must succeed a charisma(persuasion, deception, or intimidation) check in order to convince the spirits to accept this contact, with the DC set by the keeper. You may choose Vice, Imp, or Regret. The devil's body is formed around one of your soul gems, and preserved by occupying that gem. A devil only occupies soul gems when it's in an active pact with you.
 
-### Pocket trainer
-At level 3, you become a trainer of monsters that live in bespoke pocket
-dimensions. You gain one pocket ball, a latched metal ball that contains a soul
-gem that is occupied by this ball. You may use your action to open the pocket
-ball and point to an empty space, causing the monster in the pocket ball to
-appear there. Likewise, you may use your action to open an empty pocket ball and
-point to one of your monsters, withdrawing them to the pocket ball's dimension.
-You may have one monster out of it's ball at once. If your monster casts a
-spell level 1 or higher, it uses either it's wisdom or charisma score, your
-choice.
+#### Pact of Augmentation
+At 5th level, you learn a new pact, which you can offer to any devil that has paid off it's debt of creation to you. You describe the augmentation you offer, the price of swearing fealty, and the debt they must repay to end that fealty. At this time, you must succeed a charisma(persuasion, deception, or intimidation) check in order to convince the spirits to accept this contact, with the DC set by the keeper. You may select additional augmentations, which will each occupy a soul gem. Choose one or more of the following augmentations:
+1. Size: Devil grows 2 sizes larger, they gain a claw attack that deals 3d6+STR slashing damage.
+2. Ferocity: Devil may make one additional attack when it takes the attack action.
+3. Devilish aura: When the Devil successfully makes a melee attack, it may gain 2d4 temporary hit points.
+4. Infernal Magic: The Devil learns the following spells, which it may cast once per day:
+- Blindness/Deafness(2nd)
+- Locate Object(2nd)
+- Phantom Steed(3rd)
+- Malevolent guidance(3rd)
+- Cause fear(3rd)
+- Delusion(3rd)
+5. Chains: Devil is wrapped in chains, which provide +3 AC and gain chain attack that deals 2d8+STR damage at a range of up to 15ft. On a hit, the target is automatically grappled.
+6. Infernal armor: Devil's AC is now 18. It is resistant to fire damage, and it's melee attacks now deal an additional 1d6 fire damage.
 
-#### Creating monsters
-Using your infuser, you weave the essence of your monster according to your
-preference. The creature is either size tiny or small. The stat block is
-provided below. Select an element for the monster to grant them a corresponding
-ability score increases and traits.
-- Normal: CON +4, STR +4, speed +5ft
-- Fire: CHA +4, Can cast Firebolt and Control Flame cantrips at will
-- Water: CHA +4, Can cast Shape Water at will, Watergun(Ranged 10/20ft) 1d4+CHA
-bludgeoning damage
-- Grass: WIS +4, Can cast Thornwhip cantrip at will
-- Electric: CHA +2, Can cast Shocking Grasp and Thunderclap cantrips at will 
-- Ice: CHA +2, Can cast Ray of Frost and Frostbite cantrips at will
-- Poison: CON +4, can cast Poison Spray cantrip at will
-- Flying: DEX +4, 30ft flying speed
-- Psionic: INT +4, Consume soul stone to cast Pull or Push
-- Rock: AC +2, Bash attack that deals 1d8+STR bludgeoning damage
-- Dark: WIS+4 Can cast Death Grip cantrip at will
-- Metal: AC +3, Natural attack deals 1d6+STR slashing damage
-- Candy: WIS+4 can cast Cure Wounds level 1 spell
+#### Pact of Dominion
+At 7th level, you learn a new pact, which you can offer to any devil that has paid off it's debt of creation to you. You describe an area of a realm which the devil will have dominion over, the price of the devil and all it's underlings swearing fealty to you, and the debt it must repay to end that fealty. The first time you make this pact, a personal dimension with a one square mile section of red stone floating in in a void. Every other time you make this pact, the realm grows by 1 mile. You may use the Summon Devil spell to open a portal to this dimension by speaking it's name, coming and going as you please.
 
-```
-Monster
-Tiny or Small Monstrosity
-HP: 5(4+CON)
-AC: 11
-Speed: 25ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 12| 12| 12| 12| 12| 12|
-Attacks:
-Natural Attack +3 1d4+1 slashing, bludgeoning, or piercing (choose one for monster)
-```
-#### Creating pocket balls
-You may create a pocket ball during a rest. Each pocket ball occupies a soul
-gem. You may have up to six pocket balls.
-
-### First evolution
-At 5th level, you may now evolve your monsters. When you evolve a monster, it
-occupies two additional soul stones. Choose an element. If you choose the same
-element that you chose when you created the monster, it gains the ability score
-increases and traits listed below. Otherwise, grant them the abilities listed
-in the Creating Monsters section above. Your monster's size is now eithe small
-or medium, and their hit points increase by 5+CON.
-- Normal: CON +4, STR +4, Multi-attack
-- Fire: CHA +4, resistant to fire damage, can cast 
-- Water: CHA +4, 
-- Grass: WIS +4, 
-- Electric: CHA +2, 
-- Ice: CHA +2, 
-- Poison: CON +4, 
-- Flying: DEX +4, 
-- Psionic: INT +4, 
-- Rock: AC +2, 
-- Dark: WIS+4, 
-- Metal: AC +3,
-- Candy: WIS+4, 
+##### Infernal army
+Every month, each of the devils under a pact of dominion recruit subordinate devils. Each dominion devil can have a maximum of 4 subordinates, and they recruit up to 1d4 new subordinates per month. When you cast Summon Devil, you may call forth just the subordinates of one of your dominion devils, and they will obey you as if they had a pact with you directly.

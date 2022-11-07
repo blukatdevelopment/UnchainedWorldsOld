@@ -36,8 +36,7 @@ Chastise (Cantrip)
 Casting time: 1 action
 Range: 60 feet
 Duration: Instantaneous
-You verbally chastise the ill behavior of one creature within range that can
-hear you. They must succeed a wisdom saving throw or receive 1d4 psychic damage.
+You verbally chastise the ill behavior of one creature within range that can hear you. They must succeed a wisdom saving throw or receive 1d4 psychic damage.
 ```
 
 ```
@@ -2041,7 +2040,7 @@ vanishing. The stat block for the steed is included below.
 
 Phantom Steed
 Large Undead
-HP: 13(2d10+2)
+HP: 22(2d10+2)
 AC: 10
 Speed: 100ft
 |STR|DEX|CON|INT|WIS|CHA|
@@ -2228,15 +2227,6 @@ is either radiant, necrotic, or cold, specified at casting time. A creature
 taking this damage cannot regain hit points until the start of your next turn.
 Additionally, creatures of your choice starting within 10ft of you have their 
 speed reduced by 10ft until the start of your next turn.
-```
-
-```
-Summon (3rd level)
-Casting Time: 1 action
-Range: 90 feet
-Duration: Concentration, up to 1 hour
-You call forth a fey spirit, undead spirit, or 
-
 ```
 
 ```
@@ -2708,41 +2698,6 @@ psychic damage and has advantage on intelligence, wisdom, and charisma saving
 throws for the duration.
 ```
 
-```
- (3rd)
-Casting time: 1 action
-Range: Touch
-Duration: Concentration, 1 hour
-```
-
-```
- (3rd)
-Casting time: 1 action
-Range: Touch
-Duration: Concentration, 1 hour
-```
-
-```
- (3rd)
-Casting time: 1 action
-Range: Touch
-Duration: Concentration, 1 hour
-```
-
-```
- (3rd)
-Casting time: 1 action
-Range: Touch
-Duration: Concentration, 1 hour
-```
-
-```
- (3rd)
-Casting time: 1 action
-Range: Touch
-Duration: Concentration, 1 hour
-```
-
 ## 4th level spells
 
 ```
@@ -2839,7 +2794,7 @@ You extend your thumb in the air and aim your index finger at a point in range t
 Summon Devil (4th)
 Casting Time: 1 action
 Range: 60 feet
-Duration: Instantaneous
+Duration: 1 minute
 You speak the name of a devil and throw the object to a point within range.
 It explodes into a portal from which a devil emerges. Your relationship with the devil decides whether it is hostile, neutral, or friendly. If you have not made any deals with this devil, it will likely propose one based on your mutual interests.
 ```

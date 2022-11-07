@@ -88,7 +88,7 @@ they gain as they gain levels over their adventuring career.
 - [Thief](../../../character_creation/classes/thief.md)
 - [Scientist](../../../character_creation/classes/scientist.md)
 - [Warrior](../../../character_creation/classes/warrior.md)
-
+- [Soul Forger](../../../character_creation/classes_soul_forger.md)
 ### Starting gear
 Your new character additionally starts with 80G to spend. Please consult the
 core rules for a comprehensive list of general adventuring gear they may
