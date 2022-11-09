@@ -1,9 +1,6 @@
 # Development
 
 ## Active release
-Nothing yet. Ideally, 10 tasks.
-
-## Backlog
 
 ### Proofread class: Alchemist
 Double-check for typos, formatting issues, or references to outdates rules.
@@ -21,15 +18,36 @@ Identity fections where rephrasing or images could help better explain ideas.
 Double-check for typos, formatting issues, or references to outdates rules.
 Identity fections where rephrasing or images could help better explain ideas.
 
+### Finish porting spells: runesmith
+Fill out missing spells. Do not use copy/paste, do not use exact wording.
+Cut out clarifications where possible.
+
+### Finish porting spells: priest
+Fill out missing spells. Do not use copy/paste, do not use exact wording.
+Cut out clarifications where possible.
+
+### Edit cultures_volume_1.md
+Check to make sure descriptions make sense, are formatted reasonably, and maybe add a tiny bit more lore/details.
+
+### Finish book_of_maladies.md
+Put some positive mutations in the first 25% of the list, diversify middle of list (so that each of the 1d100 listing has a subtable.) Move this into a separate corruption book, maybe?
+
+### Add maneuvers to warrior
+Add 5-10 new maneuvers. Taking inspiration from paladin might help.
+
+### Proofread class: psion
+Double-check for typos, formatting issues, or references to outdates rules.
+Identity fections where rephrasing or images could help better explain ideas.
+
+`Progress Bar: 0%[--------------------]`
+
+## Backlog
+
 ### Proofread class: lycanthrope
 Double-check for typos, formatting issues, or references to outdates rules.
 Identity fections where rephrasing or images could help better explain ideas.
 
 ### Proofread class: priest
-Double-check for typos, formatting issues, or references to outdates rules.
-Identity fections where rephrasing or images could help better explain ideas.
-
-### Proofread class: psion
 Double-check for typos, formatting issues, or references to outdates rules.
 Identity fections where rephrasing or images could help better explain ideas.
 
@@ -49,26 +67,12 @@ Identity fections where rephrasing or images could help better explain ideas.
 Double-check for typos, formatting issues, or references to outdates rules.
 Identity fections where rephrasing or images could help better explain ideas.
 
-### Finish porting spells: runesmith
-Fill out missing spells. Do not use copy/paste, do not use exact wording.
-Cut out clarifications where possible.
-
-### Finish porting spells: priest
-Fill out missing spells. Do not use copy/paste, do not use exact wording.
-Cut out clarifications where possible.
-
 ### Finish porting spells: psion
 Fill out missing spells. Do not use copy/paste, do not use exact wording.
 Cut out clarifications where possible.
 
-### Edit cultures_volume_1.md
-Check to make sure descriptions make sense, are formatted reasonably, and maybe add a tiny bit more lore/details.
-
 ### Edit body_types.md
 Check to make sure descriptions make sense, are formatted reasonably, and maybe add a tiny bit more details, such as a warning about limitations of tiny/huge folk.
-
-### Add maneuvers to warrior
-Add 5-10 new maneuvers. Taking inspiration from paladin might help.
 
 ### Create soulforger subclass: Technomancer
 Gain abilities via prosthetics, create squad of forged followers.
