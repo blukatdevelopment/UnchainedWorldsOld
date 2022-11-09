@@ -2697,8 +2697,157 @@ You or a willing creature you can see within range becomes resistant to
 psychic damage and has advantage on intelligence, wisdom, and charisma saving 
 throws for the duration.
 ```
+```
+Aura of Vitality (3rd)
+Casting time: 1 action 
+Range:  self (30-foot radius)
+Duration: Concentration, up to 1 minute
+An aura emanates from you in a 30ft radius, moving with you. As a bonus action, you may cause one creature within the aura to regain 2d6HP.
+```
+
+```
+Beacon of Hope (3rd)
+Casting time: 1 action
+Range: 30ft
+Duration: Concentration, up to 1 minute
+You imbue any number of creatures within this spell's rangue with hope and vitality, granting them advantage on WIS saves and death saves(roll die twice, take highest). They additionally gain the maximum possible HP from healing.
+```
+
+```
+Create Food and Water (3rd)
+Casting time: 1 action
+Range: 30ft
+Duration: Instantaneous
+You create 45lb of food and 30 gallons of water within range. The food spoils after 24 hours.
+```
+
+```
+Daylight (3rd)
+Casting time: 1 action
+Range: 60ft
+Duration: 1 hour
+You create a 60ft radius sphere of light centered on a point within range. The interior is bright light, and 60ft surrounding it is cast with dim light. You may select an object to cast this spell on, allowing it to move with the object. Any magical darkness is destroyed within the sphere.
+```
+
+```
+Dispel magic (3rd)
+Casting time: 1 action
+Range: 120ft
+Duration: Instantaneous
+Target either a creature, object, or a magical effect within range. Any spells effecting the target which are 3rd level or lower instantly end. For each higher level spell, make a spellcasting check with a DC of 10+ the spell's level to end it.
+```
+
+```
+Mass Healing Word (3rd)
+Casting time: 1 bonus action
+Range:  60ft
+Duration: Instantaneous
+You speak a word of healing, and up to six creatures you can see in range regain HP equal to 1d4 + your spellcasting modifier. Undead and constructs are unaffected.
+```
+
+```
+Meld into stone (3rd)
+Casting time: 1 action
+Range:  Touch
+Duration:  8 hours
+You touch one stone object or surface that is large enough to contain your body, then meld your body and all carried equipment into the stone for the duration. Using your movement, you may meld into other sufficiently large stone objects or surfaces if they touch the original. You are invisible and cannot be detected without the aid of magic.
+```
+
+```
+Motivational Speech (3rd)
+Casting time: 1 minute
+Range: 60ft
+Duration: 1 hour
+Up to five creaturs within range that can hear you gain 5 temporary HP and have advantage on wisdom saving throws for the duration. Under the effect, a creature hit by an attack has advantage on their next roll. Once the creature loses it's temporary HP from this spell, the effect ends for it.
+```
+
+```
+Spirit Guardians (3rd)
+Casting time: 1 action
+Range: self(15ft radius)
+Duration: Concentration, up to 10 minutes
+Spirit guardians encircle you within a 15ft radius for the duration. Creatures of your choice have halved speed within the radius, and upon entering or starting their turn inside, must make a WIS save to halve 3d8 radiant damage.
+```
 
 ## 4th level spells
+
+```
+Aura of Life (4th)
+Casting time: 1 action 
+Range: Self (30ft radius)
+Duration: Concentration, up to 10 minutes
+You radiate an aura that extends 30ft in every direction. All non-hostile creatures within range are resistant to necrotic damage and can't have their max HP reduced. Any non-hostile creature that is down gains 1HP at the start of their turn.
+```
+
+```
+Aura of Purity (4th)
+Casting time: 1 action
+Range: self (30ft radius)
+Duration: Concentration, up to 10 minutes
+You radiate an aura that extends 30ft in every direction. Non-hostile creatures within the aura cannot become diseased, have resistance to poison damage, and have advantage on saving throws to resist being blinded, charmed, deafened, frightened, paralyzed, poisoned, and stunned.
+```
+
+```
+Banishment (4th)
+Casting time: 1 action
+Range: 60ft
+Duration: Concentration, up to 1 minute
+You target one creature. If it's native to your current plane, it's banished to a harmless pocket dimension, incapacitated until the spell ends. If the creature's instead native to another plane, it is sent there with a pop, returning if the spell ends before one minute.
+```
+
+```
+Control Water (4th)
+Casting time: 1 action
+Range: 300ft
+Duration: Concentration, up to 10 minutes
+You can influence an amount of water that fits within a 100ft cube within range. Apply one of the following effects, repeating or changing effects as an action each 6 seconds.
+
+- The water level raises by 20ft, causing shores within the area.
+- You createa 20ft tall wave that travels across a larger body of water and crashes down, carrying any huige or smaller objects in it's wake.
+- You part the water, creating a trench.
+- You redirect the flow.
+- You create a whirlpool 50ft wide that drops down 25ft in the center. Creatures can make athletics checks against your spell DC to swim away.
+```
+
+```
+Death Ward (4th)
+Casting time: 1 action
+Range: Touch
+Duration: 8 hours
+You touch a creature, and a mark of your deity appears on it's forehead. The first time a creature would fall below 1HP, it instead is dropped to 1HP and the spell ends, removing the mark.
+```
+
+```
+Divination (4th)
+Casting time: 1 action 
+Range:  self
+Duration: Instantaneous
+You make contact with your deity and ask a question of an event likely to take place within 7 days. The keeper offers a truthful reply, either as a short phrase, cryptic rhyme, or an omen. The spell cannot accurately account for circumstantial changes such as additional spells being cast, or losing or gaining a companion.
+```
+
+```
+Guardian of Faith (4th)
+Casting time: 1 action
+Range: 30ft
+Duration: 8 hours
+A spectral guardian appears and hovers within an the spell's range, holding a sword and shield baring the mark of your deity. Any hostile creature entering a 10ft radius of the guardian for the first time must make a DEX save to halve 20 radiant damage. The guardian disappears when it has dealt a total of 60 damage.
+```
+
+```
+Locate Creature (4th)
+Casting time: 1 action
+Range: self
+Duration: Concentration, up to 1 hour
+Choosea creature that is familiar to you, and name or describe them. You sense the creature's direction, as long as they're within a mile of the creature. You know the creature's direction if it's moving. Your familiarity may be with the specific creature, or the kind of creature, provided you have seen either in person before.
+```
+
+```
+Stone Shape (4th)
+Casting time: 1 action
+Range: Touch
+Duration: Instantaneous
+You touch either a section of stone that fits within a 5ft cube, or a medium size or smaller stone object. You form it into a shape of your choosing. It may have up to two hinges and a latch, but finer mechanical detail isn't possible.
+```
 
 ```
 Revivify (4th)

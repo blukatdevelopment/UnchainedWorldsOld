@@ -308,30 +308,30 @@ creature.
 - Spirit Shroud
 - Tongues
 - Water Walk
-- Aura of Vitality [Pending]
-- Beacon of Hope [Pending]
-- Create Food and Water [Pending]
-- Daylight [Pending]
-- Dispel Magic [Pending]
-- Mass Healing Word [Pending]
-- Meld into stone [Pending]
-- Revivify [Pending]
-- Motivational Speech [Pending]
-- Spirit Guardians [Pending]
+- Aura of Vitality
+- Beacon of Hope
+- Create Food and Water
+- Daylight
+- Dispel Magic
+- Mass Healing Word
+- Meld into stone
+- Motivational Speech
+- Spirit Guardians
 
 
 ### 4th
 - Miracle 
 - Life Mist 
-- Aura Of Life[Pending]
-- Aura of Purity[Pending]
-- Banishment[Pending]
-- Control Water[Pending]
-- Death Ward[Pending]
-- Freedom of Movement[Pending]
-- Guardian of Faith[Pending]
-- Locate Creature[Pending]
-- Stone Shape[Pending]
+- Revivify
+- Aura Of Life
+- Aura of Purity
+- Banishment
+- Control Water
+- Death Ward
+- Freedom of Movement
+- Guardian of Faith
+- Locate Creature
+- Stone Shape
 
 ### 5th
 - Judgement 
