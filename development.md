@@ -2,7 +2,7 @@
 
 ## Active release
 
-### Proofread class: Alchemist
+### [DONE]Proofread class: Alchemist
 Double-check for typos, formatting issues, or references to outdates rules.
 Identity fections where rephrasing or images could help better explain ideas.
 
@@ -39,7 +39,7 @@ Add 5-10 new maneuvers. Taking inspiration from paladin might help.
 Double-check for typos, formatting issues, or references to outdates rules.
 Identity fections where rephrasing or images could help better explain ideas.
 
-`Progress Bar: 20%[####----------------]`
+`Progress Bar: 40%[########------------]`
 
 ## Backlog
 

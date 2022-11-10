@@ -43,7 +43,7 @@ Choose two from the following:
 
 ## Starting Equipment
 - Huge Ringmail Armor 
-- (a) huge simple weapon and huge shield OR (b) huge martial weapon
+- Huge Simple weapon and huge shield or Huge martial weapon
 - Barrel
 - 50 feet of chains
 - Huge Common Clothes
@@ -75,8 +75,8 @@ COMU = Colossal Mutations
 
 ### Monstrous Physique 
 Your natural body has been honed by the methods which you use it for, Choose two
-physiques from the following which describe how you have shaped the all purpose
-tool of destruction you are.
+physiques from the following which describe how you have shaped your all purpose
+tool of destruction.
 
 ### Phisique: Intimidating
 You gain a +5 to intimidation checks and have advantage on these checks against 
@@ -131,32 +131,32 @@ You may increase one ability score by 2, or you can increase two ability scores
 of your choice by 1. You cannot increase an ability score past 20.
 
 ### Magical Might
-Your body has Mutated innate magical or counter-magical ability, making your
+Your body has mutated innate magical or counter-magical ability, making your
 unarmed strikes overcome immunity and resistance to nonmagical melee. 
 
 ### Epic Mutation
 You gain a mutation signifying the peak of your raw strength, choose one
-mutation from the following.
+mutation from the following:
 
 ##### Genetic Reshuffle 
 As an action you may expend a number of your stamina dice and change an amount
 of mutations currently affecting your body equal to the amount of stamina dice
 you expended. This change takes 10 minutes and during that time you are
 incapacitated as your body shifts and grows its new mutations. You may exchange
-this mutation for gargantuan growth or another epic mutation but the change is
-irreversible and takes 1 hour during which you are incapacitated as your body
-shifts and grows its new epic mutation, This exchange consumes 10 stamina dice.
+this mutation for another epic mutation but the change is irreversible and takes
+1 hour during which you are incapacitated as your body shifts and grows its new
+epic mutation, This exchange consumes 10 stamina dice.
 
 ##### Gargantuan Growth 
 - Your body grows to become gargantuan size. 
 - You roll an additional damage dice for every form of damage you can output.
 - Your strength becomes 24. 
-- Your Dexterity becomes 3.
+- Your Dexterity becomes 5.
 - You gain 10 additional feet of walking speed.
 - Your HP becomes 70 plus 3 times your constitution modifier.
 
-##### Another Mutation
-You may select an additional colossal mutation.
+##### Additonal Mutations
+You may select 2 additional colossal mutations.
 
 
 ## Colossal Mutations
@@ -187,9 +187,10 @@ Pick two damage types from acid, cold, fire, lightning, or thunder. You become
 resistant to these two damage types.
 
 ### Massive Claws.
-If you already have claws they grow, and if you do not you grow massive claws
-that you are capable of retracting and expanding as a free action. Attacking
-with these claws deals 3d12 slashing damage rather than the usual 3d8.
+If you already have claws they grow larger, and if you do not you grow 
+massive claws.  Attacking with these claws deals 3d12 slashing damage rather 
+than the usual 3d8. You are capable of retracting and extending these claws as a
+free action.
 
 ### Shrunken Amygdala.
 The part of your brain responsible for fear response and reaction to frightening
@@ -240,8 +241,8 @@ unforseen benefits or drawbacks as decided by your keeper.
 ### Limited Wings. (Level 9 Required)
 Wing-like appendages grow from your back, you may expend a stamina die to gain a
 flying speed of 60 feet for 6 seconds as you expend a large amount of energy to
-lift your body. As a reaction, you may use this ability to reduce your slow your
-descent for a safe landing when falling.
+lift your body. As a reaction to falling you may use this ability to reduce 
+your speed and slow your descent for a safe landing.
 
 ### Rampage. (level 9 Required)
 The part of your brain responsible for anger expands, heightening your anger
@@ -263,10 +264,10 @@ entering rampage you begin destroying and killing indiscriminately.
 If you wish to end your rampage early you may make a DC 20 Wisdom saving throw
 as a free action, ending your rampage on a success. Once you take this free
 action you may not do so again until a minute has passed. If your wisdom
-modifier is too low to beat this DC you pass on a natural roll of 20.
+modifier is too low to beat this DC you instead pass on a natural roll of 20.
 
 ### Titan's Roar. (Level 9 Required)
-Your throat canal becomes funnel shaped, allowing you to expel a roar of great 
+Your throat canal forms funnel shaped, allowing you to expel a roar of great 
 magnitude as if through a megaphone. As an action you may expend 3 stamina dice 
 and roll them. Up to 4 creatures of your choice which can hear the roar gain the
 following benefits:
