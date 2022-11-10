@@ -32,14 +32,14 @@ Check to make sure descriptions make sense, are formatted reasonably, and maybe 
 ### Finish book_of_maladies.md
 Put some positive mutations in the first 25% of the list, diversify middle of list (so that each of the 1d100 listing has a subtable.) Move this into a separate corruption book, maybe?
 
-### Add maneuvers to warrior
+### [DONE]Add maneuvers to warrior
 Add 5-10 new maneuvers. Taking inspiration from paladin might help.
 
 ### Proofread class: psion
 Double-check for typos, formatting issues, or references to outdates rules.
 Identity fections where rephrasing or images could help better explain ideas.
 
-`Progress Bar: 10%[##------------------]`
+`Progress Bar: 20%[####----------------]`
 
 ## Backlog
 
