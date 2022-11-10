@@ -61,7 +61,7 @@ SD = Stamina Dice
 Prof = proficiency bonus
 MNVS = Maneuvers
 +-----+-------+-------+-----+-------+-------------------------------+
-| LVL | XP    | SD    | Prof|  MNVS |        Features               |
+| LVL | XP    | SD    |Prof |  MNVS |        Features               |
 +-----+-------+-------+-----+-------+-------------------------------+
 |   1 |     0 | 1d10  | +1  |  0    | Warrior's Respite             |
 |   2 |   300 | 2d10  | +1  |  1    | Maneuvers, Hit point Increase |

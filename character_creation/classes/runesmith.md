@@ -60,7 +60,7 @@ SD = Stamina Dice
 Prof = proficiency bonus
 SL = Spell Level
 +-----+-------+-----------+-------+----+-----------------------------------------------+
-| LVL | XP    | SD  | Prof| Runes | SL |    Features                                   |
+| LVL | XP    | SD  |Prof | Runes | SL |    Features                                   |
 +-----+-------+-----+-----+-------+----+-----------------------------------------------+
 |   1 |      0| 1d4 | +1  |     0 |  1 | Runebook, Ritual Casting                      |
 |   2 |    300| 2d4 | +1  |     2 |  1 | Runesmithery, Runecasting, Hit point Increase |

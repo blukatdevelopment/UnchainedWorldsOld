@@ -60,7 +60,7 @@ SD = Stamina Dice
 Prof = proficiency bonus
 MNVS = Maneuvers
 +-----+-------+-----+-----+-----+--------------------------------+
-| LVL | XP    | SD  | Prof|MVNS |         Features               |
+| LVL | XP    | SD  |Prof |MVNS |         Features               |
 +-----+-------+-----+-----+-----+--------------------------------+
 |   1 |     0 | 1d6 | +1  |   1 | Scrap, Smith                   |
 |   2 |   300 | 2d6 | +1  |   1 | Hit point Increase             |

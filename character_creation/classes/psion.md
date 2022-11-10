@@ -56,7 +56,7 @@ Prof = proficiency bonus
 PD = Maximum Psionic Die size for level
 SL = Spell Level
 +-----+-------+-----+-----+----+----+------------------------------------------------------+
-| LVL | XP    | SD  | Prof| PD | SL |           Features                                   |
+| LVL | XP    | SD  |Prof | PD | SL |           Features                                   |
 +-----+-------+-----+-----+----+----+------------------------------------------------------+
 |   1 |      0| 1d4 | +1  | -- |  0 | Invisible Hand, Silent Voice                         |
 |   2 |    300| 2d4 | +1  | D2 |  1 | Psionic Guidance, Hit point Increase                 |

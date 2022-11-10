@@ -56,7 +56,7 @@ XP = total experience points needed for level
 SD = Stamina Dice
 Prof = proficiency bonus
 +-----+-------+-----+------+------------------------------------------+
-| LVL |    XP | SD  | Prof |       Features                           |
+| LVL |    XP | SD  |Prof  |       Features                           |
 +-----+-------+-----+------+------------------------------------------+
 |   1 |      0| 1d8 | +1   | Vampirism, Vampiric Form                 |
 |   2 |    300| 2d8 | +1   | Hit point Increase, Form Ability         |

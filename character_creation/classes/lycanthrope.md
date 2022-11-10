@@ -54,7 +54,7 @@ XP = total experience points needed for level
 SD = Stamina Dice
 Prof = proficiency bonus
 +-----+--------+-----+-----+-----------------------------------------------------+
-| LVL |  XP    | SD  | Prof|        Features                                     |
+| LVL |  XP    | SD  |Prof |        Features                                     |
 +-----+--------+-----+-----+-----------------------------------------------------+
 |   1 |     0  | 1d4 | +1  | Lycanthrope Form, Controlled Shift                  |
 |   2 |   300  | 2d4 | +1  | Lycanthrope ability, Hit point Increase             |
