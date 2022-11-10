@@ -2842,6 +2842,66 @@ Choosea creature that is familiar to you, and name or describe them. You sense t
 ```
 
 ```
+Arcane Eye(4th)
+Casting Time: 1 action 
+Range: 30ft
+Duration: Concentration, up to 1 hour
+Choose a point within range where you create a magical hovering eye that is invisible. The eye can look in every direction, and you receive visual information mentally, which has normal vision in addition to darkvision out to 30 feet.
+
+You can move the eye up to 30ft with an action, provided it does not enter another plane or pass through a solid barrier.
+```
+
+```
+Blight (4th)
+Casting Time: 1 action 
+Range: 30ft
+Duration: Instantaneous
+Choose one target in range, which must make a CON save to havle 8d8 necrotic damage. Undead or constructs are unaffected. If the creature is a plant, it makes the save with disadvantage. Regular plants die immediately.
+```
+
+```
+Charm Monster (4th)
+Casting Time: 1 action
+Range: 30ft
+Duration: 1 hour
+Choose one creature you can see within range. It must make a WIS save, or else it is charmed by you until the spell ends or you or your companions attempt to cause it harm. The creature has advantage on this save if it is hostile toward you. The creature remembers it was charmed by you when the spell ends.
+```
+
+```
+Confusion (4th)
+Casting Time: 1 action 
+Range:  90ft
+Duration: Concentration, up to 1 minute
+You designate a 10ft radius sphere centered on a point in range. Every creature inside must succeed a WIS save when you cast the spell, or become affected.
+
+Effected targets can't take reactions and roll a d10 at the start of their turns to determine behavior.
+1: Move in random direction. (Use D8)
+2-6: Can't move or take actions.
+7-8: Uses action to make melee attack against random enemy within reach, or does nothing.
+9-10: Acts normally.
+
+Affected creatures can remake the save at the end of their turn.
+```
+
+```
+Dimension Door (4th)
+Casting Time: 1 action
+Range: 500 feet
+Duration: Instantaneous
+You teleport to a position within range. You can designate it by description, or distance and direction. You cannot exceed your carry weight, and you can bring one creature of your size or smaller if they are not exceeding their own carry weight, provided they aren't more than 5ft from you.
+
+Trying to teleport into an object or creature's occupied space causes you and any creature traveling with you 4d6 force damage, causing the spell to fail.
+```
+
+```
+Elemental Bane (4th)
+Casting Time: 1 action
+Range: 90ft
+Duration: Concentration, up to 1 minute
+Target one creature you can see within range, then assign a damage type(acid, cold, fire, lightning, or thunder). The target makes a CON save to avoid the spell's effect. The next time the target takes damage of that type during the duration, they take 2d6 damage of that type. Additionally, the creature loses resistance, if they have one, to the damage type until the spell ends. 
+```
+
+```
 Stone Shape (4th)
 Casting time: 1 action
 Range: Touch

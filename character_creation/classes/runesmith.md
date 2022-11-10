@@ -421,15 +421,15 @@ on itself.
 - Dreamscape 
 - Polymorph 
 - Antimagic Field 
-- Arcane Eye [pending]
-- Banishment [pending]
-- Blight [pending]
-- Charm Monster [pending]
-- Confusion [pending]
-- Control Water [pending]
-- Dimension Door [pending]
-- Divination [pending]
-- Elemental Bane [pending]
+- Arcane Eye
+- Banishment
+- Blight
+- Charm Monster
+- Confusion
+- Control Water
+- Dimension Door
+- Divination
+- Elemental Bane
 - Black Tentacles [pending]
 - Fabricate [pending]
 - Fire Shield [pending]
@@ -437,14 +437,14 @@ on itself.
 - Hallucinatory Terrain [pending]
 - Ice Storm [pending]
 - Secret Chest [pending]
-- Locate Creature [pending]
+- Locate Creature
 - Faithful Hound [pending]
 - Private Sanctum [pending]
 - Phantasmal Killer [pending]
-- Polymorph [pending]
+- Polymorph
 - Psychic Lance [pending]
 - Sickening Radiance [pending]
-- Stone Shape [pending]
+- Stone Shape
 - Storm Sphere [pending]
 - Vitriolic Sphere [pending]
 - Wall of Fire [pending]
