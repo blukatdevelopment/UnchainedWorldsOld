@@ -337,17 +337,17 @@ creature.
 - Judgement 
 - Curse 
 - Angelic Transformation 
-- Commune [pending]
-- Contagion [pending]
-- Dawn [pending]
-- Dispel Evil and Good [pending]
-- Flame Strike [pending]
-- Geas [pending]
-- Greater Restoration [pending]
-- Hallow [pending]
-- Holy Weapon [pending]
-- Insect Plague [pending]
-- Mass Cure Wounds [pending]
-- Planar Binding [pending]
-- Raise Dead [pending]
-- Scrying [pending]
+- Commune
+- Contagion
+- Dawn
+- Dispel Evil and Good
+- Flame Strike
+- Geas
+- Greater Restoration
+- Hallow
+- Holy Weapon
+- Insect Plague
+- Mass Cure Wounds
+- Planar Binding
+- Raise Dead
+- Scrying

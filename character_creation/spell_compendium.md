@@ -2995,6 +2995,158 @@ and magic items become temporarily inert.
 
 ## 5th level spells
 
+
+```
+Commune (5th)
+Casting time: 1 minute 
+Range: self
+Duration: 1 minute
+You contact your deity or a divine proxy and ask up to three yes or no quiestions, which are answered to the best of the deity or divine proxy's ability. Instead of yes or no, you may receive 'unclear' as an answer if the question stands beyond the deity's knowledge.
+```
+
+```
+Contagion (5th)
+Casting time: 1 action 
+Range: Touch
+Duration: 7 days
+Make a melee spell attack against one creature. If it can be afflicted with disease, roll a random disease.
+1. Eyefrost: the creature's eyes turn milky white and it is  blinded for the duration.
+2. Infernal Fever: the creature has disadvantage on STR saves, STR checks, and attack rolls using STR.
+3. Flesh rot: The creature's skin decays. It has disadvantage on CHA checks and vulnerability to all damage.
+4. Mindfire: The creatue shakes uncontrollably, having disadvantage on DEX checks, DEX saves, and attack rolls that use DEX.
+5.Slimy Doom: Uncontrollable bleeding, disadvantage on CON checks, CON saves, and whenever the creature takes damage, it becomes stunned until the end of it's next turn.
+6. Advanced corruption: Every turn, the creature must succeed a CON save, or gain a corruption.
+```
+
+```
+Dawn (5th)
+Casting time: 1 action 
+Range: 60ft
+Duration: Concentration, up to 1 minute
+You create a 30ft radius, 40ft-high cylindrical pillar of bright daylight centered on a point within range. When within 60ft of the pillar, you may move it up to 60ft as a bonus action on your turn. When it is created, all creature inside must make a CON save to halve 4d10 radiant damage, Creatures must also make this save when ending their turn inside the pillar.
+```
+
+```
+Dispel Evil and Good (5th)
+Casting time: 1 action
+Range: Self
+Duration: Concentration, up to 1 minute
+An aura appears around you and protects you from certain types of creatures. This includes celestials, elementals, fey, fiends, and undead. They have disadvantage on attacks against you for the duration.
+
+You may end the spell early as an action by touching a creature that is charmed, frightened, or posessed by a creature of the relevant type, ending that condition.
+
+You may otherwise end the spell as an action by making a melee spell attack against a creature of the relevant type. On a hit, you send them back to their home plane. The undead are sent to the hells, and the fey are sent back to the feywild.
+```
+
+```
+Flame Strike (5th)
+Casting time: 1 action 
+Range: 60ft
+Duration: Instantaneous
+You call down a pillar of divine fire on a point within range. Every creatrue in the 10ft radius, 40ft hight cylindrical area of the pillar must succeed a DEX save to halve 4d6 fire and 4d6 radiant damage. 
+```
+
+```
+Geas (5th)
+Casting time: 1 minute 
+Range: 60ft
+Duration: 30 days
+You make a magical command on a creature you can see within range, and it must succeed a WIS save or become charmed for the duration. While charmed, it receives 5d10 psychic damage every time it acts in a way that is directly counter to your command, but no more than once a day. You can can issue a command of your choice, provided the activity won't result in certain death for the creature. 
+```
+
+```
+Greater Restoration (5th)
+Casting time: 1 action
+Range: Touch
+Duration: Instantaneous
+You sprinkle diamond dust worth 100GP onto a creature to undue a debilitating effect. You may also regrow any of the creature's missing organs.
+```
+
+```
+Hallow (5th)
+Casting time: 24 hours
+Range: Touch
+Duration: Until Dispelled
+You touch a point and create a field that extends 60 feet. The following types of creatures cannot enter or cast spells into this area: celestials, elementals, fey, fiends, and undead. Any creature entering this area ceases to be charmed, frightened, or possessed upon entering the area.
+
+In addition, choose another effect.
+- Courage: Creatures within can't be frieghtened.
+- Darkness: Darkness fills the area, preventing normal light from illuminating the area.
+- Daylight: Light fills the area, extinguishing magical darkness.
+- Energy protection: Creatures in the area have resistance to one type of damage other than physical(bludgeoning, piercing, slashing).
+- Everlasting rest: Dead bodies cannot be in the area can't be turned into undead.
+- Extradimensional Interference: Creatures within the area can't travel using teleportation or crossing planes or dimensions.
+- Fear: Creatures inside the area are frightened.
+- Silence: No sound can enter or leave the area.
+- Tongues: All creatures that know at least one language may understand one another within the area.
+```
+
+```
+Holy Weapon (5th)
+Casting time: 1 bonus action 
+Range: Touch
+Duration: Concentration, up to 1 hour
+You touch a weapon and imbue it with holy power, causing it to emit 30ft of bright light, 30ft of dim light, and to deal an extra 2d8 radiant damage on a hit. It's now magical if it wasn't already.
+
+You may dismiss this spell and cause the weapon to emit a burst of radiance, effecting each creature of your choice that you can see within 30ft of the weapon. These targets must succeed a CON save to halve 4d8 radiant damage and avoid being blinded. A creature blinded by this spell can make a CON save at the end of it's turn to end the blindness.
+```
+
+```
+Insect Plague (5th)
+Casting time: 1 action
+Range: 300 feet
+Duration: Concentration, up to 10 minutes
+You designate a 20ft radius sphere centered on a point within range. It fills with locusts that swarm and bite, causing the area to become difficult terrain.
+
+When first cast, each creature in the sphere must make a CON save to halve 4d10 piercing damage. This same check must be made when a creature enters the area or ends it's turn there.
+```
+
+```
+Mass Cure Wounds (5th)
+Casting time: 1 action
+Range: 60ft
+Duration: Instantaneous
+You designate a 30ft radius sphere centered on a point within range. Up to six creatures in that sphere regain HP equal to 3d8 + your spellcasting mod. This spell doesn't effect undead or constructs.
+```
+
+```
+Planar Binding (5th)
+Casting time: 1 hour
+Range: 60ft
+Duration: 24 hours
+You cast this spell targeting a celestial, elemental, fey, or fiend to bind them to your service. They must be present for the entire casting of the spell, at the end of which they make a CHA save to avoid being bound.
+
+The creature follows your instructions to the letter, but may attempt to twist your words to change it's behavior.
+```
+
+```
+Raise Dead (5th)
+Casting time: 1 hour
+Range: Touch
+Duration: Instantaneous
+You touch a creature that has been dead for no more than 10 days. If it's soul is willing and able to return to it's body, it does and the creature wakes with 1HP.
+
+The creature's wounds heal, but missing body parts do not, meaning that organs vital to survival cause this spell to automatically fail.
+
+The creature has a -5 penalty to ability checks, skill checks, attack rolls, and saving throws. At the end of each rest, this penalty is reduced by 1 until it vanishes.
+```
+
+```
+Scrying (5th)
+Casting time: 10 minutes 
+Range: Self
+Duration: Concentration, up to 10 minutes
+Choose a creature that is on the same plane as you. Thje creature makes a WIS save, or else an invisible sensor appears within 10ft of the target, which allows you to see and hear as if you were standing in the sensor's place for the duration. The sensor appears as a limunous orbt to anyone capable of seeing invisible objects. The WIS save is modified by the following factors:
++5 Secondhand (You have heard of the target)
++0 Firsthand (You have met the target)
+-5 Familiar(You know the target well)
+-2 Likeness or picture
+-4 Possession or garment
+-10 Body part, lock of hair, bit of nail, or other bodily material.
+
+You may instead choose a location you have seen before, causing the sensor to appears in this location and remain stationary.
+```
+
 ```
 Curse (5th)
 Casting time: 1 action

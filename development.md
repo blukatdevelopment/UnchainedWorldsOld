@@ -22,7 +22,7 @@ Identity fections where rephrasing or images could help better explain ideas.
 Fill out missing spells. Do not use copy/paste, do not use exact wording.
 Cut out clarifications where possible.
 
-### Finish porting spells: priest
+### [DONE] Finish porting spells: priest
 Fill out missing spells. Do not use copy/paste, do not use exact wording.
 Cut out clarifications where possible.
 
@@ -39,7 +39,7 @@ Add 5-10 new maneuvers. Taking inspiration from paladin might help.
 Double-check for typos, formatting issues, or references to outdates rules.
 Identity fections where rephrasing or images could help better explain ideas.
 
-`Progress Bar: 0%[--------------------]`
+`Progress Bar: 10%[##------------------]`
 
 ## Backlog
 
