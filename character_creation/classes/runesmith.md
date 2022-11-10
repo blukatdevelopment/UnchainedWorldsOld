@@ -310,13 +310,13 @@ on itself.
 - Blazing Scorcher
 - Water Cannon
 - Eathbind
-- Arcane Lock [pending]
-- Blindness/Deafness [pending]
-- Blur [pending]
-- Borrowed Knowledge [pending]
-- Cloud of Daggers [pending]
-- Continual Flame [pending]
-- Crown of Madness [pending]
+- Arcane Lock
+- Blindness/Deafness
+- Blur
+- Borrowed Knowledge
+- Cloud of Daggers
+- Continual Flame
+- Crown of Madness
 - Darkness [pending]
 - Darkvision [pending]
 - Detect Thoughts [pending]

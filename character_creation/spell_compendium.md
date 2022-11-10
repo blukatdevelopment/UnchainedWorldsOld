@@ -1398,6 +1398,66 @@ increases by 1d6 for each level above 1st.
 ## 2nd level spells
 
 ```
+Arcane Lock (2nd)
+Casting Time: 1 action 
+Range: Touch
+Duration: Until Dispelled
+You touch a shut door, window, gate, chest, or other physical opening, and it becomes locked for the duration. You may designate creatures when you cast this spell, allowing yourself and them to to open the object normally. You may also set a password that allows the object to open when spoken. It's otherwise impossible to open the object until either the object is broken or the spell is dispelled or suppressed. The knock spell suppresses arcane lock for a 10 minute period.
+
+The DC to break open or pick increases by 10.
+```
+
+```
+Blindness/deafness (2nd)
+Casting Time: 1 action
+Range: 30ft
+Duration: 1 minute
+Choose one creature within range that you can see. They must make a CON save, or else be either blinded or deafened(your choice). At the end of each of their turns, they may remake the CON save to end the effect.
+```
+
+```
+Blur (2nd)
+Casting Time: 1 action 
+Range: Self
+Duration: Concentration, up to 1 minute
+Your apparent form is blurred, sporadically deforming and snapping between multiple positions within the space you currently occupy. Creatures targeting you have disadvantage on attack rolls, unless they don't rely on sight, or can see through illusions.
+```
+
+```
+Borrowed Knowledge (2nd)
+Casting Time: 1 action
+Range: Self
+Duration: 1 hour
+You channel the expertise of spirits from the past. Either choosea skill you lack proficiency for, and gain proficiency. Or, choose a skill you have proficiency for, and you now have expertise in it. Casting this spell ends any existing effects from it.
+```
+
+```
+Cloud of Daggers (2nd)
+Casting Time: 1 action
+Range: 60ft
+Duration: Concentration, up to 1 minute
+Designate a 5ft cube centered on a point within range, which is now filled with whirling, flying daggers. Any creatures that enter the spell's area take 4d4 slashing damage, as do creatures who start their turn in the space. 
+```
+
+```
+Continual Flame (2nd)
+Casting Time: 1 action
+Range: Touch
+Duration: Until Dispelled
+You pour 25GP worth of ruby dust onto a space. A ruby red flame burns with neither heat nor smoke, consuming no oxygen. The continual Flame cannot be moved, and if applied to an object that moves, will be suspended in the air.
+```
+
+```
+Crown of Madness (2nd)
+Casting Time: 1 action
+Range: 120ft
+Duration: Concentration, up to 1 minute
+Select a humanoid you can see within range. It must succeed a WIS save or else be charmed by you for the duration. A creature charmed by this spell must make a melee attack against another creature of your choice that you choose. It acts normally if you specify no target for it, and makes this attack before movement.
+
+On following turns, you may use your action to maintain this spell, allowing the humanodi to repeat their WIS save at the end of their turn.
+```
+
+```
 Radiant Weapon (2nd)
 Casting time: 1 action
 Range: touch
