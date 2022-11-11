@@ -308,7 +308,7 @@ lose two.
 
 ### 86 Can only sleep when...
 Your sleep is harder to achieve. Roll for the condition that must be met for
-you to experience a partial or full rest.
+you to experience a rest.
 
 ```
 +------+--------------------------------+

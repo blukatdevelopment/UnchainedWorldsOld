@@ -85,8 +85,8 @@ divide the total weight by 10 to find the number of scrap units you get. The
 the remainder is wasted.
 
 ### Smith
-During a partial or full rest, you may craft weapons using scrap.
-You may not craft cartridges, nor weapons that use cartridges.
+During a rest, you may craft weapons using scrap. You may not craft cartridges, 
+nor weapons that use cartridges.
 
 ### Hit point Increase
 Your maximum hit points increase by 1d6+CON.
