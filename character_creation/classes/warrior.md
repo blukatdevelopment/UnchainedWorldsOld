@@ -103,7 +103,8 @@ higher than your current max hit points, you may keep it.
 When you use your action to make an attack, you may make two attacks instead.
 
 ### Ability Score increase
-You may increase one ability score by 2, or you can increase two ability scores of your choice by 1. You cannot increase an ability score past 20.
+You may increase one ability score by 2, or you can increase two ability scores
+of your choice by 1. You cannot increase an ability score past 20.
 
 ## Warrior Maneuvers
 

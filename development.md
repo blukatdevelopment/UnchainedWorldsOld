@@ -6,15 +6,15 @@
 Double-check for typos, formatting issues, or references to outdates rules.
 Identity fections where rephrasing or images could help better explain ideas.
 
-### Proofread class: Colossus
+### [DONE]Proofread class: Colossus
 Double-check for typos, formatting issues, or references to outdates rules.
 Identity fections where rephrasing or images could help better explain ideas.
 
-### Proofread class: Commoner
+### [DONE]Proofread class: Commoner
 Double-check for typos, formatting issues, or references to outdates rules.
 Identity fections where rephrasing or images could help better explain ideas.
 
-### Proofread class: Gunsmith
+### [DONE]Proofread class: Gunsmith
 Double-check for typos, formatting issues, or references to outdates rules.
 Identity fections where rephrasing or images could help better explain ideas.
 
@@ -22,7 +22,7 @@ Identity fections where rephrasing or images could help better explain ideas.
 Fill out missing spells. Do not use copy/paste, do not use exact wording.
 Cut out clarifications where possible.
 
-### [DONE] Finish porting spells: priest
+### [DONE]Finish porting spells: priest
 Fill out missing spells. Do not use copy/paste, do not use exact wording.
 Cut out clarifications where possible.
 
@@ -35,11 +35,11 @@ Put some positive mutations in the first 25% of the list, diversify middle of li
 ### [DONE]Add maneuvers to warrior
 Add 5-10 new maneuvers. Taking inspiration from paladin might help.
 
-### Proofread class: psion
+### [DONE]Proofread class: psion
 Double-check for typos, formatting issues, or references to outdates rules.
 Identity fections where rephrasing or images could help better explain ideas.
 
-`Progress Bar: 40%[########------------]`
+`Progress Bar: 60%[############--------]`
 
 ## Backlog
 
@@ -71,8 +71,13 @@ Identity fections where rephrasing or images could help better explain ideas.
 Fill out missing spells. Do not use copy/paste, do not use exact wording.
 Cut out clarifications where possible.
 
+### Revamp Psion
+actually create those 'psionic abilities' we mentioned earlier
+subclasses? who knows.
+
 ### Edit body_types.md
-Check to make sure descriptions make sense, are formatted reasonably, and maybe add a tiny bit more details, such as a warning about limitations of tiny/huge folk.
+Check to make sure descriptions make sense, are formatted reasonably, and maybe 
+add a tiny bit more details, such as a warning about limitations of tiny/huge folk.
 
 ### Create soulforger subclass: Technomancer
 Gain abilities via prosthetics, create squad of forged followers.
@@ -93,22 +98,30 @@ Full caster. Build/shape spells by selecting correspondences. Ritual magic.
 Animistic religious full caster. Wildshape
 
 ### Create class: Namer
-Half-caster that combines element-based magic(air, fire, earth, water) with martial abilities.
+Half-caster that combines element-based magic(air, fire, earth, water) with 
+martial abilities.
 
-### Create class: Sorcer
-Full caster that can cast infinitely. Learning spells corrupts the sorcerer. Every cast requires a success roll. On a crit fail, bad things happen.
+### Create class: Sorcerer
+Full caster that can cast infinitely. Learning spells corrupts the sorcerer. 
+Every cast requires a success roll. On a crit fail, bad things happen.
 
 ### Create class: Bloodbender
-Half-caster that gains magic resource by drinking the blood of self/others. Gains abilities powered by that same resource.
+Half-caster that gains magic resource by drinking the blood of self/others. 
+Gains abilities powered by that same resource.
 
 ### Create class: Dragonborn
-Half-caster that combines dragon-esque magic(breath attacks, flying, etc) with martial abilities.
+Half-caster that combines dragon-esque magic(breath attacks, flying, etc) with 
+martial abilities.
 
 ### Create class: Monk
-Martial class with dual health bar of meat(normal regen) and ki(which replenishes quickly). Menu of abilities that eat ki to do martial arts/shonen moves.
+Martial class with dual health bar of meat(normal regen) and ki(which 
+replenishes quickly). Menu of abilities that eat ki to do martial arts/shonen 
+moves.
 
 ### Create class: Cultist
-Evil version of priest: has patron that makes requests in order to build up spellcasting resources, which can be infinitely banked. Spells are tattooed onto self and followers.
+Evil version of priest: has patron that makes requests in order to build up 
+spellcasting resources, which can be infinitely banked. Spells are tattooed 
+onto self and followers.
 
 ### Illustrate culture: burden folk
 ### Illustrate culture: deep folk
@@ -133,13 +146,17 @@ Cram this era into timeline, maybe geography as well?
 ### Finish Setting guide: Crucible
 
 ### Finish book_of_maladies.md
-Put some positive mutations in the first 25% of the list, diversify middle of list (so that each of the 1d100 listing has a subtable.) Move this into a separate corruption book, maybe?
+Put some positive mutations in the first 25% of the list, diversify middle of 
+list (so that each of the 1d100 listing has a subtable.) Move this into a 
+separate corruption book, maybe?
 
 ### Add more magic items
-Create and add maybe 25 more magic items. This can be re-added to the backlog when queued up for a release.
+Create and add maybe 25 more magic items. This can be re-added to the backlog 
+when queued up for a release.
 
 ### Create a document with some random loot tables in it
-Covering things like monster loot, hoard loot, magic items, etc, etc that can be rolled in the moment for procedural loot.
+Covering things like monster loot, hoard loot, magic items, etc, etc that can 
+be rolled in the moment for procedural loot.
 
 ### Finish adventure module: exorcism_of_coalsborrough
 ### Finish adventure module: kidnappings_in_austerity

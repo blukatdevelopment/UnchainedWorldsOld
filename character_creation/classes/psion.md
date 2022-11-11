@@ -8,7 +8,7 @@
 # \_|  |___/_|\___/|_| |_|                                                     #
 ################################################################################
 ```
-Your mind extends beyond itself, an invisible appendeage that allows you to
+Your mind extends beyond itself, an invisible appendage that allows you to
 reach farther than your arms, see farther than your eyes, and to peer into and
 trifle with the minds of others. There is no outward evidence of your
 difference, and it is unclear whether you will ever meet someone
@@ -61,11 +61,11 @@ SL = Spell Level
 |   1 |      0| 1d4 | +1  | -- |  0 | Invisible Hand, Silent Voice                         |
 |   2 |    300| 2d4 | +1  | D2 |  1 | Psionic Guidance, Hit point Increase                 |
 |   3 |    900| 3d4 | +2  | D4 |  1 | Psionic Spellcasting, Meditation, Hit point Increase |
-|   4 |   1800| 4d4 | +2  | D4 |  1 | Psionic Ability, Hit point re-roll                   |
+|   4 |   1800| 4d4 | +2  | D4 |  1 | Hit point re-roll                                    |
 |   5 |   3600| 5d4 | +2  | D6 |  2 | Ability Score Increase                               |
-|   6 |   6100| 6d4 | +2  | D6 |  2 | Psionic Ability                                      |
+|   6 |   6100| 6d4 | +2  | D6 |  2 |                                                      |
 |   7 |   9100| 7d4 | +3  | D6 |  3 |                                                      |
-|   8 |  13100| 8d4 | +3  | D6 |  3 | Psionic Ability                                      |
+|   8 |  13100| 8d4 | +3  | D6 |  3 |                                                      |
 |   9 |  22600| 9d4 | +4  | D8 |  4 |                                                      |
 |  10 |  44600|10d4 | +4  | D8 |  4 | Ability Score Increase                               |
 +-----+-------+-----+-----+----+----+------------------------------------------------------+
@@ -98,7 +98,7 @@ in your language, and may reply with a message no longer than 6 seconds.
 
 #### From higher levels
 When cast as a first level spell, you may send your message to up to two
-creatures instead of one. The range increase to 240 feet.
+creatures instead of one. The range increases to 240 feet.
 
 When cast as a second level spell, you may send your message to up to three
 creatures instead of one, you communicate through solid objects.
@@ -111,14 +111,6 @@ creature’s attack, ability check, skill check, or saving throw.
 
 ### Hit point Increase
 Your maximum hit points increase by 1d4+CON.
-
-### Hit point Increase
-Your maximum hit points increase by 1d4+CON.
-
-### Hit point re-roll
-Now, and again each time you gain a level from now on, you recalculate your hit
-points. Roll 3d4 and add your CON modifier three times. If the value rolled is
-higher than your current max hit points, you may keep it.
 
 ### Psionic Spellcasting
 You have awakened latent abilities. They will grow stronger as you grow further
@@ -141,8 +133,16 @@ with another of the same level.
 
 ### Meditation
 When your psionic die's current size is D2 or higher, you may spend 10 minutes
-and one hit die to increase it's size by one. Your psionic die may not be larger
+and one hit die to increase its size by one. Your psionic die may not be larger
 than the maximum size for your level, indicated in the class table above.
+
+### Hit point Increase
+Your maximum hit points increase by 1d4+CON.
+
+### Hit point re-roll
+Now, and again each time you gain a level from now on, you recalculate your hit
+points. Roll 3d4 and add your CON modifier three times. If the value rolled is
+higher than your current max hit points, you may keep it.
 
 ### Ability Score increase
 You may increase one ability score by 2, or you can increase two ability scores 

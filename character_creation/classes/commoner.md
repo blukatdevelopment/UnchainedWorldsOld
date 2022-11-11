@@ -16,7 +16,17 @@ world, you know that you can rely on neither spell nor sword to carry you on.
 You start with 1d4+CON hit points.
 
 ## Proficiencies
-- None
+```
++---------------+---------------+
+| Armor         | None          |
++---------------+---------------+
+| Weapons       | None          |
++---------------+---------------+
+| Tools         | None          |
++---------------+---------------+
+| Saving Throws | None          |
++---------------+---------------+
+```
 
 ## Skills
 - None
@@ -25,12 +35,16 @@ You start with 1d4+CON hit points.
 - None
 
 ```
-+-------+--------------------+-------------------+--------+-------------------+
-| Level | Stamina dice       | Proficiency Bonus | Min XP |       Feats       |
-+-------+--------------------+-------------------+--------+-------------------+
-|     0 | 1d4                | +0                |      0 |                   |
-|     1 | 1d4                | +0                |    100 | Training Montage  |
-+-------+--------------------+-------------------+--------+-------------------+
+LVL = level
+XP = total experience points needed for level
+SD = Stamina Dice
+Prof = proficiency bonus
++-----+-------+-----+-----+--------------------+
+| LVL |XP     | SD  |Prof |  Features          |
++-----+-------+-----+-----+--------------------+
+|   1 |     0 | 1d4 | +0  |                    |
+|   2 |   100 | 1d4 | +0  |  Training Montage  |
++-----+-------+-----+-----+--------------------+
 ```
 
 ## Training Montage

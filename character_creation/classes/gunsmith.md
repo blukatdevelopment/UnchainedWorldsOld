@@ -11,7 +11,7 @@
 Maybe you dispatch your enemies from a secure vantage point, draw at
 high noon, or bring down buildings. You're a master of steel, lead, 
 and gunpowder. A cold, calculating killer who calls thunder down on those
-unlucky enough to face the business end of your arsennal, you represent the
+unlucky enough to face the business end of your arsenal, you represent the
 tip of the spear in military innovation.
 
 ## Starting hit points
@@ -43,7 +43,7 @@ Choose 2 from the following:
 - Sleight of Hand
 
 ## Starting Equipment
-- Either (A) a musket, (B) one revolver, or (C) four pocket pistols
+- Choose one from either a musket, one revolver, or four pocket pistols
 - 20 medieval bullets
 - A shortsword or 2 daggers
 - Backpack
@@ -59,34 +59,30 @@ XP = total experience points needed for level
 SD = Stamina Dice
 Prof = proficiency bonus
 MNVS = Maneuvers
-+-----+-------+-----+-----+-----+--------------------------------+
-| LVL | XP    | SD  |Prof |MVNS |         Features               |
-+-----+-------+-----+-----+-----+--------------------------------+
-|   1 |     0 | 1d6 | +1  |   1 | Scrap, Smith                   |
-|   2 |   300 | 2d6 | +1  |   1 | Hit point Increase             |
-|   3 |   900 | 3d6 | +2  |   2 | Hit point Increase             |
-|   4 |  1800 | 4d6 | +2  |   2 | Second Wind, Hit point re-roll |
-|   5 |  3600 | 5d6 | +2  |   3 | Ability Score Increase         |
-|   6 |  6100 | 6d6 | +2  |   4 |                                |
-|   7 |  9100 | 7d6 | +3  |   5 | Advanced Smith                 |
-|   8 | 13100 | 8d6 | +3  |   5 | Ability Score Increase         |
-|   9 | 22600 | 9d6 | +4  |   6 |                                |
-|  10 | 44600 |10d6 | +4  |   6 | Ability Score Increase         |
-+-----+-------+-----+-----+-----+--------------------------------+
++-----+-------+-----+-----+-----+--------------------------------------------+
+| LVL | XP    | SD  |Prof |MVNS |         Features                           |
++-----+-------+-----+-----+-----+--------------------------------------------+
+|   1 |     0 | 1d6 | +1  |   1 | Scrap, Smith                               |
+|   2 |   300 | 2d6 | +1  |   1 | Hit point Increase, Gunsmith Maneuvers     |
+|   3 |   900 | 3d6 | +2  |   2 | Hit point Increase                         |
+|   4 |  1800 | 4d6 | +2  |   2 | Hit point re-roll, Second Wind             |
+|   5 |  3600 | 5d6 | +2  |   3 | Ability Score Increase                     |
+|   6 |  6100 | 6d6 | +2  |   4 |                                            |
+|   7 |  9100 | 7d6 | +3  |   5 | Advanced Smith                             |
+|   8 | 13100 | 8d6 | +3  |   5 | Ability Score Increase                     |
+|   9 | 22600 | 9d6 | +4  |   6 |                                            |
+|  10 | 44600 |10d6 | +4  |   6 | Ability Score Increase                     |
++-----+-------+-----+-----+-----+--------------------------------------------+
 ```
 
 ## Features
-
-### Gunsmith Maneuvers
-You learn to perform maneuvers from the maneuvers list. The number of maneuvers
-you know can be found in the list of the maneuvers column.
 
 ### Scrap
 One unit of scrap consists of 10lb of iron, chemicals, and other metal. It can
 be purchased from most shops for 1GP. During a rest, you may
 break down metal items into scrap. When you break down a batch of metal items,
-divide the total weight by 10 to find the number scrap units you get. The
-remainder is wasted.
+divide the total weight by 10 to find the number of scrap units you get. The
+the remainder is wasted.
 
 ### Smith
 During a partial or full rest, you may craft weapons using scrap.
@@ -94,6 +90,10 @@ You may not craft cartridges, nor weapons that use cartridges.
 
 ### Hit point Increase
 Your maximum hit points increase by 1d6+CON.
+
+### Gunsmith Maneuvers
+You learn to perform one maneuver from the maneuvers list. The maneuvers column
+shows the number of maneuvers you know at any given level.
 
 ### Hit point Increase
 Your maximum hit points increase by 1d6+CON.
@@ -105,8 +105,11 @@ higher than your current max hit points, you may keep it.
 
 ### Second Wind
 You may use your bonus action to take a deep breath and brace yourself for more
-carnage. You must have at least one stamina die, which you expend by rolling.
-You heal the rolled amount of hit points.
+carnage. You expend one stamina dice and heal the amount rolled.
+
+### Ability Score increase
+You may increase one ability score by 2, or you can increase two ability scores
+of your choice by 1. You cannot increase an ability score past 20.
 
 ### Advanced Smith
 You may now craft cartridges and weapons that use cartridges.
@@ -114,16 +117,16 @@ You may now craft cartridges and weapons that use cartridges.
 ## Maneuvers
 
 ### Humanoid shield
-When you grapple a creature and are targeted by a ranged weapon or spell attack,
+When you are grappling a creature and are the target of a ranged attack,
 you may use your reaction to add +5 to your AC for the purpose of that attack.
 If the attack would have otherwise hit you, the grappled creature receives this
-hit instead.
+hit instead, taking the full damage.
 
 ### Execution
 When you are within 5ft of an enemy that does not see you, your expertise with
 gunning allows you to aim to kill. You may make a ranged weapon attack without
-receiveving disadvantage from close range. If this attack hits, you deal an
-additional 3d8 damage.
+receiving disadvantage from close range. If this attack hits, you deal an
+additional 3d8 damage of the same type.
 
 ### Spray and Pray
 If firing a weapon with the reload property, you may use your action to make
@@ -139,7 +142,7 @@ your line of sight, you may target it with one of your 5 shots. This attack has
 disadvantage, but forces the creature to remake the wisdom saving throw even
 if it misses.
 
-### Fire around cover
+### Blind Fire
 You've learned to blindly fire from behind cover. When you are behind cover
 from an enemy, you may hold your weapon out of cover and attack with it. When
 doing so, you receive a -5 to your attack roll. Making an attack this way does
@@ -152,11 +155,11 @@ your attack roll when you do so. On a hit, the target lets go of the item. If
 it is not attached to them in some way, it falls to the ground.
 
 ### Called shot
-You target a specific body part such as a leg, arm, hand, or eye. At the DM's
-discretion, this attack receives either a -2 or -5 penalty to the attack roll.
-On a hit, your damage is applied directly to that body part. This may effect
-a creature's mobility, senses, or deal an additional 1d8 damage by targeting
-a vital body part.
+You target a specific body part such as a leg, arm, hand, or eye. At the 
+Keeper's discretion, this attack receives either a -2 or -5 penalty to the 
+attack roll. On a hit, your damage is applied directly to that body part. 
+This may effect a creature's mobility, senses, or deal an additional 1d8 damage
+by targeting a vital body part.
 
 ### Quick draw
 If you are targeted by a ranged weapon attack and your hands are empty, you may
@@ -169,11 +172,12 @@ You're good at getting the most out of long barrels. With any two-handed
 ranged weapon, you may use your bonus action to aim carefully. Doing so grants
 your next shot this turn advantage.
 
-### Dual-wielding
-You've learned to wield ranged weapons with both hands. The weapons must be
-one-handed, but do not require the light property. If one or more of the weapons
-have the reloading property, you must use an action on the next turn to reload
-both weapons. You may store or draw two of such weapons at the same time.
+### Akimbo
+You've learned how to shoot two one-handed firearms at once. The firearms must
+be one-handed, but do not require the light property. Reloading takes a full 
+action when dual weilding firearms, resulting in both firearms being reloaded. 
+Additionally, you are capable of storing or drawing two one handed firearms 
+during the same object interaction.
 
 ### Trigger Guard Catch
 When a blade(dagger, shortsword, longsword, rapier) targets you with an attack
@@ -208,7 +212,7 @@ more ammunition, you may use your reaction to fire an additional time. You
 cannot use double-tap if you have fired more than once already on this turn.
 
 ### Action Surge
-You may now expend a stamina die take one additional action this turn. You may
+You may expend a stamina die and take one additional action this turn. You may
 only use action surge once per turn.
 
 ## Firearms
@@ -228,7 +232,7 @@ only use action surge once per turn.
 | Medieval Bullet(20)|        |         |      |     4 |          2 |                       |
 | Cartridge(20)      |        |         |      |     4 |          2 |                       |
 +--------------------+--------+---------+------+-------+------------+-----------------------+
-* Uses Cartridges
+* = Uses Cartridges
 ```
 
 ### Properties
@@ -243,7 +247,7 @@ Instead of a normal ranged weapon attack, a weapon with the burst fire property
 may fire ten rounds of ammunition in rapid succession on a ten foot cube. Every
 creature inside the cube must succeed a DC15 dex saving throw or receive the
 weapon’s normal damage. This consumes ten rounds of ammunition. If the creature
-is beyond the weapon's normal crange, the save is made with advantage. If
+is beyond the weapon's normal range, the save is made with advantage. If
 the creature is within half the weapon's normal range, the creature is hit with
 twice the weapon's normal damage dice.
 
@@ -265,10 +269,15 @@ dex saving throw, taking 3d6 fire damage on a failure and half as much on a
 success.
 
 ### Dynamite
-You may use your action to throw a stick of dynamite at a point within 30 feet.
-It explodes on impact. All creatures within 15 feet of the bomb must make a DC15
-dex saving throw, taking 3d6 fire damage on a failure and half as much on a
-success.
+You may use your action to throw a stick or bundle of dynamite at a point 
+within 30 feet. It explodes on impact. All creatures within 15 feet of the bomb
+must make a DC15 dex saving throw, taking 3d6 fire damage on a failure and half 
+as much on a success. You can attach up to 3 sticks of dynamite together. Each 
+stick increases the damage dealt by 3d6
 
-You can attach up to 3 sticks of dynamite together. Each stick increases the
-damage dealt by 3d
+### Smoke Bomb
+You may use your action to throw an impact smoke bomb at a point within 30 feet.
+It explodes upon impact, forming a cloud of smoke that fills a 20 food diameter
+sphere. The smoke heavily obscures any creature behind or inside it. After a 
+minute the smoke subsides, taking 1/4th as long in a windy or well ventilted 
+area.
