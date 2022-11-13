@@ -69,9 +69,7 @@ You may choose between mage, rogue, or fighter.
 
 ### Mage
 ![Mage](../img/mage.jpg?raw=true "Mage")
-Mages can use staves and daggers, but cannot wear armor. You start with a
-spellbook to store your spells in, a wand to cast spells with, robed common
-clothes, 10 torches, 10 days of rations, and 10 gold pieces.
+Mages can use staves and daggers, but cannot wear armor. You start with a spellbook to store your spells in, a wand to cast spells with, robes, a staff, 10 torches, 10 days of rations, and 10 gold pieces.
 ```
 +-----+------+-----+--------+------------------+
 | LVL |  XP  | HP  | SPELLS |       Feat       |
@@ -84,12 +82,7 @@ clothes, 10 torches, 10 days of rations, and 10 gold pieces.
 +-----+------+-----+--------+------------------+
 ```
 #### Spellcasting
-Chose either INT or WIS as your spellcasting modifier. When you make
-spell attack rolls, add this modifier. When targets make saving throws to resist
-your spells, they roll against 10 + spellcasting modifier. You know 2 spell at
-first level, and learn a new spells according to the spells column. You can cast
-each spell you know once per rest. You may not have multiple copies of a spell
-prepared at once.
+Chose either INT or WIS as your spellcasting modifier. When you make spell attack rolls, add this modifier. When targets make saving throws to resist your spells, they roll against 10 + spellcasting modifier. You know 2 spell at first level, and learn a new spells according to the spells column. You can cast each spell you know once per rest. You may not have multiple copies of a spell prepared at once.
 
 #### Improve Spell
 Pick one spell. Make some change or improvement to it. Work with the keeper.
@@ -138,7 +131,7 @@ You may create your own spell. It may be any spell level. Work with the keeper.
 ![Rogue](../img/rogue.jpg?raw=true "Rogue")
 Rogues can use one-handed weapons as well as bows, and can wear light armor.
 You start with two daggers, a bow with 20 arrows, 10 torches, 10 days of
-rations, crowbar, 50ft hempen rope, hooded common clothes, and 10 gold pieces.
+rations, crowbar, 50ft hempen rope, dark hooded clothes, and 10 gold pieces.
 ```
 +-----+------+-----+--------+
 | LVL |  XP  | HP  | Tricks |
@@ -192,7 +185,7 @@ Fighters can use all weapons and armor. Choose one of the following options for
 starting gear:
 1. Sword, shield, medium armor
 2. sword, bow, 20 arrows, light armor\
-In addition to your choice, add 10 torches, 10 days of rations, athletic common clothes, 50ft hempen rope, and 10 gold
+In addition to your choice, add 10 torches, 10 days of rations, athletic clothes, 50ft hempen rope, and 10 gold
 pieces.
 ```
 +-----+------+------+------------+-----------------------+
@@ -207,17 +200,13 @@ pieces.
 ```
 
 #### Power Move
-You may gain a 1d12 bonus on any required checks when you declare an action
-such as swinging from a chandelier, pushing someone off a cliff, or glaring at
-a creature to intimidate them. Once you use this ability, you cannot use it
-again until you complete a rest or exit a combat encounter.
+You may gain a 1d12 bonus on any required checks when you declare an action such as swinging from a chandelier, pushing someone off a cliff, or glaring at a creature to intimidate them. Once you use this ability, you cannot use it again until you complete a rest or exit a combat encounter.
 
 #### Weapon Training
 Pick 3 types of weapons. You gain a +2 bonus to attacks made with them.
 
 #### Extra atack
-Whenever you take the attack action, you may make two attacks, or three if you
-are making use of the dual wielder perk.
+Whenever you take the attack action, you may make two attacks, or three if you are making use of the dual wielder perk.
 
 #### Techniques (Level 1 minimum)
 1. Dual wielder: When wielding two Minor or Martial weapons and taking the attack action, you may make an additonal attack.
@@ -258,24 +247,17 @@ are making use of the dual wielder perk.
 ## Additional stats
 
 ### Hit points
-Hit points represent your physical well-being, reducing when you take damage.
-When your hit points fall to 0, you are dead. When you roll your hit points
-, you may add your constitution modifier for each die rolled.
+Hit points represent your physical well-being, reducing when you take damage. When your hit points fall to 0, you are dead. When you roll your hit points, you may add your constitution modifier for each die rolled.
 
 ### Armor class
-When an attack is made, it must meet or exceed the target's armor class(AC) to
-hit. See the armor section to determine your AC.
+When an attack is made, it must meet or exceed the target's armor class(AC) to hit. See the armor section to determine your AC.
 
 ### Carry weight
-Carry weight decides how many pounds of stuff you can carry and wear on your
-person. Your carry weight is equal to 7 times your strength score. If your
-strength score is 10, for instance, you can carry 70 lbs on you.
+Carry weight decides how many pounds of stuff you can carry and wear on your person. Your carry weight is equal to 7 times your strength score. If your strength score is 10, for instance, you can carry 70 lbs on you.
 
 # Combat
 ## Initiative
-Each combatant rolls a 1d20 and adds their dexterity modifier to the roll. Turn order reflects the roll. On a tie, 
-the combatant with the highest dexterity goes first. When a tie remains after comparing dexterity, combatants each roll a 1d20 and the highest
-goes first.
+Each combatant rolls a 1d20 and adds their dexterity modifier to the roll. Turn order reflects the roll. On a tie, the combatant with the highest dexterity goes first. When a tie remains after comparing dexterity, combatants each roll a 1d20 and the highest goes first.
 
 ## On your turn
 On each turn, you receive the following:
@@ -299,13 +281,10 @@ Roll a 1d20, then add your Strength(for melee) or Dexterity(for ranged) modifier
 If you are hidden from an enemy, or attacking a prone enemy, or otherwise have an advantage determined by your keeper, you gain a +5 bonus on the attack roll you make.
 
 ### Free object interactions
-Some actions such as storing or retrieving an object from your inventory, opening a door, speaking a six second message, or picking up an object
-from the ground.
+Some actions such as storing or retrieving an object from your inventory, opening a door, speaking a six second message, or picking up an object from the ground.
 
 ### Movement
-Combat is centered around 5ft increments of distance. You may move in these increments. Once you have moved your maximum movement speed
-in one turn, you cannot move again until the start of your next turn. Moving 5ft counts against all your movement speeds. This means
-if you have 30ft movement and 15 flying, you may fly 15ft and walk 15ft, but you cannot walk 30ft and then fly 15ft.
+Combat is centered around 5ft increments of distance. You may move in these increments. Once you have moved your maximum movement speed in one turn, you cannot move again until the start of your next turn. Moving 5ft counts against all your movement speeds. This means if you have 30ft movement and 15 flying, you may fly 15ft and walk 15ft, but you cannot walk 30ft and then fly 15ft.
 
 ## Checklist
 If you do every step on this list, your character is done.
@@ -320,15 +299,14 @@ If you do every step on this list, your character is done.
 ## Equipment and items
 
 ### Weapons
-All weapons deal 1d6 damage, with melee using strength. If you attack unarmed,
-your attack does damage equal to 1 + your strength modifier(minimum 1).
+All weapons deal 1d6 damage, with melee using strength. If you attack unarmed, your attack does damage equal to 1 + your strength modifier(minimum 1).
 ```
 +-------------|--------------------------------------------+--------+------+
 | Class       |                   Weapon                   | Weight | Cost |
 +-------------|--------------------------------------------+--------+------+
-|  Minor      | Daggers, clubs, sickles                    |  2 lb. |    5 |
+|  Minor      | Daggers, clubs, sickles, staves            |  2 lb. |    5 |
 |  Ranged     | Bows, crossbows                            |  5 lb. |   25 |
-|  Martial    | Swords, axes, war hammers, maces, staves   |  5 lb. |   45 |
+|  Martial    | Swords, axes, war hammers, maces           |  5 lb. |   45 |
 |  Great      | Greataxes, greatswords, lances, battleaxes |  9 lb. |   80 |
 +-------------|--------------------------------------------+--------+------+
 ```
@@ -344,7 +322,6 @@ Adventuring requires a great many things. Here are some of them.
 |             Item             |   Cost   |    Weight    |
 +------------------------------+----------+--------------+
 | Arrows (20)                  | 1 gp     | 1 lb.        |
-| Staff                        | 5 gp     | 4 lb.        |
 | Wand                         | 10 gp    | 1 lb.        |
 | Backpack                     | 2 gp     | 5 lb.        |
 | Bedroll                      | 1 gp     | 7 lb.        |
