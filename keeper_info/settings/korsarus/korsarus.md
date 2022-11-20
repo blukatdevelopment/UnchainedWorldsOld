@@ -17,7 +17,7 @@
 
 ### Creation
 ![Creation](../../../img/korsarus_creation.jpg?raw=true "Creation")\
-The world was woven together by a pantheon of founder divines. The founder divines created the world's plants and animals.
+The world was woven together by a pantheon of divines known as the weavers. The weavers created the world's plants and animals.
 
 ### Divine war
 Soon, other divines were drawn to the world by it's beauty and began making many different peoples. Arguments over influence and territory lead to war, and many divines killed one another in a brutal war.

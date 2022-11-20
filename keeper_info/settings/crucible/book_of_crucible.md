@@ -1,43 +1,57 @@
 # Book of Crucible
 Hey, blukat speaking. This is just some world-building for the default setting in my campaigns and modules. Feel free to lift what you want from here in your own games, like with all content in Unchained Worlds.
 
-## History
+# Time
+## Epochs
+
 ### Divine Age
+#### Creation
 ![Creation](../../../img/korsarus_creation.jpg?raw=true "Creation")\
-- A few deities wove the material plane, known as weavers
-- Thousands more came to create the various forms of life
-- War broke out, casualities unspeakable
-- Weavers were killed, their corpses leaving "god bones"
-- Most divines left for their own realms
-- Many divines still interact via temples and cults
-- Some divines still interact via avatars
+The world was woven together by a pantheon of divines known as the weavers. The weavers created the world's plants and animals.
 
-### Dragon Age
-- Lizards ate the marrow from god bones, becoming dragons
-- Dragons became powerful and intelligent
-- Dragons organized under strict hierarchy of mutual defense
-- All other life became pawns and livestock in dragon wars
-- Dragons trained and hoarded dragonslayers for mutually assured destruction defense
+#### Divine war
+Soon, other divines were drawn to the world by it's beauty and began making many different peoples. Arguments over influence and territory lead to war, and many divines killed one another in a brutal war.
 
-### Titan Age
-- Titan dragon slayers usurped dragons
-- Uprising against dragons spread worldwide
-- Most of the powerful dragons were beheaded
-- Surviving powerful dragons slumbered
-- Lesser dragons retreated to wilderness
-- Titan empire was as brutal as dragon's rule
-- titans purged scientists and mages, creating dark age
+#### Divine Exodus
+Many of the survivng divines combined to form powerful divine entities composed of multiple aspects and left the world. Some went to Celestia, while others created the Nine Hells. Some minor divines remained on the world, hiding from the others.
 
-### Human Era
-- Deteriorating Titan empire full of problems
-- Humans unite oppressed, overthrow titans
-- Several human empires rise, engage in war
-- Non-humans are assimilated or expelled by human empires
+# Dragon Age
 
-## Time
+### Birth of the dragons
+Not long after the divines left, their bones were feasted upon by plants and animals. Many of these primordial creatures grew in size and figure, although the greatest of these creatures were the dragons, who arose from mere lizards. Dragons differed from the other creatures in that they gained vast intellect that made excellent use of their extremely long lifespans.
 
-### Epochs
+### Draconian Order
+Dragons soon organized, creating an entity that ruled the world with an iron claw. Dragons were organized under a strict hierarchy, lesser dragons tasked with directly controling the inhabitants of small sections of land, and greater dragons tasked with managing other dragons.
 
+### Dragon Wars
+Though the order forbid dragons from killing one another, they did approve of war as a mechanism to settle disputes. Dragons funneled a great deal of resources into maintaining standing armies for such, often playing bluffing games with one another based on the prowess of their forces in lieu of actually staging battles.
+
+### Dragon Slayers
+The most highly-trained soldiers of the dragons became capable of killing dragons. While the act of deploying dragon slayers would have resulted in immediate and overwhelming retatiation by all dragons, simply posessing dragon slayers was not forbidden. As a result, an arms race to produce the most potent dragon slayer core rippled through all the dragon territories.
+
+### The Great Slaying
+Maddened by corruption, a great elder dragon ordered for the slaying of all others lower than him in the hierarchy. This precipitated a schism among the higher ranks, and soon several factions of dragons were at one another's throats in a war marked by the slaying of fellow dragons. Many dragons were lost at war with one another, and many more went into hiding, abandoning their subjects. An inflection point came when the slayers banded together to finish destroying the Draconian order.
+
+## Titan Age
+
+### Titan Rule
+Rather than freeing the peoples who were so accustomed to living beneath draconic rule, the dragon slayers replaced the Draconic Order with their own system of rule. A hierarchy formed again, this time by raw power alone. Those at the top were named Titans. Any dispute, even that for the throne, could be solved by mortal combat in the Titan's graveyard, a stretch of uninhabited desert where the bodies of innumerable titans came to rest.
+
+### Titanic Progress
+The Titan age was one of unprecedented growth. Resources were directed into producing food, shelter, and goods for the world to flourish with. Great strides in science were made, and innovations utilizing the remaining bones of the divines were put to use to produce a surplus never seen before nor after. The expansion was a time of contradiction as well. Innovation followed strict siloing in order to consolidate power beneath particular titans. A class of tech priests were closely guarded and regularly assessed for their loyalty. Those who lacked zealous fervor for their overlords were executed immediately. A class of tech scribes beneath tech priests became literate with using, but never repairing nor reproducing the technology they relied on in their everyday life. These two classes resided exclusively in walled cities, where they could be carefully managed by the Titans.\
+\
+The majority of the world's population fell below those two classes, and were forbidden from entering the walled cities without passing inspection with rigorous criteria. Those cities which made public display of accumulated titan technology were routinely purged. This meant that the majority of the world benefited only from hand tools, participating in a system of broad resource extraction, funneling those resources into Titan cities.
+
+### The Titanic Collapse
+The standards for remaining in the walled cities continued to climb, resulting in purging tech priests and tech scribes. Backlash and subsequent purging became fed into each other, leading to much knowledge being permanently lost. An influx of new, loyal priests and scribes only managed to maintain the population while draining it of the knowledge it needed to survive. Increasing scarcity of precious metals and the bones of the divines only compounded the phenomenon of lost tech. It was not long before Titan states launched invasions of one another to retrieve these intensely precious artifacts. Libraries were purged in spite, both by defenders and invaders. Factories and labs received similar fates, leading to a purge of Titan knowledge. Worse yet, the weapons used by the Titans rendered most of their battlefields contaminated with powerful corruption agents, and subsequently monstrosities.
+
+## Age of man
+
+### Empire of man
+Those who usurped the thrones of the Titans organized to become the empire of man. One by one, Titan states fell until the last of the Titan rulers had been slayed. 
+
+### The severing
+So soon as the empire lacked an enemy, resistance heightened. Resistance fighters, who had filled the ranks of the Empire of Man, leapt into action. Their target were the guidestones, a series of 12 stone portals dating back to the dragon age. Destroying the guide stones effectively severed the connection between several major regions of the Empire. Unable to arrange large-scale trade and troop movement, the regions soon fell into revolutions that shrunk the empire of man's reach back to a wealthy core of cities no longer connected to a global trade network.
 
 
 ### Days
@@ -109,7 +123,55 @@ Coent becomes Coenta on the first of Coentas, assuming the form of a full-figure
 #### Coento 
 Coent becomes Coento on the first of Coentos, assuming the form of a bulky young man with fiery red hair. In progression to the first of Ceontas, his appearance shifts towards white hair, slender figure, and elderly features. His younger form encourages dutiful sacrifice, fighting evil law, and fighting individual suffering. As he ages, he encourages honorable service, reform of systems, and pursuit to universally end suffering.
 
-## Fiendish Pantheon 
+## Abyssal Pantheon 
 
-## Lesser Pantheon
-These divines are either single-aspect or not members of the Fiendish and Celestial pantheons for whatever reason.
+### J'ra, unrequainted prince
+Those that enter the abyss and are tainted with uncontrolled lust are offered one last chance of survival by becoming lust demons. Lacking any ability to feel passion, these hordes seek to destroy the intimacy they cannot have. Any ounce of romance or love in the abyssal plane is bound to attract one lust demon, and then hundreds.
+
+### Famine
+Embodied as a dark cloud, famine is drawn to large stores of food in the abyss, which it devours. The souls that fail to be reformed into demons in the abyss are ultimately 
+
+### Magara, the hoard god
+Magara offers survival to the souls in the abyss by creating hoard demons, which each collect items for their specific hoard. Hoards may be all items of one kind, or items that remind the hoard demon of a person or memory they miss in their afterlife. Hoard demons are frequently sent to the material plane to seek out their items and add them to their hoards.
+
+### Tuzzazz, the slumberer
+The soul forest of Tuzzazz features many souls who have become demonic plants. Incapable of moving from the spot where they are transformed, they noneless seek to kill all that that moves freely in their land. Their weakness makes it impractical for them to harm any but sleeping or badly injured creatures, and so the demon plants are often harvested for materials by the other demons.
+
+### Kirr, rage queen
+Standing a hundred feet high, Kirr is a metalic crystal demon. She regenerates rapidly, and attacks anything in sight. The bodies of creatures slain by her are often reformed into rage demons, which sprout metal crystals to cover their fatal wounds. The shards of metal left behind by Kirr and her rage demons are the only renewable source of metal in the nine hells, and so Kirr is frequently attacked just to break shards from her and create rage demons to farm.
+
+### Fusch the face stealer
+Fusch uses their hordes to gather the faces of extra-planar entities. When they steal a face, Fusch and their demons are capable of shapeshifting into an exact replica of their victim and access their memories. No matter how many faces they get, Fusch and their horde cannot stop collecting more.
+
+### Grokug and Porok, the conquerer twins
+Each of the twins posesses a castle on opposite ends of the abyss, constantly raising an army locked in endless battle. Neither of the twins can create demons for themselves, and so are constantly recruiting from the abyssal planes. They offer power as a reward for slaying enemies and devouring their souls. Whenever either Grokug or Porok dies, their castle crumbles and a new one rises from the hell stone in another section of the abyss.
+
+### Zimzin, the walker king
+Zimzin is the king of Acedia, the only city in the abyss. Inside the city. The city is populated by walkers, creatures created that move through a sad parody of life. The walkers till fields of dirt, eating the dust from it to no effect. They drink dust, and they lay restlessly each night cycle. There are two permanent construction plans in Acedia: building the great wall, and then demolishing it.
+
+## Infernal Pantheon
+Devils are well-known for their contract magic. They occupy the upper layers of Hell, and are responsible for bringing in the majority of souls.
+
+### Nekatur, the seducer
+Nekatur visits the lonely and desperate in the material plane. Often, her job is an easy one. She offers contracts offering to magically fulfill her clients' desires. With the money and favors she gets from wealthy and influential clients, she backs puritanical reforms, further driving demand for her forbidden services.
+
+### Docla, starvation devil
+Docla deals in extending the mortality of her clients, either by days, weeks, years, or centuries. Her payment comes in favors. Salting a crop, chaining someone in a basement with water, or robbing a grain shipment, Docla and her underlings are nourished by the hunger and starvation of others. In rare cases, she accepts long-term fasting as payment.
+
+### Barnoth, fashion devil
+Barnoth's power is from those who wear clothing in his ever-changing fashion preferences. His clients are almost exclusively those wealthy enough to commission these clothes, offering them favors ranging from assassination to magical powers.
+
+### Brenzen, dream devil
+Brenzen manifests in dreams, where she offers small contracts, offering bits of good luck in exchange for said dreams. She uses the dreams to build a network of information that she then sells to other clients.
+
+### Korrath, Reaper of War
+Korrath's clients are exclusively warriors, who makes pacts for soul-stealing weapons and armor. With his influence, he attempts to start and sustain conflicts, selling his weapons to both sides in order to increase his reaping.
+
+### Pientara, the gossip king
+Pientara has two categories of clients. The first are famous and influential individuals who he sells minor wonders and boons to in exchange for them to spread rumors. The second class of categories are other individuals, who trade favors and souls to spread rumors. Pientara can only spread rumors that are true, and so he works closely with Brenzen to source the gossip. Clients are often people in seats of power, and often pay to spread gossip of each other.
+
+### Wro Gentar, devil of bodies
+Wro Gentar offers her clients a very particular service. She forcibly swaps the bodies of two clients. They must each sign her contract. Often, she requires a sacrifice of a third party's soul, but great wealth works as well. The most common use of this contract is to extend the life of an elderly and wealthy client by swapping bodies with someone younger.
+
+### Bestlar Mranag
+Bestler's clients are those watching their freshly killed loved. He offers to save the loved one, and the contracts are quite lucrative. Once the loved one is alive, Bestlar hires others to kill them. The clients are rendered into a state of hopeless, bleak despair that he can harness for power. Contracts state that this happens randomly to every thousandth contract. The souls gathered this way wind up as the walkers in the city of Acedia.
