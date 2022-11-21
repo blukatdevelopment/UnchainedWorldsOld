@@ -11,7 +11,7 @@ cat psion.md >> classes.md
 cat warrior.md >> classes.md
 cat runesmith.md >> classes.md
 cat scientist.md >> classes.md
-cat priest.md >> classes.md
+cat diviner.md >> classes.md
 cat thief.md >> classes.md
 cat commoner.md >> classes.md
 cat colossus.md >> classes.md
@@ -24,7 +24,7 @@ echo "Done."
 # Compile supplements
 echo "Compiling player supplements..."
 cd ..
-pandoc 3d4_body_types.md -o ../pdf/body_types.pdf -V geometry:left=0in
+pandoc body_types.md -o ../pdf/body_types.pdf -V geometry:left=0in
 pandoc cultures_volume_1.md -o ../pdf/cultures.pdf -V geometry:left=0in
 pandoc spell_compendium.md -o ../pdf/spells.pdf -V geometry:left=0in
 echo "Done."
