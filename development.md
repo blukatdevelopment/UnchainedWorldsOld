@@ -104,6 +104,9 @@ martial abilities.
 ### Create class: Sorcerer
 Full caster that can cast infinitely. Learning spells corrupts the sorcerer. 
 Every cast requires a success roll. On a crit fail, bad things happen.
+Can eat stamina dice to negate the chance of a bad thing on a cast.
+Can eat stamina dice to add metamagic to their cast.
+Balancing act between safety and power.
 
 ### Create class: Bloodbender
 Half-caster that gains magic resource by drinking the blood of self/others. 

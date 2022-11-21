@@ -48,8 +48,8 @@ Feats:
 | Name: 
 | Class & Level: 
 | HP(max ): 
-| XP: 100
-| AC: 14
+| XP: 
+| AC: 
 #-------------#
 | STR|   |    |
 | DEX|   |    |
