@@ -1,0 +1,70 @@
+################################################################################
+#                               Example                                        #
+################################################################################
+
+#-------------#
+| Name: Juniper
+| Class & Level: Rogue 2
+| HP(max 12): 12
+| XP: 100
+| AC: 14
+#-------------#
+| STR|  9| -1 |
+| DEX| 15| +2 |
+| CON| 14| +2 |
+| INT| 11|  0 |
+| WIS| 11|  0 |
+| CHA| 10|  0 |
++-------------+--------+--------+
+|    Name     | To Hit | Damage |
++-------------+--------+--------+
+| Unarmed     |      -1|       1|
+| Dagger      |      +2|   1d6+2|
+| Bow         |      +2|   1d6+2|
++-------------+--------+--------+
+
+Inventory:
+- (2) dagger
+- bow 
+- (40)arrows
+- (10) torches
+- (10) ration
+- crowbar
+- 50ft hempen rope
+- hooded common clothes
+- Leather armor
+
+Feats:
+- Pet ferret, shares turn in initiative.
+- Stealth: You have a +4 bonus when you try to sneak.
+- Flirt: You have a +4 bonus when trying to flirt or seduce others.
+
+
+################################################################################
+#                               Blank                                          #
+################################################################################
+
+#-------------#
+| Name: 
+| Class & Level: 
+| HP(max ): 
+| XP: 100
+| AC: 14
+#-------------#
+| STR|   |    |
+| DEX|   |    |
+| CON|   |    |
+| INT|   |    |
+| WIS|   |    |
+| CHA|   |    |
++-------------+--------+--------+
+|    Name     | To Hit | Damage |
++-------------+--------+--------+
+|             |        |        |
++-------------+--------+--------+
+
+Inventory:
+- 
+
+Feats:
+- 
