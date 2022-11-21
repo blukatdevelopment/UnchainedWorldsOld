@@ -82,13 +82,14 @@ they gain as they gain levels over their adventuring career.
 - [Alchemist](../../../character_creation/classes/alchemist.md)
 - [Gunsmith](../../../character_creation/classes/gunsmith.md)
 - [Lycanthrope](../../../character_creation/classes/lycanthrope.md)
-- [Priest](../../../character_creation/classes/priest.md)
+- [Diviner](../../../character_creation/classes/diviner.md)
 - [Psion](../../../character_creation/classes/psion.md)
 - [Runesmith](../../../character_creation/classes/runesmith.md)
 - [Thief](../../../character_creation/classes/thief.md)
 - [Scientist](../../../character_creation/classes/scientist.md)
 - [Warrior](../../../character_creation/classes/warrior.md)
 - [Soul Forger](../../../character_creation/classes_soul_forger.md)
+
 ### Starting gear
 Your new character additionally starts with 80G to spend. Please consult the
 core rules for a comprehensive list of general adventuring gear they may
