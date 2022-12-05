@@ -16,6 +16,9 @@ stability.
 ## Starting hit points
 You start with 4+CON hit points.
 
+## Stamina Die size
+The alchemist's stamina die is a d4.
+
 ## Proficiencies
 ```
 +---------------+----------------------+
@@ -63,20 +66,20 @@ XP = total experience points needed for level
 SD = Stamina Dice
 Prof = proficiency bonus
 TN = Techniques
-+-----+-------+-----+-----+---+-------------------------------------------+
-| LVL |  XP   | SD  |Prof |TN |        Features                           |
-+-----+-------+-----+-----+---+-------------------------------------------+
-|   1 |     0 | 1d4 | +1  | 1 | Novice Alchemy                            |
-|   2 |   300 | 2d4 | +1  | 2 | Lesser Splash Potions, Hit point Increase |
-|   3 |   900 | 3d4 | +2  | 3 | Big Dipper, Quick Brew, Hit point Increase|
-|   4 |  1800 | 4d4 | +2  | 4 | Journeyman Alchemy, Hit point re-roll     |
-|   5 |  3600 | 5d4 | +2  | 5 | Ability Score Increase                    |
-|   6 |  6100 | 6d4 | +2  | 6 | GlassBlower                               |
-|   7 |  9100 | 7d4 | +3  | 7 | Expert Alchemy                            |
-|   8 | 13100 | 8d4 | +3  | 7 | Greater Splash Potions                    |
-|   9 | 22600 | 9d4 | +4  | 7 | Master Alchemy                            |
-|  10 | 44600 |10d4 | +4  | 7 | Ability Score Increase                    |
-+-----+-------+-----+-----+---+-------------------------------------------+
++-----+-------+---+-----+---+-------------------------------------------+
+| LVL |  XP   |SD |Prof |TN |        Features                           |
++-----+-------+---+-----+---+-------------------------------------------+
+|   1 |     0 | 2 | +1  | 1 | Novice Alchemy                            |
+|   2 |   300 | 4 | +1  | 2 | Lesser Splash Potions, Hit point Increase |
+|   3 |   900 | 6 | +2  | 3 | Big Dipper, Quick Brew, Hit point Increase|
+|   4 |  1800 | 8 | +2  | 4 | Journeyman Alchemy, Hit point re-roll     |
+|   5 |  3600 |10 | +2  | 5 | Ability Score Increase                    |
+|   6 |  6100 |12 | +2  | 6 | GlassBlower                               |
+|   7 |  9100 |14 | +3  | 7 | Expert Alchemy                            |
+|   8 | 13100 |16 | +3  | 7 | Greater Splash Potions                    |
+|   9 | 22600 |18 | +4  | 7 | Master Alchemy                            |
+|  10 | 44600 |20 | +4  | 7 | Ability Score Increase                    |
++-----+-------+---+-----+---+-------------------------------------------+
 ```
 
 ## Features

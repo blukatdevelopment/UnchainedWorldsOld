@@ -14,6 +14,9 @@ Your battle cry haunts the nightmares of those adjacent to your carnage in battl
 ## Starting hit points
 You start with 10+CON hit points.
 
+## Stamina Die size
+The warrior's stamina die is a d10.
+
 ## Proficiencies
 ```
 +---------------+-------------------------------------------------+
@@ -58,20 +61,20 @@ XP = total experience points needed for level
 SD = Stamina Dice
 Prof = proficiency bonus
 MNVS = Maneuvers
-+-----+-------+-------+-----+-------+-------------------------------+
-| LVL | XP    | SD    |Prof |  MNVS |        Features               |
-+-----+-------+-------+-----+-------+-------------------------------+
-|   1 |     0 | 1d10  | +1  |  0    | Warrior's Respite             |
-|   2 |   300 | 2d10  | +1  |  1    | Maneuvers, Hit point Increase |
-|   3 |   900 | 3d10  | +2  |  2    | Hit point Increase            |
-|   4 |  1800 | 4d10  | +2  |  3    | Hit point re-roll             |
-|   5 |  3600 | 5d10  | +2  |  3    | Ability Score Increase        |
-|   6 |  6100 | 6d10  | +2  |  3    | Extra Attack                  |
-|   7 |  9100 | 7d10  | +3  |  4    |                               |
-|   8 | 13100 | 8d10  | +3  |  4    | Ability Score Increase        |
-|   9 | 22600 | 9d10  | +4  |  5    |                               |
-|  10 | 44600 |10d10  | +4  |  6    | Ability Score Increase        |
-+-----+-------+-------+-----+-------+-------------------------------+
++-----+-------+----+-----+-------+-------------------------------+
+| LVL | XP    | SD |Prof |  MNVS |        Features               |
++-----+-------+----+-----+-------+-------------------------------+
+|   1 |     0 | 2  | +1  |  0    | Warrior's Respite             |
+|   2 |   300 | 4  | +1  |  1    | Maneuvers, Hit point Increase |
+|   3 |   900 | 6  | +2  |  2    | Hit point Increase            |
+|   4 |  1800 | 8  | +2  |  3    | Hit point re-roll             |
+|   5 |  3600 |10  | +2  |  3    | Ability Score Increase        |
+|   6 |  6100 |12  | +2  |  3    | Extra Attack                  |
+|   7 |  9100 |14  | +3  |  4    |                               |
+|   8 | 13100 |16  | +3  |  4    | Ability Score Increase        |
+|   9 | 22600 |18  | +4  |  5    |                               |
+|  10 | 44600 |20  | +4  |  6    | Ability Score Increase        |
++-----+-------+----+-----+-------+-------------------------------+
 ```
 
 ## Features

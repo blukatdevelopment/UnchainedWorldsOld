@@ -20,6 +20,9 @@ for hp calculation has already been done for you.
 ## Starting Hitpoints
 You start with 20+CON Hitpoints
 
+## Stamina Die size
+The collossus's stamina die is a d10.
+
 ## Proficiencies
 ```
 +---------------+---------------------------------+
@@ -56,20 +59,20 @@ XP = total experience points needed for level
 SD = Stamina Dice
 Prof = proficiency bonus
 COMU = Colossal Mutations
-+-----+-------+-------+-----+-------+-------------------------------+
-| LVL | XP    | SD    |Prof | COMU  |        Features               |
-+-----+-------+-------+-----+-------+-------------------------------+
-|   1 |     0 | 1d10  | +1  |  0    | Monstrous Physique            |
-|   2 |   300 | 2d10  | +1  |  1    | Mutations, Hit point Increase |
-|   3 |   900 | 3d10  | +2  |  2    | Hit point Increase            |
-|   4 |  1800 | 4d10  | +2  |  3    | Hit point re-roll             |
-|   5 |  3600 | 5d10  | +2  |  4    | Ability Score Increase        |
-|   6 |  6100 | 6d10  | +2  |  4    | Extra Attack, Magical Might   |
-|   7 |  9100 | 7d10  | +3  |  5    |                               |
-|   8 | 13100 | 8d10  | +3  |  5    | Ability Score Increase        |
-|   9 | 22600 | 9d10  | +4  |  6    |                               |
-|  10 | 44600 |10d10  | +4  |  7    | Epic Mutation                 |
-+-----+-------+-------+-----+-------+-------------------------------+
++-----+-------+----+-----+-------+-------------------------------+
+| LVL | XP    | SD |Prof | COMU  |        Features               |
++-----+-------+----+-----+-------+-------------------------------+
+|   1 |     0 | 2  | +1  |  0    | Monstrous Physique            |
+|   2 |   300 | 4  | +1  |  1    | Mutations, Hit point Increase |
+|   3 |   900 | 6  | +2  |  2    | Hit point Increase            |
+|   4 |  1800 | 8  | +2  |  3    | Hit point re-roll             |
+|   5 |  3600 |10  | +2  |  4    | Ability Score Increase        |
+|   6 |  6100 |12  | +2  |  4    | Extra Attack, Magical Might   |
+|   7 |  9100 |14  | +3  |  5    |                               |
+|   8 | 13100 |16  | +3  |  5    | Ability Score Increase        |
+|   9 | 22600 |18  | +4  |  6    |                               |
+|  10 | 44600 |20  | +4  |  7    | Epic Mutation                 |
++-----+-------+----+-----+-------+-------------------------------+
 ```
 
 

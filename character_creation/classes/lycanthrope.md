@@ -14,6 +14,9 @@
 ## Starting hit points
 You start with 4+CON hit points.
 
+## Stamina Die size
+The lycanthrope's stamina die is a d4.
+
 ## Proficiencies
 ```
 +---------------+------------------------+
@@ -53,20 +56,20 @@ LVL = level
 XP = total experience points needed for level
 SD = Stamina Dice
 Prof = proficiency bonus
-+-----+--------+-----+-----+-----------------------------------------------------+
-| LVL |  XP    | SD  |Prof |        Features                                     |
-+-----+--------+-----+-----+-----------------------------------------------------+
-|   1 |     0  | 1d4 | +1  | Lycanthrope Form, Controlled Shift                  |
-|   2 |   300  | 2d4 | +1  | Lycanthrope ability, Hit point Increase             |
-|   3 |   900  | 3d4 | +2  | Lycanthrope ability, Tough Hide, Hit point Increase |
-|   4 |  1800  | 4d4 | +2  | Lycanthrope ability, Hit point re-roll              |
-|   5 |  3600  | 5d4 | +2  | Ability Score Increase                              |
-|   6 |  6100  | 6d4 | +2  | Lycanthrope ability                                 |
-|   7 |  9100  | 7d4 | +3  |                                                     |
-|   8 | 13100  | 8d4 | +3  | Extra Attack                                        |
-|   9 | 22600  | 9d4 | +4  |                                                     |
-|  10 | 44600  |10d4 | +4  | Ability Score Increase                              |
-+-----+--------+-----+-----+-----------------------------------------------------+
++-----+--------+---+-----+-----------------------------------------------------+
+| LVL |  XP    | SD|Prof |        Features                                     |
++-----+--------+---+-----+-----------------------------------------------------+
+|   1 |     0  | 2 | +1  | Lycanthrope Form, Controlled Shift                  |
+|   2 |   300  | 4 | +1  | Lycanthrope ability, Hit point Increase             |
+|   3 |   900  | 6 | +2  | Lycanthrope ability, Tough Hide, Hit point Increase |
+|   4 |  1800  | 8 | +2  | Lycanthrope ability, Hit point re-roll              |
+|   5 |  3600  |10 | +2  | Ability Score Increase                              |
+|   6 |  6100  |12 | +2  | Lycanthrope ability                                 |
+|   7 |  9100  |14 | +3  |                                                     |
+|   8 | 13100  |16 | +3  | Extra Attack                                        |
+|   9 | 22600  |18 | +4  |                                                     |
+|  10 | 44600  |20 | +4  | Ability Score Increase                              |
++-----+--------+---+-----+-----------------------------------------------------+
 ```
 
 ## Features

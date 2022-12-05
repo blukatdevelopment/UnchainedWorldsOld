@@ -14,6 +14,9 @@ You live as an example to all that share your faith. In service of a deity or di
 ## Starting hit points
 You start with 4+CON hit points.
 
+## Stamina Die size
+The diviner's stamina die is a d4.
+
 ## Proficiencies
 ```
 +---------------+------------------------------------+
@@ -52,20 +55,20 @@ LVL = level
 XP = total experience points needed for level
 SD = Stamina Dice
 Prof = proficiency bonus
-+-----+-------+-----+-----+------------+----------------------------+
-| LVL |XP     | SD  |Prof |Spell Level |        Features            |
-+-----+-------+-----+-----+------------+----------------------------+
-|   1 |      0| 1d4 | +1  |  Cantrip   | Divine Spellcasting        |
-|   2 |    300| 2d4 | +1  |     1      | Domain, Hit point Increase |
-|   3 |    900| 3d4 | +2  |     2      | Hit point Increase         |
-|   4 |   1800| 4d4 | +2  |     2      | Hit point re-roll          |
-|   5 |   3600| 5d4 | +2  |     3      | Ability Score Increase     |
-|   6 |   6100| 6d4 | +2  |     3      | Channel Divinity           |
-|   7 |   9100| 7d4 | +3  |     4      |                            |
-|   8 |  13100| 8d4 | +3  |     4      |                            |
-|   9 |  22600| 9d4 | +4  |     5      |                            |
-|  10 |  44600|10d4 | +4  |     5      | Ability Score Increase     |
-+-----+-------+-----+------------------+----------------------------+
++-----+-------+---+-----+------------+----------------------------+
+| LVL |XP     |SD |Prof |Spell Level |        Features            |
++-----+-------+---+-----+------------+----------------------------+
+|   1 |      0| 2 | +1  |  Cantrip   | Divine Spellcasting        |
+|   2 |    300| 4 | +1  |     1      | Domain, Hit point Increase |
+|   3 |    900| 6 | +2  |     2      | Hit point Increase         |
+|   4 |   1800| 8 | +2  |     2      | Hit point re-roll          |
+|   5 |   3600|10 | +2  |     3      | Ability Score Increase     |
+|   6 |   6100|12 | +2  |     3      | Channel Divinity           |
+|   7 |   9100|14 | +3  |     4      |                            |
+|   8 |  13100|16 | +3  |     4      |                            |
+|   9 |  22600|18 | +4  |     5      |                            |
+|  10 |  44600|20 | +4  |     5      | Ability Score Increase     |
++-----+-------+---+------------------+----------------------------+
 ```
 
 ## Feats

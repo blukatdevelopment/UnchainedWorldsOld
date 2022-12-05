@@ -17,6 +17,9 @@ desires can be met... for a grave price.
 ## Starting Hitpoints
 You start with 8+CON Hitpoints 
 
+## Stamina Die size
+The alchemist's stamina die is a d4.
+
 ## Proficiencies
 ```
 +---------------+---------------------------+
@@ -55,20 +58,20 @@ LVL = level
 XP = total experience points needed for level
 SD = Stamina Dice
 Prof = proficiency bonus
-+-----+-------+-----+------+------------------------------------------+
-| LVL |    XP | SD  |Prof  |       Features                           |
-+-----+-------+-----+------+------------------------------------------+
-|   1 |      0| 1d8 | +1   | Vampirism, Vampiric Form                 |
-|   2 |    300| 2d8 | +1   | Hit point Increase, Form Ability         |
-|   3 |    900| 3d8 | +2   | Hit point Increase, Vampiric Resistance  |
-|   4 |   1800| 4d8 | +2   | Hit point re-roll, Form Ability          |
-|   5 |   3600| 5d8 | +2   | Ability Score Increase                   |
-|   6 |   6100| 6d8 | +2   |                                          |
-|   7 |   9100| 7d8 | +3   | Form Ability, Extra Attack               |
-|   8 |  13100| 8d8 | +3   |                                          |
-|   9 |  22600| 9d8 | +4   |                                          |
-|  10 |  44600|10d8 | +4   | Ability Score Increase                   |
-+-----+-------+-----+------+------------------------------------------+
++-----+-------+---+------+------------------------------------------+
+| LVL |    XP | SD|Prof  |       Features                           |
++-----+-------+---+------+------------------------------------------+
+|   1 |      0| 1 | +1   | Vampirism, Vampiric Form                 |
+|   2 |    300| 2 | +1   | Hit point Increase, Form Ability         |
+|   3 |    900| 3 | +2   | Hit point Increase, Vampiric Resistance  |
+|   4 |   1800| 4 | +2   | Hit point re-roll, Form Ability          |
+|   5 |   3600| 5 | +2   | Ability Score Increase                   |
+|   6 |   6100| 6 | +2   |                                          |
+|   7 |   9100| 7 | +3   | Form Ability, Extra Attack               |
+|   8 |  13100| 8 | +3   |                                          |
+|   9 |  22600| 9 | +4   |                                          |
+|  10 |  44600|10 | +4   | Ability Score Increase                   |
++-----+-------+---+------+------------------------------------------+
 ```
 
 ## Features

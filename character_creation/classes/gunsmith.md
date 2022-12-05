@@ -17,6 +17,9 @@ tip of the spear in military innovation.
 ## Starting hit points
 You start with 6+CON hit points.
 
+## Stamina Die size
+The gunsmith's stamina die is a d6.
+
 ## Proficiencies
 ```
 +---------------+------------------------------------------------------------------------+
@@ -59,20 +62,20 @@ XP = total experience points needed for level
 SD = Stamina Dice
 Prof = proficiency bonus
 MNVS = Maneuvers
-+-----+-------+-----+-----+-----+--------------------------------------------+
-| LVL | XP    | SD  |Prof |MVNS |         Features                           |
-+-----+-------+-----+-----+-----+--------------------------------------------+
-|   1 |     0 | 1d6 | +1  |   1 | Scrap, Smith                               |
-|   2 |   300 | 2d6 | +1  |   1 | Hit point Increase, Gunsmith Maneuvers     |
-|   3 |   900 | 3d6 | +2  |   2 | Hit point Increase                         |
-|   4 |  1800 | 4d6 | +2  |   2 | Hit point re-roll, Second Wind             |
-|   5 |  3600 | 5d6 | +2  |   3 | Ability Score Increase                     |
-|   6 |  6100 | 6d6 | +2  |   4 |                                            |
-|   7 |  9100 | 7d6 | +3  |   5 | Advanced Smith                             |
-|   8 | 13100 | 8d6 | +3  |   5 | Ability Score Increase                     |
-|   9 | 22600 | 9d6 | +4  |   6 |                                            |
-|  10 | 44600 |10d6 | +4  |   6 | Ability Score Increase                     |
-+-----+-------+-----+-----+-----+--------------------------------------------+
++-----+-------+---+-----+-----+--------------------------------------------+
+| LVL | XP    | SD|Prof |MVNS |         Features                           |
++-----+-------+---+-----+-----+--------------------------------------------+
+|   1 |     0 | 2 | +1  |   1 | Scrap, Smith                               |
+|   2 |   300 | 4 | +1  |   1 | Hit point Increase, Gunsmith Maneuvers     |
+|   3 |   900 | 6 | +2  |   2 | Hit point Increase                         |
+|   4 |  1800 | 8 | +2  |   2 | Hit point re-roll, Second Wind             |
+|   5 |  3600 |10 | +2  |   3 | Ability Score Increase                     |
+|   6 |  6100 |12 | +2  |   4 |                                            |
+|   7 |  9100 |14 | +3  |   5 | Advanced Smith                             |
+|   8 | 13100 |16 | +3  |   5 | Ability Score Increase                     |
+|   9 | 22600 |18 | +4  |   6 |                                            |
+|  10 | 44600 |20 | +4  |   6 | Ability Score Increase                     |
++-----+-------+---+-----+-----+--------------------------------------------+
 ```
 
 ## Features
