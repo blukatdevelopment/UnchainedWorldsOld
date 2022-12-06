@@ -1,6 +1,23 @@
 # Book of Crucible
 Hey, blukat speaking. This is just some world-building for the default setting in my campaigns and modules. Feel free to lift what you want from here in your own games, like with all content in Unchained Worlds.
 
+# FAQ
+## Q: What's in Crucible?
+A: Oh, look, a list!
+- Treacherous journeys over wild lands separating pockets of safety
+- Mysterious ruins containing relics of the past
+- Isolated communities with dramatic differences in culture/technology/wealth/magic/resources
+- Monsters of all shapes and sizes pushing back against expansion
+- Warlords, dynasties, feudal kingdoms, and tribes in strife with themselves
+- Powerful entities turning seeking to control or destroy populations
+- Pantheons of cruel, benevolent, and ambivalent divines and other powerful entities
+- Unceasing war
+
+## Q: What isn't in Crucible?
+A: Glad you asked! Have another list!
+- Safe/reliable travel over long distances
+- Social media / Mass media
+
 # Time
 ## Epochs
 
@@ -15,7 +32,7 @@ Soon, other divines were drawn to the world by it's beauty and began making many
 #### Divine Exodus
 Many of the survivng divines combined to form powerful divine entities composed of multiple aspects and left the world. Some went to Celestia, while others created the Nine Hells. Some minor divines remained on the world, hiding from the others.
 
-# Dragon Age
+## Dragon Age
 
 ### Birth of the dragons
 Not long after the divines left, their bones were feasted upon by plants and animals. Many of these primordial creatures grew in size and figure, although the greatest of these creatures were the dragons, who arose from mere lizards. Dragons differed from the other creatures in that they gained vast intellect that made excellent use of their extremely long lifespans.
@@ -53,7 +70,6 @@ Those who usurped the thrones of the Titans organized to become the empire of ma
 ### The severing
 So soon as the empire lacked an enemy, resistance heightened. Resistance fighters, who had filled the ranks of the Empire of Man, leapt into action. Their target were the guidestones, a series of 12 stone portals dating back to the dragon age. Destroying the guide stones effectively severed the connection between several major regions of the Empire. Unable to arrange large-scale trade and troop movement, the regions soon fell into revolutions that shrunk the empire of man's reach back to a wealthy core of cities no longer connected to a global trade network.
 
-
 ### Days
 - Every week consists of seven days
 - Moon's Day / Moonday
@@ -63,7 +79,6 @@ So soon as the empire lacked an enemy, resistance heightened. Resistance fighter
 - Coin's Day / Payday
 - Claw's Day / Clawday
 - Sun's Day / Sunday
-
 
 ### Months
 Crucible has a 336 day calendar year broken up into 12 months, 28 days each.
@@ -80,6 +95,58 @@ Crucible has a 336 day calendar year broken up into 12 months, 28 days each.
 - Autumn: Harvest
 - Autumn: Leafall
 - Autumn: Coentos
+
+# Realms and Regions
+
+## Material Plane
+
+### Outer Void
+
+### Aether
+Cloud islands float in the skies of the material plane.
+- Flying monsters
+
+### Underworld
+An endless maze of tunnels honeycombing great swathes of the underground.
+- Underground rivers
+- Monstrosities
+- Ruins
+- Deep folk
+
+### Core
+The remaining sphere of influence of the nation states that once ruled the empire of man.
+- Fertile farmlands
+- Gold Robes, Soots, Bronzehammers, Coggers, Burden Folk, wayfarers
+- Warring kingdoms
+
+### Periphery
+The lands surrounding the core.
+- Warlords prevent imperial encroachment
+- Greenfoot, the silent, wild folk
+- Frequent monster attacks
+
+### Outlands
+Beyond the core, scarcely populated if at all.
+- Ruins
+- Isolated communities
+
+## Celestia
+Realm of benevolent and ambivalent divines and do not intervene with the material plane.
+
+## Hell
+Nine layers hotly contested by demons and devils.
+- Infinite war rages
+
+## Ethereal plane
+Spirit realm parralel with the material plane.
+
+## Fey Wilds
+Magical realm governed by the fey. Only accessible from deep forests with the
+aid of fey magic.
+- Violent, living forest
+- Arch fey hold domain over lands
+
+# Morality and Divinity
 
 ## Alignment
 Crucible has a 9-point system of alignment. 

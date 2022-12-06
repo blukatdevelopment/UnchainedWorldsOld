@@ -29,6 +29,8 @@ individual in gold robe society wears a robe with gold fiber sewed in. The
 greater the prestige, the more gold and rarer the fabric used in the robe's
 construction.
 
+Gold robe cuisine consists of only the finest and most exotic ingredients avalable. Like fashion, the favorable dishes are in constant rotation, and it is a gold robe's duty to keep abreast with gustatory trends. The typical gold robe accent tends towards longer, drawn out syllables with a formal grandeousness. Even the poorest of gold robes who do not live in luxury homes still furnish their living spaces with decorations to flaunt what wealth they do have.
+
 ```
 Languages: Common
 ```
@@ -87,6 +89,15 @@ to share those secrets except when training successors. The only major exception
 to the secrecy of the silent is in communication with mages deemed responsible
 enough to cooperate in this goal.
 
+Without tongues, the silent place minimal consideration for the pleasure of
+eating. Their meals consist of whatever is simple and nutritious, often
+foregoing kitchens in their homes. Their robes signify their station within the
+silent order, and often contain coloring and patterns related to their specific
+knowledge silo. Only the elites among the silent order can interpret these
+outfits, giving them the ability to spot fakes with little effort. Holding hands
+is considered a deeply personal and doing so in public is taboo. Teaching
+outsiders handspeak is strictly forbidden, but often happens regardless.
+
 ```
 Languages: Common(read/write and hear, but not speak), handspeak
 ```
@@ -126,6 +137,11 @@ flock to mines and forges to learn how metal is harvested and transformed into
 finished products. Metal tongue is the language of the bronzehammers, made
 specifically to efficiently discuss minerology and metalworking.
 
+
+Bronzehammers often wear robes. They are quick to welcome or reject outsiders,
+depending on their appreciation for metalworking. Jewelry is common, but worn
+beneath clothing so as to not flaunt one's closeness with metal. Typical 
+bronzehmmer speech is terse and harsh.
 ```
 Languages: Common, Metal Tongue
 ```
