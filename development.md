@@ -133,6 +133,17 @@ Martial class with dual health bar of meat(normal regen) and ki(which
 replenishes quickly). Menu of abilities that eat ki to do martial arts/shonen 
 moves.
 
+### Create class: Bard
+A generalist CHA caster that gets skills, bardic inspiration, and a spell list
+that contains lots of charm/psychic magic. Maybe let them rehearse(prepare) spells
+on a rest or during a 10 minute break(eating a stamina die). Use spell slots or
+stamina dice to cast. Maybe let them have a special slot where they can rehearse
+a spell outside their spell list if they saw someone cast it in person in the
+last 24 hours(level requirements still apply), and maybe let them keep preparing
+that spell until they trade it out for another.
+Maybe give them an choice of starter feats that specifies what kind of bard they
+are as well (and offer some different art forms that give them a perk of some kind)
+
 ### Create class: Cultist
 Evil version of priest: has patron that makes requests in order to build up 
 spellcasting resources, which can be infinitely banked. Spells are tattooed 
