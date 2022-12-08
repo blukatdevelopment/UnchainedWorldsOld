@@ -18,10 +18,6 @@ Identity fections where rephrasing or images could help better explain ideas.
 Double-check for typos, formatting issues, or references to outdates rules.
 Identity fections where rephrasing or images could help better explain ideas.
 
-### Finish porting spells: runesmith
-Fill out missing spells. Do not use copy/paste, do not use exact wording.
-Cut out clarifications where possible.
-
 ### [DONE]Finish porting spells: priest
 Fill out missing spells. Do not use copy/paste, do not use exact wording.
 Cut out clarifications where possible.
@@ -39,6 +35,20 @@ Add 5-10 new maneuvers. Taking inspiration from paladin might help.
 Double-check for typos, formatting issues, or references to outdates rules.
 Identity fections where rephrasing or images could help better explain ideas.
 
+### Finish porting spells: runesmith (Chunk of 10 spells)
+Fill out missing spells. Do not use copy/paste, do not use exact wording.
+Cut out clarifications where possible.
+- Darkness [pending]
+- Darkvision [pending]
+- Detect Thoughts [pending]
+- Dragon's Breath [pending]
+- Dust Devil [pending]
+- Enhance Ability [pending]
+- Enlarge/Reduce [pending]
+- Flaming Sphere [pending]
+- Gentle Repose [pending]
+- Gift of Gab [pending]
+
 `Progress Bar: 70%[##############------]`
 
 ## Backlog
@@ -46,8 +56,10 @@ Identity fections where rephrasing or images could help better explain ideas.
 ### Proofread class: lycanthrope
 Double-check for typos, formatting issues, or references to outdates rules.
 Identity fections where rephrasing or images could help better explain ideas.
+Maybe rename to therianthrope
+Maybe reconsider subclasses (wererat = weapon fighter, werebear = tank, werewolf = hunter)
 
-### Proofread class: priest
+### Proofread class: diviner
 Double-check for typos, formatting issues, or references to outdates rules.
 Identity fections where rephrasing or images could help better explain ideas.
 
@@ -147,6 +159,8 @@ Cram this era into timeline, maybe geography as well?
 ### Illustrate cultures volume 2: culture 10
 
 ### Finish Setting guide: Crucible
+- Add a section of phrases/profanities
+- Add a section of races (and their relationships to culture and body type)
 
 ### Finish book_of_maladies.md
 Put some positive mutations in the first 25% of the list, diversify middle of 
@@ -161,9 +175,118 @@ when queued up for a release.
 Covering things like monster loot, hoard loot, magic items, etc, etc that can 
 be rolled in the moment for procedural loot.
 
-### Finish adventure module: exorcism_of_coalsborrough
-### Finish adventure module: kidnappings_in_austerity
-### Finish adventure module: storm_at_sanctuary
-### Create character funnel module: 1
-### Create character funnel module: 2
-### Create character funnel module: 3
+### Create an expedition generator
+Roll random monsters depending on some regions. Use a 1d100 for the encounter
+difficulty, and determine loot.
+
+### Finish porting spells: runesmith (Chunk of 10 spells)
+Fill out missing spells. Do not use copy/paste, do not use exact wording.
+Cut out clarifications where possible.
+- Hold Person [pending]
+- Invisibility [pending]
+- Glowing COin [pending]
+- Kinetic Jaunt [pending]
+- Knock [pending]
+- Magic Mouth [pending]
+- Magi Weapon [pending]
+- Eathen Grasp [pending]
+- Acid Arrow [pending]
+- Mind Spike [pending]
+
+### Finish porting spells: runesmith (Chunk of 10 spells)
+Fill out missing spells. Do not use copy/paste, do not use exact wording.
+Cut out clarifications where possible.
+- Mirror Image [pending]
+- Misty Step [pending]
+- Mischief [pending]
+- Magic Aura [pending]
+- Phantasmal Force [pending]
+- Pyrotechnics [pending]
+- Ray of Enfeeblement [pending]
+- Binding Ice [pending]
+- Rope Trick [pending]
+- Scorching Ray [pending]
+
+### Finish porting spells: runesmith (Chunk of 10 spells)
+Fill out missing spells. Do not use copy/paste, do not use exact wording.
+Cut out clarifications where possible.
+- See Invisibility [pending]
+- Shadow Blade [pending]
+- Shatter [pending]
+- Snowball Swarm [pending]
+- Spider Climb [pending]
+- Suggestion [pending]
+- Mind Whip [pending]
+- Vortex Warp [pending]
+- Warding Wind [pending]
+- Web [pending]
+
+### Finish porting spells: runesmith (Chunk of 10 spells)
+Fill out missing spells. Do not use copy/paste, do not use exact wording.
+Cut out clarifications where possible.
+- Wither and Bloom [pending]
+- Black Tentacles [pending]
+- Fabricate [pending]
+- Fire Shield [pending]
+- Greater Invisibility [pending]
+- Hallucinatory Terrain [pending]
+- Ice Storm [pending]
+- Secret Chest [pending]
+- Faithful Hound [pending]
+- Private Sanctum [pending]
+
+### Finish porting spells: runesmith (Chunk of 10 spells)
+Fill out missing spells. Do not use copy/paste, do not use exact wording.
+Cut out clarifications where possible.
+- Phantasmal Killer [pending]
+- Psychic Lance [pending]
+- Sickening Radiance [pending]
+- Storm Sphere [pending]
+- Vitriolic Sphere [pending]
+- Wall of Fire [pending]
+- Watery Sphere [pending]
+- Animate Objects [pending]
+- Magic Hand [pending]
+- Cloudkill [pending]
+
+### Finish porting spells: runesmith (Chunk of 10 spells)
+Fill out missing spells. Do not use copy/paste, do not use exact wording.
+Cut out clarifications where possible.
+- Cone of Cold [pending]
+- Contact other plane [pending]
+- Control Winds [pending]
+- Creation [pending]
+- Danse Macabre [pending]
+- Dawn [pending]
+- Dominate Person [pending]
+- Dream [pending]
+- Enervation [pending]
+- Far Step [pending]
+
+### Finish porting spells: runesmith (Chunk of 10 spells)
+Fill out missing spells. Do not use copy/paste, do not use exact wording.
+Cut out clarifications where possible.
+- Geas [pending]
+- Hold Monster [pending]
+- Immolation [pending]
+- Infernal Calling [pending]
+- Mislead [pending]
+- Modify Memory [pending]
+- Negative Energy Flood [pending]
+- Passwall [pending]
+- Plane Binding [pending]
+- Scrying [pending]
+
+### Finish porting spells: runesmith (Chunk of 10 spells)
+Fill out missing spells. Do not use copy/paste, do not use exact wording.
+Cut out clarifications where possible.
+- Seeming [pending]
+- Skill Empowerment [pending]
+- Steel Wind Strike [pending]
+- Synaptic Static [pending]
+- Telekinesis [pending]
+- Teleportation Circle [pending]
+- Transmute Rock [pending]
+- Wall of force [pending]
+- Wall of light [pending]
+- Wall of stone [pending]
