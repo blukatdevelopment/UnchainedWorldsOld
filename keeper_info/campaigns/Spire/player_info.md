@@ -74,7 +74,7 @@ You can either freely choose, or roll 3d4 to determine your character's body
 type. Note that the bodytype governs the mechanics of your character, but not
 your appearance. A character with a common body may look like a human,
 anthropomorphic animal, goblin, or many other options.
-[Body Types](../../../character_creation/3d4_body_types.md)
+[Body Types](../../../character_creation/body_types.md)
 
 ### Class
 You may choose a class for your character, which represents the unique abilities

@@ -1839,6 +1839,82 @@ You magically augment one creature you touch. Choose an ability to augment. The 
 ```
 
 ```
+Darkvision (2nd)
+Casting Time: 1 action 
+Range: Touch
+Duration: 8 hours
+A willing creature you touch gains the ability to see in the dark at a range of up to 60 feet.
+```
+
+```
+Detect Thoughts (2nd)
+Casting Time: 1 action 
+Range: Self
+Duration: Concentration, up to 1 minute
+For the duration, you may tap into minds with more than 3 intelligence within 30ft. You automatically hear any surface-level thoughts.
+
+If you wish to probe deeper, the target makes a WIS save to end the spell, but can detect this probing. The creature can use it's turn to repeat this check. Deeper thoughts include it's strong feelings, such as what it hates and loves.
+
+You can detect the presence of thinking creatures without line of sight, provided they aren't shielded by even a thin foil of lead. Once detected, you may tap into these minds as well.
+```
+
+```
+Dragon's Breath (2nd)
+Casting Time: 1 bonus action
+Range: Touch
+Duration: Concentration, up to 1 minute
+One creature you touch gains dragon breath for the duration. Select either acid, cold, fire, lightning, or poison. This is the type of damage they deal when they breathe their breath using their action. A 15-foot cone of this element is created, forcing a DEX save to halve 3d6 damage of the chosen type.
+```
+
+```
+Dust Devil (2nd)
+Casting Time: 1 action 
+Range: 60 feet
+Duration: Concentration, up to 1 minute
+You create a magical dust devil in a 5ft cube within range for the duration. Creatures ending their turn within 5ft of the dust devil make a STR save to halve 1d8 bludgeoning damage and being pushed 10ft away from the dust devil.
+
+The dust devil can be moved 30ft in any direction with a bonus action. If the dust devil moves over material such as loose dirt, light gravel, dust, or sand, it's area becomes heavily obscured.
+```
+
+```
+Enlarge/Reduce (2nd)
+Casting Time: 1 action 
+Range: 30ft
+Duration: Concentration, up to 1 minute
+Pick a creature or object and attempt to increase or decrease it's size by one category, such as from large to medium, or large to huge. An unwilling creature can make a CON save to resist this spell.
+
+A shrunken creature has disadvantage on STR checks and saves, and their weapon attacks deal 1d4 less damage.
+
+An enlarged creature has advantage on STR checks and saves, and their weapons attacks deal an extra 1d4 damage.
+```
+
+```
+Flaming Sphere (2nd)
+Casting Time: 1 action 
+Range: 60ft
+Duration: Concentration, up to 1 minute
+You conjure a 5ft diameter flameing sphere in an unoccupied space of your chosing withing range. Creatures ending their turn within 5ft of the sphere succeed a DEX save to halve 2d6 fire damage.
+
+You may move the sphere up to 30ft with a bonus action. Ramming a creature stops moving the sphere to the turn, triggering the creature to make a DEX save to halve 2d6 fire damage. The sphere can't clear more than a 5ft barrier nor jump more than 10ft horizontally, and it produces a 20ft radius dim light.
+```
+
+```
+Gentle Repose (2nd)
+Casting Time: 1 action 
+Range: Touch
+Duration: 10 days
+A corpse you touch is preserved for the duration, and while in this state can be raised from the dead by spells such as raise dead.
+```
+
+```
+Gift of Gab (2nd)
+Casting Time: 1 reaction taken to speak to a creature 
+Range: Self
+Duration: Instantaneous
+This spell causes creatures within a 10ft range to forget everything said within the last 6 seconds, and the words you speak afterwards replace the forgotten words instead.
+```
+
+```
 Find Traps (2nd)
 Casting Time: 1 action
 Range: 120 feet

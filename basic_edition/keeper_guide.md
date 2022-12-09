@@ -110,6 +110,37 @@ Below are some examples.
 #### Man-faced Ice Crawler (9, 2, 5)
 #### Shrieking Lightning Man (12, 3, 10)
 
+Below are some filled out examples
+
+
+`Instead of eyes, this centipede has long, spindly antennae`
+### Eyeless Poison Centipede, HP:23, AC:14, climb 30ft, [16, 16, 14, 3, 12, 3]
+- Bite +5 2d4 damage DC 16 CON save or 2d6 more damage
+
+`A chubby toothless rat with an ear sticking out of each eye socket.`
+### Eyeless Poison Sniffer, HP:9, AC:13, [12, 14, 10, 3, 10, 3]
+- Gas cloud: 10ft radius, DC 14 CON save or take 2d6 damage
+
+`A rodent with suction cups on it's feet and a layer of ice growing on it's fur.`
+### Glistening Ice Crawler, HP:12, AC:13, climb 30ft [16, 12, 12, 10, 10, 10], Bite +3 1d6 
+- Can move over ice effortlessly
+- Double damage from fire, immune to cold damage
+
+`A fleshy lump with wings and a tiny proboscis.`
+### Winged Meat Blob, HP:5, AC:8, fly 30ft, [3, 3, 3, 3, 3, 3] Proboscis +1 1 damage
+- Numbing bite: DC 10 CON save, or paralayzed for 1 hour
+
+`A beetle the size of a dinner plate with  a hard shell.`
+### Glowing Fire Beetle, HP:4, AC:16, [12, 16, 12, 10, 10, 10], Bite +4 1d6
+- Produces bright light in a 15ft radius
+- Fire spray: 15ft cone, DC 13 DEX save to halve 3d6 damage
+
+`This centipede crawls on a series of nubs.`
+### Limbless Skin Crawler, HP:10, AC:11, [12, 16, 12, 10, 10, 10], Bite +3 1d6
+
+`This worm has wings, human arms and legs, and teeth.`
+### Winged Ice Stalker, HP:15, AC:10, Fly 15ft, [12, 16, 12, 10, 10, 10], Bite +3 2d6
+
 
 ### Demons
 Roll 4d12 to generate a random demon. Assign stats, one attack, and one ability

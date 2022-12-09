@@ -35,7 +35,7 @@ Add 5-10 new maneuvers. Taking inspiration from paladin might help.
 Double-check for typos, formatting issues, or references to outdates rules.
 Identity fections where rephrasing or images could help better explain ideas.
 
-### Finish porting spells: runesmith (Chunk of 10 spells)
+### [DONE]Finish porting spells: runesmith (Chunk of 10 spells)
 Fill out missing spells. Do not use copy/paste, do not use exact wording.
 Cut out clarifications where possible.
 - Darkness [pending]
@@ -49,7 +49,7 @@ Cut out clarifications where possible.
 - Gentle Repose [pending]
 - Gift of Gab [pending]
 
-`Progress Bar: 70%[##############------]`
+`Progress Bar: 80%[################----]`
 
 ## Backlog
 

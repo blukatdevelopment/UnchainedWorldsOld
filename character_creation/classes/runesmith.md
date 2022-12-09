@@ -320,19 +320,19 @@ on itself.
 - Cloud of Daggers
 - Continual Flame
 - Crown of Madness
-- Darkness [pending]
-- Darkvision [pending]
-- Detect Thoughts [pending]
-- Dragon's Breath [pending]
-- Dust Devil [pending]
-- Enhance Ability [pending]
-- Enlarge/Reduce [pending]
-- Flaming Sphere [pending]
-- Gentle Repose [pending]
-- Gift of Gab [pending]
-- Hold Person [pending]
-- Invisibility [pending]
-- Glowing COin [pending]
+- Darkness
+- Darkvision
+- Detect Thoughts
+- Dragon's Breath
+- Dust Devil
+- Enhance Ability
+- Enlarge/Reduce
+- Flaming Sphere
+- Gentle Repose
+- Gift of Gab
+- Hold Person
+- Invisibility
+- Glowing Coin [pending]
 - Kinetic Jaunt [pending]
 - Knock [pending]
 - Magic Mouth [pending]
