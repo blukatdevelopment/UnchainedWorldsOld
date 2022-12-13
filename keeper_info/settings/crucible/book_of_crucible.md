@@ -173,6 +173,7 @@ Goddess of grass, trees, flowers, thorns, fruit, and rebirth. Creating the fae t
 Goddess of sleep, ice, stone, and circles. Her avatar is a teal-skinned pointy-eared humanoid with white irises, and is known for leaving icy footsteps when she walks on land and water alike. Those who speak an oath to Kord gain magic that grows stronger in winter months.
 
 ### Yxheia
+(Pronouncex "Eck-s-Hee-yah")
 Goddess of knowledge, research, scrolls, and wisdom. Yxheia's oath is to preserve, spread, and pursue knowledge. Yxheia's temples always contain libraries that are open to the public, but are incredibly strict about the handling of books and scrolls, requiring flameless light sources such as sky lights and magic torches to be in use. Her scribes are often rewarded for their good deeds by gaining access to carefully guarded knowledge that is deemed to dangerous for the general public.
 
 ### Gidur

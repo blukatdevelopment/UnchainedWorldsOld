@@ -465,7 +465,62 @@ iron, or one inch of lead. Any blood that has been spilled by a creature that
 is still alive will also be visible this way for the duration.
 ```
 
+```
+Vicious Mockery (Cantrip)
+Casting time: 1 action
+Range: 60 feet
+Duration: Instantaneous
+You speak an insult against a creature that can hear you, who must succeed a WIS
+save or else receive 1d4 psychic damage and have disadvantage on the next attack
+roll before the end of it's next turn.
+```
+
 ## 1st level spells
+
+```
+Faerie Fire (1st)
+Casting time: 1 action
+Range: 60ft
+Duration: Concentration, up to 1 minute
+Select a 20ft cube centered on a point within range. All 
+creatures inside must succeed a DEX save or else become illuminated, creating light in a 10ft radius.
+```
+
+```
+Animal Friendship (1st)
+Casting time: 1 action
+Range: 30ft
+Duration: 25 hours
+Choose a beast in range that can hear you and has an intelligence below 4. They must succeed a WIS save or become charmed. If one of your companions or you harms the creature, the charm ends.
+```
+
+```
+Dissonant Whispers (1st)
+Casting time: 1 action
+Range: 60ft
+Duration: Instantaneous
+You whisper to one creature in range that can hear you, and 
+they must succeed a WIS save to halve 3d6 psychic damage and not immediately use it's reaction to move away, provided a
+safe path exists.
+```
+
+```
+Speak with Animals (1st)
+Casting time: 1 action
+Range: Self
+Duration: 10 minutes
+For the duration, you can comprehend and speak with beasts.
+```
+
+```
+Heroism (1st)
+Casting time: 1 action
+Range: Touch
+Duration: Concentration, up to 1 minute
+You touch a creature and imbue it with bravery. The creature is immune to being frightened and gains temporary hit points
+equal to your spellcasting ablity modifier at the start of
+each of their turns.
+```
 
 ```
 Dazzling Light (1st)
@@ -680,7 +735,7 @@ hand and your psionic energy manifests to create an invisible blade of force.
 You are proficient with the mind blade, which lasts for up to one minute and 
 requires concentration. If you make an attack with it on this turn, you may add 
 the amount rolled on your psionic die to your first attack roll. If you did not
-cast this spell with a psionic die, substitute with 1d4.
+cast this spell with a psionic die, substitute with 1d4. The blade's base damage is 1d6.
 ```
 
 ```
@@ -733,6 +788,40 @@ Duration: Instantaneous
 You target a piece of ice that can fit in a 5 foot cube and sculpt it to an arbitrary shape.
 You can shape it in the form of a one-handed martial melee weapon(other than a whip).
 If an ice weapon deals more than 4 damage with a specific attack, it is destroyed.
+```
+
+```
+Enthrall (1st)
+Casting Time: 1 action
+Range: 30 feet
+Duration: 1 Minute
+You speak distractingly to creatures of your choice that can 
+hear you within range, forcing them to make a WIS save to 
+avoid having disadvantage on perception checks to perceive 
+creatures other than you until the spell ends, or the target 
+ceases to hear you. A creature succeeds if it can't be 
+charmed, and it has advantage if currently fighting you or
+your companions. The spell ends if you are incapacitated or
+lose the ability to speak.
+```
+```
+Mirror Image (1st)
+Casting Time: 1 action
+Range: Self
+Duration: 1 minute
+You create three illusory duplicates of yourself, which move with you and mimic your actions, shifting positions in such a way that it's impossible for others to track which image is real.
+
+Attacks targeting you force a 1d20 to determine whether the attack instead hits a duplicate, with DC 6 to switch with three duplicates, DC 8 for two, and DC 11 for one.
+
+Duplicates have an AC of 10 + your DEX, and are destroyed it hit by an attack, but only if hit by an attack. Creatures that cannot see or rely on a sense other than sight, or have truesight are immune to this spell.
+```
+
+```
+Magic Mouth (1st, ritual)
+Casting Time: 1 minute
+Range: 30 feet
+Duration: Until Dispelled
+You embed a 25 word message within an object in range and set a trigger condition that causes it to be spoken aloud. When triggered, a magical mouth appears, or else an existing mouth or mouth-like section of th object moves as a mouth. Triggers must be based on visual or audible conditions within a range of 30ft of the object.
 ```
 
 ```
@@ -907,30 +996,6 @@ damage, provided you land on your feet. You may use your action to jump 40 feet
 instead of 20.
 ```
 
-```
-Command (1st)
-Casting Time: 1 action
-Range: 60 feet
-Duration: 1 round
-You speak a single word command to a creature that can hear you within range.
-The target must succeed a Wisdom save or follow the command on it's next turn.
-
-Some options are defined, but the GM will help arbitrare any you create.
-
-Approach. The target moves toward you by the shortest and most direct route,
-ending its turn if it moves within 5 feet of you.
-
-Drop. The target drops whatever it is holding and then ends its turn.
-
-Flee. The target spends its turn moving away from you by the fastest available
-means.
-
-Grovel. The target falls prone and then ends its turn.
-
-Halt. The target doesn't move and takes no actions. A flying creature stays
-aloft, provided that it is able to do so. If it must move to stay aloft, it
-flies the minimum distance needed to remain in the air.
-```
 
 ```
 Bane (1st)
@@ -1282,20 +1347,6 @@ Every creature within range must succeed a CON save to halve 2d8 thunder damage 
 ```
 
 ```
-Sleep (1st)
-Casting Time: 1 action
-Range: 90 feet
-Duration: 1 minute
-Pick a point within range. All creatures within 20ft of that point are in range 
-of the effect. Roll 5d8 to get your total. The DM starts with the lowest hit 
-point conscious creature in range. If the creatures HP is equal or less than 
-the total, subtract the HP from your total, apply the spell's effect, and move 
-on to the next lowest. If a creature is affected by this spell, they fall into 
-a magical slumber unless they are shaken awake with an action or receive 
-damage. 
-```
-
-```
 Unseen Servant (1st, Ritual)
 Casting Time: 1 action
 Range: 60 feet
@@ -1405,6 +1456,13 @@ Duration: Until Dispelled
 You touch a shut door, window, gate, chest, or other physical opening, and it becomes locked for the duration. You may designate creatures when you cast this spell, allowing yourself and them to to open the object normally. You may also set a password that allows the object to open when spoken. It's otherwise impossible to open the object until either the object is broken or the spell is dispelled or suppressed. The knock spell suppresses arcane lock for a 10 minute period.
 
 The DC to break open or pick increases by 10.
+```
+```
+See Invisibility (2nd)
+Casting Time: 1 action
+Range: self
+Duration: 1 hour
+You can see invisible creatures and object for the duration, and you can likewise see creatures and objects in the ethereal plane as slightly transparent and ghostly.
 ```
 
 ```
@@ -1899,14 +1957,6 @@ You may move the sphere up to 30ft with a bonus action. Ramming a creature stops
 ```
 
 ```
-Gentle Repose (2nd)
-Casting Time: 1 action 
-Range: Touch
-Duration: 10 days
-A corpse you touch is preserved for the duration, and while in this state can be raised from the dead by spells such as raise dead.
-```
-
-```
 Gift of Gab (2nd)
 Casting Time: 1 reaction taken to speak to a creature 
 Range: Self
@@ -1986,6 +2036,14 @@ You create a 20 foot radius sphere centered on a point within range, and no
 sound may exist within the sphere. All creatures within the sphere are 
 deafened, immune to thunder damage, and cannot cast spells with verbal 
 components.
+```
+
+```
+Shatter (2nd)
+Casting Time: 1 action
+Range: 60 feet
+Duration: Instantaneous
+A painfully intense noise erupts from a point within range, causing each creature within a 10ft radius to succeed a CON save to halve 3d8 thunder damage. Creatures made from stone, crystal, metal, glass, or other inorganic material have disadvantage on this check. Non-magical items in this range also take this damage.
 ```
 
 ```
@@ -2075,6 +2133,20 @@ You focus on one creature you can see within range, and glowing glyphs appear
 as an intangible box around them. The creature must succeed a strength saving
 throw to avoid it's flying speed dropping to 0ft for the spell's duration. An
 airborne creature may succeed a strength save in order to land safely.
+```
+
+```
+Phantasmal Force (2nd)
+Casting Time: 1 action
+Range: 60ft
+Duration: Concentration, up to 1 minute
+One creature that is neither undead nor a construct, but which is within range must succeed an INT save to 
+immediately end this spell. On a failure, you create a 
+phantasm that fits within a 10ft cube and is perceived only 
+by the targeted creature. The phantasm includes sound, heat, cold, and other stimuli. The target believes the phantasm is
+real and acts accordingly. If the phantasm is harmful and 
+capable of delivering damage and within 5ft of the creature, 
+it can deal 1d6 psychic damage each round.
 ```
 
 ```
@@ -2495,15 +2567,6 @@ You draw a rune on the ground in an area where rodents, cats, possums, raccoons,
 The swarm has 1d20+20 hit points, 10 AC, 30 movement speed, 30 climbing speed, and has resistance to non-magical physical damage. The swarm can pass through a tiny space and occupy the same space as another creature. When it attacks a creature, the creature must make a dexterity saving throw, taking 3d6 piercing damage on a failure and half as much on a success.
 
 The swarm listens to your orders for the duration. You may cast this spell again before the duration ends to maintain control of up to three swarms.
-```
-
-```
-Cause Fear (3rd)
-Casting Time: 1 action
-Range: 60 feet
-Duration: Concentration, up to 1 minute
-You target one creature who must make a wisdom saving throw. On a failure, 
-fear runs through them and they are frightened for the duration.
 ```
 
 ```

@@ -363,7 +363,6 @@ on itself.
 - Wither and Bloom [pending]
 
 ### 3rd
-- Cause Fear 
 - Create Undead Vermin Swarm 
 - Shadow Magic 
 - Delusion 
