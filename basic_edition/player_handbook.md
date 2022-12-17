@@ -43,10 +43,9 @@ The keeper may ask you to make a check to succeed an attempted action, or a
 saving throw to resist negative effects. Roll a 1d20 and add the modifier for
 the relevant ability.
 
-```
-+-------+----------+
+
 | Score | Modifier |
-+-------+----------+
+|:------|:---------|
 | 20    | +5       |
 | 18-19 | +4       |
 | 16-17 | +3       |
@@ -58,8 +57,8 @@ the relevant ability.
 | 4-5   | -3       |
 | 2-3   | -4       |
 | 1     | -5       |
-+-------+----------+
-```
+
+
 
 ### Generating ability scores
 Roll 4d6. Set aside the lowest roll and ignore it. Add up the remaining three. This is your strength score. Repeat this process for the other five abilities. When you’re done, you may switch the scores of two abilities. You may do this only for one pair of abilities.
@@ -70,17 +69,15 @@ You may choose between mage, rogue, or fighter.
 ### Mage
 ![Mage](../img/mage.jpg?raw=true "Mage")
 Mages can use staves and daggers, but cannot wear armor. You start with a spellbook to store your spells in, a wand to cast spells with, robes, a staff, 10 torches, 10 days of rations, and 10 gold pieces.
-```
-+-----+------+-----+--------+------------------+
+
 | LVL |  XP  | HP  | SPELLS |       Feat       |
-+-----+------+-----+--------+------------------+
+|:----|:-----|:----|:-------|:-----------------|
 |   1 |    0 | 1d4 |      2 | Spellcasting     |
 |   2 |  100 | 2d4 |      4 | Improve Spell    |
 |   3 |  300 | 3d4 |      6 | Improve Spell    |
 |   4 |  600 | 4d4 |      8 | Improve Spell    |
 |   5 | 1000 | 5d4 |     10 | Signature Spell  |
-+-----+------+-----+--------+------------------+
-```
+
 #### Spellcasting
 Chose either INT or WIS as your spellcasting modifier. When you make spell attack rolls, add this modifier. When targets make saving throws to resist your spells, they roll against 10 + spellcasting modifier. You know 2 spell at first level, and learn a new spells according to the spells column. You can cast each spell you know once per rest. You may not have multiple copies of a spell prepared at once.
 
@@ -132,17 +129,15 @@ You may create your own spell. It may be any spell level. Work with the keeper.
 Rogues can use one-handed weapons as well as bows, and can wear light armor.
 You start with two daggers, a bow with 20 arrows, 10 torches, 10 days of
 rations, crowbar, 50ft hempen rope, dark hooded clothes, and 10 gold pieces.
-```
-+-----+------+-----+--------+
+
 | LVL |  XP  | HP  | Tricks |
-+-----+------+-----+--------+
+|:----|:-----|:----|:-------|
 |   1 |    0 | 1d6 |      2 |
 |   2 |  100 | 2d6 |      3 |
 |   3 |  300 | 3d6 |      5 |
 |   4 |  600 | 4d6 |      6 |
 |   5 | 1000 | 5d6 |      8 |
-+-----+------+-----+--------+
-```
+
 #### Tricks(level 1 minimum)
 1. Pet: You get a rat, cat, ferret, or bird. It shares your turn in initiative.
 2. Intimidation: You have a +4 bonus when trying to intimidate.
@@ -187,17 +182,15 @@ starting gear:
 2. sword, bow, 20 arrows, light armor\
 In addition to your choice, add 10 torches, 10 days of rations, athletic clothes, 50ft hempen rope, and 10 gold
 pieces.
-```
-+-----+------+------+------------+-----------------------+
+
 | LVL |  XP  |  HP  | Techniques |      Feats            |
-+-----+------+------+------------+-----------------------+
+|:----|:-----|:-----|:-----------|:----------------------|
 |   1 |    0 | 1d10 |          2 | Power Move            |
 |   2 |  100 | 2d10 |          3 | Weapon training       |
 |   3 |  300 | 3d10 |          4 |                       |
 |   4 |  600 | 4d10 |          5 | Extra Attack          |
 |   5 | 1000 | 5d10 |          6 |                       |
-+-----+------+------+------------+-----------------------+
-```
+
 
 #### Power Move
 You may gain a 1d12 bonus on any required checks when you declare an action such as swinging from a chandelier, pushing someone off a cliff, or glaring at a creature to intimidate them. Once you use this ability, you cannot use it again until you complete a rest or exit a combat encounter.
@@ -300,16 +293,15 @@ If you do every step on this list, your character is done.
 
 ### Weapons
 If you attack unarmed, your attack does damage equal to 1 + your strength modifier(minimum 1).
-```
-+-------------|--------------------------------------------+--------+------+----+
+
+
 | Class       |                   Weapon                   | Weight | Cost | DMG|
-+-------------|--------------------------------------------+--------+------+----+
+|:------------|:-------------------------------------------|:-------|:-----|:---|
 |  Minor      | Daggers, clubs, sickles, staves            |  2 lb. |    5 | D4 |
 |  Ranged     | Bows, crossbows                            |  5 lb. |   25 | D6 |
 |  Martial    | Swords, axes, war hammers, maces           |  5 lb. |   45 | D6 |
 |  Great      | Greataxes, greatswords, lances, battleaxes |  9 lb. |   80 | D12|
-+-------------|--------------------------------------------+--------+------+----+
-```
+
 
 ### Coinage
 1 Gold Piece = 10 silver pieces = 100 copper pieces. 50 pieces = 1 lb
@@ -317,10 +309,9 @@ If you attack unarmed, your attack does damage equal to 1 + your strength modifi
 ### Adventuring gear
 Adventuring requires a great many things. Here are some of them.
 
-```
-+------------------------------+----------+--------------+
+
 |             Item             |   Cost   |    Weight    |
-+------------------------------+----------+--------------+
+|:-----------------------------|:---------|:-------------|
 | Arrows (20)                  | 1 gp     | 1 lb.        |
 | Wand                         | 10 gp    | 1 lb.        |
 | Backpack                     | 2 gp     | 5 lb.        |
@@ -345,22 +336,18 @@ Adventuring requires a great many things. Here are some of them.
 | Tinderbox                    | 5 sp     | 1 lb.        |
 | Torch(30 light)              | 1 cp     | 1 lb.        |
 | Waterskin                    | 2 sp     | 5 lb. (full) |
-+------------------------------+----------+--------------+
-```
+
 
 ### Armor
 
-```
-+--------+--------+-----+-----+
 | Armor  |   AC   | GP  | Lbs |
-+--------+--------+-----+-----+
+|:-------|:-------|:----|:----|
 | None   | 10+DEX |  -- |  -- |
 | Light  | 11+DEX |  10 |  10 |
 | Medium | 14     |  50 |  45 |
 | Heavy  | 17     | 200 |  60 |
 | Shield | +2     |  10 |  10 |
-+--------+--------+-----+-----+
-```
+
 
 ### Rest
 When you get an 8 hour night of sleep, you regain any lost hit points, spells, 

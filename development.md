@@ -43,7 +43,7 @@ Cut out clarifications where possible.
 - Gentle Repose [pending]
 - Gift of Gab [pending]
 
-### Create class: Bard
+### [DONE]Create class: Bard
 A generalist CHA caster that gets skills, bardic inspiration, and a spell list
 that contains lots of charm/psychic magic. Maybe let them rehearse(prepare) spells
 on a rest or during a 10 minute break(eating a stamina die). Use spell slots or
@@ -57,7 +57,7 @@ are as well (and offer some different art forms that give them a perk of some ki
 ### Create class: Shaman
 Animistic religious full caster. Wildshape
 
-`Progress Bar: 80%[################----]`
+`Progress Bar: 90%[##################--]`
 
 ## Backlog
 

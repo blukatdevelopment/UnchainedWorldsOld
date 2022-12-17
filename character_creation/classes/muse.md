@@ -1,17 +1,3 @@
-When you cast the command spell, the target has
-disadvantage on their save, and when you use the healing word spell, you may
-add twice your spellcasting modifier to the amount healed.
-
-
-When you prepare spells, you may prepare one extra spell.
-
-When preparing spells, you may
-prepare a second copy of a prepared spell by painting it, and cast the spell by
-releasing the painting.
-
-When not wearing armor, your AC is 11+DEX due to your agility.
-
-
 ```
 ################################################################################
 #              |  \/  |                                                        #
