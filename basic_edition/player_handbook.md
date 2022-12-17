@@ -299,16 +299,16 @@ If you do every step on this list, your character is done.
 ## Equipment and items
 
 ### Weapons
-All weapons deal 1d6 damage, with melee using strength. If you attack unarmed, your attack does damage equal to 1 + your strength modifier(minimum 1).
+If you attack unarmed, your attack does damage equal to 1 + your strength modifier(minimum 1).
 ```
 +-------------|--------------------------------------------+--------+------+----+
-| Class       |                   Weapon                   | Weight | Cost | DMG
-+-------------|--------------------------------------------+--------+------+
-|  Minor      | Daggers, clubs, sickles, staves            |  2 lb. |    5 |
-|  Ranged     | Bows, crossbows                            |  5 lb. |   25 |
-|  Martial    | Swords, axes, war hammers, maces           |  5 lb. |   45 |
-|  Great      | Greataxes, greatswords, lances, battleaxes |  9 lb. |   80 |
-+-------------|--------------------------------------------+--------+------+
+| Class       |                   Weapon                   | Weight | Cost | DMG|
++-------------|--------------------------------------------+--------+------+----+
+|  Minor      | Daggers, clubs, sickles, staves            |  2 lb. |    5 | D4 |
+|  Ranged     | Bows, crossbows                            |  5 lb. |   25 | D6 |
+|  Martial    | Swords, axes, war hammers, maces           |  5 lb. |   45 | D6 |
+|  Great      | Greataxes, greatswords, lances, battleaxes |  9 lb. |   80 | D12|
++-------------|--------------------------------------------+--------+------+----+
 ```
 
 ### Coinage
