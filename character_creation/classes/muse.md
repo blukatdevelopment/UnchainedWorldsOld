@@ -1,3 +1,17 @@
+When you cast the command spell, the target has
+disadvantage on their save, and when you use the healing word spell, you may
+add twice your spellcasting modifier to the amount healed.
+
+
+When you prepare spells, you may prepare one extra spell.
+
+When preparing spells, you may
+prepare a second copy of a prepared spell by painting it, and cast the spell by
+releasing the painting.
+
+When not wearing armor, your AC is 11+DEX due to your agility.
+
+
 ```
 ################################################################################
 #              |  \/  |                                                        #
@@ -64,7 +78,7 @@ SL = Spell Level
 |   3 |   900 | 6 | +2  | 2 | Focus Feat
 |   4 |  1800 | 8 | +2  | 2 | Jack of all Trades
 |   5 |  3600 |10 | +2  | 2 | Improvised preparation
-|   6 |  6100 |12 | +2  | 3 | 
+|   6 |  6100 |12 | +2  | 3 | Reliable Talent
 |   7 |  9100 |14 | +3  | 3 | Esoteric knowledge
 |   8 | 13100 |16 | +3  | 3 | 
 |   9 | 22600 |18 | +4  | 3 | 
@@ -101,10 +115,7 @@ do so, prepare a number of spells from the muse spell list according to the tabl
 A muse bends the weave in a myriad ways, each with their specific qualities.
 
 #### Vocal
-The quality of your voice shapes the weave.
-
-##### Word of Inspiration
-You may use a bonus action to consume a stamina die and speak a word of encouragement to those within 30ft of you which you. Each creature receives an inspiration die, a d6 which they may expend to add to a check, save, or attack roll. The inspiration die expires after 10 minutes. A creature may only have one inspiration die at a time.
+The quality of your voice shapes the weave. 
 
 #### Instrumental
 You shape the weave with an instrument. 
@@ -115,25 +126,25 @@ When you take ten minutes and expend a stamina die, you and those within 30ft of
 #### Spoken
 Reciting words, in their rhythm, verse, rhyme, and tempo shapes the weave. You
 may be a poet, storyteller, or speaker. What you definitely are, however, is
-skilled with your words. When you cast the command spell, the target has
-disadvantage on their save, and when you use the healing word spell, you may
-add twice your spellcasting modifier to the amount healed.
+skilled with your words.
+
+Choose either Inspiration or Ridicule.
+
+##### Inspiration
+You may use a bonus action to consume a stamina die and speak a word of encouragement to those within 30ft of you which you. Each creature receives an inspiration die, a d6 which they may expend to add to a check, save, or attack roll. The inspiration die expires after 10 minutes. A creature may only have one inspiration die at a time.
 
 ##### Ridicule
-You know the vicious mockery cantrip, and can cast it at will. 
+You know the vicious mockery cantrip, and can cast it at will. Additionally, When you cast the command spell, you may expend a stamina die to impose disadvantage on the target's saving throw.
 
 #### Written
-The act of writing words allows you to shape the weave. When you prepare spells,
-you may prepare one extra spell.
+The act of writing words allows you to shape the weave.
 
 ##### The list
 You use your action to write the name of one creature within 60ft of you, and
 consume a stamina die. The creature makes a WIS save to halve 3d6 psychic damage.
 
 #### Painted
-Painting pictures lets you shape the weave. When preparing spells, you may
-prepare a second copy of a prepared spell by painting it, and cast the spell by
-releasing the painting.
+Painting pictures lets you shape the weave. 
 
 ##### Paint familiar
 You may consume a stamina die in order to spend 10 minutes painting a tiny
@@ -142,7 +153,6 @@ to life. You may only have one creature summoned this way at a time.
 
 #### Dance
 When you move your body with rhythm, your movements shape and guide the weave.
-When not wearing armor, your AC is 11+DEX due to your agility.
 
 ##### Dancing Dodge
 As a reaction when you are targeted by an attack(after the attack roll is made),
@@ -151,10 +161,10 @@ On a success, the attack misses you as you dance out of the way.
 
 #### Blade
 Your muscle-memory contains dozens of precise moves with a blade, and you use
-them to shape the weave. You are proficient with scimitars, shortswords,
-longswords, rapiers, and greatswords.
+them to shape the weave. 
 
 ##### Sword Dance
+You are proficient with scimitars, shortswords, longswords, rapiers, and greatswords.
 You may consume a stamina die and use your bonus action to set up for an artful
 strike. Your next melee attack with a sword this turn receives advantage.
 
@@ -167,9 +177,10 @@ skills.
 Each focus offers a different feat at level 3
 
 #### Vocal: Echolocation
-You learn to create a nearly imperceptible high note and use it's echo to determine the position of objects, gaining blindsight up to 100 feet.
+You learn to create a high note and use it's echo to determine the position of objects, gaining blindsight up to 100 feet.
 
-#### Instrumental
+#### Instrumental: Heroic Theme Song
+You may specially compose a song for one creature that you know. You may expend a stamina die and use an action to start playing this song. If you use your action on a following turn for anything other than continuing this song, the song ends and must be started again, consuming another stamina die. While you play the creature's theme song this way and they can hear it, they make attack rolls and saving throws with advantage. At the start of their turn, the creature likewise gains 1d12 temporary hit points.
 
 #### Spoken: Bonus Spells
 Your speech improves, and you gain access to new spells.
@@ -189,7 +200,8 @@ Your speech improves, and you gain access to new spells.
 - Kindness
 - Malevolent Guidance
 
-#### Written
+#### Written: Get that in triplicate.
+When you prepare spells, you may expend five stamina dice prepare one spell three times.
 
 #### Painted: Bonus Spells
 You learn to produce other spells using your paintings.
@@ -260,9 +272,14 @@ prepare the spell again until you use this feat to do so.
 | 6+          | 25 |
 +-------------+----+
 ```
+### Reliable Talent
+When you roll less than 10 on a skill check, you may 
 
 ### Esoteric Knowledge
-At level 7, you learn to dip into the knowledge of other fields, recreating spells of other magical disciplines using your focus. Choose a 
+At level 7, you learn to dip into the knowledge of other fields, recreating spells of other magical disciplines using your focus. Choose a spell from another class's spell list. You now know the spell and can prepare it.
+
+### Unbound Knowledge
+At level 10, your knowledge exceeds your power. Choose one spell from any class's spell list, level 5 or lower. You know this spell. When you prepare it, you consume 20 stamina dice.
 
 ## Spell list
 

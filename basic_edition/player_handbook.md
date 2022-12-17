@@ -301,8 +301,8 @@ If you do every step on this list, your character is done.
 ### Weapons
 All weapons deal 1d6 damage, with melee using strength. If you attack unarmed, your attack does damage equal to 1 + your strength modifier(minimum 1).
 ```
-+-------------|--------------------------------------------+--------+------+
-| Class       |                   Weapon                   | Weight | Cost |
++-------------|--------------------------------------------+--------+------+----+
+| Class       |                   Weapon                   | Weight | Cost | DMG
 +-------------|--------------------------------------------+--------+------+
 |  Minor      | Daggers, clubs, sickles, staves            |  2 lb. |    5 |
 |  Ranged     | Bows, crossbows                            |  5 lb. |   25 |
