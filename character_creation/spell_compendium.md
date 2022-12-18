@@ -2096,6 +2096,27 @@ from you.
 ```
 
 ```
+Great Berry (2nd)
+Casting Time: 1 hour
+Range: self
+Duration: Instantaneous
+You sacrifice two pounds of food as part of casting this spell, destroying it
+in the process. In it's place, you create 1d10 magical berries. Roll on the table
+below to determine their effect. The berries become normal berries after 24
+hours.
+
+1. Grants the benefits of food and water for one day
+2. Grants 1d6 temporary hit points
+3. Restores 2d4+2 hit points
+4. Grants +10 bonus to the next saving throw made within 10 minutes
+5. Increases hit points and maximum hit points by 5 until a rest is completed.
+6. Restores 2 stamina dice
+
+From Higher Levels: When cast from a 3rd or higher spell level, this spell
+produces an additional 1d10 magical berries.
+```
+
+```
 Blazing Scorcher (2nd)
 Casting Time: 1 action
 Range: 30ft
@@ -3163,9 +3184,18 @@ Heart Crush (4th level)
 Casting Time: 1 action
 Range: 60 feet
 Duration: Instantaneous
-You target one creature that has a heart that you can see and attempt to crush their heart. They must make 
-a constitution saving throw. On a failure they receive 8d6 force damage, and on a success they take half 
+You target one creature you can see that has a heart and attempt to crush their heart. They must make  a constitution saving throw. On a failure they receive 8d6 force damage, and on a success they take half 
 as much.
+```
+
+```
+Crushing Force (4th)
+Casting time: 1 action
+Range: 60ft
+Duration: Concentration
+You extend your hands to a creature within range that you can see. A force compresses their body, dealing 2d8 force damage.
+
+On your following turns, you may use your action to continue crushing them. This deals double the dice (4d8, 8d8, 16d8) worth of damage each turn it is continued. If you lose concentration or use your action for anything other than continuing this spell, the spell ends. When you continue the crushing, you receive half the force damage you give. If you fall below 1 hit point from this spell, you are unconscious, but stable, and do not need to make death saving throws.
 ```
 
 ```

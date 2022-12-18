@@ -61,18 +61,18 @@ Prof = proficiency bonus
 SS = Number of Soul Stones
 +-----+-------+-----+-----+----+----------------------------------------------+
 | Llv | XP    | SD  |Prof | SS |       Features                               |
-+-----+-------+---+-----+----+----------------------------------------------+
-|   1 |     0 | 2 | +1  |  1 | Infuser                                      |
-|   2 |   300 | 4 | +1  |  2 | Hit point Increase, Enhanced Infuser         |
-|   3 |   900 | 6 | +2  |  4 | Hit point Increase, Discipline               |
-|   4 |  1800 | 8 | +2  |  6 | Hit point re-roll                            |
-|   5 |  3600 |10 | +2  |  9 | Ability Score Increase, Discipline ability   |
-|   6 |  6100 |12 | +2  | 12 |                                              |
-|   7 |  9100 |14 | +3  | 16 | Discipline ability                           |
-|   8 | 13100 |16 | +3  | 20 |                                              |
-|   9 | 22600 |18 | +4  | 24 |                                              |
-|  10 | 44600 |20 | +4  | 29 | Discipline ability, Ability Score Increase   |
-+-----+-------+---+-----+----+----------------------------------------------+
++-----+-------+-----+-----+----+----------------------------------------------+
+|   1 |     0 | 2   | +1  |  1 | Infuser                                      |
+|   2 |   300 | 4   | +1  |  2 | Hit point Increase, Enhanced Infuser         |
+|   3 |   900 | 6   | +2  |  4 | Hit point Increase, Discipline               |
+|   4 |  1800 | 8   | +2  |  6 | Hit point re-roll                            |
+|   5 |  3600 |10   | +2  |  9 | Ability Score Increase, Discipline ability   |
+|   6 |  6100 |12   | +2  | 12 |                                              |
+|   7 |  9100 |14   | +3  | 16 | Discipline ability                           |
+|   8 | 13100 |16   | +3  | 20 |                                              |
+|   9 | 22600 |18   | +4  | 24 |                                              |
+|  10 | 44600 |20   | +4  | 29 | Discipline ability, Ability Score Increase   |
++-----+-------+-----+-----+----+----------------------------------------------+
 ```
 
 ### Infuser

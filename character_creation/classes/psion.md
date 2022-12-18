@@ -108,9 +108,7 @@ creatures instead of one, you communicate through solid objects.
 
 ### Psionic Guidance
 You draw from your well of mental guidance to creatures within thirty feet of 
-you. Either as an action on your turn or as a reaction on another turn, you may 
-roll your psionic die as if casting a spell and add the number you rolled to a 
-creature’s attack, ability check, skill check, or saving throw.
+you. Either as an action on your turn or as a reaction on another creature's turn, you may roll your psionic die as if casting a spell and add the number you rolled to a creature’s attack, ability check, skill check, or saving throw(including death saving throws).
 
 ### Hit point Increase
 Your maximum hit points increase by 1d4+CON.
@@ -120,7 +118,8 @@ You have awakened latent abilities. They will grow stronger as you grow further
 in tune with yourself. Your spellcasting ability is wisdom. To determine the 
 limit of your magical capacity you use a psionic die. At first level, your
 psionic die is a D2. It increases in size according to the “psionic die” column in the psion table. Spells you cast never need verbal, somatic, nor material 
-components.
+components. If you cast a damage-dealing spell and roll the maximum value on
+the first psionic die you roll for that spell, the spell deals critical damage.
 
 #### Using the psionic die
 When you cast a spell of first or higher level, you roll a number of dice equal
@@ -200,4 +199,5 @@ of your choice by 1. You cannot increase an ability score past 20.
 - Dreamscape
 - Heart Crush 
 - Mind Meld
+- Crushing Force
 - Psychic Lance [Pending]

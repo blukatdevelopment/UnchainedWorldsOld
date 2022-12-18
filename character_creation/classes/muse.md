@@ -47,7 +47,10 @@ Choose 4 from the following:
 - Sleight of Hand
 
 ## Starting Equipment
-
+- Musical instrument
+- Notebook
+- Common clothes
+- One simple weapon
 
 
 ```
@@ -59,16 +62,16 @@ SL = Spell Level
 +-----+-------+---+-----+---+-------------------------------------------+
 | LVL |  XP   |SD |Prof |SL |        Features                           |
 +-----+-------+---+-----+---+-------------------------------------------+
-|   1 |     0 | 2 | +1  | 1 | Spellcasting, Focus
-|   2 |   300 | 4 | +1  | 1 | Expertise
-|   3 |   900 | 6 | +2  | 2 | Focus Feat
-|   4 |  1800 | 8 | +2  | 2 | Jack of all Trades
-|   5 |  3600 |10 | +2  | 2 | Improvised preparation
-|   6 |  6100 |12 | +2  | 3 | Reliable Talent
-|   7 |  9100 |14 | +3  | 3 | Esoteric knowledge
-|   8 | 13100 |16 | +3  | 3 | 
-|   9 | 22600 |18 | +4  | 3 | 
-|  10 | 44600 |20 | +4  | 3 | Unbound knowledge
+|   1 |     0 | 2 | +1  | 1 | Spellcasting, Focus                       |
+|   2 |   300 | 4 | +1  | 1 | Hit point Increase, Expertise             |
+|   3 |   900 | 6 | +2  | 2 | Hit point Increase, Focus Feat            |
+|   4 |  1800 | 8 | +2  | 2 | Hit point re-roll, Jack of all Trades     |
+|   5 |  3600 |10 | +2  | 2 | Improvised preparation                    |
+|   6 |  6100 |12 | +2  | 3 | Reliable Talent                           |
+|   7 |  9100 |14 | +3  | 3 | Esoteric knowledge                        |
+|   8 | 13100 |16 | +3  | 3 |                                           |
+|   9 | 22600 |18 | +4  | 3 |                                           |
+|  10 | 44600 |20 | +4  | 3 | Unbound knowledge                         |
 +-----+-------+---+-----+---+-------------------------------------------+
 ```
 
@@ -102,6 +105,12 @@ A muse bends the weave in a myriad ways, each with their specific qualities.
 
 #### Vocal
 The quality of your voice shapes the weave. 
+
+##### Irresistible Song
+You sing, and all those that hear you must succeed a WIS save against your spell DC, or else join in singing.
+A creature singing this way cannot focus to cast a spell and has disadvantage on attack rolls, skill checks, and
+ability checks. A creature effected by this song can repeat the saving throw at the start of their turn. If a creature
+passes the WIS save, they are immune to this song until they complete a rest.
 
 #### Instrumental
 You shape the weave with an instrument. 
@@ -150,14 +159,21 @@ Your muscle-memory contains dozens of precise moves with a blade, and you use
 them to shape the weave. 
 
 ##### Sword Dance
-You are proficient with scimitars, shortswords, longswords, rapiers, and greatswords.
-You may consume a stamina die and use your bonus action to set up for an artful
-strike. Your next melee attack with a sword this turn receives advantage.
+You are proficient with scimitars, shortswords, longswords, rapiers, and greatswords,
+and may choose one of them as a part of your starting equipment. You may consume
+a stamina die and use your bonus action to set up for an artful strike. Your
+melee attacks with a sword this turn receive advantage.
+
+### Hit point Increase
+Your maximum hit points increase by 1d6+CON.
 
 ### Expertise
 Choose two skills you are proficient with. You have expertise in them, which
 means you may add your proficiency bonus twice when making checks with the
 skills.
+
+### Hit point Increase
+Your maximum hit points increase by 1d6+CON.
 
 ### Focus Feat
 Each focus offers a different feat at level 3
@@ -187,7 +203,7 @@ Your speech improves, and you gain access to new spells.
 - Malevolent Guidance
 
 #### Written: Get that in triplicate.
-When you prepare spells, you may expend five stamina dice prepare one spell three times.
+When you prepare spells, you may expend five stamina dice to prepare one spell three times.
 
 #### Painted: Bonus Spells
 You learn to produce other spells using your paintings.
@@ -236,8 +252,13 @@ Through your unique motions, you unlock new possibilities for spellcasting.
 #### Blade: Extra Attack
 When you use your action to make an attack, you may make one additional attack.
 
+### Hit point re-roll
+Now, and again each time you gain a level from now on, you recalculate your hit
+points. Roll 3d6 and add your CON modifier three times. If the value rolled is
+higher than your current max hit points, you may keep it.
+
 ### Jack of all Trades
-Your general knowledge serves you well. You now receive half your prpficiency
+Your general knowledge serves you well. You now receive half your proficiency
 bonus on all skills which you are not proficient with.
 
 ### Improvised preparation
@@ -259,7 +280,8 @@ prepare the spell again until you use this feat to do so.
 +-------------+----+
 ```
 ### Reliable Talent
-When you roll less than 10 on a skill check, you may 
+When you roll less than 10 on a skill check with a skill you are proficient with,
+you may expend a hit die to instead roll 10 for the purpose of that skill check.
 
 ### Esoteric Knowledge
 At level 7, you learn to dip into the knowledge of other fields, recreating spells of other magical disciplines using your focus. Choose a spell from another class's spell list. You now know the spell and can prepare it.
@@ -343,4 +365,3 @@ At level 10, your knowledge exceeds your power. Choose one spell from any class'
 - Speak with the dead
 - Stinking Cloud
 - Tongues
-
