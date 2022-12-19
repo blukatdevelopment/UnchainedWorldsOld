@@ -7,3 +7,17 @@
 # \____/|_|\___|_| |_| |_|\___|_| |_|\__\__,_|_|        #
 #                                                       #
 #########################################################
+
+```
+Flame Guardian
+Medium Elemental
+HP: (4d8)
+AC: 15
+Speed: 25ft, fly 25ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 10| 10|  3| 14|  3|
+Immune to: fire
+Weak to: cold
+Attacks:
+Flame Seed +6 2d10 fire damage
+```

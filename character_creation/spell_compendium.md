@@ -420,6 +420,19 @@ You clap, producing a sound that can be heard for 100ft. Every creature within t
 ```
 
 ```
+Druidcraft (Cantrip)
+Casting Time: 1 action
+Range: 30ft
+Duration: Instantaneous
+You may create one of the following effects within this spell's range.
+- You create a harmless sensory effect which predicts the whether for the next 24 hours in your location.
+- Within a 5ft cube you cause a harmless sensory effect, such as snow falling, a windy howl, or the smell of a skunk.
+- You light a torch, candle, or small campfire.
+- You cause a seed pod to open, or a flower to blossom, or fruit to ripen.
+- You sing. Roll a 1d4. On a 4, any local creatures nearby are enticed to come listen.
+```
+
+```
 Toll The Dead (Cantrip)
 Casting Time: 1 action
 Range: 60ft
@@ -427,6 +440,25 @@ Duration: Instantaneous
 You point at a creature and the sound of a funeral bell fills it's immediate 
 area. It must succeed a WIS save to avoid 1d8 necrotic damage. The damage increases to 1d12 if the target is missing any hit points.
 ```
+
+```
+Produce Flame (Cantrip)
+Casting Time: 1 action
+Range: self
+Duration: 10 minutes
+A flame appears in your hand for the duration, producing 10ft of bright light and 10ft of dim light past that. The flame does not burn you. If you dismiss the flame as an action or cast this spell again, the spell ends.
+
+If used as an attack, the spell ends afterward. As an action on a later turn, or just after casting this spell, you may throw the flame at a creature within 30ft. Make a ranged spell attack dealing 1d8 fire damage.
+```
+
+```
+Shillelagh (Cantrip)
+Casting Time: 1 bonus action
+Range: Touch
+Duration: 1 minute
+You imbue a quarterstaff or club that you are holding with natural power. For the duration, attack and damage rolls with this weapon use your spellcasting ability instead of Strength, and the weapon's damage die becomes a d8. The weapon is considered magical during the spell's duration, and the spell ends if it is cast again, or if the weapon is let go of.
+```
+
 
 ```
 Resistance (Cantrip)
@@ -1347,6 +1379,22 @@ Every creature within range must succeed a CON save to halve 2d8 thunder damage 
 ```
 
 ```
+Longstrider (1st)
+Casting Time: 1 action
+Range: touch
+Duration: 1 hour
+One creature you touch has it's speed increased by 10ft until the spell ends.
+```
+
+```
+Entangle (1st)
+Casting Time: 1 action
+Range: 90ft
+Duration: Concentration, up to 1 minute
+A 20ft square within range fills with grasping vegetation, forcing all creatures in the area to succeed a STR save or become restrained until the spell ends. A creature can make a STR check to free itself using it's action. When the spell ends, the plants that were conjured die and wither.
+```
+
+```
 Unseen Servant (1st, Ritual)
 Casting Time: 1 action
 Range: 60 feet
@@ -2082,6 +2130,14 @@ up.
 ```
 
 ```
+Air Bubble (2nd)
+Casting time: 1 action
+Range: 60ft
+Duration: 24 hours
+A globe appears around the head of a willing creature you can see within range, and it's filled with fresh air for the duration. Should the creature have multiple heads, the globe appears around all of it's heads.
+```
+
+```
 Gust of wind (2nd)
 Casting time: 1 action
 Range: Self(60ft line)
@@ -2094,6 +2150,88 @@ following the line. The space of the wind is considered difficult terrain.
 With a bonus action each turn, you may change the direction of the wind coming
 from you.
 ```
+
+```
+Barkskin (2nd)
+Casting time: 1 action
+Range: Touch
+Duration: Concentration, up to 1 hour
+One willing creature that you touches grows a rough, bark texture and their AC cannot be less than 16.
+```
+
+```
+Beast Sense (2nd)
+Casting time: 1 action
+Range: Touch
+Duration: Concentration, up to 1 hour
+You effect one willing beast by touching it. You may use your action to see, hear, smell, taste, and touch anything the creature can, but are unable to access your own senses at the same time.
+```
+
+```
+Flame Blade (2nd)
+Casting time: 1 bonus action
+Range: Self
+Duration: Concentration, up to 10 minutes
+A fiery blade erupts in your free hand, similar in size to a scimitar. Letting go of the blade causes it to disappear, but you can evoke it again with your bonus action. It provides 10ft of bright and dim light.
+
+You may use your action to make a melee spell attack with the flaming blade, dealing 3d6 fire damage on a hit.
+```
+
+```
+Locate Animals Or Plants (2nd)
+Casting time: 1 action
+Range: Self
+Duration: Instantaneous
+Name or describe a kind of beast or plant, conjuring the direction and distance to the closest creature or plant of this kind within 5 miles, should any be present.
+```
+
+```
+Warding Wind(2nd)
+Casting time: 1 action
+Range:  150ft
+Duration: Concentration, up to 10 minute
+You create a 20mph wind within a 10ft radius of you that follows you for the spell's duration. The wind has the following effects.
+- Creatures inside are deafened
+- Flames are extinguished within the area
+- It diserses vapor, gas, and fog
+- The area's difficult terrain for creatues other than you
+- Ranged weapon attacks have dsadvantage when targeting creatures inside the wind
+```
+
+```
+Wither and Bloom(2nd)
+Casting time: 1 action
+Range:  60ft
+Duration: Instantaneous
+You select a 10ft sphere centered on a point within range and exact the wither and bloom on it. The wither allows you to select creatures and force a CON save to halve 2d6 necrotic damage. Bloom allows one creature in the area to roll it's stamina die and regain as much hit points, including your spellcasting ability modifier.
+```
+
+```
+Spike Growth(2nd)
+Casting time: 1 action
+Range:  150ft
+Duration: Concentration, up to 10 minute
+The ground around you in a 20ft radius explodes with hard spikes and throwns, becoming difficult terrain for the duration. Creatures passing through take 2d4 piercing damage for every 5ft they travel.
+
+The spikes are cammouflaged to be natural in appearance, forcing a WIS check against your spell DC for any creature that does not witness the spell's casting.
+```
+
+```
+Moonbeam (2nd)
+Casting time: 1 action
+Range: 120ft
+Duration: Concentration, up to 1 minute
+A 5ft radius, 40ft cylinder appears centered on a point within range, filling the cylinder with dim light. Ghostly flames engulf any creature who enters the area for the first time on their turn, or who starts their turn inside. These flames force a CON save to halve 2d10 radiant damage. A shapechanger makes this save with disadvantage, and instantly reverts if it fails. You may move the beam 60 feet with your bonus action on subsequent turns.
+```
+
+```
+Pass Without a Trace (2nd)
+Casting time: 1 action
+Range: self
+Duration: Concentration, up to 1 hour
+You are veiled in shadows and silence, protecting you and creatures of your choice within a 30ft radius of you to gain a +10 bonus to stealth checks and are immune to magical tracking. Effected creatures leave no tracks or other traces of their passage through an area.
+```
+
 
 ```
 Great Berry (2nd)
@@ -2181,6 +2319,46 @@ target of the attack. The sheet has an AC of 16 and 15HP.
 ```
 
 ## 3rd level spells
+
+```
+Wind Wall(3rd level)
+Casting Time: 1 action
+Range: 120ft
+Duration: Concentration, up to 1 minute
+Choose a point within range for a wall of strong wind to rose from. The wall may be up to 5ft long, 15ft high, and 1ft thick, shaped any way you choose so long as it makes one continuous path along the ground for he duration.
+
+When cast, creatures within the area must succeed a STR save to halve 3d8 bludgeoning damage.
+
+Fog, smoke, and other gases are kept at bay by the wind, and small or smaller flying creatures and objects can't pass through the wall. Lightweight, loose materials brought into the wall fling upwards. Bolts, arrows, and other typical projectules launched at targets within the wall are deflected and automatically miss. Heavier projectiles such as boulders are unaffected.) It can also not be crossed by creatures in gaseous form.
+```
+
+```
+Speak With Plants(3rd level)
+Casting Time: 1 action
+Range: Self (30ft radius)
+Duration: 10 minutes
+Plants within 30ft of you gain limited sentience and animation, allowing them to communicate with you and follow simple commands such as answering questions about events in the spell's area within the last day, giving information about creatures that have passed, weather, and other happenings.
+
+You can also nullify difficult terrain caused by plant growth for the duration, or turn ordinary terrain into difficult terrain. You may force plants created by the entangle spell to let go of restrained creatures.
+
+You additionally may communicate with any plant creatures in the area.
+```
+
+```
+Elemental Weapon(3rd level)
+Casting Time: 1 action
+Range: touch
+Duration: Concentration, up to 1 hour
+You touch a nonmagical weapon and grant it one of the following damage types: acid, cold, fire, lightning, or thunder. For the duration, the weapon deals an extra 1d4 damage of the chosen type and has a +1 bonus on attack rolls.
+```
+
+```
+Call Lightning (3rd level)
+Casting Time: 1 action
+Range: 30 feet
+Duration: Concentration, up to 10 minutes
+You create a storm cloud in the shape of a 10ft tall, 60ft radius cylinder centered on a point within range directly above you. Choose a point you can see under the cloud, which is where a bolt of lightning flashes down, causing all creatures within 5ft of the point to succeed a DEX save to halve 3d10 lightning damage. If cast outdoors when stormy conditions are present, this spell controls existing clouds and deals an addtional 1d10 lightning damage.
+```
 
 ```
 Life Transference (3rd level)
