@@ -54,10 +54,10 @@ that spell until they trade it out for another.
 Maybe give them an choice of starter feats that specifies what kind of bard they
 are as well (and offer some different art forms that give them a perk of some kind)
 
-### Create class: Shaman
+### [DONE]Create class: Shaman
 Animistic religious full caster. Wildshape
 
-`Progress Bar: 90%[##################--]`
+`Progress Bar: 100%[####################]`
 
 ## Backlog
 
