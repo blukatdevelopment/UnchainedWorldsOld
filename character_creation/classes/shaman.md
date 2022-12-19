@@ -286,12 +286,12 @@ You may either select one additional elemental affinity, or else choose the abil
 You expend two stamina dice and send a ball of lightning towards a creature within 60ft, which may be fully obscured from you, but cannot be hidden from you. The lightning hits the creature and forces them to make a CON save to halve 3d6 lightning damage. If you expend five stamina dice, you may send three balls of lightning instead of one, targeting the same or separate targets.
 
 #### Fire: Flame guardian
-You expend five stamina dice and a spirit wrathed in flames appears to assist you. It shares your turn in initiative, and may be commanded by using your bonus action. It disappears after one hour.
+You expend five stamina dice and a spirit wrathed in flames appears to assist you. It shares your turn in initiative, and may be commanded by using your bonus action. It disappears when you next complete a rest.
 
 ```
 Flame Guardian
 Medium Elemental
-HP: (4d8)
+HP: 40
 AC: 15
 Speed: 25ft, fly 25ft
 |STR|DEX|CON|INT|WIS|CHA|
