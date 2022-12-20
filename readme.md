@@ -37,6 +37,10 @@ constructive criticism and advanced knit-picking.
 
 ## Quick Links
 
+### Basic Edition
+[Basic Edition](basic_edition/player_handbook.md)
+This is a rules-lite version of the core rules. It's entirely self-contained in that it provides three classes.
+
 ### Core Rules
 [Core Rules](core_rules.md)
 This is all you technically need to run and Play unchained Worlds, but you'll probably want some supplement books.
