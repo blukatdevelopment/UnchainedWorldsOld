@@ -72,7 +72,7 @@ This is all you technically need to run and Play unchained Worlds, but you'll pr
 - [warrior](character_creation/classes/warrior.md)
 
 
-## GM links
+## Keeper links
 
 ### Modules
 A module provides a few sessions of gameplay, accepting a group of adventurers
