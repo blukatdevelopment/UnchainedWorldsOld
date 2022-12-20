@@ -39,14 +39,15 @@ constructive criticism and advanced knit-picking.
 
 ### Core Rules
 [Core Rules](core_rules.md)
-This is all you technically need to run and Play unchained Worlds, but you'll
-probably want some supplement books.
+This is all you technically need to run and Play unchained Worlds, but you'll probably want some supplement books.
+
+#### Character Creation Supplements
 
 #### Cultures
 [Cultures](character_creation/cultures_volume_1.md)
 
 #### Body Types
-[Cultures](character_creation/body_types.md)
+[Body Types](character_creation/body_types.md)
 
 #### Spells
 [spells](character_creation/spell_compendium.md)

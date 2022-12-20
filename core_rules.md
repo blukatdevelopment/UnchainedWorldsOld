@@ -178,22 +178,26 @@ Some skills are general in nature, and may apply to a wide variety of situations
 - Stealth - Knowing how to not be seen.
 - Survival - Learning to track, hunt, skin, tan, slaughter, trap, locate clean water, and navigate using the stars.
 
-## Culture
-Your culture decides the beliefs, traditions, norms, and taboos of the community
-you grew up in. Each individual feature of a culture can be adopted or rejected,
-but either case should provide an interesting choice.
-
-## Body Type
-Your body type decides the mechanical differences your physiology provides. The
-common body type has 30ft movement speed, is medium size, and lives up to one
-century.
-
 ## Class
-Your class decides your stamina dice, class features, and informs the role 
-you'll play in your party. Talk to you keeper about what classes are available at 
-your table.
+Your class decides your stamina dice, class features, and informs the role you'll play in your party. Talk to you keeper about what classes are available at your table.
 
-
+### Commoner Stat Block
+If you wish to only use the core rules, you may use this commoner stat block in lieu of supplemental character creation options.
+```
+#####################
+# Name: 
+# Class: Commoner
+# HP(Max 5): 5
+# AC: 10, Speed: 30ft
+# Stamina Dice(Max 1d4): 1
+# Ability scores: All are 10 (+0)
+#-------------------
+# Inventory:
+# - Common clothes
+# - One tool, left over from your previous profession
+# - 5GP, your entire life savings
+#####################
+```
 # Roleplaying
 
 ## Control your character
@@ -675,145 +679,6 @@ when the armor has been fully donned.
 | Shield       | 1 action   | 1 action  |
 +--------------+------------+-----------+
 
-### Goods and services
-
-#### Trade goods
-
-```
-+--------+----------------------------------------------+
-|  Cost  |                    Goods                     |
-+--------+----------------------------------------------+
-| 1 cp   | 1 lb. of wheat                               |
-| 2 cp   | 1 lb. of flour or one chicken                |
-| 5 cp   | 1 lb. of salt                                |
-| 1 sp   | 1 lb. of iron or 1 sq. yd. of canvas         |
-| 5 sp   | 1 lb. of copper or 1 sq. yd. of cotton cloth |
-| 1 gp   | 1 lb. of ginger or one goat                  |
-| 2 gp   | 1 lb. of cinnamon or pepper, or one sheep    |
-| 3 gp   | 1 lb. of cloves or one pig                   |
-| 5 gp   | 1 lb. of silver or 1 sq. yd. of linen        |
-| 10 gp  | 1 sq. yd. of silk or one cow                 |
-| 15 gp  | 1 lb. of saffron or one ox                   |
-| 50 gp  | 1 lb. of gold                                |
-| 500 gp | 1 lb. of platinum                            |
-+--------+----------------------------------------------+
-```
-
-
-#### Services
-```
-+-------------------+---------------+
-|      Service      |      Pay      |
-+-------------------+---------------+
-| Coach cab         |               |
-| Between towns     | 3 cp per mile |
-| Within a city     | 1 cp          |
-| Hireling          |               |
-| Skilled           | 2 gp per day  |
-| Untrained         | 2 sp per day  |
-| Messenger         | 2 cp per mile |
-| Road or gate toll | 1 cp          |
-| Ship's Passage    | 1 sp per mile |
-+-------------------+---------------+
-```
-
-#### Food, drink, and lodging
-```
-+----------------------+-------+
-|         Item         | Cost  |
-+----------------------+-------+
-| Ale                  |       |
-| Gallon               | 2 sp  |
-| Mug                  | 4 cp  |
-| Banquet (per person) | 10 gp |
-| Bread, loaf          | 2 cp  |
-| Cheese, hunk         | 1 sp  |
-| Inn stay (per day)   |       |
-| Squalid              | 7 cp  |
-| Poor                 | 1 sp  |
-| Modest               | 5 sp  |
-| Comfortable          | 8 sp  |
-| Wealthy              | 2 gp  |
-| Aristocratic         | 4 gp  |
-| Meals (per day)      |       |
-| Squalid              | 3 cp  |
-| Poor                 | 6 cp  |
-| Modest               | 3 sp  |
-| Comfortable          | 5 sp  |
-| Wealthy              | 8 sp  |
-| Aristocratic         | 2 gp  |
-| Meat, chunk          | 3 sp  |
-| Wine                 |       |
-| Common (pitcher)     | 2 sp  |
-| Fine (bottle)        | 10 gp |
-+----------------------+-------+
-```
-
-### Lifestyle
-Most backgrounds are associated with a lifestyle. This determines your starting gold.
-
-```
-+--------------+---------------+---------------+------------+------------------------+
-|  Lifestyle   |   Price/Day   |  Price/month  | Price/year | Price/30 year lifetime |
-+--------------+---------------+---------------+------------+------------------------+
-| Wretched     | --            | --            | --         | --                     |
-| Squalid      | 1 sp          | 3gp           | 36gp       | 1,080gp                |
-| Poor         | 2 sp          | 6gp           | 72gp       | 2,160gp                |
-| Modest       | 1 gp          | 30gp          | 360gp      | 10,800gp               |
-| Comfortable  | 2 gp          | 60gp          | 720gp      | 21,600                 |
-| Wealthy      | 4 gp          | 120gp         | 1440gp     | 43,200gp               |
-| Aristocratic | 10 gp minimum | 300gp minimum | 3,600gp    | 108,000gp              |
-+--------------+---------------+---------------+------------+------------------------+
-
-```
-
-#### Wretched
-You beg, forage, or steal your meals when you eat, which isn't every night.
-Security isn't something you're familiar with, nor is soap. Commoners avoid you
-when they can. If your clothes aren't tattered and filthy, they must be
-exceptionally new. You do not live so much as you survive.
-
-#### Squalid
-You make a living, but just barely. You likely have many roommates, or else live in
-a shack outside of town. Gruel and water sustain you, but just barely. Occasionally
-commoners might take pity on you and give you a crust of bread or candle, but you
-cannot affort to eat at a table with them. Your life is precarious, and are you one
-misfortune away from a wretched lifestyle.
-
-#### Poor
-You are a commoner. A skilled trade guarantees you not only a seat at the table
-and greetings from strangers, but occasionally a meal with meat or cheese.
-You likely have a small room to call your own, or otherwise to share with your entire family.
-
-#### Modest
-You're likely literate, and your trade uses your mind more than your body. Your clothing
-is well maintained, and so is your hygeine. You are welcomed by most and tolerated by
-nobles, so long as you are quiet and pay your tab. You eat well and your house is warm
-and dry, if a bit small. A guard would take your word over anyone dressed lower than you.
-
-#### Comfortable
-Your skill is either rare, or in high demand. Maybe you own a modest business.
-Whatever the case, people respect you. You can put a wedge of cheese, loaf of
-bread, and bottle of wine on the table whenever you like. You likely maintain
-a written correspondence with multiple pen pals, and have connections with 
-people in higher places. You'll likely have a set of clothing, furniture,
-plates, a house or other posessions which are passed on through your family name.
-
-#### Wealthy
-You are likely an employer of at least one servant and have a wide selection of
-clothing, food, and entertainment to choose from. Your property is likely large
-enough that you don't need to worry about rubbing elbows with commoners.
-You have friends in high places, and guards will tend to believe you and your
-bribe money over mere evidence. Those jealous peasants below you respect and
-envy what they cannot achieve.
-
-#### Aristocratic
-When the silly merchants dressed in last month's fashion leave your manor,
-you're free to truly relax in decadance. A small army of servants meets your every
-whim. Unfortunately, harp music, private jesters, and fine art get boring. Sometimes
-you need to treat yourself and order an exotic animal or lead an expedition. Oh, 
-or maybe you could commission a giant statue of yourself riding a horse! Either way,
-the guards at least keep the peasants off your land so you can hunt in peace.
 
 ## Physical needs
 ```
