@@ -12,7 +12,7 @@ You make a good point. But consider the following: I love FOSS. Why would I make
 Well, because then I can share it and preserve the [four freedoms](https://www.gnu.org/philosophy/free-sw.en.html)
 
 ## Blukat, you silly banana! A TTRPG isn't software.
-Sure it is. It just runs on human brains instead of computers. Git gud, scrub.
+Sure it is. It just runs on human brains instead of computers. Git gud, scrub. :P
 
 ## Getting started (as a player)
 You ready to start adventuring?
@@ -55,8 +55,10 @@ probably want some supplement books.
 - [alchemist](character_creation/classes/alchemist.md)
 - [commoner](character_creation/classes/commoner.md)
 - [gunsmith](character_creation/classes/gunsmith.md)
-- [lycanthrope](character_creation/classes/lycanthrope.md)
-- [priest](character_creation/classes/priest.md)
+- [shifter](character_creation/classes/shifter.md)
+- [muse](character_creation/classes/muse.md)
+- [diviner](character_creation/classes/diviner.md)
+- [shaman](character_creation/classes/shaman.md)
 - [psion](character_creation/classes/psion.md)
 - [runesmith](character_creation/classes/runesmith.md)
 - [soul forger](character_creation/classes/soul_forger.md)
@@ -66,27 +68,6 @@ probably want some supplement books.
 
 
 ## GM links
-
-### Rule supplements
-[book of maladies](keeper_info/book_of_maladies.md) contains some diseases, curses,
-and a corruption table. 
-[magic items](keeper_info/magic_items.md) here's some magic items to stuff into your
-dungeons.
-
-### Campaigns
-This is essentially campaign notes for a couple campaigns. These are not
-polished, nor intended for running as-is, but may serve as inspiration for
-others to borrow or steal from.
-
-### Funnels
-A character funnel gives each player multiple level 0 commoners, then puts the
-group of followers through a gauntlet of deadly encounters. This serves a 
-couple purposes:
-- Give new players a mechanically simplified starting point
-- Familiarize players with death in a non-traumatic way
-- Create memorable moments to bond the party together before your proper adventure
-- Provide each party member an emotionally resonant backstory
-
 
 ### Modules
 A module provides a few sessions of gameplay, accepting a group of adventurers
