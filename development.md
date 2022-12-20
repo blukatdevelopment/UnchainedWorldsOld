@@ -2,62 +2,66 @@
 
 ## Active release
 
-### [DONE]Proofread class: Alchemist
-Double-check for typos, formatting issues, or references to outdates rules.
-Identity fections where rephrasing or images could help better explain ideas.
-
-### [DONE]Proofread class: Colossus
-Double-check for typos, formatting issues, or references to outdates rules.
-Identity fections where rephrasing or images could help better explain ideas.
-
-### [DONE]Proofread class: Commoner
-Double-check for typos, formatting issues, or references to outdates rules.
-Identity fections where rephrasing or images could help better explain ideas.
-
-### [DONE]Proofread class: Gunsmith
-Double-check for typos, formatting issues, or references to outdates rules.
-Identity fections where rephrasing or images could help better explain ideas.
-
-### [DONE]Finish porting spells: priest
+### Finish porting spells: runesmith (Chunk of 10 spells)
 Fill out missing spells. Do not use copy/paste, do not use exact wording.
 Cut out clarifications where possible.
+- Hold Person [pending]
+- Invisibility [pending]
+- Glowing COin [pending]
+- Kinetic Jaunt [pending]
+- Knock [pending]
+- Magic Mouth [pending]
+- Magic Weapon [pending]
+- Eathen Grasp [pending]
+- Acid Arrow [pending]
+- Mind Spike [pending]
 
-### [DONE]Add maneuvers to warrior
-Add 5-10 new maneuvers. Taking inspiration from paladin might help.
-
-### [DONE]Proofread class: psion
-Double-check for typos, formatting issues, or references to outdates rules.
-Identity fections where rephrasing or images could help better explain ideas.
-
-### [DONE]Finish porting spells: runesmith (Chunk of 10 spells)
+### Finish porting spells: runesmith (Chunk of 10 spells)
 Fill out missing spells. Do not use copy/paste, do not use exact wording.
 Cut out clarifications where possible.
-- Darkness [pending]
-- Darkvision [pending]
-- Detect Thoughts [pending]
-- Dragon's Breath [pending]
-- Dust Devil [pending]
-- Enhance Ability [pending]
-- Enlarge/Reduce [pending]
-- Flaming Sphere [pending]
-- Gentle Repose [pending]
-- Gift of Gab [pending]
+- Seeming [pending]
+- Skill Empowerment [pending]
+- Steel Wind Strike [pending]
+- Synaptic Static [pending]
+- Telekinesis [pending]
+- Teleportation Circle [pending]
+- Transmute Rock [pending]
+- Wall of force [pending]
+- Wall of light [pending]
+- Wall of stone [pending]
 
-### [DONE]Create class: Bard
-A generalist CHA caster that gets skills, bardic inspiration, and a spell list
-that contains lots of charm/psychic magic. Maybe let them rehearse(prepare) spells
-on a rest or during a 10 minute break(eating a stamina die). Use spell slots or
-stamina dice to cast. Maybe let them have a special slot where they can rehearse
-a spell outside their spell list if they saw someone cast it in person in the
-last 24 hours(level requirements still apply), and maybe let them keep preparing
-that spell until they trade it out for another.
-Maybe give them an choice of starter feats that specifies what kind of bard they
-are as well (and offer some different art forms that give them a perk of some kind)
+### Add 10 more magic items
+Create and add maybe 10 or more magic items. This can be re-added to the backlog 
+when queued up for a release.
 
-### [DONE]Create class: Shaman
-Animistic religious full caster. Wildshape
+### Create class: Namer
+Half-caster that combines element-based magic(air, fire, earth, water) with 
+martial abilities.
 
-`Progress Bar: 100%[####################]`
+### Create class: Monk
+Martial class with dual health bar of meat(normal regen) and ki(which 
+replenishes quickly). Menu of abilities that eat ki to do martial arts/shonen 
+moves.
+
+### Revamp Psion
+actually create those 'psionic abilities' we mentioned earlier
+subclasses? who knows.
+
+### Create class: Cultist
+Evil version of priest: has patron that makes requests in order to build up 
+spellcasting resources, which can be infinitely banked. Spells are tattooed 
+onto self and followers.
+
+### Edit body_types.md
+Check to make sure descriptions make sense, are formatted reasonably, and maybe 
+add a tiny bit more details, such as a warning about limitations of tiny/huge folk.
+
+### Expand Setting info: Crucible
+- Add some major factions/locations/NPCs/conflicts
+- Add a section of phrases/profanities and calendar events (Maybe in culture doc?)
+- Add a section of races (and their relationships to culture and body type)
+
+`Progress Bar: 0%[------------------]`
 
 ## Backlog
 
@@ -97,14 +101,6 @@ Identity fections where rephrasing or images could help better explain ideas.
 Fill out missing spells. Do not use copy/paste, do not use exact wording.
 Cut out clarifications where possible.
 
-### Revamp Psion
-actually create those 'psionic abilities' we mentioned earlier
-subclasses? who knows.
-
-### Edit body_types.md
-Check to make sure descriptions make sense, are formatted reasonably, and maybe 
-add a tiny bit more details, such as a warning about limitations of tiny/huge folk.
-
 ### Create soulforger subclass: Technomancer
 Gain abilities via prosthetics, create squad of forged followers.
 
@@ -117,15 +113,10 @@ Create demons. Powerful, but dangerous potential of them turning on you.
 ### Create soulforger subclass: Necromancer
 Create undead. Become litch.
 
+
+
 ### Create class: Sympathist
 Full caster. Build/shape spells by selecting correspondences. Ritual magic.
-
-### Create class: Shaman
-Animistic religious full caster. Wildshape
-
-### Create class: Namer
-Half-caster that combines element-based magic(air, fire, earth, water) with 
-martial abilities.
 
 ### Create class: Sorcerer
 Full caster that can cast infinitely. Learning spells corrupts the sorcerer. 
@@ -141,18 +132,6 @@ Gains abilities powered by that same resource.
 ### Create class: Dragonborn
 Half-caster that combines dragon-esque magic(breath attacks, flying, etc) with 
 martial abilities.
-
-### Create class: Monk
-Martial class with dual health bar of meat(normal regen) and ki(which 
-replenishes quickly). Menu of abilities that eat ki to do martial arts/shonen 
-moves.
-
-
-
-### Create class: Cultist
-Evil version of priest: has patron that makes requests in order to build up 
-spellcasting resources, which can be infinitely banked. Spells are tattooed 
-onto self and followers.
 
 ### Illustrate culture: burden folk
 ### Illustrate culture: deep folk
@@ -174,17 +153,13 @@ Cram this era into timeline, maybe geography as well?
 ### Illustrate cultures volume 2: culture 9
 ### Illustrate cultures volume 2: culture 10
 
-### Finish Setting guide: Crucible
-- Add a section of phrases/profanities
-- Add a section of races (and their relationships to culture and body type)
-
 ### Finish book_of_maladies.md
 Put some positive mutations in the first 25% of the list, diversify middle of 
 list (so that each of the 1d100 listing has a subtable.) Move this into a 
 separate corruption book, maybe?
 
-### Add more magic items
-Create and add maybe 25 more magic items. This can be re-added to the backlog 
+### Add 10 more magic items
+Create and add maybe 10 or more magic items. This can be re-added to the backlog 
 when queued up for a release.
 
 ### Create a document with some random loot tables in it
@@ -194,20 +169,6 @@ be rolled in the moment for procedural loot.
 ### Create an expedition generator
 Roll random monsters depending on some regions. Use a 1d100 for the encounter
 difficulty, and determine loot.
-
-### Finish porting spells: runesmith (Chunk of 10 spells)
-Fill out missing spells. Do not use copy/paste, do not use exact wording.
-Cut out clarifications where possible.
-- Hold Person [pending]
-- Invisibility [pending]
-- Glowing COin [pending]
-- Kinetic Jaunt [pending]
-- Knock [pending]
-- Magic Mouth [pending]
-- Magi Weapon [pending]
-- Eathen Grasp [pending]
-- Acid Arrow [pending]
-- Mind Spike [pending]
 
 ### Finish porting spells: runesmith (Chunk of 10 spells)
 Fill out missing spells. Do not use copy/paste, do not use exact wording.
@@ -293,16 +254,6 @@ Cut out clarifications where possible.
 - Plane Binding [pending]
 - Scrying [pending]
 
-### Finish porting spells: runesmith (Chunk of 10 spells)
-Fill out missing spells. Do not use copy/paste, do not use exact wording.
-Cut out clarifications where possible.
-- Seeming [pending]
-- Skill Empowerment [pending]
-- Steel Wind Strike [pending]
-- Synaptic Static [pending]
-- Telekinesis [pending]
-- Teleportation Circle [pending]
-- Transmute Rock [pending]
-- Wall of force [pending]
-- Wall of light [pending]
-- Wall of stone [pending]
+### Trigger warnings
+Create a list of trigger warnings, listing content that are relevant to them.
+Stuff like malevolent guidance especially.
