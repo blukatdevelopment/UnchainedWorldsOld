@@ -7,14 +7,16 @@ from database import Db
 from abilities import abilities_commands
 from character import character_commands
 from check import check_commands
-
+from attack import attack_commands
 
 
 bot = discord.Bot()
 bot.db = Db()
+
 abilities_commands(bot, discord)
 character_commands(bot, discord)
 check_commands(bot, discord)
+attack_commands(bot, discord)
 
 intents = discord.Intents.default()
 intents.guilds = True
@@ -23,7 +25,7 @@ intents.message_content = True
 
 @bot.event
 async def on_ready():
-    print(f'We have logged in as {bot.user}')
+    print(f'I have logged in as {bot.user}. Meow! :3')
 
 # Read token from a file that's not in version control XD
 token = open('./token', 'r').read()

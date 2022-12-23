@@ -29,6 +29,16 @@ def roll_disadvantage(mod):
     lowest = roll1 if first_chosen else roll2
     return {"sum": lowest+mod, "roll1": {"sum": roll1, "dropped": not first_chosen}, "roll2": {"sum": roll2, "dropped": first_chosen}, "mod": mod}
 
+def roll_attack(name, to_hit, damage, damage_type):
+    attack1 = roll_normal(0)
+    attack2 = roll_normal(0)
+    damage1 = roll(damage)
+    damage2 = roll(damage)
+    to_hit_string = str(to_hit) if to_hit < 0 else "+" + str(to_hit)
+    msg = f'1d20{to_hit_string} -> ({attack1}, {attack2})\n'
+    msg += f'{damage} {damage_type} -> ({damage1}, {damage2})'
+    return msg
+
 def parse_elements(rollstring):
     rollstring = rollstring.replace(' ', '')
     pos_split = re.split('\+', rollstring)

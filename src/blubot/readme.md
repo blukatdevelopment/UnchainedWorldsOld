@@ -64,8 +64,8 @@ These are more of stretch goals than anything, but heck, I'ma shoot for the star
 "skills": {"investigation": "p"},
 "inventory": ["common clothes", "bedroll", "dagger"],
 "attacks": [
-        {"name": "Claws", "to_hit": -2, "damage": "1d4-3", "damage_type": "slashing"},
-        {"name": "Dagger", "to_hit": 2, "damage": "1d4+1", "damage_type": "piercing"}
+        {"attack name": "Claws", "to_hit": -2, "damage": "1d4-3", "damage_type": "slashing"},
+        {"attack name": "Dagger", "to_hit": 2, "damage": "1d4+1", "damage_type": "piercing"}
     ]
 }
 ```

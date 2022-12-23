@@ -1,4 +1,5 @@
 import json
+from uw.dice import roll_attack
 
 ERROR = "error"
 
@@ -80,6 +81,7 @@ ATTACKS = "attacks"
 ATTACK_NAME = "attack name"
 TO_HIT = "to hit"
 DAMAGE = "damage"
+DAMAGE_TYPE = "damage type"
 
 NECESSARY_FIELDS = [NAME, XP, AC, CLASS, SIZE, CULTURE, SPEED, BODY_TYPE, STAMINA_DICE, ARMOR_PROF, WEAPON_PROF, TOOL_PROF, LANGUAGES, PROF_BONUS, ABILITIES, SKILLS, INVENTORY, ATTACKS]
 
@@ -114,6 +116,29 @@ def abilities_valid(abilities):
         if ability < 0 or ability > 20:
             return False
     return True
+
+def list_attacks(character):
+    attacks = []
+    for attack in character[ATTACKS]:
+        attacks.append(attack[ATTACK_NAME])
+    msg = f'Attacks for {character[NAME]}: '
+    msg += ', '.join(attacks)
+    msg += "."
+    return msg
+
+def use_attack(character, attack_name):
+    attack_name = attack_name.lower()
+    attack = None
+    for current_attack in character[ATTACKS]:
+        if current_attack[ATTACK_NAME].lower() == attack_name:
+            attack = current_attack
+    if attack is None:
+        return f'No such attack: {attack_name}. Meow.'
+    to_hit = attack[TO_HIT]
+    damage = attack[DAMAGE]
+    damage_type = attack[DAMAGE_TYPE]
+    
+    return roll_attack(attack_name, to_hit, damage, damage_type)
 
 def is_valid_check_type(check_type):
     return check_type.lower() in SKILLS_LIST or check_type.lower() in ABILITIES_LIST 
