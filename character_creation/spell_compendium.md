@@ -1505,6 +1505,31 @@ You touch a shut door, window, gate, chest, or other physical opening, and it be
 
 The DC to break open or pick increases by 10.
 ```
+
+```
+Acid Arrow (2nd)
+Casting Time: 1 action
+Range: 90 feet
+Duration: Instantaneous
+An arrow glittering with green materializes before you, then flies toward a target and bursts into acid. Make a spell attack, dealing 4d4 acid damage and 2d4 acid damage at the end of the creature's next turn on a hit, or only 2d4 acid damage on a miss.
+```
+
+```
+Mind Spike (2nd)
+Casting Time: 1 action
+Range: 60 feet
+Duration: Concentration, up to 1 hour
+Select one creature you can see within range, then reach into their mind. The creature makes a WIS save to halve 3d8 damage and avoid allowing you to know it's location until the spell ends.
+```
+
+```
+Glowing Coin (2nd)
+Casting Time: 1 action
+Range: 60 feet
+Duration: 1 minute
+Hurl a coin to a point in range, causing the coin to light up with the intensity of a torch. Creatures of your choice within a 30ft radius of the coin make a WIS save to avoid being distracted by the coin, gaining disadvantage on perception checks and initiative rolls.
+```
+
 ```
 See Invisibility (2nd)
 Casting Time: 1 action
@@ -1514,11 +1539,44 @@ You can see invisible creatures and object for the duration, and you can likewis
 ```
 
 ```
+Magic Weapon (2nd)
+Casting Time: 1 bonus action
+Range: Touch
+Duration: concentration, up to 1 hour
+You touch one non-magical weapon and turn it into a magic weapon with a +1 bonus to attack rolls and damage rolls.
+
+If you cast this spell as 4th or higher, the bonus becomes +2.
+```
+
+```
+Knock (2nd)
+Casting Time: 1 action
+Range: 60 feet
+Duration: Instantaneous
+Choose a door, box, chest, padlock, or other mundanely locked object. It's now unstuck, unlocked, or unbarred, albeit only one lock is unlocked if it has multiple.
+
+You may instead choose an object with an arcane lock, suppressing it for 10 minutes.
+
+This spell creates a loud knock audible for 300 feet.
+```
+
+```
 Blindness/deafness (2nd)
 Casting Time: 1 action
 Range: 30ft
 Duration: 1 minute
 Choose one creature within range that you can see. They must make a CON save, or else be either blinded or deafened(your choice). At the end of each of their turns, they may remake the CON save to end the effect.
+```
+
+```
+Kinetic Jaunt (2nd)
+Casting Time: 1 action 
+Range: Self
+Duration: Concentration, up to 1 minute
+Magic flows through you, and you take on a dancing movement that grants you the following benefits:
+- Your speed increases by 10ft
+- You don't provoke attacks of opportunity.
+- You may move through another creature's space without it counting as difficult terrain, but are shunted to a nearby space and take 1d8 force damage if you end your turn in another creature's space.
 ```
 
 ```
@@ -2292,6 +2350,18 @@ You focus on one creature you can see within range, and glowing glyphs appear
 as an intangible box around them. The creature must succeed a strength saving
 throw to avoid it's flying speed dropping to 0ft for the spell's duration. An
 airborne creature may succeed a strength save in order to land safely.
+```
+
+```
+Earthen Grasp (2nd)
+Casting Time: 1 action
+Range: 30ft
+Duration: Concentration, up to 1 minute
+Choose an unoccupied 5ft square that you can see within range. A medium size Earthen hand rises from the soil and reaches for a creature within a 5ft range of the hand, forcing a STR save to avoid 2d6 bludgeoning damage and becoming restrained for the duration.
+
+You may use your action to make the hand crush a restrained target, forcing a STR save to halve 2d6 bludgeoning damage. A restrained target may use it's action to make STR check to escape. 
+
+You may also use your action to target a different creature or moveto another space within the spell's range, releasing any creatures the hand holds in the process.
 ```
 
 ```

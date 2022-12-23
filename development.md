@@ -2,7 +2,7 @@
 
 ## Active release
 
-### Finish porting spells: runesmith (Chunk of 10 spells)
+### [DONE]Finish porting spells: runesmith (Chunk of 10 spells)
 Fill out missing spells. Do not use copy/paste, do not use exact wording.
 Cut out clarifications where possible.
 - Hold Person [pending]
@@ -61,7 +61,7 @@ add a tiny bit more details, such as a warning about limitations of tiny/huge fo
 - Add a section of phrases/profanities and calendar events (Maybe in culture doc?)
 - Add a section of races (and their relationships to culture and body type)
 
-`Progress Bar: 0%[------------------]`
+`Progress Bar: 10%[##----------------]`
 
 ## Backlog
 

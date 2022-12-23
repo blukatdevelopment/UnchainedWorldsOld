@@ -332,35 +332,33 @@ on itself.
 - Gift of Gab
 - Hold Person
 - Invisibility
-- Glowing Coin [pending]
-- Kinetic Jaunt [pending]
-- Knock [pending]
-- Magic Mouth [pending]
-- Magi Weapon [pending]
-- Eathen Grasp [pending]
-- Acid Arrow [pending]
-- Mind Spike [pending]
-- Mirror Image [pending]
-- Misty Step [pending]
+- Glowing Coin
+- Kinetic Jaunt 
+- Knock
+- Magic Mouth
+- Magic Weapon
+- Eathen Grasp
+- Acid Arrow 
+- Mind Spike
 - Mischief [pending]
 - Magic Aura [pending]
-- Phantasmal Force [pending]
+- Phantasmal Force
 - Pyrotechnics [pending]
 - Ray of Enfeeblement [pending]
 - Binding Ice [pending]
 - Rope Trick [pending]
 - Scorching Ray [pending]
-- See Invisibility [pending]
+- See Invisibility
 - Shadow Blade [pending]
-- Shatter [pending]
+- Shatter
 - Snowball Swarm [pending]
-- Spider Climb [pending]
-- Suggestion [pending]
+- Spider Climb 
+- Suggestion
 - Mind Whip [pending]
 - Vortex Warp [pending]
-- Warding Wind [pending]
-- Web [pending]
-- Wither and Bloom [pending]
+- Warding Wind
+- Spin Web
+- Wither and Bloom
 
 ### 3rd
 - Create Undead Vermin Swarm 
