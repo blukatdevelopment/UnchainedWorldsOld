@@ -74,11 +74,11 @@ def get_sum(elements):
 def roll_die(size):
     return random.randint(1, size)
 
-def main():
+def is_this_a_unit_test():
     print(roll("1d20+5"))
     print(roll("1d20-1"))
     print(roll("2d20"))
     print(roll("1d4 + 2d6 + 3d12"))
     print(advantage(5))
 
-#main()
+#is_this_a_unit_test()

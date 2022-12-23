@@ -61,11 +61,12 @@ These are more of stretch goals than anything, but heck, I'ma shoot for the star
 "languages": ["common"],
 "prof bonus": 1,
 "abilities": [6, 12, 8, 20, 10, 15],
+"saving throws": ["intelligence", "dexterity"],
 "skills": {"investigation": "p"},
 "inventory": ["common clothes", "bedroll", "dagger"],
 "attacks": [
-        {"attack name": "Claws", "to_hit": -2, "damage": "1d4-3", "damage_type": "slashing"},
-        {"attack name": "Dagger", "to_hit": 2, "damage": "1d4+1", "damage_type": "piercing"}
+        {"attack name": "Claws", "to hit": -2, "damage": "1d4-3", "damage type": "slashing"},
+        {"attack name": "Dagger", "to hit": 2, "damage": "1d4+1", "damage type": "piercing"}
     ]
 }
 ```

@@ -30,6 +30,7 @@ INTELLIGENCE = "intelligence"
 WISDOM = "wisdom"
 CHARISMA = "charisma"
 ABILITIES_LIST = [STRENGTH, DEXTERITY, CONSTITUTION, INTELLIGENCE, WISDOM, CHARISMA]
+SAVING_THROWS = "saving throws"
 
 # Skills
 SKILLS = "skills"
@@ -83,7 +84,7 @@ TO_HIT = "to hit"
 DAMAGE = "damage"
 DAMAGE_TYPE = "damage type"
 
-NECESSARY_FIELDS = [NAME, XP, AC, CLASS, SIZE, CULTURE, SPEED, BODY_TYPE, STAMINA_DICE, ARMOR_PROF, WEAPON_PROF, TOOL_PROF, LANGUAGES, PROF_BONUS, ABILITIES, SKILLS, INVENTORY, ATTACKS]
+NECESSARY_FIELDS = [NAME, XP, AC, CLASS, SIZE, CULTURE, SPEED, BODY_TYPE, STAMINA_DICE, ARMOR_PROF, WEAPON_PROF, TOOL_PROF, LANGUAGES, PROF_BONUS, ABILITIES, SKILLS, INVENTORY, ATTACKS, SAVING_THROWS]
 
 def parse_character(raw_json):
     errors = []
@@ -143,6 +144,9 @@ def use_attack(character, attack_name):
 def is_valid_check_type(check_type):
     return check_type.lower() in SKILLS_LIST or check_type.lower() in ABILITIES_LIST 
 
+def is_valid_ability(ability):
+    return ability.lower() in ABILITIES_LIST
+
 def get_check_modifier(check_type, character):
     if check_type.lower() in ABILITIES_LIST:
         score = get_ability_score(check_type.lower(), character)
@@ -156,6 +160,16 @@ def get_check_modifier(check_type, character):
     else:
         print(f"Invalid check type: {check_type}")
         return 0
+
+def get_save_modifier(ability, character):
+    mod = 0
+    if ability.lower() in ABILITIES_LIST:
+        score = get_ability_score(ability.lower(), character)
+        mod += get_ability_modifier(score)
+    for save in character[SAVING_THROWS]:
+        if save == ability.lower():
+            mod += character[PROF_BONUS]
+    return mod
 
 def get_ability_score(ability, character):
     if ability == STRENGTH:
