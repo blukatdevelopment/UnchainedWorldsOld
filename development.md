@@ -30,7 +30,7 @@ Cut out clarifications where possible.
 - Wall of light [pending]
 - Wall of stone [pending]
 
-### Add 10 more magic items
+### [DONE]Add 10 more magic items
 Create and add maybe 10 or more magic items. This can be re-added to the backlog 
 when queued up for a release.
 

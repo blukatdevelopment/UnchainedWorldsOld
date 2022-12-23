@@ -567,6 +567,7 @@ rolls normally. A creature who moves normally rolls with disadvantage.
 | Trident                | 5 gp  | 1d6 piercing    | 4 lb.   | Thrown (range 20/60), versatile (1d8)                  |
 | War pick               | 5 gp  | 1d8 piercing    | 2 lb.   | —                                                      |
 | Warhammer              | 15 gp | 1d8 bludgeoning | 2 lb.   | Versatile (1d10)                                       |
+| Greathammer            | 30 gp | 3d4 bludgeoning | 9 lb.   | Two-handed, Heavy                                      |
 | Whip                   | 2 gp  | 1d4 slashing    | 3 lb.   | Finesse, reach                                         |
 +------------------------+-------+-----------------+---------+--------------------------------------------------------+
 | Martial Ranged Weapons                                                                                              |

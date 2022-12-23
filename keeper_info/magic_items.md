@@ -64,29 +64,29 @@ preserving momentum.
 
 ## Weapons
 
-### Rubber Sword (common)
+### Rubber Sword
 This rubber longsword is pointed at the end, and stretches when swung, giving
 it an extra 5ft of range. If you roll a nat 1 on an attack roll with this sword,
 it deals half damage to you instead.
 
-### +1 weapon (Uncommon)
+### +1 weapon
 This weapon has a +1 bonus to both attack rolls and the damage dealt by an
 attack.
 
-### +2 weapon (Rare)
+### +2 weapon
 This weapon has a +2 bonus to both attack rolls and the damage dealt by an
 attack.
 
-### +3 weapon (Very Rare)
+### +3 weapon
 This weapon has a +3 bonus to both attack rolls and the damage dealt by an
 attack.
 
-### Bleeding Heart Dagger (Rare)
-When you attack someone with this blade, the target begins recounting every
+### Bleeding Heart Dagger
+When you attack someone with this blade, whether you hit or not, the target begins recounting every
 failed or unrealized relationship in their life, ruminating on it. They must
-make a DC 13 wisdom saving throw, or take 1d4 psychic damage.
+make a DC 15 wisdom saving throw, or take 1d4 psychic damage.
 
-### Froggy Staff (Rare)
+### Froggy Staff
 Magical quarterstaff
 Has 3 charges that restore at dawn. You may expend one charge in order to 
 jump 30 feet either as a long jump or a high jump. If you drop the froggy staff,
@@ -96,32 +96,35 @@ it produces a loud frog's croak audible for up to 120 feet.
 Magical quarterstaff
 The holder may consume a stamina die in order to cast magic missile.
 
-### Cluster Crossbow (Uncommon)
+### Cluster Crossbow
 This special light crossbow fires four crossbow bolts simultaneously.
 When you target a creature with it within normal range, the creature must
 succeed a DC 14 Dexterity saving throw. If you fire past normal range, the
 creature has advantage on the save. On a failed save, the creature receives
 normal damage.
 
-### Blaster (Common)
+### Blaster
 Ranged weapon (30/60), Light
 Weight:2lb
 Damage: 1d6 fire
 Uses hand crossbow or firearm proficiency. Has five charges.
 Can be recharged with a stamina die.
 
-### Lightning Rifle (Uncommon)
+### Lightning Rifle
 Ranged weapon(120/125)
 Damage 2d12 lightning
 Uses heavy crossbow or firearm proficiency. Has one charge.
 User must use action to charge up the rifle for 6 seconds.
 Can be recharged with a stamina die.
 
-### Power fist (Uncommon)
+### Power fist
 Unarmed attacks deal 1d4 damage when wearing this. The power fist is considered
 light. The power fist can be charged by consuming two stamina dice. When 
 attacking, the fist can expend it's charge to deal an additional 2d10 
 bludgeoning damage on a hit.
+
+### Lycan's Woe
+A weapon of choice for werewolf hunters. This metal knuckle guard contains a springloaded silver spike. It requires an action to load. When you hit with an unarmed attack while wielding the Lycan's Woe, you may use your bonus action to inject the silver spike, dealing an additional 4d8 piercing damage. Silver spikes require 50gp to fashion.
 
 ### Death's Bane (Very Rare)
 A magical +1 sword.
@@ -137,53 +140,42 @@ range by 10ft.
 This +1 thrown weapon deals a base damage of 1d4 bludgeoning damage and has finess. It can be thrown up to 60 feet, and always returns to the thrower's
 hand at the start of their next turn, provided there is a path for it to return.
 
-### Justice (Legendary)
-This longsword stores the souls of any humanoids it kills. It requires
-attunement, and each time attunement is lost, the souls leave the blade.
+### Handy Hooks
+A pair of +1 sickles. When both are wielded by the the same creature, they gain a climbing speed equal to their movement speed.
 
-```
-+-------+-----------------------------------------------------+
-| Souls |                       Effect                        |
-+-------+-----------------------------------------------------+
-|     1 | +1 to damage and attacks                            |
-|     5 | Sword can provide 20ft of bright, 20ft of dim light |
-|    15 | +2 to damage and attacks                            |
-|    35 | Can consume 5 souls to cast lightning bolt          |
-|    55 | +3 to damage and attacks                            |
-+-------+-----------------------------------------------------+
-```
+### Greatsword of Wrath
++1 greatsword
+Those who swear an oath of vengeange(no class or level requirement) while holding this greatsword are soul-bound to the hellish red metal. When the soulbound dies, their soul is trapped in the blade, freed only when someone else swears an oath of vengeance to the blade and takes their place. The soulbound gains all warrior techniques that require the oath of vengeance. If one flees from a fiend while souldbound, their soul is forfeit, consumed by the blade and they fall dead. A forfeit soul increases the blade to a +2, and then a +3 greatsword if it happens a second time. If the blade is shattered while bound to it's wielder, the wielder's soul is destroyed.
 
-### Authority (Legendary)
-This glaive stores the souls of any humanoids it kills. It requires attunement,
-and each time attunement is lost, the souls leave the blade.
+### Merciful Hammer
++1 warhammer
+This wooden warhammer has runes engraved in it and painted blue. "Hammer of wood, render of heads, redeemer of souls." It requires attunement by a wielder who has sworn a pact of redemption. When the wielder hits a creature with half or less hit points, they may expend a stamina die to force the creature to succeed a DC 15 CON saving throw, or else fall unconscious for up to 1 minute.
 
-```
-+-------+----------------------------------+
-| Souls |              Effect              |
-+-------+----------------------------------+
-|     1 | +1                               |
-|     5 | Cast Toll The dead 3 times a day |
-|    15 | +2                               |
-|    35 | Cast Cause Fear once a day       |
-|    55 | +3                               |
-+-------+----------------------------------+
-```
+### Rapier of Charming
++1 rapier
+This sword contains the soul of a suave rogue with a silver tongue. The blade is likewise silvered.
+The wielder of this rapier may consume a stamina die in order to cast the charm person spell, using a spell DC of 15.
 
-### Stability (Legendary)
-This dagger stores the souls of any humanoids it kills. It requires attunement,
-and each time attunement is lost, the souls leave the blade.
+### Diplomat's Companion
++1 dagger
+When you wield this dagger, you may expend a stamina die to cast the comprehend languages spell.
 
-```
-+-------+---------------------------------------------------------+
-| Souls |                         Effect                          |
-+-------+---------------------------------------------------------+
-|     1 | Cast Disguise Self once a day                           |
-|     5 | Can consume a stamina die to attack three times with dagger |
-|    15 | +1                                                      |
-|    35 | Cast Shadow Magic once a day                            |
-|    55 | +2                                                      |
-+-------+---------------------------------------------------------+
-```
+### Dagger of Malevolence
++1 dagger
+When this dagger is wet with fresh blood, it becomes a +3 dagger and produces a bright crimson light within 30ft and dim crimson light for 30 more feet. Blood dries after 10 minutes. The blood can be an enemy's blood, or your own blood, bust must be taken from a creature while it is living.
+
+### Shortsword of Life Siphoning
++1 shortsword
+When this shortsword deals a killing blow, it absorbs the target's life energy. The damage dealt is stored in the blade.
+When the blade accumulates 50 hit points, it is fully charged and takes on a light blue hue, becoming a +2 shortsword. The wielder may discharge the blade, healing for 50 hit points. When discharged, the blade loses it's light blue hue and becomes a +1 shortsword again.
+
+### Longsword of Warning
++1 longsword
+When you attune to this blade, it detects your most feared type of foe. Select from beasts, monstrosities, humanoids, slime, undead, elements or fiends according to your fear. When one such creature comes within 100 feet of the attuned blade, it gives off a bright blue light for 30 feet, and a dim blue light for 30 more feet. If creatures of this type enter within 60 feet, the sword begins calling out with a man's voice.
+
+### Thunder Maw
++1 Greathammer
+This greathammer's business end is shaped like a lion's head. When you strike an enemy size medium or smaller, they are automatically thrown back 15ft while a lion's roar emanates from the hammer. If they are size large they may succeed a DC 15 STR save to avoid this effect. Creatures lartger than size large are unaffected.
 
 ## Armor
 
@@ -235,6 +227,9 @@ This half plate has jets on the back that produce blue flame to propel the
 wearer into the air. It has 6 charges, which return at dawn. When active,
 the suit consumes one charge per 6 seconds and confers a 60ft flying speed
 to the wearer.
+
+### Pneumatic Mobility Gear
+These 6 inch by 18 inch by four-foot long rectangular boxes are harnessed to the hips of the wearer, who may not wear medium or heavy armor while operating the mobility gear. By using your bonus action to consume one stamina die, the box fires a grappling hook up to 120ft towards a solid object such as a tree, wall, building, or huge creature. The suit then reels in the line connected to the hook, propeling the user toward it. The user can either land on that target, or fire the pneumatic mobility gear again at the start of their next turn to remain moving without landing.
 
 ### Cape of Billowing (Common)
 At all times, the cape flutters as if blown by a strong wind.
