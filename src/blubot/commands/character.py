@@ -22,7 +22,9 @@ def character_commands(bot, discord):
         else:
             bot.db.update_character(ctx.user.id, name, data)
 
-        await ctx.respond(f"Character {char['name']} parsed and updated. Meow. :3")
+        bot.db.set_active_character(ctx.user.id, char['name'])        
+
+        await ctx.respond(f"Character {char['name']} parsed, updated, and set as active. Meow. :3")
 
     @character_group.command()
     async def list(ctx):
