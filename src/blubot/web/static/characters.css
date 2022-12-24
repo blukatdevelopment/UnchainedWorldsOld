@@ -29,3 +29,7 @@ table, tr, th, td, body {
 .header_field {
     width: 140px;
 }
+
+.stat_field {
+    width: 10ch;
+}
