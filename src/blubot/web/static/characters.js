@@ -19,6 +19,8 @@ const LANGUAGES = "languages";
 const PROF_BONUS = "prof bonus";
 const VISION = "vision";
 const CONDITIONS = "conditions";
+const SENSES = "senses";
+const IMG = "image";
 const UNUSED = "unused";
 
 // Abilities
@@ -221,6 +223,8 @@ function generate_sheet_json(){
     var character = {};
     character = generate_header_fields(character);
     character = generate_abilities(character);
+    character = generate_stat_fields(character);
+    character = generate_proficiency_fields(character);
     $("#text_json").val(JSON.stringify(character));
 }
 
@@ -242,6 +246,27 @@ function generate_header_fields(character){
     character[CULTURE] = $("#CULTURE_TXT").val();
     character[BODY_TYPE] = $("#BODY_TXT").val();
     character[XP] = $("#XP_TXT").val();
+    return character;
+}
+
+function generate_stat_fields(character){
+    character[HP] = $("#HP_TXT").val();
+    character[AC] = $("#AC_TXT").val();
+    character[SIZE] = $("#SIZE_TXT").val();
+    character[SPEED] = $("#SPEED_TXT").val();
+    character[STAMINA_DICE] = $("#STAMINA_TXT").val();
+    character[IMG] = $("#IMG_TXT").val();
+    character[SENSES] = $("#SENSES_TXT").val();
+    return character;
+}
+
+function generate_proficiency_fields(character){
+    character[PROF_BONUS] = $("#PROF_TXT").val();
+    character[WEAPON_PROF] = $("#WEAPONS_TXT").val();
+    character[ARMOR_PROF] = $("#ARMORS_TXT").val();
+    character[TOOL_PROF] = $("#TOOLS_TXT").val();
+    character[SKILLS] = $("#SKILLS_TXT").val();
+    character[SAVING_THROWS] = $("#SAVES_TXT").val();
     return character;
 }
 

@@ -3,6 +3,10 @@ table, tr, th, td, body {
     background: #5490f0;
 }
 
+input {
+    background: #45beff;
+    border-color: #74cdfc;
+}
 .ab_score {
     width: 5ch;
 }
