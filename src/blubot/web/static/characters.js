@@ -84,12 +84,172 @@ const TO_HIT = "to hit";
 const DAMAGE = "damage";
 const DAMAGE_TYPE = "damage type";
 
+
+
+// Abilities helpers
+function get_ability_mod_id(ability){
+    switch(ability) {
+        case STRENGTH:
+            return "STR_MOD";
+            break;
+        case DEXTERITY:
+            return "DEX_MOD";
+            break;
+        case CONSTITUTION:
+            return "CON_MOD";
+            break;
+        case INTELLIGENCE:
+            return "INT_MOD";
+            break;
+        case WISDOM:
+            return "WIS_MOD";
+            break;
+        case CHARISMA:
+            return "CHA_MOD";
+            break;
+    }
+}
+
+function set_ability_mod(ability, mod){
+    var id = get_ability_mod_id(ability);
+    var mod_text = "";
+    if(mod > -1){
+        mod_text += "+";
+    }
+    mod_text += mod;
+    $("#"+id).text(mod_text);
+}
+
+function get_ability_score_id(ability){
+    switch(ability) {
+        case STRENGTH:
+            return "STR_SCORE_TXT";
+            break;
+        case DEXTERITY:
+            return "DEX_SCORE_TXT";
+            break;
+        case CONSTITUTION:
+            return "CON_SCORE_TXT";
+            break;
+        case INTELLIGENCE:
+            return "INT_SCORE_TXT";
+            break;
+        case WISDOM:
+            return "WIS_SCORE_TXT";
+            break;
+        case CHARISMA:
+            return "CHA_SCORE_TXT";
+            break;
+    }
+}
+
+function set_ability_score(ability, score){
+    var id = get_ability_score_id(ability);
+    $("#"+id).val(score);
+}
+
+function get_ability_score(ability){
+    var id = get_ability_score_id(ability);
+    var score = $("#"+id).val();
+    return parseInt(score);
+}
+
+function calculate_ability_mod(score){
+    score = parseInt(score);
+    if(score < 2){
+        return -5;
+    }
+    if(score < 4){
+        return -4;
+    }
+    if(score < 6){
+        return -3;
+    }
+    if(score < 8){
+        return -2;
+    }
+    if(score < 10){
+        return -1;
+    }
+    if(score < 12){
+        return 0;
+    }
+    if(score < 14){
+        return 1;
+    }
+    if(score < 16){
+        return 2;
+    }
+    if(score < 18){
+        return 3;
+    }
+    if(score < 20){
+        return 4;
+    }
+    return 5;
+}
+
+function update_mods(){
+    update_ability_mod(STRENGTH);
+    update_ability_mod(DEXTERITY);
+    update_ability_mod(CONSTITUTION);
+    update_ability_mod(INTELLIGENCE);
+    update_ability_mod(WISDOM);
+    update_ability_mod(CHARISMA);
+}
+
+function update_ability_mod(ability){
+    var score = get_ability_score(ability);
+    var mod = calculate_ability_mod(score);
+    console.log("Score " + score + ", Mod " + mod);
+    set_ability_mod(ability, mod);
+}
+
+function clear_abilities(){
+    set_ability_score(STRENGTH, 10);
+    set_ability_score(DEXTERITY, 10);
+    set_ability_score(CONSTITUTION, 10);
+    set_ability_score(INTELLIGENCE, 10);
+    set_ability_score(WISDOM, 10);
+    set_ability_score(CHARISMA, 10);
+    update_mods();
+}
+
+
+// Character sheet JSON generation
+
+function generate_sheet_json(){
+    var character = {};
+    character = generate_abilities(character);
+    $("#text_json").val(JSON.stringify(character));
+}
+
+function generate_abilities(character){
+    character[ABILITIES] = [
+        get_ability_score(STRENGTH),
+        get_ability_score(DEXTERITY),
+        get_ability_score(CONSTITUTION),
+        get_ability_score(INTELLIGENCE),
+        get_ability_score(WISDOM),
+        get_ability_score(CHARISMA)
+    ];
+    return character;
+}
+
 $(document).ready(function(){
     $("#text_json").val(""); // Clear this out. Seems to want to keep values when refreshing
-    $("#button_copy").click(function(){
+    $("#button_copy").click(() => {
         var text_json = $("#text_json").val();
         navigator.clipboard.writeText(text_json);
     });
 
+    $("#button_generate").click(generate_sheet_json);
 
+    $("#STR_SCORE_TXT").change(update_mods);
+    $("#DEX_SCORE_TXT").change(update_mods);
+    $("#CON_SCORE_TXT").change(update_mods);
+    $("#INT_SCORE_TXT").change(update_mods);
+    $("#WIS_SCORE_TXT").change(update_mods);
+    $("#CHA_SCORE_TXT").change(update_mods);
+    clear_abilities();
 });

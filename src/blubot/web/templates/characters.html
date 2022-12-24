@@ -1,10 +1,56 @@
 <!DOCTYPE html>
-<div id="response_div"></div>
-
+<html>
+<head>
+  <link rel="stylesheet" href="{{ url_for('static', filename='characters.css') }}">
+</head>
+<body>
 <h2>Unchained Worlds</h2>
 <h3>Characters</h3>
 
-<input type="text" id="text_json"> <button type="button" id="button_copy">Copy to clipboard</button>
-
 <script src="{{url_for('static', filename='jquery-3.6.3.min.js')}}"></script>
 <script src="{{url_for('static', filename='characters.js')}}"></script>
+
+<div class="sheet_table">
+    <div class="sheet_row">
+     <table class="sheet_cell">
+      <tr>
+        <th>Ability</th>
+        <th>Score</th>
+        <th>Modifier</th>
+      </tr>
+      <tr>
+        <th>STR</th>
+        <td id="STR_SCORE"><input class="ab_score" id="STR_SCORE_TXT" type="number" min="1" max="20" maxlength="2"></td>
+        <td id="STR_MOD"></td>
+      </tr>
+      <tr>
+        <th>DEX</th>
+        <td id="DEX_SCORE"><input class="ab_score" id="DEX_SCORE_TXT" type="number" min="1" max="20" maxlength="2"></td>
+        <td id="DEX_MOD"></td>
+      </tr>
+      <tr>
+        <th>CON</th>
+        <td id="CON_SCORE"><input class="ab_score" id="CON_SCORE_TXT" type="number" min="1" max="20" maxlength="2"></td>
+        <td id="CON_MOD"></td>
+      </tr>
+      <tr>
+        <th>INT</th>
+        <td id="INT_SCORE"><input class="ab_score" id="INT_SCORE_TXT" type="number" min="1" max="20" maxlength="2"></td>
+        <td id="INT_MOD"></td>
+      </tr>
+      <tr>
+        <th>WIS</th>
+        <td id="WIS_SCORE"><input class="ab_score" id="WIS_SCORE_TXT" type="number" min="1" max="20" maxlength="2"></td>
+        <td id="WIS_MOD"></td>
+      </tr>
+      <tr>
+        <th>CHA</th>
+        <td id="CHA_SCORE"><input class="ab_score" id="CHA_SCORE_TXT" type="number" min="1" max="20" maxlength="2"></td>
+        <td id="CHA_MOD"></td>
+      </tr>
+    </table>
+</div>
+<input type="text" id="text_json"> <button type="button" id="button_generate">Generate JSON</button> <button type="button" id="button_copy">Copy to clipboard</button>
+
+</body> 
+</html>
