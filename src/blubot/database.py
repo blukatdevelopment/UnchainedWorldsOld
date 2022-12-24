@@ -1,8 +1,6 @@
 #!/usr/bin/python3
 import os
 import sqlite3
-import webbrowser
-import subprocess
 from uw.character import parse_character
 import json
 
