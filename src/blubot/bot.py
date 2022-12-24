@@ -37,3 +37,4 @@ async def on_ready():
 token = open('./token', 'r').read()
 
 bot.run(token)
+
