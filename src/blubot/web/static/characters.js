@@ -201,7 +201,6 @@ function update_mods(){
 function update_ability_mod(ability){
     var score = get_ability_score(ability);
     var mod = calculate_ability_mod(score);
-    console.log("Score " + score + ", Mod " + mod);
     set_ability_mod(ability, mod);
 }
 
@@ -220,6 +219,7 @@ function clear_abilities(){
 
 function generate_sheet_json(){
     var character = {};
+    character = generate_header_fields(character);
     character = generate_abilities(character);
     $("#text_json").val(JSON.stringify(character));
 }
@@ -233,6 +233,15 @@ function generate_abilities(character){
         get_ability_score(WISDOM),
         get_ability_score(CHARISMA)
     ];
+    return character;
+}
+
+function generate_header_fields(character){
+    character[NAME] = $("#NAME_TXT").val();
+    character[CLASS] = $("#CLASS_TXT").val();
+    character[CULTURE] = $("#CULTURE_TXT").val();
+    character[BODY_TYPE] = $("#BODY_TXT").val();
+    character[XP] = $("#XP_TXT").val();
     return character;
 }
 

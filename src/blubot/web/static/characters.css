@@ -25,3 +25,7 @@ table, tr, th, td, body {
     display: table-cell;
     float: left;
 }
+
+.header_field {
+    width: 140px;
+}

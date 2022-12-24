@@ -44,6 +44,7 @@ These are more of stretch goals than anything, but heck, I'ma shoot for the star
 
 
 ## Example Character Sheet
+
 ```
 {
 "name": "Envy",
