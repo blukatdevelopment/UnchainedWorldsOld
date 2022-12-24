@@ -18,6 +18,7 @@ class Db:
           character_id INTEGER PRIMARY KEY AUTOINCREMENT,
           user_id INTEGER, 
           name TEXT,
+          status TEXT,
           data TEXT,
           active BOOLEAN
         );
@@ -29,7 +30,7 @@ class Db:
   def insert_character(self, user_id, name, data):
     c = self.conn.cursor()
     sql = '''
-        INSERT OR IGNORE INTO character(user_id, name, data) VALUES(?, ?, ?);
+        INSERT OR IGNORE INTO character(user_id, name, data, status) VALUES(?, ?, ?, '');
         '''
     c.execute(sql, (user_id, name, data,))
     self.conn.commit()
@@ -52,6 +53,27 @@ class Db:
         WHERE user_id = ?;
         '''
     c.execute(sql, (name, user_id))
+    self.conn.commit()
+
+  def get_active_character_status(self, user_id):
+    c = self.conn.cursor()
+    sql = '''
+        SELECT status FROM character WHERE user_id = ? and active = true;
+        '''
+    cursor = c.execute(sql, (user_id,))
+    row = cursor.fetchone()
+    if row is not None:
+      return row[0]
+    return None
+
+  def update_active_character_status(self, user_id, status):
+    c = self.conn.cursor()
+    sql = '''
+        UPDATE character
+        SET status = ?
+        WHERE user_id = ? AND active = true;
+        '''
+    cursor = c.execute(sql, (status, user_id,))
     self.conn.commit()
 
   def get_active_character(self, user_id):

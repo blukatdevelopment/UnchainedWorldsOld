@@ -43,9 +43,9 @@ def character_commands(bot, discord):
     @character_group.command()
     async def active(ctx):
         char = load_active_character(bot.db, ctx.user.id)
-        name = char["name"]
         if char is None:
             return await ctx.respond("No active character")
+        name = char["name"]
         await ctx.respond(f'Active character: {name}')
 
     @character_group.command()

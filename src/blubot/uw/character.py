@@ -5,8 +5,10 @@ ERROR = "error"
 
 # Misc Stats
 NAME = "name"
-XP = "xp"
-AC = "ac"
+XP = "xp" # Experience Points
+AC = "ac" # Armor Class
+HP = "hp" # Hit Points
+THP = "thp" # Temporary Hit Points
 CLASS = "class"
 SIZE = "size"
 CULTURE = "culture"
@@ -19,6 +21,7 @@ TOOL_PROF = "tool proficiencies"
 LANGUAGES = "languages"
 PROF_BONUS = "prof bonus"
 VISION = "vision"
+CONDITIONS = "conditions"
 UNUSED = "unused"
 
 # Abilities
@@ -84,7 +87,7 @@ TO_HIT = "to hit"
 DAMAGE = "damage"
 DAMAGE_TYPE = "damage type"
 
-NECESSARY_FIELDS = [NAME, XP, AC, CLASS, SIZE, CULTURE, SPEED, BODY_TYPE, STAMINA_DICE, ARMOR_PROF, WEAPON_PROF, TOOL_PROF, LANGUAGES, PROF_BONUS, ABILITIES, SKILLS, INVENTORY, ATTACKS, SAVING_THROWS]
+NECESSARY_FIELDS = [NAME, XP, HP, AC, CLASS, SIZE, CULTURE, SPEED, BODY_TYPE, STAMINA_DICE, ARMOR_PROF, WEAPON_PROF, TOOL_PROF, LANGUAGES, PROF_BONUS, ABILITIES, SKILLS, INVENTORY, ATTACKS, SAVING_THROWS]
 
 def parse_character(raw_json):
     errors = []
@@ -108,7 +111,27 @@ def parse_character(raw_json):
 
 def load_active_character(db, user_id):
     raw_json = db.get_active_character(user_id)
+    if raw_json is None:
+        return None
     return parse_character(raw_json)
+
+def load_active_status(db, user_id, character):
+    raw_json = db.get_active_character_status(user_id)
+    if raw_json is None or raw_json == "":
+        return init_status(character)
+    return json.loads(raw_json)
+
+def init_status(character):
+    status = {
+        HP: character[HP],
+        THP: 0,
+        STAMINA_DICE: character[STAMINA_DICE]
+    }
+    return status
+
+def save_status(db, user_id, status):
+    raw_json = json.dumps(status)
+    db.update_active_character_status(user_id, raw_json)
 
 def abilities_valid(abilities):
     if len(abilities) != 6:
@@ -208,3 +231,25 @@ def get_ability_modifier(ability_score):
         return 4
     if ability_score < 21:
         return 5
+
+def xp_to_level(xp):
+    if xp < 300:
+        return 1
+    elif xp < 900:
+        return 2
+    elif xp < 1800:
+        return 3
+    elif xp < 3600:
+        return 4
+    elif xp < 6100:
+        return 5
+    elif xp < 9100:
+        return 6
+    elif xp < 13100:
+        return 7
+    elif xp < 22600:
+        return 8
+    elif xp < 44600:
+        return 9
+    else:
+        return 10
