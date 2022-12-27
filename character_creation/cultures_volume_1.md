@@ -288,14 +288,14 @@ with advantage.
 It's hard for others to know what you have and haven't experienced. When you
 tell a tall tale, you get advantage on your deception check.
 
-## 6 Burden Folk
+## 6 Field Folk
 Farmers, foresters, and fishermen bear this name. It is a simple life, but often
 a rewarding one.
 
-Large and huge folk play a specific role in burden folk cultures. Capable of
+Large and huge folk play a specific role in Field Folk cultures. Capable of
 pulling plows, of lifting timbers directly, and performing other miracles that
 a team would otherwise be needed for, larger folk also act as defenders for many
-burden folk communities. At summer solstice, burden folk often spend the day
+Field Folk communities. At summer solstice, Field Folk often spend the day
 celebrating their community's giants by baking confections and singing.
 
 ```
@@ -537,7 +537,7 @@ You learned to entertain others using your magic.
 You know either the minor illusion cantrip, or the control flames cantrip. You
 may cast this spell using only your fingers by expending a stamina die.
 
-### Fey Blessing (requires at least 15 WIS)
+### Fae Blessing (requires at least 15 WIS)
 On your travels, you have had a close encounter with the fey, and they admired
 you. You have advantage on saving throws against being charmed or posessed by
 magic.

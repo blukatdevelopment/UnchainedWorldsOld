@@ -367,6 +367,19 @@ are used to trade large amounts of wealth.
 
 ```
 
+### Water Containers
+```
++---------------+------+-------------------+------------------+-----------------+
+|     Item      | Cost | Capacity(gallons) | Weight lb(Empty) | Weight lb(full) |
++---------------+------+-------------------+------------------+-----------------+
+| flask/tankard | 2cp  | 1/8               |                1 |               2 |
+| Bottle        | 2gp  | 1/6               |                1 |               2 |
+| Waterskin     | 2sp  | 1/2               |                2 |               5 |
+| jug/pitcher   | 2cp  | 1                 |                4 |              12 |
+| Barrel        | 2gp  | 40                |               70 |             430 |
++---------------+------+-------------------+------------------+-----------------+
+```
+
 ### Adventuring gear
 Adventuring requires a great many things. Here are some of them.
 
@@ -390,14 +403,12 @@ Adventuring requires a great many things. Here are some of them.
 | Wand                         | 10 gp    | 1 lb.        |
 | Backpack                     | 2 gp     | 5 lb.        |
 | Ball bearings (bag of 1,000) | 1 gp     | 2 lb.        |
-| Barrel                       | 2 gp     | 70 lb.       |
 | Basket                       | 4 sp     | 2 lb.        |
 | Bedroll                      | 1 gp     | 7 lb.        |
 | Bell                         | 1 gp     | —            |
 | Blanket                      | 5 sp     | 3 lb.        |
 | Block and tackle             | 1 gp     | 5 lb.        |
 | Book                         | 25 gp    | 5 lb.        |
-| Bottle, glass                | 2 gp     | 2 lb.        |
 | Bucket                       | 5 cp     | 2 lb.        |
 | Caltrops (bag of 20)         | 1 gp     | 2 lb.        |
 | Candle                       | 1 cp     | —            |
@@ -418,7 +429,6 @@ Adventuring requires a great many things. Here are some of them.
 | Wooden staff                 | 5 gp     | 4 lb.        |
 | Yew wand                     | 10 gp    | 1 lb.        |
 | Fishing tackle               | 1 gp     | 4 lb.        |
-| Flask or Tankard             | 2 cp     | 1 lb.        |
 | Grappling hook               | 2 gp     | 4 lb.        |
 | Hammer                       | 1 gp     | 3 lb.        |
 | Hammer, sledge               | 2 gp     | 10 lb.       |
@@ -431,7 +441,6 @@ Adventuring requires a great many things. Here are some of them.
 | Hunting trap                 | 5 gp     | 25 lb.       |
 | Ink (1 ounce bottle)         | 10 gp    | —            |
 | Ink pen                      | 2 cp     | —            |
-| Jug or Pitcher               | 2 cp     | 4 lb.        |
 | Kit, climber’s               | 25 gp    | 12 lb.       |
 | Kit, disguise                | 25 gp    | 3 lb.        |
 | Kit, forgery                 | 15 gp    | 5 lb.        |
@@ -461,7 +470,9 @@ Adventuring requires a great many things. Here are some of them.
 | Pouch                        | 5 sp     | 1 lb.        |
 | Quiver                       | 1 gp     | 1 lb.        |
 | Ram, portable                | 4 gp     | 35 lb.       |
-| Rations (1 day)              | 5 sp     | 2 lb.        |
+| Horse feed                   | 5 cp     | 10 lb.       |
+| Fresh rations (1 day)        | 5 cp     | 3 lb.        |
+| Iron Rations (1 day)         | 5 sp     | 2 lb.        |
 | Robes                        | 1 gp     | 4 lb.        |
 | Rope, hempen (50 feet)       | 1 gp     | 10 lb.       |
 | Rope, silk (50 feet)         | 10 gp    | 5 lb.        |
@@ -482,10 +493,18 @@ Adventuring requires a great many things. Here are some of them.
 | Tools, Smith's               | 15 gp    | 10 lb        |
 | Torch                        | 1 cp     | 1 lb.        |
 | Vial                         | 1 gp     | —            |
-| Waterskin                    | 2 sp     | 5 lb. (full) |
 | Whetstone                    | 1 cp     | 1 lb.        |
 +------------------------------+----------+--------------+
 ```
+
+#### Water Containers
+```
+
+```
+
+#### Fresh and Iron Rations
+Fresh rations are generally fresh produce, meat, bread, and similar foods which spoil 7 days after purchase. Iron rations are made of ingredients such as travel bread, fruit preserves, fruit leather, jerky, potted meat, noodles, and pemican. Iron rations are generally shelf stable for multiple months at a time.
+
 #### Healer's Kit
 A kit filled with gauze, scissors, bandages, salves, and other medicinal gear.
 Has 10 charges.
@@ -506,9 +525,7 @@ to determine the outcome.
 ```
 
 #### Flask of oil
-A flask of oil can be thrown to create a 5ft puddle or soak an enemy. If lit,
-an oil-soaked creature takes 1d8+2 fire damage. A creature that starts it's turn
-in or enters a fire makes a DC 14 DEX save to avoid 1d6 fire damage.
+A flask of oil can be thrown to create a 5ft puddle or soak an enemy. If lit, an oil-soaked creature takes 1d8+2 fire damage, and 1d6 fire damage on each subsequent turn until extinguished. A creature that starts it's turn in or enters a fire makes a DC 14 DEX save to avoid 1d6 fire damage.
 
 #### Potion of Healing
 A flask of pink liquid which heals 2d4+2 hit points when consumed.
@@ -748,8 +765,8 @@ constitution bonus, and restore that many hit points.
 +---------------------+
 |   Rest amenities    |
 +---------------------+
-| Any Bedding         |
-| Fire or shelter     |
+| Dry Bedding         |
+| Fire and shelter    |
 | Food and water      |
 | Double food ration  |
 | Fine dining         |

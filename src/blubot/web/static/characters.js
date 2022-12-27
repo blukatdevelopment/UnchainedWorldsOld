@@ -265,9 +265,102 @@ function generate_proficiency_fields(character){
     character[WEAPON_PROF] = $("#WEAPONS_TXT").val();
     character[ARMOR_PROF] = $("#ARMORS_TXT").val();
     character[TOOL_PROF] = $("#TOOLS_TXT").val();
-    character[SKILLS] = $("#SKILLS_TXT").val();
-    character[SAVING_THROWS] = $("#SAVES_TXT").val();
+
+    // Skills
+    var skill_list = $("#SKILLS_TXT").val().split(",");
+    character[SKILLS] = []
+    skill_list.forEach((skill) => {
+        var skill_text = skill.trim().toLowerCase();
+        character[SKILLS].push(skill_text);
+    });
+
+    // Saves
+    character[SAVING_THROWS] = [];
+    var save_list = $("#SAVES_TXT").val().split(',');
+    save_list.forEach((save) => {
+        var save_text = save.trim().toLowerCase();
+        character[SAVING_THROWS].push(save_text);
+    });    
     return character;
+}
+
+function clear_feats_table(){
+    var header = ["Feats"];
+    var row_data = [
+        [" "]
+    ];
+    var table = $("#FEATS_TABLE");
+    make_table(table, header, row_data, "feats");
+}
+
+/* Table logic
+    @table: JQUERY object for table element,
+    @header: array of header columns
+    @row_data: 2D array containing cell contents
+
+    Creates a table with th of headers columns,
+    td for each row, and then buttons to update the
+    table afterward.
+*/
+function make_table(table, header, row_data, blank_row, table_name){
+    var btn_row_id = table_name + "_btn";
+    table.empty();
+    make_header_row(table, header);
+    make_table_buttons(table, blank_row, btn_row_id);
+    row_data.forEach((row) => {
+        add_data_row(table, row, btn_row_id);
+    });
+    
+}
+
+function make_header_row(table, header){
+    var header_txt = "<tr>";
+    header.forEach((column) => {
+        header_txt += "<th>" + column + "</th>";
+    });
+    header_txt += "</tr>";
+    table.append("$" + header_txt);
+}
+
+function add_data_row(table, row, btn_row_id){
+    var button_row = $("#" + btn_row_id);
+    console.log(table.html());
+    console.log(button_row.html());
+    table.remove(button_row);
+
+    var row_tr = $("<tr>");
+    row.forEach(cell_data => {
+        var row_td = $("<td>");
+        var row_input = $("<input>").attr({ type: 'text'}).val(cell_data);
+        row_td.append(row_input);
+        row_tr.append(row_td);
+    });
+    table.append(row_tr);
+    table.append(button_row);
+}
+
+function make_table_buttons(table, btn_row_id){
+    var add_td = $("<td>");
+    var add_btn = $("<button>").html("Add").click(() => {
+        console.log("Add row");
+    });
+    add_td.append(add_btn);
+
+    var remove_td = $("<td>");
+    var remove_btn = $("<button>").html("Remove").click(() => {
+        console.log("Remove row");
+    });
+    remove_td.append(remove_btn);
+
+    var inner_div = $("<div>");
+    inner_div.append(add_td);
+    inner_div.append(remove_td);
+
+    var button_tr = $("<tr>", {
+        id: btn_row_id
+    });
+    button_tr.append(inner_div);
+    table.append(button_tr);
 }
 
 $(document).ready(function(){
@@ -286,4 +379,6 @@ $(document).ready(function(){
     $("#WIS_SCORE_TXT").change(update_mods);
     $("#CHA_SCORE_TXT").change(update_mods);
     clear_abilities();
+
+    clear_feats_table();
 });
