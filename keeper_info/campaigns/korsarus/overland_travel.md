@@ -6,7 +6,7 @@ An adventurer drinks 1 gallon a day, and a horse or mule drinks 5. When you find
 One or more members of the party may expend a stamina die to search for water, each making a survival check with DC varying by terrain. On a success, the party locates water that day.
 
 ## Food
-An adventurer eats 2 pounds of food, while a mount eats 5 pounds of food when they cannot graze on vegetation. One or more members of the party may expend a stamina die to forage or hunt, making a survival check to determine how many pounds of fresh rations they find. Foraged food requires a DC 12(or passive 10) nature check, made in secret,
+An adventurer eats 2 pounds of food, while a mount eats 5 pounds of food when they cannot graze on vegetation. One or more members of the party may expend a stamina die to forage or hunt, making a survival check to determine how many pounds of fresh rations they find. Foraged food requires a DC 12(or passive 10) nature check, made in secret, to determine if it is safe to eat.
 
 ## Rest
 When you rest, you regain stamina dice according to the number of amenities present. It's adviseable to bring along tents, bedrolls, axes, and tinderboxes to allow setting up camp for the night. Dry Bedding, Fire and shelter, and Food and water should restore three stamina dice nightly. Doubling food rations or uncorking a fine wine may add additional stamina in a pinch.
