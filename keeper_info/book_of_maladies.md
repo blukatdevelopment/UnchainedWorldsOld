@@ -669,16 +669,11 @@ it collapses and every creature inside takes 10d8 bludgeoning damage.
 ## Curses
 
 ### Malignant Lycanthropy
-You gain the Lycanthrope Form feature from the lycanthrope class. If you received lycanthropy from a bite, your form matches that of the biter. If not, roll randomly.
-```
-+------+----------+
-| Roll |   Form   |
-+------+----------+
-|    1 | Werewolf |
-|    2 | Wererat  |
-|    3 | Werebear |
-+------+----------+
+You gain the Lycanthrope Form feature from the lycanthrope class.
 
+#### Cures
+When someone diagnoses their malignant lycanthropy, roll on the table below for a cure for this particular case.
+```
 +------+------------------------------------------------------------------------+
 | Roll |                                  Cure                                  |
 +------+------------------------------------------------------------------------+
@@ -694,11 +689,6 @@ You gain the Lycanthrope Form feature from the lycanthrope class. If you receive
 |   10 | Feast on the flesh of your respective creature (bear, wolf, giant rat) |
 +------+------------------------------------------------------------------------+
 ```
-
-#### Cures
-When someone diagnoses their malignant lycanthropy, roll on the abpvetable
-for a cure for this particular case.
-
 
 ## Diseases
 When a character is created with a negative constitution modifier, it is often

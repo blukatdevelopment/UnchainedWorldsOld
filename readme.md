@@ -60,7 +60,7 @@ This is all you technically need to run and Play unchained Worlds, but you'll pr
 - [alchemist](character_creation/classes/alchemist.md)
 - [commoner](character_creation/classes/commoner.md)
 - [gunsmith](character_creation/classes/gunsmith.md)
-- [shifter](character_creation/classes/shifter.md)
+- [werewolf](character_creation/classes/werewolf.md)
 - [muse](character_creation/classes/muse.md)
 - [diviner](character_creation/classes/diviner.md)
 - [shaman](character_creation/classes/shaman.md)

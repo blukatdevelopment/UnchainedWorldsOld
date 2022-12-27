@@ -1,0 +1,6 @@
+# The token for secret token things
+src/blubot/token
+src/blubot/uw.db
+
+# Don't take in the pycache files
+*.pyc

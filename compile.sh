@@ -15,7 +15,7 @@ cat diviner.md >> classes.md
 cat thief.md >> classes.md
 cat commoner.md >> classes.md
 cat colossus.md >> classes.md
-cat lycanthrope.md >> classes.md
+cat werewolf.md >> classes.md
 sed -i 's/(└|┌|┐|┘|┬|▼)/+/g' classes.md
 pandoc classes.md -o ../../pdf/classes.pdf -V geometry:left=0in
 rm classes.md
