@@ -61,7 +61,7 @@ add a tiny bit more details, such as a warning about limitations of tiny/huge fo
 - Add a section of phrases/profanities and calendar events (Maybe in culture doc?)
 - Add a section of races (and their relationships to culture and body type)
 
-`Progress Bar: 20%[####--------------]`
+`Progress Bar: 30%[######------------]`
 
 ## Backlog
 
