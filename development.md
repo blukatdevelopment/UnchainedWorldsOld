@@ -16,7 +16,7 @@ Cut out clarifications where possible.
 - Acid Arrow [pending]
 - Mind Spike [pending]
 
-### Finish porting spells: runesmith (Chunk of 10 spells)
+### [DONE]Finish porting spells: runesmith (Chunk of 10 spells)
 Fill out missing spells. Do not use copy/paste, do not use exact wording.
 Cut out clarifications where possible.
 - Seeming [pending]

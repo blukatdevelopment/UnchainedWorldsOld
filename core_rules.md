@@ -575,7 +575,6 @@ rolls normally. A creature who moves normally rolls with disadvantage.
 | Halberd                | 20 gp | 1d10 slashing   | 6 lb.   | Heavy, reach, two-handed                               |
 | Lance                  | 10 gp | 1d12 piercing   | 6 lb.   | Reach, special                                         |
 | Longsword              | 15 gp | 1d8 slashing    | 3 lb.   | Versatile (1d10)                                       |
-| Maul                   | 10 gp | 2d6 bludgeoning | 10 lb.  | Heavy, two-handed                                      |
 | Morningstar            | 15 gp | 1d8 piercing    | 4 lb.   | —                                                      |
 | Pike                   | 5 gp  | 1d10 piercing   | 18 lb.  | Heavy, reach, two-handed                               |
 | Rapier                 | 25 gp | 1d8 piercing    | 2 lb.   | Finesse                                                |

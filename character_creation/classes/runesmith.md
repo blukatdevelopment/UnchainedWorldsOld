@@ -412,6 +412,7 @@ on itself.
 - water breathing
 - tiny servant
 - summon X [Pending]
+- Skill Empowerment
 
 ### 4th
 - Stone skin 
@@ -482,13 +483,12 @@ on itself.
 - Passwall [pending]
 - Plane Binding [pending]
 - Scrying [pending]
-- Seeming [pending]
-- Skill Empowerment [pending]
-- Steel Wind Strike [pending]
-- Synaptic Static [pending]
-- Telekinesis [pending]
-- Teleportation Circle [pending]
-- Transmute Rock [pending]
-- Wall of force [pending]
-- Wall of light [pending]
-- Wall of stone [pending]
+- Seeming
+- Steel Wind Strike
+- Synaptic Static
+- Telekinesis
+- Teleportation Circle
+- Transmute Rock
+- Wall of force
+- Wall of light
+- Wall of stone

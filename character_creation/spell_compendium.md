@@ -1174,11 +1174,7 @@ Disguise Self (1st)
 Casting Time: 1 action
 Range: self
 Duration: 1 hour
-You disguise your body, clothing, armor, weapons, and any other posessions to
-assume the form of one other creature. You may use your action to dismiss it.
-These changes are not physical and do not hold up to close scrutiny. If you
-create a hat, objects may pass through it. An investigation check opposing your
-spell DC may overcome the disguise.
+You disguise your body, clothing, armor, weapons, and any other posessions to assume the form of one other creature. You may use your action to dismiss it. These changes are not physical and do not hold up to close scrutiny. If you create a hat, objects may pass through it. An investigation check opposing your spell DC may overcome the disguise.
 ```
 
 ```
@@ -3237,6 +3233,14 @@ Duration: Concentration, up to 10 minutes
 Spirit guardians encircle you within a 15ft radius for the duration. Creatures of your choice have halved speed within the radius, and upon entering or starting their turn inside, must make a WIS save to halve 3d8 radiant damage.
 ```
 
+```
+Skill empowerment (3rd)
+Casting time: 1 action 
+Range: Touch
+Duration: Concentration, 1 hour
+You touch a creature, and select a skill of your choice. If they don't already receive double proficiency bonus for checks with that skill, they do for the duration.
+```
+
 ## 4th level spells
 
 ```
@@ -3530,8 +3534,87 @@ sphere centered on a point within range. Within this field spells cannot be cast
 and magic items become temporarily inert.
 ```
 
+```
+Telekinesis (4th)
+Casting time: 1 action 
+Range: 60ft
+Duration: Concentration, up to 10 minutes
+Your convert your thoughts into powerful telekinetic energy, and may perform one of the following acts now, and again as an action for the duration.
+- Make a contested spell vs STR check to move a creature of size huge or smaller up to 30ft within the spell's range. 
+- Move an object that isn't worn or carried up to 30ft within the spell's range, provided it's 1000lb or less.
+- Make a contested spell vs STR check to move an object that is worn or carried by a creature up to 30ft within the spell's range.
+- Exert fine control over an object, such as opening a door, writing a letter, or pouring the contents of a tankard.
+```
+
 ## 5th level spells
 
+```
+Teleportation Circle (5th)
+Casting time: 1 minute 
+Range: 10ft
+Duration: 1 round
+You draw a 10ft wide circle of runes matching that of a permanent teleportation circle whose rune sequence you know. The portal opens until the end of your next turn, and any creature that steps on it is teleported to the destination.
+
+To create a permanent teleportation circle, you may cast this spell on the same point daily for one year. When doing so, you do not need to link your circle to an existing permanent teleportation circle.
+```
+
+```
+Transmute Rock (5th)
+Casting time: 1 minute 
+Range: 120ft
+Duration: Until dispelled
+Choose up to a 40ft cube area and either turn rock to mud, or mud to rock. Mud made by this spell falls (if cast on the ceiling), forcing a DEX save to halve 4d8 bludgeoning, and this mud requires four times the movement to pass through. When turning mud to rock, creatures inside make a DEX save to be shunted safely above, or else are restrained. A DC20 STR check can break out of the rock, which has an AC of 15 and 25HP. 
+```
+
+```
+Wall of Light (5th)
+Casting time: 1 minute 
+Range: 120ft
+Duration: Concentration, up to 10 minutes
+Create a wall of light on a point within range, choosing any orientation. It can be up to 60ft long, 10ft high, and 5ft thick, blocks line of sight, can be passed through, and casts 120ft bright light and another 120ft dim light. Creatures in the wall's area make a CON save to halve 4d8 radiant damage and avoid being blinded for the duration(remaking the CON save to end the blindness at the end of their turn). Creatures who end their turn in the area take 4d8 radiant damage.
+
+For the duration, you may use your action to launch a beam of light from the wall at one creature you see within 60ft of the wall, making a ranged spell attack and dealing 4d8 radiant damage on a hit. Using this ability reduces the length of the wall by 10ft.
+```
+
+```
+Wall of Light (5th)
+Casting time: 1 minute 
+Range: 120ft
+Duration: Concentration, up to 10 minutes
+You materialize on a point within range a 6-inch thick wall of stone consisting of ten linked 10ft square panels. Creatures cut through by the wall are pushed to a side of your choice, and a creature that would be enclosed by the wall may make a DEX save to move up to it's movement to escape being enclosed. The wall must connect with a firm foundation of existing stone, and may be used to bridge a gap or create a ramp. Each panel has AC15 and 30HP per inch of thickness. Concentrating on this spell the entire time makes the spell permanent, but otherwise it disappears when the spell ends.
+```
+
+```
+Wall of Force (5th)
+Casting time: 1 minute 
+Range: 120ft
+Duration: Concentration, up to 10 minutes
+You create an invisible plane in any orientation. It may either be a 10ft sphere or ten linked 10ft square panels, which are 1/4 inch thick. Creatures cut through the wall are bounced to a side of your choice. The wall's immune to damage and dispel magic. The disintegrate spell instantly destroys the wall.
+```
+
+```
+Steel Wind Strike (5th)
+Casting time: 1 action 
+Range: 30ft
+Duration: Instantaneous
+Brandish a melee weapon and select up to five creatures in range. You teleport in front of each and make an attack roll, dealing 6d10 force damage on a hit. You stand by the last target you teleport to.
+```
+
+```
+Synaptic Static (5th)
+Casting time: 1 action 
+Range: 120ft
+Duration: Instantaneous
+You create an explosion of psychic energy within a 20ft sphere centered on a point within range, and all creatures inside must succeed an INT save to halve 8d6 psychic damage and avoid having muddled throughts for 1 minute. Muddled thoughts give a d6 penalty to attack rolls, skill checks, ability checks, and concentration checks. They may repeat the save at the end of their turn to end the muddled thoughts.
+```
+
+```
+Seeming (5th)
+Casting time: 1 action 
+Range: 30ft
+Duration: 8 hours
+Select any number of creatures in range and disguise their body, clothing, armor, weapons, and any other posessions to assume the form of other creatures. You may use your action to dismiss it. These changes are not physical and do not hold up to close scrutiny. If you create a hat, objects may pass through it. An investigation check opposing your spell DC may overcome the disguise.
+```
 
 ```
 Commune (5th)
