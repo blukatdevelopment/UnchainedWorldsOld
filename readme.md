@@ -51,7 +51,7 @@ This is all you technically need to run and Play unchained Worlds, but you'll pr
 [Cultures](character_creation/cultures_volume_1.md)
 
 #### Body Types
-[Body Types](character_creation/body_types.md)
+[Body Types](character_creation/body.md)
 
 #### Spells
 [spells](character_creation/spell_compendium.md)

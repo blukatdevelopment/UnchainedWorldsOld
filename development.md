@@ -52,7 +52,7 @@ Evil version of priest: has patron that makes requests in order to build up
 spellcasting resources, which can be infinitely banked. Spells are tattooed 
 onto self and followers.
 
-### Edit body_types.md
+### [DONE]Edit body_types.md
 Check to make sure descriptions make sense, are formatted reasonably, and maybe 
 add a tiny bit more details, such as a warning about limitations of tiny/huge folk.
 
@@ -61,7 +61,7 @@ add a tiny bit more details, such as a warning about limitations of tiny/huge fo
 - Add a section of phrases/profanities and calendar events (Maybe in culture doc?)
 - Add a section of races (and their relationships to culture and body type)
 
-`Progress Bar: 30%[######------------]`
+`Progress Bar: 40%[########----------]`
 
 ## Backlog
 
