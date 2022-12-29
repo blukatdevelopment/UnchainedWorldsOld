@@ -36,7 +36,7 @@ Chastise (Cantrip)
 Casting time: 1 action
 Range: 60 feet
 Duration: Instantaneous
-You verbally chastise the ill behavior of one creature within range that can hear you. They must succeed a wisdom saving throw or receive 1d4 psychic damage.
+You verbally chastise the ill behavior of one creature within range that can hear you. They must succeed a wisdom saving throw or receive 1d12 psychic damage. If you do not cite an ill behavior of theirs, the spell fails.
 ```
 
 ```
