@@ -11,10 +11,10 @@
 Some believe there is a vitality found in all living things which can be understood only through a personal journey of discipline, self-discovery, and victory of mind over matter. Those who wield ki are rumored to ascend the physical limitations that burden most warriors. They are capable of dodging, countering, and striking with inhuman speed and precision. This wielder of ki is known as the monk.
 
 ## Starting hit points
-You start with 12+CON hit points.
+You start with 8+CON hit points.
 
 ## Stamina Die size
-The thief's stamina die is a d10.
+The monk's stamina die is a d8.
 
 ## Proficiencies
 ```
@@ -25,12 +25,12 @@ The thief's stamina die is a d10.
 +---------------+--------------------------------+
 | Tools         | Thieves' Tools                 |
 +---------------+--------------------------------+
-| Saving Throws | Dexterity, Intelligence        |
+| Saving Throws | Dexterity, Wisdom              |
 +---------------+--------------------------------+
 ```
 
 ## Skills
-You are proficient in stealth and 3 from the following:
+You are proficient in 2 from the following:
 - Acrobatics
 - Athletics
 - Deception
@@ -43,15 +43,10 @@ You are proficient in stealth and 3 from the following:
 - Sleight of hand
 
 ## Starting equipment
-- 10 darts
-- Leather armor, two daggers, and thieve's tools
 - backpack
-- bag of caltrops(20)
-- flask of strong spirits
-- crowbar
-- black outfit with hood and mask
-- 50ft of hempen rope
-- razor blade
+- 2 cubes of incense
+- censer
+- robes
 
 ```
 LVL = level
@@ -63,16 +58,16 @@ TN = Techniques
 +-----+-------+---+-----+-----+-----+--------------------------------------------+
 | LVL |    XP | SD|Prof |  KD |  TN |       Features                             |
 +-----+-------+---+-----+-----+-----+--------------------------------------------+
-|   1 |      0| 2 | +1  | 1d6 |   3 | Ki, Ki Fists, Techniques
-|   2 |    300| 4 | +1  | 2d6 |   4 | 
-|   3 |    900| 6 | +2  | 3d6 |   5 | Discipline
-|   4 |   1800| 8 | +2  | 4d6 |   6 | 
-|   5 |   3600|10 | +2  | 5d6 |   7 | 
-|   6 |   6100|12 | +2  | 6d6 |   8 | 
-|   7 |   9100|14 | +3  | 7d6 |   9 | 
-|   8 |  13100|16 | +3  | 8d6 |  10 | 
-|   9 |  22600|18 | +4  | 9d6 |  11 | 
-|  10 |  44600|20 | +4  |10d6 |  12 | 
+|   1 |      0| 2 | +1  | 1d6 |   3 | Ki, Ki Fists, Techniques                   |
+|   2 |    300| 4 | +1  | 2d6 |   4 |                                            |
+|   3 |    900| 6 | +2  | 3d6 |   5 | Discipline                                 |
+|   4 |   1800| 8 | +2  | 4d6 |   6 |                                            |
+|   5 |   3600|10 | +2  | 5d6 |   7 |                                            |
+|   6 |   6100|12 | +2  | 6d6 |   8 |                                            |
+|   7 |   9100|14 | +3  | 7d6 |   9 | Extra Attack                               |
+|   8 |  13100|16 | +3  | 8d6 |  10 |                                            |
+|   9 |  22600|18 | +4  | 9d6 |  11 |                                            |
+|  10 |  44600|20 | +4  |10d6 |  12 |                                            |
 +-----+-------+---+-----+-----+-----+--------------------------------------------+
 ```
 ## Features
@@ -89,37 +84,17 @@ You know three techniques and may learn one more with each level. Most technique
 ### Discipline
 Select one of the following disciplines.
 
-#### Way of the Weapon
-You gain proficiency with one simple melee weapon. This weapon is considered magical, and you may add your wisdom bonus to attack rolls made with it.
+#### Way of the Radiant Order
+You gain proficiency with longswords. You have been passed down an ancestral radiant blade, a metal hilt which produces a colorful blade of pure light. This weapon was   It deals 2d8 radiant damage on a hit. Given one minute, it can cut a door through as much as a foot of steel. The blade only works for those who know the Way of the Radiant Order.
 
 #### Way of the Fist
 Whenever you use your action to make an unarmed attack, you may now make one additional unarmed attack.
 
-#### Way of the Spell Slinger
-You learn four cantrips from the list below. You may cast them with an action or bonus action, consuming 1d4 Ki with each cast.
-- Prestidigitation
-- Sacred Flame 
-- Firebolt 
-- Minor Illusion 
-- Touch Light 
-- Lesser Telekinesis 
-- Death Grip 
-- Bonfire 
-- Control Flames 
-- Frostbite 
-- Gust 
-- Mold Earth 
-- Ray of Frost 
-- Shape Water 
-- Shocking Grasp 
-- Thunderclap 
-- Produce Flame 
-- Resistance 
-- Word of Radiance 
-- Sanguine Sight 
-
 #### Way of the Shadow Blade
-You are proficient with longswords, which now deal an additional 1d8 necrotic damage.
+You are proficient with longswords, which now deal an additional 1d8 necrotic damage. You wake up to find a longsword with the mark of Gidur on it when you choose this way.
+
+### Extra Attack
+When you use your action to make an attack, you may make one additional attack.
 
 ## Techniques
 
@@ -174,76 +149,23 @@ You hold one hand up and use your consume 3d6 Ki to form a teal disk of energy. 
 ### Ki Shield
 As a reaction when attacked, you may consume 2d6 Ki and create a crackling teal energy dome about yourself, raising your AC by 5 until the start of your next turn. If this would not not prevent a hit, no Ki is consumed and the technique is not used.
 
+### radiant blade Deflection (Requires Way of the Radiant Order)
+When wielding your radiant blade, you casually deflect missiles. You may use your reaction and consume 2d8 Ki to deflect a single incoming missile. Until the rest of your next turn, you deflect and dodge each missile directed at you.
 
-### 1st level Spells (Requires Way of the Spell Slinger)
-You learn two of the following spells. You may cast them with an action by consuming 3d6 Ki
-- Faerie Fire (1st)
-- Animal Friendship (1st)
-- Dissonant Whispers (1st)
-- Speak with Animals (1st)
-- Calm Emotions (1st)
-- Command (1st)
-- Magic Missile (1st)
-- Absorb Element (1st)
-- Beast Aspect (1st)
-- Ice Tomb (1st)
-- Jump (1st)
-- Detect Evil And Good (1st)
-- Detect Poison and Disease (1st)
-- Inflict Wounds (1st)
-- Cause Fear (1st)
-- Charm Person (1st)
-- Color Spray (1st)
-- Disguise Self (1st)
-- Distort Value (1st)
-- Fog Cloud (1st)
-- Frost Fingers (1st)
-- Burning Hands (1st)
-- Ice Knife (1st)
-- Ray of Sickness (1st)
-- Sleep (1st)
-- Hideous Laughter (1st)
-- Thunderwave (1st)
-- Witch Bolt (1st)
+### Ki Force Powers (Requires Way of the Radiant Order)
+You may cast the Push, Pull, or Levitate spells using a bonus action, consuming 1d6 Ki with each cast.
 
-### 2nd level Spells (Requires Way of the Spell Slinger)
-You learn two of the following spells. You may cast them with an action by consuming 5d6 Ki
-- See Invisibility (2nd)
-- Magic Weapon (2nd)
-- Knock (2nd)
-- Blindness/deafness (2nd)
-- Blur (2nd)
-- Crown of Madness (2nd)
-- Cure Sickness (2nd)
-- Suggestion (2nd)
-- Hold Person(2nd)
-- Fiendishness (2nd)
-- Blindness/Deafness (2nd)
-- Darkvision (2nd)
-- Enlarge/Reduce (2nd)
-- Find Traps (2nd)
-- Locate Object (2nd)
-- Silence (2nd)
-- Gust of wind (2nd)
-- Flame Blade (2nd)
+### Ki Mind Tricks (Requires Way of the Radiant Order)
+You may consume 4d8 Ki to cast suggestion spell. When you do, make a persuasion check contesting an insight check from the target. On a success, the target believes rationalizes that they decided to follow the suggestion on their own, and not by magic. This works only for suggestions of actions that the creature could concievably do on their own, and nothing that they would normally strongly object to, such as letting prisoners free or handing over their wallet.
 
-### 3rd level Spells (Requires Way of the Spell Slinger)
-You learn two of the following spells. You may cast them with an action by consuming 7d6 Ki
-- Lightning Bolt
-- Silent Prance
-- Posession
-- Exorcism
-- Counterspell
-- Dispell Magic
-- Enemies Abound
-- Erupting Earth
-- Haste
-- Hypnotic Pattern
-- Daylight
-- Mass Healing Word
-- Meld into stone
-- Motivational Speech
-- Skill empowerment
+### Ki-Charged Fist (Requires Way of the Fist)
+You may use your action and consume 2d8 Ki to fill one fist with burning teal energy. If you hit with an unarmed attack using this fist, it deals radiant damage equal to the Ki rolled for it. You may have up to two fists charged at a time.
+
+### Counter strike (Requires Way of the Fist)
+When targeted by a melee attack, you may use your reaction and consume 1d4 Ki to first make an unarmed strike at the target.
+
+### Five finger death punch (Requires Way of the Fist)
+You consume 10d6 Ki and use an action to make an unarmed attack targeting one large or smaller sized creature that has a heart. You shape your hand as a claw and cup it over their heart. If you miss, this ability ends. On a hit, you are holding the core of their soul. You may use your bonus action now or on a later turn to carefully release the target unharmed. If your hand is forcibly removed from them, or you use your bonus action to pull, the target takes the amount of Ki you consumed as force damage. If their hit points are reduced below 1, their heart explodes and they instantly die.
 
 ### Shadow Step (Requires Way of the Shadow Blade)
 With your action, you may consume 2d6 Ki and throw your shadow blade up to 30ft away, then consume 2d6 Ki to teleport in the path of the blade and catch it safely. The spot must be shaded from direct sunlight.

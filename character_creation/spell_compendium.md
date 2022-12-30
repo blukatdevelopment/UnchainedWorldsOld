@@ -1009,11 +1009,7 @@ Ice Tomb (1st)
 Casting Time: 1 action
 Range: 30 feet
 Duration: Concentration, 1 minute
-Make a ranged spell attack against one creature within range. If it hits, the
-creature receives 1d12+8 cold damage. If you miss, the spell ends.
-For the duration, you may use your action to continue the effect of the spell,
-dealing an additional 1d12 cold damage. If you do not continue the spell, it
-ends. If the target falls below 0 hit points, they are frozen solid and
+Make a ranged spell attack against one creature within range. If it hits, the creature receives 1d12+8 cold damage. If you miss, the spell ends. For the duration, you may use your action to continue the effect of the spell, dealing an additional 1d12 cold damage. If you do not continue the spell, it ends. If the target falls below 0 hit points, they are frozen solid and
 instantly killed.
 ```
 

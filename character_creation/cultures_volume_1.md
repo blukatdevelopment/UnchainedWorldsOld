@@ -81,8 +81,10 @@ removal of their tongue. To communicate, the silent use a variety of hand signs
 known as handspeak. The ways of the silent are guarded from outsiders, and
 involve a harsh regimen of martial arts, scholarly study, and magical training.
 
-Only a select few mages outside of the silent culture know it's true purpose,
-which is to safeguard any of the magical secrets that could be used to bring
+Only a select few mages outside of the silent culture know it's origin. The 
+silent culture was created by a legendary band of titan slayers known as the 
+Radiant Order. They created the Silent culture to safeguard any of the magical 
+secrets that could be used to bring
 about a new age of Titans. Rather than destroy this knowledge, individual silent
 are trusted only with pieces of the entire puzzle, and it is strictly forbidden
 to share those secrets except when training successors. The only major exception
