@@ -187,7 +187,7 @@ If you wish to only use the core rules, you may use this commoner stat block in 
 #####################
 # Name: 
 # Class: Commoner
-# HP(Max 5): 5
+# HP(Max 4): 4
 # AC: 10, Speed: 30ft
 # Stamina Dice(Max 1d4): 1
 # Ability scores: All are 10 (+0)

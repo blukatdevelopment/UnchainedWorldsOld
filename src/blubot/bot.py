@@ -11,6 +11,7 @@ from check import check_command
 from save import save_command
 from attack import attack_commands
 from status import status_commands
+from prompts import prompt_commands
 
 
 bot = discord.Bot()
@@ -23,6 +24,7 @@ check_command(bot, discord)
 save_command(bot, discord)
 attack_commands(bot, discord)
 status_commands(bot, discord)
+prompt_commands(bot, discord)
 
 intents = discord.Intents.default()
 intents.guilds = True

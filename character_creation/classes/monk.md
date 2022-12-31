@@ -162,7 +162,7 @@ You may consume 4d8 Ki to cast suggestion spell. When you do, make a persuasion 
 You may use your action and consume 2d8 Ki to fill one fist with burning teal energy. If you hit with an unarmed attack using this fist, it deals radiant damage equal to the Ki rolled for it. You may have up to two fists charged at a time.
 
 ### Counter strike (Requires Way of the Fist)
-When targeted by a melee attack, you may use your reaction and consume 1d4 Ki to first make an unarmed strike at the target.
+When targeted by a melee attack, you may use your reaction and consume 1d4 Ki to first make an unarmed strike at the target. If the strike hits, the enemy's current attack is made with disadvantage.
 
 ### Five finger death punch (Requires Way of the Fist)
 You consume 10d6 Ki and use an action to make an unarmed attack targeting one large or smaller sized creature that has a heart. You shape your hand as a claw and cup it over their heart. If you miss, this ability ends. On a hit, you are holding the core of their soul. You may use your bonus action now or on a later turn to carefully release the target unharmed. If your hand is forcibly removed from them, or you use your bonus action to pull, the target takes the amount of Ki you consumed as force damage. If their hit points are reduced below 1, their heart explodes and they instantly die.

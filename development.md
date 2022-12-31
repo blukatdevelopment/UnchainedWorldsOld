@@ -38,7 +38,7 @@ when queued up for a release.
 Half-caster that combines element-based magic(air, fire, earth, water) with 
 martial abilities.
 
-### Create class: Monk
+### [DONE]Create class: Monk
 Martial class with dual health bar of meat(normal regen) and ki(which 
 replenishes quickly). Menu of abilities that eat ki to do martial arts/shonen 
 moves.
@@ -61,7 +61,7 @@ add a tiny bit more details, such as a warning about limitations of tiny/huge fo
 - Add a section of phrases/profanities and calendar events (Maybe in culture doc?)
 - Add a section of races (and their relationships to culture and body type)
 
-`Progress Bar: 40%[########----------]`
+`Progress Bar: 50%[##########--------]`
 
 ## Backlog
 

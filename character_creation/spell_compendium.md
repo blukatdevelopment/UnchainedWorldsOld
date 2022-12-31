@@ -3626,7 +3626,7 @@ Casting time: 1 action
 Range: Touch
 Duration: 7 days
 Make a melee spell attack against one creature. If it can be afflicted with disease, roll a random disease.
-1. Eyefrost: the creature's eyes turn milky white and it is  blinded for the duration.
+1. Eyefrost: the creature's eyes turn milky white and it is blinded for the duration.
 2. Infernal Fever: the creature has disadvantage on STR saves, STR checks, and attack rolls using STR.
 3. Flesh rot: The creature's skin decays. It has disadvantage on CHA checks and vulnerability to all damage.
 4. Mindfire: The creatue shakes uncontrollably, having disadvantage on DEX checks, DEX saves, and attack rolls that use DEX.
@@ -3802,7 +3802,7 @@ Range: 60 feet
 Duration: 24 hours
 You draw a rune on the ground near at least 6 corpses or skeletons. When you do so, the rune lights up red and red mist flows out of it. A huge swarm of medium undead rises up, and listens to commands you make. 
 
-Your horde has 12d6 hit points, 8 AC, a speed of 25ft, and resistance to non-magical physical damage. When it attacks a creature, that creature must make a dexterity saving throw, taking 6d4 bludgeoning damage on a failure and half as much on a success.
+Your horde has 120 hit points, 8 AC, a speed of 25ft, and resistance to non-magical physical damage. When it attacks a creature, that creature must make a dexterity saving throw, taking 6d4 bludgeoning damage on a failure and half as much on a success.
 
 The horde listens to your orders for the duration. You may cast this spell again before the duration ends to maintain control of up to three hordes.
 ```
@@ -3820,7 +3820,7 @@ Conjure Demon (5th)
 Casting Time: 1 action
 Range: 60 feet
 Duration: Concentration, 1 hour
-You throw the object carved with the name of a fiend at a point within range and speak a command word. The object explodes into a portal from which that creature emerges. bound by your will. The creature will follow your commands for the duration. When the spell ends, the demon regains control of itself and becomes hostile.
+You throw the object carved with the name of a demon at a point within range and speak a command word. The object explodes into a portal from which that creature emerges. bound by your will. The creature will follow your commands for the duration. When the spell ends, the demon regains control of itself and becomes hostile.
 ```
 
 ```
@@ -3893,10 +3893,7 @@ Nightmare Gate(5th)
 Casting Time: 1 action 
 Range: 60ft
 Duration: Concentration, 10 minutes
-You create a portal on a 10ft square surface within range. Black tentacles reach
-out of the portal to grasp and drag any creature within 30ft of it closer. Each
-creatue must succeed a strength saving throw, or else become grappled and
-dragged 10ft closer. Each tentacle has 10HP and 12AC.
+You create a portal on a 10ft square surface within range. Black tentacles reach out of the portal to grasp and drag any creature within 30ft of it closer. Each creatue must succeed a strength saving throw, or else become grappled and dragged 10ft closer. Each tentacle has 10HP and 12AC. If a creature is dragged inside the nightmare gate, they disappear into a nightmare realm, where they are torn to pieces and die.
 ```
 
 ```

@@ -58,7 +58,7 @@ Locations of note:
 ### Shadowvale
 The swamps and walking trees of the blightlands provide a natural defense that makes Omarian invasion all but impossible, and so Shadowvale enjoys complete independence. Deep Folk, Greenfoot people, and Wild Folk thrive in this region off of locally sourced food, fuel, and building materials. A Gold Robe family of vampires that founded the town remains in power, keeping the competing interests of the various residents in check. Many who would otherwise be shunned or killed on sight, such as sorcerers, necromancers, and devils are welcome inside the city, provided they behave themselves during their stay.
 Locations of note:
-- Von Castoff Keep: A home of the wealthy vampire families that rule over the town. It was untouched since the beginning of the dragon age
+- Von Otvos Keep: A home of the wealthy vampire families that rule over the town. It was untouched since the beginning of the dragon age
 - Fey Grove: A greenfoot community where sunlight is constant, allowing traditional agriculture not possible in the blightlands.
 - Market Square: A meeting place for the disparate peoples of Shadowvale.
 - Revolutionary base: A key meeting place and sanctuary for the various Wild Folk causes.
