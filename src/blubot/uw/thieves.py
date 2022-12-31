@@ -104,7 +104,14 @@ FLAVOR_WORDS = [
 "Holiday",
 "Festive",
 "Grave",
-"Memorial"
+"Memorial",
+"Thunder",
+"Saggy",
+"Crisp",
+"Eccentric",
+"Resolute",
+"Forgttable",
+"Dapper"
 ]
 
 def location_reward(location):

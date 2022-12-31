@@ -1,6 +1,6 @@
 # Korsarus Setting Guide
 
-## Culture locations
+## Location of cultures
 - Gold Robes: Golden Core, Shadowvale
 - The Silent: Arcanus
 - Bronzehammers: Silver Ring, Thiersgar
@@ -22,17 +22,35 @@ Nearly ten miles separate the the outer walls from the second layer. Most reside
 Locations of note:
 - Workshop Row: raw materials enter this line of structures, and finished goods leave. It is dirty and dangerous work, with occasional accidents causing fires and explosions.
 - Stadium: This is where the army trains, public executions are held, and where royals host games for the public.
-- Slums: Shacks, shanties, taverns, orphanages, and churches abound. Tiny markets set up and tear down on a daily basis. Crime is high.
-- Sewers: Though it is illegal to enter the sewers, guards are reluctant to eject those squatting or doing shady business inside.
+- Steamworks: This is where the sewage and steam infrastructure that run throughout the walls and silver ring are fueled, pumped, and otherwise maintained. Though it is illegal to enter the sewers, guards are reluctant to enter in order to eject those squatting or doing shady business inside. HQ of the thieves' guild.
 - Docks: Even more crime-ridden than the slums, a great deal of wealth stands to be made from seabound merchants, legal or otherwise.
-- The fields: Omaria has no prisons. Those not executed are sent to work out their sentences on royal farms.
+- The fields: Omaria's alternative to indoor prisons. Those not executed are sent to work out their sentences on royal farms.
+- The claw: Sprawling slums largely inhabited by migrant beastfolk.
+- Sanctuary: A place where temples pool their charity efforts. There's an abundance of free housing, orphanages, and temples for the poor.
+- Copper Market: This is where Korsarans get their first chance to purchase goods destined for the Merchant's Mile.
+- Fortitude Rock: This is where new recruits are quartered and trained, as well as a staging ground for operations in the giant's playground.
+- Ferry House: A small port for riverbound vessels to stop at.
+
+##### Common knowledge
+Every commoner in the slums of the copper ring knows these things:
+- A loaf of bread costs 2 copper, mug of ale costs 4 copper, and a day's pay is 1 silver 
+- Omaria sends thieves to the fields and those who use magic to the stadium
+- The Omarian scouts keep the giants from reaching the outer walls
+- The templegoers in Sanctuary are exempt from magic laws
+- There are artifacts in scattered ruins worth hundreds or thousands of gold
+- You need to show 100 gold and an ID card(or a bribe) to enter the Silver Ring
+- The Omarian Militia, Thieves' Guild, and adventurer companies pay out well to survivors
+- The monsters outside the walls have very valuable bodyparts
+- The docks bring in people from all over the world
+- It only takes a day to reach Thiersgar by boat, but 5gp for a ticket
 
 #### The Silver Ring
-To enter the walls of the silver ring, one must either be a landowner, or present a letter of employment by a land-owner in the region. Those caught tresspassing are generally arrested and sent off to work in the fields. The land is primarily home to coggers and bronzehammers.
+To enter the walls of the silver ring, one must have an identification card and 100 gold pieces on them. Those caught tresspassing are generally arrested and sent off to work in the fields. The land is primarily home to coggers and bronzehammers.
 Locations of note:
 - Merchant's Mile: Fine crafted goods and imports from around the world can be found in the myriad shops. Additionally, theaters, spas, healers, inns, and fine restaurants can be found in great abundance. 
 - Temple District: Temples of many popular divines of the region can be found here.
-- Academy: Founded by dragon slayers during the Great Slaying, then used as an outpost by the Titans, it now serves as Omaria's military HQ.
+- Academy: Founded by dragon slayers during the Great Slaying, then used as an outpost by the Titans, it now serves as headquarters for Omaria's military police.
+- Tiny Town: Several city blocks made to a scale only traversible by tinyfolk. Tinkering work  is done here for the workshop rows.
 
 #### The Gold Core
 The inner sanctum of Korsarus City, the Gold Core is home to nobility and royalty. One must either be of noble blood, or else enter into the gold core under the honor of a noble, who takes personal responsibility for their honored guest. The Omarian army patrols the Gold Core, and tresspassing is a deadly offense. Residents of the gold core are exclusively Gold Robes, with even most hired help also donning robes of a thin gold hem.

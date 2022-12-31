@@ -18,6 +18,20 @@ A: Glad you asked! Have another list!
 - Safe/reliable travel over long distances
 - Social media / Mass media
 
+# Lineages
+
+## Human
+Humans are the most common humanoid by far, and they vary heavily. While some humans stand eight feet in height, and others stand under four, it's most common for humans to sand between five and six feet tall. Rarely, humans have elongated ears, or those of a beast coupled with a similar tail. The most common complexion for human ranges from pink, yellow, tan, and brown. Green, blue, and crimson skin is exotic, but not unheard of. Humans were originally created by Bimros in an attempt to populate the world with worshippers.
+
+## Beast folk
+Beast have a vaguely humanoid frame, but their features are that of beasts. Fur, scales, feathers, and leathery hides are the norm for beast folk.
+
+## Tiny folk
+A lineage of magically altered humans who are roughly five inches in height. Their presence is highly valued in cogger culture, who regard them as benevolent beings.
+
+## Giant folk
+A lineage of magically altered humans who stand far taller than others, between 10 and 15 feet high. Their bones and hearts are magically reinforced to keep them healthy at this size. Field folk often treat giant folk with great reverence, recruiting them as town guardians.
+
 # Time
 ## Epochs
 
