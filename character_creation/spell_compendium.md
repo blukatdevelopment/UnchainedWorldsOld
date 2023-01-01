@@ -3769,14 +3769,6 @@ The horde listens to your orders for the duration. You may cast this spell again
 ```
 
 ```
-Rune Gate (5th)
-Casting Time: 1 day
-Range: 60ft
-Duration: Instantaneous
-You perform a ritual carving a 10 foot by 10 foot rune onto the ground or an upright structure. You then carve a name for the gate, causing the rune to glow. If your name matches that of an existing gate, a portal opens up connecting the two gates together. A large or smaller creature may pass through the gate to exit out of the corresponding gate. A gate can only connect to one other gate.
-```
-
-```
 Conjure Demon (5th)
 Casting Time: 1 action
 Range: 60 feet

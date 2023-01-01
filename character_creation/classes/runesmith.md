@@ -407,7 +407,6 @@ A glyph's spell DC is 13 and it's attack modifier bonus is +5. It will target th
 - Conjure Demon 
 - Curse 
 - Raise Undead Horde 
-- Rune Gate 
 - Nightmare Gate 
 - Bodyswap 
 - Animate Objects [pending]
