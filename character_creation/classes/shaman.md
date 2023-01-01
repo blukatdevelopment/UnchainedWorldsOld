@@ -10,6 +10,7 @@
 #                                                                              #
 ################################################################################
 ```
+# Shaman
 Some are sensitive enough to detect the nature spirts that oversee the wilderness. Of those, an even narrower lot choose to talk to them. The boldest among those gain the favor of these spirits, and are granted their power. These people are known as Shamans.
 
 ## Starting hit points
@@ -19,17 +20,15 @@ You start with 4+CON hit points.
 Your stamina die is a d4.
 
 ## Proficiencies
-```
-+---------------+--------------------------+
+
 | Armor         | Light armor              |
-+---------------+--------------------------+
+|:--------------|--------------------------|
 | Weapons       | Simple Weapons, longbows |
-+---------------+--------------------------+
+|:--------------|--------------------------|
 | Tools         | Herbalism Kit            |
-+---------------+--------------------------+
+|:--------------|--------------------------|
 | Saving Throws | Intelligence, Wisdom     |
-+---------------+--------------------------+
-```
+
 
 ## Skills
 Choose 4 from the following:
@@ -53,9 +52,9 @@ XP = total experience points needed for level
 SD = Stamina Dice
 Prof = proficiency bonus
 SL = Spell level
-+-----+-------+---+-----+---+----------------------------------------------+
+```
 | LVL |  XP   |SD |Prof |SL |        Features                              |
-+-----+-------+---+-----+---+----------------------------------------------+
+|:----|-------|---|-----|---|----------------------------------------------|
 |   1 |     0 | 2 | +1  | --| Nature Spirit, Minor Wildshape, Spellcasting |
 |   2 |   300 | 4 | +1  |  1| Hit point Increase,
 |   3 |   900 | 6 | +2  |  1| Hit point Increase, Elemental Affinity
@@ -66,8 +65,6 @@ SL = Spell level
 |   8 | 13100 |16 | +3  |  3| Elemental Expertise
 |   9 | 22600 |18 | +4  |  3| 
 |  10 | 44600 |20 | +4  |  3| Nature Spirit Ascension
-+-----+-------+---+-----+---+----------------------------------------------+
-```
 
 ## Feats
 
@@ -81,31 +78,25 @@ You gain proficiency in perception, and advantage on perception checks which rel
 Pointed antlers sprout from your head, and may be used as a natural weapon that deals 1d6+STR piercing damage. When your natural weapon attack hits a creature, you may expend a stamina die to add 2d8 extra damage to it.
 
 #### Wolf of the hills
-(Optional)You sprout the ears and tail of a wolf.
-You are proficient in perception, and you have advantage on perception checks that rely on your heightened sense of smell.
+(Optional)You sprout the ears and tail of a wolf. You are proficient in perception, and you have advantage on perception checks that rely on your heightened sense of smell.
 
 #### Brown bear of the caves
-(Optional)The ears and stubby tail of a brown bear sprout on your body.
-When you use your action to make an attack, you may expend a stamina die to make one additional attack. You may only use this ability once per turn.
+(Optional)The ears and stubby tail of a brown bear sprout on your body. When you use your action to make an attack, you may expend a stamina die to make one additional attack. You may only use this ability once per turn.
 
 #### Ram of the mountains
 Ram horns sprout from your head and can be used as a natural weapon that deals 1d6+STR damage. When you move 20ft in a straight line before making an attack with these horns, the attack deals an additional 1d12 damage, and the target must succeed a CON saving throw or lose their reaction until the start of their next turn. The DC for the saveing throw is 8 + your proficiency bonus + your strength.
 
 #### Alligator of the river
-(Optional)Your skin becomes scaly and resistant to water damage, and you grow the tail of an alligator.
-You gain a swimming speed of 30ft and may hold your breath for one hour before you need to take another breath.
+(Optional)Your skin becomes scaly and resistant to water damage, and you grow the tail of an alligator. You gain a swimming speed of 30ft and may hold your breath for one hour before you need to take another breath.
 
 #### Polar bear of the tundra
-(Optional)You sprout white bear ears and a stubby tail.
-You have advantage on constitution saving throws, and are immune to the ill-effects of exposure to cold weather.
+(Optional)You sprout white bear ears and a stubby tail. You have advantage on constitution saving throws, and are immune to the ill-effects of exposure to cold weather.
 
 #### Tiger of the jungle
-(Optional)You sprout the ears and tail of a tiger.
-You may consume a stamina die in order to move double your normal speed, provided you are moving toward an enemy.
+(Optional)You sprout the ears and tail of a tiger. You may consume a stamina die in order to move double your normal speed, provided you are moving toward an enemy.
 
 #### Fennec Fox of the sands
-(Optional)You sprout fox ears and a fox tail.
-When moving, you may expend a stamina die in order to not provoke attacks of opportunity for the remainder of your turn. You are immune to the ill-effects of exposure to hot or dry weather.
+(Optional)You sprout fox ears and a fox tail. When moving, you may expend a stamina die in order to not provoke attacks of opportunity for the remainder of your turn. You are immune to the ill-effects of exposure to hot or dry weather.
 
 ### Minor Wildshape
 You may use an action to expend a stamina die and reshape your body into a tiny size beast such as a frog, bat, cat, hawk, snake, spider, trout, or mouse. Whichever beast you select, it uses the stat block below. When you enter your wildshape, your gear falls about you on the ground and if you are grappled, that grapple ends. If your hit points falls below 1, you change back into your normal form. If you are inside a space that cannot accomodate your normal form, you receive 3d10 shunting damage and are teleported to an unoccupied space nearby. Your normal form retains the hit points it had before you wildshaped, even if your wildshaped form was brought down to negative hit points. 

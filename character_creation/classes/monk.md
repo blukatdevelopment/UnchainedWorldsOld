@@ -8,6 +8,7 @@
 #              \_|  |_/\___/|_| |_|_|\_\                                       #
 ################################################################################
 ```
+# Monk
 Some believe there is a vitality found in all living things which can be understood only through a personal journey of discipline, self-discovery, and victory of mind over matter. Those who wield ki are rumored to ascend the physical limitations that burden most warriors. They are capable of dodging, countering, and striking with inhuman speed and precision. This wielder of ki is known as the monk.
 
 ## Starting hit points
@@ -17,17 +18,15 @@ You start with 8+CON hit points.
 The monk's stamina die is a d8.
 
 ## Proficiencies
-```
-+---------------+--------------------------------+
+|:--------------|:-------------------------------|
 | Armor         | None                           |
-+---------------+--------------------------------+
+|:--------------|:-------------------------------|
 | Weapons       | None                           |
-+---------------+--------------------------------+
+|:--------------|:-------------------------------|
 | Tools         | Thieves' Tools                 |
-+---------------+--------------------------------+
+|:--------------|:-------------------------------|
 | Saving Throws | Dexterity, Wisdom              |
-+---------------+--------------------------------+
-```
+|:--------------|:-------------------------------|
 
 ## Skills
 You are proficient in 2 from the following:
@@ -55,21 +54,21 @@ SD = Stamina Dice
 Prof = proficiency bonus
 KD = Ki Dice
 TN = Techniques
-+-----+-------+---+-----+-----+-----+--------------------------------------------+
-| LVL |    XP | SD|Prof |  KD |  TN |       Features                             |
-+-----+-------+---+-----+-----+-----+--------------------------------------------+
-|   1 |      0| 2 | +1  | 1d6 |   3 | Ki, Ki Fists, Techniques                   |
-|   2 |    300| 4 | +1  | 2d6 |   4 |                                            |
-|   3 |    900| 6 | +2  | 3d6 |   5 | Discipline                                 |
-|   4 |   1800| 8 | +2  | 4d6 |   6 |                                            |
-|   5 |   3600|10 | +2  | 5d6 |   7 |                                            |
-|   6 |   6100|12 | +2  | 6d6 |   8 |                                            |
-|   7 |   9100|14 | +3  | 7d6 |   9 | Extra Attack                               |
-|   8 |  13100|16 | +3  | 8d6 |  10 |                                            |
-|   9 |  22600|18 | +4  | 9d6 |  11 |                                            |
-|  10 |  44600|20 | +4  |10d6 |  12 |                                            |
-+-----+-------+---+-----+-----+-----+--------------------------------------------+
 ```
+
+| LVL |    XP | SD|Prof |  KD |  TN |       Features          |
+|:----|:------|:--|:----|:----|:----|:------------------------|
+|   1 |      0| 2 | +1  | 1d6 |   3 | Ki, Ki Fists, Techniques|
+|   2 |    300| 4 | +1  | 2d6 |   4 |                         |
+|   3 |    900| 6 | +2  | 3d6 |   5 | Discipline              |
+|   4 |   1800| 8 | +2  | 4d6 |   6 |                         |
+|   5 |   3600|10 | +2  | 5d6 |   7 |                         |
+|   6 |   6100|12 | +2  | 6d6 |   8 |                         |
+|   7 |   9100|14 | +3  | 7d6 |   9 | Extra Attack            |
+|   8 |  13100|16 | +3  | 8d6 |  10 |                         |
+|   9 |  22600|18 | +4  | 9d6 |  11 |                         |
+|  10 |  44600|20 | +4  |10d6 |  12 |                         |
+
 ## Features
 
 ### Ki

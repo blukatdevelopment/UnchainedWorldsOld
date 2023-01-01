@@ -9,6 +9,8 @@
 #                                                                              #
 ################################################################################
 ```
+# Werewolf
+There are legends of a curse that turns the innocent into bloodthirsty monsters by the light of the full moon. In some places, silvered weapons are put on display to defend against such monsters. Few know of the nature of this curse. Though some live largely unaware of it, or completely subordinate to the bestial urges of the monster's form, many others live with the curse and attempt to control it. This is the life of a werewolf.
 
 ## Starting hit points
 You start with 4+CON hit points.
@@ -17,17 +19,15 @@ You start with 4+CON hit points.
 Your stamina die is a d4.
 
 ## Proficiencies
-```
-+---------------+------------------------+
+|:--------------|------------------------|
 | Armor         | None                   |
-+---------------+------------------------+
+|:--------------|------------------------|
 | Weapons       | Simple                 |
-+---------------+------------------------+
+|:--------------|------------------------|
 | Tools         | None                   |
-+---------------+------------------------+
+|:--------------|------------------------|
 | Saving Throws | Constitution, Strength |
-+---------------+------------------------+
-```
+|:--------------|------------------------|
 
 ## Skills
 Select two from the following:
@@ -55,9 +55,10 @@ LVL = level
 XP = total experience points needed for level
 SD = Stamina Dice
 Prof = proficiency bonus
-+-----+--------+---+-----+-----------------------------------------------------+
+```
+
 | LVL |  XP    | SD|Prof |        Features                                     |
-+-----+--------+---+-----+-----------------------------------------------------+
+|:----|--------|---|-----|-----------------------------------------------------|
 |   1 |     0  | 2 | +1  | Werewolf Form, Controlled Shift                     |
 |   2 |   300  | 4 | +1  | Howl, Hit point Increase                            |
 |   3 |   900  | 6 | +2  | Charge, Hit point Increase                          |
@@ -68,8 +69,6 @@ Prof = proficiency bonus
 |   8 | 13100  |16 | +3  | Extra Attack                                        |
 |   9 | 22600  |18 | +4  | Non-magical Immunity                                |
 |  10 | 44600  |20 | +4  | Ability Score Increase                              |
-+-----+--------+---+-----+-----------------------------------------------------+
-```
 
 ## Features
 
@@ -98,12 +97,11 @@ You've learned to control your shift into your shifter form. You may use your bo
 #### Uncontrolled shift
 There are certain triggers that may cause you to involuntarily enter your shifter form. When you experience one of these triggers, you must make a wisdom save against it's DC(indicated in the table below) You may expend a stamina die to remake the throw once. If you fail this check, you involuntarily enter your shifter form. During an uncontrolled shift, you may remake the wisdom saving throw once each minute. Someone else designated by the keeper takes control of your character, applying logic from the uncontrolled shift behavior flowchart. If you succeed the check, you are immune to being triggered for the next hour.
 
-```
-+-------------------------------------+
+
 | Uncontrolled shift triggers table   |
-+--------------------------------+----+
+|:-------------------------------|----|
 |            Trigger             | DC |
-+--------------------------------+----+
+|:-------------------------------|----|
 | See another wounded creature   | 10 |
 | Smell scent of another's blood | 12 |
 | See raw meat                   | 14 |
@@ -112,49 +110,47 @@ There are certain triggers that may cause you to involuntarily enter your shifte
 | Hearing the call of another    | 18 |
 | werewolf                       |    |
 | Witness a full moon            | 20 |
-+--------------------------------+----+
-```
 
 ```
 #################################
 #    Uncontrolled Shift         #
 #    Behavior Flowchart         #
 #################################
-#   +-------+                   #
+#   |:------|                   #
 #   | Start |                   #
-#   +---+---+                   #
+#   |:--|---|                   #
 #       |                       #
-#  +----V------+Yes+----------+ #
+#  |:---V------|Yes|:---------| #
 #  |           |   |          | #
-#  | In active +---> Fight    | #
+#  | In active |:--> Fight    | #
 #  |  Combat?  |   | Hostiles | #
-#  +----+------+   +----------+ #
+#  |:---|------|   |:---------| #
 #       | No                    #
 #       |                       #
-#  +----V------+Yes+----------+ #
+#  |:---V------|Yes|:---------| #
 #  | Wounded   |   |Hunt Them | #
-#  | Creature  +--->          | #
-#  | Nearby?   |   +----------+ #
-#  +----+------+                #
+#  | Creature  |:-->          | #
+#  | Nearby?   |   |:---------| #
+#  |:---|------|                #
 #       | No                    #
-#  +----V------+Yes             #
-#  |  Fresh    |  +-----------+ #
-#  |  Meat     +-->  Feast    | #
+#  |:---V------|Yes             #
+#  |  Fresh    |  |:----------| #
+#  |  Meat     |:->  Feast    | #
 #  |  Nearby?  |  |           | #
-#  +---+-------+  +-----------+ #
+#  |:--|-------|  |:----------| #
 #      |  No                    #
 #      |                        #
-#  +---V------------+           #
+#  |:--V------------|           #
 #  | Call for       |           #
 #  | Other          |           #
 #  | shifters       |           #
-#  +---+------------+           #
+#  |:--|------------|           #
 #      |                        #
-#  +---V------------+           #
+#  |:--V------------|           #
 #  |                |           #
 #  | Search for prey|           #
 #  |                |           #
-#  +----------------+           #
+#  |:---------------|           #
 #################################
 ```
 

@@ -7,8 +7,8 @@
 # \  /\  / (_| | |  | |  | | (_) | |                                           #
 #  \/  \/ \__,_|_|  |_|  |_|\___/|_|                                           #
 ################################################################################
-
 ```
+# Warrior
 Your battle cry haunts the nightmares of those adjacent to your carnage in battle. You are an instrument of war that channels fury and skill into the art of violence.
 
 ## Starting hit points
@@ -18,17 +18,13 @@ You start with 10+CON hit points.
 The warrior's stamina die is a d10.
 
 ## Proficiencies
-```
-+---------------+-------------------------------------------------+
 | Armor         | Light Armor, Medium Armor, Heavy Armor, Shields |
-+---------------+-------------------------------------------------+
+|:--------------|:------------------------------------------------|
 | Weapons       | Simple Weapons, Martial Weapons                 |
-+---------------+-------------------------------------------------+
+|:--------------|:------------------------------------------------|
 | Tools         | None                                            |
-+---------------+-------------------------------------------------+
+|:--------------|:------------------------------------------------|
 | Saving Throws | Strength, Constitution                          |
-+---------------+-------------------------------------------------+
-```
 
 ## Skills
 Choose 2 from the following list:
@@ -61,9 +57,9 @@ XP = total experience points needed for level
 SD = Stamina Dice
 Prof = proficiency bonus
 MNVS = Maneuvers
-+-----+-------+----+-----+-------+-------------------------------+
+```
 | LVL | XP    | SD |Prof |  MNVS |        Features               |
-+-----+-------+----+-----+-------+-------------------------------+
+|:----|:------|:---|:----|:------|:------------------------------|
 |   1 |     0 | 2  | +1  |  0    | Warrior's Respite             |
 |   2 |   300 | 4  | +1  |  1    | Maneuvers, Hit point Increase |
 |   3 |   900 | 6  | +2  |  2    | Hit point Increase            |
@@ -74,8 +70,6 @@ MNVS = Maneuvers
 |   8 | 13100 |16  | +3  |  4    | Ability Score Increase        |
 |   9 | 22600 |18  | +4  |  5    |                               |
 |  10 | 44600 |20  | +4  |  6    | Ability Score Increase        |
-+-----+-------+----+-----+-------+-------------------------------+
-```
 
 ## Features
 
