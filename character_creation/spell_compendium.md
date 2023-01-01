@@ -699,7 +699,7 @@ The commands include:
 ```
 
 ```
-Ice Shield (1st level)
+Ice Shield (1st)
 Casting Time: 1 bonus action
 Range: Self
 Duration: 1 minute
@@ -709,7 +709,7 @@ roll misses you by 2 or less, it hits and destroys your ice shield.
 ```
 
 ```
-Splash Freeze (1st level)
+Splash Freeze (1st)
 Casting Time: 1 action
 Range: 15 foot cone
 Duration: You splash creatures within a 15 foot cone with water, then
@@ -719,7 +719,7 @@ the start of your next turn. On a success, they take half as much cold damage.
 ```
 
 ```
-Glowing Filament (1st level)
+Glowing Filament (1st)
 Casting Time: 1 action
 Range: 5ft
 Duration: Concentration, up to 1 hour
@@ -730,7 +730,7 @@ and ignites flammable objects that are not worn nor carried.
 ```
 
 ```
-Propelling Flame (1st level)
+Propelling Flame (1st)
 Casting Time: 1 action
 Range: 60ft
 Duration: 1 round
@@ -743,7 +743,7 @@ substitute with 1d4.
 ```
 
 ```
-Psionic Lasso (1st level)
+Psionic Lasso (1st)
 Casting Time: 1 action
 Range: 60ft
 Duration: Instantaneous
@@ -758,7 +758,7 @@ die again. If you did not cast this spell with a psionic die, substitute with
 ```
 
 ```
-Mind Blade (1st level)
+Mind Blade (1st)
 Casting Time: 1 bonus action
 Range: self
 Duration: Concentration, up to 1 minute
@@ -771,7 +771,7 @@ cast this spell with a psionic die, substitute with 1d4. The blade's base damage
 ```
 
 ```
-Missile Wall (1st level)
+Missile Wall (1st)
 Casting Time: Reaction, when a ranged attack targets you.
 Range: Self
 Duration: 1 round
@@ -788,7 +788,7 @@ cast this spell with a psionic die, substitute with 1d4.
 ```
 
 ```
-Force Field (1st level)
+Force Field (1st)
 Casting Time: 1 action
 Range: Touch
 Duration: 1 round
@@ -799,7 +799,7 @@ damage on a success and half damage on a failed save.
 ```
 
 ```
-Pyro-osmosis (1st level)
+Pyro-osmosis (1st)
 Casting Time: 10 minutes
 Range: Touch
 Duration: 8 hours
@@ -901,7 +901,7 @@ YTou tell yourself a lie for one minute, and then you believe it to be true. If 
 ```
 
 ```
-Protection from good and evil (1st level)
+Protection from good and evil (1st)
 Casting Time: 1 action
 Range: 60 feet
 Duration: Concentration, 1 minute
@@ -1022,15 +1022,6 @@ You feel the strength of your legs magically augmented. You may jump 20 feet
 vertically or horizontally, and falling from 20 or less feet does not deal fall
 damage, provided you land on your feet. You may use your action to jump 40 feet
 instead of 20.
-```
-
-
-```
-Bane (1st)
-Casting Time: 1 action
-Range: 30ft
-Duration: Concentration, up to 1 minute
-Up to three targets you can see in range must make a charisma saving throw. If they fail, all attack rolls and saving throws they make for the duration have a penalty of -1d4 on them.
 ```
 
 ```
@@ -1648,7 +1639,7 @@ of 16 and 1 hit point. It disappears once it tells you about what it saw or the 
 ```
 
 ```
-Psionic Bridge (2nd level)
+Psionic Bridge (2nd)
 Casting Time: 1 action
 Range: 30ft
 Duration: Concentration, up to 1 minute
@@ -1658,7 +1649,7 @@ and requires concentration.
 ```
 
 ```
-Hypnotic Trigger (2nd level)
+Hypnotic Trigger (2nd)
 Casting Time: 1 minute
 Range: 120 feet
 Duration: Concentration, up to 8 hours
@@ -1672,7 +1663,7 @@ If the Task would normally consume an action or bonus action, it instead consume
 ```
 
 ```
-Flying Weapon (2nd level)
+Flying Weapon (2nd)
 Casting Time: Bonus action
 Range: 60 feet
 Duration: Concentration, up to 1 minute
@@ -1699,7 +1690,7 @@ and lasts for up to one minute.
 ```
 
 ```
-Blink Step(2nd level)
+Blink Step (2nd)
 Casting Time: 1 bonus action
 Range: 60 feet
 Duration: Instantaneous
@@ -1732,7 +1723,7 @@ You open a spherical portal to the eyball zone which surrouns you, bombarding yo
 ```
 
 ```
-Slime (2nd level)
+Slime (2nd)
 Casting Time: 1 action
 Range: 60 feet
 Duration: 1 hour
@@ -1744,7 +1735,7 @@ face. The area affected by the slime is considered difficult terrain.
 ```
 
 ```
-Spin Web (2nd level)
+Spin Web (2nd)
 Casting Time: 1 action
 Range: 30 feet
 Duration: 1 hour
@@ -1758,7 +1749,7 @@ it will burn rapidly, dealing 1d10 fire damage to creatures within its space.
 ```
 
 ```
-Spider Climb (2nd level)
+Spider Climb (2nd)
 Casting Time: 1 action
 Range: Touch
 Duration: 1 hour
@@ -1769,7 +1760,7 @@ climbing speed equal to it's walking speed.
 ```
 
 ```
-Darkness (2nd level)
+Darkness (2nd)
 Casting Time: 1 action
 Range: 60 feet
 Duration: Concentration, up to 10 minutes
@@ -1782,7 +1773,7 @@ higher level spell, this spell ends.
 ```
 
 ```
-Invisibility (2nd level)
+Invisibility (2nd)
 Casting Time: 1 action
 Range: touch
 Duration: Concentration, up to 1 hour
@@ -1800,7 +1791,7 @@ You suggest that one creature that can hear and understand you should perform a 
 ```
 
 ```
-Hold Person(2nd)
+Hold Person (2nd)
 Casting Time: 1 action
 Range: 60 feet
 Duration: Concentration, up to 1 minute
@@ -1822,7 +1813,7 @@ You target one creature you can see within range. It must succeed a wisdom savin
 ```
 
 ```
-Levitate (2nd level)
+Levitate (2nd)
 Casting Time: 1 action
 Range: 120 feet
 Duration: Concentration, up to 1 minute
@@ -1832,7 +1823,7 @@ creature 15 feet.
 ```
 
 ```
-Red-hot Metal (2nd level)
+Red-hot Metal (2nd)
 Casting Time: 1 action
 Range: 60 feet
 Duration: Concentration, up to 1 minute
@@ -1845,7 +1836,7 @@ Some targets:
 ```
 
 ```
-Psionic Missiles (2nd level)
+Psionic Missiles (2nd)
 Casting Time: 1 action
 Range: 120 feet
 Duration: Instantaneous
@@ -1968,16 +1959,6 @@ Duration: 1 minute
 One creature of your choice that you can see within range must succeed a CON
 save to avoid being either blinded or deafened(your choice) for the duration.
 At the end of each turn, the creature can repeat the CON save to end the effect.
-```
-
-```
-Continual Flame (2nd)
-Casting Time: 1 action
-Range: Touch
-Duration: Until dispelled
-A heatless flame sprouts from an object you touch. It is the size and brightness
-of a torch, but does not consume oxygen. It can be hidden or covered, but not
-smothered or quenched. It remains until dispelled.
 ```
 
 ```
@@ -2236,7 +2217,7 @@ Name or describe a kind of beast or plant, conjuring the direction and distance 
 ```
 
 ```
-Warding Wind(2nd)
+Warding Wind (2nd)
 Casting time: 1 action
 Range:  150ft
 Duration: Concentration, up to 10 minute
@@ -2249,7 +2230,7 @@ You create a 20mph wind within a 10ft radius of you that follows you for the spe
 ```
 
 ```
-Wither and Bloom(2nd)
+Wither and Bloom (2nd)
 Casting time: 1 action
 Range:  60ft
 Duration: Instantaneous
@@ -2257,7 +2238,7 @@ You select a 10ft sphere centered on a point within range and exact the wither a
 ```
 
 ```
-Spike Growth(2nd)
+Spike Growth (2nd)
 Casting time: 1 action
 Range:  150ft
 Duration: Concentration, up to 10 minute
@@ -2383,7 +2364,7 @@ target of the attack. The sheet has an AC of 16 and 15HP.
 ## 3rd level spells
 
 ```
-Wind Wall(3rd level)
+Wind Wall (3rd)
 Casting Time: 1 action
 Range: 120ft
 Duration: Concentration, up to 1 minute
@@ -2395,7 +2376,7 @@ Fog, smoke, and other gases are kept at bay by the wind, and small or smaller fl
 ```
 
 ```
-Speak With Plants(3rd level)
+Speak With Plants (3rd)
 Casting Time: 1 action
 Range: Self (30ft radius)
 Duration: 10 minutes
@@ -2407,7 +2388,7 @@ You additionally may communicate with any plant creatures in the area.
 ```
 
 ```
-Elemental Weapon(3rd level)
+Elemental Weapon (3rd)
 Casting Time: 1 action
 Range: touch
 Duration: Concentration, up to 1 hour
@@ -2415,7 +2396,7 @@ You touch a nonmagical weapon and grant it one of the following damage types: ac
 ```
 
 ```
-Call Lightning (3rd level)
+Call Lightning (3rd)
 Casting Time: 1 action
 Range: 30 feet
 Duration: Concentration, up to 10 minutes
@@ -2423,7 +2404,7 @@ You create a storm cloud in the shape of a 10ft tall, 60ft radius cylinder cente
 ```
 
 ```
-Life Transference (3rd level)
+Life Transference (3rd)
 Casting Time: 1 action
 Range: 30 feet
 Duration: Instantaneous
@@ -2434,7 +2415,7 @@ number of hit points equal to the necrotic damage you take.
 ```
 
 ```
-Magic Circle (3rd level)
+Magic Circle (3rd)
 Casting Time: 1 minute
 Range: 10 feet
 Duration: 1 hour 
@@ -2455,7 +2436,7 @@ increases an hour for each level above 3rd.
 ```
 
 ```
-Major Image (3rd level)
+Major Image (3rd)
 Casting Time: 1 action
 Range: 120 feet
 Duration: Concentration, up to 10 minutes
@@ -2472,7 +2453,7 @@ illusion lasts until dispelled, no concentration required.
 ```
 
 ```
-Minute Meteors (3rd level)
+Minute Meteors (3rd)
 Casting Time: 1 action
 Range: self
 Duration: Concentration, up to 10 minutes
@@ -2487,7 +2468,7 @@ level above 3rd this spell is cast.
 ```
 
 ```
-Nondetection (3rd level)
+Nondetection (3rd)
 Casting Time: 1 action
 Range: Touch
 Duration: 8 hours
@@ -2497,7 +2478,7 @@ effect the target.
 ```
 
 ```
-Phantom Steed (3rd level)
+Phantom Steed (3rd)
 Casting Time: 1 minute
 Range:  feet
 Duration: 1 hour
@@ -2519,7 +2500,7 @@ Hooves(10ft) +5 2d4+3 bludgeoning
 ```
 
 ```
-Tiny Servant (3rd level)
+Tiny Servant (3rd)
 Casting Time: 1 action
 Range: Touch
 Duration: 8 hours
@@ -2543,7 +2524,7 @@ Slam(10ft) +5 1d4 bludgeoning
 ```
 
 ```
-Protection from energy (3rd level)
+Protection from energy (3rd)
 Casting Time: 1 action
 Range: Touching
 Duration:  Concentration, up to 1 hour
@@ -2554,7 +2535,7 @@ cold, fire, lightning, or thunder.
 ```
 
 ```
-Sending (3rd level)
+Sending (3rd)
 Casting Time: 1 action
 Range: Unlimited
 Duration: 1 round
@@ -2565,7 +2546,7 @@ recognizing your voice.
 ```
 
 ```
-Sleet storm (3rd level)
+Sleet storm (3rd)
 Casting Time: 1 action
 Range: 150 feet
 Duration: Concentration, up to 1 minute
@@ -2579,7 +2560,7 @@ start of their turn.
 ```
 
 ```
-Slow (3rd level)
+Slow (3rd)
 Casting Time: 1 action
 Range: 120 feet
 Duration: Concentration, up to 1 minute
@@ -2597,7 +2578,7 @@ the end of their turn.
 ```
 
 ```
-Tongues (3rd level)
+Tongues (3rd)
 Casting Time: 1 action
 Range: Touch
 Duration: 
@@ -2607,7 +2588,7 @@ knows at least one language.
 ```
 
 ```
-Vampiric Touch (3rd level)
+Vampiric Touch (3rd)
 Casting Time: 1 action
 Range: Self feet
 Duration: Concentration, up to 1 minute
@@ -2619,7 +2600,7 @@ attack again on each of your turns as an action.
 ```
 
 ```
-Wall of Sand (3rd level)
+Wall of Sand (3rd)
 Casting Time: 1 action
 Range: 90 feet
 Duration: Concentration, up to 10 minutes
@@ -2631,7 +2612,7 @@ distance moved.
 ```
 
 ```
-Wall of Water (3rd level)
+Wall of Water (3rd)
 Casting Time: 1 action
 Range: 60 feet
 Duration: Concentration, up to 10 minutes
@@ -2648,7 +2629,7 @@ If broken, the hole in the wall is not refilled with water.
 ```
 
 ```
-Stinking cloud (3rd level)
+Stinking cloud (3rd)
 Casting Time: 1 action
 Range: 90 feet
 Duration: Concentration, up to 1 minute
@@ -2659,7 +2640,7 @@ Every creature that is within the cloud at the start of it's turn makes a consti
 A weak wind may disperse the cloud after 4 rounds, while a strong one disperses it after 1 round.
 ```
 ```
-Tidal Wave (3rd level)
+Tidal Wave (3rd)
 Casting Time: 1 action
 Range: 120 feet
 Duration: Instantaneous
@@ -2667,7 +2648,7 @@ Select an area within range to crash down a wave of water up to 30ft long, up to
 ```
 
 ```
-Water Breathing (3rd level)
+Water Breathing (3rd)
 Casting Time: 1 action
 Range: 30 feet
 Duration: 24 hours 
@@ -2676,7 +2657,7 @@ Up to ten willing creatures of your choice within range that you can see gain th
 
 
 ```
-Speak With dead (3rd level)
+Speak With dead (3rd)
 Casting Time: 1 action
 Range: 10 feet
 Duration: 10 minutes
@@ -2686,7 +2667,7 @@ answer, or report it truthfully to you.
 ```
 
 ```
-Spirit Shroud (3rd level)
+Spirit Shroud (3rd)
 Casting Time: 1 bonus action
 Range: Self
 Duration: Concentration, up to 1 minute
@@ -2699,7 +2680,7 @@ speed reduced by 10ft until the start of your next turn.
 ```
 
 ```
-Thunder Step (3rd level)
+Thunder Step (3rd)
 Casting Time: 1 action
 Range: 90 feet
 Duration: Instantaneous
@@ -2742,16 +2723,6 @@ The amount of peity depends on the object.
 ```
 
 ```
-Lightning Bolt (3rd)
-Casting time: 1 action
-Range: 100 feet
-Duration:
-You hold out your hand and a bolt of lightning leaps from it in a straight line
-for 100 feet. Every creature in the bolt's path must make a dexterity saving
-throw. On a failure they receive 6d6 lighting damage, and half on a save.
-```
-
-```
 Bend Light (3rd)
 Casting time: 1 action
 Range: 120 feet
@@ -2780,7 +2751,7 @@ you have manipulated it with magic.
 ```
 
 ```
-Malevolent Guidance (3rd level)
+Malevolent Guidance (3rd)
 Casting Time: 1 action
 Range: 60 feet
 Duration:
@@ -2797,7 +2768,7 @@ substitute with 1d4.
 ```
 
 ```
-Psionic Construct (3rd level)
+Psionic Construct (3rd)
 Casting Time: 1 action
 Range: 60 feet
 Duration: Concentration, up to 10 minutes
@@ -2819,7 +2790,7 @@ You tell a riddle to a creature that can hear and understand you. They must succ
 ```
 
 ```
-Create Undead Vermin Swarm (3rd level)
+Create Undead Vermin Swarm (3rd)
 Casting Time: 10 minutes
 Range: 60 feet
 Duration: 
@@ -2848,7 +2819,7 @@ You hold your forefinger and thumb apart and an arc forms between while a whinin
 ```
 
 ```
-Shadow Magic (3rd level)
+Shadow Magic (3rd)
 Casting Time: 1 action
 Range: self
 Duration: Concentration, up to 1 minute
@@ -2862,7 +2833,7 @@ Converge: You move several shadows onto a creature's face, blinding it.
 ```
 
 ```
-Delusion (3rd level)
+Delusion (3rd)
 Casting Time: 1 action
 Range: 30 feet
 Duration: Concentration, up to 1 minute
@@ -2876,7 +2847,7 @@ the target to determine that the true nature of the delusion.
 ```
 
 ```
-Flight (3rd level)
+Flight (3rd)
 Casting Time: 1 action
 Range: Self
 Duration: Concentration, up to 10 minutes
@@ -3310,7 +3281,7 @@ Choosea creature that is familiar to you, and name or describe them. You sense t
 ```
 
 ```
-Arcane Eye(4th)
+Arcane Eye (4th)
 Casting Time: 1 action 
 Range: 30ft
 Duration: Concentration, up to 1 hour
@@ -3419,7 +3390,7 @@ deity's influence.
 ```
 
 ```
-Ferroform (4th level)
+Ferroform (4th)
 Casting Time: 1 action
 Range: self
 Duration: Concentration, up to 1 minute
@@ -3428,7 +3399,7 @@ For the duration, your AC is 20 and you have have resistance to non-magical phys
 ```
 
 ```
-Heart Crush (4th level)
+Heart Crush (4th)
 Casting Time: 1 action
 Range: 60 feet
 Duration: Instantaneous
@@ -3447,7 +3418,7 @@ On your following turns, you may use your action to continue crushing them. This
 ```
 
 ```
-Mind Meld (4th level)
+Mind Meld (4th)
 Casting Time: 1 minute
 Range: Touch
 Duration: Instantaneous
@@ -3494,7 +3465,7 @@ You target a creature in range that you can see. If they are unwilling, they may
 ```
 
 ```
-Dreamscape (4th level)
+Dreamscape (4th)
 Casting Time: 1 hour
 Range: 1 mile
 Duration: Concentration, up to 8 hours
@@ -3508,7 +3479,7 @@ by succeeding a spellcheck against a DC set by the GM based on the attempted alt
 ```
 
 ```
-Mind Probe (4th level)
+Mind Probe (4th)
 Casting Time: 1 action
 Range: 30 feet
 Duration: Concentration, up to 1 minute
@@ -3560,16 +3531,6 @@ Casting time: 1 minute
 Range: 120ft
 Duration: Until dispelled
 Choose up to a 40ft cube area and either turn rock to mud, or mud to rock. Mud made by this spell falls (if cast on the ceiling), forcing a DEX save to halve 4d8 bludgeoning, and this mud requires four times the movement to pass through. When turning mud to rock, creatures inside make a DEX save to be shunted safely above, or else are restrained. A DC20 STR check can break out of the rock, which has an AC of 15 and 25HP. 
-```
-
-```
-Wall of Light (5th)
-Casting time: 1 minute 
-Range: 120ft
-Duration: Concentration, up to 10 minutes
-Create a wall of light on a point within range, choosing any orientation. It can be up to 60ft long, 10ft high, and 5ft thick, blocks line of sight, can be passed through, and casts 120ft bright light and another 120ft dim light. Creatures in the wall's area make a CON save to halve 4d8 radiant damage and avoid being blinded for the duration(remaking the CON save to end the blindness at the end of their turn). Creatures who end their turn in the area take 4d8 radiant damage.
-
-For the duration, you may use your action to launch a beam of light from the wall at one creature you see within 60ft of the wall, making a ranged spell attack and dealing 4d8 radiant damage on a hit. Using this ability reduces the length of the wall by 10ft.
 ```
 
 ```
@@ -3889,7 +3850,7 @@ features for your transformation, which end after the duration.
 ```
 
 ```
-Nightmare Gate(5th)
+Nightmare Gate (5th)
 Casting Time: 1 action 
 Range: 60ft
 Duration: Concentration, 10 minutes

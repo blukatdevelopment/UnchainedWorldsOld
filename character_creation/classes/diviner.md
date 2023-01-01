@@ -19,7 +19,6 @@ You start with 4+CON hit points.
 The diviner's stamina die is a d4.
 
 ## Proficiencies
-```
 |:--------------|:-----------------------------------|
 | Armor         | Light Armor, Medium Armor, Shields |
 |:--------------|:-----------------------------------|
@@ -29,7 +28,6 @@ The diviner's stamina die is a d4.
 |:--------------|:-----------------------------------|
 | Saving Throws | Wisdom, Charisma                   |
 |:--------------|:-----------------------------------|
-```
 
 ## Skills
 Choose two from the following:
