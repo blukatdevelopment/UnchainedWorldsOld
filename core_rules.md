@@ -25,13 +25,13 @@ MMW0xooxOXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 
 # Foreword
 
-### What is Unchained Worlds?
+## What is Unchained Worlds?
 Unchained Worlds is a tabletop roleplaying game designed with the intention of providing a table of three to seven people with tools, rules, and content to participate in Unchained World's three pillars of exploration, combat, and roleplaying. Unchained Worlds differs from most competing games in that it is neither a clone of an existing game, nor is it designed as a commercial product. Unchained Worlds is both free as in free beer and free as in freedom. It’s content is deliberately modular and self-contained in order to make the process of selecting, using, and authoring content easy. 
 
-### Why Unchained Worlds?
+## Why Unchained Worlds?
 Unchained Worlds is built with “less is more” as its motto. Character customization options are slim, hit points are low for monsters and adventurers, and levels are capped at 10. This lends itself to low power play wherein a party of players must carefully consider the consequences for their actions and use lateral thinking to overcome obstacles and limitations. The worlds explored with this system are intended to be gritty and dangerous places where decision-making and roleplaying is more important than character build. While this system can be used for linear epic campaigns and for combat-focused power gaming, such play is not the primary concern.
 
-### How do I play Unchained Worlds?
+## How do I play Unchained Worlds?
 At your table, one person assumes the role of keeper. They create the world that is explored, control non-player characters(henceforth NPC), and referee combat and player interaction with the world. All other people at the table are players, who each control a player character. Player characters (henceforth PCs) explore the world, interact with NPCs, and fight. There may be a linear campaign designed for the players to explore, or there may be a sandbox world that is explored according to the player’s interests.
 
 # Philosophy
@@ -784,7 +784,7 @@ A cone's as long as it is wide. This is to say that a 15ft cone is 15 feet long,
 A cube's sides are all the same, so a 5ft cube is 5ft by 5ft by 5ft.
 
 ##### Cylinder
-A cylinder's point of origin is the center of a circle with a radius described by the spell. The circle's either on the ground or at a height specified by the spell. A second circle directly above the first is the top of the cylinder, and anything between the two is inside it.
+A cylinder's point of origin is the center of a circle with a radius described by the spell. The circle's either on the groundor at a height specified by the spell. A second circle directly above the first is the top of the cylinder, and anything betweenthe two is inside it.
 
 ##### Line
 The line extends from it's point of originatn in a straight path up to it's length and covers an area defined its width, provided in the spell.
