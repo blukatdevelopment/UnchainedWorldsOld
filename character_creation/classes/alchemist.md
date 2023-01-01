@@ -8,10 +8,8 @@
 # \_| |_/_|\___|_| |_|\___|_| |_| |_|_|___/\__|                                #
 ################################################################################
 ```
-Magicians bend the weave to unleash magical energy that they struggle to control.
-Alchemical processes are what you struggle to control. Novice alchemy is a form
-of gambling, but after achieving mastery in the art, alchemists can truly achieve
-stability.
+# Alchemist
+Magicians bend the weave to unleash magical energy that they struggle to control. Alchemical processes are what you struggle to control. Novice alchemy is a form of gambling, but after achieving mastery in the art, alchemists can truly achieve stability.
 
 ## Starting hit points
 You start with 4+CON hit points.
@@ -20,17 +18,15 @@ You start with 4+CON hit points.
 The alchemist's stamina die is a d4.
 
 ## Proficiencies
-```
-+---------------+----------------------+
+|               |                      |
+|:--------------|:---------------------|
 | Armor         | Light armor          |
-+---------------+----------------------+
+|---------------|----------------------|
 | Weapons       | Simple Weapons       |
-+---------------+----------------------+
+|---------------|----------------------|
 | Tools         | Alchemy Kit          |
-+---------------+----------------------+
+|---------------|----------------------|
 | Saving Throws | Intelligence, Wisdom |
-+---------------+----------------------+
-```
 
 ## Skills
 Choose 4 from the following:
@@ -66,9 +62,9 @@ XP = total experience points needed for level
 SD = Stamina Dice
 Prof = proficiency bonus
 TN = Techniques
-+-----+-------+---+-----+---+-------------------------------------------+
+```
 | LVL |  XP   |SD |Prof |TN |        Features                           |
-+-----+-------+---+-----+---+-------------------------------------------+
+|:----|:------|:--|:----|:--|:------------------------------------------|
 |   1 |     0 | 2 | +1  | 1 | Novice Alchemy                            |
 |   2 |   300 | 4 | +1  | 2 | Lesser Splash Potions, Hit point Increase |
 |   3 |   900 | 6 | +2  | 3 | Big Dipper, Quick Brew, Hit point Increase|
@@ -79,24 +75,15 @@ TN = Techniques
 |   8 | 13100 |16 | +3  | 7 | Greater Splash Potions                    |
 |   9 | 22600 |18 | +4  | 7 | Master Alchemy                            |
 |  10 | 44600 |20 | +4  | 7 | Ability Score Increase                    |
-+-----+-------+---+-----+---+-------------------------------------------+
-```
+
 
 ## Features
 
 ### Novice Alchemy
-You learn to brew simple potions using the Amateur's Bubbling Cauldron 
-technique. During each rest, you may spend 5SP of alchemical
-ingredients to brew a potion using a known technique. You may brew a number
-of potions equal to your intelligence modifier during that rest. You may use
-a separate alchemy technique for each potion. Outside of a rest You may also 
-use your alchemy kit to identify a potion, doing so requires 10 minutes.
+You learn to brew simple potions using the Amateur's Bubbling Cauldron  technique. During each rest, you may spend 5SP of alchemical ingredients to brew a potion using a known technique. You may brew a number of potions equal to your intelligence modifier during that rest. You may use a separate alchemy technique for each potion. Outside of a rest You may also  use your alchemy kit to identify a potion, doing so requires 10 minutes.
 
 ### Lesser Splash Potions
-You learn to temporarily heighten the potency of a potion so that it can be
-divided up between two bottles. The process requires one action and consumes
-one stamina die to fuel the magic, but results in two potions. These potions
-remain potent for 1 minute, after which they lose all potency.
+You learn to temporarily heighten the potency of a potion so that it can be divided up between two bottles. The process requires one action and consumes one stamina die to fuel the magic, but results in two potions. These potions remain potent for 1 minute, after which they lose all potency.
 
 ### Hit point Increase
 Your maximum hit points increase by 1d4+CON.
@@ -105,13 +92,10 @@ Your maximum hit points increase by 1d4+CON.
 Your maximum hit points increase by 1d4+CON.
 
 ### Hit point re-roll
-Now, and again each time you gain a level from now on, you recalculate your hit
-points. Roll 3d4 and add your CON modifier three times. If the value rolled is
-higher than your current max hit points, you may keep it.
+Now, and again each time you gain a level from now on, you recalculate your hit points. Roll 3d4 and add your CON modifier three times. If the value rolled is higher than your current max hit points, you may keep it.
 
 ### Big Dipper
-Your practice has paid off. You may now dip a weapon or piece of ammunition in
-a potion using your bonus action.
+Your practice has paid off. You may now dip a weapon or piece of ammunition in a potion using your bonus action.
 
 ### Quick Brew
 After experimenting with quicker methods of distillation you have discovered a
@@ -119,174 +103,130 @@ way to brew a single potion much faster. You may now spend 10 minutes and expend
 a stamina die to brew a potion.
 
 ### Journeyman Alchemy
-Above and beyond simply making potions, you've learned to refine your technique
-by using additives to avoid defects and increase the potency of your potions.
-You may add 5SP of extra alchemical ingredients to a potion and add 1d6 to your
-roll for that potion. If your roll is higher than the values in the table, you
-pick the highest value in the table.
+Above and beyond simply making potions, you've learned to refine your technique by using additives to avoid defects and increase the potency of your potions. You may add 5SP of extra alchemical ingredients to a potion and add 1d6 to your roll for that potion. If your roll is higher than the values in the table, you pick the highest value in the table.
 
 ### Glassblower
-During a rest at a campfire you may now craft 1d12 flasks, 1d4 vials, or you may
-instead produce a single glass arrow. This glass arrow can be filled with any 
-potion and fired from a shortbow or longbow and which shatters on impact, 
-applying the potion's effect to the target on a hit. 
+During a rest at a campfire you may now craft 1d12 flasks, 1d4 vials, or you may instead produce a single glass arrow. This glass arrow can be filled with any  potion and fired from a shortbow or longbow and which shatters on impact,  applying the potion's effect to the target on a hit. 
 
 ### Expert Alchemy
-You have further refined your use of additives to better control the output
-of brewing. When you make a potion, you may now include additives in order to
-roll multiple times for your technique and pick one of the rolls. Below is a
-chart of the total number of rolls and cost in ingredients.
-```
-+-------+------+
+You have further refined your use of additives to better control the output of brewing. When you make a potion, you may now include additives in order to roll multiple times for your technique and pick one of the rolls. Below is a chart of the total number of rolls and cost in ingredients.
+
 | Rolls | Cost |
-+-------+------+
+|:------|:-----|
 |     2 | 1GP  |
 |     4 | 5GP  |
 |     6 | 10GP |
-+-------+------+
-```
 
 ### Greater Splash Potions
-With thorough research you have found a way to heighten the potency of potions 
-even further than before for a short amount of time. When you create splash 
-potions, you may now produce four from a single potion, instead of two.
+With thorough research you have found a way to heighten the potency of potions even further than before for a short amount of time. When you create splash potions, you may now produce four from a single potion, instead of two.
 
 ### Master Alchemy
-You have gained mastery over the field of alchemy. You have learned to copy
-existing potions, whether they are products of any known techniques or not.
-When making a batch of potions during a rest, you may expend a potion to produce
-copies of it. Doing this requires 10GP of ingredients per copy created.
+You have gained mastery over the field of alchemy. You have learned to copy existing potions, whether they are products of any known techniques or not. When making a batch of potions during a rest, you may expend a potion to produce copies of it. Doing this requires 10GP of ingredients per copy created.
 
 ## Alchemy Techniques
 
 ### Amateur's Bubbling Cauldron
 Roll 1d4.
-```
-+------+--------------------+
+
 | roll |       potion       |
-+------+--------------------+
+|:-----|:-------------------|
 |    1 | Regular Ale        |
 |    2 | Smelling salt soup |
 |    3 | Rat Spit Spirit    |
 |    4 | Cloud in a bottle  |
-+------+--------------------+
-```
 
 ### Healer's Shimmy (Minimum level 2)
 Roll a 1d6
-```
-+------+------------------------+
+
 | Roll |         Potion         |
-+------+------------------------+
+|:-----|:-----------------------|
 |    1 | Nothing                |
 |    2 | Tekilya                |
 |    3 | Smelling salt soup     |
 |    4 | Rat Spit Spirit        |
 |    5 | Awkward Healing Potion |
 |    6 | Amaro Guarire          |
-+------+------------------------+
-```
 
 ### The Poisoner's Purple Pantsuit (Minimum level 2)
 You've learned to reliably produce a poison that deals 2d4+2 poison damage to
 those it affects. However, each version comes with a side effect. The effect
 lasts 1 minute.
 Roll 1d6
-```
-+------+---------------+----------------------------------------------------+
+
 | Roll |    Poison     |                    Side Effect                     |
-+------+---------------+----------------------------------------------------+
+|:-----|:--------------|:---------------------------------------------------|
 |    1 | Black Mamba   | hands become snakes                                |
 |    2 | Whiny Squire  | voice becomes shrill                               |
 |    3 | Waterworks    | uncontrollable sobbing                             |
 |    4 | You wreak-a   | strong body odor, cannot hide                      |
 |    5 | Leafy Greens  | leaves sprout from body, dealing 1 necrotic damage |
 |    6 | painful truth | must succeed private DC 14 WIS save to lie         |
-+------+---------------+----------------------------------------------------+
-```
 
 ### Soldier's Courage (Minimum level 2)
 Roll 1d6
-```
-+------+----------------------+
+
 | Roll |        Potion        |
-+------+----------------------+
+|:-----|:---------------------|
 |    1 | Nothing              |
 |    2 | Thorned Potion       |
 |    3 | Cloud in a bottle    |
 |    4 | Spark Fruit Cocktail |
 |    5 | Thick Skin Potion    |
 |    6 | Hunter Bomb          |
-+------+----------------------+
-```
 
 ### Tinker's Best Friend (Minimum level 2)
 Roll a 1d6.
-```
-+------+--------------------+
+
 | Roll |       Potion       |
-+------+--------------------+
+|:-----|:-------------------|
 |    1 | Glow paint         |
 |    2 | Skillful Spirit    |
 |    3 | Super solvent      |
 |    4 | Insane Adhesive    |
 |    5 | Strong Acid        |
 |    6 | Poisoner's Perfume |
-+------+--------------------+
-```
 
 ### The Metamorphosis (minimum level 3)
 Roll a 1d4.
-```
-+------+---------------------+
+
 | Roll |       Potion        |
-+------+---------------------+
+|:-----|:--------------------|
 |    1 | Beast folk's Ale    |
 |    2 | Devil's Liquor      |
 |    3 | Doppelganger's brew |
 |    4 | Growth paint        |
-+------+---------------------+
-```
 
 ### Restorative Feverdream(minimum level 3)
 This technique guarantees a potion that provides 2d4+4 healing, but also a
 side effect. The side effect lasts for 1 hour.
 Roll a 1d6
-```
-+------+------------------+-----------------------------------------------------------+
+
 | Roll |      Potion      |                        Side Effect                        |
-+------+------------------+-----------------------------------------------------------+
+|:-----|:-----------------|:----------------------------------------------------------|
 |    1 | Affection Aperol | You feel unusually affectionate                           |
 |    2 | Angel's Delight  | You sprout feathery wings and a halo                      |
 |    3 | April Rain       | A tiny rain cloud hovers over your head                   |
 |    4 | Aura in Me       | Your body glows a color of your choosing                  |
 |    5 | Black Cat        | You involuntarily meow while talking                      |
 |    6 | Burning Bush     | If you have hair, it turns bright red, orange, and yellow |
-+------+------------------+-----------------------------------------------------------+
-```
 
 ### The One Slipper Jim (minimum level 3)
 Roll a 1d6.
 
-```
-+------+-----------------------+
 | Roll |        Potion         |
-+------+-----------------------+
+|:-----|:----------------------|
 |    1 | Nothing               |
 |    2 | Speech Bubble Tea     |
 |    3 | Invisible Brandy      |
 |    4 | Bullseye light potion |
 |    5 | Glow paint            |
 |    6 | Ethereal Liqueur      |
-+------+-----------------------+
-```
 
 ### The Figure Eight With Wrist Action (minimum level 4)
 Roll a 1d20 and add your intelligence modifier and proficiency bonus.
-```
-+-------+----------------------------+
+
 | Roll  |           Potion           |
-+-------+----------------------------+
+|:------|:---------------------------|
 | 1-5   | Nothing                    |
 | 6-10  | Smelling salt soup         |
 | 7     | Mundane Strength Potion    |
@@ -302,8 +242,6 @@ Roll a 1d20 and add your intelligence modifier and proficiency bonus.
 | 20    | Devil's Liquor             |
 | 21    | The Tremendous Gulp        |
 | 22-25 | Necromancer's Pickle Brine |
-+-------+----------------------------+
-```
 
 ### The Drunken Chaotician (minimum level 4)
 This produces a potion of chaos each and every time.
@@ -311,113 +249,52 @@ This produces a potion of chaos each and every time.
 ## Potions
 
 ### Rat Spit Spirit
-This clear liquid smells strongly of turpentine. If thrown, it creates a puddle
-that fills a 5 foot square. When thrown at a creature, it breaks on impact and 
-soaks them. Lighting the spirit with fire damage or tinderbox causes the the 
-spirit to ignite in blue flame, dealing 2d10 fire damage
+This clear liquid smells strongly of turpentine. If thrown, it creates a puddle that fills a 5 foot square. When thrown at a creature, it breaks on impact and  soaks them. Lighting the spirit with fire damage or tinderbox causes the the  spirit to ignite in blue flame, dealing 2d10 fire damage
 
 ### Hunter Bomb
-This bottle of dark, licorice-smelling liquid comes with a much smaller vial
-of effervescent sweet liquid. When mixed, the substance becomes highly unstable.
-If the bottle is not thrown within one minute of mixing, it will explode.
-If thrown at a creature within 30 feet, it will cause an explosion of fire that
-expands outwards in a 15 foot sphere, causing every creature inside to make
-a DC 15 dexterity saving throw. On a failure, they take 3d6 fire damage, or
-half as much on a success.
+This bottle of dark, licorice-smelling liquid comes with a much smaller vial of effervescent sweet liquid. When mixed, the substance becomes highly unstable. If the bottle is not thrown within one minute of mixing, it will explode. If thrown at a creature within 30 feet, it will cause an explosion of fire that expands outwards in a 15 foot sphere, causing every creature inside to make a DC 15 dexterity saving throw. On a failure, they take 3d6 fire damage, or half as much on a success.
 
 ### Invisible Brandy
-When you shake the bottle, it sloshes, but you swear you can see nothing inside.
-Do not try to sell this without letting the buyer shake it for themself.
-If you drink this potion, you become invisible for one minute.
+When you shake the bottle, it sloshes, but you swear you can see nothing inside. Do not try to sell this without letting the buyer shake it for themself. If you drink this potion, you become invisible for one minute.
 
 ### Amaro Guarire
-This pungent, dark liquid is bitter tasting and supposedly good for your health.
-When you consume it, you gain 3d10 hit points and make a DC 14 constitution
-saving throw. On a failure, you expend one stamina dice.
+This pungent, dark liquid is bitter tasting and supposedly good for your health. When you consume it, you gain 3d10 hit points and make a DC 14 constitution saving throw. On a failure, you expend one stamina dice.
 
 ### Speech Bubble Tea
-Filled with tapioca pearls, this fruity drink bestows powerful hallucinations.
-After consuming this potion from it's thick straw, you can see speech bubbles
-with written words on them every time someone speaks. You can differentiate
-voices in a crowd this way, and if someone speaks a language you do not know,
-the symbols for that language still appear, allowing you to write them down
-for later translation. If you watch from a distance of up to 300 feet, the
-speech bubbles will grow and be easy for you to read. Past that no speech
-bubbles appear. This lasts for 1d4 hours.
+Filled with tapioca pearls, this fruity drink bestows powerful hallucinations. After consuming this potion from it's thick straw, you can see speech bubbles with written words on them every time someone speaks. You can differentiate voices in a crowd this way, and if someone speaks a language you do not know, the symbols for that language still appear, allowing you to write them down for later translation. If you watch from a distance of up to 300 feet, the speech bubbles will grow and be easy for you to read. Past that no speech bubbles appear. This lasts for 1d4 hours.
 
 ### Poisoner's Perfume
-This bright pink liquid carries a strong floral aroma similar to roses. As good
-as it smells, it has high concentrations of cyanide and arsenic. The poison
-tastes slightly bitter, and if consumed will deal 5d10 poison
-damage. You may dip up to ten pieces of ammunition in this perfume, or pour
-half the bottle out onto a melee weapon that deals piercing or slashing damage.
-The coating lasts for one minute, and the first attack with a coated weapon
-deals an extra 2d10 poison damage if it hits.
+This bright pink liquid carries a strong floral aroma similar to roses. As good as it smells, it has high concentrations of cyanide and arsenic. The poison tastes slightly bitter, and if consumed will deal 5d10 poison damage. You may dip up to ten pieces of ammunition in this perfume, or pour half the bottle out onto a melee weapon that deals piercing or slashing damage. The coating lasts for one minute, and the first attack with a coated weapon deals an extra 2d10 poison damage if it hits.
 
 ### Tekilya
-A dead worm sits at the bottom of this extremely bitter spirit. If you drink
-it, you gain 3d8 maximum hit points for 1 minute. At the end of the duration,
-your maximum hit points return to normal and you take 3d8 poison damage.
+A dead worm sits at the bottom of this extremely bitter spirit. If you drink it, you gain 3d8 maximum hit points for 1 minute. At the end of the duration, your maximum hit points return to normal and you take 3d8 poison damage.
 
 ### Ethereal Liqueur
-When you look into this potion, you can faintly see tiny glowing dots swimming
-around inside. Drinking this potion causes you to phase into the ethereal plane
-for 1 hour, after which you are returned to your previous plane of existence. If
-you occupy the space of another creature or object when you return to your
-previous plane of existance you take 2d10 force damage and are pushed to the
-nearest available space. Upon consuming this potion, make a DC 14 constitution 
-saving throw. On a failure, you are tipsy.
+When you look into this potion, you can faintly see tiny glowing dots swimming around inside. Drinking this potion causes you to phase into the ethereal plane for 1 hour, after which you are returned to your previous plane of existence. If you occupy the space of another creature or object when you return to your previous plane of existance you take 2d10 force damage and are pushed to the nearest available space. Upon consuming this potion, make a DC 14 constitution  saving throw. On a failure, you are tipsy.
 
 ### Smelling salt soup
-This potion requires a carrot and potato to stew, and is a full meal in itself.
-If someone is unconscious or making death saving throws, splashing them with
-this liquid causes them to awaken with 1 hit point.
+This potion requires a carrot and potato to stew, and is a full meal in itself. If someone is unconscious or making death saving throws, splashing them with this liquid causes them to awaken with 1 hit point.
 
 ### Cloud in a bottle
-This bottle of black liquid is activated by dropping a pinch of reagent power
-in. When you activate this potion, pressure begins to build in the bottle.
-If you wait for 1 minute, the bottle will build pressure and explode wherever
-it is. You may instead throw the potion up to a range of 40 feet, setting off
-the potion on impact. In either case, the potion creates a dark storm cloud
-that fills a 20 foot cube. The cloud heavily obscures any creature behind or 
-inside it. The cloud lasts for 1 hour. Throwing salt into the cloud will cause 
-it to darken and discharge lightning. Every creature inside the cloud when 
-lightning is discharged must make a dexterity saving throw, they take 2d6 
-lightning damage or half as much on a success, the cloud then disappears.
+This bottle of black liquid is activated by dropping a pinch of reagent power in. When you activate this potion, pressure begins to build in the bottle. If you wait for 1 minute, the bottle will build pressure and explode wherever it is. You may instead throw the potion up to a range of 40 feet, setting off the potion on impact. In either case, the potion creates a dark storm cloud that fills a 20 foot cube. The cloud heavily obscures any creature behind or  inside it. The cloud lasts for 1 hour. Throwing salt into the cloud will cause  it to darken and discharge lightning. Every creature inside the cloud when  lightning is discharged must make a dexterity saving throw, they take 2d6  lightning damage or half as much on a success, the cloud then disappears.
 
 ### Spark Fruit Cocktail
-This yellow liquid has a strong citrus smell and gives off a static discharge
-occasionally. This potion tastes refreshingly sweet and fruity. Drinking it
-allows you to conjure static electricity from your hands for one minute. In that
-time, any unarmed melee attacks or weapon attacks with a metal weapon deal an 
-additional 1d6 lightning damage.
+This yellow liquid has a strong citrus smell and gives off a static discharge occasionally. This potion tastes refreshingly sweet and fruity. Drinking it allows you to conjure static electricity from your hands for one minute. In that time, any unarmed melee attacks or weapon attacks with a metal weapon deal an  additional 1d6 lightning damage.
 
 ### Thorned Potion
-A thorn floats in this light green liquid. It tastes strongly of grass clippings
-and humus. For the next minute thorny vines sprout from your arms and you may
-use the thorn whip cantrip (found in the Spell Compendium Volume 1) at will.
+A thorn floats in this light green liquid. It tastes strongly of grass clippings and humus. For the next minute thorny vines sprout from your arms and you may use the thorn whip cantrip (found in the Spell Compendium Volume 1) at will.
 
 ### Bullseye light potion
-After consuming this potion, your insides glow brightly. If you open your mouth
-you produce bright light for 60 feet and dim light for 60 more feet in a narrow
-area. While under the effects of this potion your nostrils glow faintly, giving
-away your position in darkness.
+After consuming this potion, your insides glow brightly. If you open your mouth you produce bright light for 60 feet and dim light for 60 more feet in a narrow area. While under the effects of this potion your nostrils glow faintly, giving away your position in darkness.
 
 ### Awkward Healing Potion
-The scent changes depending on who drinks this clear liquid, some smell lemon,
-while others smell rotting eggs or fresh watermelon. It's nothing short of 
-awkward to see the effect this potion has when poured on the ground in a crowd.
-Fortunately the flavor is that of pure water. Consuming this potion heals 1d4
-hit points.
+The scent changes depending on who drinks this clear liquid, some smell lemon, while others smell rotting eggs or fresh watermelon. It's nothing short of  awkward to see the effect this potion has when poured on the ground in a crowd. Fortunately the flavor is that of pure water. Consuming this potion heals 1d4 hit points.
 
 ### Mundane Strength Potion
-This potion is gray, scentless, and flavorless. When consumed, your muscles
-grow. You gain a +2 to your strength modifier for the next minute.
+This potion is gray, scentless, and flavorless. When consumed, your muscles grow. You gain a +2 to your strength modifier for the next minute.
 
 ### Thick Skin Potion
-Shake well, as this potion tends to grow large waxy chunks if left on the shelf
-for too long. When you drink this potion, your skin grows tough and you gain +2
-AC for the next minute.
+Shake well, as this potion tends to grow large waxy chunks if left on the shelf for too long. When you drink this potion, your skin grows tough and you gain +2 AC for the next minute.
 
 ### Strong Acid
 The symbol for this potion is a flexing arm, but that's entirely misleading.
@@ -426,48 +303,22 @@ up to 20  feet at a target. On a hit, the target is burned by this dark green
 fluid and akes 3d6 acid damage.
 
 ### Super solvent
-Every super solvent brewwed comes with a mysterious label attached which reads:
-All glue, paint, and dye that comes into contact with this substances is 
-dissolved immediately. The substance is slippery, and can be used to slick up 
-smooth surfaces. Super solvent is completely safe to the touch, making it useful 
-for  applications where damage is not desired. Do not consume super solvent. 
-Aside  from it's bitter taste, consuming it will cause the creature that 
-consumed it to become poisoned for 1 hour, during which they will experience 
-nausea, heartburn, indigestion, upset stomach, and diarrhea;
+Every super solvent brewwed comes with a mysterious label attached which reads: All glue, paint, and dye that comes into contact with this substances is dissolved immediately. The substance is slippery, and can be used to slick up smooth surfaces. Super solvent is completely safe to the touch, making it useful for  applications where damage is not desired. Do not consume super solvent. Aside  from it's bitter taste, consuming it will cause the creature that consumed it to become poisoned for 1 hour, during which they will experience nausea, heartburn, indigestion, upset stomach, and diarrhea;
 
 ### Insane Adhesive
-This adhesive may join two objects together and withstand a force of 200 pounds. 
-Once it has adhered, only super solvent or a strong acid can dissolve insane 
-adhesive. If thrown on the ground, it creates a 5 foot by 5 foot puddle that 
-lasts for one minute. Any large or smaller creature that steps on this puddle 
-must succeed a DC 16 strength save, or their movement is reduced to 0. They may 
-use their action to make this save again.
+This adhesive may join two objects together and withstand a force of 200 pounds.  Once it has adhered, only super solvent or a strong acid can dissolve insane  adhesive. If thrown on the ground, it creates a 5 foot by 5 foot puddle that  lasts for one minute. Any large or smaller creature that steps on this puddle  must succeed a DC 16 strength save, or their movement is reduced to 0. They may  use their action to make this save again.
 
 ### Glow paint
-This liquid, once spattered on a target, will illuminate them and allow them to 
-be targeted in complete darkness as if in bright light. The paint can also be 
-used to mark walls. An entire flask of glow paint can be shattered on the ground 
-to create a 10 foot square. If a creature steps on this square, they can be 
-targeted by spells that require sight, and can be targeted by normal attacks as 
-if in dim light. An invisible creature that steps in a puddle will produce 
-glowing footprints that can be tracked, allowing attacks to target them with 
-disadvantage.
+This liquid, once spattered on a target, will illuminate them and allow them to be targeted in complete darkness as if in bright light. The paint can also be used to mark walls. An entire flask of glow paint can be shattered on the ground to create a 10 foot square. If a creature steps on this square, they can be targeted by spells that require sight, and can be targeted by normal attacks as if in dim light. An invisible creature that steps in a puddle will produce glowing footprints that can be tracked, allowing attacks to target them with disadvantage.
 
 ### Growth paint
-A creature coated in this paint will grow two sizes larger. This effect lasts 
-for one hour. In such a state, damage from weapon attacks increases by 1d4. One 
-jar has two uses, or one if thrown when full. If the creature is trapped in a 
-confined space when they are grown, they will take 4d8 bludgeoning damage and 
-be restrained for the duration.
+A creature coated in this paint will grow two sizes larger. This effect lasts for one hour. In such a state, damage from weapon attacks increases by 1d4. One jar has two uses, or one if thrown when full. If the creature is trapped in a confined space when they are grown, they will take 4d8 bludgeoning damage and be restrained for the duration.
 
 ### Potion of shrinking
-A creature coated in this paint will shrink down by two sizes. In such a state, 
-damage from weapon attacks decreases by 1d4 to a minimum of 1 damage. The effect 
-lasts for one hour.
+A creature coated in this paint will shrink down by two sizes. In such a state, damage from weapon attacks decreases by 1d4 to a minimum of 1 damage. The effect lasts for one hour.
 
 ### Potion of chaos
-When one consumes this potion, they roll a 1d20 and receive the corresponding 
-effect:
+When one consumes this potion, they roll a 1d20 and receive the corresponding effect:
 1. Become poisoned for 1 minute, take 1d20 poison damage
 2. Take 1d20 poison damage
 3. For the next 1d4 days, you cough up demonic larvae at night
@@ -490,28 +341,13 @@ effect:
 20. Remove one harmful effect on you and heal 3d8 health
 
 ### Doppelganger's brew
-When you drop a physical piece of a medium or small-sized creature into this
-liquid, it fizzles and froths, activating. Drinking the brew will cause you 
-to transform to be physically identical to that creature. You remain this way
-for 1d4 days, unless your hit points are reduced to or below 0. If your 
-hitpoints are reuduced to or below 0 you return to your normal form.
+When you drop a physical piece of a medium or small-sized creature into this liquid, it fizzles and froths, activating. Drinking the brew will cause you to transform to be physically identical to that creature. You remain this way for 1d4 days, unless your hit points are reduced to or below 0. If your hitpoints are reuduced to or below 0 you return to your normal form.
 
 ### Light Beer
-This effervescent amber liquid tastes strongly of hops and yeast, and causes
-mild belching. For 1d4 hours, you feel nearly weightless. This grants you the
-ability to jump thirty feet into the air, and grants a climbing speed equal to
-your movement speed. You fall at a rate of 5 feet per six seconds, and do not
-take fall damage.
+This effervescent amber liquid tastes strongly of hops and yeast, and causes mild belching. For 1d4 hours, you feel nearly weightless. This grants you the ability to jump thirty feet into the air, and grants a climbing speed equal to your movement speed. You fall at a rate of 5 feet per six seconds, and do not take fall damage.
 
 ### Beast folk's Ale
-This dark, bitter liquid has a powerful odor of wet fur. You may add the hair,
-feather, mucus, or scale of one beast to activate the potion. Drinking the
-concoction will transform you into a beast folk version of this beast for the
-next 1d4 days. Alternatively, you may instead add one drop of your blood to
-activate the potion. When activated with blood, it is only effective for the
-creature whose blood was added, the animal is selected randomly, and the effect
-is permanent.
-Roll a 1d10
+This dark, bitter liquid has a powerful odor of wet fur. You may add the hair, feather, mucus, or scale of one beast to activate the potion. Drinking the concoction will transform you into a beast folk version of this beast for the next 1d4 days. Alternatively, you may instead add one drop of your blood to activate the potion. When activated with blood, it is only effective for the creature whose blood was added, the animal is selected randomly, and the effect is permanent. Roll a 1d10
 1. Field Mouse
 2. Long-eared Bunny
 3. Arctic Fox
@@ -524,51 +360,19 @@ Roll a 1d10
 10. Bison
 
 ### Devil's Liquor
-This blood-red liquid is always warm to the touch. When you drink it, your skin
-turns the same shade of crimson, you grow a spade tail, and horns grow from your
-head. Unarmed attacks with your horns deal 1d8 piercing damage.  Wings sprout
-from your back, granting you a 30 foot flying speed. In addition, you gain sight
-in pure darkness up to 120 feet as your eyes grow completely black. You may create
-magical contracts with willing creatures that will last after the effects of this
-potion ends. The potion lasts 1d4 days, and at the end your hit points drop to 0
-and you roll a 20 sided dice 5 times. On three or more rolls of 10 or greater, 
-you awaken 1d4 hours later in your prior form. If you instead accumulate three 
-or more rolls of 9 or less, you awaken 1d4 hours later permanently transformed 
-into a devil.
+This blood-red liquid is always warm to the touch. When you drink it, your skin turns the same shade of crimson, you grow a spade tail, and horns grow from your head. Unarmed attacks with your horns deal 1d8 piercing damage. Wings sprout from your back, granting you a 30 foot flying speed. In addition, you gain sight in pure darkness up to 120 feet as your eyes grow completely black. You may create magical contracts with willing creatures that will last after the effects of this potion ends. The potion lasts 1d4 days, and at the end your hit points drop to 0 and you roll a 20 sided dice 5 times. On three or more rolls of 10 or greater, you awaken 1d4 hours later in your prior form. If you instead accumulate three or more rolls of 9 or less, you awaken 1d4 hours later permanently transformed into a devil.
 
 ### Stone Skin Syrup
-This thick, smokey, sweet concoction causes your skin to turn to stone. For the
-next minute, you are resistant to all non-magical physical damage.
+This thick, smokey, sweet concoction causes your skin to turn to stone. For the next minute, you are resistant to all non-magical physical damage.
 
 ### Dragon Salsa
-A chunky mixture of stewed peppers, tomatoes, and spices, dragon salsa serves 
-as a full meal. Dragon salsa, like dragons has an element associated. The 
-default element is fire, but you may add an extra ingredient to change the 
-element. Iron dust grants lightning, lemon grants acid, some mint for cold, and
-a small piece of nightshade plant grants poison. For a minute after consuming a
-jar of the salsa, you may perform a breath attack. As an action you create a 15 
-foot cone of breath. All creatures within must make a DC 15 dexterity saving 
-throw, taking 3d6 damage of the element you selected, or half as much on a 
-success.
+A chunky mixture of stewed peppers, tomatoes, and spices, dragon salsa serves as a full meal. Dragon salsa, like dragons has an element associated. The default element is fire, but you may add an extra ingredient to change the element. Iron dust grants lightning, lemon grants acid, some mint for cold, anda small piece of nightshade plant grants poison. For a minute after consuming a jar of the salsa, you may perform a breath attack. As an action you create a 15 foot cone of breath. All creatures within must make a DC 15 dexterity saving throw, taking 3d6 damage of the element you selected, or half as much on a success.
 
 ### Necromancer's Pickle Brine
-If you listen carefully, you can hear whispering coming from this salty, sour
-liquid. Submerging a dead tiny creature or a severed limb along with a hair from
-your body in a jar of this fluid for one day will cause the creature to 
-re-animate as an undead version of itself. It shares your turn in initiative. 
-When it's within 100 feet of you, you can use your bonus action to command the 
-creature to move up to 30 feet and make and attack(+5, 1d4 piercing on hit). 
-It has 8 AC and 1 hit point.
+If you listen carefully, you can hear whispering coming from this salty, sour liquid. Submerging a dead tiny creature or a severed limb along with a hair from your body in a jar of this fluid for one day will cause the creature to re-animate as an undead version of itself. It shares your turn in initiative. When it's within 100 feet of you, you can use your bonus action to command the creature to move up to 30 feet and make and attack(+5, 1d4 piercing on hit). It has 8 AC and 1 hit point.
 
 ### Skillful Spirit
-This clear liquid can take the paint off a wall, and it burns the whole way
-down. A flask of the stuff has ten charges. When you take a shot of this spirit,
-you gain advantage on the next skillcheck you make within 1 minute.
-Make a con save, DC 14. If you fail, you become intoxicated.
+This clear liquid can take the paint off a wall, and it burns the whole way down. A flask of the stuff has ten charges. When you take a shot of this spirit, you gain advantage on the next skillcheck you make within 1 minute. Make a con save, DC 14. If you fail, you become intoxicated.
 
 ### The Tremendous Gulp
-This flask of sugary fluid produces a powerful rush. For the next 1d10 turns,
-your movement speed doubles, you gain an extra action, and your AC increases by
-+5. When the potion wears off, powerful side-effects set in. Side effects
-include reduced vision, halved movement speed, and disadvantage on all attack
-rolls.
+This flask of sugary fluid produces a powerful rush. For the next 1d10 turns, your movement speed doubles, you gain an extra action, and your AC increases by +5. When the potion wears off, powerful side-effects set in. Side effects include reduced vision, halved movement speed, and disadvantage on all attack rolls.
