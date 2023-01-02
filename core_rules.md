@@ -462,10 +462,15 @@ Adventuring requires a great many things. Here are some of them.
 | Vial                        | 1 gp    | —      |
 | Whetstone                   | 1 cp    | 1 lb.  |
 
-#### Water Containers
-```
-
-```
+#### Light Sources
+| Light Source    | Radius | Duration|
+|:----------------|:-------|:--------|
+| Candle          | 5ft    | 5 hr    |
+| Lamp            | 15ft   | 6hr     |
+| Torch           | 20ft   | 30 min  |
+| Hooded Lantern  | 30ft   | 6hr     |
+| Bullseye lantern| 60ft*  | 6hr     |
+`*In one direction`
 
 #### Fresh and Iron Rations
 Fresh rations are generally fresh produce, meat, bread, and similar foods which spoil 7 days after purchase. Iron rations are made of ingredients such as travel bread, fruit preserves, fruit leather, jerky, potted meat, noodles, and pemican. Iron rations are generally shelf stable for multiple months at a time.
