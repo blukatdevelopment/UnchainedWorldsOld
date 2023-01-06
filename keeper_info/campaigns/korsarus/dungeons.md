@@ -16,7 +16,7 @@ Environmental elements: koi ponds, moon crystals, moonroofs, fiberoptic cables
 Guardian: Rune circle. "Turn to the day I died." Spawns specters if wrong
 Purpose: Tomb of Celebrity
 Factions(If any): 
-Monsters: specters, Pincer beast nest
+Monsters: specters, Invisible Pincer beast nest
 Traps: Displays go off, revealing location
 Environmental elements: Displays that tell anecdotes(go off when monsters pass by)
 
@@ -380,7 +380,20 @@ Create a wandering monster table, mishap table. (so you can switch between them 
 2. Make some rooms have obstacles or traps(green text)
 3. Make some rooms monster rooms (red text)
 4. Put treasure in (yellow text)
+5. Put in environmental objects that can be perceived multiple rooms over like rivers, fires, etc (blue text)
 
+### Color coding text
+- Black(#000000): self-contained set dressing/theme for room
+- Blue(#1e35c9): Environmental features that can be detected from other rooms
+- Red(#a30000): Monsters
+- Green(#00a32c): Traps and obstacles
+- Yellow(#fff700): Treasure or loot
+
+### Color coding regions
+Use transparency to color in the room backgrounds from their standard white
+- green: Obstacle
+- red: monster den
+- yellow: loot hoard
 
 
 Prompt 21:
