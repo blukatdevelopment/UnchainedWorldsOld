@@ -246,7 +246,7 @@ Each of the twins posesses a castle on opposite ends of the abyss, constantly ra
 Zimzin is the king of Acedia, the only city in the abyss. Inside the city. The city is populated by walkers, creatures created that move through a sad parody of life. The walkers till fields of dirt, eating the dust from it to no effect. They drink dust, and they lay restlessly each night cycle. There are two permanent construction plans in Acedia: building the great wall, and then demolishing it.
 
 ## Infernal Pantheon
-Devils are well-known for their contract magic. They occupy the upper layers of Hell, and are responsible for bringing in the majority of souls.
+Devils are well-known for their contract magic. They occupy the upper layers of Hell, and are responsible for bringing in the majority of souls. They are lawful, and are organized within the kingdom of Hell which oversees the infernal plane. The kingdom of Hell has many temples throughout the infernal plane where crystals are stored. Should the owner of a crystal die they are reformed intact by their crystal, and then the crystal shatters.
 
 ### Nekatur, the seducer
 Nekatur visits the lonely and desperate in the material plane. Often, her job is an easy one. She offers contracts offering to magically fulfill her clients' desires. With the money and favors she gets from wealthy and influential clients, she backs puritanical reforms, further driving demand for her forbidden services.
@@ -271,3 +271,70 @@ Wro Gentar offers her clients a very particular service. She forcibly swaps the 
 
 ### Bestlar Mranag
 Bestler's clients are those watching their freshly killed loved. He offers to save the loved one, and the contracts are quite lucrative. Once the loved one is alive, Bestlar hires others to kill them. The clients are rendered into a state of hopeless, bleak despair that he can harness for power. Contracts state that this happens randomly to every thousandth contract. The souls gathered this way wind up as the walkers in the city of Acedia.
+
+# Corruption
+Corruption is the effect that corrupting agents have on humanoids, often resulting in physical changes or transformations. The Diagnose Curse spell may identify a cure for a given corruption.
+
+## Infernal
+When devils outreach to the material plane, they often offer contracts with power. The full terms of these contracts are rarely clear to the signee, but some common corruptions are listed below. **Once a humanoid gains five infernal corruptions, they become a full devil.** 
+
+### 1 Devil's Eyes
+Your eyes turn crimson and slitted like a cat's. You may now see in perfect darkness up to 120ft, even through magical darkness. When a creature experiences physical pain, it glows red to you and the sight is pleasant.
+
+### 2 Devil's Spines
+Hardened spines grow from your body at various angles, providing a layer of protection. Clothing and armor must be altered specifically to fit your spines. Your AC cannot fall below 16. When you or another creature grapple one another, or you are hit with an unarmed attack, the other creature takes 1d4 piercing damage.
+
+### 3 Devil's Wings
+Bat-like wings sprout from your back, granting you a flying speed of 30ft.
+
+### 4 Devil's Tail
+This spade tail grants the owner the ability to cast the invisibility spell by consuming two stamina dice.
+
+### 5 Devil's Horns
+You sprout curved horns which may be used as a natural weapon. They use your strength modifier, deal 1d8 piercing damage. If you are not proficient in intimidation, you are now. If you were already proficient, but did not have expertice, you now do and may add double your proficiency bonus. You may use your action and consume a stamina die to impose advantage on your intimidation checks, and make a free horn attack if the check fails.
+
+### 6 Infernal Hide
+Your skin grows leathery, hairless, and crimson in color. It is warm to the touch. You have resistance to fire damage.
+
+### 7 Devil's Tongue
+Your tongue becomes longer and forked. If you are not proficient in deception, you are now. If you were already proficient, but did not have expertice, you now do and may add double your proficiency bonus. You may use your action and consume a stamina die to impose advantage on your deception checks.
+
+### 8 Devil's Claws
+Your fingernails turn into long black claws. Your unarmed attacks deal 1d4 slashing damage. You may consume a stamina die in order to cast the fire bolt cantrip, which forms the bolt of fire at a point between your claws. When you do so, it uses charisma as your spellcasting ability and deals 2d10 fire damage on a hit.
+
+### 9 Marks of Infernal Fortitude
+Three tattoos are seared onto your flesh, one on each arm, and one on your chest. When complete a rest, they dimly glow crimson. You may use your action to cast the False Life spell with the marks. You may exhaust one stamina die to cast the spell as a 1st level spell, or two to cast the spell as a 2nd level spell, or three to cast the spell as a 3rd level spell. While the spell is active, you are filled with infernal energy and red runes glow across your skin. An exhausted mark stops glowing until you complete your next rest.
+
+### 10 Fiendish Quickening
+If you have at least four stamina dice when you die, you automatically consume them and rapidly regenerate your flesh. Any limbs or flesh regrown is crimson, hairless, leathery, and hot to the touch. Your hit points increase to the maximum hit points. When you do so, roll for a new infernal corruption and gain it. 
+
+## Abyssal
+Abyssal corruption results from a humanoid's exposure to strong abyssal energy, such as by entering the abyss or by performing a deadly sin at a lay line.
+
+### 1. Abyssal corruption: Lust
+Your skin is tinted pink. Whenever you complete a rest, roll a 1d4. On a 1 or 2, you are otherwise unaffected by the corruption for the day. On a 3 or 4, the corruption permeates you. Your body temperature is feverishly warm and your cheeks are constantly blushing. You gain advantage on any ability or skill checks that rely on seduction, and disadvantage on any ability or skill checks that don't. These effects presist until you kiss a consenting creature.
+
+### 2. Abyssal corruption: Gluttony
+Your form grows more gaunt. When you see or smell a piece of food or a fresh corpse, you must succeed a DC 18 WIS save to avoid a feeding frenzy. A feeding frenzy lasts ten minutes, during which you leap upon any food or fresh corpse that you can find, feasting upon it. If you pass the WIS save, you cannot enter a feeding frenzy for another hour.
+
+You no longer need to eat to survive. However, if you rest without having eaten that day, you wake the next day in a feeding frenzy. If you rest without feeding during this next day, the feeding frenzy becomes permanent and you lose your mind, becoming a hunger demon.
+
+### 3. Abyssal corruption: Greed
+
+
+### 4. Abyssal corruption: Sloth
+Whenever you rest, you remain sleeping for 2d12 additional hours and cannot be woken from your slumber. For every 4 hour of additional sleep, you regain one additional stamina die.
+
+### 5. Abyssal corruption: Wrath
+### 6. Abyssal corruption: Envy
+### 7. Abyssal corruption: Pride
+### 8. Abyssal corruption: Acedia
+
+
+## Fey
+
+## Undead
+
+## Wild
+
+## Outsider
