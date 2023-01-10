@@ -293,6 +293,15 @@ function clear_feats_table(){
     make_table(table, header, row_data, "feats");
 }
 
+function clear_inventory_table(){
+    var header = ["Inventory"];
+    var row_data = [
+        [" "]
+    ];
+    var table = $("#INVENTORY_TABLE");
+    make_table(table, header, row_data, "inventory");
+}
+
 /* Table logic
     @table: JQUERY object for table element,
     @header: array of header columns
@@ -306,10 +315,10 @@ function make_table(table, header, row_data, blank_row, table_name){
     var btn_row_id = table_name + "_btn";
     table.empty();
     make_header_row(table, header);
-    make_table_buttons(table, blank_row, btn_row_id);
     row_data.forEach((row) => {
         add_data_row(table, row, btn_row_id);
     });
+    make_table_buttons(table, blank_row, btn_row_id);
     
 }
 
@@ -324,8 +333,8 @@ function make_header_row(table, header){
 
 function add_data_row(table, row, btn_row_id){
     var button_row = $("#" + btn_row_id);
-    console.log(table.html());
-    console.log(button_row.html());
+    //console.log(table.html());
+    //console.log(button_row.html());
     table.remove(button_row);
 
     var row_tr = $("<tr>");
@@ -339,16 +348,23 @@ function add_data_row(table, row, btn_row_id){
     table.append(button_row);
 }
 
+function remove_data_row(table, btn_row_id){
+    if(table.find("tr").length < 3){
+        return;
+    }
+    table.find("tr:nth-last-child(2)").remove();
+}
+
 function make_table_buttons(table, btn_row_id){
     var add_td = $("<td>");
     var add_btn = $("<button>").html("Add").click(() => {
-        console.log("Add row");
+        add_data_row(table, [""], btn_row_id);
     });
     add_td.append(add_btn);
 
     var remove_td = $("<td>");
     var remove_btn = $("<button>").html("Remove").click(() => {
-        console.log("Remove row");
+        remove_data_row(table, btn_row_id);
     });
     remove_td.append(remove_btn);
 
@@ -381,4 +397,6 @@ $(document).ready(function(){
     clear_abilities();
 
     clear_feats_table();
+    clear_inventory_table();
+
 });
