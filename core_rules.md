@@ -768,11 +768,11 @@ A creature is downed when their hit points fall below 1. A downed creature is pa
 #### Level
 Spells range in level from cantrip (0) to legendary (6). This indicates not only how powerful they are, but also how much magical energy is required to cast a given spell. Most classes will have their own resource spent by casting spells. If you hold an action to cast a spell, any resources for that spell are consumed regardless of whether they 
 
-#### Range
+#### Distance
 Some spells have a maximum range they can be cast from, like 120 feet. Others require physical touch, denoted by range: touch. Spells with range: self can only be cast on the caster.
 
-#### Casting time
-Casting time is how long it takes to cast a spell.
+#### Casting Speed
+Casting speed is how long it takes to cast a spell.
 
 #### Duration
 Decides how long a spell's effects will last. A spell with instantaneous duration ends immediately.

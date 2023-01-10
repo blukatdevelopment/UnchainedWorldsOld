@@ -4,11 +4,11 @@
 
 ```
 Prestidigitation (Cantrip)
-Casting Time: 1 action
-Range: 10 feet
+Casting Speed: 1 action
+Distance: 10 feet
 Duration: 1 hour
 This is a novice spell used by beginning spellcasters for practice. When you cast this spell, you create on of the 
-following magical effects within range:
+following magical effects within Distance:
 
 - You create an instantaneous, harmless sensory effect.
 - You instantaneously light or snuff out a candle, torch, small camp fire, or equivalent fire.
@@ -23,8 +23,8 @@ effect using an action.
 
 ```
 Mending (Cantrip)
-Casting time: 1 minute
-Range: touch
+Casting Speed: 1 minute
+Distance: touch
 Duration: Instantaneous
 You repair one tear, puncture, or a single break in an object. A hole repaired
 cannot be more than one foot wide. An object broken in half cannot be more than
@@ -33,16 +33,16 @@ six feet on one side.
 
 ```
 Chastise (Cantrip)
-Casting time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: Instantaneous
 You verbally chastise the ill behavior of one creature within range that can hear you. They must succeed a wisdom saving throw or receive 1d12 psychic damage. If you do not cite an ill behavior of theirs, the spell fails.
 ```
 
 ```
 Guidance (Cantrip)
-Casting time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: 1 minute
 You call out a phrase of caution, encouragement, or comfort to one target that
 can hear and understand you within range. Within the duration, they may add 
@@ -51,8 +51,8 @@ can hear and understand you within range. Within the duration, they may add
 
 ```
 Sacred Flame (Cantrip)
-Casting time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: Instantenous
 A radiant flame appears on a target within range that you can see. They must
 succeed on a dexterity saving throw or take 1d6 radiant damage.
@@ -60,8 +60,8 @@ succeed on a dexterity saving throw or take 1d6 radiant damage.
 
 ```
 Druidcraft (Cantrip)
-Casting time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: Instantaneous
 You channel the spirits of nature create one of the following effects within range.
 - You create a tiny, harmless sensory effect that predicts the weather at your location for the next 24 hours.
@@ -72,16 +72,16 @@ You channel the spirits of nature create one of the following effects within ran
 
 ```
 Firebolt (Cantrip)
-Casting Time: 1 action
-Range: 120 feet
+Casting Speed: 1 action
+Distance: 120 feet
 Duration: Instantaneous
 Make a ranged spell attack. On a hit, the target receives 1d10 fire damage.
 ```
 
 ```
 Thornwhip (Cantrip)
-Casting time: 1 action
-Range: 15 feet
+Casting Speed: 1 action
+Distance: 15 feet
 Duration: Instantaneous
 Make a melee spell attack against one creature. On a hit, you deal 1d6 slashing
 damage and may pull the creature ten feet in your direction, provided it is large
@@ -90,8 +90,8 @@ or smaller.
 
 ```
 Light (Cantrip)
-Casting time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: 1 hour
 You touch an object that is at most 3 feet on one side. It emits bright light
 within 15 feet, and dim light for an additional 15 feet.
@@ -99,8 +99,8 @@ within 15 feet, and dim light for an additional 15 feet.
 
 ```
 Minor Illusion (Cantrip)
-Casting Time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: 1 hour
 You create a an illusion that fits inside a 5ft cube. It may take any shape or
 form, and may faintly glow. If you cast this spell again to create another
@@ -109,8 +109,8 @@ illusion, your previous illusion fades.
 
 ```
 Spare The Dying (Cantrip)
-Casting time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: Instantaneous
 You touch one creature that is dying, and they are instantly stabilized.
 Once you have used this spell on a creature, you may not use it on them again
@@ -119,8 +119,8 @@ until you finish a short rest.
 
 ```
 Eye Stone (Cantrip)
-Casting time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: Concentration, 1 minute
 You hold a stone in your hand and it forms into an eye that you can see through.
 If the eye stone is ever further than 120 feet from you, the spell ends and
@@ -129,8 +129,8 @@ the eye stone reverts back.
 
 ```
 Earth Whisper (Cantrip)
-Casting Time: 10 minutes
-Range: touch
+Casting Speed: 10 minutes
+Distance: touch
 Duration: Instantaneous
 You touch your ear to a patch of ground and ask it for it's wisdom.
 Make a spell check. The DC for this check is decided by the terrain type.
@@ -152,8 +152,8 @@ On a success, you may gain some of the following information:
 
 ```
 Phantom Whistle (Cantrip)
-Casting Time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: Instantaneous
 You designate one creature and whistle. To this creature the whistle
 is loud, but the whistle is inaudible to all other creatures.
@@ -161,8 +161,8 @@ is loud, but the whistle is inaudible to all other creatures.
 
 ```
 Long Ear (Cantrip)
-Casting Time: 1 minute
-Range: 120 feet
+Casting Speed: 1 minute
+Distance: 120 feet
 Duration: Instantaneous
 You press your ear to a door, wall, ceiling, or floor. 
 You may detect the following information:
@@ -174,8 +174,8 @@ You may detect the following information:
 
 ```
 Minute Conjuration (Cantrip)
-Casting Time: 1 action
-Range: self
+Casting Speed: 1 action
+Distance: self
 Duration: Concentration, 1 hour
 You hold out your hand and a glowing object appears in it. The object must be no
 more than 3 feet on one side, and must be an object you have seen before.
@@ -188,8 +188,8 @@ it disappears.
 
 ```
 Touch Light (Cantrip)
-Casting Time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: 1 minute
 You touch an object and create a point of light on it's surface that produces 
 bright light for 30 feet and dim light for another 30 feet. The target must make
@@ -199,8 +199,8 @@ duration, after which the spell ends.
 
 ```
 Lesser Telekinesis (Cantrip)
-Casting Time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: 1 minute
 You create an invisible hand out of force. The hand may lift an object that
 weighs no more than 10lb. You may use your bonus action to move the hand up to
@@ -209,8 +209,8 @@ weighs no more than 10lb. You may use your bonus action to move the hand up to
 
 ```
 Lay on hands (Cantrip)
-Casting Time: 1 minute
-Range: Touch
+Casting Speed: 1 minute
+Distance: Touch
 Duration: Instantaneous
 You touch one creature and make a spell check, healing according to the
 amount rolled.
@@ -228,8 +228,8 @@ amount rolled.
 
 ```
 Thaumaturgy (Cantrip)
-Casting Time: 1 action
-Range: Self
+Casting Speed: 1 action
+Distance: Self
 Duration: Instantaneous
 You take a deep breath, then let it out to produce one of the following
 effects.
@@ -243,8 +243,8 @@ effects.
 
 ```
 Bonfire (Cantrip)
-Casting Time: 1 action
-Range: 30ft
+Casting Speed: 1 action
+Distance: 30ft
 Duration: Concentration, 1 minute
 You point to a 5 foot square on the ground within range and a fire roars in that
 spot. Any creature that starts it's turn in the square or enters it for the
@@ -253,8 +253,8 @@ first time on their turn must succeed a DEX saving throw or take 1d8 fire damage
 
 ```
 Sparking Blade (Cantrip)
-Casting Time: 1 action
-Range: 30ft
+Casting Speed: 1 action
+Distance: 30ft
 Duration: Concentration, 1 minute
 Your blade sparks with a powerful electrical charge for the duration.
 The next melee attack you make causes the stored energy to surge. Regardless of whether the attack hits, the target receives 1d8 lightning damage. If the target is wearing armor, this attack deals 1d12 lightning damage instead.
@@ -262,8 +262,8 @@ The next melee attack you make causes the stored energy to surge. Regardless of 
 
 ```
 Death Grip (Cantrip)
-Casting Time: 1 action
-Range: 30ft
+Casting Speed: 1 action
+Distance: 30ft
 Duration: Instantaneous
 You grasp toward a creature's throat in range and they feel the grip on their
 throat. They must succeed a con save, or else receive 1d6 necrotic damage and
@@ -272,8 +272,8 @@ be unable to benefit from healing until the start of your next turn.
 
 ```
 Acid Splash (Cantrip)
-Casting Time: 1 action
-Range: 60ft
+Casting Speed: 1 action
+Distance: 60ft
 Duration: Instantaneous
 Choose one target in range, or two adjacent targets in range to hurl a bubble
 of acid at. They must succeed a DEX save or receive 1d6 acid damage.
@@ -281,8 +281,8 @@ of acid at. They must succeed a DEX save or receive 1d6 acid damage.
 
 ```
 Control Flames (Cantrip)
-Casting Time: 1 action
-Range: 60ft
+Casting Speed: 1 action
+Distance: 60ft
 Duration: Instantaneous or 1 hour
 Select non-magical fire within range that fits in a 5 foot cube. You cause one
 of the following effects.
@@ -296,8 +296,8 @@ of the following effects.
 
 ```
 Friends (Cantrip)
-Casting Time: 1 action
-Range: self
+Casting Speed: 1 action
+Distance: self
 Duration: Instantaneous
 Choose one creature that isn't hostile to you. You have advantage on charisma checks made against it. After the spell ends, the creature will realize that
 you used magic to tamper with it's mind.
@@ -305,8 +305,8 @@ you used magic to tamper with it's mind.
 
 ```
 Frostbite (Cantrip)
-Casting Time: 1 action
-Range: 60ft
+Casting Speed: 1 action
+Distance: 60ft
 Duration: Instantaneous
 Choose one creature you can see within range to coat with a numbing frost.
 It must succeed a constitution saving throw or take 1d6 cold damage and
@@ -316,8 +316,8 @@ turn.
 
 ```
 Viridescent blade (Cantrip)
-Casting Time: 1 action
-Range: self (15ft radius)
+Casting Speed: 1 action
+Distance: self (15ft radius)
 Duration: Instantaneous
 Make a melee attack with your melee weapon as part of casting this spell. On a
 hit, the target takes normal damage and you may choose one creature within 5ft
@@ -327,8 +327,8 @@ leaps from your blade and burns them.
 
 ```
 Gust (Cantrip)
-Casting Time: 1 action
-Range: 30ft
+Casting Speed: 1 action
+Distance: 30ft
 Duration: Instantaneous
 You command the air to create one of the effects below:
 - A medium or smaller creature of your choice must succeed a STR save or be pushed 5ft away from you.
@@ -338,8 +338,8 @@ You command the air to create one of the effects below:
 
 ```
 Vermin Cloud (Cantrip)
-Casting Time: 1 action
-Range: 30ft
+Casting Speed: 1 action
+Distance: 30ft
 Duration: Instantaneous
 A cloud of parasitic mites, fleas, or worms climbs up or descends upon one
 target in range. The target must succeed a CON save or take 1d6 poison damage
@@ -348,8 +348,8 @@ and run 5ft in a random direction if possible.
 
 ```
 Mind Sliver (Cantrip)
-Casting Time: 1 action
-Range: 60ft
+Casting Speed: 1 action
+Distance: 60ft
 Duration: 1 round
 You open your third eye and let it's gaze burn one target in range. The target
 must succeed an INT save to avoid taking 1d6 psychic damage and suffering a 1d4
@@ -359,8 +359,8 @@ next turn.
 
 ```
 Mold Earth (Cantrip)
-Casting Time: 1 action
-Range: 30ft
+Casting Speed: 1 action
+Distance: 30ft
 Duration: Instantaneous or 1 hour
 You command the Earth within a 5ft cube and cause it to change in one of the 
 following ways:
@@ -373,8 +373,8 @@ dispels the first.
 
 ```
 Poison Spray (Cantrip)
-Casting Time: 1 action
-Range: 10ft
+Casting Speed: 1 action
+Distance: 10ft
 Duration: Instantaneous
 You projecta puff of noxious gas toward one creature in sight. The creature 
 must succeed a CON save to avoid 1d12 poison damage.
@@ -382,8 +382,8 @@ must succeed a CON save to avoid 1d12 poison damage.
 
 ```
 Ray of Frost (Cantrip)
-Casting Time: 1 action
-Range: 60ft
+Casting Speed: 1 action
+Distance: 60ft
 Duration: Instantaneous
 You produce a beam of teal light aimed at one creature in range.  Make a ranged 
 spell attack which deals 1d8 cold damage on a hit.
@@ -391,8 +391,8 @@ spell attack which deals 1d8 cold damage on a hit.
 
 ```
 Shape Water (Cantrip)
-Casting Time: 1 action
-Range: 30ft
+Casting Speed: 1 action
+Distance: 30ft
 Duration: Instantaneous or 1 hour
 You command water within a 5ft cube and cause one of the following effects:
 - The water moves 5ft in any direction
@@ -403,8 +403,8 @@ You command water within a 5ft cube and cause one of the following effects:
 
 ```
 Shocking Grasp (Cantrip)
-Casting Time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: Instantaneous
 Choose one creature within range, which must succeed a DEX save or receive 1d8
 lightning damage and lose all reactions until the start of it's next turn.
@@ -413,16 +413,16 @@ If the creature is wearing or made of metal, it has disadvantage on this save.
 
 ```
 Thunderclap (Cantrip)
-Casting Time: 1 action
-Range: 5ft
+Casting Speed: 1 action
+Distance: 5ft
 Duration: Instantaneous
 You clap, producing a sound that can be heard for 100ft. Every creature within this spell's range must succeed a CON save to avoid 1d6 thunder damage.
 ```
 
 ```
 Druidcraft (Cantrip)
-Casting Time: 1 action
-Range: 30ft
+Casting Speed: 1 action
+Distance: 30ft
 Duration: Instantaneous
 You may create one of the following effects within this spell's range.
 - You create a harmless sensory effect which predicts the whether for the next 24 hours in your location.
@@ -434,8 +434,8 @@ You may create one of the following effects within this spell's range.
 
 ```
 Toll The Dead (Cantrip)
-Casting Time: 1 action
-Range: 60ft
+Casting Speed: 1 action
+Distance: 60ft
 Duration: Instantaneous
 You point at a creature and the sound of a funeral bell fills it's immediate 
 area. It must succeed a WIS save to avoid 1d8 necrotic damage. The damage increases to 1d12 if the target is missing any hit points.
@@ -443,8 +443,8 @@ area. It must succeed a WIS save to avoid 1d8 necrotic damage. The damage increa
 
 ```
 Produce Flame (Cantrip)
-Casting Time: 1 action
-Range: self
+Casting Speed: 1 action
+Distance: self
 Duration: 10 minutes
 A flame appears in your hand for the duration, producing 10ft of bright light and 10ft of dim light past that. The flame does not burn you. If you dismiss the flame as an action or cast this spell again, the spell ends.
 
@@ -453,8 +453,8 @@ If used as an attack, the spell ends afterward. As an action on a later turn, or
 
 ```
 Shillelagh (Cantrip)
-Casting Time: 1 bonus action
-Range: Touch
+Casting Speed: 1 bonus action
+Distance: Touch
 Duration: 1 minute
 You imbue a quarterstaff or club that you are holding with natural power. For the duration, attack and damage rolls with this weapon use your spellcasting ability instead of Strength, and the weapon's damage die becomes a d8. The weapon is considered magical during the spell's duration, and the spell ends if it is cast again, or if the weapon is let go of.
 ```
@@ -462,8 +462,8 @@ You imbue a quarterstaff or club that you are holding with natural power. For th
 
 ```
 Resistance (Cantrip)
-Casting Time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: Concentration, up to 1 minute
 You touch one willing creature, which is imbued with this ward. Within the 
 duration, the creature may receive a bonus d4 to one saving throw of it's choice, which can be rolled before or after making the save. Gaining this bonus ends the spell.
@@ -471,16 +471,16 @@ duration, the creature may receive a bonus d4 to one saving throw of it's choice
 
 ```
 Spare the dying (Cantrip)
-Casting Time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: Instantaneous
 You touch one living creature that has less than 1 hit point, and it is stabilized. Undead and constructs are unaffected by this magic.
 ```
 
 ```
 Word of Radiance (Cantrip)
-Casting Time: 1 action
-Range: 5ft
+Casting Speed: 1 action
+Distance: 5ft
 Duration: Instantaneous
 You speak a word which burns bright with radiant power. Each creature of your
 choice within range must succeed a CON save or take 1d6 radiant damage.
@@ -488,8 +488,8 @@ choice within range must succeed a CON save or take 1d6 radiant damage.
 
 ```
 Sanguine Sight (Cantrip)
-Casting time: 1 Bonus Action
-Range: Self
+Casting Speed: 1 Bonus Action
+Distance: Self
 Duration: Concentration, 1 minute
 You can see the auraus of any living creature which contains blood within 120
 feet of you and can see them through up to three feet of stone, one foot of
@@ -499,8 +499,8 @@ is still alive will also be visible this way for the duration.
 
 ```
 Vicious Mockery (Cantrip)
-Casting time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: Instantaneous
 You speak an insult against a creature that can hear you, who must succeed a WIS
 save or else receive 1d4 psychic damage and have disadvantage on the next attack
@@ -511,8 +511,8 @@ roll before the end of it's next turn.
 
 ```
 Faerie Fire (1st)
-Casting time: 1 action
-Range: 60ft
+Casting Speed: 1 action
+Distance: 60ft
 Duration: Concentration, up to 1 minute
 Select a 20ft cube centered on a point within range. All 
 creatures inside must succeed a DEX save or else become illuminated, creating light in a 10ft radius.
@@ -520,16 +520,16 @@ creatures inside must succeed a DEX save or else become illuminated, creating li
 
 ```
 Animal Friendship (1st)
-Casting time: 1 action
-Range: 30ft
+Casting Speed: 1 action
+Distance: 30ft
 Duration: 25 hours
 Choose a beast in range that can hear you and has an intelligence below 4. They must succeed a WIS save or become charmed. If one of your companions or you harms the creature, the charm ends.
 ```
 
 ```
 Dissonant Whispers (1st)
-Casting time: 1 action
-Range: 60ft
+Casting Speed: 1 action
+Distance: 60ft
 Duration: Instantaneous
 You whisper to one creature in range that can hear you, and 
 they must succeed a WIS save to halve 3d6 psychic damage and not immediately use it's reaction to move away, provided a
@@ -538,16 +538,16 @@ safe path exists.
 
 ```
 Speak with Animals (1st)
-Casting time: 1 action
-Range: Self
+Casting Speed: 1 action
+Distance: Self
 Duration: 10 minutes
 For the duration, you can comprehend and speak with beasts.
 ```
 
 ```
 Heroism (1st)
-Casting time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: Concentration, up to 1 minute
 You touch a creature and imbue it with bravery. The creature is immune to being frightened and gains temporary hit points
 equal to your spellcasting ablity modifier at the start of
@@ -556,8 +556,8 @@ each of their turns.
 
 ```
 Dazzling Light (1st)
-Casting time: 1 reaction, when a creature attempts to attack you from within 5ft
-Range: 5ft
+Casting Speed: 1 reaction, when a creature attempts to attack you from within 5ft
+Distance: 5ft
 Duration: Instantaneous
 You raise your hand and bright light flashes at the creature, partially blinding
 it. The creature must make a wisdom saving throw. On a success, they have
@@ -567,8 +567,8 @@ turn.
 
 ```
 Guiding Bolt (1st)
-Casting time: 1 action
-Range: 120ft
+Casting Speed: 1 action
+Distance: 120ft
 Duration: 1 round
 You blast a streak of light towards a creature of your choice within range.
 Make a ranged spell attack against the creature. On a hit, the creature takes
@@ -578,8 +578,8 @@ end of your next turn has advantage.
 
 ```
 Smite (1st)
-Casting time: 1 action
-Range: self
+Casting Speed: 1 action
+Distance: self
 Duration: Instantaneous
 You make an unarmed or weapon melee attack as part of this action, and your
 weapon or fist glows with radiant fire when you do. If the attack hits, this
@@ -590,8 +590,8 @@ radiant damage per level above first.
 
 ```
 Bane (1st)
-Casting time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: Concentration, up to 1 hour
 Up to 6 creatures in sight must succeed a wisdom saving throw or be charmed by
 this spell. While under the effect, the creatures have a -1d4 penalty to their
@@ -600,8 +600,8 @@ attack rolls and saving throws.
 
 ```
 Death ward (1st)
-Casting time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: Concentration, up to 1 hour
 You place a ward on one creature in range. For the duration, when this creature
 goes down, protective energy courses through them. While they are down, they
@@ -616,8 +616,8 @@ may effect one additional creature.
 
 ```
 Mana (1st)
-Casting time: 1 minute
-Range: Touch
+Casting Speed: 1 minute
+Distance: Touch
 Duration: Instantaneous
 You convert a pile of up to 20 rocks into mana. This fluffy, sweet-tasting pink
 bread has a delicate crust and will last for one week. Each loaf of mana counts
@@ -627,8 +627,8 @@ as one pound of food.
 
 ```
 Vine Suit (1st)
-Casting time: 1 action
-Range: Self
+Casting Speed: 1 action
+Distance: Self
 Duration: 1 hour
 You coax nearby plants to sprout into vines that cover your form. This grants
 you 1d4+2 temporary hit points and confers advantage on stealth checks made in
@@ -637,8 +637,8 @@ foiliage for the duration. This spell ends if you lose your temporary hit points
 
 ```
 Identify (1st, Ritual)
-Casting time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: Instantaneous
 You hold one object in your hand and immediately learn if it is a magical item,
 and what magic it contains. Curses are not revealed by this spell.
@@ -646,8 +646,8 @@ and what magic it contains. Curses are not revealed by this spell.
 
 ```
 Healing Word (1st)
-Casting time: 1 Bonus action
-Range: 60 feet
+Casting Speed: 1 Bonus action
+Distance: 60 feet
 Duration: Instantaneous
 You speak a holy word or phrase to one creature who can hear you within range.
 They gain hit points equal to 1d6 plus your spellcasting modifier.
@@ -655,8 +655,8 @@ They gain hit points equal to 1d6 plus your spellcasting modifier.
 
 ```
 Cure Wounds (1st)
-Casting time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: Instantaneous
 You touch one creature and grant them healing energy. They restore hit points
 equal to 1d10 plus your spellcasting modifier.
@@ -667,8 +667,8 @@ for each spell level above 1st.
 
 ```
 Shield of Faith (1st)
-Casting time: 1 action
-Range: self
+Casting Speed: 1 action
+Distance: self
 Duration: Concentration, 1 minute
 You hold out a spare hand and a glowing spectral shield appears in it. This
 shield increases your AC by +2.
@@ -676,8 +676,8 @@ shield increases your AC by +2.
 
 ```
 Calm Emotions (1st)
-Casting time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: Concentration, up to 1 hour
 You speak a calming phrase, quote a holy book, or sing a relaxing song to a creature which is intensely emotional and can understand you.
 The creature must succeed a wisdom saving throw, or feel calm. When the spell ends, the creature learns that you have used magic to manipulate them, but must
@@ -686,8 +686,8 @@ succeed an intelligence saving throw to feel anything but neutral about it.
 
 ```
 Command (1st)
-Casting time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: Instantaneous
 You speak a command word to one creature within range that can hear you. The
 creature must succeed a wisdom saving throw to avoid following the command.
@@ -700,8 +700,8 @@ The commands include:
 
 ```
 Ice Shield (1st)
-Casting Time: 1 bonus action
-Range: Self
+Casting Speed: 1 bonus action
+Distance: Self
 Duration: 1 minute
 You form water into a shield hooked to one of your arms, then freeze it. You are proficient
 with the shield and gain the normal +2 AC from it. After the duration, it melts. If an attack
@@ -710,8 +710,8 @@ roll misses you by 2 or less, it hits and destroys your ice shield.
 
 ```
 Splash Freeze (1st)
-Casting Time: 1 action
-Range: 15 foot cone
+Casting Speed: 1 action
+Distance: 15 foot cone
 Duration: You splash creatures within a 15 foot cone with water, then
 flash-freeze the water. The targets must make a constitution saving throw.
 On a failure, they take 2d6 cold damage and are restrained by ice until
@@ -720,8 +720,8 @@ the start of your next turn. On a success, they take half as much cold damage.
 
 ```
 Glowing Filament (1st)
-Casting Time: 1 action
-Range: 5ft
+Casting Speed: 1 action
+Distance: 5ft
 Duration: Concentration, up to 1 hour
 You suspend a small piece of metal in the air within 5ft of you and heat it until it glows.
 The glowing filament produces dim light in a 20 foot radius. You may end the spell by flinging
@@ -731,8 +731,8 @@ and ignites flammable objects that are not worn nor carried.
 
 ```
 Propelling Flame (1st)
-Casting Time: 1 action
-Range: 60ft
+Casting Speed: 1 action
+Distance: 60ft
 Duration: 1 round
 A jet of flame projects from each of your palms and you temporarily gain flight.
 All creatures within 5ft of you must succeed a dexterity saving throw or take 
@@ -744,8 +744,8 @@ substitute with 1d4.
 
 ```
 Psionic Lasso (1st)
-Casting Time: 1 action
-Range: 60ft
+Casting Speed: 1 action
+Distance: 60ft
 Duration: Instantaneous
 You use your action to focus your psychic energy on one creature within 60ft, 
 attempting to grapple them with your mind. Make an intelligence check and add 
@@ -759,8 +759,8 @@ die again. If you did not cast this spell with a psionic die, substitute with
 
 ```
 Mind Blade (1st)
-Casting Time: 1 bonus action
-Range: self
+Casting Speed: 1 bonus action
+Distance: self
 Duration: Concentration, up to 1 minute
 You use your bonus action to envision yourself holding a longsword in an empty 
 hand and your psionic energy manifests to create an invisible blade of force. 
@@ -772,8 +772,8 @@ cast this spell with a psionic die, substitute with 1d4. The blade's base damage
 
 ```
 Missile Wall (1st)
-Casting Time: Reaction, when a ranged attack targets you.
-Range: Self
+Casting Speed: Reaction, when a ranged attack targets you.
+Distance: Self
 Duration: 1 round
 You sense incoming projectiles and use your reaction to attempt to stop them. 
 Until the start of your next turn, you may subtract the amount you rolled on 
@@ -789,8 +789,8 @@ cast this spell with a psionic die, substitute with 1d4.
 
 ```
 Force Field (1st)
-Casting Time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: 1 round
 You use your action to project a field of psionic force around one creature you
 touch. Until the start of your next turn, the creature is resistant to force
@@ -800,8 +800,8 @@ damage on a success and half damage on a failed save.
 
 ```
 Pyro-osmosis (1st)
-Casting Time: 10 minutes
-Range: Touch
+Casting Speed: 10 minutes
+Distance: Touch
 Duration: 8 hours
 You use your action to place your hands over an open flame roughly the size of 
 a bonfire and attempt to consume it. If your psionic die rolls higher than a one
@@ -814,8 +814,8 @@ hours.
 
 ```
 Sculpt Ice (1st level, Ritual)
-Casting Time: 1 action
-Range: 10 feet
+Casting Speed: 1 action
+Distance: 10 feet
 Duration: Instantaneous
 You target a piece of ice that can fit in a 5 foot cube and sculpt it to an arbitrary shape.
 You can shape it in the form of a one-handed martial melee weapon(other than a whip).
@@ -824,8 +824,8 @@ If an ice weapon deals more than 4 damage with a specific attack, it is destroye
 
 ```
 Enthrall (1st)
-Casting Time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: 1 Minute
 You speak distractingly to creatures of your choice that can 
 hear you within range, forcing them to make a WIS save to 
@@ -838,8 +838,8 @@ lose the ability to speak.
 ```
 ```
 Mirror Image (1st)
-Casting Time: 1 action
-Range: Self
+Casting Speed: 1 action
+Distance: Self
 Duration: 1 minute
 You create three illusory duplicates of yourself, which move with you and mimic your actions, shifting positions in such a way that it's impossible for others to track which image is real.
 
@@ -850,32 +850,32 @@ Duplicates have an AC of 10 + your DEX, and are destroyed it hit by an attack, b
 
 ```
 Magic Mouth (1st, ritual)
-Casting Time: 1 minute
-Range: 30 feet
+Casting Speed: 1 minute
+Distance: 30 feet
 Duration: Until Dispelled
 You embed a 25 word message within an object in range and set a trigger condition that causes it to be spoken aloud. When triggered, a magical mouth appears, or else an existing mouth or mouth-like section of th object moves as a mouth. Triggers must be based on visual or audible conditions within a range of 30ft of the object.
 ```
 
 ```
 Magic Missile (1st)
-Casting Time: 1 action
-Range: 120 feet
+Casting Speed: 1 action
+Distance: 120 feet
 Duration: Instantaneous
 You fire three darts that fly through the air towards up to three targets. Each dart hits its target, dealing 1d4+1 force damage.
 ```
 
 ```
 Shield (1st)
-Casting Time: 1 reaction, taken when you are attacked
-Range: self
+Casting Speed: 1 reaction, taken when you are attacked
+Distance: self
 Duration: 1 round
 A shimmering transluscent dome of force appears around you. Your AC increases by +5, and if you are targeted by Magic Missile, you are not hit by any of the darts. If even with this +5 bonus, you would be hit by the attack, you cannot cast this spell. The effect lasts until the start of your next turn.
 ```
 
 ```
 Instant Athlete (1st)
-Casting Time: 1 action
-Range: touch
+Casting Speed: 1 action
+Distance: touch
 Duration: Concentration, up to 1 minute
 You touch one creature, and they suddenly feel a heightened sense of athleticism.
 Their speed increases by 10 feet, and they have advantage on athletic and
@@ -884,8 +884,8 @@ acrobatics checks for the duration.
 
 ```
 Hasty Retreat (1st)
-Casting Time: 1 bonus action
-Range: touch
+Casting Speed: 1 bonus action
+Distance: touch
 Duration: 1 minute
 You touch one creature, and as a reaction they may take the dash action and use
 the gained movement. For the duration, they may use their bonus action in order
@@ -894,16 +894,16 @@ to use the dash action.
 
 ```
 Self deception (1st level, Ritual)
-Casting Time: 1 minute
-Range: self
+Casting Speed: 1 minute
+Distance: self
 Duration: Instantaneous
 YTou tell yourself a lie for one minute, and then you believe it to be true. If asked about the lie, insight checks will reveal that you seem to be telling the truth even if your answers are false. If you tell this lie to others, you make persuasion checks instead of deception checks. You never remember casting this spell.
 ```
 
 ```
 Protection from good and evil (1st)
-Casting Time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: Concentration, 1 minute
 You target one creature within range and they become fortified. Harmful spells and attack rolls from fiends and celestials have disadvantage on this creature, and saving throws against harmful spells have advantage. This creature likewise cannot be charmed by fiends or celestials for the duration. 
 At higher levels: When you cast this psell as a 2nd or higher level spell, you may target one additional creature each level above 1st.
@@ -911,8 +911,8 @@ At higher levels: When you cast this psell as a 2nd or higher level spell, you m
 
 ```
 Magic Caltrops (1st)
-Casting Time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: Concentration, up to 1 minute
 You hold the tiny pyramid in your hand and it produces dozens of spectral copies
 of itself that fill you hands. You then throw these pyramids across four
@@ -923,8 +923,8 @@ force damage.
 
 ```
 Catapult (1st)
-Casting Time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: Instantaneous
 You levitate one object, then send it hurdling in a straight line up to the
 maximum range of the spell. One at a time, each creature in the path must
@@ -934,8 +934,8 @@ damage, and end the spell.
 
 ```
 Vorpal Snare (1st)
-Casting Time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: Concentration, up to 1 minute
 You throw a rope at a medium or smaller creature within range and it becomes
 animated and moves like a snake, attempting to ensnare a target. The target must
@@ -949,8 +949,8 @@ instead grappled.
 
 ```
 Absorb Element (1st)
-Casting Time: 1 reaction, when taking fire, cold, lightning, acid, or poison damage
-Range: Self
+Casting Speed: 1 reaction, when taking fire, cold, lightning, acid, or poison damage
+Distance: Self
 Duration: 1 round
 You outstretch your hand and your body begins to absorb the element that you are
 being damaged with. For the duration, you have resistance against the relevant
@@ -961,8 +961,8 @@ the end of your next turn.
 
 ```
 Beast Aspect (1st)
-Casting Time: 1 bonus action 
-Range: Self
+Casting Speed: 1 bonus action 
+Distance: Self
 Duration: Concentration, 1 hour
 You imbue yourself with one of the following abilities for the duration.
 
@@ -973,8 +973,8 @@ Gills: You gain a swim speed equal to your movement speed and may breath under w
 
 ```
 False Life (1st)
-Casting Time: 1 action 
-Range: Self
+Casting Speed: 1 action 
+Distance: Self
 Duration: 1 hour
 You augment your vitality with that of undead energy.
 You gain 10 temporary hit points.
@@ -984,8 +984,8 @@ an additional 5 temporary hit points per level above 1st.
 
 ```
 Push (1st)
-Casting Time: 1 action 
-Range: Touch
+Casting Speed: 1 action 
+Distance: Touch
 Duration: Instantaneous
 You touch one creature and they are pushed 15 feet away from you. If their path
 collides with another creature, then each creature must succeed a dexterity
@@ -995,8 +995,8 @@ object, wall, ground, or ceiling, they instead receive 1d6 bludgeoning damage.
 
 ```
 Pull (1st)
-Casting Time: 1 bonus action 
-Range: 60 feet
+Casting Speed: 1 bonus action 
+Distance: 60 feet
 Duration: Instantaneous
 You gesture at one creature in range that you can see to come your way. They
 are pulled 15 feet toward you. If their path collides with another creature,
@@ -1006,8 +1006,8 @@ instead collide with an object, they receive 1d6 bludgeoning damage.
 
 ```
 Ice Tomb (1st)
-Casting Time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: Concentration, 1 minute
 Make a ranged spell attack against one creature within range. If it hits, the creature receives 1d12+8 cold damage. If you miss, the spell ends. For the duration, you may use your action to continue the effect of the spell, dealing an additional 1d12 cold damage. If you do not continue the spell, it ends. If the target falls below 0 hit points, they are frozen solid and
 instantly killed.
@@ -1015,8 +1015,8 @@ instantly killed.
 
 ```
 Jump (1st)
-Casting Time: 1 bonus action
-Range: Self
+Casting Speed: 1 bonus action
+Distance: Self
 Duration: 1 minute
 You feel the strength of your legs magically augmented. You may jump 20 feet
 vertically or horizontally, and falling from 20 or less feet does not deal fall
@@ -1026,16 +1026,16 @@ instead of 20.
 
 ```
 Bless (1st)
-Casting Time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: Concentration, up to 1 minute
 Up to three creatures you can see in range are blessed. Their attack rolls and
 saving throws receive a bonus of 1d4 for the duration.
 ```
 ```
 Create or Destroy Water (1st)
-Casting Time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: Instantaneous
 Create Water: You create 10 gallons of water in a container, or otherwise falling as rain in a 30ft cube.
 
@@ -1044,64 +1044,64 @@ Destroy water: Up to 10 gallons of water or a 30ft cube of fog are destroyed.
 
 ```
 Detect Evil And Good (1st)
-Casting Time: 1 action
-Range: self
+Casting Speed: 1 action
+Distance: self
 Duration: Concentration, up to 10 minutes
 For the duration, the presence of any aberration, celestial, elemental, fey, fiend, or undead within 30ft of you becomes apparent. The spell can penetrate one foot of stone, one inch of common metal, a thin sheet of lead, or three feet of wood or dirt.
 ```
 
 ```
 Detect Magic (1st, Ritual)
-Casting Time: 1 action
-Range: Self
+Casting Speed: 1 action
+Distance: Self
 Duration: Concentration, up to 10 minutes
 For the duration, you can see magic within a 30ft radius of you. The spell can penetrate one foot of stone, one inch of common metal, a thin sheet of lead, or three feet of wood or dirt.
 ```
 
 ```
 Detect Poison and Disease (1st)
-Casting Time: 1 action
-Range: Self
+Casting Speed: 1 action
+Distance: Self
 Duration: Concentration, up to 10 minutes
 For the duration, you can identify any poisons or diseases within 30ft of you. The spell can penetrate one foot of stone, one inch of common metal, a thin sheet of lead, or three feet of wood or dirt.
 ```
 
 ```
 Inflict Wounds (1st)
-Casting Time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: Instantaneous
 Make a melee spell attack against a creature, dealing 3d10 necrotic damage on a hit.
 ```
 
 ```
 Sanctuary (1st)
-Casting Time: 1 bonus action
-Range: 30 feet
+Casting Speed: 1 bonus action
+Distance: 30 feet
 Duration: 1 minute
 You place a ward on one creature within range that you can see. Any creature targeting the warded creature with an attack or harmful spell must succeed a Wisdom save, select a new target, or lose the spell or attack.
 ```
 
 ```
 Purify Drink or Food (1st)
-Casting Time: 1 action
-Range: 10 feet
+Casting Speed: 1 action
+Distance: 10 feet
 Duration: Instantaneous
 Within a 5ft radius sphere centered on a point in range, you render all nonmagical food and drink purified and free of poison and disease.
 ```
 
 ```
 Alarm (1st, Ritual)
-Casting Time: 1 minute
-Range: 30ft
+Casting Speed: 1 minute
+Distance: 30ft
 Duration: 8 Hours
 You set a ward which detects unwanted intrusion. Choose a door, window, threshold, or an area within range that is no larger than a 20ft cube. Until the spell ends, an alarm is triggered every time a tiny or larger creature touches or enters the wartded area. At the time of casting, you may define creatures that won't set off the alarm, and may choose to make the alarm audible to all within 60ft, or only inside your mind within a 1 mile radius.
 ```
 
 ```
 Cause Fear (1st)
-Casting Time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: Concentration, up to 1 minute
 Your eyes burn toward one creature in sight, which cannot be a construct or
 undead. The target must succeed a wisdom save or become freightened until the 
@@ -1111,8 +1111,8 @@ turns to  end the spell.
 
 ```
 Charm Person (1st)
-Casting Time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: 1 hour
 One creature you see within range is targeted by your charm magic. It must 
 succeed a WIS save or become charmed. This check is made with advantage if you 
@@ -1122,8 +1122,8 @@ the creature, the spell's effect ends.
 
 ```
 Chromatic Orb (1st)
-Casting Time: 1 action
-Range: 10 feet
+Casting Speed: 1 action
+Distance: 10 feet
 Duration: Instantaneous
 A 4-inch diameter sphere of energy appears in your palm, and you hurl it at one 
 creature that you can see within range. You may choose acid, cold, fire, 
@@ -1133,8 +1133,8 @@ attack. On a hit, the creature takes 3d8 damage of the chosen type.
 
 ```
 Color Spray (1st)
-Casting Time: 1 action
-Range: self (15 foot cone)
+Casting Speed: 1 action
+Distance: self (15 foot cone)
 Duration: 1 round
 Roll 6d10 to get your total. The DM starts with the lowest hit point conscious 
 creature in range. If the creatures HP is equal or less than the total, subtract
@@ -1145,8 +1145,8 @@ next turn.
 
 ```
 Comprehend Languages (1st, Ritual)
-Casting Time: 1 action
-Range: self
+Casting Speed: 1 action
+Distance: self
 Duration: 1 hour
 For the duration, you understand the literal meaning of any spoken language you 
 hear with your ears. If you touch a surface, you may likewise understand a 
@@ -1158,16 +1158,16 @@ of a written language, such as a magic glyph or circuitry.
 
 ```
 Disguise Self (1st)
-Casting Time: 1 action
-Range: self
+Casting Speed: 1 action
+Distance: self
 Duration: 1 hour
 You disguise your body, clothing, armor, weapons, and any other posessions to assume the form of one other creature. You may use your action to dismiss it. These changes are not physical and do not hold up to close scrutiny. If you create a hat, objects may pass through it. An investigation check opposing your spell DC may overcome the disguise.
 ```
 
 ```
 Distort Value (1st)
-Casting Time: 1 Minute
-Range: Touch
+Casting Speed: 1 Minute
+Distance: Touch
 Duration: 8 hours
 Select one object no more than 1 foot on a side. The object's perceived value
 doubles, or halves. With an investigation check opposing your spell DC, a
@@ -1176,24 +1176,24 @@ creature may see through this illusion.
 
 ```
 Earth Tremor (1st)
-Casting Time: 1 action
-Range: 10 feet
+Casting Speed: 1 action
+Distance: 10 feet
 Duration: Instantaneous
 A tremor shakes the land within range. Creatures other than you in the area must each make a DEX save to avoid taking 1d6 bludgeoning damage and falling prone. On loose Earth or stone, the ground becomes difficult terrain until cleared, with each 5ft square requiring 1 minute to clear by hand.
 ```
 
 ```
 Feather Fall (1st)
-Casting Time: 1 reaction, taken when you or a creature within 60ft falls.
-Range: 60ft
+Casting Speed: 1 reaction, taken when you or a creature within 60ft falls.
+Distance: 60ft
 Duration: 1 minute
 Up to five falling creatures begin falling at a rate of 60ft per round until the spell ends. Landing while the spell is active prevents any fall damage.
 ```
 
 ```
 Find Familiar (1st, ritual)
-Casting Time: 1 hour
-Range: 10 feet
+Casting Speed: 1 hour
+Distance: 10 feet
 Duration: Instantaneous
 You summon a familiar, a spirit that assumes the form of one of the following
 animals: bat, cat, crab, frog, toad, hawk, lizard, octopus, owl, poisonous snake, fish, rat, raven, sea horse, spider, or weasel. They share your turn
@@ -1208,8 +1208,8 @@ you are within 100ft of your familiar.
 
 ```
 Fog Cloud (1st)
-Casting Time: 1 action
-Range: 120 feet
+Casting Speed: 1 action
+Distance: 120 feet
 Duration: Concentration, 1 hour
 A 20-foot-radius sphere of fog appears centered on a point of your choice 
 within range. The area inside the cloud is heavily obscured, and thus not 
@@ -1218,8 +1218,8 @@ visible. A wind exceeding 10 miles per hour may move the cloud.
 
 ```
 Frost Fingers (1st)
-Casting Time: 1 action
-Range: self (15 foot cone)
+Casting Speed: 1 action
+Distance: self (15 foot cone)
 Duration: Instantaneous
 Each creature within a 15 foot cone must succeed a CON save to halve 2d8 cold 
 damage. The effect freezes nonmagical liquids within range that aren't worn or 
@@ -1228,8 +1228,8 @@ carried.
 
 ```
 Burning Hands (1st)
-Casting Time: 1 action
-Range: self (15 foot cone)
+Casting Speed: 1 action
+Distance: self (15 foot cone)
 Duration: Instantaneous
 Each creature within a 15 foot cone must succeed a CON save to halve 3d6 fire 
 damage. The effect ignites flammable objects within range that aren't worn or 
@@ -1239,8 +1239,8 @@ carried.
 
 ```
 Grease (1st)
-Casting Time: 1 action
-Range: 60ft
+Casting Speed: 1 action
+Distance: 60ft
 Duration: 1 minute
 A 10-foot square centered on a point within range is suddenly covered in 
 grease, becoming difficult terrain. Each creature in this space when it turns 
@@ -1250,8 +1250,8 @@ rapidly and deals 1d10 fire damage to all standing on it.
 
 ```
 Ice Knife (1st)
-Casting Time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: Instantaneous
 A shard of ice appears in your hand and you throw it at one creature in range. 
 Make a ranged spell attack against the creature. On a hit, the creature takes 
@@ -1262,24 +1262,24 @@ damage.
 
 ```
 Mage Armor (1st)
-Casting Time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: 8 hours
 Touch one creature that is willing and isn't wearing armor to surround them in protective magic. The target's AC becomes 13+ their DEX mod. The spell ends if the creature dons armor or if you dismiss the spell as an action.
 ```
 
 ```
 Ray of Sickness (1st)
-Casting Time: 1 action
-Range: 60ft
+Casting Speed: 1 action
+Distance: 60ft
 Duration: Instantaneous
 You blast a ray of sickening green energy at a creature within range. Make a ranged spell attack against the creature. On a hit, the creature takes 2d8 poison damage and must make a CON save to avoid being poisoned until the end of your next turn.
 ```
 
 ```
 Silent Image (1st)
-Casting Time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: Concentration, up to 10 minutes
 You create a 3D image that is no larger than a 15-foot cube in a spot centered
 on a point within range which lasts for the duration. You can reposition the image anywhere within range using your action. The image is accompanied by no 
@@ -1289,8 +1289,8 @@ check against your spell DC reveals the image to be an illusion.
 
 ```
 Sleep (1st)
-Casting Time: 1 action
-Range: 90 feet
+Casting Speed: 1 action
+Distance: 90 feet
 Duration: 1 minute
 Pick a point within range. All creatures within 20ft of that point are in range 
 of the effect. Roll 5d8 to get your total. The DM starts with the lowest hit 
@@ -1303,8 +1303,8 @@ damage.
 
 ```
 Snare (1st)
-Casting Time: 1 minute
-Range: Touch
+Casting Speed: 1 minute
+Distance: Touch
 Duration: 8 hours
 Use the rope to create a 5-foot radius circle on the ground. The rope turns 
 nearly invisible, creating a magical trap. A successful investigation check 
@@ -1317,8 +1317,8 @@ end of their turn.
 
 ```
 Caustic Brew (1st)
-Casting Time: 1 action
-Range: Self(30-foot line)
+Casting Speed: 1 action
+Distance: Self(30-foot line)
 Duration: concentration, up to 1 minute
 You spray a stream of acid in a 30ft long, 5ft wide line in a direction of your 
 choice. Every creature hit must succeed a DEX save or be covered in acid for 
@@ -1328,8 +1328,8 @@ be scraped or washed off using an action.
 
 ```
 Hideous Laughter (1st)
-Casting Time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: concentration, up to 1 minute
 Choose a creature within range that you can see. They perceive everything as 
 hilariously funny and fall into fits of laughter. The target must succeed a WIS 
@@ -1342,8 +1342,8 @@ taking damage.
 
 ```
 Floating Disk (1st, Ritual)
-Casting Time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: 1 hour
 You create a disk of force 3 feet in dameter and 1 inch thick that floats 3 
 feet above the ground in an unoccupied space of your choosing that you can see 
@@ -1355,32 +1355,32 @@ it cross a 10ft hole, but it can climb stairs and move over difficult terrain.
 
 ```
 Thunderwave (1st)
-Casting Time: 1 action
-Range: self(5ft radius)
+Casting Speed: 1 action
+Distance: self(5ft radius)
 Duration: Instantaneous
 Every creature within range must succeed a CON save to halve 2d8 thunder damage and avoid being pushed 10ft away in a straight line. Unsecured objects are pushed 10 feet away, and the thunder is audible out to 300 feet.
 ```
 
 ```
 Longstrider (1st)
-Casting Time: 1 action
-Range: touch
+Casting Speed: 1 action
+Distance: touch
 Duration: 1 hour
 One creature you touch has it's speed increased by 10ft until the spell ends.
 ```
 
 ```
 Entangle (1st)
-Casting Time: 1 action
-Range: 90ft
+Casting Speed: 1 action
+Distance: 90ft
 Duration: Concentration, up to 1 minute
 A 20ft square within range fills with grasping vegetation, forcing all creatures in the area to succeed a STR save or become restrained until the spell ends. A creature can make a STR check to free itself using it's action. When the spell ends, the plants that were conjured die and wither.
 ```
 
 ```
 Unseen Servant (1st, Ritual)
-Casting Time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: 1 hour
 You create an invisible, mindless, shapeless, medium force that performs simple
 tasks at your command until the spell ends. The servant has an AC of 10, 1 hit 
@@ -1391,8 +1391,8 @@ mending, folding clothes, serving food, etc.
 
 ```
 Witch Bolt (1st)
-Casting Time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: Concentration, up to 1 minute
 You fire a beam of crackling purple energy at a creature within range, forming
 an arc of lightning between yourself and the target. The attack deals 1d12 lightning damage on a hit, and you may use your action to deal 1d12 lightning damage again on subsequent turns. If you use your action for anything else, or the target enters full cover, the spell ends.
@@ -1400,8 +1400,8 @@ an arc of lightning between yourself and the target. The attack deals 1d12 light
 
 ```
 Diagnose Curse (1st, Ritual)
-Casting time: 1 minute
-Range: Touch
+Casting Speed: 1 minute
+Distance: Touch
 Duration: Instantaneous
 You touch one creature, object, or surface and immediately learn if about one
 curse affecting it. You learn what the curse is, what it's current effects are,
@@ -1410,8 +1410,8 @@ and what will break the curse.
 
 ```
 Hellish Rebuke (1st)
-Casting time: 1 reaction, when you receive damage from an attack
-Range: 60ft
+Casting Speed: 1 reaction, when you receive damage from an attack
+Distance: 60ft
 Duration: Instantaneous
 You call out a short phrase of rebuke against one creature within range that
 has attacked you and spit a ball of flame at them. They must succeed a dEX 
@@ -1420,16 +1420,16 @@ saving throw to avoid taking 2d10 fire damage.
 
 ```
 Blood Respite (1st)
-Casting time: 1 bonus action 
-Range: Touch
+Casting Speed: 1 bonus action 
+Distance: Touch
 Duration: Instantaneous
 You touch one creature and grant them 1d8 temporary hit points.
 ```
 
 ```
 Softening Hex (1st)
-Casting time: 1 bonus action 
-Range: 90 feet
+Casting Speed: 1 bonus action 
+Distance: 90 feet
 Duration: Concentration, up to 1 hour
 You target one creature in range that you can see, and until the spell ends your
 attacks against them deal an additional 1d6 necrotic damage. You may use your 
@@ -1438,8 +1438,8 @@ bonus action to transfer targets when your current target drops to 0 hit points.
 
 ```
 Weakening Hex (1st)
-Casting time: 1 bonus action 
-Range: 90 feet
+Casting Speed: 1 bonus action 
+Distance: 90 feet
 Duration: Concentration, up to 1 hour
 You target one creature in range that you can see, and select one ability. When
 the creature makes an ability check, skill check, or saving throw with the 
@@ -1450,8 +1450,8 @@ the spell.
 
 ```
 Ice Armor (1st)
-Casting time: 1 action 
-Range: self
+Casting Speed: 1 action 
+Distance: self
 Duration: 1 hour
 You pour water over yourself and it forms around you into shards of magical ice 
 armor. You gain 5 temporary hit points. While your armor is still intact and
@@ -1464,8 +1464,8 @@ both the temporary hit points and cold damage increase by 5.
 
 ```
 Arms of the void (1st)
-Casting time: 1 action 
-Range: self
+Casting Speed: 1 action 
+Distance: self
 Duration: 1 hour
 You touch your index finger to your thumb and open a rift to a void dimension
 within the space. Black tendrils emerge from the rift and lash out at all 
@@ -1481,8 +1481,8 @@ increases by 1d6 for each level above 1st.
 
 ```
 Arcane Lock (2nd)
-Casting Time: 1 action 
-Range: Touch
+Casting Speed: 1 action 
+Distance: Touch
 Duration: Until Dispelled
 You touch a shut door, window, gate, chest, or other physical opening, and it becomes locked for the duration. You may designate creatures when you cast this spell, allowing yourself and them to to open the object normally. You may also set a password that allows the object to open when spoken. It's otherwise impossible to open the object until either the object is broken or the spell is dispelled or suppressed. The knock spell suppresses arcane lock for a 10 minute period.
 
@@ -1491,40 +1491,40 @@ The DC to break open or pick increases by 10.
 
 ```
 Acid Arrow (2nd)
-Casting Time: 1 action
-Range: 90 feet
+Casting Speed: 1 action
+Distance: 90 feet
 Duration: Instantaneous
 An arrow glittering with green materializes before you, then flies toward a target and bursts into acid. Make a spell attack, dealing 4d4 acid damage and 2d4 acid damage at the end of the creature's next turn on a hit, or only 2d4 acid damage on a miss.
 ```
 
 ```
 Mind Spike (2nd)
-Casting Time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: Concentration, up to 1 hour
 Select one creature you can see within range, then reach into their mind. The creature makes a WIS save to halve 3d8 damage and avoid allowing you to know it's location until the spell ends.
 ```
 
 ```
 Glowing Coin (2nd)
-Casting Time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: 1 minute
 Hurl a coin to a point in range, causing the coin to light up with the intensity of a torch. Creatures of your choice within a 30ft radius of the coin make a WIS save to avoid being distracted by the coin, gaining disadvantage on perception checks and initiative rolls.
 ```
 
 ```
 See Invisibility (2nd)
-Casting Time: 1 action
-Range: self
+Casting Speed: 1 action
+Distance: self
 Duration: 1 hour
 You can see invisible creatures and object for the duration, and you can likewise see creatures and objects in the ethereal plane as slightly transparent and ghostly.
 ```
 
 ```
 Magic Weapon (2nd)
-Casting Time: 1 bonus action
-Range: Touch
+Casting Speed: 1 bonus action
+Distance: Touch
 Duration: concentration, up to 1 hour
 You touch one non-magical weapon and turn it into a magic weapon with a +1 bonus to attack rolls and damage rolls.
 
@@ -1533,8 +1533,8 @@ If you cast this spell as 4th or higher, the bonus becomes +2.
 
 ```
 Knock (2nd)
-Casting Time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: Instantaneous
 Choose a door, box, chest, padlock, or other mundanely locked object. It's now unstuck, unlocked, or unbarred, albeit only one lock is unlocked if it has multiple.
 
@@ -1545,16 +1545,16 @@ This spell creates a loud knock audible for 300 feet.
 
 ```
 Blindness/deafness (2nd)
-Casting Time: 1 action
-Range: 30ft
+Casting Speed: 1 action
+Distance: 30ft
 Duration: 1 minute
 Choose one creature within range that you can see. They must make a CON save, or else be either blinded or deafened(your choice). At the end of each of their turns, they may remake the CON save to end the effect.
 ```
 
 ```
 Kinetic Jaunt (2nd)
-Casting Time: 1 action 
-Range: Self
+Casting Speed: 1 action 
+Distance: Self
 Duration: Concentration, up to 1 minute
 Magic flows through you, and you take on a dancing movement that grants you the following benefits:
 - Your speed increases by 10ft
@@ -1564,40 +1564,40 @@ Magic flows through you, and you take on a dancing movement that grants you the 
 
 ```
 Blur (2nd)
-Casting Time: 1 action 
-Range: Self
+Casting Speed: 1 action 
+Distance: Self
 Duration: Concentration, up to 1 minute
 Your apparent form is blurred, sporadically deforming and snapping between multiple positions within the space you currently occupy. Creatures targeting you have disadvantage on attack rolls, unless they don't rely on sight, or can see through illusions.
 ```
 
 ```
 Borrowed Knowledge (2nd)
-Casting Time: 1 action
-Range: Self
+Casting Speed: 1 action
+Distance: Self
 Duration: 1 hour
 You channel the expertise of spirits from the past. Either choosea skill you lack proficiency for, and gain proficiency. Or, choose a skill you have proficiency for, and you now have expertise in it. Casting this spell ends any existing effects from it.
 ```
 
 ```
 Cloud of Daggers (2nd)
-Casting Time: 1 action
-Range: 60ft
+Casting Speed: 1 action
+Distance: 60ft
 Duration: Concentration, up to 1 minute
 Designate a 5ft cube centered on a point within range, which is now filled with whirling, flying daggers. Any creatures that enter the spell's area take 4d4 slashing damage, as do creatures who start their turn in the space. 
 ```
 
 ```
 Continual Flame (2nd)
-Casting Time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: Until Dispelled
 You pour 25GP worth of ruby dust onto a space. A ruby red flame burns with neither heat nor smoke, consuming no oxygen. The continual Flame cannot be moved, and if applied to an object that moves, will be suspended in the air.
 ```
 
 ```
 Crown of Madness (2nd)
-Casting Time: 1 action
-Range: 120ft
+Casting Speed: 1 action
+Distance: 120ft
 Duration: Concentration, up to 1 minute
 Select a humanoid you can see within range. It must succeed a WIS save or else be charmed by you for the duration. A creature charmed by this spell must make a melee attack against another creature of your choice that you choose. It acts normally if you specify no target for it, and makes this attack before movement.
 
@@ -1606,8 +1606,8 @@ On following turns, you may use your action to maintain this spell, allowing the
 
 ```
 Radiant Weapon (2nd)
-Casting time: 1 action
-Range: touch
+Casting Speed: 1 action
+Distance: touch
 Duration: Concentration, 1 minute
 You speak a command word and the weapon in your hand burns with a radiant flame.
 For the duration, your attacks with this weapon deal an additional 1d8 radiant
@@ -1618,8 +1618,8 @@ the damage increases by 1d8 for each level.
 
 ```
 Holy Weapon (2nd)
-Casting time: 1 bonus action
-Range: 60 feet
+Casting Speed: 1 bonus action
+Distance: 60 feet
 Duration: Concentration, 1 minute
 You conjure a spectral weapon of your deity which floats in the air in a point
 within range, and it attacks a creature. Make a melee spell attack. On a hit,
@@ -1630,8 +1630,8 @@ At higher levels: When cast at a 3rd or higher level, the damage increases by
 
 ```
 Bird Friend(2nd)
-Casting time: 1 action
-Range: 1 mile
+Casting Speed: 1 action
+Distance: 1 mile
 Duration: 8 hours
 A bird appears from thin air, imbued with a friendly celestial spirit. You may whisper to it a destination within range,
 and it will attempt to fly to this location, survey it, and return to tell you the lay of the land. The bird has an AC
@@ -1640,8 +1640,8 @@ of 16 and 1 hit point. It disappears once it tells you about what it saw or the 
 
 ```
 Psionic Bridge (2nd)
-Casting Time: 1 action
-Range: 30ft
+Casting Speed: 1 action
+Distance: 30ft
 Duration: Concentration, up to 1 minute
 You use your action to create a 30ft long invisible bridge of psionic force. 
 One end may be up to 30ft higher than the other. This bridge lasts one minute
@@ -1650,8 +1650,8 @@ and requires concentration.
 
 ```
 Hypnotic Trigger (2nd)
-Casting Time: 1 minute
-Range: 120 feet
+Casting Speed: 1 minute
+Distance: 120 feet
 Duration: Concentration, up to 8 hours
 You spend 1 minute conditioning a target to perform a specific task when a trigger is present,
 specifying both the action and trigger. If you attempt to obscure or obfuscate the process, the 
@@ -1664,8 +1664,8 @@ If the Task would normally consume an action or bonus action, it instead consume
 
 ```
 Flying Weapon (2nd)
-Casting Time: Bonus action
-Range: 60 feet
+Casting Speed: Bonus action
+Distance: 60 feet
 Duration: Concentration, up to 1 minute
 You cause one melee weapon to levitate in the air within range and make a melee
 spell attack to perform an attack with it. The weapon's damage is determined 
@@ -1680,8 +1680,8 @@ of the weapon and receive 1d4 damage of the weapon's type.
 
 ```
 Water Walk (2nd level, Ritual)
-Casting Time: 1 action
-Range: Self
+Casting Speed: 1 action
+Distance: Self
 Duration: Concentration, up to 1 minute
 You use your action to seal a pocket of air beneath each foot using psionic
 energy. You may walk across liquids such as water, lava, and acid as if they 
@@ -1691,24 +1691,24 @@ and lasts for up to one minute.
 
 ```
 Blink Step (2nd)
-Casting Time: 1 bonus action
-Range: 60 feet
+Casting Speed: 1 bonus action
+Distance: 60 feet
 Duration: Instantaneous
 A sherical portal opens around you, consuming you. In that same instant a spherical portal appears at a point you can see within range, and you appear from it. The portals then disappear. If you select a space that you cannot fit in, you receive 4d6 bludgeoning damage and the spell fails.
 ```
 
 ```
 Consort With Devils (2nd, Ritual)
-Casting Time: 1 action
-Range: self
+Casting Speed: 1 action
+Distance: self
 Duration: 1 minute
 You read from the pages of your fiendish text and the book levitates into the air, opening a channel to Hell. You may consult a devil on the other end of this communication. Devils are knowledgeable in legal matters, can make magical contracts, and may exchange their own names, or the names of demons for favors.
 ```
 
 ```
 Cure Sickness (2nd)
-Casting Time: 1 minute
-Range: self
+Casting Speed: 1 minute
+Distance: self
 Duration: Instantaneous
 You select one illness, disease, or medical condition and end it. Cure sickness
 cannot regrow nor re-attach limbs, nor can it prevent the natural effects of aging.
@@ -1716,16 +1716,16 @@ cannot regrow nor re-attach limbs, nor can it prevent the natural effects of agi
 
 ```
 Eyeball Zone (2nd level, Ritual)
-Casting Time: 1 action
-Range: self
+Casting Speed: 1 action
+Distance: self
 Duration: Concentration, up to 1 minute
 You open a spherical portal to the eyball zone which surrouns you, bombarding your mind with it's eldritch insights of your realm. You become acutely aware of everything around you, beside you, and inside you. You may also see into the fourth dimension where you can see the most likely timelines that will play out in the next 6 seconds. In addition, you may see inside enclosed spaces within range regardless of whether their interiors are lit or not, and may view a cross-section of any solid object, such as a particular organ, a particular page of a closed book, or the interior of a lock. You gain 10 feet of blindsight, attacks made against you from within range have disadvantage, and attacks you make on targets within range have advantage.
 ```
 
 ```
 Slime (2nd)
-Casting Time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: 1 hour
 You hurl a ball of green slime roughly the size of an apple at a point within 
 range. It expands into 10 gallons of gooey green slime that coats all creatures 
@@ -1736,8 +1736,8 @@ face. The area affected by the slime is considered difficult terrain.
 
 ```
 Spin Web (2nd)
-Casting Time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: 1 hour
 You extend your thumb, pinky, and index fingers, but press your other two 
 fingers to your palm. Sticky spider silk sprays from your wrist. You may build 
@@ -1750,8 +1750,8 @@ it will burn rapidly, dealing 1d10 fire damage to creatures within its space.
 
 ```
 Spider Climb (2nd)
-Casting Time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: 1 hour
 You touch one creature, and until the spell ends they gain the ability 
 to move up, down, and across vertical surfaces anbd upside down along 
@@ -1761,8 +1761,8 @@ climbing speed equal to it's walking speed.
 
 ```
 Darkness (2nd)
-Casting Time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: Concentration, up to 10 minutes
 Magical darkness spreads from a point of your choosing within range. 
 It fills a 15-foot radius sphere while the spell lasts. Light cannot 
@@ -1774,8 +1774,8 @@ higher level spell, this spell ends.
 
 ```
 Invisibility (2nd)
-Casting Time: 1 action
-Range: touch
+Casting Speed: 1 action
+Distance: touch
 Duration: Concentration, up to 1 hour
 You touch a creature and they become invisible until the spell ends. They and anything they are wearing or carrying becomes invisible as long as it is on the target's person. The spell ends if the target casts a spell or makes an attack.
 ```
@@ -1784,16 +1784,16 @@ You touch a creature and they become invisible until the spell ends. They and an
 
 ```
 Suggestion (2nd)
-Casting Time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: Concentration, up to 8 hours
 You suggest that one creature that can hear and understand you should perform a specific task. Te creature must succeed a wisdom saving throw, or perform this task for the duration until they complete it. If the task would obviously harm the creature (such as jumping out a window), if you are fighting the creature, or if the creature takes damage, the spell ends immediately.
 ```
 
 ```
 Hold Person (2nd)
-Casting Time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: Concentration, up to 1 minute
 You hold out your hand toward one humanoid in range and squeeze. The creature
 must make a wisdom saving throw or is restrained. Each turn, they may remake
@@ -1806,16 +1806,16 @@ each level above third.
 
 ```
 Insight Arrow (2nd level, Ritual)
-Casting Time: 1 minute
-Range: 30 feet
+Casting Speed: 1 minute
+Distance: 30 feet
 Duration: Concentration, 10 minutes
 You target one creature you can see within range. It must succeed a wisdom saving throw, or else a spectral arrow appears above it's head, pointing down at it. For the duration, when the creature makes a verbal statement it believes to be true, thearrow glow green and emits a chime. When the creature instead makes a statement it knows to be false, the arrow turns red and emits a buzzer sound.
 ```
 
 ```
 Levitate (2nd)
-Casting Time: 1 action
-Range: 120 feet
+Casting Speed: 1 action
+Distance: 120 feet
 Duration: Concentration, up to 1 minute
 You cause an object or creature that is large or smaller to levitate. When levitated, the creature's
 movement is 0. You may move it up to 15 feet. On subsequent turns during the duration, you may move the 
@@ -1824,8 +1824,8 @@ creature 15 feet.
 
 ```
 Red-hot Metal (2nd)
-Casting Time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: Concentration, up to 1 minute
 You cause one piece of metal that you can see within range to heat until it faintly glows.
 Some targets:
@@ -1837,8 +1837,8 @@ Some targets:
 
 ```
 Psionic Missiles (2nd)
-Casting Time: 1 action
-Range: 120 feet
+Casting Speed: 1 action
+Distance: 120 feet
 Duration: Instantaneous
 You levitate up to six pieces of ammunition, which you propel 
 towards one or more targets. Make an ranged spell attack for each piece
@@ -1851,8 +1851,8 @@ or half as much on a success.
 
 ```
 Words of Warning (2nd)
-Casting Time: 1 action
-Range: 60ft
+Casting Speed: 1 action
+Distance: 60ft
 Duration: Concentration, 1 minute
 You speak a warning to creatures of your choice within range that can hear you.
 For the duration, they cannot be frieghtened or charmed, and have advantage
@@ -1861,8 +1861,8 @@ on dexterity saving throws.
 
 ```
 Walk Through Walls (2nd)
-Casting Time: 1 action 
-Range: Self
+Casting Speed: 1 action 
+Distance: Self
 Duration: Concentration, 1 minute
 For one minute, you may walk through any walls, provided they are roughly
 perpendicular with the direction of gravity. If the spell ends while you are
@@ -1872,8 +1872,8 @@ open space.
 
 ```
 Fiendishness (2nd)
-Casting Time: 1 action
-Range: self
+Casting Speed: 1 action
+Distance: self
 Duration: Concentration, 1 minute
 You whisper a phrase in abyssal or infernal, and gain the following effects for
 the duration:
@@ -1886,8 +1886,8 @@ the duration:
 
 ```
 Channel the Dead (2nd, Ritual)
-Casting Time: 1 hour
-Range: 60 feet
+Casting Speed: 1 hour
+Distance: 60 feet
 Duration: 10 minutes
 You attempt to reach the spirit of a dead creature.
 Make a DC 18 spell check. You gain a +2 bonus on this check if you have
@@ -1904,8 +1904,8 @@ creature is severed permanently.
 
 ```
 Words of Strength (2nd)
-Casting Time: 1 action
-Range: 60ft
+Casting Speed: 1 action
+Distance: 60ft
 Duration: Concentration, 1 minute
 Any creature of your choice in range that can hear you has advantage on checks
 and saving throws involving strength. Melee attacks from such creatures
@@ -1916,8 +1916,8 @@ creatures instead deal an extra 1d8 damage with their melee attacks.
 
 ```
 Object of Desire (2nd)
-Casting Time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: Concentration, up to 1 minute
 You create the illusion that fits in a 5 foot cube within range. Each creature
 that can see the illusion sees the object they desire most in life, and must
@@ -1928,8 +1928,8 @@ saving throw at the beginning of their turn to realize the illusion
 
 ```
 Spirit Barrier (2nd)
-Casting Time: 1 minute
-Range: 100 feet
+Casting Speed: 1 minute
+Distance: 100 feet
 Duration: Instantaneous
 You draw a barrier with salt or oil in a closed shape and then imbue that
 barrier with protective energy. Spirits that lack a corporeal form cannot pass
@@ -1940,8 +1940,8 @@ barrier, the magical barrier is destroyed.
 
 ```
 Aid (2nd)
-Casting Time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: 8 hours
 Up to three creatures of your choice within range are bolstered with toughness
 and resolve. Their max hit points and current hit points increase by 5 for
@@ -1953,8 +1953,8 @@ by 5.
 
 ```
 Blindness/Deafness (2nd)
-Casting Time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: 1 minute
 One creature of your choice that you can see within range must succeed a CON
 save to avoid being either blinded or deafened(your choice) for the duration.
@@ -1963,8 +1963,8 @@ At the end of each turn, the creature can repeat the CON save to end the effect.
 
 ```
 Enhance Ability (2nd)
-Casting Time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: Concentration, up to 1 hour
 You magically augment one creature you touch. Choose an ability to augment. The target gains advantage on checks and saving throws with this ability, and one additional effect depending on that ability.
 - STR(Bull's strength) double carrying capacity
@@ -1977,16 +1977,16 @@ You magically augment one creature you touch. Choose an ability to augment. The 
 
 ```
 Darkvision (2nd)
-Casting Time: 1 action 
-Range: Touch
+Casting Speed: 1 action 
+Distance: Touch
 Duration: 8 hours
 A willing creature you touch gains the ability to see in the dark at a range of up to 60 feet.
 ```
 
 ```
 Detect Thoughts (2nd)
-Casting Time: 1 action 
-Range: Self
+Casting Speed: 1 action 
+Distance: Self
 Duration: Concentration, up to 1 minute
 For the duration, you may tap into minds with more than 3 intelligence within 30ft. You automatically hear any surface-level thoughts.
 
@@ -1997,16 +1997,16 @@ You can detect the presence of thinking creatures without line of sight, provide
 
 ```
 Dragon's Breath (2nd)
-Casting Time: 1 bonus action
-Range: Touch
+Casting Speed: 1 bonus action
+Distance: Touch
 Duration: Concentration, up to 1 minute
 One creature you touch gains dragon breath for the duration. Select either acid, cold, fire, lightning, or poison. This is the type of damage they deal when they breathe their breath using their action. A 15-foot cone of this element is created, forcing a DEX save to halve 3d6 damage of the chosen type.
 ```
 
 ```
 Dust Devil (2nd)
-Casting Time: 1 action 
-Range: 60 feet
+Casting Speed: 1 action 
+Distance: 60 feet
 Duration: Concentration, up to 1 minute
 You create a magical dust devil in a 5ft cube within range for the duration. Creatures ending their turn within 5ft of the dust devil make a STR save to halve 1d8 bludgeoning damage and being pushed 10ft away from the dust devil.
 
@@ -2015,8 +2015,8 @@ The dust devil can be moved 30ft in any direction with a bonus action. If the du
 
 ```
 Enlarge/Reduce (2nd)
-Casting Time: 1 action 
-Range: 30ft
+Casting Speed: 1 action 
+Distance: 30ft
 Duration: Concentration, up to 1 minute
 Pick a creature or object and attempt to increase or decrease it's size by one category, such as from large to medium, or large to huge. An unwilling creature can make a CON save to resist this spell.
 
@@ -2027,8 +2027,8 @@ An enlarged creature has advantage on STR checks and saves, and their weapons at
 
 ```
 Flaming Sphere (2nd)
-Casting Time: 1 action 
-Range: 60ft
+Casting Speed: 1 action 
+Distance: 60ft
 Duration: Concentration, up to 1 minute
 You conjure a 5ft diameter flameing sphere in an unoccupied space of your chosing withing range. Creatures ending their turn within 5ft of the sphere succeed a DEX save to halve 2d6 fire damage.
 
@@ -2037,16 +2037,16 @@ You may move the sphere up to 30ft with a bonus action. Ramming a creature stops
 
 ```
 Gift of Gab (2nd)
-Casting Time: 1 reaction taken to speak to a creature 
-Range: Self
+Casting Speed: 1 reaction taken to speak to a creature 
+Distance: Self
 Duration: Instantaneous
 This spell causes creatures within a 10ft range to forget everything said within the last 6 seconds, and the words you speak afterwards replace the forgotten words instead.
 ```
 
 ```
 Find Traps (2nd)
-Casting Time: 1 action
-Range: 120 feet
+Casting Speed: 1 action
+Distance: 120 feet
 Duration: Instantaneous
 You hold your holy symbol up. If there are any traps in range and in your line
 of sight, the symbol glows red. If there are none, the symbol glows blue.
@@ -2054,8 +2054,8 @@ of sight, the symbol glows red. If there are none, the symbol glows blue.
 
 ```
 Gentle Repose (2nd)
-Casting Time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 which must remain)
 Duration: 10 days
 You place a copper piece on each of a corpse's eyes and place a ward of against 
@@ -2066,8 +2066,8 @@ before they were killed, they remain this way for the duration.
 
 ```
 Lesser Restoration (2nd)
-Casting Time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: Instantaneous
 You touch a creature and end one disease, corruption, or condition effecting it.
 The condition can be blinded, deafened, deafened, paralyzed, or poisoned.
@@ -2075,8 +2075,8 @@ The condition can be blinded, deafened, deafened, paralyzed, or poisoned.
 
 ```
 Locate Object (2nd)
-Casting Time: 1 action
-Range: Self
+Casting Speed: 1 action
+Distance: Self
 Duration: Concentration, up to 10 minutes
 You hold up your piece of metal and name or describe a particular object that
 you have seen in person, or a generic kind of item like a weapon, jewel, or 
@@ -2088,8 +2088,8 @@ cannot penetrate a barrier made of lead.
 
 ```
 Prayer of Healing (2nd)
-Casting Time: 10 minutes
-Range: 30 feet
+Casting Speed: 10 minutes
+Distance: 30 feet
 Duration: Instantaneous
 All creatures of your choice within range that you can see regain hit points 
 equal to 2d8 + your spellcasting modifier. Undead and constructs are unaffected 
@@ -2098,8 +2098,8 @@ by this spell.
 
 ```
 Protection from Poison (2nd)
-Casting Time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: 1 hour
 You touch one willing creature. You neutralize any active poison in it's system 
 if it's poisoned. For the duration, the creature has advantage on saving throws 
@@ -2108,8 +2108,8 @@ against being poisoned and has resistance against poison damage.
 
 ```
 Silence (2nd)
-Casting Time: 1 action
-Range: 120 feet
+Casting Speed: 1 action
+Distance: 120 feet
 Duration: Concentration, up to 10 minutes
 You create a 20 foot radius sphere centered on a point within range, and no 
 sound may exist within the sphere. All creatures within the sphere are 
@@ -2119,16 +2119,16 @@ components.
 
 ```
 Shatter (2nd)
-Casting Time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: Instantaneous
 A painfully intense noise erupts from a point within range, causing each creature within a 10ft radius to succeed a CON save to halve 3d8 thunder damage. Creatures made from stone, crystal, metal, glass, or other inorganic material have disadvantage on this check. Non-magical items in this range also take this damage.
 ```
 
 ```
 Warding Bond (2nd)
-Casting Time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: 1 hour
 While the target is within 30 feet of you, they gain a +1 bonus to AC and saving throws and resistance to all damage. Each time they take damage, you take the same amount of damage.
 
@@ -2139,8 +2139,8 @@ on either of the connected creatures. The spell can be dismissed as an action.
 
 ```
 Hasty Hex (2nd)
-Casting time: 1 bonus action 
-Range: 90 feet
+Casting Speed: 1 bonus action 
+Distance: 90 feet
 Duration: Concentration, up to 1 hour
 You target one creature in range that you can see. If the creature falls to 0
 hit points while this spell is active, you may move up to your movement speed,
@@ -2149,8 +2149,8 @@ perform one action, and transfer the spell to a new suitable target.
 
 ```
 Vitality Drain (2nd)
-Casting time: 1 action
-Range: Self
+Casting Speed: 1 action
+Distance: Self
 Duration: Concentration, 1 minute
 As part of casting this spell, you attack a creature with the blade. If the
 attack hits, the attack deals an additional 1d8 necrotic damage and the blade
@@ -2162,16 +2162,16 @@ up.
 
 ```
 Air Bubble (2nd)
-Casting time: 1 action
-Range: 60ft
+Casting Speed: 1 action
+Distance: 60ft
 Duration: 24 hours
 A globe appears around the head of a willing creature you can see within range, and it's filled with fresh air for the duration. Should the creature have multiple heads, the globe appears around all of it's heads.
 ```
 
 ```
 Gust of wind (2nd)
-Casting time: 1 action
-Range: Self(60ft line)
+Casting Speed: 1 action
+Distance: Self(60ft line)
 Duration: Concentration, up to 1 minute
 A 10ff-wide line of strong wind blasts from you 60ft in a direction of your
 choosing. Creatures that start their turn in the line must succeed a strength
@@ -2184,24 +2184,24 @@ from you.
 
 ```
 Barkskin (2nd)
-Casting time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: Concentration, up to 1 hour
 One willing creature that you touches grows a rough, bark texture and their AC cannot be less than 16.
 ```
 
 ```
 Beast Sense (2nd)
-Casting time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: Concentration, up to 1 hour
 You effect one willing beast by touching it. You may use your action to see, hear, smell, taste, and touch anything the creature can, but are unable to access your own senses at the same time.
 ```
 
 ```
 Flame Blade (2nd)
-Casting time: 1 bonus action
-Range: Self
+Casting Speed: 1 bonus action
+Distance: Self
 Duration: Concentration, up to 10 minutes
 A fiery blade erupts in your free hand, similar in size to a scimitar. Letting go of the blade causes it to disappear, but you can evoke it again with your bonus action. It provides 10ft of bright and dim light.
 
@@ -2210,16 +2210,16 @@ You may use your action to make a melee spell attack with the flaming blade, dea
 
 ```
 Locate Animals Or Plants (2nd)
-Casting time: 1 action
-Range: Self
+Casting Speed: 1 action
+Distance: Self
 Duration: Instantaneous
 Name or describe a kind of beast or plant, conjuring the direction and distance to the closest creature or plant of this kind within 5 miles, should any be present.
 ```
 
 ```
 Warding Wind (2nd)
-Casting time: 1 action
-Range:  150ft
+Casting Speed: 1 action
+Distance:  150ft
 Duration: Concentration, up to 10 minute
 You create a 20mph wind within a 10ft radius of you that follows you for the spell's duration. The wind has the following effects.
 - Creatures inside are deafened
@@ -2231,16 +2231,16 @@ You create a 20mph wind within a 10ft radius of you that follows you for the spe
 
 ```
 Wither and Bloom (2nd)
-Casting time: 1 action
-Range:  60ft
+Casting Speed: 1 action
+Distance:  60ft
 Duration: Instantaneous
 You select a 10ft sphere centered on a point within range and exact the wither and bloom on it. The wither allows you to select creatures and force a CON save to halve 2d6 necrotic damage. Bloom allows one creature in the area to roll it's stamina die and regain as much hit points, including your spellcasting ability modifier.
 ```
 
 ```
 Spike Growth (2nd)
-Casting time: 1 action
-Range:  150ft
+Casting Speed: 1 action
+Distance:  150ft
 Duration: Concentration, up to 10 minute
 The ground around you in a 20ft radius explodes with hard spikes and throwns, becoming difficult terrain for the duration. Creatures passing through take 2d4 piercing damage for every 5ft they travel.
 
@@ -2249,16 +2249,16 @@ The spikes are cammouflaged to be natural in appearance, forcing a WIS check aga
 
 ```
 Moonbeam (2nd)
-Casting time: 1 action
-Range: 120ft
+Casting Speed: 1 action
+Distance: 120ft
 Duration: Concentration, up to 1 minute
 A 5ft radius, 40ft cylinder appears centered on a point within range, filling the cylinder with dim light. Ghostly flames engulf any creature who enters the area for the first time on their turn, or who starts their turn inside. These flames force a CON save to halve 2d10 radiant damage. A shapechanger makes this save with disadvantage, and instantly reverts if it fails. You may move the beam 60 feet with your bonus action on subsequent turns.
 ```
 
 ```
 Pass Without a Trace (2nd)
-Casting time: 1 action
-Range: self
+Casting Speed: 1 action
+Distance: self
 Duration: Concentration, up to 1 hour
 You are veiled in shadows and silence, protecting you and creatures of your choice within a 30ft radius of you to gain a +10 bonus to stealth checks and are immune to magical tracking. Effected creatures leave no tracks or other traces of their passage through an area.
 ```
@@ -2266,8 +2266,8 @@ You are veiled in shadows and silence, protecting you and creatures of your choi
 
 ```
 Great Berry (2nd)
-Casting Time: 1 hour
-Range: self
+Casting Speed: 1 hour
+Distance: self
 Duration: Instantaneous
 You sacrifice two pounds of food as part of casting this spell, destroying it
 in the process. In it's place, you create 1d10 magical berries. Roll on the table
@@ -2287,8 +2287,8 @@ produces an additional 1d10 magical berries.
 
 ```
 Blazing Scorcher (2nd)
-Casting Time: 1 action
-Range: 30ft
+Casting Speed: 1 action
+Distance: 30ft
 Duration: Instantaneous
 You produce a 5ft-wide line of roaring flame that extends 30ft in a direction
 of your choice. Creatures in the line must succeed a dexterity saving throw to
@@ -2300,8 +2300,8 @@ damage increases by 1d8 per level above 2nd.
 
 ```
 Water Cannon (2nd)
-Casting Time: 1 action
-Range: 60ft
+Casting Speed: 1 action
+Distance: 60ft
 Duration: Concentration, up to 1 minute
 You produce a foot-wide stream of water that sprays up to 60 feet in a straight
 line. The stream will automatically push objects up to 50lbs 5ft each turn.
@@ -2316,8 +2316,8 @@ pushed 15ft.
 
 ```
 Earthbind (2nd)
-Casting Time: 1 action
-Range: 300ft
+Casting Speed: 1 action
+Distance: 300ft
 Duration: Concentration, up to 1 minute
 You focus on one creature you can see within range, and glowing glyphs appear
 as an intangible box around them. The creature must succeed a strength saving
@@ -2327,8 +2327,8 @@ airborne creature may succeed a strength save in order to land safely.
 
 ```
 Earthen Grasp (2nd)
-Casting Time: 1 action
-Range: 30ft
+Casting Speed: 1 action
+Distance: 30ft
 Duration: Concentration, up to 1 minute
 Choose an unoccupied 5ft square that you can see within range. A medium size Earthen hand rises from the soil and reaches for a creature within a 5ft range of the hand, forcing a STR save to avoid 2d6 bludgeoning damage and becoming restrained for the duration.
 
@@ -2339,8 +2339,8 @@ You may also use your action to target a different creature or moveto another sp
 
 ```
 Phantasmal Force (2nd)
-Casting Time: 1 action
-Range: 60ft
+Casting Speed: 1 action
+Distance: 60ft
 Duration: Concentration, up to 1 minute
 One creature that is neither undead nor a construct, but which is within range must succeed an INT save to 
 immediately end this spell. On a failure, you create a 
@@ -2353,8 +2353,8 @@ it can deal 1d6 psychic damage each round.
 
 ```
 Stoneshield (2nd)
-Casting Time: 1 reaction, taken when targeted by a ranged attack.
-Range: self
+Casting Speed: 1 reaction, taken when targeted by a ranged attack.
+Distance: self
 Duration: Instantaneous
 Sensing an incoming attack, you raise a four-inch-thick sheet of stone from the
 ground in front of you, completely obscuring your form. The shield becomes the
@@ -2365,8 +2365,8 @@ target of the attack. The sheet has an AC of 16 and 15HP.
 
 ```
 Wind Wall (3rd)
-Casting Time: 1 action
-Range: 120ft
+Casting Speed: 1 action
+Distance: 120ft
 Duration: Concentration, up to 1 minute
 Choose a point within range for a wall of strong wind to rose from. The wall may be up to 5ft long, 15ft high, and 1ft thick, shaped any way you choose so long as it makes one continuous path along the ground for he duration.
 
@@ -2377,8 +2377,8 @@ Fog, smoke, and other gases are kept at bay by the wind, and small or smaller fl
 
 ```
 Speak With Plants (3rd)
-Casting Time: 1 action
-Range: Self (30ft radius)
+Casting Speed: 1 action
+Distance: Self (30ft radius)
 Duration: 10 minutes
 Plants within 30ft of you gain limited sentience and animation, allowing them to communicate with you and follow simple commands such as answering questions about events in the spell's area within the last day, giving information about creatures that have passed, weather, and other happenings.
 
@@ -2389,24 +2389,24 @@ You additionally may communicate with any plant creatures in the area.
 
 ```
 Elemental Weapon (3rd)
-Casting Time: 1 action
-Range: touch
+Casting Speed: 1 action
+Distance: touch
 Duration: Concentration, up to 1 hour
 You touch a nonmagical weapon and grant it one of the following damage types: acid, cold, fire, lightning, or thunder. For the duration, the weapon deals an extra 1d4 damage of the chosen type and has a +1 bonus on attack rolls.
 ```
 
 ```
 Call Lightning (3rd)
-Casting Time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: Concentration, up to 10 minutes
 You create a storm cloud in the shape of a 10ft tall, 60ft radius cylinder centered on a point within range directly above you. Choose a point you can see under the cloud, which is where a bolt of lightning flashes down, causing all creatures within 5ft of the point to succeed a DEX save to halve 3d10 lightning damage. If cast outdoors when stormy conditions are present, this spell controls existing clouds and deals an addtional 1d10 lightning damage.
 ```
 
 ```
 Life Transference (3rd)
-Casting Time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: Instantaneous
 You extract some of your life essence and transfer it to another
 creature. You take 2d8 necrotic damage, which cannot be reduced
@@ -2416,8 +2416,8 @@ number of hit points equal to the necrotic damage you take.
 
 ```
 Magic Circle (3rd)
-Casting Time: 1 minute
-Range: 10 feet
+Casting Speed: 1 minute
+Distance: 10 feet
 Duration: 1 hour 
 On a point on the ground that you can see within range, you create
 a cylinder that is 10ft in diameter and 20ft tall. Runes appear 
@@ -2437,8 +2437,8 @@ increases an hour for each level above 3rd.
 
 ```
 Major Image (3rd)
-Casting Time: 1 action
-Range: 120 feet
+Casting Speed: 1 action
+Distance: 120 feet
 Duration: Concentration, up to 10 minutes
 You create the image of a creature, object, or some other visibile
 thing that fits within a 20ft cube. The illusion seems real, 
@@ -2454,8 +2454,8 @@ illusion lasts until dispelled, no concentration required.
 
 ```
 Minute Meteors (3rd)
-Casting Time: 1 action
-Range: self
+Casting Speed: 1 action
+Distance: self
 Duration: Concentration, up to 10 minutes
 Six tiny meteors appear orbiting you for the spell's duration.
 When you cast, and as a bonus action on each following turn, you
@@ -2469,8 +2469,8 @@ level above 3rd this spell is cast.
 
 ```
 Nondetection (3rd)
-Casting Time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: 8 hours
 You hide a target from divination magic for the duration by
 touching them, provided they're no larger than 10ft in any dimension. Scrying, magic sensors, and divination magic can't
@@ -2479,8 +2479,8 @@ effect the target.
 
 ```
 Phantom Steed (3rd)
-Casting Time: 1 minute
-Range:  feet
+Casting Speed: 1 minute
+Distance:  feet
 Duration: 1 hour
 A horse wreathed in shadow appears on the ground in an unoccupied 
 space of your choice within range. It's appearance is decided by 
@@ -2501,8 +2501,8 @@ Hooves(10ft) +5 2d4+3 bludgeoning
 
 ```
 Tiny Servant (3rd)
-Casting Time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: 8 hours
 One tiny, nonmagical object you touch becomes animated and sprouts tiny arms and legs, becoming a creature under your control until the spell ends. The spell's effect ends for that creature when it drops to 0 hit points.
 
@@ -2525,8 +2525,8 @@ Slam(10ft) +5 1d4 bludgeoning
 
 ```
 Protection from energy (3rd)
-Casting Time: 1 action
-Range: Touching
+Casting Speed: 1 action
+Distance: Touching
 Duration:  Concentration, up to 1 hour
 The willing creature you touch has
 resistance to one damage type of your choice 
@@ -2536,8 +2536,8 @@ cold, fire, lightning, or thunder.
 
 ```
 Sending (3rd)
-Casting Time: 1 action
-Range: Unlimited
+Casting Speed: 1 action
+Distance: Unlimited
 Duration: 1 round
 In your mind you speak a message of 25 words 
 or less. A creature you are familiar with 
@@ -2547,8 +2547,8 @@ recognizing your voice.
 
 ```
 Sleet storm (3rd)
-Casting Time: 1 action
-Range: 150 feet
+Casting Speed: 1 action
+Distance: 150 feet
 Duration: Concentration, up to 1 minute
 Freezing rain and sleet fall in a 20ft tall, 40ft radius cylinder centered on a 
 point of your choice within range. The cylinder's interior is heavily obscured, 
@@ -2561,8 +2561,8 @@ start of their turn.
 
 ```
 Slow (3rd)
-Casting Time: 1 action
-Range: 120 feet
+Casting Speed: 1 action
+Distance: 120 feet
 Duration: Concentration, up to 1 minute
 You affect a temporal distortion around up to six creatures of your choice in a 40ft 
 cube within range. Each target makes a wisdom save to avoid the effects of the spell. 
@@ -2579,8 +2579,8 @@ the end of their turn.
 
 ```
 Tongues (3rd)
-Casting Time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: 
 A creature you touch gains the ability to understand any spoken 
 language it hears, and to speak intelligibly to any creature that 
@@ -2589,8 +2589,8 @@ knows at least one language.
 
 ```
 Vampiric Touch (3rd)
-Casting Time: 1 action
-Range: Self feet
+Casting Speed: 1 action
+Distance: Self feet
 Duration: Concentration, up to 1 minute
 Your hand emanates an aura of draining shadow. Perform a melee spell 
 attack against a creature in range, dealing 3d6 necrotic damage on a 
@@ -2601,8 +2601,8 @@ attack again on each of your turns as an action.
 
 ```
 Wall of Sand (3rd)
-Casting Time: 1 action
-Range: 90 feet
+Casting Speed: 1 action
+Distance: 90 feet
 Duration: Concentration, up to 10 minutes
 A wall of swirling sand appears on the ground at a point you can see 
 within range, up to 30ft long, 10ft high, and 10ft thick. The wall 
@@ -2613,8 +2613,8 @@ distance moved.
 
 ```
 Wall of Water (3rd)
-Casting Time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: Concentration, up to 10 minutes
 Choose a point on the ground within range that you can see. You 
 create a wall of water up to 30ft long, 10ft high, and 1 foot thick. 
@@ -2630,8 +2630,8 @@ If broken, the hole in the wall is not refilled with water.
 
 ```
 Stinking cloud (3rd)
-Casting Time: 1 action
-Range: 90 feet
+Casting Speed: 1 action
+Distance: 90 feet
 Duration: Concentration, up to 1 minute
 Pick a point within range to create a 20ft radius sphere of amber, putrid gas. The cloud spreads around corners, and it's area is heavily obscured by the stinking gas for the duration of the spell.
 
@@ -2641,16 +2641,16 @@ A weak wind may disperse the cloud after 4 rounds, while a strong one disperses 
 ```
 ```
 Tidal Wave (3rd)
-Casting Time: 1 action
-Range: 120 feet
+Casting Speed: 1 action
+Distance: 120 feet
 Duration: Instantaneous
 Select an area within range to crash down a wave of water up to 30ft long, up to 10ft wide, and up to 10ft high. Every creature in that areay makes a dexterity saving throw to halve 4d8 bludgeoning damage and avoid being knocked prone. The water spreads out across the ground in all directions, extinguishing any unprotected flames in the area and within 30ft of it. The water then vanishes.
 ```
 
 ```
 Water Breathing (3rd)
-Casting Time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: 24 hours 
 Up to ten willing creatures of your choice within range that you can see gain the ability to breathe underwater until the spell ends. 
 ```
@@ -2658,8 +2658,8 @@ Up to ten willing creatures of your choice within range that you can see gain th
 
 ```
 Speak With dead (3rd)
-Casting Time: 1 action
-Range: 10 feet
+Casting Speed: 1 action
+Distance: 10 feet
 Duration: 10 minutes
 For the duration, you imbue a corpse no more than 10 days deceased with undeath.
 You may ask 5 questions for it to answer, but it's not guaranteed to know the
@@ -2668,8 +2668,8 @@ answer, or report it truthfully to you.
 
 ```
 Spirit Shroud (3rd)
-Casting Time: 1 bonus action
-Range: Self
+Casting Speed: 1 bonus action
+Distance: Self
 Duration: Concentration, up to 1 minute
 Spirits encircle you for the spell's duration, intangible and invulnerable. For
 the duration, your attacks deal 1d8 extra damage within a 10ft range. The damage
@@ -2681,8 +2681,8 @@ speed reduced by 10ft until the start of your next turn.
 
 ```
 Thunder Step (3rd)
-Casting Time: 1 action
-Range: 90 feet
+Casting Speed: 1 action
+Distance: 90 feet
 Duration: Instantaneous
 You teleport to an unoccupied space that you can see within the spell's range, 
 creating a thunderous boom where you were standing and causing each creature 
@@ -2697,8 +2697,8 @@ increase 1d10 for each level above 3rd.
 
 ```
 Confession (3rd)
-Casting time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: Concentration, up to 1 minute
 You speak a command word to a creature, and it must succeed a wisdom saving
 throw or begin making confessions for the duration. The creature must only
@@ -2707,8 +2707,8 @@ state confessions that they feel genuine guilt about.
 
 ```
 Sacrifice (3rd)
-Casting time: 10 minutes
-Range: Self
+Casting Speed: 10 minutes
+Distance: Self
 Duration: Instantaneous
 You destroy an object of great value and please your deity, gaining peity.
 The amount of peity depends on the object.
@@ -2724,8 +2724,8 @@ The amount of peity depends on the object.
 
 ```
 Bend Light (3rd)
-Casting time: 1 action
-Range: 120 feet
+Casting Speed: 1 action
+Distance: 120 feet
 Duration: Concentration, 1 minutes
 You create a 15 foot radius sphere of influence on a point centered within
 range, and can produce an effect on that space. You may use your action to move
@@ -2740,8 +2740,8 @@ the space up to 30 feet and change the effect or target. Such effects include:
 
 ```
 Kindness (3rd)
-Casting time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: Concentration, up to 10 minutes
 You speak a compliment to a creature that can understand you. The creature must
 succeed a wisdom saving throw, or else become charmed with a powerful sense of
@@ -2752,8 +2752,8 @@ you have manipulated it with magic.
 
 ```
 Malevolent Guidance (3rd)
-Casting Time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration:
 You use your action to envision a creature within 60 feet performing a harmful 
 action. Make an intelligence check and add the amount you rolled from your 
@@ -2769,8 +2769,8 @@ substitute with 1d4.
 
 ```
 Psionic Construct (3rd)
-Casting Time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: Concentration, up to 10 minutes
 You form form a group of inanimate objects into a medium-sized creature.
 The creature has 2d6 hit points and can wield any weapon you are proficient with.
@@ -2783,16 +2783,16 @@ It's strength and dexterity are the same as your spellcasting ability.
 
 ```
 Riddle (3rd)
-Casting Time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: concentration, up to 1 minute
 You tell a riddle to a creature that can hear and understand you. They must succeed a wisdom saving throw or become consumed by solving the riddle for the duration. The player may select a riddle for the GM to solve, or may force the creature to instead succeed an intelligence saving throw to solve the riddle. When the riddle is solved, the spell ends.
 ```
 
 ```
 Create Undead Vermin Swarm (3rd)
-Casting Time: 10 minutes
-Range: 60 feet
+Casting Speed: 10 minutes
+Distance: 60 feet
 Duration: 
 You draw a rune on the ground in an area where rodents, cats, possums, raccoons, and other similar creatures have died. Once activated, the rune glow bright green and a green mist is emitted. They rise and gather to form a horde, a large swarm of tiny creatures.
 
@@ -2803,8 +2803,8 @@ The swarm listens to your orders for the duration. You may cast this spell again
 
 ```
 Silent Prance (3rd)
-Casting Time: 1 action
-Range: touch
+Casting Speed: 1 action
+Distance: touch
 Duration: Concentration, up to 1 hour
 You touch up to three creatures. For the duration, any stealth checks they make
 have a +10 bonus.
@@ -2812,16 +2812,16 @@ have a +10 bonus.
 
 ```
 Lightning Bolt (3rd)
-Casting Time: 1 action
-Range: 100 feet
+Casting Speed: 1 action
+Distance: 100 feet
 Duration: Instantaneous
 You hold your forefinger and thumb apart and an arc forms between while a whining sound rapidly raises in pitch until it becomes inaudible. A 5ft wide arc of lightning jolts from your fingers for 100ft in a direction you choose. Any creature hit by it must succeed a dexterity saving throw, taking 6d6 lightning damage on a failure, or half as much on a success.
 ```
 
 ```
 Shadow Magic (3rd)
-Casting Time: 1 action
-Range: self
+Casting Speed: 1 action
+Distance: self
 Duration: Concentration, up to 1 minute
 You cause one of the following effects to take place for the duration.
 
@@ -2834,8 +2834,8 @@ Converge: You move several shadows onto a creature's face, blinding it.
 
 ```
 Delusion (3rd)
-Casting Time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: Concentration, up to 1 minute
 You target one creature and create the delusion of an entity that must fit inside
 a 10ft cube centered on a point within range. The delusion can seem to make sound, light,
@@ -2848,16 +2848,16 @@ the target to determine that the true nature of the delusion.
 
 ```
 Flight (3rd)
-Casting Time: 1 action
-Range: Self
+Casting Speed: 1 action
+Distance: Self
 Duration: Concentration, up to 10 minutes
 You gain a 60 foot flying speed for the duration.
 ```
 
 ```
 Posession (3rd)
-Casting Time: 1 action
-Range: 100 feet
+Casting Speed: 1 action
+Distance: 100 feet
 Duration: Instantaneous
 You choose an undead within range that lacks a corporeal form, and connect it
 with the creature that is the material component for this spell. The spirit and
@@ -2869,8 +2869,8 @@ spirit is exorcised.
 
 ```
 Exorcism (3rd)
-Casting Time: 1 minute
-Range: Touch
+Casting Speed: 1 minute
+Distance: Touch
 Duration: Concentration, up to 1 minute
 You begin to drive off a spirit that is posessing one creature. The spirit must
 make wisdom saving throws, damaging it's host with 1d4 necrotic damage on a
@@ -2881,8 +2881,8 @@ out of the creature with 1 remaining hit point.
 
 ```
 Tame Beast (3rd)
-Casting Time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: Instantaneous
 You speak a command to one beast within range. It must make a wisdom saving
 throw. If it succeeds, the beast becomes hostile and cannot be effected by this
@@ -2895,8 +2895,8 @@ spell.
 
 ```
 Counterspell (3rd)
-Casting Time: 1 reaction taken when another creature casts a spell
-Range: 60 feet
+Casting Speed: 1 reaction taken when another creature casts a spell
+Distance: 60 feet
 Duration: 1 action
 You aim your hand at a creature within range that is casting a spell. Both
 creatures make a contested spell check. If there is a tie or you win, the spell
@@ -2909,8 +2909,8 @@ may take place.
 
 ```
 Rust (Leve 3)
-Casting Time: 1 action
-Range: 15 foot cone
+Casting Speed: 1 action
+Distance: 15 foot cone
 Duration: Instantaneous
 You oustretch your hands and join the tips of your thumbs and pointer fingers
 together to form a triangle. In a 15 foot cone originating from this triangle,
@@ -2922,8 +2922,8 @@ damage.
 
 ```
 Petrification (3rd)
-Casting Time: 1 action
-Range: touch
+Casting Speed: 1 action
+Distance: touch
 Duration: Instantaneous
 Make a melee spell attack against one creature. If you hit, the creature must
 spend an action each turn to make a constitution saving throw. If they succeed
@@ -2933,8 +2933,8 @@ action for anything other than resisting the petrification, they are petrified.
 
 ```
 Blazing Trail (3rd)
-Casting time: 1 bonus action
-Range: Self
+Casting Speed: 1 bonus action
+Distance: Self
 Duration: Concentration, 1 minute
 Draconic flames ignite your feet and your speed increases by 20 feet. Your
 movement does not provoke attacks of opportunity. Any creature or object that
@@ -2943,8 +2943,8 @@ isn't currently held receives 1d6 fire damage as you pass within 5ft of it.
 
 ```
 Animate Dead (3rd)
-Casting time: 1 minute
-Range: Self
+Casting Speed: 1 minute
+Distance: Self
 Duration: Instantaneous
 You create an undead servant, either a skeleton from a pile of bones, or a
 zombie from a corpse. On your turn, you may use a bonus action to command any 
@@ -2958,8 +2958,8 @@ not re-assert control, they will roam and hunt the living.
 
 ```
 Blink (3rd)
-Casting time: 1 action
-Range: Self
+Casting Speed: 1 action
+Distance: Self
 Duration: 1 minute
 At the end of each turn, roll a 1d20. If you roll 11 or above, you are 
 transported to the ethereal plane. When you're in the etherial plane at the 
@@ -2970,8 +2970,8 @@ plane already, you instead are transported into the material plane.
 
 ```
 Clairvoyance (3rd)
-Casting time: 10 minutes
-Range: 1 mile
+Casting Speed: 10 minutes
+Distance: 1 mile
 Duration: Concentration, 10 minutes
 You create an invisible, immaterial sensor within range in an area familiar to 
 you, or an obvious place unfamiliar to you. You may choose to hear or see from 
@@ -2981,8 +2981,8 @@ entities sees your sensor as a glowing eye(if seeing) or ear(if hearing).
 
 ```
 Dispell Magic (3rd)
-Casting time: 1 action
-Range: 120 feet
+Casting Speed: 1 action
+Distance: 120 feet
 Duration: Instantaneous
 You choose one creature, object, or magical effect within range. All spells of 
 3rd level or lower on the target end. For higher spells, make an ability check 
@@ -2992,8 +2992,8 @@ successful, the spell ends.
 
 ```
 Enemies Abound (3rd)
-Casting time: 1 action
-Range: 120 feet
+Casting Speed: 1 action
+Distance: 120 feet
 Duration: Concentration, 1 minute
 You target the mind of a creature within range, penentrating it with your own.
 The target must succeed an intelligence check against your spellcasting DC to 
@@ -3006,8 +3006,8 @@ within range.
 
 ```
 Erupting Earth (3rd)
-Casting time: 1 action
-Range: 120 feet
+Casting Speed: 1 action
+Distance: 120 feet
 Duration: Instantaneous
 You select a point on the ground within range and a 20 foot cube of dirt and 
 stone erupts from the ground. All creatures beneath the cube must succeed a 
@@ -3018,8 +3018,8 @@ debris.
 
 ```
 Fast Friends (3rd)
-Casting time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: Concentration, 1 hour
 You speak to one creature, who must succeed a wisdom save or become charmed. 
 While charmed by this spell, the creature will regard you as a friend and 
@@ -3029,8 +3029,8 @@ spell ends, the creature is aware you charmed them.
 
 ```
 Feign Death (3rd)
-Casting time: 1 action
-Range: touch
+Casting Speed: 1 action
+Distance: touch
 Duration: 1 hour
 You touch a willing creature and put it into a deep, breathless sleep. The 
 creature is unconscious and appears outwardly to be dead. You may dispel the 
@@ -3040,16 +3040,16 @@ is suspended for the duration of the spell.
 
 ```
 Flame Arrows (3rd)
-Casting time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: Concentration, 1 hour
 You touch a quiver containing arrows or arrows. For the duration, the arrows or bolts explode into a burst of flame on impact, dealing an additional 1d6 fire damage. The spell ends when the quiver is empty.
 ```
 
 ```
 Gaseous Form (3rd)
-Casting time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: Concentration, 1 hour
 You transform a willing creature you touch along with everything it's wearing 
 into a cloud of colorful gas. It's movement is limited to a 10 foot flying 
@@ -3059,8 +3059,8 @@ The creature is likewise resistant to non-magical physical damage.
 
 ```
 Glyph of Warding (3rd)
-Casting time: 1 hour
-Range: touch
+Casting Speed: 1 hour
+Distance: touch
 Duration: Until dispelled or triggered
 You engrave a magical glyph onto a 5 foot square surface, which stores a spell 
 of level 3 or lower. If the spell targets a creature, it targets the nearest 
@@ -3074,8 +3074,8 @@ telepathically from any range.
 
 ```
 Haste (3rd)
-Casting time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: Concentration, 1 minute
 One willing creature within range gains a +2 bonus to their AC, has their 
 speed doubled, has advantage on dexterity saving throws, and has an extra 
@@ -3085,8 +3085,8 @@ actions until the end of it's next turn.
 
 ```
 Hypnotic Pattern (3rd)
-Casting time: 1 action
-Range: 120 feet
+Casting Speed: 1 action
+Distance: 120 feet
 Duration: Concentration, 1 hour
 You create an ethereal hypnotic pattern within a 30 foot cube centered on a 
 point within range. All creatures within must succeed a wisdom saving throw or 
@@ -3098,8 +3098,8 @@ awake.
 
 ```
 Force Sphere (3rd)
-Casting time: 1 action
-Range: self(10 foot dome)
+Casting Speed: 1 action
+Distance: self(10 foot dome)
 Duration: Concentration, 8 hours
 A 10 foot dome of force extends around you, impermiable to entry. Up to nine 
 medium-sized creatures may safely reside within the dome for the duration, but 
@@ -3110,8 +3110,8 @@ permeate the force barrier.
 
 ```
 Incite Greed (3rd)
-Casting time: 1 action
-Range: 30ft
+Casting Speed: 1 action
+Distance: 30ft
 Duration: Concentration, 1 minute
 All creatures of your choosing within range must succeed a wisdom save to 
 avoid being charmed. While charmed, a creature uses their movement to safely 
@@ -3121,8 +3121,8 @@ on it.
 
 ```
 Intellect Fortress (3rd)
-Casting time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: Concentration, 1 hour
 You or a willing creature you can see within range becomes resistant to 
 psychic damage and has advantage on intelligence, wisdom, and charisma saving 
@@ -3130,80 +3130,80 @@ throws for the duration.
 ```
 ```
 Aura of Vitality (3rd)
-Casting time: 1 action 
-Range:  self (30-foot radius)
+Casting Speed: 1 action 
+Distance:  self (30-foot radius)
 Duration: Concentration, up to 1 minute
 An aura emanates from you in a 30ft radius, moving with you. As a bonus action, you may cause one creature within the aura to regain 2d6HP.
 ```
 
 ```
 Beacon of Hope (3rd)
-Casting time: 1 action
-Range: 30ft
+Casting Speed: 1 action
+Distance: 30ft
 Duration: Concentration, up to 1 minute
 You imbue any number of creatures within this spell's rangue with hope and vitality, granting them advantage on WIS saves and death saves(roll die twice, take highest). They additionally gain the maximum possible HP from healing.
 ```
 
 ```
 Create Food and Water (3rd)
-Casting time: 1 action
-Range: 30ft
+Casting Speed: 1 action
+Distance: 30ft
 Duration: Instantaneous
 You create 45lb of food and 30 gallons of water within range. The food spoils after 24 hours.
 ```
 
 ```
 Daylight (3rd)
-Casting time: 1 action
-Range: 60ft
+Casting Speed: 1 action
+Distance: 60ft
 Duration: 1 hour
 You create a 60ft radius sphere of light centered on a point within range. The interior is bright light, and 60ft surrounding it is cast with dim light. You may select an object to cast this spell on, allowing it to move with the object. Any magical darkness is destroyed within the sphere.
 ```
 
 ```
 Dispel magic (3rd)
-Casting time: 1 action
-Range: 120ft
+Casting Speed: 1 action
+Distance: 120ft
 Duration: Instantaneous
 Target either a creature, object, or a magical effect within range. Any spells effecting the target which are 3rd level or lower instantly end. For each higher level spell, make a spellcasting check with a DC of 10+ the spell's level to end it.
 ```
 
 ```
 Mass Healing Word (3rd)
-Casting time: 1 bonus action
-Range:  60ft
+Casting Speed: 1 bonus action
+Distance:  60ft
 Duration: Instantaneous
 You speak a word of healing, and up to six creatures you can see in range regain HP equal to 1d4 + your spellcasting modifier. Undead and constructs are unaffected.
 ```
 
 ```
 Meld into stone (3rd)
-Casting time: 1 action
-Range:  Touch
+Casting Speed: 1 action
+Distance:  Touch
 Duration:  8 hours
 You touch one stone object or surface that is large enough to contain your body, then meld your body and all carried equipment into the stone for the duration. Using your movement, you may meld into other sufficiently large stone objects or surfaces if they touch the original. You are invisible and cannot be detected without the aid of magic.
 ```
 
 ```
 Motivational Speech (3rd)
-Casting time: 1 minute
-Range: 60ft
+Casting Speed: 1 minute
+Distance: 60ft
 Duration: 1 hour
 Up to five creaturs within range that can hear you gain 5 temporary HP and have advantage on wisdom saving throws for the duration. Under the effect, a creature hit by an attack has advantage on their next roll. Once the creature loses it's temporary HP from this spell, the effect ends for it.
 ```
 
 ```
 Spirit Guardians (3rd)
-Casting time: 1 action
-Range: self(15ft radius)
+Casting Speed: 1 action
+Distance: self(15ft radius)
 Duration: Concentration, up to 10 minutes
 Spirit guardians encircle you within a 15ft radius for the duration. Creatures of your choice have halved speed within the radius, and upon entering or starting their turn inside, must make a WIS save to halve 3d8 radiant damage.
 ```
 
 ```
 Skill empowerment (3rd)
-Casting time: 1 action 
-Range: Touch
+Casting Speed: 1 action 
+Distance: Touch
 Duration: Concentration, 1 hour
 You touch a creature, and select a skill of your choice. If they don't already receive double proficiency bonus for checks with that skill, they do for the duration.
 ```
@@ -3212,32 +3212,32 @@ You touch a creature, and select a skill of your choice. If they don't already r
 
 ```
 Aura of Life (4th)
-Casting time: 1 action 
-Range: Self (30ft radius)
+Casting Speed: 1 action 
+Distance: Self (30ft radius)
 Duration: Concentration, up to 10 minutes
 You radiate an aura that extends 30ft in every direction. All non-hostile creatures within range are resistant to necrotic damage and can't have their max HP reduced. Any non-hostile creature that is down gains 1HP at the start of their turn.
 ```
 
 ```
 Aura of Purity (4th)
-Casting time: 1 action
-Range: self (30ft radius)
+Casting Speed: 1 action
+Distance: self (30ft radius)
 Duration: Concentration, up to 10 minutes
 You radiate an aura that extends 30ft in every direction. Non-hostile creatures within the aura cannot become diseased, have resistance to poison damage, and have advantage on saving throws to resist being blinded, charmed, deafened, frightened, paralyzed, poisoned, and stunned.
 ```
 
 ```
 Banishment (4th)
-Casting time: 1 action
-Range: 60ft
+Casting Speed: 1 action
+Distance: 60ft
 Duration: Concentration, up to 1 minute
 You target one creature. If it's native to your current plane, it's banished to a harmless pocket dimension, incapacitated until the spell ends. If the creature's instead native to another plane, it is sent there with a pop, returning if the spell ends before one minute.
 ```
 
 ```
 Control Water (4th)
-Casting time: 1 action
-Range: 300ft
+Casting Speed: 1 action
+Distance: 300ft
 Duration: Concentration, up to 10 minutes
 You can influence an amount of water that fits within a 100ft cube within range. Apply one of the following effects, repeating or changing effects as an action each 6 seconds.
 
@@ -3250,40 +3250,40 @@ You can influence an amount of water that fits within a 100ft cube within range.
 
 ```
 Death Ward (4th)
-Casting time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: 8 hours
 You touch a creature, and a mark of your deity appears on it's forehead. The first time a creature would fall below 1HP, it instead is dropped to 1HP and the spell ends, removing the mark.
 ```
 
 ```
 Divination (4th)
-Casting time: 1 action 
-Range:  self
+Casting Speed: 1 action 
+Distance:  self
 Duration: Instantaneous
 You make contact with your deity and ask a question of an event likely to take place within 7 days. The keeper offers a truthful reply, either as a short phrase, cryptic rhyme, or an omen. The spell cannot accurately account for circumstantial changes such as additional spells being cast, or losing or gaining a companion.
 ```
 
 ```
 Guardian of Faith (4th)
-Casting time: 1 action
-Range: 30ft
+Casting Speed: 1 action
+Distance: 30ft
 Duration: 8 hours
 A spectral guardian appears and hovers within an the spell's range, holding a sword and shield baring the mark of your deity. Any hostile creature entering a 10ft radius of the guardian for the first time must make a DEX save to halve 20 radiant damage. The guardian disappears when it has dealt a total of 60 damage.
 ```
 
 ```
 Locate Creature (4th)
-Casting time: 1 action
-Range: self
+Casting Speed: 1 action
+Distance: self
 Duration: Concentration, up to 1 hour
 Choosea creature that is familiar to you, and name or describe them. You sense the creature's direction, as long as they're within a mile of the creature. You know the creature's direction if it's moving. Your familiarity may be with the specific creature, or the kind of creature, provided you have seen either in person before.
 ```
 
 ```
 Arcane Eye (4th)
-Casting Time: 1 action 
-Range: 30ft
+Casting Speed: 1 action 
+Distance: 30ft
 Duration: Concentration, up to 1 hour
 Choose a point within range where you create a magical hovering eye that is invisible. The eye can look in every direction, and you receive visual information mentally, which has normal vision in addition to darkvision out to 30 feet.
 
@@ -3292,24 +3292,24 @@ You can move the eye up to 30ft with an action, provided it does not enter anoth
 
 ```
 Blight (4th)
-Casting Time: 1 action 
-Range: 30ft
+Casting Speed: 1 action 
+Distance: 30ft
 Duration: Instantaneous
 Choose one target in range, which must make a CON save to havle 8d8 necrotic damage. Undead or constructs are unaffected. If the creature is a plant, it makes the save with disadvantage. Regular plants die immediately.
 ```
 
 ```
 Charm Monster (4th)
-Casting Time: 1 action
-Range: 30ft
+Casting Speed: 1 action
+Distance: 30ft
 Duration: 1 hour
 Choose one creature you can see within range. It must make a WIS save, or else it is charmed by you until the spell ends or you or your companions attempt to cause it harm. The creature has advantage on this save if it is hostile toward you. The creature remembers it was charmed by you when the spell ends.
 ```
 
 ```
 Confusion (4th)
-Casting Time: 1 action 
-Range:  90ft
+Casting Speed: 1 action 
+Distance:  90ft
 Duration: Concentration, up to 1 minute
 You designate a 10ft radius sphere centered on a point in range. Every creature inside must succeed a WIS save when you cast the spell, or become affected.
 
@@ -3324,8 +3324,8 @@ Affected creatures can remake the save at the end of their turn.
 
 ```
 Dimension Door (4th)
-Casting Time: 1 action
-Range: 500 feet
+Casting Speed: 1 action
+Distance: 500 feet
 Duration: Instantaneous
 You teleport to a position within range. You can designate it by description, or distance and direction. You cannot exceed your carry weight, and you can bring one creature of your size or smaller if they are not exceeding their own carry weight, provided they aren't more than 5ft from you.
 
@@ -3334,24 +3334,24 @@ Trying to teleport into an object or creature's occupied space causes you and an
 
 ```
 Elemental Bane (4th)
-Casting Time: 1 action
-Range: 90ft
+Casting Speed: 1 action
+Distance: 90ft
 Duration: Concentration, up to 1 minute
 Target one creature you can see within range, then assign a damage type(acid, cold, fire, lightning, or thunder). The target makes a CON save to avoid the spell's effect. The next time the target takes damage of that type during the duration, they take 2d6 damage of that type. Additionally, the creature loses resistance, if they have one, to the damage type until the spell ends. 
 ```
 
 ```
 Stone Shape (4th)
-Casting time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: Instantaneous
 You touch either a section of stone that fits within a 5ft cube, or a medium size or smaller stone object. You form it into a shape of your choosing. It may have up to two hinges and a latch, but finer mechanical detail isn't possible.
 ```
 
 ```
 Revivify (4th)
-Casting time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration:
 You speak a command word while holding a gem, and it shatters into a cloud of
 mist. You then touch one creature that has died in the last ten minutes, and the
@@ -3362,8 +3362,8 @@ it succeeds, the creature lives with a mark of your deity on their forehead.
 
 ```
 Life Mist (4th)
-Casting time: 10 minutes
-Range: 60 feet
+Casting Speed: 10 minutes
+Distance: 60 feet
 Duration: Instantaneous
 You pray and a tendril of mist snakes out of your mouth and writhes in search
 of those within range, entering in through their nostrils and mouths in order
@@ -3372,8 +3372,8 @@ to impart healing magic. Each creature in range is healed to maximum hit points.
 
 ```
 Miracle (4th)
-Casting time: 1 action
-Range: 120 feet
+Casting Speed: 1 action
+Distance: 120 feet
 Duration: Instantaneous
 You pray to your deity for some form of divine intervention in a moment of great need.
 Roll 1d4. On an odd result, roll another to figure out which of the following happens:
@@ -3391,8 +3391,8 @@ deity's influence.
 
 ```
 Ferroform (4th)
-Casting Time: 1 action
-Range: self
+Casting Speed: 1 action
+Distance: self
 Duration: Concentration, up to 1 minute
 You levitate multiple metal objects to gather around your body and provide a protective layer.
 For the duration, your AC is 20 and you have have resistance to non-magical physical damage.
@@ -3400,8 +3400,8 @@ For the duration, your AC is 20 and you have have resistance to non-magical phys
 
 ```
 Heart Crush (4th)
-Casting Time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: Instantaneous
 You target one creature you can see that has a heart and attempt to crush their heart. They must make  a constitution saving throw. On a failure they receive 8d6 force damage, and on a success they take half 
 as much.
@@ -3409,8 +3409,8 @@ as much.
 
 ```
 Crushing Force (4th)
-Casting time: 1 action
-Range: 60ft
+Casting Speed: 1 action
+Distance: 60ft
 Duration: Concentration
 You extend your hands to a creature within range that you can see. A force compresses their body, dealing 2d8 force damage.
 
@@ -3419,8 +3419,8 @@ On your following turns, you may use your action to continue crushing them. This
 
 ```
 Mind Meld (4th)
-Casting Time: 1 minute
-Range: Touch
+Casting Speed: 1 minute
+Distance: Touch
 Duration: Instantaneous
 You and up to 6 creatures link hands and meditate. You each attempt to connect 
 your minds for the purpose of lending mental stamina. Each creature rolls 
@@ -3432,8 +3432,8 @@ spell with a psionic die, substitute with 1d4.
 
 ```
 Stoneskin (4th)
-Casting Time: 1 action
-Range: touch
+Casting Speed: 1 action
+Distance: touch
 Duration: Concentration, 1 minute
 Your skin transforms into stone for the duration, and you are resistant to
 non-magical physical damage, fire damage, and lightning damage.
@@ -3441,16 +3441,16 @@ non-magical physical damage, fire damage, and lightning damage.
 
 ```
 Fireball (4th)
-Casting Time: 1 action
-Range: 120 feet
+Casting Speed: 1 action
+Distance: 120 feet
 Duration: Instantaneous
 You extend your thumb in the air and aim your index finger at a point in range that you can see. A pea-sized mote of fire leaps from your fingertip and hits that point, erupting into a 15 foot radius sphere of flame. The flame travels around corners and sets objects on fire that are not held or worn. All creatures in the explosion must make a dexterity saving throw, taking 8d6 fire damage on a failure and half as much on a success.
 ```
 
 ```
 Summon Devil (4th)
-Casting Time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: 1 minute
 You speak the name of a devil and throw the object to a point within range.
 It explodes into a portal from which a devil emerges. Your relationship with the devil decides whether it is hostile, neutral, or friendly. If you have not made any deals with this devil, it will likely propose one based on your mutual interests.
@@ -3458,16 +3458,16 @@ It explodes into a portal from which a devil emerges. Your relationship with the
 
 ```
 Polymorph (4th)
-Casting Time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: Instantaneous
 You target a creature in range that you can see. If they are unwilling, they may make a wisdom saving throw to resist the spell, which ends the spell on a successful saving throw. You name a kind of beast or humanoid that you have seen, and the targeted creature is transformed into that kind of creature. Your stat block is replaced by that of the chosen kind of creature, except for your Intelligence, Wisdom, and Charisma, which are retained. If the creature dies in their transformed state, they remain dead. A creature may make a wisdom saving throw to attempt to revert. If they fail, the DC of the save raises by +5 for the next hour.
 ```
 
 ```
 Dreamscape (4th)
-Casting Time: 1 hour
-Range: 1 mile
+Casting Speed: 1 hour
+Distance: 1 mile
 Duration: Concentration, up to 8 hours
 You dream of an environment of your choosing that extends in a one mile radius of yourself.
 You and any sleeping creatures within range enter this dreamscape. Spellcasting and magic abilities
@@ -3480,8 +3480,8 @@ by succeeding a spellcheck against a DC set by the GM based on the attempted alt
 
 ```
 Mind Probe (4th)
-Casting Time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: Concentration, up to 1 minute
 You target one creature who makes a wisdom saving throw. On a success, they receive 1d4 psychic damage.
 On a failure, you enter their mind and they fall into a deep trance. While you are in their mind, you may
@@ -3493,8 +3493,8 @@ creature can make a wisdom saving throw in order to break the trance.
 
 ```
 Antimagic field (4th)
-Casting Time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: 1 minute
 You speak a command word and create an anti-magic field in a 60 foot radius
 sphere centered on a point within range. Within this field spells cannot be cast
@@ -3503,8 +3503,8 @@ and magic items become temporarily inert.
 
 ```
 Telekinesis (4th)
-Casting time: 1 action 
-Range: 60ft
+Casting Speed: 1 action 
+Distance: 60ft
 Duration: Concentration, up to 10 minutes
 Your convert your thoughts into powerful telekinetic energy, and may perform one of the following acts now, and again as an action for the duration.
 - Make a contested spell vs STR check to move a creature of size huge or smaller up to 30ft within the spell's range. 
@@ -3517,8 +3517,8 @@ Your convert your thoughts into powerful telekinetic energy, and may perform one
 
 ```
 Teleportation Circle (5th)
-Casting time: 1 minute 
-Range: 10ft
+Casting Speed: 1 minute 
+Distance: 10ft
 Duration: 1 round
 You draw a 10ft wide circle of runes matching that of a permanent teleportation circle whose rune sequence you know. The portal opens until the end of your next turn, and any creature that steps on it is teleported to the destination.
 
@@ -3527,64 +3527,64 @@ To create a permanent teleportation circle, you may cast this spell on the same 
 
 ```
 Transmute Rock (5th)
-Casting time: 1 minute 
-Range: 120ft
+Casting Speed: 1 minute 
+Distance: 120ft
 Duration: Until dispelled
 Choose up to a 40ft cube area and either turn rock to mud, or mud to rock. Mud made by this spell falls (if cast on the ceiling), forcing a DEX save to halve 4d8 bludgeoning, and this mud requires four times the movement to pass through. When turning mud to rock, creatures inside make a DEX save to be shunted safely above, or else are restrained. A DC20 STR check can break out of the rock, which has an AC of 15 and 25HP. 
 ```
 
 ```
 Wall of Light (5th)
-Casting time: 1 minute 
-Range: 120ft
+Casting Speed: 1 minute 
+Distance: 120ft
 Duration: Concentration, up to 10 minutes
 You materialize on a point within range a 6-inch thick wall of stone consisting of ten linked 10ft square panels. Creatures cut through by the wall are pushed to a side of your choice, and a creature that would be enclosed by the wall may make a DEX save to move up to it's movement to escape being enclosed. The wall must connect with a firm foundation of existing stone, and may be used to bridge a gap or create a ramp. Each panel has AC15 and 30HP per inch of thickness. Concentrating on this spell the entire time makes the spell permanent, but otherwise it disappears when the spell ends.
 ```
 
 ```
 Wall of Force (5th)
-Casting time: 1 minute 
-Range: 120ft
+Casting Speed: 1 minute 
+Distance: 120ft
 Duration: Concentration, up to 10 minutes
 You create an invisible plane in any orientation. It may either be a 10ft sphere or ten linked 10ft square panels, which are 1/4 inch thick. Creatures cut through the wall are bounced to a side of your choice. The wall's immune to damage and dispel magic. The disintegrate spell instantly destroys the wall.
 ```
 
 ```
 Steel Wind Strike (5th)
-Casting time: 1 action 
-Range: 30ft
+Casting Speed: 1 action 
+Distance: 30ft
 Duration: Instantaneous
 Brandish a melee weapon and select up to five creatures in range. You teleport in front of each and make an attack roll, dealing 6d10 force damage on a hit. You stand by the last target you teleport to.
 ```
 
 ```
 Synaptic Static (5th)
-Casting time: 1 action 
-Range: 120ft
+Casting Speed: 1 action 
+Distance: 120ft
 Duration: Instantaneous
 You create an explosion of psychic energy within a 20ft sphere centered on a point within range, and all creatures inside must succeed an INT save to halve 8d6 psychic damage and avoid having muddled throughts for 1 minute. Muddled thoughts give a d6 penalty to attack rolls, skill checks, ability checks, and concentration checks. They may repeat the save at the end of their turn to end the muddled thoughts.
 ```
 
 ```
 Seeming (5th)
-Casting time: 1 action 
-Range: 30ft
+Casting Speed: 1 action 
+Distance: 30ft
 Duration: 8 hours
 Select any number of creatures in range and disguise their body, clothing, armor, weapons, and any other posessions to assume the form of other creatures. You may use your action to dismiss it. These changes are not physical and do not hold up to close scrutiny. If you create a hat, objects may pass through it. An investigation check opposing your spell DC may overcome the disguise.
 ```
 
 ```
 Commune (5th)
-Casting time: 1 minute 
-Range: self
+Casting Speed: 1 minute 
+Distance: self
 Duration: 1 minute
 You contact your deity or a divine proxy and ask up to three yes or no quiestions, which are answered to the best of the deity or divine proxy's ability. Instead of yes or no, you may receive 'unclear' as an answer if the question stands beyond the deity's knowledge.
 ```
 
 ```
 Contagion (5th)
-Casting time: 1 action 
-Range: Touch
+Casting Speed: 1 action 
+Distance: Touch
 Duration: 7 days
 Make a melee spell attack against one creature. If it can be afflicted with disease, roll a random disease.
 1. Eyefrost: the creature's eyes turn milky white and it is blinded for the duration.
@@ -3597,16 +3597,16 @@ Make a melee spell attack against one creature. If it can be afflicted with dise
 
 ```
 Dawn (5th)
-Casting time: 1 action 
-Range: 60ft
+Casting Speed: 1 action 
+Distance: 60ft
 Duration: Concentration, up to 1 minute
 You create a 30ft radius, 40ft-high cylindrical pillar of bright daylight centered on a point within range. When within 60ft of the pillar, you may move it up to 60ft as a bonus action on your turn. When it is created, all creature inside must make a CON save to halve 4d10 radiant damage, Creatures must also make this save when ending their turn inside the pillar.
 ```
 
 ```
 Dispel Evil and Good (5th)
-Casting time: 1 action
-Range: Self
+Casting Speed: 1 action
+Distance: Self
 Duration: Concentration, up to 1 minute
 An aura appears around you and protects you from certain types of creatures. This includes celestials, elementals, fey, fiends, and undead. They have disadvantage on attacks against you for the duration.
 
@@ -3617,32 +3617,32 @@ You may otherwise end the spell as an action by making a melee spell attack agai
 
 ```
 Flame Strike (5th)
-Casting time: 1 action 
-Range: 60ft
+Casting Speed: 1 action 
+Distance: 60ft
 Duration: Instantaneous
 You call down a pillar of divine fire on a point within range. Every creatrue in the 10ft radius, 40ft hight cylindrical area of the pillar must succeed a DEX save to halve 4d6 fire and 4d6 radiant damage. 
 ```
 
 ```
 Geas (5th)
-Casting time: 1 minute 
-Range: 60ft
+Casting Speed: 1 minute 
+Distance: 60ft
 Duration: 30 days
 You make a magical command on a creature you can see within range, and it must succeed a WIS save or become charmed for the duration. While charmed, it receives 5d10 psychic damage every time it acts in a way that is directly counter to your command, but no more than once a day. You can can issue a command of your choice, provided the activity won't result in certain death for the creature. 
 ```
 
 ```
 Greater Restoration (5th)
-Casting time: 1 action
-Range: Touch
+Casting Speed: 1 action
+Distance: Touch
 Duration: Instantaneous
 You sprinkle diamond dust worth 100GP onto a creature to undue a debilitating effect. You may also regrow any of the creature's missing organs.
 ```
 
 ```
 Hallow (5th)
-Casting time: 24 hours
-Range: Touch
+Casting Speed: 24 hours
+Distance: Touch
 Duration: Until Dispelled
 You touch a point and create a field that extends 60 feet. The following types of creatures cannot enter or cast spells into this area: celestials, elementals, fey, fiends, and undead. Any creature entering this area ceases to be charmed, frightened, or possessed upon entering the area.
 
@@ -3660,8 +3660,8 @@ In addition, choose another effect.
 
 ```
 Holy Weapon (5th)
-Casting time: 1 bonus action 
-Range: Touch
+Casting Speed: 1 bonus action 
+Distance: Touch
 Duration: Concentration, up to 1 hour
 You touch a weapon and imbue it with holy power, causing it to emit 30ft of bright light, 30ft of dim light, and to deal an extra 2d8 radiant damage on a hit. It's now magical if it wasn't already.
 
@@ -3670,8 +3670,8 @@ You may dismiss this spell and cause the weapon to emit a burst of radiance, eff
 
 ```
 Insect Plague (5th)
-Casting time: 1 action
-Range: 300 feet
+Casting Speed: 1 action
+Distance: 300 feet
 Duration: Concentration, up to 10 minutes
 You designate a 20ft radius sphere centered on a point within range. It fills with locusts that swarm and bite, causing the area to become difficult terrain.
 
@@ -3680,16 +3680,16 @@ When first cast, each creature in the sphere must make a CON save to halve 4d10 
 
 ```
 Mass Cure Wounds (5th)
-Casting time: 1 action
-Range: 60ft
+Casting Speed: 1 action
+Distance: 60ft
 Duration: Instantaneous
 You designate a 30ft radius sphere centered on a point within range. Up to six creatures in that sphere regain HP equal to 3d8 + your spellcasting mod. This spell doesn't effect undead or constructs.
 ```
 
 ```
 Planar Binding (5th)
-Casting time: 1 hour
-Range: 60ft
+Casting Speed: 1 hour
+Distance: 60ft
 Duration: 24 hours
 You cast this spell targeting a celestial, elemental, fey, or fiend to bind them to your service. They must be present for the entire casting of the spell, at the end of which they make a CHA save to avoid being bound.
 
@@ -3698,8 +3698,8 @@ The creature follows your instructions to the letter, but may attempt to twist y
 
 ```
 Raise Dead (5th)
-Casting time: 1 hour
-Range: Touch
+Casting Speed: 1 hour
+Distance: Touch
 Duration: Instantaneous
 You touch a creature that has been dead for no more than 10 days. If it's soul is willing and able to return to it's body, it does and the creature wakes with 1HP.
 
@@ -3710,8 +3710,8 @@ The creature has a -5 penalty to ability checks, skill checks, attack rolls, and
 
 ```
 Scrying (5th)
-Casting time: 10 minutes 
-Range: Self
+Casting Speed: 10 minutes 
+Distance: Self
 Duration: Concentration, up to 10 minutes
 Choose a creature that is on the same plane as you. Thje creature makes a WIS save, or else an invisible sensor appears within 10ft of the target, which allows you to see and hear as if you were standing in the sensor's place for the duration. The sensor appears as a limunous orbt to anyone capable of seeing invisible objects. The WIS save is modified by the following factors:
 +5 Secondhand (You have heard of the target)
@@ -3726,8 +3726,8 @@ You may instead choose a location you have seen before, causing the sensor to ap
 
 ```
 Curse (5th)
-Casting time: 1 action
-Range: 30 feet
+Casting Speed: 1 action
+Distance: 30 feet
 Duration: Instantaneous
 You declare that a creature within range that can hear and understand you is cursed.
 They must succeed a wisdom saving throw, or become bestowed with a curse, the
@@ -3758,8 +3758,8 @@ Roll for the curse, remedy, and temporary remedy.
 
 ```
 Raise Undead Horde (5th)
-Casting Time: 10 minutes
-Range: 60 feet
+Casting Speed: 10 minutes
+Distance: 60 feet
 Duration: 24 hours
 You draw a rune on the ground near at least 6 corpses or skeletons. When you do so, the rune lights up red and red mist flows out of it. A huge swarm of medium undead rises up, and listens to commands you make. 
 
@@ -3770,16 +3770,16 @@ The horde listens to your orders for the duration. You may cast this spell again
 
 ```
 Conjure Demon (5th)
-Casting Time: 1 action
-Range: 60 feet
+Casting Speed: 1 action
+Distance: 60 feet
 Duration: Concentration, 1 hour
 You throw the object carved with the name of a demon at a point within range and speak a command word. The object explodes into a portal from which that creature emerges. bound by your will. The creature will follow your commands for the duration. When the spell ends, the demon regains control of itself and becomes hostile.
 ```
 
 ```
 Chain Lightning (5th)
-Casting Time: 1 action
-Range: 120 feet
+Casting Speed: 1 action
+Distance: 120 feet
 Duration: Instantaneous
 You hold out your hands and lightning leaps from them to a creature of choice.
 That creature must make a dexterity saving throw, taking 6d8 lightning damage on a failure, or half as much on a success.
@@ -3789,8 +3789,8 @@ If the creature fails, you may choose to chain the lightning. If you do, a rando
 
 ```
 Firewall (5th)
-Casting Time: 1 action
-Range: 120 feet
+Casting Speed: 1 action
+Distance: 120 feet
 Duration: Concentration, 1 hour
 You create a roaring flame wall. One side of the wall produces a firestorm, and
 any creature that starts it's turn within 10 feet of the wall must make a
@@ -3805,8 +3805,8 @@ surround a 20ft square, facing outwards.
 
 ```
 Judgement (5th)
-Casting time: 1 action
-Range: 120 feet
+Casting Speed: 1 action
+Distance: 120 feet
 Duration: Concentration, up to 1 minute
 Your eyes glow with holy fire and if you have hair, it turns golden for the
 duration. For the duration, you may use your bonus action to name one sin
@@ -3826,8 +3826,8 @@ are judging them for. Each creature can be judged for each sin only once.
 
 ```
 Angelic Transformation (5th)
-Casting time: 1 bonus action
-Range: self
+Casting Speed: 1 bonus action
+Distance: self
 Duration: Concentration, up to 10 minutes
 Your body is bathed in holy light, and you transform. You may select three listed
 features for your transformation, which end after the duration.
@@ -3843,16 +3843,16 @@ features for your transformation, which end after the duration.
 
 ```
 Nightmare Gate (5th)
-Casting Time: 1 action 
-Range: 60ft
+Casting Speed: 1 action 
+Distance: 60ft
 Duration: Concentration, 10 minutes
 You create a portal on a 10ft square surface within range. Black tentacles reach out of the portal to grasp and drag any creature within 30ft of it closer. Each creatue must succeed a strength saving throw, or else become grappled and dragged 10ft closer. Each tentacle has 10HP and 12AC. If a creature is dragged inside the nightmare gate, they disappear into a nightmare realm, where they are torn to pieces and die.
 ```
 
 ```
 Bodyswap (5th)
-Casting Time: 1 action 
-Range: Touch
+Casting Speed: 1 action 
+Distance: Touch
 Duration: 1 day
 You touch one creature, which must succeed a wisdom saving throw. If it fails,
 both you and the creature switch bodies. You each reserve your mental abilit
@@ -3864,8 +3864,8 @@ new body. If your old body is killed, you are stuck in your new body.
 
 ```
 Time Jump (6th)
-Casting Time: 1 minute
-Range: 30 feet
+Casting Speed: 1 minute
+Distance: 30 feet
 Duration: Instantaneous
 You and up to five willing creatures in range are jolted backwards in time.
 You name a target time (ie "10 years ago", "year 400 of the dwarven empire").
