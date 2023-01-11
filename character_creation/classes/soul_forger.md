@@ -81,6 +81,9 @@ You expend a soul stone and infuse one creature with a protective aura. The crea
 #### Soul healing
 You expend a soul stone and infuse one creature with healing magic. If the creature's soul was created by you, they gain 3d4 hit points. Otherwise, they gain 1d8 hit points.
 
+#### Soul Steal
+When you kill a creature with you soul blade, you may use your free action to capture it's soul inside one of your soul stones. 
+
 ### Hit point Increase
 Your maximum hit points increase by 1d6+CON.
 

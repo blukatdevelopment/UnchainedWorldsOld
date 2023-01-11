@@ -664,8 +664,8 @@ An adventure needs to eat at least one pound of food each day, or lose one stami
 ### Sleep
 An adventurer must sleep at least 6 hours each day. Failing this, they lose one stamina die each time each morning without sleep. One may not sleep in armor.
 
-### Stamina
-An adventurer has stamina dice to measure their state of physical endurance. They may not expend a stamina die if they have none left. If an adventurer loses a stamina die when they have none left, they must succeed a DC 15 constitution save to avoid falling unconscious for 1d4 hours. If you lose stamina dice when unconscious in this way, roll the die and subtract it from your hit points. If your hit points run out this way, you die.
+### Stamina Dice
+An adventurer has stamina dice to measure their state of physical endurance. They may not expend a stamina die if they have none left. If an adventurer loses a stamina die when they have none left, they must succeed a DC 15 constitution save to avoid falling unconscious for 1d4 hours. If you lose stamina dice when unconscious in this way, roll the die and subtract it from your hit points. If your hit points fall below 1 this way, you die.
 
 ### Clothing
 If exposed to the elements in an extremely hot or cold environment, an adventurer must succeed a DC 14 constitution saving throw or lose a stamina die. This check repeats for each hour spent exposed to the elements. An adventurer may avoid these checks by staying in shelter or wearing clothing appropriate to the weather.

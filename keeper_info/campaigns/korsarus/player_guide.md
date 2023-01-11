@@ -1,25 +1,31 @@
 # Quickstart Guide
 
 ## Your first character
-Your first character starts as a Commoner from the Soot culture. This will get you into the action quickly. As you interact with the world, you'll unlock new classes, cultures, and other character options. Your appearance can be your choice of human or beast folk, as described below.
+Your first character starts as a Commoner from the Soot culture. This will get you into the action quickly. As you interact with the world, you'll unlock new classes, cultures, and other character options. When you unlock your first class, you may immediately give them a level in this class and update their ability scores using the rules described in the `Your other characters` section.
 
-### Human
-Humans are the most common humanoid by far, and they vary heavily. While some humans stand eight feet in height, and others stand under four, it's most common for humans to sand between five and six feet tall. Rarely, humans have elongated ears, or those of a beast coupled with a similar tail. The most common complexion for human ranges from pink, yellow, tan, and brown. Green, blue, and crimson skin is exotic, but not unheard of. Humans were originally created by Bimros in an attempt to populate the world with worshippers.
+### Your Appearance
+Your appearance can be your choice of human or beast folk, as described below.
 
-### Beast folk
-Beast have a vaguely humanoid frame, but their features are that of beasts. Fur, scales, feathers, and leathery hides are the norm for beast folk.
+#### Human
+Humans are the most common humanoid by far, and they vary heavily. While some humans stand eight feet in height, and others stand under four, it's most common for humans to sand between five and six feet tall. Rarely, humans have elongated ears, or those of a beast coupled with a similar tail. The most common complexion for human ranges from pink, yellow, tan, and brown. Green, blue, and crimson skin is exotic, but not unheard of. Humans were originally created by the god Bimros in an attempt to populate the world with worshippers.
+
+#### Beast folk
+Beast have a vaguely humanoid frame, but their features are that of beasts. Fur, scales, feathers, and leathery hides are the norm for beast folk. They were originally the creation of the god Uaos, who envied the creation of humans and wanted his own worshippers.
 
 ### Your backstory
-You were born and raised in the filthy slums of the copper ring of Korsarus City. Whether your old life involved shoveling maneur, begging on the street, or picking pockets is irrelevant. You've got nothing to show for that life, and are taking, and nothing to lose by abandoning it for a life of adventuring.
+You were born and raised in the filthy slums of the copper ring of Korsarus City. Whether your old life involved shoveling manure, begging on the street, or picking pockets, one truth remains. You've got nothing to show for that life, and nothing to lose by abandoning it for a life of adventuring. For the first time in your life, you are ready to plunge head-first into danger, even if it means abandoning the protection of Korsarus's outer-most walls.
+
+![Korsarus City](https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/keeper_info/campaigns/korsarus/korsarus_city.png "Korsarus City")
 
 ### Your stat block
-You can use the `/character update` command and use the stat block below. You might want to change the name from "Fresh Meat", though.
+To get you started quickly, don't worry about building a stat block. A stat block has been provided below.
+You can use Blubot's `/character update` command and use this stat block to create a character. You might want to change the name from "Fresh Meat", though.
 ```
 {
 "name": "Fresh Meat",
 "xp": 0,
 "ac": 10,
-"hp": 5,
+"hp": 4,
 "class": "Commoner",
 "size": "medium",
 "culture": "Soot",
@@ -41,3 +47,132 @@ You can use the `/character update` command and use the stat block below. You mi
     ]
 }
 ```
+
+### Character thread
+Add a comment to `#characters` with your character name. Then create a thread for them and post your stat block in it. You can use the Example character as reference, except that you won't need to post standard array or roll abilities yet.
+
+### Using Blubot
+- `/character update` updates a character, or creates one if no character with that name exists. 
+- `/character active` tells you which character is currently active
+- `/character set` sets your active character
+- `/character list` lists your characters
+- `/character get` gives you the specified character's json
+- `/character delete` deletes the specified character
+- `/check` rolls an ability or skill check twice. The first value is used unless advantage or disadvantage applies to the roll.
+- `/attack list` shows what attacks your character has
+- `/attack use` makes an attack
+- `/status display` shows your character's status
+- `/status clear` clears their status to full HP/THP/stamina
+- `/status hp` change your hit points. Negative is damage, positive is healing. THP is automatically consumed before HP.
+- `/status thp` change the amount of thp you have. Positive adds, negative removes.
+- `/status stamina` change the number of stamina dice you have. Positive adds, negative substracts.
+
+## Your other characters
+After you've made your first character, you'll generate ability scores, choose a culture, and then choose a class.
+
+### Ability Scores
+You get a choice. You can either use the standard array, or roll scores.
+
+#### Standard Array
+This is the consistent option that works well if you know what class you'd like to pick, as you'll have the same values to work with. `[15, 14, 13, 12, 10, 8]` You may assign these ability scores in your preferred order.
+
+#### Roll Scores
+Get ready to discover your character! Use rodbot's `!roll stats`
+
+### Pick a culture
+Select a culture, either Soot, or another you have unlocked.
+
+### Pick a class
+Select a class, either Commoner, or another you have unlocked.
+
+### Create your stat block with the Blubot character page
+You can enter your character details. The page will generate a blob of JSON for you. You can feed this to Blubot using the `/character update` command.
+
+### Character thread
+Add a comment to `#characters` with your character name. Then create a thread for them and post your stat block in it. If you're rolling ability scores, do it there with the `.roll abilities` command using rodbot.
+
+## Content guide
+
+### [Core Rules]()
+These spell out how to play the base game, minus classes, cultures, etc.
+
+### [Cultures](https://homebrewery.naturalcrit.com/share/4XnPfJgwGg-x)
+Culture roughly describes the norms you were raised under. Within any culture, there's a range of variation from the given norms.
+
+#### Gold Robes
+A wealthy people left over from the aristocracy of the empire of man. They have rich taste and wear robes with gold woven into the hem.
+
+#### The Silent
+A people so dedicated to protecting the lost secrets of Titan technology that they cut their own tongues out and speak with their hands.
+
+#### Bronzehammers
+A people obsessed with a mystical affinity for metal. Each family maintains a hammer with the full lineage inscribed.
+
+#### Coggers
+A people concerned with scientific innovation that have great reverance for tiny folk.
+
+#### Soot
+A people which provide the labor needed to propel industrial expansion.
+
+#### Field Folk
+Aggrarians who enjoy the peaceful life of villages and small towns, and who have an affinity for giant folk, who often act as their protectors.
+
+#### Deep Folk
+Living without the sun off of subterranean life, the deep folk are greatly hospitable to those they meet.
+
+#### Wild Folk
+A king's worst nightmare: wild folk are obsessed with dismantling structures of authority and are never far when a revolution occurs.
+
+#### Greenfoot
+Those who retreat from industry and attempt to live in harmony with nature, under the protection of the Fey.
+
+#### Wayfarers
+A people of travelers who share their special interests and eclectic hoards of knowledge with the world one city at a time.
+
+### Classes
+Many classes offer one distinct archetype, while some provide feats from a list, and others are broken into subclasses.
+
+#### [Commoner](https://homebrewery.naturalcrit.com/share/RhYcMMb8EvnP)
+The starter class that prepares you to feel very powerful playing any of the others.
+
+#### [Warrior](https://homebrewery.naturalcrit.com/share/-_W1rK4UofP-)
+You are physically tough and ferocious, and these qualities make you an excellent martial combatant.
+
+#### [Thief](https://homebrewery.naturalcrit.com/share/FrO7KSCugh9w)
+What you lack in sturdyness or ferocity, you make up for with flexibility and stealth.
+
+#### [Runesmith](https://homebrewery.naturalcrit.com/share/96GH7In3kzLe)
+You understand magic as a language that can be written on runestones and archived in books.
+
+#### [Diviner](https://homebrewery.naturalcrit.com/share/RcgnErV5EpEs)
+Good and bad deeds result in gaining and losing piety, which is the power source for your divine spellcasting.
+
+#### [Monk](https://homebrewery.naturalcrit.com/share/eKHZbW1PXwG-)
+Channel your ki to unlock your full martial prowess and shift between defense, offense, and mobility.
+
+#### [Muse](https://homebrewery.naturalcrit.com/share/VIKSSJTBb32O)
+Your free spirit channels magic through self expression, and draws from a broad knowledge of the world.
+
+#### [Psion](https://homebrewery.naturalcrit.com/share/gub183ljMrOh)
+You appear to be a commoner, that is, until you levitate a mounted knight off the ground or make someone's heart explode.
+
+#### [Alchemist](https://homebrewery.naturalcrit.com/share/g-G93wNSTafk)
+Cook up and bank potions from random tables.
+
+#### [Gunsmith](https://homebrewery.naturalcrit.com/share/XTEiRuRNHnhB)
+There are few who can command thunder from metal quite like you.
+
+#### [Werewolf](https://homebrewery.naturalcrit.com/share/PbDFUd-rHUjJ)
+Control the terrible might of your werewolf form, or become lost in it's bloodlust.
+
+#### [Scientist](https://homebrewery.naturalcrit.com/share/S8XV09PemJoj)
+You wield the fruits of a curious and creative mind, assembling contraptions which rival magic.
+
+#### [Shaman](https://homebrewery.naturalcrit.com/share/YG2dg5FTIy9u)
+You channel the power of nature through your relationship with a nature spirit, wielding it's magic and transforming into beasts.
+
+#### [Soul Forger](https://homebrewery.naturalcrit.com/share/eiLYilzETVWn)
+With your infuser, you fill soul stones and forge fiendish minions.
+
+### [Spells](https://homebrewery.naturalcrit.com/share/MgUX9_p_7q6x)
+Spells are grouped up by level. Control + F is going to be your friend here if you're looking for a specific one.
