@@ -32,10 +32,10 @@ Unchained Worlds is a tabletop roleplaying game designed with the intention of p
 Unchained Worlds is built with “less is more” as its motto. Character customization options are slim, hit points are low for monsters and adventurers, and levels are capped at 10. This lends itself to low power play wherein a party of players must carefully consider the consequences for their actions and use lateral thinking to overcome obstacles and limitations. The worlds explored with this system are intended to be gritty and dangerous places where decision-making and roleplaying is more important than character build. While this system can be used for linear epic campaigns and for combat-focused power gaming, such play is not the primary concern.
 
 ## How do I play Unchained Worlds?
-At your table, one person assumes the role of keeper. They create the world that is explored, control non-player characters(henceforth NPC), and referee combat and player interaction with the world. All other people at the table are players, who each control a player character. Player characters (henceforth PCs) explore the world, interact with NPCs, and fight. There may be a linear campaign designed for the players to explore, or there may be a sandbox world that is explored according to the player’s interests.
+At your table, one person assumes the role of keeper. They create the world that is explored, control non-player characters(henceforth NPCs), and referee combat and player interaction with the world. All other people at the table are players, who each control a player character. Player characters (henceforth PCs) explore the world, interact with NPCs, and fight. There may be a linear campaign designed for the players to explore, or there may be a sandbox world that is explored according to the player’s interests.
 
 # Philosophy
-Make sure your group agrees with what's written here before you take it too seriously. If your table's opinionated, they'll probably have their own version that better reflects their philosophy. If they're clever, they'll just change this section and take out this warning.
+Make sure your group agrees with what's written here before you take it too seriously. If your table's opinionated, they'll probably have their own version that better reflects their philosophy. If they want to be extra clever, they'll just change this section and take out this warning.
 That said, let's dive in.
 
 ## Safety Tools
@@ -51,22 +51,22 @@ Each person at the table shows up with some premade, polished, content. Players 
 The keeper considers the player's requests for content, then creates a world with consistent mechanics. Players show up to the table and discover their characters, creating backstories and personalities in a collaborative environment within existing mechanics. While players may have ambitions for their characters, the onus is on each player to realize their goals within the mechanics of the world. The keeper prepares any content knowing that players are free to do whatever is in their character's power. The keeper respects that the player has no obligation to follow any progression along a story, and is free to carve their own path out of the world the keeper has produced. Players know that their freedom comes at the cost of consequences. One wrong step or fumbled die roll can end a player character's life permanently, and the responsibility for the character's safety falls firmly on the player. The life-or-death nature of the world creates dramatic tension by transforming any random moment into a potential struggle for survival. In response to this danger, players weave stories of their character's heroic victories and defeats against overwhelming odds. Players also engage in system mastery and thinking outside the box, learning to solve problems more flexibly to avoid the specter of death for as long as possible.
 
 ## Etiquette 
-You're probably a player reading this. There are a few ways to drive your table crazy, and I'll list some behaviors that help avoid these.
+You're probably a player reading this. I'll list some behaviors that'll help you and the rest of your table get the most fun out of the game.
 
 ### Don't argue rules at the table
 A keeper is juggling many tasks at once at the table. Sometimes their encyclopedic knowledge of the rules may falter. Now's your time to say "wait, doesn't it work like this?" If your keeper says "naw, it works like I said" or "let's do **this** right now, we can revisit later", then they likely still have enough time to get back on their train of thought and continue juggling things like pacing, dramatic tension, etc, etc. If you instead press and create an argument, the game now stops. Players will now start checking their phones, pulled out of the fantasy while you and the keeper hold legal precedings. When the legal precedings are adjorned and the table is ready to continue playing the game, the table must now rebuild any momentum they had before. If it's once in a blue moon, or during relaxed moments, no harm, no foul. If this is frequent enough, however, it can be extremely frustrating to pause gameplay to argue over what will likely seem to be minutia. To dodge this, just note your argument and bring it up outside the session, or during a break, or some other time when there's no momentum to lose.
 
 ### Take timely turns
-Initiative is rolled, the fight starts, and you watch others beginning to take their turn. Now's the time to ask "what do I do?" in your head. Consolidate it well enough, and you can quickly do your part in combat in under 30 seconds, keeping the game moving. Having a hard time remembering what options you have in combat? Draw some boxes on a blank sheet of paper. Put each of your abilities/tactics/actions in a box and draw an icon on it. If you can boil your decision down to a confident "I do X!", then you'll have plenty of space to add flowery description while keeping your turn under 30 seconds.
+Initiative is rolled, the fight starts, and you watch others beginning to take their turn. Now's the time to ask "what do I do?" in your head. Consolidate it well enough, and you can quickly do your part in combat, keeping the game moving. Having a hard time remembering what options you have in combat? Draw some boxes on a blank sheet of paper. Put each of your abilities/tactics/actions in a box and draw an icon on it. If you can boil your decision down to a confident "I do X!", then you'll have plenty of space to add flowery description while keeping your turn quick.
 
 ### Share the spotlight
 This one's easy. Want to flesh out your character by roleplaying? Involve another player character in your moment. Who do you pick? The player who hasn't gotten a chance to say anything in 10 minutes. When everyone gets a turn playing, that's gameplay. Otherwise, it's one or two people playing while everyone else watches. You enter a room with a big red button in it. You could say "I run up and press it" and shine as being chaotic. Alternatively, you could say "Oh gosh, guys, I wanna press it so badly!" and give others space to interact with your decision. Maybe they hold you back while you comically scream "Nooooo! Let me press it! We may never see another as big and red!", or maybe you start a discussion of whether you should press the big red button. Either way, by involving others, you are making your fun roleplay moment into everyone's fun roleplay moment.
 
-### Play up defeat
-Your character starts with 1HP or has failed two death saving throws. Maybe they meet some horrible fate in a spike trap. Now's the time to ham it up. Work your dramatic muscles and get creative. You could play it straight with a "Just as I feel myself beginning to slip, I mouth the words 'so long, friends'." and see how many tears you can jerk from the party. Or, maybe this is a good moment for comedy. "I fall. 'Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh! Wow, how far down does this-' Thump." There's a lot of ways you can do this. Get creative.
+### Roll with the punches
+Something unexpected or negative happens. Maybe you botch an important roll, or maybe your character falls into a dark chasm. Work your dramatic muscles and get creative. You could play it straight with a "Just as I feel myself beginning to slip, I mouth the words 'so long, friends'." and see how many tears you can jerk from the party. Or, maybe this is a good moment for comedy. "I fall. 'Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh! Wow, how far down does this-' Thump." There's a lot of ways you can do this. Get creative.
 
 # Creating your character
-This handbook provides a skeletal set of character creation options, and are not intended for use in normal campaigns. Work with your keeper to determine what supplemental books you will use when creating your characters.
+This handbook provides a skeletal set of character creation options, and are not intended for use in tyical campaigns. Work with your keeper to determine what supplemental books you will use when creating your characters.
 
 ## Abilities
 ```
@@ -97,7 +97,7 @@ MMMMMMMMMMMMMMMMWWXK0Okdooolc::;:cokKWWWWWWWWWWWWW
 ```
 
 ### What are abilities?
-When you attempt to perform a task that involves natural ability or skill, your abilities help determine the odds of success. Here’s a breakdown of what different abilities govern.
+When you attempt to perform a task that involves natural ability, your ability scores help determine the odds of success. Here’s a breakdown of what different abilities help you with.
 
 #### Strength
 Lift, climb, carry, grapple, throw, punch, and perform tasks that require brute force.
@@ -148,10 +148,10 @@ If you do not want to trust your fate to the dice, you may use an array of prede
 If you trust your fate to the dice gods, this is your ritual. You will discover your character, for better or worse. Roll 4d6. Set aside the lowest roll and ignore it. Add up the remaining three. This is your strength score. Repeat this process for the other five abilities. When you’re done, you may switch the scores of two abilities. You may do this only for one pair of abilities.
 
 ## Skills
-Every character has a proficiency bonus which increases with level progression. This proficiency bonus is added to checks made that utilize said skill.
+Every character has a proficiency bonus which increases with level progression. When you're proficient with a skill, you can add your proficiency bonus to ability checks using that skill.
 
 ### Specific Skills
-Specific skills define a very narrow action, like agriculture, tracking, or poetry. They are not defined exhaustively, and can be added by supplementary books.
+Specific skills define a very narrow action, like agriculture, tracking, or poetry. They are not defined exhaustively, and can be added by supplementary books or improvised in the moment.
 
 ### General Skills
 Some skills are general in nature, and may apply to a wide variety of situations. When a feat, culture, or class grants you proficiency in a skill, it will likely be in general skills. They are listed explicitly below. Each may be mapped to a specific ability, depending on how the skill is used.
@@ -199,11 +199,11 @@ If you wish to only use the core rules, you may use this commoner stat block in 
 ## Control your character
 As a player, you have the freedom to breathe life into your character. For example, let's take a player Geremy and his character Alexa, a human commoner. The keeper prompts Geremy "A large toad rises from the surface of the pond water and stares at you. It ribbits out a greeting. What do you do?"
 
-### Describe
-If Geremy is just getting started or uncomfortable with acting, he might respond like this. "Alexa thinks the toad is repulsive and screams and backs up." This is a completely valid way to play.
-
 ### Act
-If Geremy feels comfortable acting out his character's speech and actions, he can respond this. "'Oh gods, look at the warts and mucus! I think I might be sick.' With that, Alexa backs up." Perhaps Geremy will show a look of disgust and pretend to take a step back or cover his mouth.
+If Geremy wants to act out his character's speech and actions, he can respond this: "'Oh gods, look at the warts and mucus! I think I might be sick.' With that, Alexa backs up." Perhaps Geremy will show a look of disgust and pretend to take a step back or cover his mouth.
+
+### Describe
+If Geremy does not want to act, he might respond like this: "Alexa thinks the toad is repulsive, so she screams and backs up". This is a completely valid way to roleplay.
 
 # Combat
 
@@ -664,8 +664,8 @@ An adventure needs to eat at least one pound of food each day, or lose one stami
 ### Sleep
 An adventurer must sleep at least 6 hours each day. Failing this, they lose one stamina die each time each morning without sleep. One may not sleep in armor.
 
-### Stamina
-An adventurer has stamina dice to measure their state of physical endurance. They may not expend a stamina die if they have none left. If an adventurer loses a stamina die when they have none left, they must succeed a DC 15 constitution save to avoid falling unconscious for 1d4 hours. If you lose stamina dice when unconscious in this way, roll the die and subtract it from your hit points. If your hit points run out this way, you die.
+### Stamina Dice
+An adventurer has stamina dice to measure their state of physical endurance. They may not expend a stamina die if they have none left. If an adventurer loses a stamina die when they have none left, they must succeed a DC 15 constitution save to avoid falling unconscious for 1d4 hours. If you lose stamina dice when unconscious in this way, roll the die and subtract it from your hit points. If your hit points fall below 1 this way, you die.
 
 ### Clothing
 If exposed to the elements in an extremely hot or cold environment, an adventurer must succeed a DC 14 constitution saving throw or lose a stamina die. This check repeats for each hour spent exposed to the elements. An adventurer may avoid these checks by staying in shelter or wearing clothing appropriate to the weather.
@@ -762,6 +762,7 @@ A creature is downed when their hit points fall below 1. A downed creature is pa
 
 
 ## Magic
+Certain classes, abilities, boons, etc may offer you the ability to cast spells.
 
 ### Spells
 

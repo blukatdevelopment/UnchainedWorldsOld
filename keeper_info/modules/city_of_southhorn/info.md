@@ -44,7 +44,7 @@ We begin in the port city of Chaur on the island of Ferrus, a crowd eagerly
 clambering onto a ship, ready to travel to a distant port in the continental 
 city of Southhorn. Southhorn had been a haven for bandits, mercenaries, and 
 other rogues until very recently when the kingdom of Inglewood had reached a 
-peace agreement with the Federation of Omaria and focused their army to take 
+peace agreement with the Kingdom of Omaria and focused their army to take 
 the city back by force. The party is being summoned by Southhorn's new leader, 
 Count Kinkade, to finish off the remnants of the bandits and bring peace to the 
 region. His first contract is to provide security detail for the Diadem, 
@@ -563,7 +563,7 @@ virtuous
 - DC 10: the royal court has more power than the king
 - DC 12: nobility are deemed knights of Bimros
 13. Cavil Tarro's guide to Omaria: Make an investigation check
-- DC 5: federation created by revolting bronzehammer-dominated territories
+- DC 5: Omaria created by revolting bronzehammer-dominated territories
 - DC 7: governed by council of elected senators who convene in capitol yearly
 - DC 10: gains new states by covertly funding revolutions
 - DC 12: extensive use of mercenaries to supplement traditionally weak army
