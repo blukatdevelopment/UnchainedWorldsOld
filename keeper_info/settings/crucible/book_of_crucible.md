@@ -73,7 +73,7 @@ The Titan age was one of unprecedented growth. Resources were directed into prod
 \
 The majority of the world's population fell below those two classes, and were forbidden from entering the walled cities without passing inspection with rigorous criteria. Those cities which made public display of accumulated titan technology were routinely purged. This meant that the majority of the world benefited only from hand tools, participating in a system of broad resource extraction, funneling those resources into Titan cities.
 
-### The Titanic Collapse
+### The Titan Wars
 The standards for remaining in the walled cities continued to climb, resulting in purging tech priests and tech scribes. Backlash and subsequent purging became fed into each other, leading to much knowledge being permanently lost. An influx of new, loyal priests and scribes only managed to maintain the population while draining it of the knowledge it needed to survive. Increasing scarcity of precious metals and the bones of the divines only compounded the phenomenon of lost tech. It was not long before Titan states launched invasions of one another to retrieve these intensely precious artifacts. Libraries were purged in spite, both by defenders and invaders. Factories and labs received similar fates, leading to a purge of Titan knowledge. Worse yet, the weapons used by the Titans rendered most of their battlefields contaminated with powerful corruption agents, and subsequently monstrosities. A secret band of Titan slayers known as the Radiant Order assisted the collapse of the Titan strongholds, not resting until the last Titan leader was slain. This is when the silent were created to protect the remaining secrets fo the Titans to prevent their rebirth.
 
 ## Age of man
@@ -180,8 +180,8 @@ Many lesser divines combined, forming more powerful divines containing multiple 
 ### Bimros
 God of arrows, hunting, and dominion over nature. He created humans to rule the mountains, fields, and forests.
 
-### Gegtix
-Goddess of grass, trees, flowers, thorns, fruit, and rebirth. Creating the fae to protect her aspects as they are reflected in the Crucible's wildlife. Gegtix offers an oath to pursue this goal as well, granting druidic magic to those whoi take it.
+### Gegtex
+Goddess of grass, trees, flowers, thorns, fruit, and rebirth. Creating the fae to protect her aspects as they are reflected in the Crucible's wildlife. Gegtex offers an oath to pursue this goal as well, granting druidic magic to those who take it.
 
 ### Kord
 Goddess of sleep, ice, stone, and circles. Her avatar is a teal-skinned pointy-eared humanoid with white irises, and is known for leaving icy footsteps when she walks on land and water alike. Those who speak an oath to Kord gain magic that grows stronger in winter months.
@@ -326,6 +326,8 @@ You no longer need to eat to survive. However, if you rest without having eaten 
 Whenever you rest, you remain sleeping for 2d12 additional hours and cannot be woken from your slumber. For every 4 hour of additional sleep, you regain one additional stamina die.
 
 ### 5. Abyssal corruption: Wrath
+Your temper becomes far more intense than you c
+
 ### 6. Abyssal corruption: Envy
 ### 7. Abyssal corruption: Pride
 ### 8. Abyssal corruption: Acedia
