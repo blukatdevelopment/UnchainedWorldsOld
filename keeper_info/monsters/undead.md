@@ -10,14 +10,41 @@
 #  XIV Undead                                           #
 #########################################################
 ```
+## Stat block modifiers
+You can take a beast or humanoid and apply this modifier in order to transform it into an undead variant.
 
-## Prattler
-A soul caught by an infernal "prattle clause" in a devil's contract. Though they need neither sleep, drink, nor food, the second they stop talking for 6 seconds, their soul will be consumed. A common part of the "prattcle clause" allows a prattler to swap places with the soul of another creature it kills.
+### Zombie stat block modifier
+A zombie is a corpse filled with undeath until it is animated. It follows the instructions of the one that raised it, or else wanders aimlessly to mindlessly kill the living.
+- HP: Multiply by 1.5
+- Movement: -5ft
+- Resistances: non-magical physical damage
+- Weakness: Radiant damage
+- Undead fortitude: Unless damage was fire/radiant, make a CON save against the damage dealt + 5 to remain at 1HP.
+- STR + 4, CON + 4
 
-`Prattler, XP: 50, HP: 15(3d12), AC: 12, [10, 10, 10, 10, 10, 10], Life Drain: +4 1d6+2 necrotic`
-- Vulnerabilities: radiant, Immunities: non-magical physical damage, necrotic
+### Revenant stat block modifier
+A revenant returns from the grave seeking vengeance on one who wronged them. They will tirelessly seek revenge from this individual, and their soul is put to rest if they complete their mission.
+- HP: Multiply by 2
+- Resistances: non-magical physical damage
+- Weakness: Radiant damage
+- Undead fortitude: Unless damage was fire/radiant, make a CON save against the damage dealt + 5 to remain at 1HP.
+- Multi-attack: Two attacks
+- STR + 4, CON + 4
+
+### Ghost stat block modifier
+- Speed: Fly 30ft
+- Ethereal - shift back and forth with bonus action
+- Invisibility - Cast at will
+- Immune to non-magical, non-silvered physical weapons
+- Life drain 5ft: CON save or 2d6 necrotic. Fail by 5+, lose 1d4 X 100 XP and age 5 years
 
 ## Zombies
+
+### Undead animated plants
+
+`Zombie Plants, XP: 25, HP: 6(1d4+2), speed: 0ft, AC: 8, [14, 8, 14, 4, 4, 4]`
+- Strangle: STR save or take 1d6 bludgeoning damage and become grappled
+- Life Drain: CON save to halve 2d6 necrotic
 
 `Zombie, XP: 25, HP: 18(2d4+6), speed: 20ft, AC: 8, [14, 8, 14, 4, 4, 4], Bash +2 1d8+1 bludgeoning`
 - Resistant: Non-magical physical, Weak: Radiant, Immune: Necrotic

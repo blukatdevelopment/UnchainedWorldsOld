@@ -99,6 +99,12 @@ This hulking figure is covered in blunt horns made from stone. The creature has 
 ## Devils
 Devils are a lawful evil fiend drawn to the infernal planes by contract. The infernal sections of the 9 Hells are very orderly, albeit with a constant war waged between devils and demons. Devil law is contractual, and self-enforcing via magic, so devils are perfectfully lawful in that regard.
 
+## Prattler
+A soul caught by an infernal "prattle clause" in a devil's contract. Though they need neither sleep, drink, nor food, the second they stop talking for 6 seconds, their soul will be consumed. A common part of the "prattcle clause" allows a prattler to swap places with the soul of another creature it kills.
+
+`Prattler, XP: 50, HP: 15(3d12), AC: 12, [10, 10, 10, 10, 10, 10], Life Drain: +4 1d6+2 necrotic`
+- Vulnerabilities: radiant, Immunities: non-magical physical damage, necrotic
+
 ### Vice
 This soul rests on the razor's edge between the abyssal and infernal planes, but ultimately is created as a devil by accepting an infernal pact. A vice is the lawful embodiment of a particular deadly sin, and embraces that sin in an intentional fashion.
 `Vice, XP: 25, Size: medium, HP: 18(3d6), AC: 11, [11, 11, 11, 11, 11, 11], Bite +1 1d4 piercing`
