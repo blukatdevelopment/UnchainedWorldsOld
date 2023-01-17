@@ -54,7 +54,7 @@ This spherical demon opens into two hemispheres joined by a central stalk. Teeth
 `Grinder, XP: 100, HP: 38(4d8+6), AC: 14, [16, 10, 14, 10, 10, 10], Slam +4 1d6+3 bludgeoning, Bite +4 1d8+3 piercing`
 - Curl: The grinder can use its bonus action to enter or exit its curled form. When curled, the grinder can move up to 60 feet in a straight line and make a slam attack using its action. While rolled, AC increases by +3.
 
-### Hell Knight
+### Abyssal Giant
 The blood steel helmet and cuirass hide the true horror of this monster, which is a hulking heap of rotten corpses joined by a possessing spirit. It has no eyes nor mouth on its head, but perceives spirits to a limited range. The Hell Knight is loyal to it's creator, and will go on a rampage if it's creator dies.
 
 `Hell Knight, XP: 450, HP: 63 (5d12+3), AC: 16(Half Plate), [20, 12, 12, 4, 4, 4]. Blood Sword +6 2d8+5 slashing damage`
@@ -99,7 +99,7 @@ This hulking figure is covered in blunt horns made from stone. The creature has 
 ## Devils
 Devils are a lawful evil fiend drawn to the infernal planes by contract. The infernal sections of the 9 Hells are very orderly, albeit with a constant war waged between devils and demons. Devil law is contractual, and self-enforcing via magic, so devils are perfectfully lawful in that regard.
 
-## Prattler
+### Prattler
 A soul caught by an infernal "prattle clause" in a devil's contract. Though they need neither sleep, drink, nor food, the second they stop talking for 6 seconds, their soul will be consumed. A common part of the "prattcle clause" allows a prattler to swap places with the soul of another creature it kills.
 
 `Prattler, XP: 50, HP: 15(3d12), AC: 12, [10, 10, 10, 10, 10, 10], Life Drain: +4 1d6+2 necrotic`
@@ -144,10 +144,46 @@ Regretful hex: One creature the regret can see must succeed a WIS save or else b
 8. Acedia: Unless the target has been attacked or targeted by a hostile spell since it's last turn, it must skip it's turn and immediately use it's reaction to fall prone.
 
 ### Devil Scribe
-Standing about five feet tall with leathery red skin and black hair, a devil scribe often wears a suit and carries a book of dark magic that it uses to create fiendish contracts.
+Standing about five feet tall with leathery red skin and black hair, a devil scribe often wears a suit and carries a book of dark magic that it uses to create fiendish contracts. Scribes store their spells in a book.
 
 `Devil Scribe, XP: 300, HP: 36(6d6), AC: 14(natural), [10, 10, 10, 16, 16, 18], Fire Ray +5 2d10 fire, Trident +3 1d6 slashing`
-- Spellcasting: May use each of the following spells once per day.
-- Bane
-- Force Field
-- Flying Weapon
+- Spellcasting: May cast each spell once/day. They know three spells. Roll one spell from each of the tables below. Their DC is 17 and their spellcasting modifier is +9.
+
+#### Spell table A
+1. Counterspell
+2. Delusion
+3. Shadow Magic
+4. Silent Prance
+5. Malevolent Guidance
+6. Tongues
+
+#### Spell table B
+1. Fireball
+2. Seeming
+3. Polymorph
+4. Clairvoyance
+5. Incite Greed
+6. Haste
+
+#### Spell table C
+1. Plane Gate
+2. Fire Wall
+3. Summon Devil
+4. Curse
+5. Scrying
+6. Geas
+
+### Hell Knight
+Devils who fight long enough under the kingdom of Hell are knighted, and those who are knighted are replaced when they fail to fight with the utmost loyalty and ferocity. There are only ever six Hell knights serving each infernal monarch. Each is adorned in hellknight armor, and given a greatsword. When killed, the entire Hellknight disintegrates and reappears knealing before their Monarch, at their mercy.
+
+`Hell Knight, XP: 2000, HP: 42(3d10+12), AC: 18(plate), [18, 18, 18, 11, 16, 11], Greatsword +7 2d6 slashing 2d6 fire`
+- Immune: Fire, poison, necrotic
+- Vulnerable: Radiant
+- Mutli-attack: two greatsword attacks.
+- Hellish Fury(1/day): Hell knight makes three greatsword attacks.
+- Blazing Trail (1/day): Speed +20, no opportunity attacks provoked, 1d6 fire to anything within 5ft. Lasts 1 turn.
+
+### Infernal Monarch
+There are several kings and queens among the infernal plane. 
+
+`Infernal Monarch, XP: 5000, HP: 112(10d10+12), Suze: Huge, AC: 18(plate), [18, 18, 18, 11, 16, 11], Claws +8 2d12 slashing`

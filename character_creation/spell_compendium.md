@@ -3860,6 +3860,14 @@ scores(INT, WIS, CHA), but your physical ability scores are inherited from your
 new body. If your old body is killed, you are stuck in your new body.
 ```
 
+```
+Plane Gate (5th)
+Casting Speed: 1 minute 
+Distance: Touch
+Duration: 1 hour
+You draw a 10ft diameter circle of runes which spell out the true name of a plane of existence. For the duration, the space of the circle opens into a gate between your current plane and the next, and the glowing runes leave the ground and are sucked into the portal. You may end this spell early by dismissing it with an action. You may additionally use an action to fill in missing runes, extending the duration of the spell by 1 hour.
+```
+
 ## 6th level spells
 
 ```

@@ -71,3 +71,47 @@ This telepathic worm is not terribly threatening from a physical standpoint. It 
 `Mind Leech, Size: small, HP: 1, AC: 8, Speed: 10ft [6,6,6,16,12,3], Feed +1 1 piercing damage`
 - Psychic Terror: DC 11 WIS save to halve 3d6 psychic damage. If target falls below 1HP, they are instead paralyzed for one hour and stuck at 1HP.
 
+## Flesh Eaters
+Once humanoids, but corrupted into monsters. Their minds are warped to feel no remorse, and to crave uncorrupted humanoid flesh. If one consumes the flesh of a flesh eater, they become corrupted and themself become a flesh eater. Flesh eaters seek safety in numbers, expanding their populations by force-feeding captured humanoids pieces of themselves. Their regenerative powers grow back flesh and limbs missing from them, but without skin. Instead of blood, flesh eaters ooze a black fluid.
+
+`Flesh Eater, Size: medium, HP: 28(2d12+4), AC: 11, Speed: 10ft [14,12,14,12,7,11], Spear +4 1d8+2`
+- Rapid regeneration[Recharge 5-6]: Action, Flesh eater regains 2d12 HP, regrowing any missing limbs.
+
+## Swordhands
+Sometimes flesh eaters will alter one another, particularly when the mental corruption damages the target's mind. The swordhands is created by when a flesh eater's hands are severed and forced to regrow over swords. Additionally, a thin layer of flesh is sliced off their back and shoulders, and chainmail is draped over so that it meshes with the freshly healed flesh. 
+
+`Swordhands, Size: medium, HP: 30(2d12+6), AC: 16, Speed: 10ft [16,12,14,12,7,11], Longsword +5 1d8+3`
+- Multi-attack: May make two longsword attacks.
+- Rapid regeneration[Recharge 5-6]: Action, Flesh eater regains 2d12 HP, regrowing any missing limbs.
+
+## Chaos Shells
+Humanoids with souls corrupted by abyssal energy soon find their bodies and minds corrupting to match. For chaos shells, this process renders them agents of chaos. The whites of the eyes turn black, they grow in stature, and are overtaken with an insatiable sadism. Chaos shells are not concerned with killing their targets, but toying with them. Practical jokes of a horrifying nature are their most common preoccupation.
+
+`Chaos Shell, Size: medium, HP: 36(3d10+6), AC: 12, Speed: 10ft [16,14,14,12,7,11], Fist +4 1d8+3`
+- Resistant: non-magical physical damage
+- Vulnerable: Radiant
+
+## Chaos Speaker
+Some chaos shells consume many souls and begin commanding magic by speaking abyssal.
+
+`Chaos Speaker, Size: medium, HP: 36(3d10+6), AC: 12, Speed: 10ft [16,14,14,12,7,18], Fist +4 1d8+3`
+- Resistant: non-magical physical damage
+- Vulnerable: Radiant
+- Bolt of Chaos(60ft): +8 1d12 force damage, DC16 STR or knocked prone on hit
+- Power Word Burn(1/day): 15ft square within 30ft range ignites for 1 minute. DC16 DEX save or 2d10 fire damage at start of turn.
+- Power Word Fall(1/day): One flying creature within 60ft succeeds a DC16 WIS save or freefalls.
+- Power Word Ascend(1/day): Gravity reverses within a 500ft radius sphere centered on Chaos Speaker
+
+## Infernoid
+Once a humanoid makes a pact for infernal power, they can't go back. The infernal power corrupts, and the contract binds. With each new contract, the humanoid signs over a little more of their humanity. The initiate is found at the very beginning of this process, when they have the most hope of abandoning their infernal ambitions. Infernoid starts with Fiendish quickening and one other.
+
+1. Devil's eyes: See in regular and magical darkness 120ft
+2. Devil's tongue: cast charm person on command.
+3. Devil's Wings: Fly speed of 30ft 
+4. Mark of Infernal fortitude(1/day): Gain 3d12 temporary hit points
+5. Infernal Hide: AC increases to 14. Resistant to fire.
+6. Devil's Tail: cast invisibility on command.
+
+
+`Infernoid Initiate, Size: medium, HP: 15(3d4+3), AC: 11, Speed: 10ft [12,12,12,12,7,15], Staff +1 1d8+1`
+- Fiendish quickening: At the end of the turn after being brought below 1HP, roll 1d6. On 4 or higher, regain full HP and gain two infernoid abilities.
