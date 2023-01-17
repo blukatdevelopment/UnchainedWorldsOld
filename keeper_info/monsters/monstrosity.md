@@ -115,8 +115,55 @@ Once a humanoid makes a pact for infernal power, they can't go back. The inferna
 `Infernoid Initiate, Size: medium, HP: 15(3d4+3), AC: 11, Speed: 30ft [12,12,12,12,7,15], Staff +1 1d8+1`
 - Fiendish quickening: At the end of the turn after being brought below 1HP, roll 1d6. On 4 or higher, regain full HP and gain two infernoid abilities.
 
-## Mantis Men
+## Mantis Man
 During the Titan wars powerful weapons unleashed great wild magic corruption onto the land, and the Mantis Men are a product of this, ascending from common mantises. They are capable of non-verbal communication among one another, but are violently territorial toward non-mantises.
 
 `Mantis Man, Size: medium, HP: 39(3d12+3), AC: 14, Speed: 30ft, Fly 30ft [16,12,12,12,7,15], Claw +3 1d8+1`
 - multi-attack: Make two claw attacks
+
+## Leech Man
+Wild magic replaced the heads of these humanoids with those of giant leeches. They drink the blood of their victims.
+
+`Leech Man, Size: medium, HP: 5(1d4+1), AC: 11, Speed: 30ft [12,12,12,12,7,15], club +3 1d4+1`
+- Feed: DC 13 STR save or take 1d6+1 necrotic damage, which the Leech man gains as HP. Any excess is gained as temporary hit points.
+
+## Sentinel
+A partially biological weapon that outlived it's use in the Titan wars. This creature has an organic body resembling a werewolf, with their face, torso, hips and claw tips replaced with lost tech mechanical components. Their face visor displays a glowing image of their face, and opens to allow them to eat. Some Sentinels have overcome their original programming, but most in the wild are still seeking out and killing any armed humanoids they encounter. The Sentinel will not attack humanoids that are unarmed, or who discard their weapons. They will confiscate discarded weapons and destroy them, however. Their organic portions can be regenerated from the mechanical portions.
+
+`Sentinel, Size: medium, HP: 42(3d12+6), AC: 15, Speed: 35ft, climb 30ft [16,16,12,12,7,15], Claws +5 2d6+3 slashing, Wrist Blaster(60ft) +5 1d6+3 fire damage`
+- Multi-attack: May make three Wrist Blaster attacks
+- Jump Jet(1/day): Gain 60ft fly speed until start of next turn. 
+- Seismic scan: Can sense any object or creature touching the ground within 100 feet, even when they are behind cover.
+
+## Floating Eye
+It's unclear how this creature emerged, except that wild magic corruption was involved. It is an eye capable of floating with a myriad of pink tentacles hanging from it like that of a jellyfish. Inexplicably, it can produce a beam attack from it's pupil.
+
+`Floating Eye, Size: small, HP: 8(1d6+2), AC: 10, Speed: Fly 30ft [10,10,12,12,7,15], Claws +5 2d6+3 slashing, `
+- Charge beam: The eye's iris glows golden. Next turn it may make a beam attack.
+- Beam: A 5ft wide, 100ft long beam of golden light blasts forth. All creatures in it's path must succeed a DC 11 DEX save to halve 3d6 radiant damage.
+
+## Giant Hand
+Another puzzling product of wild magic corruption, this creature appears to be a giant hand. On the end of it's middle finger, it has a pair of eyes and a mouth. It's capable of hovering in a limited fashion to perform certain actions.
+
+`Giant Hand, Size: small, HP: 16(2d6+4), AC: 10, Speed: 30ft, Hover 30ft [16,16,12,8,12,11], Flick +5 1d12 bludgeoning, DC13 STR save or shoved 20ft.`
+
+## Dream Eater
+This strange creature has the head of an anteater, the torso of a human, and the arms and legs of a gorilla. It puts it's victims to sleep and visits their dreams to bring them nightmares and feed on their psychic energy. Within dreams, they may assume many forms.
+
+`Dream Eater, Size: medium, HP: 15(3d4+3), AC: 10, Speed: 30ft [10,8,12,12,7,15], Slam +2 1d8.`
+- Sleep field: All creatures within a 500ft radius must succeed a DC 20 CON save or fall asleep. Creatures under this affect can be woken up with an action, or if they take non-psychic damage. A creature who saves is immune for 24 hours.
+- Mind Scramble: DC 13 WIS save to halve 2d6 psychic damage.
+
+## Spindle Man
+A strange creature of legend. This creature stands ten feet tall, but has limbs only an inch thick and a bulbous head that looks like it should be too heavy for the slender frame. It has no hands or feet, with it's limbs terminating in nubs, and it's limbs seem to be prehensile and lack bones.
+
+`Spindle Man, Size: large, HP: 33(3d10+3), AC: 10, Speed: 30ft [16,8,12,12,7,15], Choke DC 13 STR save or 2d6 necrotic damage`
+- Defensive Teleport(reaction, when targeted by a ranged attack that would hit): Spindle Man instantly teleports to a space it can see within 500ft, avoiding the attack.
+- Teleport: When not actively viewed by another creature, Spindle Man may teleport to any space it sees within 500ft.
+
+## Muckbeast
+This creature resembles a mass of mud with two human eyes and a gaping mouth. It's organs float freely within it's amorphous physiology, containing a layer of protection against it's heavily biodegrading mud-like muck. Muckbeasts can be found in swamps, but also wherever large amounts of decaying organic matter can be found, such as dumps, sewers, and battlefields littered with bodies.
+
+`Muckbeast, Size: large, HP: 33(3d12+9), AC: 10, Speed: 15ft [12,8,16,3,7,3], Smother +5 3d6+3 necrotic`
+- Biodegrading muck: Organic matter such as wood that touches the creature is quickly eaten away, destroying weapons such as spears and clubs used against it. An organic creature that touches the muckbeast takes 1d8 necrotic damage.
+- Much stream(recharge 5-6): The muckbeast heaves and spews muck onto one creature within 10ft. If the creature is organic, it must make a DC 13 CON save to halve 3d6 necrotic damage.
