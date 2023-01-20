@@ -55,7 +55,9 @@ def character_commands(bot, discord):
         char = bot.db.get_character(ctx.user.id, name)
         if char is None:
             return await ctx.respond(f"Character '{name}' does not exist.")
-        await ctx.respond('Character fetched: ```json\n' + json.dumps(char) + '```')
+        char_obj = json.loads(char)
+        char = json.dumps(char_obj, indent=2)
+        await ctx.respond('Character fetched: ```json\n' + char+ '```')
 
     @character_group.command()
     async def delete(ctx, name: str):
