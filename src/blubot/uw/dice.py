@@ -37,7 +37,7 @@ def roll_attack(name, to_hit, damage, damage_type):
     to_hit_string = str(to_hit) if to_hit < 0 else "+" + str(to_hit)
     msg = f'1d20{to_hit_string} -> ({attack1}, {attack2})\n'
     msg += f'{damage} {damage_type} -> ({damage1}, {damage2})'
-    return msg
+    return (msg, attack1, attack2, damage1, damage2)
 
 def parse_elements(rollstring):
     rollstring = rollstring.replace(' ', '')

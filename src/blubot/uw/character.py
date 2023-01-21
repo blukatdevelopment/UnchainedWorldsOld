@@ -162,7 +162,8 @@ def use_attack(character, attack_name):
     damage = attack[DAMAGE]
     damage_type = attack[DAMAGE_TYPE]
     
-    return roll_attack(attack_name, to_hit, damage, damage_type)
+    (msg) = roll_attack(attack_name, to_hit, damage, damage_type)
+    return msg
 
 def is_valid_check_type(check_type):
     return check_type.lower() in SKILLS_LIST or check_type.lower() in ABILITIES_LIST 
@@ -253,3 +254,32 @@ def xp_to_level(xp):
         return 9
     else:
         return 10
+
+def update_hp(ctx, bot, change):
+    character = load_active_character(bot.db, ctx.user.id)
+    if character is None:
+        return f"No Active character selected."
+    status = load_active_status(bot.db, ctx.user.id, character)
+    if change < 0:
+        status['thp'] += change
+        if status['thp'] < 0:
+            status['hp'] += status['thp']
+            status['thp'] = 0
+    else:
+        status['hp'] += change
+
+    save_status(bot.db, ctx.user.id, status)
+    msg = f"{character['name']}'s HP "
+    msg += 'drops' if change < 0 else 'increases'
+    msg += f' by {change}\n'
+    msg += format_status(status, character)
+    return msg
+
+def format_status(status, character):
+        msg = f"HP: {status['hp']}/{character['hp']}"
+        if status["thp"] > 0:
+            msg += f"({status['thp']})\n"
+        else:
+            msg += "\n"
+        msg += f"Stamina Dice: {status['stamina dice']}/{character['stamina dice']}"
+        return msg
