@@ -167,3 +167,9 @@ This creature resembles a mass of mud with two human eyes and a gaping mouth. It
 `Muckbeast, Size: large, HP: 33(3d12+9), AC: 10, Speed: 15ft [12,8,16,3,7,3], Smother +5 3d6+3 necrotic`
 - Biodegrading muck: Organic matter such as wood that touches the creature is quickly eaten away, destroying weapons such as spears and clubs used against it. An organic creature that touches the muckbeast takes 1d8 necrotic damage.
 - Much stream(recharge 5-6): The muckbeast heaves and spews muck onto one creature within 10ft. If the creature is organic, it must make a DC 13 CON save to halve 3d6 necrotic damage.
+
+## Needlenose
+These up-right creatures are covered in hardened green scales, and though they have gills that allow them to breathe underwater, they are capable of living fully on land without issue. They are named by their three foot long proboscis which opens in three segments and reveals a very long spiky tongue that they can use to pith the insides of their victims. These creatures are feral, gathering in large nests, where they drag the corpses of their victims. When needlenoses consume the brains of their victims, they gain a temporary intelligence boost and become sentient for 24 hours, inheriting the memories of their victims. Generally, one or only a handful of needlenoses will remain intelligent, orchestrating their nests to provide them with a steady stream of brains to feast on.
+
+`Needlenose, Size: large, HP: 28(2d12+4), AC: 14, Speed: 30ft, 30ft swim [16,11,15,5,10,3], Beak +3 2d8+3 piercing`
+- Brain Pith: Target one grappled creature. DC 14 STR save, or they take 4d8+3 piercing damage. If this kills the creature, the needlenose consumes their brain and gains an intelligence of 12 for the next 24 hours.
