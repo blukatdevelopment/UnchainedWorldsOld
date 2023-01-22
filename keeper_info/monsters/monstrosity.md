@@ -198,3 +198,34 @@ This beatle's horn is shaped like a roaring dragon, and it can produce a stream 
 
 `Dragon Beetle, Size: large, HP: 56(4d10+16), AC: 17, Speed: 30ft 30ft fly [18,14,18,14,10,3], Bite +6 2d8+4 piercing autograpple`
 - Flame Lance(recharged 5-6): 30ft long, 5ft wide spray of fire. DC 13 DEX save to halve 3d6 fire damage.
+
+## Marionette Spider
+These spiders are relatively intelligent and have adapted the to rigging victims up by several lines. They occasionally use paralized live humanoids to lure others, then use their marionettes to kill their prey, retreating if this fails. Marionette spiders leave behind long strands from cave ceilings, which magically alert the spider if it's nearby when a creature is snared.
+
+`Marionette Spider, Size: large, HP: 36(3d8+12), AC: 15, Speed: 30ft 30ft climb [18,12,17,8,10,3], Bite +5 3d4 piercing, DC 12 CON save or become paralyzed`
+- Marionette: A paralyzed medium or smaller sized creature can be controlled by silk lines. It retains it's normal stat block and attacks.
+
+## Invisible Skulker
+These bipedal creatures have a three-toothed triangular mouth with an eye in the space between teeth. They additionally lack spines, instead relying on a series of liquid bladders. As such, they can squeeze their bodies down and fit under doors, in pipes, or through cracks. Invisible skulkers tend to keep to themselves, laying clutches of invisible eggs in plain sight in the surface world, usually in areas adjacent to food sources such as villages and farms.
+
+`Invisible Stalker, Size: medium, HP: 18(3d4+6), AC: 15, Speed: 30ft 30ft climb [14,12,14,8,10,3], Bite +4 1d8+2 piercing, Claws +4 2d4+2 slashing`
+- Invisible: The invisible skulker is invisible.
+- Multi-attack: May make a bite and claw attack in the same turn
+
+## Changeling
+A changeling looks like a humanoid, possesses humanoid intelligence, but lacks any moral compass. It's body can morph into that of a humanoid, and it can act as if it is in love, happy, angry, or participating in society as a humanoid, but it does this only as a smokescreen for it's strong instinct to lay eggs and feed it's offspring. Changelings have the capacity to overcome their instinctual urge to hunt humanoids, this happens to a small fraction of them, the rest remaining dedicatd hunters. Whenever a changeling changes, it leaves behind the skin of it's prior form.
+
+`Changeling, Size: medium, HP: 40(4d8+8), AC: 15, Speed: 30ft 30ft climb [12,12,14,8,10,3], Slam +4 1d8+3`
+
+## Land Urchin
+A ball of spiky quills that can part to reveal their circular mouths. Land urchins operate by very sensitive sense of hearing, and roll for locomotion. They often gather eating moss and fungi, but will also eat corpses.
+
+`Land Urchin, Size: medium, HP: 12(2d4+4), AC: 15, Speed: 30ft [12,12,14,8,10,3], Body Slam +5 3d4 piercing`
+- Spines: Attacking with melee or grapple within 5ft results in 3d4 piercing damage for the attacker.
+
+## Carpet Worm
+This flat worm disguises itself as the floor of caves laying on it's back. When one steps on it, it's circular mouth opens to reveal rows of teeth and it gives a surprise strike to it's victim. Carpet beasts filter feed, cleaning the environments they hunt in.
+
+`Carpet Worm, Size: large, HP: 24(4d6), AC: 11, Speed: 30ft [12,12,10,8,10,3], Bite +4 2d8+1`
+- Camoflage: Requires a DC 14 Perception check to detect in caves.
+- Surprise strike: When a creature steps on the carpet worm, it must succeed a DC 14 STR save to avoid being grappled, and the carpet worm gets a free attack on the creature.
