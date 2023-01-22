@@ -2,7 +2,7 @@ from uw.character import load_active_character, list_attacks, use_attack, update
 import json
 
 def attack_commands(bot, discord):
-    class MyView(discord.ui.View): # Create a class called MyView that subclasses discord.ui.View
+    class MyView(discord.ui.View):
         def __init__(self, damage_1, damage_2):
             super().__init__()
             self.damage_1 = damage_1 * -1

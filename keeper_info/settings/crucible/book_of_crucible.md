@@ -90,7 +90,7 @@ So soon as the empire lacked an enemy, resistance heightened. Resistance fighter
 - Arrow's Day / Arrowday
 - Leaf's Day / Leafday
 - Hammer's Day / Hammerday
-- Coin's Day / Payday
+- Coin's Day / Coinday
 - Claw's Day / Clawday
 - Sun's Day / Sunday
 

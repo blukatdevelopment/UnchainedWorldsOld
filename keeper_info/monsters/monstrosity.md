@@ -173,3 +173,28 @@ These up-right creatures are covered in hardened green scales, and though they h
 
 `Needlenose, Size: large, HP: 28(2d12+4), AC: 14, Speed: 30ft, 30ft swim [16,11,15,5,10,3], Beak +3 2d8+3 piercing`
 - Brain Pith: Target one grappled creature. DC 14 STR save, or they take 4d8+3 piercing damage. If this kills the creature, the needlenose consumes their brain and gains an intelligence of 12 for the next 24 hours.
+
+## Chameleoid
+Appearing vaguely humanoid, this creature is monstrous than any beast folk, having a mind that is nearly feral. Their bulging eyes can turn in independent directions, and their three-fingered hands are capable of grasping objects. Their most distinguishing feature is the ability to blend into their surroundings.
+
+`Chameleoid, Size: large, HP: 28(2d12+4), AC: 14, Speed: 30ft [16,11,15,5,10,3], Spear +5 1d8+3 piercing`
+- Multi-attack: May make two slam attacks
+- Cammoflage: The Chameleoid's skin changes color to match it's surroundings. A creature must succeed a DC 17 perception to spot a cammoflaged Chameleoid in waiting.
+
+## Raystalker
+This creature resembles a mantaray and flies using it's cloak-like fins. It's barbed tail can deliver a deadly poison. They often feed on birds and small animals.
+
+`Raystalker, Size: large, HP: 20(2d8+4), AC: 12, Speed: 60ft fly [14,14,14,3,10,3], Tail +3 1d8+3 piercing 1d8+3 poison`
+- Flyby: Raystalkers do not provoke attacks of opportunity while flying
+
+## Manface Silkworm
+The larval form of a dragon beetle, the manface silkworm is a 10ft long work with a special organ on it's front that can morph into the shape of a human face, move to talk, and even has false lungs and vocal cords to produce sounds. When humanoids are close to it, it will rear up and attempt to appear as a humanoid.
+
+`Manface Silkworm, Size: large, HP: 8(2d4), AC: 10, Speed: 20ft [10,14,10,10,10,3], Stinger +3 1d4 piercing 3d4 poison`
+- Silk spray: DC 14 STR save, or creature is restrained and can only escape by using their action to succeed a DC 14 STR check.
+
+## Dragon Beetle
+This beatle's horn is shaped like a roaring dragon, and it can produce a stream of flame from the horn's tip as if a dragon breathing flames. Dragon beetles often hoard shiny objects or dung, and are intelligent.
+
+`Dragon Beetle, Size: large, HP: 56(4d10+16), AC: 17, Speed: 30ft 30ft fly [18,14,18,14,10,3], Bite +6 2d8+4 piercing autograpple`
+- Flame Lance(recharged 5-6): 30ft long, 5ft wide spray of fire. DC 13 DEX save to halve 3d6 fire damage.

@@ -23,6 +23,27 @@ class Db:
       '''
     c.execute(sql)
 
+    sql = '''
+        CREATE TABLE IF NOT EXISTS calendar
+        (
+          day_id INTEGER PRIMARY KEY AUTOINCREMENT,
+          year INTEGER,
+          month INTEGER,
+          day INTEGER,
+          data TEXT
+        );
+      '''
+    c.execute(sql)
+
+    sql = '''
+        CREATE TABLE IF NOT EXISTS world_status
+        (
+          id INTEGER PRIMARY KEY,
+          data TEXT
+        );
+      '''
+    c.execute(sql)
+
     self.conn.commit()
 
   def insert_character(self, user_id, name, data):
@@ -114,6 +135,9 @@ class Db:
         '''
     c.execute(sql, (user_id, name,))
     self.conn.commit()
+
+  def get_calendar_day_data(self, year, month, day):
+    
 
 # Init the tables
 def main():
