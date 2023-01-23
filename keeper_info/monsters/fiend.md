@@ -76,7 +76,7 @@ A three-foot tall cat that can stand upright. It's whiskers are bent and it's co
 - Malevolent Guidance: Gatto names a malevolent deed such as stabbing a friend, drinking a poison, or attacking a guard. The target must succeed a DC 16 WIS save or perform the act. If charmed, the target makes the save with disadvantage.
 - Gatto Field: While Gatto is conscious and it's eyes are green, it produces a field of distorted psychic energy. Attacks against are made with disadvantage.
 
-## Roth'tanag#
+## Roth'tanag
 This hulking figure is covered in blunt horns made from stone. The creature has a forked tongue and powerful limbs.
 
 `Roth'tanag, XP: 700, HP: 86(10d8+6), AC: 13(Natural Armor), [18, 8, 14, 10, 8, 14]`
@@ -186,4 +186,11 @@ Devils who fight long enough under the kingdom of Hell are knighted, and those w
 ### Infernal Monarch
 There are several kings and queens among the infernal plane. 
 
-`Infernal Monarch, XP: 5000, HP: 112(10d10+12), Suze: Huge, AC: 18(plate), [18, 18, 18, 11, 16, 11], Claws +8 2d12 slashing`
+`Infernal Monarch, XP: 5000, HP: 112(10d10+12), Size: Huge, AC: 18(plate), [18, 18, 18, 11, 16, 11], Claws +8 2d12 slashing`
+
+### Hell Hound
+Hell Hounds are a rare creature imbued with the ability to open portals to the Material Plane, and are often taken into service in order to retrieve mortals. They do not serve devils, but rather the contracts that devils sign, acting as impartial enforcers of Infernal law. Hell Hounds stand ten feet tall and wield a set of sharp claws. They are wolf-like, with glowing red eyes and mouths.
+
+`Hell Hound, HP: 60(5d12), Size: Large, AC: 14, [17, 14, 16, 12, 16, 6], Claws +5 2d6+3`
+- Immune to fire and poison, resistant to non-magical physical damage, weak to radiant
+- Magma Spray(Recharge 5-6): 30ft cone, DC 13 DEX save to halve 3d8 fire damage 

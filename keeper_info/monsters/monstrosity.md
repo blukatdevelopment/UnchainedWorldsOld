@@ -229,3 +229,16 @@ This flat worm disguises itself as the floor of caves laying on it's back. When 
 `Carpet Worm, Size: large, HP: 24(4d6), AC: 11, Speed: 30ft [12,12,10,8,10,3], Bite +4 2d8+1`
 - Camoflage: Requires a DC 14 Perception check to detect in caves.
 - Surprise strike: When a creature steps on the carpet worm, it must succeed a DC 14 STR save to avoid being grappled, and the carpet worm gets a free attack on the creature.
+
+## Swarm of Heart Worms
+These three-inch worms often congregate in carrion, waiting for a creature with a large heart to come near. Once they surface, they attempt to burrow into their target's flesh and move towards their heart, which they devour.
+
+`Swarm of Heart Worms, Size: small, HP: 8(2d4), AC: 10, Speed: 5ft [10,10,10,3,3,3]`
+- Burrow: +4 1 piercing. On a hit, one worm per HP burrows beneath the skin. Using fire on their next turn, the target may burn the heart worms under their skin, dealing 1 fire damage per worm killed. If the worms are still burrowing at the end of their target's next turn, they successfully hide in the creature's flesh. The creature has 1d4 hours before the worms reach their heart and kill them.
+
+## Pit Fisher
+These burrowing creatures build steep pits in sand or loose dirt, which they guard. When they feel the vibrations of creatures coming close, they use their long tentacle to drag creatures into the pit. Often these pits will feature a trinket or piece of shiny material to entire their prey.
+
+`Pit fisher, Size: large, HP: 24(3d8), AC: 16(submerged), Speed: 5ft [16,7,15,3,16,3], Bite +5 2d6+3 piercing`
+- Pit: A creature that enters the pit must succeed a DC 14 DEX save to avoid sliding down to the center.
+- Tentacle: One creature within 30ft DC 13 STR save or pulled into pit.
