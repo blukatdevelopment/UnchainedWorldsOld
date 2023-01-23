@@ -152,13 +152,65 @@ Nine layers hotly contested by demons and devils.
 - Infinite war rages
 
 ## Ethereal plane
-Spirit realm parralel with the material plane.
+Spirit realm parralel with the material plane. Nature spirits may often be found in this plane, as well as the spirits of the deceased who are unable to pass on to an afterlife.
 
 ## Fey Wilds
-Magical realm governed by the fey. Only accessible from deep forests with the
-aid of fey magic.
-- Violent, living forest
-- Arch fey hold domain over lands
+A series of parallel dimensions that overlap with a space of wilderness and is presided over by an arch fey. In times of chaos, the domain of the fey wilds expand and encompass large swathes of land, and the arch fey organize under the fey courts. During times of order, the fey domains instead act as a decentralized immune response to encroaching industry, creating massive guardian monsters in order to contest the disruption of ecosystems that often accompanies industry. Each domain in the fey wilds is alive with fey spirits, which live in anything from trees and storms, to the smallest pebble. When hostile to a visitor, the fey wilds are a nightmare realm where every living and non-living thing has murderous intent. When a visitor is welcome, the fey wilds are a place of sanctuary, solace, and healing.
+
+### Gates to the Fey Wilds
+Every Fey Wild domain has a gate where the fey gather in the material plane. Common examples of gates include ponds, waterfalls, fountains, shrines, circles of rocks, grottos, circles of mushrooms, and clearings within otherwise dense vegetation. It's at these places where the fey interact with non-fey. Based on their initial impressions of the visitors, they may attack, offer gifts, or make deals. The fey do not generally value material possessions such a gold and trinkets, but many have a penchant for shiny or otherwise pretty objects. They fey are more likely to ask for abstract costs, such as the color of one's hair, a favorite memory, one's ability to whistle, or the joy of eating fruit. These intangibles are precious to the many fey, who will often offer services such as these:
+- Providing food and water
+- Healing of wounds, restoring the stamina of visitors
+- Restoration of limbs, body parts, and the curing of diseases
+- Resurrection of corpses with fey energy, often resulting in fey corruption
+- Audience with the arch fey of the domain
+- A pact with the arch fey, which may extend the power of fey magic
+
+# Languages
+Over time and space, a few languages have emerged in Crucible.
+
+## Celestial
+Language of the celestials. Celestials speak slowly and clearly when using this language, emphasizing individual vowels. Using this language fills the air with the essence of the celestials, which may attact celestials when used to plea, or may bring painf to the ears of fiends and undead. A non-celestial that speaks the language opens themselves to the judgement of celestials, who may seek to slay evil-doers who abuse their sacred tongue.
+
+## Infernal
+This language is staccatto with complex sounds. When one speaks infernal, they become a point of infernal scrying and invite the attention of devil scribes, who are frequently listening for this very thing with a magical sensitivity from the safety of Hell, and who sell their scrying services to other devils. Infernal runes scrawled on surfaces likewise creates scrying points and acts as magnets for wayward devils in the material plane to come and bask in the infernal energy the runes provide. As such, it is strictly forbidden to speak or write infernal in most cities for fear of infernal visitation. Infernal runes glow in the presence of strong infernal energy, such as a devil or curse magic. While carrying runes may invite devils, it may likewise be used to sense their presence, making it a valuable tool for fiend hunters.
+
+## Abyssal
+Abyssal is a language of chaos. Native speakers swing between harsh and soft tones, with certain phrases being quite terse, while others rolling and trilling. To speak abyssal is to charge the air with abyssal energy. This generally increases the odds of abyssal corruption, and so the handful of Abyssal words that non-abyssal speakers pick up are referred to as curse words, and laws tend to prohibit their use for the general safety of the people.
+
+## Giant
+The language of humans who feasted on the bones of the fallen gods and became giants. This tongue is a simple one, having very few words and very simple grammatical structure in general form of `<subject><verb>[object][adjective]`. The language makes little room for clearly defined abstractions, and is heavily dependent upon context to effectively communicate ideas. Giant is one of the simplest and easiest languages to learn, but is often ignored by most humanoids due to their sparing contact with true giants. The simple nature of the giant language allows it to easily be recorded by strings of beads on tassles, where each bead's color and shape correlates to a word or punctuation. Giants of great renoun wear garments with beads telling the stories of their accomplishments, and giants construct signs using with stacks of carved stones taking the place of beads. These signs may tell of nearby water, warn of dangers, or stake claim to the land.
+
+## Draconic
+The language of the lizards which gained strength, cunning, and magic after feasting on the marrow of the bones of the fallen gods, becoming dragons. In the age of dragons, this language spread as the only means to speak with the world's rulers. The language is spoken by dragons with great patience, smoothely rolling over syllables and reaching punctuation with crisp glottal stops. Many texts from the age of dragons are written in draconic.
+
+## Fey
+The language of the fey is charged with fey magic. Speaking it may inadvertently invoke magic, making it very dangerous for non-fey to use. When the fey speak an agreement, it is often bound by the language itself, rather than by the power of the individual. For this reason, fey magic is a matter of articulation more than an exertion of one's energy, meaning that the smallest and weakest fey may wield it's power as readily as the arch fey, provided they are skilled enough. The language is spoken with long words that are generally soft and smoothe, but this calm is frequently textured with crisp fricatives.
+
+## Beast Tongue
+Beast tongue arose among the beast folk after their creation by Uaos. The language consists of chaining consonant-vowel pairs to make words. Though there are many homophones, the language uses syllables that can easily be spoken by those with beaks and long snouts. The written language consists of hieroglyphics, where each symbol is intended to be visibly intelligible even by those who do not know beast tongue. Beast tongue writing is often accompanied with carvings and paintings meant to communicate more complex information such as the appearance of an indivual, or more complex emotions. Though the written language is easily understood and used, abstract concepts are portrayed with allusions to the religion of Uaos, and may be difficult to understand for those unfamiliar with the faith.
+
+## Primordial
+This is the language the first humans spoke when they were created by Bimros. The language is made from a small vocabulary of simple nouns and descriptors, which are fused together to make more complex and specific words. The more detailed a word is, the more constituent words it contains. For instance, one might say 'dog' to refer to any dog, or might say 'dogfriendsheep' to describe a domesticated sheep dog, or even 'dogguardstrongfangold' to describe their beloved pet guard dog. Names in primordial are descriptors, and may change over the course of an individual's lifetime to reflect how the individual changes. Rather than shortening the constituent words within a name, primordials often used the most unique constituents in a name. For instance 'manhuntlongfangwhitehair' might go by 'huntfang', 'manfang', 'longwhite', or any other combination that's unique in their community. The language is incredibly clunky and inefficient for communicating large amounts of information or complex ideas, and so other languages were made to replace it.
+
+## Metal Tongue
+The first language diverging from primordial, metal tongue was made by isolated communities of miners, and is considered a sacred language among the bronzehammer culture. It's vocabulary is more refined, and contains words that mostly apply to a miner's lifestyle. It has two written character sets, one for metal tongue words, and one for cognates. Native speakers denote cognates by pronouncing them harshly and with emphasis on hard consonants, hard vowels, and fricatives. The core language almost never has words more than four syllables long.
+
+## Mercantile
+This language was made by combining syllables of common Primordial words to make a more condensed vocabulary. Homophones are common and names are generally descriptive when given. As a language used primarily by sailors visiting primordial-speaking lands, Mercantile is often looked down upon not as it's own language, but as badly spoken Primordial. It is spoken with drawn out, trailing words that sharply twist into stoccatto syllable clusters. The language is thick with slang, often deliberately used to speak among Primordial speakers without being understood.
+
+## Titan
+Another language reserved for overlords and their followers, the Titan was engineered to contain magical properties. The radiant order sought out and purged the speakers of this language, meaning that the manner of it's speech has largely been lost to time. Some among the silent order retain knowledge handed down from the Titan wars of pronouncing certain Titan words, but lack tongues to wield it themselves. The written Titan language is based upon strings of binary values. Titan has multiple character sets, witch each set containing characters that represent a certain number of bits. Characters in broad Titan contains eight bits, or one byte, and is used to portray words in common use. Characters in Fine Titan contain 256 bits, or 32 bytes, and are used to make words representing true names in great detail. Properly speaking Fine Titan channels magical energy through the speaker's words, but is a dead art. Fine Titan's other use is in it's written form, as each character has a shaping effect of magic. It can be used as a magical programming language, and is turing complete in this context. Microscopic Fine Titan instructions are written on wafer-thin sheets, which are then layered together to form blocks. Part of creating these blocks involves annealing these wafers together into one continuous piece of matereal, making repairing or reverse-engineering this technology a hopeless endeavor. After the Titan factories and libraries were destroyed, many machines using Fine Titan became lost tech, artifacts that mark the exact last instances of the technology in question.
+
+## Common
+The language used by the empire of man, who stamped out all but a few language and replaced them with Common. The language was devised to be optimized for communicating simple concepts among traders. The spoken language has a syncopated rhythm with fricatives at the start and end of most words. The language is intended to be efficient to learn and understand for extremely basic interactions, but after being used as a primary language for many people, has expanded past it's original scope. The language has many rules in it's syntax, and none of them are without multiple exceptions. Though it's the most common language in use after the age of man
+
+## Handspeak
+Handspeak is a sign language developed by the Radiant Order leading up to the Titan Wars, and was used to covertly communicate in public places. Though it's incredibly precise in it's execution, translating handspeak to most verbal languages renders very clunky results. This shortcoming was intentional, as a means to obfuscate those attempting to learn the language without a guide from the Radiant Order. The culture of the Silent exclusively use Handspeak and written languages due to their practice of self-inflicted mutism.
+
+
+
+# Literature
 
 # Morality and Divinity
 
