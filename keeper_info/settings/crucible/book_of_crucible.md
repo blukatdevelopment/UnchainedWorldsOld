@@ -208,9 +208,30 @@ The language used by the empire of man, who stamped out all but a few language a
 ## Handspeak
 Handspeak is a sign language developed by the Radiant Order leading up to the Titan Wars, and was used to covertly communicate in public places. Though it's incredibly precise in it's execution, translating handspeak to most verbal languages renders very clunky results. This shortcoming was intentional, as a means to obfuscate those attempting to learn the language without a guide from the Radiant Order. The culture of the Silent exclusively use Handspeak and written languages due to their practice of self-inflicted mutism.
 
+# Art and Literature
 
+## Cavil Tarro
+Cavil Tarro is a popular figure who has written guides to many topics while traveling the world during the Age of Man. He is a highly controversial figure, as he has been responsible for widely circulating a great deal of knowledge throughout Crucible, but has largely plagiarised the materials he circulates, copying entire bodies of text ver batim and translating them from lesser-known authors in now-dead languages. It's theorized among his critics that Cavil has never written the entire contents of a book. Cavil's writings remain in common use long after the Severing, offering as the only glimpse of the outside world many isolated regions have, and contain genuinely useful information. Critics will cite that certain biases are found in Cavil's writing, usually glorifying the Empire of Man and looking down upon it's detractors, and fans tend to excuse this, as Cavil was on imperial payroll at the time.
 
-# Literature
+## The 14 Laws of Bimros
+Often shortened to "The 14 Laws" or "The Law of Bimros", these laws were originally inscribed on an obsidian monolith, which was later destroyed during the Age of Dragons. Temples of Bimros often include steeples with miniature monoliths on them, and shrines of Bimros often consist only of a sculpture or carving of the monolith. The monolith is a common symbol of Bimros's law, appearing on the coinage used by the Empire of Man, many of which enduring long after it's end. The original writing was in primordial, and Bimros has refused to offer an official translation in other tongues as a consequence of his refusal to speak directly to his creation.
+1. Pray to no other 
+2. Kill the murder
+3. Steal the hand of the thief
+4. Punish evil
+5. Punish those who challenge the temple
+6. Lust not outside of marriage
+7. Pay at the temple, or burn sacrifices at the shrine
+8. Wield no magic but mine
+9. Neither speak nor read evil
+10. Do not wear the color of demons(red)
+11. Eat no gold thing
+12. Build houses of three
+13. Eat no flesh of man
+14. Tell no lie
+
+## The Lessons of Uaos
+Often referred to as "The Lessons", the Lessons of Uaos is an oral tradition containing hundreds of fables containing morals. They were never delivered together as one complete work from Uaos, but instead with individual fables given to individual wise shamen over hundreds of years. Uaos himself gave differing or contradictory versions of the same fables, and even the same fables giving contradicting moral lessons. The chief aim of The Lessons was to provide an alternative moral framework to that of Bimros's claim of absolute moral truth. Shamen pass on Uaos's wisdom to use the fables as a starting point, and to examine the issues presented in order for each individual to reach their own honest conclusions.
 
 # Morality and Divinity
 
