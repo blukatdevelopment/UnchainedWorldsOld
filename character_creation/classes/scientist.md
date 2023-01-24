@@ -173,19 +173,6 @@ duplicate.
 ### Capstone
 Now that you've proven those idiots wrong and made a name for yourself, you make your greatest achievement yet.
 
-#### You need a good blaster at your side, kid
-You learn to produce the blaster weapons used at the end of the Dwarven age. The chart below shows the gold amount needed for materials for each experimental weapons system. Each item requires one hour of time crafting per each 10GP of materials. See the Blasters list at the bottom of the class description for information on each item.
-
-|          Item          | GP materials |
-|:-----------------------|:-------------|
-| Blaster Pistol         |          100 |
-| Blaster Scattergun     |          120 |
-| Blaster Submachine Gun |          120 |
-| Blaster Rifle          |          200 |
-| Blaster Machine Gun    |          300 |
-| Long Blaster           |          400 |
-| 30 Blaster Shells      |           50 |
-
 #### It lives!
 You create an artificial lifeform, an amalgam of corpse parts that comes together to make one whole. The creature has the following stats. They inherit your weapon and armor proficiencies, and may use your gear if you lend it to them.
 
@@ -299,28 +286,3 @@ This 10lb boxy design produces an invisible beam that can illuminate lightbulbs 
 |        10 | 2d8            |
 |        30 | 2d4            |
 |        60 | 1d6            |
-
-
-## Blasters
-A blaster operates by activating ground dragon bone in order to charge a spell crystal located in a barrel. A blaster launches a bolt of fire down range when fired. If a blaster is destroyed, all creatures within 10ft of it must succeed a DC 15 dexterity saving throw to halve damage from the weapon's explosion, which deals 1d4 radiant damage for each unspent blaster shell in the weapon.
-
-|          Item          | lbs |  Range  | Damage | Capacity |        Properties             |
-|:-----------------------|:----|:--------|:-------|:---------|:------------------------------|
-| Blaster Pistol         |   2 | 20/30   | 1d6    | 5        | Light                         |
-| Blaster Scattergun     |   5 | 20/30   | 1d12   | 5        | Scattershot                   |
-| Blaster Submachine Gun |   5 | 20/30   | 1d6    | 30       | Light, Burst Fire             |
-| Blaster Rifle          |   9 | 100/400 | 1d8    | 30       | Burst Fire, Two-handed        |
-| Blaster Machine Gun    |  15 | 100/400 | 1d8    | 100      | Burst Fire, Two-handed, Heavy |
-| Long Blaster           |   9 | 200/600 | 1d12   | 5        | Overcharge                    |
-| 30 Blaster Shells      |   1 | --      | --     | --       | --                            |
-
-### Properties
-
-#### Scattershot
-At 5ft, a scattershot weapon does not have disadvantage and deals triple the weapon's normal damage dice without a dexterity modifier. At greater than 20ft, the scattershot deals half of normal damage.
-
-#### Burst Fire
-Instead of a normal ranged weapon attack, a weapon with the burst fire property may fire ten rounds of ammunition in rapid succession on a ten foot cube. Every creature inside the cube must succeed a DC15 dex saving throw or receive the weapon’s normal damage. This consumes ten rounds of ammunition. If the creature is beyond the weapon's normal crange, the save is made with advantage. If the creature is within half the weapon's normal range, the creature is hit with twice the weapon's normal damage dice.
-
-#### Overcharge
-The operator may use their action to begin charging, which consumes three blaster shells. At the start of their next turn, the weapon may be fired, dealing three times the normal damage dice on a hit, without the dexterity modifier.
