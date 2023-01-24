@@ -303,3 +303,10 @@ Speed: 40ft
 Multiattack: The crab makes two claw attacks
 Claws +7 3d10+4 bludgeoning, DC 15 STR save or target is grappled
 ```
+
+## Snarlbeak
+A winged reptilian with feathers and a beak full of teeth.
+
+`Snarlbeak, Size: Medium, HP: 12(3d4+3), AC: 13, Fly 60ft, [15, 16, 12, 3, 12, 3], Beak +4 1d8+2, Talons +4 2d4+2`
+- Multi-attack: If the snarlbeak lands a hit with Talons, they may make another hit with their beak
+- Flyby: The snarlbeak does not provoke attacks of opportunity while flying

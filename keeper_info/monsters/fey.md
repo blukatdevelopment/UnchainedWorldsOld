@@ -33,40 +33,6 @@
 - Catapult spell on command
 - Gust of wind, Dust Devil spells once/day
 
-```
-Catapult (1st)
-Casting Speed: 1 action
-Distance: 30 feet
-Duration: Instantaneous
-You levitate one object, then send it hurdling in a straight line up to the
-maximum range of the spell. One at a time, each creature in the path must
-succeed a dexterity saving throw, or be hit by the object, take 2d10 bludgeoning
-damage, and end the spell.
-```
-
-```
-Dust Devil (2nd)
-Casting Speed: 1 action 
-Distance: 60 feet
-Duration: Concentration, up to 1 minute
-You create a magical dust devil in a 5ft cube within range for the duration. Creatures ending their turn within 5ft of the dust devil make a STR save to halve 1d8 bludgeoning damage and being pushed 10ft away from the dust devil.
-
-The dust devil can be moved 30ft in any direction with a bonus action. If the dust devil moves over material such as loose dirt, light gravel, dust, or sand, it's area becomes heavily obscured.
-```
-
-```
-Gust of wind (2nd)
-Casting Speed: 1 action
-Distance: Self(60ft line)
-Duration: Concentration, up to 1 minute
-A 10ff-wide line of strong wind blasts from you 60ft in a direction of your
-choosing. Creatures that start their turn in the line must succeed a strength
-saving throw to avoid being pushed 15 feet away from you in a direction
-following the line. The space of the wind is considered difficult terrain.
-
-With a bonus action each turn, you may change the direction of the wind coming
-from you.
-```
 
 ### Water Elemental Modifier
 - Resistant to non-magical physical damage
@@ -138,3 +104,14 @@ A nymph is attracted to one specific aspect, which it embodies. It gains an abil
 - Flower - Cast Greatberry
 
 `Major Nymph, XP: 50, Size: Medium, HP: 27(3d8+3), AC: 12, Fly 30ft [14, 12, 14, 12, 12, 16], Bite +3 2d6 piercing`
+
+### Arch Fey
+These are the most powerful fey, not only in their command of fey magic, but also in their scheming.
+
+`Arch Fey, XP: 50, Size: Medium, HP: 32(4d6+8), AC: 12, Speed: 30ft [14, 15, 14, 16, 17, 18], staff +4 1d6+2`
+- Spellcasting: On command fey magic. +7, DC 15 Spells:
+1. Disguise self, Faerie Fire
+2. Earthen Grasp, Red Hot Metal
+3. Possession, Riddle
+4. Dimension Door, Polymorph
+5. Geas, Scrying
