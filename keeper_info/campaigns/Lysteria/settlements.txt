@@ -867,7 +867,7 @@ Locations:
 # Supreme Library(Library)
 # Pinewood Cemetery(Graveyard)
 # Aebarrow Palace(Castle)
-# Church Of Destinations(Temple of Yxheia, Goddess Of Messages)
+# Church Of Destinations(Temple of Exheia, Goddess Of Messages)
 # Sanctum Of Ektia(Temple of Thyeyar, God Of Trade)
 Names:
 - Meldruk(M, Hobgoblin)
@@ -1263,7 +1263,7 @@ Locations:
 # Mountainside Burial Grounds(Graveyard)
 # Paradise Pastures(Farm)
 # Tornbury Keep(Castle)
-# Sanctum Of Regrets(Temple of Yxheia, Goddess Of Messages)
+# Sanctum Of Regrets(Temple of Exheia, Goddess Of Messages)
 # House Of Peace(Temple of Uaos, God Of Hunting)
 Names:
 - Aggelos Lambriadis(M, Human)

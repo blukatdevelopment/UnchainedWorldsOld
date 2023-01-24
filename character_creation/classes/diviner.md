@@ -125,7 +125,7 @@ You have earned enough trust from you deity to access their special reserve of s
 | Solus  | Lighting a new shrine| Leaving a shrine unlit | Light[1], Dazzling Light, Bend Light   |
 | Coent  | Blessing a child     | Killing a humanoid     | Spare the dying[1], Mana, Revivify     |
 | Gegtix | Planting a tree      | Cutting a tree         | Thornwhip[1], Vine Suit, lightning bolt|
-| Yxheia | Teaching someone     | Keeping a secret       | Eye stone[1], Identify, Mind Probe[1]  |
+| Exheia | Teaching someone     | Keeping a secret       | Eye stone[1], Identify, Mind Probe[1]  |
 |        | for an hour          |                        |                                        |
 | Korrath| Provide Judgement    | Fail to fight bad acts | Chastise, Smite, confess               |
 |        | for a crime          | of others              |                                        |
@@ -160,7 +160,7 @@ You may release the spirit bomb by firing it at a point within 120 feet, The orb
 
 You may build the channeled energy further and consuming 2 more stamina dice, growing the orb. The radius when you release the spirit bomb increases by 5ft, and the damage dealt increases by 2d8, up to a maximum of 50ft and 10d8 radiant damage. You must hold concentration to build the spirit bomb's energy.
 
-#### Omniscient Sight (Yxheia)
+#### Omniscient Sight (Exheia)
 Your eyes begin to glow brightly. You can see all creatures within 120 feet of you, whether they are invisible, hiding, or in a parallel dimension such as the ethereal plane. You chant a holy prayer, and any friendly creatures within range share this sight, and additionally gain advantage on any attack rolls they make. Each turn, you may use your bonus action to continue chanting in order to extend this effect for up to 1 minute.
 
 #### Reap (Korrath)

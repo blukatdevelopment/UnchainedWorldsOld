@@ -233,6 +233,8 @@ Often shortened to "The 14 Laws" or "The Law of Bimros", these laws were origina
 ## The Lessons of Uaos
 Often referred to as "The Lessons", the Lessons of Uaos is an oral tradition containing hundreds of fables containing morals. They were never delivered together as one complete work from Uaos, but instead with individual fables given to individual wise shamen over hundreds of years. Uaos himself gave differing or contradictory versions of the same fables, and even the same fables giving contradicting moral lessons. The chief aim of The Lessons was to provide an alternative moral framework to that of Bimros's claim of absolute moral truth. Shamen pass on Uaos's wisdom to use the fables as a starting point, and to examine the issues presented in order for each individual to reach their own honest conclusions.
 
+## Libraries of 
+
 # Morality and Divinity
 
 ## Alignment
@@ -251,7 +253,7 @@ Law establishes an order in the form of hierarchies via social institutions such
 Many lesser divines combined, forming more powerful divines containing multiple aspects. The celestial pantheon was formed by a few of these divines forming a loose alliance and creating a realm together from which they shape the world. They are perpetually in a state of cold war, their conflict limited entirely to the material plane where they compete using the prayers of their believers.
 
 ### Bimros
-God of arrows, hunting, and dominion over nature. He created humans to rule the mountains, fields, and forests.
+God of arrows, hunting, and dominion over nature. He created humans to rule the mountains, fields, and forests. His symbol is that of monolith containing his 14 laws, which he created to provide humans with direction in the world.
 
 ### Gegtex
 Goddess of grass, trees, flowers, thorns, fruit, and rebirth. Creating the fae to protect her aspects as they are reflected in the Crucible's wildlife. Gegtex offers an oath to pursue this goal as well, granting druidic magic to those who take it.
@@ -262,9 +264,9 @@ Goddess of sleep, ice, stone, and circles. Her avatar is a teal-skinned pointy-e
 ### Uaos
 God of agriculture. He has the head of a bull and carries a spear with a horn as the tip. He created the beast folk to worship him, and commonly grants small blessings and boons to farms that burn offerings to him.
 
-### Yxheia
+### Exheia
 (Pronouncex "Eck-s-Hee-yah")
-Goddess of knowledge, research, scrolls, and wisdom. Yxheia's oath is to preserve, spread, and pursue knowledge. Yxheia's temples always contain libraries that are open to the public, but are incredibly strict about the handling of books and scrolls, requiring flameless light sources such as sky lights and magic torches to be in use. Her scribes are often rewarded for their good deeds by gaining access to carefully guarded knowledge that is deemed to dangerous for the general public.
+Goddess of knowledge, research, scrolls, and wisdom. Exheia's oath is to preserve, spread, and pursue knowledge. Exheia's temples always contain libraries that are open to the public, but are incredibly strict about the handling of books and scrolls, requiring flameless light sources such as sky lights and magic torches to be in use. Her scribes are often rewarded for their good deeds by gaining access to carefully guarded knowledge that is deemed to dangerous for the general public.
 
 ### Gidur
 Creator of the waystones that mark the laylines across the world, Gidur is a divine of secrecy. Their aspects are unknown aside from shadow, and they deal exclusively in small cults. Gidur is happy to lose the game of being the dominant faith in the material plane. Rumors circulate of hundreds of different conspiracies they've worked towards, such as covertly hollowing a hills, constructing mazes, or growing a large crop of a specific mushroom, only to destroy it when it grows ready for harvest. Gidur's symbol is a special kind of glyph that becomes active upon completion. Anywhere his symbol is depicted, he gains a limited point of vision in the world. It's for this reason that it's considered taboo in most cultures to depict Gidur's name. Those who seek out Gidur's audience often use his symbol in graffiti, sometimes with nobles etching it under their courtroom tables, or artists including it subtly in ornate designs.

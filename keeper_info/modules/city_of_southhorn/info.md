@@ -545,7 +545,7 @@ virtuous
 - DC 12: Teaches that all living things deserves respect and have souls
 - DC 14: Forbids followers from eating meat
 - DC 16: Can be reached through fairy circles
-10. Cavil Tarro's guide to Yxheia: Make an investigation check
+10. Cavil Tarro's guide to Exheia: Make an investigation check
 - DC 5: deity of knowledge, symbol is a glyph with an eye
 - DC 7: Created gnomes to conduct research
 - DC 10: Invented sending stones and many other magic items
@@ -899,7 +899,7 @@ A nudist, loves gardening flowers.
 A defector from the Inglewood army guarding Spicetown. Secretly is a cultist informant.
 
 #### Mage Uru(M)
-A mage of Yxheia, can identify magic items.
+A mage of Exheia, can identify magic items.
 
 ### (i) Abandoned manor
 The previous king of thieves lived here before Southhorn was overtaken by 
