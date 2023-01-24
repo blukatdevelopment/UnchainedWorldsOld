@@ -242,3 +242,17 @@ These burrowing creatures build steep pits in sand or loose dirt, which they gua
 `Pit fisher, Size: large, HP: 24(3d8), AC: 16(submerged), Speed: 5ft [16,7,15,3,16,3], Bite +5 2d6+3 piercing`
 - Pit: A creature that enters the pit must succeed a DC 14 DEX save to avoid sliding down to the center.
 - Tentacle: One creature within 30ft DC 13 STR save or pulled into pit.
+
+## Mimic
+Mimics disguise themselves as objects in the world, waiting for their prey to try interact with them.
+
+`Mimic, Size: medium, HP: 30(3d8+6), AC: 12, Speed: 5ft [16,7,15,3,16,3], Bite +5 2d6 piercing, 1d6 poison`
+- Sticky: When a creature touches the mimic, they must suceed a DC 14 STR save or else become grappled
+
+## Hydra
+This four-legged serphent has two heads. When either is cut, two more take it's place.
+
+`Hydra, Size: huge, HP: 64(8d6+16), AC: 12, Speed: 35ft [16,7,15,3,16,3], Bite(15ft) +5 1d8+3`
+- Head regrowth:  Hydra starts with two heads. If the the hydra takes 10 or more damage, a head is considered severed, and two replace it, increasing the number of heads by one and healing it for 10 damage.
+- Multi-attack: May make one bite attack per head
+

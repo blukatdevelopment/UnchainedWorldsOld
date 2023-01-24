@@ -57,13 +57,13 @@ This spherical demon opens into two hemispheres joined by a central stalk. Teeth
 ### Abyssal Giant
 The blood steel helmet and cuirass hide the true horror of this monster, which is a hulking heap of rotten corpses joined by a possessing spirit. It has no eyes nor mouth on its head, but perceives spirits to a limited range. The Hell Knight is loyal to it's creator, and will go on a rampage if it's creator dies.
 
-`Hell Knight, XP: 450, HP: 63 (5d12+3), AC: 16(Half Plate), [20, 12, 12, 4, 4, 4]. Blood Sword +6 2d8+5 slashing damage`
+`Abyssal Giant, XP: 450, HP: 63 (5d12+3), AC: 16(Half Plate), [20, 12, 12, 4, 4, 4]. Blood Sword +6 2d8+5 slashing damage`
 - Blindsight 30ft, Resistance: Fire
 - Destruct: When the Hell Knight is killed, it's blood steel equipment explodes into flame. All creatures within 10ft must succeed a DC 12 dexterity saving throw to halve 1d6 fire damage.
 - Engulf: Arms reach out and drag a grappled creature into the Hell Knight's torso. This turn, and at the start of any following, the grappled creature takes 1d4 piercing damage as mouths begin biting and gnawing on them.
 
 ### Bone thresher
-This orange-fleshed creature has the bones of it's enemies sewed to it's hide as armor. It carries a large bone spear and has a cat of nine tails made with sharpened bone fragments. It wears a necklace of skulls.
+This orange-fleshed creature has the bones of it's enemies sewed to it's hide as armor. It carries a large bone spear and has a cat of nine tails made with sharpened bone fragments. It wears a necklace of skulls. Surrounding the bone thresher is a roughly 100ft radius cold front.
 
 `Bone Thresher, XP:450, Size: Large, HP: 52(4d12+4), AC: 14(bone armor), [16, 12, 12, 10, 10, 10], Bone Whip(15ft) +5 2d4+3, Bone Spear +5 2d8+3`
 

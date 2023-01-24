@@ -59,6 +59,7 @@ the damage plus 10.
 
 ## Spirits
 
+### Shadows
 `Shadow, XP: 50, HP: 12(3d4), AC: 12, Speed: Fly 40ft, [12, 11, 13, 12, 16, 15]`
 - Weak: Radiant, Immune: necrotic, Resistance: Non-magical physical, acid, cold, fire, lightning, thunder
 - Amorphous: Shadow may change shape and slide through small crevices.
@@ -66,11 +67,19 @@ the damage plus 10.
 - Sunlight weakness: In direct light, shadow has disadvantage on attack rolls, checks, and saving throws.
 - Strength Drain +4 2d6+2, reduce target's strength score by 1 until they finish a rest. If strength falls below 1, they die.
 
-`1Ghost, XP: 200, HP: 50(10d8), AC: 14, Speed: Fly 40ft, Life Drain: +4 1d10 necrotic`
+### Ghosts
+`Ghost, XP: 200, HP: 50(10d8), AC: 14, Speed: Fly 40ft, [12, 11, 13, 12, 16, 15] Life Drain: +4 1d10 necrotic`
 - Weak: Radiant, Immune: Non-magical physical, necrotic
 - Incorporeal form: The ghost may become incorporeal and pass through objects. They may not attack while incorporeal.
 
+### Banshee
+Banshees are known for their screech, which may prove deadly for some.
 
+`Banshee, HP: 36(4d8+4), AC: 12, Speed: Fly 40ft, [12, 11, 13, 12, 16, 15], Life Drain: +4 1d10 necrotic`
+- Weak: Radiant, Immune: Non-magical physical, necrotic
+- Wail: DC 13 WIS save(no constructs, undead) to avoid dropping to 0HP and instead take 1d6 psychic.
+
+### Specters
 Raised again in a partially material form of their previous life, specters often
 attempt to live as if they were in the moments preceding their cause of death. 
 
