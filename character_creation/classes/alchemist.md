@@ -29,16 +29,10 @@ The alchemist's stamina die is a d4.
 | Saving Throws | Intelligence, Wisdom |
 
 ## Skills
-Choose 4 from the following:
-- Religion
-- Arcana
-- History
-- Deception
-- Investigation
-- Insight
-- Persuasion
-- Stealth
-- Sleight of Hand
+You are proficient in the following skills:
+- Alchemy
+- Chemistry
+- Mathematics
 
 ## Starting Equipment
 - Alchemy Kit

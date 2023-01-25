@@ -29,16 +29,12 @@ The gunsmith's stamina die is a d6.
 | Saving Throws | Strength, Dexterity                                                    |
 
 ## Skills
-Choose 2 from the following:
+You are proficient with:
+- Clockwork
+- Metallurgy
+Choose one skill:
 - Athletics
-- Acrobatics
-- Animal Handling
-- Investigation
-- Insight
-- Intimidation
-- Persuasion
 - Stealth
-- Sleight of Hand
 
 ## Starting Equipment
 - Choose one from either a musket, one revolver, or four pocket pistols

@@ -29,15 +29,9 @@ The psion's stamina die is a d4.
 |:--------------|----------------------|
 
 ## Skills
-Choose two from the following:
-- Acrobatics
-- Animal Handling
-- Athletics
-- History
+You are proficient in the following skills:
 - Insight
-- Intimidation
-- Perception
-- Survival
+- Animal handling
 
 ## Starting equipment
 - Dagger

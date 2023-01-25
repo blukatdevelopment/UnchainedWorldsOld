@@ -232,7 +232,7 @@ When you use your action to make an attack, you may make one additional attack.
 Now, and again each time you gain a level from now on, you recalculate your hit points. Roll 3d6 and add your CON modifier three times. If the value rolled is higher than your current max hit points, you may keep it.
 
 ### Jack of all Trades
-Your general knowledge serves you well. You now receive half your proficiency bonus on all skills which you are not proficient with.
+Your general knowledge serves you well. You now receive half your proficiency bonus on all ability checks that you can apply some form of knowledge to.
 
 ### Improvised preparation
 When you see a spell cast by another creature, you may expend a stamina die to use a reaction and perform a performance check to watch and prepare the spell. If you succeed the DCs listed below for the spell, it is prepared and can be cast. You may have one spell prepared this way at a time. Once cast, you cannot prepare the spell again until you use this feat to do so.

@@ -29,17 +29,12 @@ The thief's stamina die is a d6.
 
 
 ## Skills
-You are proficient in stealth and 3 from the following:
+You are proficient in the following:
+- Pickpocketing
+- Stealth
 - Acrobatics
 - Athletics
 - Deception
-- Insight
-- Intimidation
-- Investigation
-- Perception
-- Performance
-- Persuasion
-- Sleight of hand
 
 ## Starting equipment
 - 10 darts

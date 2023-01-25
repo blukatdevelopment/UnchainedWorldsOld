@@ -30,7 +30,18 @@ Gold robe cuisine consists of only the finest and most exotic ingredients avalab
 Common phrases gold robes use include "gilded"/"pyrite"/"last week" to mock bad fashion, "shiny"/"smooth"/"frilled" to compliment others. Crafting insults is an art form and a game of wit for many Gold Robes.
 
 ### Well-rounded education
-You gain proficiency in two skills of your choice.
+You gain proficiency in two of the following skills:
+- Reading
+- writing
+- Arithmetic
+- Commerce
+- Herbology
+- Zoology
+- History
+- Religion
+- Painting
+- One musical instrument
+- Clockwork
 
 ### Athlete (requires at least 15 STR)
 In your education, you competed on a sports team and trained often. You are proficient in athletics.
@@ -42,12 +53,7 @@ You spent at least some of your time practicing fencing. You are proficient with
 It's unclear whether your senses or language surrounding alcohol have become any more refined, but you sure can throw the stuff back. Your body has a strong tolerance for alcohol.
 
 ### University (requires at least 15 INT)
-Testing earned you a year's stay at college, where you graduated with a degree in one topic. Choose one of the below skills that you are already proficient in. You gain expertise in that skill and may add twice your proficiency bonus when making skill checks with it.
-- Arcana
-- History
-- Investigation
-- Nature
-- Religion
+Testing earned you a year's stay at college, where you graduated with a degree in one topic. Choose one of the skills that you are already proficient in from your Well-rounded education. You gain expertise in that skill and may add twice your proficiency bonus when making skill checks with it.
 
 ### Fashion Expert (requires at least 15 WIS)
 You've seen enough trends that you understand fashion intuitively. In a pinch, you can give a makeover to even the most unseemly creatures to make them considerably more presentable. More importantly, you know how to dress to blend in with various peoples.
@@ -110,11 +116,10 @@ The runes of metal tongue spell out the names of the ancestors before you on thi
 
 ### Minerology (requires at least 15 WIS)
 Your studies have paid off.
-You have advantage on skill checks made to identity the features of or remember
-crucial information about minerals.
+You have advantage on checks made to identity the features of or remember crucial information about minerals.
 
 ### Silverhammer's Tongue (requires at least 15 CHA)
-You're able to communicate confidently about anything related to metal, whether you are knowledgeable or not. You gain advantage on any deception check which depends upon your perceived expertise on minerology, metallurgy, smithing, or mining.
+You're able to communicate confidently about anything related to metal, whether you are knowledgeable or not. You gain advantage on any charisma check which depends upon your perceived expertise on minerology, metallurgy, smithing, or mining.
 
 ## 4 Coggers
 ![Coggers](https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/culture_coggers.jpg "Coggers")
@@ -160,23 +165,30 @@ During your childhood you worked as an apprentice to help pay the bills. You are
 You were recruited and served a few months in the army before being returned. In that time you learned to wield a pole arm in formation. You are proficient with pikes.
 
 ### Borrow (requires at least 15 DEX)
-When you attempt to steal an object using a sleight of hand check, you make it with advantage.
+When you attempt to steal an object using a dexterity check, you make it with advantage.
 
 ### Tolerant Lungs (requires at least 15 CON)
 Breathing soot hasn't done great things for your health, but at least there's a silver lining. You are resistant to damage taken by breathing harmful gases.
 
 ### Moonlighting academic (requires at least 15 INT)
 You worked with proximity to sensitive information. Maybe you were a chimney sweep for wealthy homes, or spent plenty of time around engineers in a factory, or something else. Choose one of the following skills, and gain expertise in it, adding twice your proficiency bonus when you make checks with it.
-- Investigation
+- Reading
+- writing
+- Arithmetic
+- Commerce
+- Herbology
+- Zoology
 - History
-- Arcana
-- Nature
+- Religion
+- Painting
+- One musical instrument
+- Clockwork
 
 ### Haggle (requires at least 15 WIS)
-You didn't get where you are by paying full price. The first persuasion check you make to haggle with a particular trader is made with advantage.
+You didn't get where you are by paying full price. The first charisma check you make to haggle with a particular trader is made with advantage.
 
 ### Embelish (requires at least 15 CHA)
-It's hard for others to know what you have and haven't experienced. When you tell a tall tale, you get advantage on your deception check.
+It's hard for others to know what you have and haven't experienced. When you tell a tall tale, you get advantage on any deceptive charisma check.
 
 ## 6 Field Folk
 Farmers, foresters, and fishermen bear this name. It is a simple life, but often a rewarding one.
@@ -201,7 +213,7 @@ You've heard enough legends throughout your life, that there's a good chance the
 Even if it's not your job, you've spent a lot of time near livestock. You have advantage on animal handling checks dealing with domesticated animals.
 
 ### Tall tales (requires 15 CHA)
-You have advantage on skill checks that use charisma if they rely on you telling stories, true or otherwise.
+You have advantage on charisma checks if they rely on you telling stories, true or otherwise.
 
 ## 7 Deep folk
 The residents of the caves and mines that honeycomb many regions, most deep folk never venture into the sunlight more than once or twice in their life. Subsisting on farming fungi and hunting underground monsters, the deep folk are often proud warriors. 
@@ -320,7 +332,7 @@ Below are the most common of wayfarer special interests. The common thread is th
 Though you've never wrestled an actual bear, you have wrestled a large performer in a bear suit in front of a crowd. You do not have disadvantage on grappling checks made against creatures one size larger than you.
 
 ### Juggler (requires at least 15 DEX)
-You know how to juggle expertly. You have advantage when you make skill checks leveraging this ability.
+You know how to juggle expertly. You have advantage when you make checks leveraging this ability.
 
 ### Vice of Clarity (requires at least 15 CON)
 Whether it be coffee, tobacco, or biting your nails, you have a vice. When you expend a stamina die to indulge in your vice, you enter an altered state of mind and more easily ignore interruptions. For 1 minute, you have disadvantage on spell attack rolls, but have advantage when making concentration checks.
@@ -332,4 +344,4 @@ You learned to entertain others using your magic. You know either the minor illu
 On your travels, you have had a close encounter with the fey, and they admired you. You have advantage on saving throws against being charmed or posessed by magic.
 
 ### Kiss of fate (requires at least 15 CHA)
-You expend a stamina die and speak a good fate into existence. You may then transfer this magic of your lips to one creature by either kissing them, or blowing a kiss to them. The kiss is left as a mark on them, vanishing if they either complete a rest or expend the kiss to gain 1d8 on an attack roll, saving throw, ability check, or skill check. A creature may only have one kiss of fate at a time.
+You expend a stamina die and speak a good fate into existence. You may then transfer this magic of your lips to one creature by either kissing them, or blowing a kiss to them. The kiss is left as a mark on them, vanishing if they either complete a rest or expend the kiss to gain 1d8 on an attack roll, saving throw or ability check. A creature may only have one kiss of fate at a time.

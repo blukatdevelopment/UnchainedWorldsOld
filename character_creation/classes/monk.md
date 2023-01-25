@@ -29,17 +29,9 @@ The monk's stamina die is a d8.
 |:--------------|:-------------------------------|
 
 ## Skills
-You are proficient in 2 from the following:
+You are proficient in these skills:
 - Acrobatics
 - Athletics
-- Deception
-- Insight
-- Intimidation
-- Investigation
-- Perception
-- Performance
-- Persuasion
-- Sleight of hand
 
 ## Starting equipment
 - backpack

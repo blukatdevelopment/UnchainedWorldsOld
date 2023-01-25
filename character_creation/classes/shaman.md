@@ -31,20 +31,19 @@ Your stamina die is a d4.
 
 
 ## Skills
-Choose 4 from the following:
+You are proficient with:
+- Tracking
+- Herbology
 - Religion
-- Arcana
-- History
-- Deception
-- Investigation
-- Insight
-- Persuasion
-- Stealth
-- Sleight of Hand
 
 ## Starting Equipment
-
-
+- Staff
+- Traveler's clothes
+- Bag of herbs
+- 5 days of rations
+- Stone dagger
+- longbow
+- 20 arrows
 
 ```
 LVL = level

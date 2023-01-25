@@ -30,13 +30,14 @@ The diviner's stamina die is a d4.
 |:--------------|:-----------------------------------|
 
 ## Skills
-Choose two from the following:
+You are proficient with these skills:
 - Religion
-- Persuasion
 - Medicine
+
+You may choose one of the following skills:
+- Persuasion
 - Insight
 - History
-- Perception
 
 ## Starting equipment
 - Dagger or mace

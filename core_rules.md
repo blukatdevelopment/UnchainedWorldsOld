@@ -148,31 +148,7 @@ If you do not want to trust your fate to the dice, you may use an array of prede
 If you trust your fate to the dice gods, this is your ritual. You will discover your character, for better or worse. Roll 4d6. Set aside the lowest roll and ignore it. Add up the remaining three. This is your strength score. Repeat this process for the other five abilities. When you’re done, you may switch the scores of two abilities. You may do this only for one pair of abilities.
 
 ## Skills
-Every character has a proficiency bonus which increases with level progression. When you're proficient with a skill, you can add your proficiency bonus to ability checks using that skill.
-
-### Specific Skills
-Specific skills define a very narrow action, like agriculture, tracking, or poetry. They are not defined exhaustively, and can be added by supplementary books or improvised in the moment.
-
-### General Skills
-Some skills are general in nature, and may apply to a wide variety of situations. When a feat, culture, or class grants you proficiency in a skill, it will likely be in general skills. They are listed explicitly below. Each may be mapped to a specific ability, depending on how the skill is used.
-- Acrobatics - Acts of agility such as performing a backflip or landing from a great height.
-- Animal Handling - Befriending, calming, or commanding animals.
-- Arcana - Recalling knowledge related to subjects of a magical nature.
-- Athletics - Acts of controlled strength such as climbing, wrestling, or wrestling something from a creature's hand.
-- Deception - Leading others to arrive at counterfactual conclusions.
-- History - Recalling facts about past events, especially common sense and obscure trivia.
-- Insight - Detecting deception in others.
-- Intimidation - Motivating through fear.
-- Investigation - Finding patterns or searching through complex information such as a drawer full of items, clues at a murder scene, or a particular book in a library.
-- Medicine - Knowing of illnesses, their remedies, and experience administering them successfully.
-- Nature - Knowing of the diversity nature and it's workings.
-- Perception - Making out figures in the distance, what people are saying a room over, and the distinctly nutty flavor of cyanide.
-- Performance - Miming, acting, singing, or dancing. Any act which aims not to deceive, but to inspire awe or interest.
-- Persuasion - Motivation through convincing factual statements.
-- Religion - Knowledge of deities, holy and unholy traditions, and the lore of fiends and celestials.
-- Sleight of Hand - Agility of your hands to perform tricks, pickpocket, and otherwise use exceptionally fine motor skills.
-- Stealth - Knowing how to not be seen.
-- Survival - Learning to track, hunt, skin, tan, slaughter, trap, locate clean water, and navigate using the stars.
+Every character has a proficiency bonus which increases with level progression. When you're proficient with a skill, you can add your proficiency bonus to ability checks using that skill. Skills define a very narrow action, like agriculture, tracking, or poetry. They are not defined exhaustively, and can be added by supplementary books or improvised in the moment. Skills are best negotiated in the context they're being applied to. For instance, a player might say "I'm use my tracking knowledge to attempt to determine how fresh these footprints are." or "I use my poetry skill to write a catchy rhyme that will spread a message of disapproval of the king.".
 
 ## Class
 Your class decides your stamina dice, class features, and informs the role you'll play in your party. Talk to you keeper about what classes are available at your table.
@@ -257,7 +233,7 @@ On each turn, you receive the following:
 ### Actions in combat
 There is an assortment of actions you may use in combat.
 
-- Attack: You may make an melee or ranged attack. You may also attempt to grapple or shove a creature, which requires a contested athletics check made against either an athletics or acrobatics check(their choice).
+- Attack: You may make an melee or ranged attack. You may also attempt to grapple or shove a creature, which requires a contested strength check made against either a strength or dexterity check(their choice).
 - Cast A Spell: You may cast a spell which as a casting time of one action.
 - Dash: You gain movement equal to your current movement. For example, if you had 30ft of movement, you would gain 30ft by dashing.
 - Disengage: Normally, an enemy may take an attack of opportunity when you leave their melee range. Disengaging prevents this.
@@ -294,7 +270,7 @@ Jumping from more than 5ft requires 10ft of movement. When making a high jump, y
 Difficult terrain requires you to move more slowly. This means that for every 5ft of distance covered in difficult terrain, you must exert 10ft of movement. Examples of difficult terrain:
 - Knee-deep mud
 - slippery ice
-- climbing up or down without a climbing speed (which will likely also require an acrobatics or athletics check)
+- climbing up or down without a climbing speed (which will likely also require a dexterity or strength check)
 - Swimming without a swimming speed
 - sand
 

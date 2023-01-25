@@ -71,3 +71,91 @@ Bandit(any)
 Soldier (any)
 Cultists(Any)
 Dwarf Giants
+
+
+
+
+Slime(Any) + Dire Wolf
+Rotheads + Manface silkworm
+Sentinel + Giant Leech
+Flesh Eaters + Muckbeast
+Bandit(any) + Floating Eye
+Skeletons + Bone Thresher
+Rotheads + Giant Ant
+Skeletons + Regret
+Leech Man + Chameleoid
+Skeletons + Fey Guardian
+Zombie + Giant Crab
+Flesh Eaters + Mind Leech
+Flesh Eaters + Pincer Beast
+Leech Man + Breath Skull
+Soldier (any) + Invisible Skulker
+Cultists(Any) + Sand Guardian
+Flesh Eaters + Abyssal Giant
+Tentacle Beast + Fey Guardian
+Dwarf Giants + Spindle Man
+Tentacle Beast + Dire Wolf
+Cultists(Any) + Giant Ant
+Shroom People + Pincer Beast
+Vampire + Shadow
+Zombie + Mind Leech
+Vampire + Giant Hand
+Mantis Man + Pincer Beast
+Sentinel + Gattogat
+Cultists(Any) + Abyssal Giant
+Chaos Shells + Floating Eye
+Rotheads + Sharp Tooth
+Infernoids + Hydra
+Infernoids + Carpet Worm
+Nymph + Ghost / Banshee / Specter
+Slime(Any) + Wolf bat
+Shroom People + Fey Guardian
+Flesh Eaters + Mimic
+Sentinel + Shadow
+Cultists(Any) + Mind Leech
+Shroom People + Shadow
+Skeletons + Land Urchin
+
+
+
+
+Rotheads + Grinders + Imp
+Nymph + Flame Guardian + Mountain Lion
+Cultists(Any) + Fey Guardian + Mimic
+Needlenose + Giant Leech + Floating Eye
+Mantis Man + Gattogat + Stone Scurrier
+Cultists(Any) + Abyssal Giant + Snarl Beak
+Zombie + Breath Skull + Giant Crab
+Infernoids + Giant Crab + Vice
+Sentinel + Flame Guardian + Root Walkers
+Leech Man + Huge Polar Bear + Mountain Lion
+Infernoids + Giant Hand + Arch Fey
+Mantis Man + Stone Scurrier + Imp
+Leech Man + Swarm of Heart Worms + Huge Polar Bear
+Bandit(any) + Muckbeast + Giant Crab
+Slime(Any) + Hell Hounds + Spindle Man
+Nymph + Root Walkers + Brown Bear
+Skelemancer + Saber-toothed Tiger + Manface silkworm
+Cultists(Any) + Dire Wolf + Floating Eye
+Shroom People + Sharp Tooth + Mind Leech
+Nymph + Giant Ant + Sharp Tooth
+Leech Man + Bone Thresher + Marionette spider
+Rotheads + Ghost / Banshee / Specter + Breath Skull
+Tentacle Beast + Changeling + Littlefoot
+Leech Man + Floating Eye + Giant Leech
+Shroom People + Devil Scribes + Huge Polar Bear
+Soldier (any) + Sand Guardian + Sharp Tooth
+Skelemancer + Marionette spider + Chameleoid
+Tentacle Beast + Mimic + Hell Knight
+Leech Man + Bone Thresher + Invisible Skulker
+Vampire + Giant Spider + Mountain Lion
+Dwarf Giants + Huge Polar Bear + Brown Bear
+Skelemancer + Grinders + Flame Guardian
+Soldier (any) + Shadow + Swarm of Heart Worms
+Skeletons + Carpet Worm + Regret
+Shroom People + Brown Bear + Giant Ant
+Mantis Man + Vice + Mountain Lion
+Slime(Any) + Chameleoid + Manface silkworm
+Needlenose + Flame Guardian + Root Walkers
+Zombie + Manface silkworm + Mimic
+Slime(Any) + Manface silkworm + Changeling

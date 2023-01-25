@@ -30,13 +30,9 @@ Your stamina die is a d4.
 |:--------------|------------------------|
 
 ## Skills
-Select two from the following:
-- Acrobatics
-- Athletics
+You are proficient with the following:
+- Animal handling
 - Insight
-- Intimidation
-- Nature
-- Survival
 
 ## Starting equipment
 - Dagger

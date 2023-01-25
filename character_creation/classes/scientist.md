@@ -28,15 +28,18 @@ The scientist's stamina die is a d4.
 
 
 ## Skills
-Select four from the following:
-- Arcana
-- History
-- Investigation
-- religion
-- Nature
-- Insight
-- Medicine
-- Sleight of Hand
+You are proficient with:
+- Reading
+- Writing
+- Arithmetic
+Select two of the following:
+- Biology
+- Zoology
+- Herbology
+- Physics
+- Clockwork
+- Alchemy
+- Chemistry
 
 ## Starting equipment
 - Backpack

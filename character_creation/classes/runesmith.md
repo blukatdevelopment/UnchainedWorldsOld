@@ -27,13 +27,10 @@ The runesmith's stamina die is a d4.
 | Saving Throws | Dexterity, Intelligence                                |
 
 ## Skills
-Choose 2 from the following:
+You are proficient in these skills:
 - Arcana
 - History
-- Insight
-- Investigation
-- Medicine
-- Religion
+- Stone carving
 
 ## Starting Equipment
 - Book of Runes

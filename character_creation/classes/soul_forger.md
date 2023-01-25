@@ -30,11 +30,8 @@ The soul forger's stamina die is a d4.
 
 
 ## Skills
-Choose 2 from the following:
+You are profient with the following skills:
 - Arcana
-- History
-- Insight
-- Investigation
 - Medicine
 - Religion
 
