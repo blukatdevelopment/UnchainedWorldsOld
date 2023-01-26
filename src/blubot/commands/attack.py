@@ -25,7 +25,7 @@ def attack_commands(bot, discord):
         character = load_active_character(bot.db, ctx.user.id)
         if character is None:
             return await ctx.respond(f"No Active character selected.")
-        await ctx.respond(f"{character['name']} uses their {attack_name} attack!\n" + use_attack(character, attack_name))
+        await ctx.respond(f"{character['name']} uses their {attack_name} attack!\n" + use_attack(character, attack_name)[0])
 
     @attack_command_group.command()
     async def list(ctx):

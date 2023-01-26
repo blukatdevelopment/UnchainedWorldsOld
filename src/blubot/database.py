@@ -137,6 +137,7 @@ class Db:
     self.conn.commit()
 
   def get_calendar_day_data(self, year, month, day):
+    pass
     
 
 # Init the tables

@@ -30,8 +30,9 @@ The monk's stamina die is a d8.
 
 ## Skills
 You are proficient in these skills:
-- Acrobatics
-- Athletics
+- Grappling
+- Climbing
+- Falling
 
 ## Starting equipment
 - backpack
