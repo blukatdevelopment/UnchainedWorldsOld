@@ -42,3 +42,12 @@ Claws +6 2d6+5 slashing
 8: Oven - doors of room close, then fire under grate in floor slowly cooks anything in room / room is full of flammable materials which are ignited by trap
 9: Time trap
 
+Prompt 11:
+
+{
+    "five_rings_lesson": "Distinguish between gain and loss in worldly matters.",
+    "moon phase": "new moon",
+    "sense": "Taste or gustation",
+    "random_words": "prestigious, modern, chemical, society, gloomy",
+    "chaucer_character": "Franklin"
+}

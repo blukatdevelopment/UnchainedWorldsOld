@@ -56,3 +56,13 @@ It's unclear how this creature emerged, except that wild magic corruption was in
 7: Acid Treasure - Obvious treasure in a (container, pool) of acid. Need to find a safe way to remove it.
 8: Circular Saw Blades - extend out of slots in the floor or walls
 9: Imprisoning (ice) - knee deep water; trap instant freezes water, trapping victim in ice
+
+Prompt 16:
+
+{
+    "terrain": "Butte",
+    "color": "Plum",
+    "random_items": "Druidicfocus, Kit,healer\u2019s, Spellbook",
+    "deadly_sin": "Lust",
+    "bible_story": "Othniel & Ehud"
+}

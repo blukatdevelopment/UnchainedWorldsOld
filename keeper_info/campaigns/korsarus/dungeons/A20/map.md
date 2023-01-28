@@ -31,3 +31,14 @@ This orange-fleshed creature has the bones of it's enemies sewed to it's hide as
 7:  Retracting Surface - Trap is part of a walkway, stairs, a ladder, handholds. When the trap is triggered the 'walk way' retracts into the wall causing the victim to fall.
 8: Reverse gravity trap
 9: Slick Surface - algae, grease, oil, or ice + inclined surface, ladder, ramp, stairs, edge of pit, or edge of cliff + (broken glass, caltrops, spikes, another trap, hazardous substance, hazardous terrain, rooted monster) in fall area
+
+
+Prompt 19:
+
+{
+    "terrain": "Temperate Rainforest",
+    "sense": "Smell or olfaction",
+    "damage_type": "acid",
+    "self_help_advice": "Never outshine the master.",
+    "direction": "North"
+}

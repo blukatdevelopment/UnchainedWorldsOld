@@ -48,3 +48,13 @@ Mimics disguise themselves as objects in the world, waiting for their prey to tr
 7: Icy bolas and psychic pillars triggered by iron-bound chests.
 8: Pit opens (swallowing the target) and then quickly locks shut, and then floods with water
 9: Gas trap
+
+Prompt 2:
+
+{
+    "five_rings_lesson": "The Way is in training.",
+    "weapon": "Rapier",
+    "direction": "SouthWest",
+    "bible_story": "Jehoshaphat & Ahab\u00a0",
+    "element": "gold"
+}

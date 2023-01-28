@@ -51,3 +51,13 @@ Claws +7 3d10+4 bludgeoning, DC 15 STR save or target is grappled
 7:  Noisy Door - a door with rusty hinges or a door that scrapes against the floor when opened. Attempts to open or close the door will alert nearby people and creatures.
 8: Rage - cause victim to become enraged; victim attacks any living thing until the magic wears off
 9: Deadfal Trap (animal) - bee’s nest / jar or pot filled with (ooze, scorpions, snakes, spiders, etc) / trap door releases (scorpions, snakes, spiders, etc)
+
+Prompt 5:
+
+{
+    "enemy_type": "giants",
+    "random_words": "friendly, agency, entire, revolving, fill",
+    "terrain": "Plateau",
+    "chaucer_character": "Knight's yeoman",
+    "season": "fall"
+}

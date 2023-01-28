@@ -36,3 +36,13 @@ An imp is one of the most common forms of undead, as it's a common first form de
 7: A weapon, suit of armor, or rug animates and attacks when touched (see 'Animated Objects' in the Monster Manual)
 8: Diseased snares and nauseating glyphs triggered by an onyx demonic skull.
 9: Gravity reversing razor-wire and flaming swinging blades triggered by steep stairs.
+
+Prompt 10:
+
+{
+    "random_words": "thick, conclusion, extreme, repulsive, aromatic",
+    "element": "holmium",
+    "color": "Coral",
+    "five_rings_lesson": "Do nothing which is of no use.",
+    "self_help_advice": "Concentrate your forces."
+}

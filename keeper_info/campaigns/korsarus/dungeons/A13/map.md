@@ -45,3 +45,13 @@ Claws +7 3d10+4 bludgeoning, DC 15 STR save or target is grappled
 7: Chain lightning trap
 8: Lava trap
 9: A stone block falls from the ceiling
+
+Prompt 12:
+
+{
+    "random_words": "petty, fishing, periodic, itchy, blue",
+    "mbti": "INTP",
+    "deadly_sin": "Wrath",
+    "terrain": "Alpine Tundra",
+    "element": "osmium"
+}

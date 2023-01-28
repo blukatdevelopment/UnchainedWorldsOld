@@ -63,3 +63,13 @@ A nymph is attracted to one specific aspect, which it embodies. It gains an abil
 7:  Open Pit Trap - a pit blocks a corridor. The pit may be filled with (acid, boiling oil, boiling water, burning oil, flammable oil, heavier than air gas, lava, liquid metal, poison, poison gas, quicksand, spikes, tar, water)
 8: Deadly Stairs - changes to slide, retracts into wall, section pivots to flip upside down, + dump into hazard, high fall, or trap
 9: One Way Door - it’s a door on one side. it’s a solid wall if your on the other side
+
+Prompt 1:
+
+{
+    "aesop_fable": "Fisherman and Little Fish",
+    "humor": "black bile",
+    "weapon": "Whip",
+    "random_words": "shape, piano, case, physical, wedding",
+    "classic_element": "air"
+}

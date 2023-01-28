@@ -75,3 +75,13 @@ Spellcasting: DC 17, +9, at will
 7:  Open Pit Trap - a pit blocks a corridor. The pit may be filled with (acid, boiling oil, boiling water, burning oil, flammable oil, heavier than air gas, lava, liquid metal, poison, poison gas, quicksand, spikes, tar, water)
 8: Guillotine trap
 9: Vent releases gas: blinding, acidic, obscuring, paralyzing, poisonous, or sleep-inducing
+
+Prompt 18:
+
+{
+    "mbti": "ESFJ",
+    "aesop_fable": "Satyr and Traveller",
+    "random_items": "ScrapMetal, Ram,portable, Poison,basic(vial)",
+    "enemy_type": "constructs",
+    "deity": "Mercury"
+}

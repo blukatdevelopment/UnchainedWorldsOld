@@ -49,3 +49,13 @@ A fungus hijacking the muscles of their braindead host.
 7:  A chest, placed in the center of the room, is covered with a deadly contact poison.
 8: Teleportation trap
 9: Invisible swinging axes and sonic alarms triggered by the correct answer to an easy riddle.
+
+Prompt 0:
+
+{
+    "mbti": "ISFP",
+    "sense": "Taste or gustation",
+    "armor": "Chain shirt",
+    "enemy_type": "humanoids",
+    "deadly_sin": "Lust"
+}

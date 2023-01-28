@@ -57,3 +57,13 @@ This soul rests on the razor's edge between the abyssal and infernal planes, but
 7:  Noisy Floor - Floor makes loud noise when stepped upon. The floor may be creaky, squeaky, tacky, or covered in crunchy objects. Noise from the floor alerts nearby people & creatures.
 8: Separate Spirit & Body - separates victims spirit from their body. Victim effectively becomes a ghost with their body lying on the ground
 9: Explosive javelins and flaming razor-wire triggered by glass orbs that vibrate with sound.
+
+Prompt 6:
+
+{
+    "element": "actinium",
+    "five_rings_lesson": "Do nothing which is of no use.",
+    "color": "Charcoal",
+    "humor": "blood",
+    "season": "winter"
+}

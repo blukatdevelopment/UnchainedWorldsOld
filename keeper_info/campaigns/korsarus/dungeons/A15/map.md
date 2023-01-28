@@ -62,3 +62,13 @@ A nymph is attracted to one specific aspect, which it embodies. It gains an abil
 7: Gaseous darts and deafening crossbows triggered by alternating floor tiles.
 8: Wall of force trap
 9: Pendulum - axes, blades, hammers, spiked weight
+
+Prompt 14:
+
+{
+    "bible_story": "Rahab",
+    "mbti": "ISFJ",
+    "self_help_advice": "Conceal your intentions.",
+    "enemy_type": "constructs",
+    "weapon": "Sickle"
+}

@@ -51,3 +51,13 @@ Wild magic replaced the heads of these humanoids with those of giant leeches. Th
 7: Caltrops - caltrops covering floor
 8: Ceiling crush trap
 9: Sleep-inducing spores and forceful cages triggered by hanging ropes.
+
+Prompt 8:
+
+{
+    "bible_story": "Adam and Eve",
+    "armor": "Breastplate",
+    "direction": "NorthEast",
+    "deity": "Huxian ",
+    "aesop_fable": "Fly and Ant"
+}

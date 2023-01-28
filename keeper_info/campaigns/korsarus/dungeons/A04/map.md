@@ -43,3 +43,12 @@ It's unclear how this creature emerged, except that wild magic corruption was in
 8: Shadowy spores and forceful swinging spiked chains triggered by the correct answer to an easy riddle.
 9: Heat Metal -
 
+Prompt 3:
+
+{
+    "humor": "blood",
+    "weapon": "Longsword",
+    "deadly_sin": "Envy",
+    "random_words": "repentant, look, reserve, precious, coordinated",
+    "self_help_advice": "Pose as a friend, work as a spy."
+}

@@ -30,3 +30,13 @@ A partially biological weapon that outlived it's use in the Titan wars. This cre
 7: Cage trap
 8: Transformation (Terrain) - terrain within “x” radius of the trap, suddenly transforms into (acid, lava, mud, quicksand, spikes, water)
 9: Pit trap
+
+Prompt 7:
+
+{
+    "terrain": "River",
+    "armor": "Leather",
+    "damage_type": "acid",
+    "self_help_advice": "Do not commit to anyone.",
+    "random_words": "impression, decisive, past, worthless, discount"
+}

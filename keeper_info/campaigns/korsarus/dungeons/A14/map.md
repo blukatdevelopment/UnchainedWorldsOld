@@ -58,3 +58,13 @@ A strange creature of legend. This creature stands ten feet tall, but has limbs 
 7: Sinkers and Floaters - A pool with alligators (or whatever aquatic death creatures you desire) in it blocks the path to the other side. There are a series of stones across it, some of the stones are sturdy and real, some of them are actually made of light driftwood painted to look like the other rocks. They are also roped to the bottom of the pool so they look like sturdy rocks. If a PC steps on one of the fake rocks, it will sink quickly under their feet. If a PC is being too slow crossing the pool, the creatures will attack the PC while they are on the rocks.
 8:  A pool of filthy water that is infected with a disease.
 9: Radiant barbed nets and moldy animated statues triggered by a weapon on an altar.
+
+Prompt 13:
+
+{
+    "terrain": "Oasis",
+    "moon phase": "new moon",
+    "deity": "Doumu ",
+    "weapon": "Sling",
+    "mbti": "INFJ"
+}

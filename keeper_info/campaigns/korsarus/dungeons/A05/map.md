@@ -35,3 +35,13 @@ A three-foot tall cat that can stand upright. It's whiskers are bent and it's co
 7: Psychic bolas and fatiguing caltrops triggered by a jeweled skull.
 8: Time trap
 9: Rolling Spiked log - spiked log, ends set in ramps in the wall. If ramp ends, log builds enough speed to get launched into the air
+
+Prompt 4:
+
+{
+    "random_items": "IronRations(1day), Kit,climber\u2019s, Wand",
+    "moon phase": "thirdquarter",
+    "self_help_advice": "Enter action with boldness.",
+    "five_rings_lesson": "Perceive those things which cannot be seen.",
+    "element": "tellurium"
+}

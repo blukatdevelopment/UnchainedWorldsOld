@@ -50,3 +50,13 @@ A robed skeleton with a rusty, blood-crusted dagger
 7: Thrower - arrows, blades, bladed disk, darts, harpoon, javelin, needles, shuriken, spears, spikes + barbed + enchantment + poison
 8: Arrow trap
 9:  The Hatchery - The room / chamber is full of (eggs, egg clusters, egg sacks). Touching or bumping into any of the eggs will cause a chain reaction where all the eggs start hatching. 'X' type of hungry baby creatures will swarm and attempt to consume the intruders
+
+Prompt 15:
+
+{
+    "moon phase": "full moon",
+    "weapon": "Longbow",
+    "color": "Red",
+    "random_items": "Robes, Kit,mess, Ink(1ouncebottle)",
+    "season": "spring"
+}
