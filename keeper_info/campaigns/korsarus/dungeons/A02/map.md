@@ -51,3 +51,15 @@ A nymph is attracted to one specific aspect, which it embodies. It gains an abil
 - Creative - Grant 1d8 inspiration die
 - Rot - Vitality Drain on command
 - Flower - Cast Greatberry
+
+# Traps
+0: Chute opens in floor
+1: Glue trap
+2: Entangling - chains, grabbing hands, sticky floor, tentacles, vines, webs
+3: Nauseating alarms and arcane spiked pits triggered by a jeweled crown on a skeleton's head.
+4:  Noisy Floor - Floor makes loud noise when stepped upon. The floor may be creaky, squeaky, tacky, or covered in crunchy objects. Noise from the floor alerts nearby people & creatures.
+5: Rolling Log Pit - rolling logs cover a pit. roll when someone attempts to cross dropping them into the pit. + spiked rollers, * pit traps.
+6: Magic spell trap
+7:  Open Pit Trap - a pit blocks a corridor. The pit may be filled with (acid, boiling oil, boiling water, burning oil, flammable oil, heavier than air gas, lava, liquid metal, poison, poison gas, quicksand, spikes, tar, water)
+8: Deadly Stairs - changes to slide, retracts into wall, section pivots to flip upside down, + dump into hazard, high fall, or trap
+9: One Way Door - it’s a door on one side. it’s a solid wall if your on the other side

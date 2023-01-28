@@ -50,3 +50,15 @@ A nymph is attracted to one specific aspect, which it embodies. It gains an abil
 ## Root Walker
 `Root walker, XP: 100, HP: 36(3d12), AC: 12, Speed: 40ft, [14, 16, 10, 5, 10, 10], Grass sword +4 1d8+2 slashing`
 - Vulnerabilities: fire, Resistances: non-magical physical damage, cold
+
+# Traps
+0:  Hypnotic Attraction - A magic sigil or item cause the victim to slowly walk towards “x” (dangerous monster, dangerous terrain, or trap)
+1:   A pit trap is covered by an illusion of the floor.
+2: Walls (damaging) - acid, angry spirits, fire, flying (blades, debris, stones), frost, holy light, infernal energy, lava, life drain, lightning, sand storm, etc
+3: Guillotine trap
+4: Thrower - arrows, blades, bladed disk, darts, harpoon, javelin, needles, shuriken, spears, spikes + barbed + enchantment + poison
+5: Teleport + Illusion - enemies look like friends / friends look like enemies / everyone look the same
+6: Time trap
+7: Gaseous darts and deafening crossbows triggered by alternating floor tiles.
+8: Wall of force trap
+9: Pendulum - axes, blades, hammers, spiked weight

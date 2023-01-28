@@ -30,3 +30,16 @@ It's unclear how this creature emerged, except that wild magic corruption was in
 `Floating Eye, Size: small, HP: 8(1d6+2), AC: 10, Speed: Fly 30ft [10,10,12,12,7,15], Claws +5 2d6+3 slashing, `
 - Charge beam: The eye's iris glows golden. Next turn it may make a beam attack.
 - Beam: A 5ft wide, 100ft long beam of golden light blasts forth. All creatures in it's path must succeed a DC 11 DEX save to halve 3d6 radiant damage.
+
+# Traps
+0: Deadfall Trap (piercing) - piercing weapon falls from ceiling. Ex: javelin, spear, spikes
+1: Magic aura trap
+2: Geas trap
+3: Ooze-covered spores and necrotic pillars triggered by tiny threads strung across the room.
+4: Fatiguing catapults and stunning swinging axes triggered by a rough gemstone.
+5: Electrical cages and explosive swinging spiked chains triggered by a jeweled pillar.
+6: Deafening crushing walls and flaming razor-wire triggered by giant knockers.
+7:  Rolling Boulder - A large boulder is place at the top on an inclined corridor. When triggered the boulder rolls down the corridor crushing anything in its path.
+8: Shadowy spores and forceful swinging spiked chains triggered by the correct answer to an easy riddle.
+9: Heat Metal -
+

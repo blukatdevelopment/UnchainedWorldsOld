@@ -39,3 +39,15 @@ Speed: 40ft
 Multiattack: The crab makes two claw attacks
 Claws +7 3d10+4 bludgeoning, DC 15 STR save or target is grappled
 ```
+
+# Traps
+0: Glitterdust trap
+1: Swinging axes
+2: Poisonous swinging axes and arcane darts triggered by a hidden enemy.
+3: The Hatchery - The room / chamber is full of (eggs, egg clusters, egg sacks). Touching or bumping into any of the eggs will cause a chain reaction where all the eggs start hatching. 'x' type of hungry baby creatures will swarm and attempt to consume the intruders
+4: Thrusting - blades, drill, harpoon, lances, needles, spears, spikes + barbed + enchantment + poison
+5: Circular Saw Blades - extend out of slots in the floor or walls
+6: Close Line - thin wire at roughly neck height + tiny barbs + fishhooks + poison
+7:  Noisy Door - a door with rusty hinges or a door that scrapes against the floor when opened. Attempts to open or close the door will alert nearby people and creatures.
+8: Rage - cause victim to become enraged; victim attacks any living thing until the magic wears off
+9: Deadfal Trap (animal) - bee’s nest / jar or pot filled with (ooze, scorpions, snakes, spiders, etc) / trap door releases (scorpions, snakes, spiders, etc)

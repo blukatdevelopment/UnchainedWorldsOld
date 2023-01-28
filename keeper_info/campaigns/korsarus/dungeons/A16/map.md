@@ -38,3 +38,15 @@ A robed skeleton with a rusty, blood-crusted dagger
 `Skeleton, XP: 25, HP: 7(1d8+2), AC: 12(scraps of leather), [14, 12, 14, 10, 11, 4], Shortsword +4 1d6+2 piercing, Shortbow +4 1d6+2 piercing`
 - Weak: bludgeoning
 - Blindsight: 30ft
+
+# Traps
+0: Gaseous crushing walls and fear-inducing swinging glaives triggered by iron-bound chests.
+1: Deadly Lock - The lock of a door or container is trapped. Trying to force the lock, using the wrong key, or a failed attempt to pick the lock will trigger the trap. Trap may involve a (acid sprayer, poison gas, poison needle, a trap door above or below the victim, etc)
+2: Crossbow Trap - trap trigger pulls trigger on crossbow
+3: Lightning bolt trap
+4:  Deadly Lock - The lock of a door or container is trapped. Trying to force the lock, using the wrong key, or a failed attempt to pick the lock will trigger the trap. Trap may involve a (acid sprayer, poison gas, poison needle, a trap door above or below the victim, etc)
+5: Clamp Trap (restraint) - wrist trap, ankle trap
+6:  Seesaw bridge or corridor that will dump passersby into pits or down a long fall. The party will have to be quick of foot or crafty to balance the seesaw.
+7: Thrower - arrows, blades, bladed disk, darts, harpoon, javelin, needles, shuriken, spears, spikes + barbed + enchantment + poison
+8: Arrow trap
+9:  The Hatchery - The room / chamber is full of (eggs, egg clusters, egg sacks). Touching or bumping into any of the eggs will cause a chain reaction where all the eggs start hatching. 'X' type of hungry baby creatures will swarm and attempt to consume the intruders

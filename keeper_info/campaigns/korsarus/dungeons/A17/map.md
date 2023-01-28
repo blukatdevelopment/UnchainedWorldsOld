@@ -44,3 +44,15 @@ It's unclear how this creature emerged, except that wild magic corruption was in
 `Floating Eye, Size: small, HP: 8(1d6+2), AC: 10, Speed: Fly 30ft [10,10,12,12,7,15], Claws +5 2d6+3 slashing, `
 - Charge beam: The eye's iris glows golden. Next turn it may make a beam attack.
 - Beam: A 5ft wide, 100ft long beam of golden light blasts forth. All creatures in it's path must succeed a DC 11 DEX save to halve 3d6 radiant damage.
+
+# Traps
+0: Fear-inducing alarms and deafening ballistae triggered by an ornate throne.
+1:  Dungeon is about to be overrun by enemies (dungeon denizen's reinforcements / 3rd party hostile forces). PCs must get whatever they need from the dungeon and escape before it's too late.
+2: Confusion-inducing beams and fatiguing rocks triggered by an ancient leatherbound tome.
+3: Oven - doors of room close, then fire under grate in floor slowly cooks anything in room / room is full of flammable materials which are ignited by trap
+4: Panic-inducing spears and icy pillars triggered by a child's toy.
+5: Dazzling scythes and necrotic crushing walls triggered by an ornate throne.
+6: Dispel Magic -
+7: Acid Treasure - Obvious treasure in a (container, pool) of acid. Need to find a safe way to remove it.
+8: Circular Saw Blades - extend out of slots in the floor or walls
+9: Imprisoning (ice) - knee deep water; trap instant freezes water, trapping victim in ice

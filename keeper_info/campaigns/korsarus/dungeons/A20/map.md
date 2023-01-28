@@ -18,3 +18,16 @@ These spiders are relatively intelligent and have adapted the to rigging victims
 This orange-fleshed creature has the bones of it's enemies sewed to it's hide as armor. It carries a large bone spear and has a cat of nine tails made with sharpened bone fragments. It wears a necklace of skulls. Surrounding the bone thresher is a roughly 100ft radius cold front.
 
 `Bone Thresher, XP:450, Size: Large, HP: 52(4d12+4), AC: 14(bone armor), [16, 12, 12, 10, 10, 10], Bone Whip(15ft) +5 2d4+3, Bone Spear +5 2d8+3`
+
+
+# Traps
+0:  A room or section of corridor is filled with gas. Gas has a drug or toxic effect.
+1: Enervation trap
+2: Invisible Wall - blocking a doorway, blocking passage, across a pit (center, far side)
+3:  Noisy Floor - Floor makes loud noise when stepped upon. The floor may be creaky, squeaky, tacky, or covered in crunchy objects. Noise from the floor alerts nearby people & creatures.
+4: Darts shoot out of an opened chest
+5: Panic-inducing skulls and confusion-inducing barbed nets triggered by a jeweled pillar.
+6: Earthen grasp trap
+7:  Retracting Surface - Trap is part of a walkway, stairs, a ladder, handholds. When the trap is triggered the 'walk way' retracts into the wall causing the victim to fall.
+8: Reverse gravity trap
+9: Slick Surface - algae, grease, oil, or ice + inclined surface, ladder, ramp, stairs, edge of pit, or edge of cliff + (broken glass, caltrops, spikes, another trap, hazardous substance, hazardous terrain, rooted monster) in fall area

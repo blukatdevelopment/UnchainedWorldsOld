@@ -23,3 +23,15 @@ A three-foot tall cat that can stand upright. It's whiskers are bent and it's co
 - Charm(1/day): Gatto produces a telepathic illusion from it's eyes. All creatures that can see it must succeed a DC 16 WIS save or they find this very cute and the Gatto has advantage on charisma checks against them.
 - Malevolent Guidance: Gatto names a malevolent deed such as stabbing a friend, drinking a poison, or attacking a guard. The target must succeed a DC 16 WIS save or perform the act. If charmed, the target makes the save with disadvantage.
 - Gatto Field: While Gatto is conscious and it's eyes are green, it produces a field of distorted psychic energy. Attacks against are made with disadvantage.
+
+# Traps
+0: Paralyzing trap
+1: Geas trap
+2: Fungus-encrusted spiked pits and acidic cages triggered by steep stairs.
+3:  Breaking the Transformation Curse - Something (creature, cursed object) has transformed many (humanoids, monsters) into harmless creatures or statues. When the PCs figure out how to break the curse (possible to save one of their own) all of the afflicted creatures suddenly transform back to their original form. Many of these creatures may be hostile to the PCs or each other
+4: Black pudding trap
+5:  Dungeon has a (gateway, portal) to it that will only remain open for 'X' amount of time. If the PCs don't complete their mission within the time limit they will be trapped where ever the dungeon is located. Alternatively the entire dungeon might only appear on the prime material plane for 'X' amount of time, after that it vanishes back to another dimension.
+6:  Door to Nowhere - Door opens to the outside of a tall building, a cliff, or a pit. The door appears to be jammed and may require a Str check to open. Anyone who uses force to open the door has to make a Dex check to keep from falling.
+7: Psychic bolas and fatiguing caltrops triggered by a jeweled skull.
+8: Time trap
+9: Rolling Spiked log - spiked log, ends set in ramps in the wall. If ramp ends, log builds enough speed to get launched into the air

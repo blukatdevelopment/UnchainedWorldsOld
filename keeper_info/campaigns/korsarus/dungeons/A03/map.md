@@ -36,3 +36,15 @@ Mimics disguise themselves as objects in the world, waiting for their prey to tr
 
 `Mimic, Size: medium, HP: 30(3d8+6), AC: 12, Speed: 5ft [16,7,15,3,16,3], Bite +5 2d6 piercing, 1d6 poison`
 - Sticky: When a creature touches the mimic, they must suceed a DC 14 STR save or else become grappled
+
+# Traps
+0: Damaging Effect - desiccation, disease, rapid aging
+1: Electrical bear traps and moldy bolas triggered by tiny threads strung across the room.
+2: Summoning trap
+3: Explosive scythes and deafening hammers triggered by a gilded sarcophagus.
+4: Shadowy spores and forceful swinging spiked chains triggered by the correct answer to an easy riddle.
+5: Explosive swinging blades and unholy pillars triggered by glass orbs that vibrate with sound.
+6:  Deadfall Trap (liquid) - Triggering the trap causes some type of liquid to dump or spill onto victim. (acid, flammable oil, hot pepper juice, ink, insect attack pheromones, monster attractant, slime monster)
+7: Icy bolas and psychic pillars triggered by iron-bound chests.
+8: Pit opens (swallowing the target) and then quickly locks shut, and then floods with water
+9: Gas trap

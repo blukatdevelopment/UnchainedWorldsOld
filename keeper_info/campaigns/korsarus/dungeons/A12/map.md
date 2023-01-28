@@ -29,3 +29,16 @@ Attacks:
 Bite +6 1d8+5 piercing
 Claws +6 2d6+5 slashing
 ```
+
+# Traps
+0: Entangling swinging blades and ethereal javelins triggered by a child's toy.
+1:  Weapon Thruster - Upon triggering the trap a thrusting weapon (blades, harpoon, lances, needles, spears, spikes) extends out of holes in a nearby (ceiling, floor, wall) or other surface. The holes may be concealed with a thin layer of easily breakable material like paper-mache or a thin layer of plaster. For additional fun, the weapons may be barbed, poisoned, or rusty.
+2:  A thin hallway/crawlspace is blocked by a series of supports. Close inspection shows many of them to be immovable rods. Deactivation or destruction of the rods will cause the ceiling to collapse onto the entire hallway.
+3: Imprisoning - frictionless bowl, levitation prison, magic barrier prison
+4: Raise The Dead - summons the ghost of all the corpses in the area & compels them to attack intruders
+5:  Deadfall Trap (liquid) - Triggering the trap causes some type of liquid to dump or spill onto victim. (acid, flammable oil, hot pepper juice, ink, insect attack pheromones, monster attractant, slime monster)
+6: Magical Attraction - upon touching the magically trapped bait item. All the objects in the room fly towards the victim with deadly force
+7: Entangling - chains, grabbing hands, sticky floor, tentacles, vines, webs
+8: Oven - doors of room close, then fire under grate in floor slowly cooks anything in room / room is full of flammable materials which are ignited by trap
+9: Time trap
+

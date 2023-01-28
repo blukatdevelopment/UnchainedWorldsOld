@@ -37,3 +37,15 @@ A fungus hijacking the muscles of their braindead host.
 
 `RotMutt, XP: 25, HP: 6 (1d4+2), AC: 10, [14, 10, 14, 5, 10, 7], Bash +3 1d8+1 bludgeoning, Bite +3 1d4 piercing, DC 13 CON save or contract Bogrot`
 - Resistant: Non-magical physical
+
+# Traps
+0: One Way Door - it’s a door on one side. it’s a solid wall if your on the other side
+1: Turn Off (shielding) - hazardous energy contained within magic barrier, if barrier is dispelled or trap is triggered, the shielding turns off releasing the energy
+2: Potions (Mislabeled) -
+3:  Breakaway handholds - There are small handholds in a wall spanning a pit or chasm. Some of these handholds are weak or deliberately designed to break away when enough weight is placed upon them.
+4: Rolling Log Bridge - cylinder or log spanning a gap, rolls when victim tries to walk on it
+5: Light trap
+6: Panic-inducing crossbows and energy-draining cages triggered by hanging ropes.
+7:  A chest, placed in the center of the room, is covered with a deadly contact poison.
+8: Teleportation trap
+9: Invisible swinging axes and sonic alarms triggered by the correct answer to an easy riddle.

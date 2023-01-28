@@ -33,3 +33,15 @@ Claws +7 3d10+4 bludgeoning, DC 15 STR save or target is grappled
 ## Bandit Captain
 `Bandit Captain, XP: 100, HP: 36(3d10+6), AC: 13(hide), [16, 12, 12, 10, 12, 16], Shortsword +5 1d6+3 piercing`
 - Multiattack: Captain can make two shortsword attacks
+
+# Traps
+0: Pendulum - axes, blades, hammers, spiked weight
+1: Ceiling net trap
+2: Glyph of warding
+3: Net trap
+4: Trip Wire - wire set at ankle height, meant to trip victim + tiny barbs + fishhooks + poison + (broken glass, caltrops, spikes, another trap, hazardous substance, hazardous terrain, rooted monster) in fall area
+5: Diseased darts and radiant ballistae triggered by an old wooden chest.
+6: Walls slide together 
+7: Chain lightning trap
+8: Lava trap
+9: A stone block falls from the ceiling

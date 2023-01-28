@@ -186,6 +186,7 @@ Ram(10ft) +5 1d6+3 bludgeoning
 Hooves(against prone) +5 2d4+3 bludgeoning
 ```
 
+## Dire wolf
 ```
 Dire Wolf
 Large beast
@@ -236,6 +237,7 @@ Ram(10ft) +6 2d6+4 bludgeoning
 Hooves(against prone) +6 4d8+4 bludgeoning
 ```
 
+## Sharp Tooth
 ```
 Sharp Tooth
 Huge Beast

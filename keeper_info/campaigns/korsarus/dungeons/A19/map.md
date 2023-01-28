@@ -63,3 +63,15 @@ Spellcasting: DC 17, +9, at will
 - Mind Probe
 - Locate Creature
 - Confusion
+
+## Traps
+0:  A chest, placed in the center of the room, is covered with a deadly contact poison.
+1: Gravity reversing razor-wire and flaming swinging blades triggered by steep stairs.
+2: Invisible Damage Barrier - wall or portcullis with blades or spikes + poison
+3: Breakaway Handholds - surprise those annoying thieves that climb your walls
+4: Fatiguing catapults and stunning swinging axes triggered by a rough gemstone.
+5: Confusion-inducing beams and fatiguing rocks triggered by an ancient leatherbound tome.
+6: Teleportation to - high above ground, identical room, outside stronghold, prison cell, underwater
+7:  Open Pit Trap - a pit blocks a corridor. The pit may be filled with (acid, boiling oil, boiling water, burning oil, flammable oil, heavier than air gas, lava, liquid metal, poison, poison gas, quicksand, spikes, tar, water)
+8: Guillotine trap
+9: Vent releases gas: blinding, acidic, obscuring, paralyzing, poisonous, or sleep-inducing

@@ -31,3 +31,16 @@ These are the most powerful fey, not only in their command of fey magic, but als
 3. Possession, Riddle
 4. Dimension Door, Polymorph
 5. Geas, Scrying
+
+# Traps
+
+0: Contagion trap
+1: Collapsing Structure - entire structure starts to collapse
+2: Mark - magic marks a symbol or word on the victim with a brand, scar, or tattoo. + glowing, mark reforms if damaged, mark moves to where it is visible
+3: Entangling spears and sleep-inducing ballistae triggered by mischievous ghosts.
+4: Rage - cause victim to become enraged; victim attacks any living thing until the magic wears off
+5: Flooding trap
+6:  A narrow hallway coated in grease. When the trap is set, the hallway is lit on fire.
+7:  Self Destruct Lock - a lock on a container or room. If the lock if force, the wrong key is used, or on a failed lock pick attempt, the trap destroys the contents of the container or room. Note this trap is set to destroy the potential treasure not the potential thief. Destruction may involve (acid bath, being crushed, being dropped into a pit of lava, incineration, etc)
+8: Auto Locker - containers, doors, gate, portcullis, windows, shutters, etc
+9: Energy-draining snares and stunning catapults triggered by steep stairs.

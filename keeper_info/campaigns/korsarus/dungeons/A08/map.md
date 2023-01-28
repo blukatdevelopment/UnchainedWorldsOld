@@ -18,3 +18,15 @@ A partially biological weapon that outlived it's use in the Titan wars. This cre
 ## Root Walker
 `Root walker, XP: 100, HP: 36(3d12), AC: 12, Speed: 40ft, [14, 16, 10, 5, 10, 10], Grass sword +4 1d8+2 slashing`
 - Vulnerabilities: fire, Resistances: non-magical physical damage, cold
+
+# Traps
+0: Teleport + Remove Gear - victim teleports, gear stays / gear teleports, victim stays / victim & gear teleport to different places
+1: Deadly Stair Step - blade hits ankle, slippery step, step pivots to trip victim (down stairs / over edge)
+2: Wall scythe trap
+3: Hidden pit opens beneath characters (percent chance that a black pudding or gelatinous cube fills the bottom of the pit)
+4: Gravity (crushing) -
+5:  Magical Rage - upon touching the magically trapped bait item, all creatures within 'X' radius are afflicted with a mindless rage and begin attacking any and all living creatures.
+6: Collapsing staircase creates a ramp that deposits characters into a pit at its lower end
+7: Cage trap
+8: Transformation (Terrain) - terrain within “x” radius of the trap, suddenly transforms into (acid, lava, mud, quicksand, spikes, water)
+9: Pit trap

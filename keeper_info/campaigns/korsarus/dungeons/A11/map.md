@@ -24,3 +24,15 @@ An imp is one of the most common forms of undead, as it's a common first form de
 4. Adaptive appearance: May cast 1st level Disguise Self spell at will.
 5. Winged: Gain a flying speed of 30ft.
 6. Scorpion tail: Gain attack, Tail +2 1d4 piercing, DC 14 CON save or 2d6 poison damage.
+
+# Traps
+0: Potions (Mislabeled) -
+1: Lightning bolt shoots from wall or object
+2:  Quicksand / Mud - victim sinks in, gets stuck, possibly suffocates
+3: Radiant floor tiles and ethereal hammers triggered by hidden magnets.
+4: Forceful bear traps and flaming spiked pits triggered by a child's toy.
+5: Infested ballistae and psychic darts triggered by a crystal goblet on a pedestal.
+6: Invisible Damage Barrier - wall or portcullis with blades or spikes + poison
+7: A weapon, suit of armor, or rug animates and attacks when touched (see 'Animated Objects' in the Monster Manual)
+8: Diseased snares and nauseating glyphs triggered by an onyx demonic skull.
+9: Gravity reversing razor-wire and flaming swinging blades triggered by steep stairs.
