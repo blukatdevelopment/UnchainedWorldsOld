@@ -140,6 +140,44 @@ range by 10ft.
 This +1 thrown weapon deals a base damage of 1d4 bludgeoning damage and has finess. It can be thrown up to 60 feet, and always returns to the thrower's
 hand at the start of their next turn, provided there is a path for it to return.
 
+### Hell Steel Weapon
+Extra 1d4 fire
+
+### Soul Steel Weapon
+Extra 1d4 necrotic
+
+### Ever ice Weapon
+Extra 1d4 cold
+Breaks on a nat 1
+
+### Fey Oak Weapon
+Counts as magical weapon
+Breaks on a nat 1
+
+### Obsidian Weapon
+Crits on a 19
+Breaks on a nat 1
+
+### Black Steel Weapon
+Automatically crits
+
+### Giant Bone Weapon
+Confers +2 STR to wielder
+Breaks on a nat 1
+
+### Chiton Weapon
+Covered in spines. Extra 1d4 piercing
+Breaks on a nat 1
+
+### Wild Crystal Weapon
+Three random 1st level spells. Can cast random spell with stamina die.
+
+### Dragon Bone Weapon
+Counts as magical damage.
+Crits deal max damage.
+Breaks on a nat 1
+
+
 ### Handy Hooks
 A pair of +1 sickles. When both are wielded by the the same creature, they gain a climbing speed equal to their movement speed.
 
@@ -178,6 +216,62 @@ When you attune to this blade, it detects your most feared type of foe. Select f
 This greathammer's business end is shaped like a lion's head. When you strike an enemy size medium or smaller, they are automatically thrown back 15ft while a lion's roar emanates from the hammer. If they are size large they may succeed a DC 15 STR save to avoid this effect. Creatures lartger than size large are unaffected.
 
 ## Armor
+
+### Obsidian Armor
+Shatters if receives crit from physical damage, negating that attack
+
+### Ever ice Armor
+Resistance to cold
+Shatters if receives crit from physical damage
+
+### Soul Steel Armor
+Resistance to necrotic
+
+### Hell Steel Armor
+Resistance to fire
+
+### Fey Oak Armor
+Advantage against being charmed
+
+### Chiton Armor
+Resistance against non-magical physical
+Cracks if hit with a crit from physical damage
+
+### Slime Armor
+-2 AC from normal armor value
+Bounces, negating fall damage from up to 80 feet.
+Resistance to bludgeoning damage
+
+### Dragon Bone Armor
+Advantage on all saves against spells.
+Cracks if hit with a crit from physical damage
+
+### Wild Crystal Armor
+1 in 4 chance to heal 2d4 HP after taking damage.
+Cracks if hit with a crit from physical damage
+
+### Black Steel
+Incoming attacks cannot crit.
+
+### Giant Bone Armor
+Confers +2 STR to wielder
+Cracks if hit with a crit from physical damage
+
+### Dragon Scale Armor
++1 AC
++2 Charisma to wearer
+
+### Sentinel Armor
+Special Half Plate made from a dead sentinel's construct parts. Face visor has red eyes and expression matching wearer. Bonus action and stamina die to heal 1d6 HP.
+
+### Active shield armor
+Special half plate armor made from lost tech. Consume stamina die and bonus action to gain 2d4+2 temporary hit points.
+
+### Recon armor
+Special half plate armor made from lost tech. Consume stamina die and bonus action to cast invisibility spell on self.
+
+### Mushroom Armor
+Special leather armor made from mushrooms and interfaces with your body. Grants telepathy while worn.
 
 ### Cherryblossom Shield (Common)
 Has one charge which restores each day. As a reaction to being targeted with
@@ -348,6 +442,12 @@ Your constitution becomes 18. When you die, the amulet surfaces from your chest.
 
 
 ## Consumables
+
+### Bubble shield
+The wearer may use their action to consume a stamina die, doff this shield, and activate it. This creates a 5ft radius dome of force around the shield. The dome has 15 AC and 30HP and cannot be crossed until broken.
+
+### Gambler's Sausage
+This fermented sausage has a shelf life of 6 days. The older it gets, the more potent, but the more likely it is to become toxic. When eaten, roll a d12 and add the number of days since this sausage was created. If the roll is under 12, you gain that many stamina dice. If the roll is over 12, you instead take that roll as poison damage.
 
 ### +1 Quiver (Common)
 This quiver contains 12 arrows that each cause an additional +1 damage on a hit.
