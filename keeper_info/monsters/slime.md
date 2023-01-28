@@ -46,6 +46,7 @@ Engulf: When a creature enters the same space as the cube slime, they are
 engulfed in the gel. Every turn a creature remains inside the cube slime,
 they receive 3d6 acid damage as they are rapidly digested.
 
+## Pink Slime
 `Pink Slime, XP: 25, Size: Tiny, HP: 3(1d4), AC: 8, Speed: 5ft, spider climb 5ft, [4, 12, 12, 16, 12, 3]`
 - Mind Couple: Over the course of one minute, the pink slime enters in through the ears, nostrils, or mouth of a creature and begins to take telepathic control of them. The target must be unconscious for this to work. Once under control, the slime has access to all their memories and mental faculties. Any psychic damage that the host creature takes is translated to the pink slime directly.
 

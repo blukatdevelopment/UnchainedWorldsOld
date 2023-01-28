@@ -93,6 +93,7 @@ gains advantage on the attack.
 Bite +3 1d6+2
 ```
 
+## Mouintain Lion
 ```
 Mountain lion
 Medium Beast
@@ -108,6 +109,7 @@ Bite +3 1d6+2 piercing
 Claws +3 2d4+2 slashing
 ```
 
+## Giant Leech
 ```
 Giant Leech
 Medium Beast
@@ -137,6 +139,8 @@ Bite +5 2d6+3 piercing
 ```
 
 ## Large
+
+## Brown Bear
 
 ```
 Brown Bear
@@ -196,6 +200,7 @@ gains advantage on the attack.
 Bite +5 2d6+3
 ```
 
+## Saber-toothed Tiger
 ```
 Saber-Toothed Tiger
 Large Beast
@@ -276,6 +281,7 @@ Gore +6 3d8+4 piercing
 Stomp +6 2d10+4 bludgeoning
 ```
 
+## Huge Polar Bear
 ```
 Huge Polar Bear
 Huge Beast
@@ -291,6 +297,7 @@ Bite +6 1d8+5 piercing
 Claws +6 2d6+5 slashing
 ```
 
+## Giant Crab
 ```
 Giant Crab
 Huge Beast

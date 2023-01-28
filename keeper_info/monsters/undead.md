@@ -86,11 +86,12 @@ attempt to live as if they were in the moments preceding their cause of death.
 `Specter, XP: 50, HP: 18 (3d4+6), [14, 12, 14, 10, 11, 4], Life Drain +4 1d10 necrotic, Spectral Shortsword +4 1d6+2 slashing`
 - Weak: Radiant, Resist: Non-magical physical, necrotic
 
-## Skeletons
+## Skeleton
 `Skeleton, XP: 25, HP: 7(1d8+2), AC: 12(scraps of leather), [14, 12, 14, 10, 11, 4], Shortsword +4 1d6+2 piercing, Shortbow +4 1d6+2 piercing`
 - Weak: bludgeoning
 - Blindsight: 30ft
 
+## Reaper
 `Reaper, XP: 200, HP: 18 (3d10), AC: 12, Speed: Float 30ft, [14, 12, 14, 10, 11, 4], Scythe +6 2d6+2 magical slashing, Life Drain(10ft) +6 1d8+2 necrotic. Heals damage dealt.`
 - Weak: Bludgeoning
 - Blindsight: 30ft
@@ -122,12 +123,14 @@ A skeleton oozing green slime.
 - Engulf +4 1d4 bludgeoning. Target must succeed DC 14 STR save or be restrained. Can remake save using their action.
 - Pummel: Restrained target must succeed DC 14 DEX save to halve 4d4 bludgeoning damage.
 
+## Breath Skull
 A floating skull wreathed in brightly colored dragon's breath.
 
 `Breath Skull, XP: 25, Size: Tiny, AC: 14, HP: 12(3d4), Speed: fly 15ft [14, 12, 14, 10, 11, 4]`
 - Element: The dragon's breath is either fire, lightning, acid, or poison. The breath skull is resistant to this type of damage, and it's breath attack deals this damage type.
 - Breath: 15ft cone DC 15 DEX save to halve 2d4(see element for type)
 
+## Skelemancer
 A robed skeleton with a rusty, blood-crusted dagger
 
 `Skelemancer, XP: 200, HP: 35(3d8+9), AC: 12, [15, 14, 16, 16, 8, 8], Letter +4 1d4+2 piercing, 1d6 necrotic`

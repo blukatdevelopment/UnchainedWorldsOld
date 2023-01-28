@@ -32,11 +32,15 @@
 ## Rogues
 
 ### Bandits
+
+## Petty Bandit
 `Petty Bandit, XP: 10, HP: 10(2d4+3), AC: 11, [12, 12, 12, 10, 12, 12], Dagger +2 1d4+1 piercing, Sling +2 1d4+1 bludgeoning`
 `Bandit Militia, XP: 25, HP: 15(3d4+3), AC: 16(Scale Mail), [12, 12, 12, 10, 12, 12], Dagger +2 1d4+1 piercing, Light Crossbow +2 1d8+1 piercing`
 
+## Bandit
 `Bandit, XP: 25, HP: 15(3d4+3), AC: 12(leather), [14, 12, 12, 10, 12, 12], Shortsword +4 1d6+2 piercing, Shortbow +4 1d6+1 piercing`
 
+## Bandit Captain
 `Bandit Captain, XP: 100, HP: 36(3d10+6), AC: 13(hide), [16, 12, 12, 10, 12, 16], Shortsword +5 1d6+3 piercing`
 - Multiattack: Captain can make two shortsword attacks
 
@@ -67,6 +71,8 @@
 `Cultist Initiate, XP: 25, HP: 9(3d4), AC: 12(leather), [10, 12, 11, 12, 8, 14], Dagger: +2 1d4+1 piercing, Skin Boil(5ft): DC 12 Con save or 1d10 necrotic`
 `Prisoner, XP: 0, HP: 9(3d4), AC: 10, [10, 10, 10, 10, 10, 10], Unarmed +1 1 bludgeoning`
 
+## Cult leader
+
 `Cult leader, XP: 200, HP: 9(3d4), AC: 15(Magic), [12, 15, 10, 10, 10, 16], Shadow Sword: +5 2d8+2 Piercing`
 - Dark feast(60ft): willing creature takes 30(6d8) necrotic, cult leader gains as much temp HP\
 Spells(1 each/day):\
@@ -75,6 +81,8 @@ Spells(1 each/day):\
 - Darkness\
 Legendary action(when ally dies):  Dark Feast fallen ally\
 
+
+## Cultist spy
 `Cultist spy, XP: 50, HP: 12(3d4), AC: 14(studded leather), [12, 16, 14, 13, 14, 16], Hidden Dagger: +5 1d4+2 piercing`
 - False Life(Bonus action, 1 use): Gain 10(2d8) temp HP
 - Force Choke(15ft): +5 1d8 bludgeoning DC 14 STR save or grappled

@@ -71,10 +71,6 @@ The fae choose their strongers to patrol and protect widerness from axe, pick, a
 - Invisibility(1/day): Fae may become invisible for 1 hour, which drops if they lose concentration, cast a spell, or attack.
 - Name magic: if a fae knows the name of a creature, they may learn the location of the creature. If they are given the name, the creature forgets their name and all other creatures lose their memories of the creature.
 
-## Shroom People
-`Shroom people, XP: 50, Size: Medium, HP: 12(3d4), AC: 11, [12, 12, 10, 12, 12, 16], Fist +3 1d4+1`
-- Spore cloud(10ft): CON save or become poisoned, take 1d6 necrotic damage. Can only take damage from this attack once per turn. Fail by 5+: fall unconscious.
-
 ### Diminutive Nymph
 A nymph is attracted to one specific aspect, which it embodies. If allowed to feed on it's source, it becomes a Nymph.
 - Pain
