@@ -38,23 +38,6 @@ force damage as it fires tiny shooting stars as part of the attack. If you
 roll a natural 1 with this wand on an attack roll, the wand produces sparks
 instead of casting.
 
-### Immovable rod (Very Rare)
-This spell focus has a button that clicks in to activate it's main feature,
-which is that it is immovable.
-
-When an Unstoppable rod meets an Immovable rod, a hole is torn in the weave.
-1d4 rounds later, there is an eruption. Everything within a 1 mile radius 
-sphere becomes a permanent anti-magic field, and the two rods are destroyed.
-
-### Unstoppable rod (Very Rare)
-This spell focus has a button that clicks in to activate it's main feature,
-which is that it ignores gravity and moves in the direction of it's tip at
-a rate of 5ft for every minute.
-
-When an Unstoppable rod meets an Immovable rod, a hole is torn in the weave.
-1d4 rounds later, there is an eruption. Everything within a 1 mile radius
-sphere becomes a permanent anti-magic field, and the two rods are destroyed.
-
 ### Portal Wand (Very Rare)
 This wand can be used to produce either a blue or orange portal. Each is
 projected onto a flat 5ft square surface within 60ft. The blue portal consumes
@@ -177,6 +160,8 @@ Counts as magical damage.
 Crits deal max damage.
 Breaks on a nat 1
 
+### Bear Hands
+A pair of gloves with long claws that can be used as +1 sickles. When both are wielded by the the same creature, they gain a climbing speed equal to their movement speed.
 
 ### Handy Hooks
 A pair of +1 sickles. When both are wielded by the the same creature, they gain a climbing speed equal to their movement speed.
@@ -522,50 +507,368 @@ This pie may have a sweet or savory, but it's the fairy wings that give it it's
 name. Eating a pie grants advantage on one saving throw, attack, or ability
 check within the next hour.
 
-#### Blu's Tiny Tavern (Very Rare)
-This small wooden carving of a tavern fits in your palm. When you speak the
-command word, it expands into a full-size tavern with a small staff of blue
-awakened cats to provide free room and board for thirty days for the party. Once
-expanded, the tavern cannot be returned to it's previous size.
-
 ## Potions
 
-### Potion of greater healing (Common)
-A flask of pink liquid which heals 4d4+4 hit points when consumed.
+```
+Name: Minor Stamina Potion
+Weight: 1lb
+Shelf life: 1 year
+Cost: 25gp
+Flavor: Bitter
+Effect Duration: Immediate
+Effects: regain 1 stamina
+```
 
-### Potion of supreme healing (Uncommon)
-A flask of pink liquid which heals 10d4+20 hit points when consumed.
+```
+Name: Stamina Potion
+Weight: 1lb
+Shelf life: 1 year
+Cost: 50gp
+Flavor: Very bitter
+Effect Duration: Immediate
+Effects: regain 3 stamina
+```
 
-## Miscellaneous
+```
+Name: Jump Potion
+Weight: 1lb
+Shelf life: 1 year
+Cost: 50gp
+Flavor:
+Effect Duration: 1 hour
+Effects: Double jump height and distance
+```
+
+```
+Name: Uaos Tears
+Weight: 1lb
+Shelf life: 1 year
+Cost: 100gp
+Flavor: Flavorless
+Effect Duration: 24 hours
+Effects: +4 to each ability score
+```
+
+```
+Name: Growth Potion
+Weight: 1lb
+Shelf life: 1 year
+Cost: 50gp
+Flavor: Salty
+Effect Duration: 1 minute
+Effects: Grow 1 size larger
+```
+
+```
+Name: Shrinking Potion
+Weight: 1lb
+Shelf life: 1 year
+Cost: 50gp
+Flavor: Bitter
+Effect Duration: 1 minute
+Effects: Shrink 1 size smaller
+```
+
+```
+Name: Darkeye Potion
+Weight: 1lb
+Shelf life: 1 year
+Cost: 50gp
+Flavor: Bittersweet
+Effect Duration: 1 hour
+Effects: See in dark for 30ft
+```
+
+```
+Name: Minor Health Potion
+Weight: 1lb
+Shelf life: 1 year
+Cost: 25gp
+Flavor: Cherry
+Effect Duration: Immediate
+Effects: Regain 2d4+2 HP
+```
+
+```
+Name: Major Health Potion
+Weight: 1lb
+Shelf life: 1 year
+Cost: 75gp
+Flavor: Cherry
+Effect Duration: Immediate
+Effects: Regain 4d4+4 HP
+```
+
+```
+Name: Superior Health Potion
+Weight: 1lb
+Shelf life: 1 year
+Cost: 200gp
+Flavor: Cherry
+Effect Duration: Immediate
+Effects: Regain 8d8+8 HP
+```
+
+## Mushrooms, spices, and herbs
+
+```
+Name: King Curtain Mushroom
+Weight: 0.1lb
+Shelf life: 7 days
+Cost: 2gp
+Flavor: Earthy, Meaty
+Effect Duration: 1 minute
+Effects: gain 1d6 temp hp
+```
+
+```
+Name: Small Club Mushroom
+Weight: 0.1lb
+Shelf life: 7 days
+Cost: 5gp
+Flavor: Earthy, Meaty
+Effect Duration: 1 minute
+Effects: +10ft speed
+```
+
+```
+Name: Questionable Woodwart Mushroom
+Weight: 0.1lb
+Shelf life: 7 days
+Cost: 5gp
+Flavor: Earthy, Meaty
+Effect Duration: 1 minute
+Effects: +1 stamina dice, inflicts 1d4 necrotic
+```
+
+```
+Name: Forked Trumpet Mushroom
+Weight: 0.1lb
+Shelf life: 7 days
+Cost: 5gp
+Flavor: Earthy, Meaty
+Effect Duration: 1 minute
+Effects: Inflicts 3d4 poison damage
+```
+
+```
+Name: Turkey-tail Gilled Polypore Mushroom
+Weight: 0.1lb
+Shelf life: 7 days
+Cost: 5gp
+Flavor: Earthy, Meaty
+Effect Duration: 1 minute
+Effects: 1 stamina, DC 14 CON save or poisoned and hallucinating for 1 hour
+```
+
+```
+Name: Blackcurly Fishscale Lichen Mushroom
+Weight: 0.1lb
+Shelf life: 7 days
+Cost: 15gp
+Flavor: Earthy, Meaty
+Effect Duration: 1 hour
+Effects: Breathe under water
+```
+
+```
+Name: Fuzzy Jewel Lichen Mushroom
+Weight: 0.1lb
+Shelf life: 7 days
+Cost: 5gp
+Flavor: Earthy, Meaty
+Effect Duration: 1 hour
+Effects: Heightened sense of smell (advantage on relevant rolls)
+```
+
+```
+Name: Telephora Bracket Mushroom
+Weight: 0.1lb
+Shelf life: 7 days
+Cost: 10gp
+Flavor: Earthy, Meaty
+Effect Duration: 1 minute
+Effects: Telepathy, sending and receiving
+```
+
+```
+Name: Tamarack Puffball Fungus 
+Weight: 0.1lb
+Shelf life: 7 days
+Cost: 10gp
+Flavor: Earthy, Meaty
+Effect Duration: 1 minute
+Effects: Weightlessness
+```
+
+```
+Name: Clustered Fingers Mushroom
+Weight: 0.1lb
+Shelf life: 7 days
+Cost: 15gp
+Flavor: Earthy, Meaty
+Effect Duration: 1 minute
+Effects: Can see heat up to 50ft.
+```
+
+```
+Name: Banded Scalycap Mushroom
+Weight: 0.1lb
+Shelf life: 7 days
+Cost: 25gp
+Flavor: Earthy, Meaty
+Effect Duration: 24 hours
+Effects: Gives scales, convering +1 AC
+```
+
+```
+Name: Kobbonamon
+Weight: 0.1lb
+Shelf life: 6 months
+Cost: 15gp
+Flavor: Spicy and sweet
+Effect Duration: immediate
+Effects: Treats bogrot
+```
+
+```
+Name: Ikku Grass
+Weight: 0.1lb
+Shelf life: 6 months
+Cost: 15gp
+Flavor: Lemony
+Effect Duration: immediate
+Effects: gain 1 stamina, DC 15 CON save or take 1d4 necrotic
+```
+
+```
+Name: Tiger Savory
+Weight: 0.1lb
+Shelf life: 6 months
+Cost: 15gp
+Flavor: Nutty, Dark, Spicy
+Effect Duration: 1 minute
+Effects: Resistance to physical damage, cannot cast spells or talk
+```
+
+```
+Name: Nabaley
+Weight: 0.1lb
+Shelf life: 6 months
+Cost: 15gp
+Flavor: Spicy and numbing
+Effect Duration: immediate
+Effects: Hallucinations, DC 16 CON in order to cast scrying
+```
+
+```
+Name: Dream Savory
+Weight: 0.1lb
+Shelf life: 6 months
+Cost: 15gp
+Flavor: Sweet, Mild, Flowery
+Effect Duration: 8 hours
+Effects: DC 18 CON save or fall asleep for duration
+```
+
+```
+Name: Hate Mustard
+Weight: 0.1lb
+Shelf life: 6 months
+Cost: 15gp
+Flavor: Tangy, sharp, bright
+Effect Duration: 1 minute
+Effects: DC 16 WIS to avoid hyper-aggression. +4 STR
+```
+
+## Wondrous Items
 
 ### +1 tool (Common)
-This tool grants a +1 in addition to any other bonuses that it would normally
-afford for the purpose of ability or skill checks.
+This tool grants a +1 in addition to any other bonuses that it would normally afford for the purpose of ability or skill checks.
 
 ### +2 tool (Uncommon)
-This tool grants a +3 in addition to any other bonuses that it would normally
-afford for the purpose of ability or skill checks.
+This tool grants a +3 in addition to any other bonuses that it would normally afford for the purpose of ability or skill checks.
 
 ### +3 tool (Rare)
-This tool grants a +3 in addition to any other bonuses that it would normally
-afford for the purpose of ability or skill checks.
+This tool grants a +3 in addition to any other bonuses that it would normally afford for the purpose of ability or skill checks.
 
 ### Broom of flying (Common)
 This broom has a flying speed of 50ft and can seat one rider.
 
 ### Bag of Holding (Uncommon)
-This bag contains a portal to a pocket dimension. The interior has a volume
-of ten cubic feet.
+This bag contains a portal to a pocket dimension. The interior has a volume of ten cubic feet.
 
 ### Private Canvas (Common)
-This canvas contains a painting of countryside. You may draw on top of
-it after specifying the audience, your drawing disappears and is only
-visible to the specified audience.
+This canvas contains a painting of a countryside. You may draw on top of it after specifying the audience and your drawing disappears and is only visible to the specified audience.
 
 ### Pulse Orb (Common)
-The pulse orb is a sticky blue globe of gel. When you activate it, it strobes
-slowly, producing a bright light each time it strobes on. It strobes on for 6
-seconds, and then off for 6 seconds, alternating. You may stick the
-strobe to a surface or a creature, and it can be thrown up to 30 feet. While
-strobed on, it produces bright light for 30 feet and dim light for an additional
-30 feet.
+The pulse orb is a sticky blue globe of gel. When you activate it, it strobes slowly, producing a bright light each time it strobes on. It strobes on for 6 seconds, and then off for 6 seconds, alternating. You may stick the strobe to a surface or a creature, and it can be thrown up to 30 feet. While strobed on, it produces bright light for 30 feet and dim light for an additional 30 feet.
+
+### Immovable rod
+This spell focus has a button that clicks in to activate it's main feature, which is that it is immovable.
+
+When an Unstoppable rod meets an Immovable rod, a hole is torn in the weave. 1d4 rounds later, there is an eruption. Everything within a 1 mile radius sphere becomes a permanent anti-magic field, and the two rods are destroyed.
+
+### Unstoppable rod
+This spell focus has a button that clicks in to activate it's main feature, which is that it ignores gravity and moves in the direction of it's tip at a rate of 5ft for every minute.
+
+When an Unstoppable rod meets an Immovable rod, a hole is torn in the weave. 1d4 rounds later, there is an eruption. Everything within a 1 mile radius sphere becomes a permanent anti-magic field, and the two rods are destroyed.
+
+### Blu's Tiny Tavern
+This small wooden carving of a tavern fits in your palm. When you speak the command word, it expands into a full-size tavern with a small staff of blue awakened cats to provide free room and board for thirty days for the party. Once expanded, the tavern cannot be returned to it's previous size.
+
+### Sentient Bee Nest
+These bees make honey, and spell out words in common to communicate. If they swarm, they deal 1d4 poison damage per round for 3 rounds before dying out.
+
+### Parakeet Cage
+Once daily, a parakeet will appear in this cage if it is empty.
+
+### Mirror of unmasking
+This mirror reflects a person's face in an expression reflecting their inner emotions.
+
+### Mirror of Reaching
+This 5x10 inch mirror contains a tiny portal linked with another mirror of reaching. When both mirrors are activated, the portal between mirrors opens for 1 hour. After being used, the mirror of reaching cannot be used for 10 days.
+
+### Locket of Desire
+The wearer attunes to this locket by placing a drawing of the subject of their desire, whether it be a creature, object, or location. The wearer must succeed a DC 18 WIS save to take off the locket, and must succeed a DC 16 WIS save if they do not wish to peer at the locket once each minute. While attuned, the creature may cast scrying on the target with a spellcasting modifier of +4 once per day.
+
+### Spectacles of Instant Reading
+The wearer touches a book, scroll, or tome and immediately learns the contents therein, provided they understand the language of the writing within. This consumes one stamina die each time.
+
+### Awakened shrub
+This shrub is alive and though it may not speak, it understands one language, which may be taught to it by it's first owner. The awakened shrub may move on it's own at a speed of 5ft by dragging the pot it is planted in.
+
+### Rug of slipping
+This animated rug has a strong sense of humor. If rolled out, it will pull itself out from any creature that stands on it, forcing a DC 15 DEX save, with disadvantage if the creature is surprised by this. On a failure, they are knocked prone.
+
+### Nymph in a bottle
+A nymph who, by fey contract, has agreed to remain within a bottle. When the holder perishes, the nymph phases through the bottle and revives the holder before leaving.
+
+### Animated knitting needles
+Specify a knitting project for these needles and provide them with yarn. They will work tirelessly until the project is complete.
+
+### Chest of Preserving
+Any item placed in this chest is prevented from aging or spoiling, provided it is not alive.
+
+### Robe of useful items
+This robe has 2d4+2 patches sewed onto it with pictures of items on each patch. Ripping a patch off conjures the depicted item. Roll the patches randomly at time of creation/discovery.
+
+1. 100lb sack of wheat
+2. 10ft Cannoe with two oars
+3. 20ft ladder
+4. 5ft square mirror
+5. King-sized bed with waterproof canopy and vanity curtain
+6. A ten person tent
+7. A barrel filled with water
+8. A wardrobe filled with 10 outfits of fine clothes
+9. A saddle
+10. A 500ft hempen rope, weighing 100lbs
+
+### Stilt Shoes
+The wearer may use their bonus action to grow these shoes up to 10ft tall, then shrink them back to normal size.
+
+### Trick rope
+If this rope bares more than 15lb of weight, it blinks out of existence for 10 seconds before returning in an unoccupied space within 30ft.
+
+### Cone of voice throwing
+This 1ft tall cone of wood has a hole in it's top and a handle. When you speak into it, your voice travels in a straight line up to 120ft, and can only be perceived once it hits a physical surface or object, creating the illusion that your voice originates from that point.
