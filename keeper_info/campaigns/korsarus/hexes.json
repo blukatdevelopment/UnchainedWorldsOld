@@ -1,0 +1,1495 @@
+[
+    {
+        "name": "A0",
+        "Terrain": "Mountain",
+        "1": "tree resembling a(n) symbol of Gidur",
+        "2": "magic circle on platform",
+        "3": "well maintained temple of Gegtex from the Titan Age"
+    },
+    {
+        "name": "A1",
+        "Terrain": "Mountain",
+        "1": "D",
+        "2": "fey river gate",
+        "3": "Imp den"
+    },
+    {
+        "name": "A2",
+        "Terrain": "Mountain",
+        "1": "Vice den",
+        "2": "well maintained graveyard of Kirr, rage queen from the Divine Age",
+        "3": "wild magic zone"
+    },
+    {
+        "name": "A3",
+        "Terrain": "Hillside",
+        "1": "caravan wreck resembling a(n) bird",
+        "2": "Spindle Man den",
+        "3": "wild game forest"
+    },
+    {
+        "name": "A4",
+        "Terrain": "Hillside",
+        "1": "poorly maintained statue of Wro Gentar, devil of bodies from the Titan Age",
+        "2": "Imp den",
+        "3": {
+            "name": "Heinberg",
+            "hex": "",
+            "population": 1726,
+            "locations": [
+                "Beekeepers",
+                "Open Market",
+                "Granary",
+                "Blacksmith",
+                "General Store",
+                "Workshop",
+                "Apothecary",
+                "Book Seller",
+                "Brothel"
+            ]
+        }
+    },
+    {
+        "name": "A5",
+        "Terrain": "Hillside",
+        "1": "D",
+        "2": "well",
+        "3": {
+            "name": "Ironbend",
+            "hex": "",
+            "population": 130,
+            "locations": [
+                "Cobbler",
+                "Shrine",
+                "Bakery"
+            ]
+        }
+    },
+    {
+        "name": "A6",
+        "Terrain": "Hillside",
+        "1": "pond",
+        "2": "always foggy zone",
+        "3": {
+            "name": "Tinderheart",
+            "hex": "",
+            "population": 616,
+            "locations": [
+                "Shrine",
+                "Bakery",
+                "Cobbler",
+                "Tailor",
+                "Workshop"
+            ]
+        }
+    },
+    {
+        "name": "A7",
+        "Terrain": "Hillside",
+        "1": "Grass Heap den",
+        "2": "abandoned wheat farm",
+        "3": {
+            "name": "Redswell",
+            "hex": "",
+            "population": 563,
+            "locations": [
+                "Beekeepers",
+                "Tavern",
+                "Cobbler",
+                "Tailor",
+                "Pub"
+            ]
+        }
+    },
+    {
+        "name": "A8",
+        "Terrain": "Hillside",
+        "1": "hotsprings",
+        "2": "moledog tunnels",
+        "3": "grey soil resembling a(n) volumetric flask"
+    },
+    {
+        "name": "A9",
+        "Terrain": "Coastal Water",
+        "1": "tiny folk community in a bridge",
+        "2": "surface deposit of fossils resembling a(n) ghost",
+        "3": "poorly maintained temple of Gegtex from the Post-Severing"
+    },
+    {
+        "name": "A10",
+        "Terrain": "Ocean",
+        "1": "Mantis Man den",
+        "2": "acid rain zone",
+        "3": "poorly maintained graveyard of Magara, the hoard god from the Age of Dragons"
+    },
+    {
+        "name": "A11",
+        "Terrain": "Ocean",
+        "1": "abandoned altar of Titan King: Petrov from the Post-Severing",
+        "2": "Vampire den",
+        "3": "collapsed tunnel resembling a(n) volumetric flask"
+    },
+    {
+        "name": "B0",
+        "Terrain": "Mountain",
+        "1": "creek",
+        "2": "bottomless pit",
+        "3": "Giant Ant den"
+    },
+    {
+        "name": "B1",
+        "Terrain": "Mountain",
+        "1": "D",
+        "2": "stream",
+        "3": "Giant Hand den"
+    },
+    {
+        "name": "B2",
+        "Terrain": "Mountain",
+        "1": "poorly maintained statue of Titan King: Toncheh from the Divine Age",
+        "2": "Tentacle Beast den",
+        "3": "thornpatch resembling a(n) cat"
+    },
+    {
+        "name": "B3",
+        "Terrain": "Mountain",
+        "1": "Manface silkworm den",
+        "2": "sentient wishing well",
+        "3": {
+            "name": "Dullworth",
+            "hex": "",
+            "population": 119,
+            "locations": [
+                "Open Market",
+                "Cobbler",
+                "Bakery"
+            ]
+        }
+    },
+    {
+        "name": "B4",
+        "Terrain": "Hillside",
+        "1": "pond",
+        "2": "floating coral reef",
+        "3": "acid rain zone"
+    },
+    {
+        "name": "B5",
+        "Terrain": "Hillside",
+        "1": "stream",
+        "2": "moledog tunnels",
+        "3": {
+            "name": "Bingle",
+            "hex": "",
+            "population": 1235,
+            "locations": [
+                "Trapper",
+                "Open Market",
+                "Shrine",
+                "Butcher",
+                "Stables",
+                "Pub",
+                "Brothel",
+                "Apothecary"
+            ]
+        }
+    },
+    {
+        "name": "B6",
+        "Terrain": "Hillside",
+        "1": "stream",
+        "2": "mud pit resembling a(n) bone",
+        "3": {
+            "name": "Sharleaf",
+            "hex": "",
+            "population": 1362,
+            "locations": [
+                "Cobbler",
+                "Herbalist",
+                "Shrine",
+                "Tailor",
+                "Blacksmith",
+                "Butcher",
+                "Temple",
+                "Healer"
+            ]
+        }
+    },
+    {
+        "name": "B7",
+        "Terrain": "Hillside",
+        "1": "lake",
+        "2": "poorly maintained graveyard of Exheia from the Titan Age",
+        "3": {
+            "name": "Hoaryhog",
+            "hex": "",
+            "population": 359,
+            "locations": [
+                "Herbalist",
+                "Cobbler",
+                "Open Market",
+                "Butcher"
+            ]
+        }
+    },
+    {
+        "name": "B8",
+        "Terrain": "Hillside",
+        "1": "abandoned temple of Titan King: Yavor from the Post-Severing",
+        "2": "fungal field",
+        "3": {
+            "name": "Unleven",
+            "hex": "",
+            "population": 1199,
+            "locations": [
+                "Bakery",
+                "Granary",
+                "Trapper",
+                "Blacksmith",
+                "Tailor",
+                "Butcher",
+                "Spa",
+                "Coach service"
+            ]
+        }
+    },
+    {
+        "name": "B9",
+        "Terrain": "Hillside",
+        "1": "D",
+        "2": "well",
+        "3": {
+            "name": "Darsaven",
+            "hex": "",
+            "population": 1245,
+            "locations": [
+                "Trapper",
+                "Shrine",
+                "Bakery",
+                "Workshop",
+                "Inn",
+                "Butcher",
+                "Book Seller",
+                "Spa"
+            ]
+        }
+    },
+    {
+        "name": "B10",
+        "Terrain": "Coastal Water",
+        "1": "half time zone",
+        "2": "Mantis Man den",
+        "3": "pile of bones resembling a(n) pawprint"
+    },
+    {
+        "name": "B11",
+        "Terrain": "Ocean",
+        "1": "pristeen graveyard of Coento from the Empire of man",
+        "2": "Floating Eye den",
+        "3": "tree resembling a(n) volumetric flask"
+    },
+    {
+        "name": "C0",
+        "Terrain": "Mountain",
+        "1": "D",
+        "2": "well",
+        "3": "Cultists(Any) den"
+    },
+    {
+        "name": "C1",
+        "Terrain": "Mountain",
+        "1": "creek",
+        "2": "fey rock circle",
+        "3": "Flame Guardian den"
+    },
+    {
+        "name": "C2",
+        "Terrain": "Hillside",
+        "1": "stream",
+        "2": "leathery lichens",
+        "3": {
+            "name": "Brambleturn",
+            "hex": "",
+            "population": 792,
+            "locations": [
+                "Open Market",
+                "Cobbler",
+                "Granary",
+                "Butcher",
+                "Pub",
+                "Tailor",
+                "Healer"
+            ]
+        }
+    },
+    {
+        "name": "C3",
+        "Terrain": "Hillside",
+        "1": "leathery lichens",
+        "2": "poorly maintained temple of Coenta from the Age of Dragons",
+        "3": "sinkhole resembling a(n) pawprint"
+    },
+    {
+        "name": "C4",
+        "Terrain": "Hillside",
+        "1": "creek",
+        "2": "Regret den",
+        "3": {
+            "name": "Sevensteel",
+            "hex": "",
+            "population": 436,
+            "locations": [
+                "Shrine",
+                "Open Market",
+                "Herbalist",
+                "Inn"
+            ]
+        }
+    },
+    {
+        "name": "C5",
+        "Terrain": "Hillside",
+        "1": "stream",
+        "2": "mud pit resembling a(n) circle",
+        "3": "bee hives"
+    },
+    {
+        "name": "C6",
+        "Terrain": "Hillside",
+        "1": "pond",
+        "2": "surface deposit of iron resembling a(n) dagger",
+        "3": {
+            "name": "Vandenbert",
+            "hex": "",
+            "population": 1959,
+            "locations": [
+                "Herbalist",
+                "Shrine",
+                "Beekeepers",
+                "Stables",
+                "Pub",
+                "Tailor",
+                "School",
+                "Book Seller",
+                "Brothel"
+            ]
+        }
+    },
+    {
+        "name": "C7",
+        "Terrain": "Hillside",
+        "1": "pond",
+        "2": "ethereal-merged spirit zone",
+        "3": "Needlenose den"
+    },
+    {
+        "name": "C8",
+        "Terrain": "Hillside",
+        "1": "well",
+        "2": "talking tree(cursed person)",
+        "3": "Abyssal Giant den"
+    },
+    {
+        "name": "C9",
+        "Terrain": "Hillside",
+        "1": "stream",
+        "2": "moledog tunnels",
+        "3": "sentient wishing well"
+    },
+    {
+        "name": "C10",
+        "Terrain": "Coastal Water",
+        "1": "ethereal-merged spirit zone",
+        "2": "poorly maintained altar of Grokug and Porok, the conquerer twins from the Post-Severing",
+        "3": "plume of thick vegetation resembling a(n) rectangle"
+    },
+    {
+        "name": "C11",
+        "Terrain": "Ocean",
+        "1": "Imp den",
+        "2": "tiny lake resembling a(n) sword",
+        "3": "haunted battlefield"
+    },
+    {
+        "name": "D0",
+        "Terrain": "Hillside",
+        "1": "well",
+        "2": "pristeen temple of Coent from the Titan Age",
+        "3": "sinkhole resembling a(n) square"
+    },
+    {
+        "name": "D1",
+        "Terrain": "Hillside",
+        "1": "creek",
+        "2": "Littlefoot den",
+        "3": "icy cold zone"
+    },
+    {
+        "name": "D2",
+        "Terrain": "Hillside",
+        "1": "D",
+        "2": "giant leech spawning pool",
+        "3": "imp trade shop"
+    },
+    {
+        "name": "D3",
+        "Terrain": "Hillside",
+        "1": "tiny folk community in a bridge",
+        "2": "pile of bones resembling a(n) pawprint",
+        "3": "well maintained statue of Barnoth, fashion devil from the Titan Age"
+    },
+    {
+        "name": "D4",
+        "Terrain": "Hillside",
+        "1": "D",
+        "2": "well",
+        "3": "Sand Guardian den"
+    },
+    {
+        "name": "D5",
+        "Terrain": "Hillside",
+        "1": "wild game forest",
+        "2": "poorly maintained statue of Coento from the Empire of man",
+        "3": "tiny lake resembling a(n) square"
+    },
+    {
+        "name": "D6",
+        "Terrain": "Hillside",
+        "1": "D",
+        "2": "battlefield of petrified warriors",
+        "3": {
+            "name": "Harf",
+            "hex": "",
+            "population": 1950,
+            "locations": [
+                "Herbalist",
+                "Bakery",
+                "Tavern",
+                "General Store",
+                "Inn",
+                "Stables",
+                "Brothel",
+                "Spa",
+                "School"
+            ]
+        }
+    },
+    {
+        "name": "D7",
+        "Terrain": "Hillside",
+        "1": "honey ant mound",
+        "2": "sentient wishing well",
+        "3": "Sentinel den"
+    },
+    {
+        "name": "D8",
+        "Terrain": "Hillside",
+        "1": "Floating Eye den",
+        "2": "abandoned wheat farm",
+        "3": {
+            "name": "Hiegal",
+            "hex": "",
+            "population": 1887,
+            "locations": [
+                "Cobbler",
+                "Shrine",
+                "Open Market",
+                "General Store",
+                "Inn",
+                "Workshop",
+                "Coach service",
+                "Healer",
+                "School"
+            ]
+        }
+    },
+    {
+        "name": "D9",
+        "Terrain": "Hillside",
+        "1": "creek",
+        "2": "primordial 14 laws miniature monolith",
+        "3": "Bone Thresher den"
+    },
+    {
+        "name": "D10",
+        "Terrain": "Hillside",
+        "1": "creek",
+        "2": "Marionette spider den",
+        "3": {
+            "name": "Greyfield",
+            "hex": "",
+            "population": 1994,
+            "locations": [
+                "Beekeepers",
+                "Trapper",
+                "Open Market",
+                "Blacksmith",
+                "Stables",
+                "General Store",
+                "Tinkerer",
+                "Coach service",
+                "Book Seller"
+            ]
+        }
+    },
+    {
+        "name": "D11",
+        "Terrain": "Coastal Water",
+        "1": "brutally hot zone",
+        "2": "magical darkness zone",
+        "3": "Changeling den"
+    },
+    {
+        "name": "E0",
+        "Terrain": "Hillside",
+        "1": "berry field",
+        "2": "abandoned altar of Exheia from the Post-Severing",
+        "3": "space devoid of plants resembling a(n) pawprint"
+    },
+    {
+        "name": "E1",
+        "Terrain": "Hillside",
+        "1": "creek",
+        "2": "hill resembling a(n) triangle",
+        "3": "well maintained statue of Korrath, Reaper of War from the Titan Age"
+    },
+    {
+        "name": "E2",
+        "Terrain": "Hillside",
+        "1": "wild magic zone",
+        "2": "giant leech spawning pool",
+        "3": "Tentacle Beast den"
+    },
+    {
+        "name": "E3",
+        "Terrain": "Hillside",
+        "1": "lake",
+        "2": "Giant Leech den",
+        "3": "abyssal energy zone"
+    },
+    {
+        "name": "E4",
+        "Terrain": "Hillside",
+        "1": "stream",
+        "2": "an inland sailboat",
+        "3": "well maintained altar of Bimros from the Titan Age"
+    },
+    {
+        "name": "E5",
+        "Terrain": "Hillside",
+        "1": "weak magic zone",
+        "2": "pristeen shrine of Titan King: Toncheh from the Empire of man",
+        "3": "abandoned wheat farm"
+    },
+    {
+        "name": "E6",
+        "Terrain": "Hillside",
+        "1": "hotsprings",
+        "2": "weak magic zone",
+        "3": "giant leech spawning pool"
+    },
+    {
+        "name": "E7",
+        "Terrain": "Hillside",
+        "1": "poorly maintained temple of Coenta from the Titan Age",
+        "2": "thornpatch resembling a(n) the monolith of Bimros",
+        "3": {
+            "name": "Fireshant",
+            "hex": "",
+            "population": 1120,
+            "locations": [
+                "Beekeepers",
+                "Granary",
+                "Shrine",
+                "Workshop",
+                "Tailor",
+                "Butcher",
+                "Mayor's House",
+                "Coach service"
+            ]
+        }
+    },
+    {
+        "name": "E8",
+        "Terrain": "Hillside",
+        "1": "stream",
+        "2": "Saber-toothed Tiger den",
+        "3": "primordial 14 laws miniature monolith"
+    },
+    {
+        "name": "E9",
+        "Terrain": "Hillside",
+        "1": "D",
+        "2": "white water rapids",
+        "3": {
+            "name": "Eagleton",
+            "hex": "",
+            "population": 611,
+            "locations": [
+                "Bakery",
+                "Shrine",
+                "Open Market",
+                "Blacksmith",
+                "Tailor"
+            ]
+        }
+    },
+    {
+        "name": "E10",
+        "Terrain": "Bay",
+        "1": "Bandit(any) den",
+        "2": "double time zone",
+        "3": "pile of bones resembling a(n) dog"
+    },
+    {
+        "name": "E11",
+        "Terrain": "Coastal Water",
+        "1": "half time zone",
+        "2": "Imp den",
+        "3": {
+            "name": "Mintberg",
+            "hex": "",
+            "population": 811,
+            "locations": [
+                "Herbalist",
+                "Granary",
+                "Cobbler",
+                "Pub",
+                "General Store",
+                "Tailor",
+                "Spa"
+            ]
+        }
+    },
+    {
+        "name": "F0",
+        "Terrain": "Hillside",
+        "1": "river",
+        "2": "well maintained shrine of Kirr, rage queen from the Post-Severing",
+        "3": "abandoned orchard"
+    },
+    {
+        "name": "F1",
+        "Terrain": "Hillside",
+        "1": "D",
+        "2": "stream",
+        "3": "acid rain zone"
+    },
+    {
+        "name": "F2",
+        "Terrain": "Hillside",
+        "1": "stream",
+        "2": "Manface silkworm den",
+        "3": "surface deposit of fossils resembling a(n) triangle"
+    },
+    {
+        "name": "F3",
+        "Terrain": "Hillside",
+        "1": "D",
+        "2": "stream",
+        "3": "Stone Scurrier den"
+    },
+    {
+        "name": "F4",
+        "Terrain": "Hillside",
+        "1": "stream",
+        "2": "Carpet Worm den",
+        "3": "tree resembling a(n) square"
+    },
+    {
+        "name": "F5",
+        "Terrain": "Hillside",
+        "1": "lake",
+        "2": "Stone Scurrier den",
+        "3": "giant leech spawning pool"
+    },
+    {
+        "name": "F6",
+        "Terrain": "Hillside",
+        "1": "river",
+        "2": "poorly maintained graveyard of Titan King: Toncheh from the Divine Age",
+        "3": "plume of thick vegetation resembling a(n) dagger"
+    },
+    {
+        "name": "F7",
+        "Terrain": "Hillside",
+        "1": "acid lake resembling a(n) cat",
+        "2": "haunted battlefield",
+        "3": "abandoned wheat farm"
+    },
+    {
+        "name": "F8",
+        "Terrain": "Hillside",
+        "1": "pond",
+        "2": "Giant Crab den",
+        "3": "double gravity zone"
+    },
+    {
+        "name": "F9",
+        "Terrain": "Hillside",
+        "1": "creek",
+        "2": "radiant zone (1d6 radiant damage per minute)",
+        "3": "moledog tunnels"
+    },
+    {
+        "name": "F10",
+        "Terrain": "Bay",
+        "1": "Littlefoot den",
+        "2": "abandoned temple of Kirr, rage queen from the Divine Age",
+        "3": "animation zone(objects become animated inside)"
+    },
+    {
+        "name": "F11",
+        "Terrain": "Hillside",
+        "1": "abandoned altar of Tuzzazz, the slumberer from the Titan Age",
+        "2": "Devil Scribes den",
+        "3": "always foggy zone"
+    },
+    {
+        "name": "G0",
+        "Terrain": "Hillside",
+        "1": "hotsprings",
+        "2": "Mountain Lion den",
+        "3": "fluffy tree forest"
+    },
+    {
+        "name": "G1",
+        "Terrain": "Hillside",
+        "1": "well",
+        "2": "boulder resembling a(n) symbol of Gidur",
+        "3": {
+            "name": "Cloverfield",
+            "hex": "",
+            "population": 1563,
+            "locations": [
+                "Cobbler",
+                "Tavern",
+                "Shrine",
+                "Stables",
+                "Pub",
+                "Workshop",
+                "Healer",
+                "Brothel",
+                "Coach service"
+            ]
+        }
+    },
+    {
+        "name": "G2",
+        "Terrain": "Hillside",
+        "1": "stream",
+        "2": "reanimation zone(the dead are immediately raised as zombies)",
+        "3": "Imp den"
+    },
+    {
+        "name": "G3",
+        "Terrain": "Hillside",
+        "1": "hotsprings",
+        "2": "magical darkness zone",
+        "3": "bee hives"
+    },
+    {
+        "name": "G4",
+        "Terrain": "Hillside",
+        "1": "fey statues",
+        "2": "surface deposit of copper resembling a(n) rectangle",
+        "3": "Arch Fey den"
+    },
+    {
+        "name": "G5",
+        "Terrain": "Hillside",
+        "1": "fey fountain",
+        "2": "wild game forest",
+        "3": "poorly maintained temple of Zimzin, the walker king from the Empire of man"
+    },
+    {
+        "name": "G6",
+        "Terrain": "Hillside",
+        "1": "D",
+        "2": "wild game forest",
+        "3": "Spindle Man den"
+    },
+    {
+        "name": "G7",
+        "Terrain": "Hillside",
+        "1": "well",
+        "2": "Marionette spider den",
+        "3": "floating coral reef"
+    },
+    {
+        "name": "G8",
+        "Terrain": "Bay",
+        "1": "pristeen graveyard of Coent from the Post-Severing",
+        "2": "Devil Scribes den",
+        "3": "boulder resembling a(n) frown"
+    },
+    {
+        "name": "G9",
+        "Terrain": "Bay",
+        "1": "Skeletons den",
+        "2": "magical twilight zone",
+        "3": "abandoned graveyard of Tuzzazz, the slumberer from the Age of Dragons"
+    },
+    {
+        "name": "G10",
+        "Terrain": "Bay",
+        "1": "D",
+        "2": "gate to ethereal plane, active at twilight",
+        "3": "Invisible Skulker den"
+    },
+    {
+        "name": "G11",
+        "Terrain": "Coastal Water",
+        "1": "tree resembling a(n) cat",
+        "2": "undeath energy zone",
+        "3": "Stone Scurrier den"
+    },
+    {
+        "name": "H0",
+        "Terrain": "Hillside",
+        "1": "creek",
+        "2": "Nymph den",
+        "3": "floating coral reef"
+    },
+    {
+        "name": "H1",
+        "Terrain": "Hillside",
+        "1": "stream",
+        "2": "talking tree(cursed person)",
+        "3": "nests of fist-sized glowbugs"
+    },
+    {
+        "name": "H2",
+        "Terrain": "Hillside",
+        "1": "D",
+        "2": "hotsprings",
+        "3": "always foggy zone"
+    },
+    {
+        "name": "H3",
+        "Terrain": "Hillside",
+        "1": "series of boulders resembling a(n) smile",
+        "2": "wild game forest",
+        "3": "pristeen graveyard of Titan King: Toncheh from the Empire of man"
+    },
+    {
+        "name": "H4",
+        "Terrain": "Hillside",
+        "1": "D",
+        "2": "well",
+        "3": "pristeen statue of Docla, starvation devil from the Post-Severing"
+    },
+    {
+        "name": "H5",
+        "Terrain": "Hillside",
+        "1": "primordial 14 laws miniature monolith",
+        "2": "Pit Fisher den",
+        "3": "berry field"
+    },
+    {
+        "name": "H6",
+        "Terrain": "Hillside",
+        "1": "Hell Knight den",
+        "2": "fey rock circle",
+        "3": "honey ant mound"
+    },
+    {
+        "name": "H7",
+        "Terrain": "Hillside",
+        "1": "geyser",
+        "2": "animation zone(objects become animated inside)",
+        "3": "Manface silkworm den"
+    },
+    {
+        "name": "H8",
+        "Terrain": "Hillside",
+        "1": "well maintained altar of Zimzin, the walker king from the Empire of man",
+        "2": "bee hives",
+        "3": "Sha Karr den"
+    },
+    {
+        "name": "H9",
+        "Terrain": "Hillside",
+        "1": "well",
+        "2": "Sharp Tooth den",
+        "3": "wild magic zone"
+    },
+    {
+        "name": "H10",
+        "Terrain": "Hillside",
+        "1": "white water rapids",
+        "2": "termite mound resembling a(n) circle",
+        "3": "Imp den"
+    },
+    {
+        "name": "H11",
+        "Terrain": "Hillside",
+        "1": "creek",
+        "2": "always foggy zone",
+        "3": "giant leech spawning pool"
+    },
+    {
+        "name": "I0",
+        "Terrain": "DarkWoods",
+        "1": "D",
+        "2": "waterfall",
+        "3": "abandoned statue of Korrath, Reaper of War from the Titan Age"
+    },
+    {
+        "name": "I1",
+        "Terrain": "DarkWoods",
+        "1": "brackish pond resembling a(n) dog",
+        "2": "pristeen graveyard of Solus from the Titan Age",
+        "3": "Vampire den"
+    },
+    {
+        "name": "I2",
+        "Terrain": "Hillside",
+        "1": "D",
+        "2": "creek",
+        "3": "well maintained temple of Brenzen, dream devil from the Empire of man"
+    },
+    {
+        "name": "I3",
+        "Terrain": "Hillside",
+        "1": "pristeen statue of Coenta from the Age of Dragons",
+        "2": "acid lake resembling a(n) plus sign",
+        "3": "moledog tunnels"
+    },
+    {
+        "name": "I4",
+        "Terrain": "Hillside",
+        "1": "giant leech spawning pool",
+        "2": "Nymph den",
+        "3": "poorly maintained shrine of Coento from the Post-Severing"
+    },
+    {
+        "name": "I5",
+        "Terrain": "Hillside",
+        "1": "Brown Bear den",
+        "2": "wild game forest",
+        "3": "abandoned graveyard of Kirr, rage queen from the Divine Age"
+    },
+    {
+        "name": "I6",
+        "Terrain": "Hillside",
+        "1": "D",
+        "2": "stream",
+        "3": "termite mound resembling a(n) heart"
+    },
+    {
+        "name": "I7",
+        "Terrain": "Hillside",
+        "1": "stream",
+        "2": "Wolf bat den",
+        "3": "tiny lake resembling a(n) the monolith of Bimros"
+    },
+    {
+        "name": "I8",
+        "Terrain": "Hillside",
+        "1": "D",
+        "2": "waterfall",
+        "3": "primordial 14 laws miniature monolith"
+    },
+    {
+        "name": "I9",
+        "Terrain": "Hillside",
+        "1": "pond",
+        "2": "pristeen altar of Famine from the Age of Dragons",
+        "3": "crevasse resembling a(n) symbol of Gidur"
+    },
+    {
+        "name": "I10",
+        "Terrain": "Hillside",
+        "1": "lake",
+        "2": "gate to ethereal plane, active at twilight",
+        "3": {
+            "name": "Blackfurnace",
+            "hex": "",
+            "population": 1882,
+            "locations": [
+                "Shrine",
+                "Beekeepers",
+                "Bakery",
+                "Stables",
+                "Butcher",
+                "Inn",
+                "School",
+                "Apothecary",
+                "Spa"
+            ]
+        }
+    },
+    {
+        "name": "I11",
+        "Terrain": "Hillside",
+        "1": "Chaos Shells den",
+        "2": "pristeen statue of Korrath, Reaper of War from the Age of Dragons",
+        "3": "crater resembling a(n) pawprint"
+    },
+    {
+        "name": "J0",
+        "Terrain": "DarkWoods",
+        "1": "boulder resembling a(n) rectangle",
+        "2": "crater with meteorite in center",
+        "3": "pristeen altar of Bestlar Mranag from the Divine Age"
+    },
+    {
+        "name": "J1",
+        "Terrain": "DarkWoods",
+        "1": "pristeen statue of Titan King: Toncheh from the Age of Dragons",
+        "2": "Sentinel den",
+        "3": "collapsed tunnel resembling a(n) dog"
+    },
+    {
+        "name": "J2",
+        "Terrain": "DarkWoods",
+        "1": "acid rain zone",
+        "2": "grey soil resembling a(n) dagger",
+        "3": "Hell Knight den"
+    },
+    {
+        "name": "J3",
+        "Terrain": "Hillside",
+        "1": "poorly maintained altar of Tuzzazz, the slumberer from the Age of Dragons",
+        "2": "honey ant mound",
+        "3": "fey rock circle"
+    },
+    {
+        "name": "J4",
+        "Terrain": "Hillside",
+        "1": "D",
+        "2": "wild game forest",
+        "3": "half time zone"
+    },
+    {
+        "name": "J5",
+        "Terrain": "Hillside",
+        "1": "well",
+        "2": "powerful winds zone",
+        "3": "Skelemancer den"
+    },
+    {
+        "name": "J6",
+        "Terrain": "Hillside",
+        "1": "half time zone",
+        "2": "plume of thick vegetation resembling a(n) heart",
+        "3": "Cultists(Any) den"
+    },
+    {
+        "name": "J7",
+        "Terrain": "Hillside",
+        "1": "creek",
+        "2": "boulder resembling a(n) circle",
+        "3": "well maintained altar of Barnoth, fashion devil from the Age of Dragons"
+    },
+    {
+        "name": "J8",
+        "Terrain": "Hillside",
+        "1": "river",
+        "2": "sentient wishing well",
+        "3": {
+            "name": "Mayfield",
+            "hex": "",
+            "population": 1755,
+            "locations": [
+                "Granary",
+                "Herbalist",
+                "Bakery",
+                "Workshop",
+                "Tailor",
+                "Stables",
+                "Apothecary",
+                "Tinkerer",
+                "Coach service"
+            ]
+        }
+    },
+    {
+        "name": "J9",
+        "Terrain": "Hillside",
+        "1": "river",
+        "2": "fluffy tree forest",
+        "3": "crater with meteorite in center"
+    },
+    {
+        "name": "J10",
+        "Terrain": "Hillside",
+        "1": "stream",
+        "2": "plume of thick vegetation resembling a(n) frown",
+        "3": "double gravity zone"
+    },
+    {
+        "name": "J11",
+        "Terrain": "Hillside",
+        "1": "hotsprings",
+        "2": "wild magic zone",
+        "3": "hill resembling a(n) skull and crossbones"
+    },
+    {
+        "name": "K0",
+        "Terrain": "DarkWoods",
+        "1": "pond",
+        "2": "powerful winds zone",
+        "3": "tree resembling a(n) sword"
+    },
+    {
+        "name": "K1",
+        "Terrain": "DarkWoods",
+        "1": "double time zone",
+        "2": "pristeen statue of Gegtex from the Empire of man",
+        "3": "series of boulders resembling a(n) plus sign"
+    },
+    {
+        "name": "K2",
+        "Terrain": "Hillside",
+        "1": "waterfall",
+        "2": "hill resembling a(n) volumetric flask",
+        "3": "fluffy tree forest"
+    },
+    {
+        "name": "K3",
+        "Terrain": "Hillside",
+        "1": "giant leech spawning pool",
+        "2": "talking tree(cursed person)",
+        "3": "Leech Man den"
+    },
+    {
+        "name": "K4",
+        "Terrain": "Hillside",
+        "1": "waterfall",
+        "2": "pristeen graveyard of Titan King: Toncheh from the Titan Age",
+        "3": "20ft tall sculpture of a hand"
+    },
+    {
+        "name": "K5",
+        "Terrain": "Hillside",
+        "1": "creek",
+        "2": "statue of man with sword",
+        "3": "abandoned statue of Grokug and Porok, the conquerer twins from the Divine Age"
+    },
+    {
+        "name": "K6",
+        "Terrain": "Hillside",
+        "1": "D",
+        "2": "geyser",
+        "3": {
+            "name": "Rupertsville",
+            "hex": "",
+            "population": 1600,
+            "locations": [
+                "Granary",
+                "Open Market",
+                "Shrine",
+                "Workshop",
+                "General Store",
+                "Butcher",
+                "Apothecary",
+                "Brothel",
+                "Book Seller"
+            ]
+        }
+    },
+    {
+        "name": "K7",
+        "Terrain": "Hillside",
+        "1": "stream",
+        "2": "grey soil resembling a(n) the monolith of Bimros",
+        "3": "double time zone"
+    },
+    {
+        "name": "K8",
+        "Terrain": "Hillside",
+        "1": "abandoned shrine of Bimros from the Divine Age",
+        "2": "haunted woodlands",
+        "3": "Mantis Man den"
+    },
+    {
+        "name": "K9",
+        "Terrain": "Hillside",
+        "1": "creek",
+        "2": "Grass Heap den",
+        "3": "berry field"
+    },
+    {
+        "name": "K10",
+        "Terrain": "Desert",
+        "1": "half time zone",
+        "2": "Vice den",
+        "3": "imp trade shop"
+    },
+    {
+        "name": "K11",
+        "Terrain": "Desert",
+        "1": "hotsprings",
+        "2": "Grass Heap den",
+        "3": "well maintained statue of Uaos from the Empire of man"
+    },
+    {
+        "name": "L0",
+        "Terrain": "Swamp",
+        "1": "swamp water",
+        "2": "dragon skeleton",
+        "3": "well maintained temple of Titan King: Tihomir from the Age of Dragons"
+    },
+    {
+        "name": "L1",
+        "Terrain": "Swamp",
+        "1": "D",
+        "2": "swamp water",
+        "3": "Hydra den"
+    },
+    {
+        "name": "L2",
+        "Terrain": "Swamp",
+        "1": "swamp water",
+        "2": "Chameleoid den",
+        "3": "undeath energy zone"
+    },
+    {
+        "name": "L3",
+        "Terrain": "DarkWoods",
+        "1": "pristeen statue of Barnoth, fashion devil from the Empire of man",
+        "2": "Ghost / Banshee / Specter den",
+        "3": "dragon skeleton"
+    },
+    {
+        "name": "L4",
+        "Terrain": "Hillside",
+        "1": "caravan wreck resembling a(n) ghost",
+        "2": "pristeen graveyard of Gidur from the Empire of man",
+        "3": "giant leech spawning pool"
+    },
+    {
+        "name": "L5",
+        "Terrain": "Hillside",
+        "1": "gate to ethereal plane, active at twilight",
+        "2": "poorly maintained altar of Docla, starvation devil from the Titan Age",
+        "3": "nests of fist-sized glowbugs"
+    },
+    {
+        "name": "L6",
+        "Terrain": "Hillside",
+        "1": "stream",
+        "2": "giant skull",
+        "3": "pool of lava"
+    },
+    {
+        "name": "L7",
+        "Terrain": "Hillside",
+        "1": "river",
+        "2": "surface deposit of salt resembling a(n) ghost",
+        "3": "Giant Hand den"
+    },
+    {
+        "name": "L8",
+        "Terrain": "Hillside",
+        "1": "thornpatch resembling a(n) triangle",
+        "2": "magical twilight zone",
+        "3": "bottomless pit"
+    },
+    {
+        "name": "L9",
+        "Terrain": "Hillside",
+        "1": "well",
+        "2": "abandoned orchard",
+        "3": "primordial 14 laws miniature monolith"
+    },
+    {
+        "name": "L10",
+        "Terrain": "Desert",
+        "1": "well",
+        "2": "Raystalker den",
+        "3": "pristeen statue of Titan King: Toncheh from the Empire of man"
+    },
+    {
+        "name": "L11",
+        "Terrain": "Desert",
+        "1": "D",
+        "2": "well",
+        "3": "always raining zone"
+    },
+    {
+        "name": "M0",
+        "Terrain": "Swamp",
+        "1": "swamp water",
+        "2": "shallow cave resembling a(n) bone",
+        "3": "Wolf bat den"
+    },
+    {
+        "name": "M1",
+        "Terrain": "Swamp",
+        "1": "D",
+        "2": "swamp water",
+        "3": "always foggy zone"
+    },
+    {
+        "name": "M2",
+        "Terrain": "Hillside",
+        "1": "well",
+        "2": "abandoned altar of Magara, the hoard god from the Empire of man",
+        "3": "Rotheads den"
+    },
+    {
+        "name": "M3",
+        "Terrain": "DarkWoods",
+        "1": "waterfall",
+        "2": "surface deposit of copper resembling a(n) pawprint",
+        "3": "Hydra den"
+    },
+    {
+        "name": "M4",
+        "Terrain": "Forest",
+        "1": "white water rapids",
+        "2": "abandoned orchard",
+        "3": "Brown Bear den"
+    },
+    {
+        "name": "M5",
+        "Terrain": "Forest",
+        "1": "abandoned orchard",
+        "2": "always foggy zone",
+        "3": "brackish pond resembling a(n) plus sign"
+    },
+    {
+        "name": "M6",
+        "Terrain": "Forest",
+        "1": "imp trade shop",
+        "2": "wild game forest",
+        "3": "Hydra den"
+    },
+    {
+        "name": "M7",
+        "Terrain": "Forest",
+        "1": "white water rapids",
+        "2": "battlefield of petrified warriors",
+        "3": "shallow cave resembling a(n) symbol of Gidur"
+    },
+    {
+        "name": "M8",
+        "Terrain": "Forest",
+        "1": "stream",
+        "2": "well maintained shrine of Grokug and Porok, the conquerer twins from the Post-Severing",
+        "3": "abyssal energy zone"
+    },
+    {
+        "name": "M9",
+        "Terrain": "Desert",
+        "1": "waterfall",
+        "2": "series of boulders resembling a(n) frown",
+        "3": "talking statues"
+    },
+    {
+        "name": "M10",
+        "Terrain": "Desert",
+        "1": "pristeen shrine of Gidur from the Age of Dragons",
+        "2": "Giant Crab den",
+        "3": "20ft tall sculpture of a hand"
+    },
+    {
+        "name": "M11",
+        "Terrain": "Desert",
+        "1": "D",
+        "2": "pond",
+        "3": "Giant Crab den"
+    },
+    {
+        "name": "N0",
+        "Terrain": "Swamp",
+        "1": "swamp water",
+        "2": "surface deposit of fossils resembling a(n) volumetric flask",
+        "3": "haunted battlefield"
+    },
+    {
+        "name": "N1",
+        "Terrain": "Swamp",
+        "1": "D",
+        "2": "swamp water",
+        "3": "space devoid of plants resembling a(n) plus sign"
+    },
+    {
+        "name": "N2",
+        "Terrain": "Swamp",
+        "1": "swamp water",
+        "2": "mud pit resembling a(n) bone",
+        "3": "poorly maintained statue of Docla, starvation devil from the Titan Age"
+    },
+    {
+        "name": "N3",
+        "Terrain": "DarkWoods",
+        "1": "poorly maintained temple of J'ra, unrequainted prince from the Post-Severing",
+        "2": "fey fountain",
+        "3": "Abyssal Giant den"
+    },
+    {
+        "name": "N4",
+        "Terrain": "Forest",
+        "1": "tiny folk community in a bridge",
+        "2": "bee hives",
+        "3": "well maintained statue of Kirr, rage queen from the Post-Severing"
+    },
+    {
+        "name": "N5",
+        "Terrain": "Forest",
+        "1": "pond",
+        "2": "Wolf bat den",
+        "3": "gate to ethereal plane, active at twilight"
+    },
+    {
+        "name": "N6",
+        "Terrain": "Forest",
+        "1": "well",
+        "2": "nests of fist-sized glowbugs",
+        "3": {
+            "name": "Dinangle",
+            "hex": "",
+            "population": 1750,
+            "locations": [
+                "Tavern",
+                "Bakery",
+                "Shrine",
+                "Tailor",
+                "Inn",
+                "Stables",
+                "School",
+                "Brothel",
+                "Book Seller"
+            ]
+        }
+    },
+    {
+        "name": "N7",
+        "Terrain": "Forest",
+        "1": "river",
+        "2": "brutally hot zone",
+        "3": "caravan wreck resembling a(n) symbol of Gidur"
+    },
+    {
+        "name": "N8",
+        "Terrain": "Forest",
+        "1": "creek",
+        "2": "Manface silkworm den",
+        "3": "surface deposit of iron resembling a(n) cat"
+    },
+    {
+        "name": "N9",
+        "Terrain": "Desert",
+        "1": "sinkhole resembling a(n) plus sign",
+        "2": "Sand Guardian den",
+        "3": "weak magic zone"
+    },
+    {
+        "name": "N10",
+        "Terrain": "Desert",
+        "1": "termite mound resembling a(n) pawprint",
+        "2": "poorly maintained shrine of Coento from the Divine Age",
+        "3": "always foggy zone"
+    },
+    {
+        "name": "N11",
+        "Terrain": "Desert",
+        "1": "D",
+        "2": "Saber-toothed Tiger den",
+        "3": "pristeen altar of Titan King: Yavor from the Titan Age"
+    }
+]

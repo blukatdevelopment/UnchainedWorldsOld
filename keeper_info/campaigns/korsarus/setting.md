@@ -56,9 +56,27 @@ Locations of note:
 The inner sanctum of Korsarus City, the Gold Core is home to nobility and royalty. One must either be of noble blood, or else enter into the gold core under the honor of a noble, who takes personal responsibility for their honored guest. The Omarian army patrols the Gold Core, and tresspassing is a deadly offense. Residents of the gold core are exclusively Gold Robes, with even most hired help also donning robes of a thin gold hem.
 Locations of note:
 - Cathedral of Bimros: Built at the height of the Empire of Man.
-- University: Built originally as a library in the early dragon age, it has since become a walled sanctuary for mages of all sorts.
+- University
 - Castle Omaria: Features the skull of the dragon the castle was originally built for.
 - Various Mansions: Each noble or royal family has a mansion in the Gold Core. 
+
+##### University
+Built originally as a library in the early dragon age, it has since become a walled sanctuary for mages of all sorts.
+It has a few landmarks of it's own.
+
+- Shimmering towers: Towers for residence, lecture halls, shops, and faculty
+- Power Dome: pumps mana over the university for magical practice. Looks like a tesla coil in a metal dome cage.
+- Growhouse: self-contained ecosystems of desert, jungle, polar, and wild
+- Stacks: Public libraries with safe knowledge
+- Archives: Disorganized and uncurated
+- Student services: Student jail
+- The pound: Magical prison for magical prisoners
+- Titan Reserve: island of ruined Titan armor and dragon skulls with boulder inscribed with "Overlords no more"
+- Proving Grounds: Study of lost tech
+- Bloodfield: Field for duels, sporting events
+
+
+
 
 ### Thiersgar
 A town of nearly 5,000, Thiersgar is the drop-off point for nearby smaller settlements bringing their goods down the Dragon's Tears River to Korsarus City. The river provides natural protection against giants in addition to the city's walls. Ore, coal, lumber, textiles, ice, and meat provide bountiful opportunities for trade with Korsarus City. While the town's artisans convert raw resources into value-added goods, the city serves as the furthest stronghold of Omarian expansion in the region. Warlords, bandits, and monsters are routinely brought down by Omarian scouts here, in exchange for material tribute. Field Folk are most common in and around Thiersgar, with most businesses well used to providing service to friendly giants. Wayfarers are also common in the area, acting as the main source of trade for many of the smaller communities dotting the surrounding land. Lastly, Bronzehammers can be found smelting ores into ingots and leading mining expeditions into the mountains.
