@@ -28,7 +28,7 @@ A soul whose last act is self-destruction in order to inflict harm upon others.
 - Burn out: The soul flame leaps onto a target and erupts, dealing 1d8 necrotic damage
 
 ### Soul sucker
-A fleshy snake with a humanoid torso and a mouth like a lamprey. It feasts on the souls of the weak and weary. Soul suckers will run away from light sources.
+A fleshy snake with a humanoid torso and a mouth like a lamprey. It feasts on the souls of the weak and weary. Soul suckers will run away from light sources and are attracted to the souls of the weak.
 
 `Soul Sucker, XP: 10, Size: Small, HP: 8(2d6), AC: 8, Speed: 40ft, climb 40ft, [10, 10, 10, 10, 10, 10], Suck: +1 1d4 necrotic`
 - Spray Venom: One creature within 10 feet must make a DC8 CON saving throw or become paralyzed for 1 minute.
@@ -42,11 +42,21 @@ A fleshy snake with a humanoid torso and a mouth like a lamprey. It feasts on th
 - Burrow: Swarm may use action to enter an unconscious creature's nose, ears, and mouth. The creature rises up with 1 hit point, under leech control, and the swarm loses 1 hit point.
 
 ### Snork
-A four foot featherless bird with a fleshy toothed funnel instead of a beak.They feed on the brains of wounded creatures and are attracted by the sounds of agony. Snorks have a simbiotic relationship with soul suckers and will hunt together. Snorks will run away from light sources.
+A four foot featherless bird with a fleshy toothed funnel instead of a beak. They feed on the brains of wounded creatures and are attracted by the sounds of agony. Snorks have a simbiotic relationship with soul suckers and will hunt together. Snorks will run away from light sources.
 
 `Snork, XP: 100, HP: 42(6d6+6), AC: 13, [16, 12, 12, 10, 10, 10]`
 - Couple: Target must succeed a DC 12 STR save or else become grappled as the snork attaches to their head and begins searching for a weak in the skull with their internal beak.
 - Tap: If coupled, target must make a DC 12 CON save to halve 2d6 piercing damage. If this attack brings a creature to 0 hit points, the snork cracks into the skull and eats their brain.
+
+### Faceless Mistwalker
+A small, shriveled humanoid creature. While it isn't physically imposing, it's abilities render it a danger to skilled adventurers and even small armies. It features a bulbous head on a stickly body, two enormous glassy black eyes bulging from it's head. It's nose consists of two slits, and it has a lipless, tongueless, toothless mouth. It's skin ranges from light grey and smoothe when well-fed to wrinkly and dark grey when hungry. After hunting it's prey, it unhinges it's jaw and consumes them whole, it's form stretching to accomodate them. Though it can digest meat, it feeds almost entirely on fear. While alive, it's face cannot be perceived by the direct eye-contact.
+
+`Faceless Mistwalker, HP: 3(1d4-1), AC: 8, [7, 7, 8, 16, 20, 16]`
+- Faceless: those that look directly at the mistwalker see a blurred distortion where it's face should be, and must succeed a DC 15 WIS save to halve 3d6 non-lethal psychic damage. If this damage brings the creature below 1HP, they remain conscious, stable, and totally palaryzed.
+- Aura of blue flame: All flames within 500ft burn blue. The mistwalker can detect the position and size of these flames.
+- Aura of Mist: Within 100ft radius, a thick magical miasma forms, heavily obscuring sight. The creature can lift this mist partially or entirely at will.
+- Nightmare: One paralyzed target hallucinates, their mind returning to a traumatic memory. The mistwalker can control entities in this nightmare. If the creature dies in their nightmare, their body also dies.
+- Possession: A creature once paralyzed by the mistwalker becomes a conduit for it. Within the aura of blue flame, the mistwalker can possess this creature to access it's thoughts, sensory information, and assert control over it's body. A single action can be resisted by a DC 16 WIS save, and total control with a DC 11 WIS save.
 
 ### Grinder
 This spherical demon opens into two hemispheres joined by a central stalk. Teeth brim at the edges where these pieces meet, forming a 360 degree mouth. Grinders gnash their teeth constantly, compelled to chew through stone despite the pain it causes them. They have eyes on all sides, and three legs.

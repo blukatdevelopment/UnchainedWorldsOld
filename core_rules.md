@@ -240,7 +240,7 @@ There is an assortment of actions you may use in combat.
 - Dodge: Attack rolls made against you are made with disadvantage if you can see the attacker. Dexterity saving throws are made with advantage.
 - Help: You can aid another creature in completing a task, giving them advantage with it. Or, you may distract an enemy you are within 5ft of, giving the first attack made against them advantage.
 - Hide: Provided you have entered a space that is obscured from sight, you may hide. The keeper will likely ask for a stealth check made against passive nearby creature's perception.
-- Ready: You declare an action(and potentially movement) that you will use under a certain condition(such as if a creature turns hostile). If that condition is met, your readied action is triggered. If you prepare to cast a spell, it uses any relevant resources as if you had actually cast the spell, regardless of whether it was triggered.
+- Ready: You declare an action(and potentially movement) that you will use under a certain condition(such as if a creature turns hostile). If that condition is met, your readied action is triggered, using your reaction to perform it. If you prepare to cast a spell, it uses any relevant resources as if you had actually cast the spell, regardless of whether it was triggered.
 - Search: You seek to find something. Your keeper will likely request an investigation or perception check.
 
 #### How to make attack rolls
