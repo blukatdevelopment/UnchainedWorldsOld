@@ -20,7 +20,6 @@ o :NMMMMMMMMN0o..xWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 O..dXWWX0xo:,..;kNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 WO:.';,'..,cokKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 MMW0xooxOXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-
 ```
 # Foreword
 This ruleset is stripped down, hyper-minimilist version of the unchained worlds
@@ -170,7 +169,7 @@ rations, crowbar, 50ft hempen rope, dark hooded clothes, and 10 gold pieces.
 5. Distraction: Once per round during an enemy's turn, you can impose a -4 penalty to their attack roll if they can hear or see your distraction.
 6. Inspiration: Once per combat encounter, you can add a 1d12 to an ally's attack roll, ability check, or saving throw.
 7. Armorer adept: You may use shields and medium armor.
-8. Extra attack: When you take the attack action, you may attack twice.
+8. Quick attack: Your second attack has no penalty.
 9. Vice: once per rest, you can restore 1d6 hit points by smoking, drinking, or eating.
 10. Cat-like reflexes: All fall damage is halved for you.
 
@@ -188,7 +187,7 @@ pieces.
 |   1 |    0 | 1d10 |          2 | Power Move            |
 |   2 |  100 | 2d10 |          3 | Weapon training       |
 |   3 |  300 | 3d10 |          4 |                       |
-|   4 |  600 | 4d10 |          5 | Extra Attack          |
+|   4 |  600 | 4d10 |          5 | Quick Attack          |
 |   5 | 1000 | 5d10 |          6 |                       |
 
 
@@ -198,8 +197,8 @@ You may gain a 1d12 bonus on any required checks when you declare an action such
 #### Weapon Training
 Pick 3 types of weapons. You gain a +2 bonus to attacks made with them.
 
-#### Extra atack
-Whenever you take the attack action, you may make two attacks, or three if you are making use of the dual wielder perk.
+#### Quick atack
+Your second attack has no penalty.
 
 #### Techniques (Level 1 minimum)
 1. Dual wielder: When wielding two Minor or Martial weapons and taking the attack action, you may make an additonal attack.
@@ -253,31 +252,22 @@ Carry weight decides how many pounds of stuff you can carry and wear on your per
 Each combatant rolls a 1d20 and adds their dexterity modifier to the roll. Turn order reflects the roll. On a tie, the combatant with the highest dexterity goes first. When a tie remains after comparing dexterity, combatants each roll a 1d20 and the highest goes first.
 
 ## On your turn
-On each turn, you receive the following:
-- 1 action
-- 1 free object interaction(stashing/drawing an item, opening door, talking for 6 seconds, etc)
-- 6 paces(5ft each) of movement, which you may spend to move up to 6 paces. You may spend 3 paces to get up from prone position.
+On each turn, you receive three actions.
 
 ### Actions in combat
 Using your action, you may perform an intensive task. Some examples:
-- attack
-- dash: You gain 6 paces of movement
-- hide: You may make a DEX check (DC 12) to hide from one or more creatures if your line of sight is broken.
-- dodge: You focus on avoiding incoming attacks, adding +5 to your AC
-- cast a spell
-- Use object
+- Attack: The second attack on a turn has a -3 penalty to hit, and the third -6
+- Move: You move up to 6 paces(1 pace = 5ft)
+- Hide: You may make a DEX check (DC 12) to hide from one or more creatures if your line of sight is broken.
+- Dodge: You focus on avoiding incoming attacks, adding +5 to your AC
+- Cast a spell (requires 2 actions)
+- Draw/Store/Use object
 
 #### Making attacks
 Roll a 1d20, then add your Strength(for melee) or Dexterity(for ranged) modifier to the roll. If that roll is higher than your target's armor class(AC), then it hits. The keeper keeps track of monster stats, and will tell you if your attack hits. If your attack hits, then you can roll 1d6 and add the same modifier you used earlier.
 
 ##### Situational bonuses
 If you are hidden from an enemy, or attacking a prone enemy, or otherwise have an advantage determined by your keeper, you gain a +5 bonus on the attack roll you make.
-
-### Free object interactions
-Some actions such as storing or retrieving an object from your inventory, opening a door, speaking a six second message, or picking up an object from the ground.
-
-### Movement
-Combat is centered around 5ft increments of distance. You may move in these increments. Once you have moved your maximum movement speed in one turn, you cannot move again until the start of your next turn. Moving 5ft counts against all your movement speeds. This means if you have 30ft movement and 15 flying, you may fly 15ft and walk 15ft, but you cannot walk 30ft and then fly 15ft.
 
 ## Checklist
 If you do every step on this list, your character is done.

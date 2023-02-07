@@ -1,85 +1,95 @@
 # Keeper info
-## Monsters
-Here are some basic stat blocks for monsters. Tweak and reflavor these before
-using. Ability scores are listed in an array. 
+## Running monsters
 
-### Humanoids
-Roll 1d10 + (2 * party level) to pick a random
+### Looting Monsters
+#### Weapons and Armor
+Roll a d6. On a 6, the item is intact. On a 4-5 the item is damaged and suffers a penalty(-1 for 5, -2 for 4) for AC, attack rolls, and damage rolls until repaired. On a 1-3, the item is scrap. In some situations, 6 scrap of the same item may be combined to craft one intact item. This may require tools and DEX or INT checks to succeed.
 
-#### Commoner, HP:4, AC:10, [10, 10, 10, 10, 10, 10], Pitchfork +0 1d6
-#### Thief, HP:6, AC:10, [10, 16, 10, 10, 12, 15], Knife +4 1d6+3
-#### Guard, HP:8, AC:10, [12, 12, 12, 10, 12, 10], Club +3 1d6+1
-#### Hunter, HP:8, AC:10, [12, 14, 12, 10, 14, 10], Bow +3 1d6+2
-#### Cultist, HP:4, AC:10, [12, 12, 10, 10, 10, 14], Dagger +0 1d6
-Spellcaster(+2, DC12). Pick 1 attack spell:
-1. Face melt: Target in sight WIS save or take 1d6 damage
-2. Weak: Target deals 1d4 less damage until cultist dies.
-3. Shadow Blade: +4 2d6+3 damage melee attack
-4. Green flame: 5ft cube of flame, DEX save or 1d6 damage when inside
-Pick 1 other spell
-1. Thorns: Thorny tentacles erupt from surfaces within sight in three 5ft cubes until the cultist dies or dismisses the effect. Standing in these space deals 1d4 damage.
-2. Ice floor: a 5ft square patch of a surface freezes over and becomes slippery for the next 8 hours. A creature must either spend double the normal paces to move over this surface, or succeed a DC 15 DEX save to avoid slipping and falling prone.
-3. Noxious cloud: an opaque cloud of green gas that fits in a 20ft cube appears. Creatures inside must succeed a CON save or take 1d6 damage at the start of their turn.
-4. Featherweight: You weigh 1 lb. and may jump 20ft into the air from a standing position.
+#### Parts
+If it's ambiguous, roll 4 or higher on a D6 to determine that a part(eyes, fangs, heart, etc) is intact and harvestable. Call for a DEX and INT check if surgical precision is needed to remove an internal organ intact, usually DC 11 or 12.
 
-#### Archer, HP:12, AC:10, [12, 16, 12, 10, 10, 10], Bow +3 1d6
-#### Soldier, HP:12, AC:12, [16, 12, 12, 10, 10, 10], sword +3 1d6
-#### Mercenary, HP:15, AC:15, [14, 12, 14, 11, 8, 9], Sword +3 1d6+2
-#### Brute, HP:30, AC:13, [18, 8, 18, 7, 7, 7], Great Club +6 2d6+4
-#### Knight, HP:4, AC:17, [18, 12, 14, 10, 10, 14], Lance +6 1d6+4
-- Leadership: Knight barks out orders and their subordinates gain a 1d4 bonus on attack rolls while the knight lives
-- Extra attack: Knight may make two attacks per turn.
+#### Gold
+If it's ambiguous what value of loot is on a creature, roll the creature's hit dice to determine a worth in either copper, silver, or gold pieces. Humanoids may have loose change and trinkets on them, while monsters will generally have valuable parts.
 
-#### Assassin, HP:4, AC:10, [10, 10, 10, 10, 10, 10], Dagger +4 1d6
-- Extra attacks: May make 3 dagger attacks with it's action
-- Assassinate: Attacking an enemy while hidden from them deals an additional 2d6 damage.
+## Creating Monsters
+To run this game, a keeper keeps track of a roster of monsters they may bring out. They can either prepare monster stat blocks ahead of time, or generate them. The keeper's guide will focus on monster creation. For a list of premade monsters, please see the monster guide.
 
-#### Priest, HP:4, AC:10, [12, 8, 14, 10, 16, 12], Mace +3 1d6+1
-Spellcaster(+4, DC14). Pick 1 spell attack
-1. Spiritual weapon: Glowing weapon flies and attacks with free object interaction, +5 2d6+2
-2. Holy Flame: Melee spell attack. Target is wreathed in radiant flames. 4d6 damage
-3. Guiding bolt: Ranged spell attack. Target takes 3d6 damage, and next attack has a +5 to hit until the end of this combat.
-4. Halo: Halo appears and erupts on your head. All creatures within 3 paces make DEX save to halve 2d6 damage. 
-Pick 1 other spell
-1. Aid: Target's HP and max HP raises by 5 until they complete a rest.
-2. Dispel curse: Lift one curse. Consumes one crystal or gem worth at least 100GP
-3. Blessing: Touch one creature. Before the next rest, creature may have a +10 on one roll of their choice.
-4. Angel wings: Touch one creature. It sprouts angelic wings and can fly until it completes a long rest.
+### Stat block explanation
+`Commoner, HD: 1d4, AC:10, Club 1d4`
+Each stat block is broken into multiple parts.
 
-#### Druid, HP:12, AC:10, [8, 12, 12, 12, 16, 8], Walking Stick +1 1d6-1
-Spellcaster(+4, DC14). Pick 1 spell attack
-1. Flame hand: 15 foot cone of flame erupts from your hand. Creatures in range make a DEX save to halve 3d6 damage.
-2. Lightning hand: Melee spell attack, 3d6 damage.
-3. Wind hand: 30ft cone, creatures must succeed a STR save or be pushed 15 feet, taking 1d6 damage if they collide with anything.
-4. Cloud of insects: Bugs descend on one target in range. Each turn, target may use an action to remove the insects, or take 1d4 damage.
-Pick 1 other spell:
-1. Wildshape: Turn into an animal of your choice until you dismiss this spell or fall to 0 hit points. When you change back, your previous hit points are preserved.
-2. Moon beam: A 30ft diameter circle is lit by the moon. At the start of your next turn, any creature inside takes 4d6 damage as the light burns them.
-3. Summon animals: Either 1 moose, 2 bears, 4 wolves, or 6 eagles show up to aid the druid for this combat.
-4. Command weather: Druid can cause the weather to be clear, thunderstorm, snowstorm, or strong winds.
+#### Hit dice(HD)
+You roll the dice specified to determine HP. Alternatively, you may take the average or maximum value.
+The number of dice determines the monster's base attack modifier.
+
+#### Armor and Armor Class (AC)
+This works just like armor class for player characters. 10+DEX+ARMOR is the formula you'll generally go for when coming up with an AC for a monster. High AC causes frequent misses, which you can describe as blows glancing off of armor or being expertly dodged. You may specify any armor in parentheses.
+
+### Attacks
+A name and damage dice are provided. Unless specified, the attack modifier is the number of hit dice. A 1d4 monster has +1 to hit, 2d4 has +2, etc.
+
+### Stat block base
+If you'd like to make your own stat blocks, here's some partially made stat blocks you can adapt.
+
+`Wimp, HD: 1d4, AC: 10, Club 1d4`
+`Adept, HD: 5d4, AC: 12, Dagger 1d4`
+`Expert, HD: 10d4, AC: 12, Staff 1d6`
+`Mook, HD: 3d6, AC: 11, Sword 1d6`
+`Bruiser, HD: 3d10, AC: 14(chainmail), sword 1d6`
+`Tank, HD: 3d20, AC: 11(natural), Greatsword 1d12`
+`Boss Monster, HD: 5d20, AC: 12(natural), Bite 1d12`
+`Legendary Monster, HD: 10d20, AC: 15(natural), Bite 1d12`
+
+### Martial Humanoids
+
+Roll for a stat block base 
+| D6  | Base    |
+|:----|:--------|
+| 1   | Wimp    |
+| 2-4 | Mook    |
+| 5   | Bruiser |
+| 6   | Tank    |
+
+Now roll for some weapons.
+| 1d6 | Weapons            |
+|:----|:-------------------|
+| 1   | Minor OR Ranged    |
+| 2   | Minor AND Ranged   |
+| 3   | Martial OR Ranged  |
+| 4   | Martial AND Ranged |
+| 5   | Great OR Ranged    |
+| 6   | Great AND Ranged   |
+
+Now roll for an ability.
+1. +5 bonus to pickpocketing
+2. Cammoflauge: DC15 WIS to spot when 100+ feet away and still.
+3. Sneak damage: Extra 1d6 damage when attacking while hidden
+4. Bag of Caltrops: Pour out over up to 5 5ft squares. DC 13 DEX save or 1d4 damage when moving over space.
+5. Shieldbearer: Gain tower shield(+4 AC), raise to provide cover to creatures behind.
+6. Thrower: Second attack with throwing minor weapons has no penalty.
+7. Brawler: +2 damage on unarmed. No penalty on second or third unamred attacks.
+8. Disarming strike(2 actions): on hit target succeeds DC14 STR save or drops held item. 
+9. Trip attack(2 actions): on hit, target is automatically knocked prone.
+10. Counter-strike: Once per round, may immediately attack a creature that targets them with a melee attack and misses.
+11. Horseback: Mount has separate actions, may attack with +3, d12 stomp attack.
+12. Dual wielder: use two melee weapons, no penalty on second attack. 
+13. Commander: Use action to maintain +2 attack bonus for allies.
+14. Sentinel: One free attack on creature entering or leaving range per round.
+15. Spellsword: Gain one spell from paladin spell list. See: Spell table
+16. Swordfighter: Gain sword. +3 attack bonus with it.
+17. Tough: Extra 10HP
+18. Battle cry: 1 action. Target makes DC 13 WIS save or your next attack this turn has a +3 bonus
+19. Roll again twice.
+20. Roll again thrice.
+
+
+### Magic-user humanoids
 
 #### Gladiator, HP:4, AC:16, [16, 16, 10, 10, 10, 10], Gladius +5 1d6+3, Spear +5 1d6+3
 - Blaze of glory: After reaching 0 hit points, gladiator makes free attack and then dies
 
 #### Paladin, HP:4, AC:10, [10, 10, 10, 10, 10, 10], Sword +0 1d6
 - Smite(2 uses per combat): An extra 1d6 damage on a hit.
-
-#### Warlock, HP:4, AC:10, [10, 10, 10, 10, 10, 10], Dagger +0 1d6
-Spellcaster(+4, DC14). Pick 1 offensive spell
-1. Eldritch blast: Crackling black energy. ranged spell attack, 1d12 damage
-2. Black tentacles: A portal opens, tentacles attack target. STR save to escape, can repeat at start of turn. 1d6 damage per turn.
-3. Demon Swarm: A portal opens, and 1d4+1 demons step out. They are loyal to no one.
-4. Silence: Every creature in sight makes a WIS save or becomes mute until the end of this combat
-Curse: Target succeeds a WIS save or is cursed. Curse can be repealed by warlock at will.
-1. Nightmares: When you attempt to take a rest, you must roll 4 or higher on 1d6 or else stay awake through the night.
-2. Spectral attaction: Ghosts will flock to you, intermittently howling and knocking objects over.
-3. Blight: Rests only heal up to half your hit points.
-4. Weakness: You have a -1d4 penalty on all rolls that rely on strength
-
-#### Illusionist, HP:4, AC:10, [10, 10, 10, 10, 10, 10], Staff +0 1d6
-#### Hell Knight, HP:4, AC:10, [10, 10, 10, 10, 10, 10], Infernal Claymore +0 1d6
-#### Red Mage, HP:4, AC:10, [10, 10, 10, 10, 10, 10], Staff +0 1d6
-#### Necromancer, HP:4, AC:10, [10, 10, 10, 10, 10, 10], Knife +0 1d6
 
 ### Monstrosities
 Roll 3d12 to generate a random monstrosity. Assign stats, one attack, and one
@@ -104,14 +114,8 @@ choose 3d4, 3d4+4, or 3d4+8 for a small group.
 |   12 | Shrieking     | Dagger    | Eye       |
 +------+---------------+-----------+-----------+
 ```
-Below are some examples.
-
-#### Long-fingered Dagger Beetle (8, 12, 1)
-#### Man-faced Ice Crawler (9, 2, 5)
-#### Shrieking Lightning Man (12, 3, 10)
 
 Below are some filled out examples
-
 
 `Instead of eyes, this centipede has long, spindly antennae`
 ### Eyeless Poison Centipede, HP:23, AC:14, climb 30ft, [16, 16, 14, 3, 12, 3]
@@ -194,11 +198,7 @@ accordingly.
 The 1d100 spell table in this section is partitioned into different sub-tables.
 
 ### Class spell lists
-You can use these spell lists to populate NPCs, monsters, spellbooks/spellscrolls,
-or as rewards for player characters. Offense spells are generally damage-dealing,
-whereas utility spells provide some non-damaging effect. Power spells are those
-posessed only by the higher level members of that particular class. If you want
-to roll for all three categories, use the "any" collumn.
+You can use these spell lists to populate NPCs, monsters, spellbooks/spellscrolls, or as rewards for player characters. Offense spells are generally damage-dealing, whereas utility spells provide some non-damaging effect. Power spells are those posessed only by the higher level members of that particular class. If you want to roll for all three categories, use the "any" collumn.
 
 ```
 +-------------+---------+---------+---------+-----------+
