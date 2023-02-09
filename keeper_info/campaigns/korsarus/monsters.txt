@@ -74,27 +74,6 @@ Dwarf Giants
 
 
 
-
-Slime(Any) + Dire Wolf
-Rotheads + Manface silkworm
-Sentinel + Giant Leech
-Flesh Eaters + Muckbeast
-Bandit(any) + Floating Eye
-Skeletons + Bone Thresher
-Rotheads + Giant Ant
-Skeletons + Regret
-Leech Man + Chameleoid
-Skeletons + Fey Guardian
-Zombie + Giant Crab
-Flesh Eaters + Mind Leech
-Flesh Eaters + Pincer Beast
-Leech Man + Breath Skull
-Soldier (any) + Invisible Skulker
-Cultists(Any) + Sand Guardian
-Flesh Eaters + Abyssal Giant
-Tentacle Beast + Fey Guardian
-Dwarf Giants + Spindle Man
-Tentacle Beast + Dire Wolf
 Cultists(Any) + Giant Ant
 Shroom People + Pincer Beast
 Vampire + Shadow

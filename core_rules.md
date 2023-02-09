@@ -585,13 +585,13 @@ Net: Creatures large or smaller are restrained when hit by a net until freed. Br
 | Hide            | 10 gp    | 12 + Dex modifier (max 2) | —        | —            | 12 lb. |
 | Chain shirt     | 50 gp    | 13 + Dex modifier (max 2) | —        | —            | 20 lb. |
 | Scale mail      | 50 gp    | 14 + Dex modifier (max 2) | —        | Disadvantage | 45 lb. |
-| Breastplate     | 400 gp   | 14 + Dex modifier (max 2) | —        | —            | 20 lb. |
-| Half plate      | 750 gp   | 15 + Dex modifier (max 2) | —        | Disadvantage | 40 lb. |
+| Breastplate     | 175 gp   | 14 + Dex modifier (max 2) | —        | —            | 20 lb. |
+| Half plate      | 375 gp   | 15 + Dex modifier (max 2) | —        | Disadvantage | 40 lb. |
 | Heavy Armor     |          |                           |          |              |        |
 | Ring mail       | 30 gp    | 14                        | —        | Disadvantage | 40 lb. |
 | Chain mail      | 75 gp    | 16                        | Str 13   | Disadvantage | 55 lb. |
 | Splint          | 200 gp   | 17                        | Str 15   | Disadvantage | 60 lb. |
-| Plate           | 1,500 gp | 18                        | Str 15   | Disadvantage | 65 lb. |
+| Plate           | 750 gp   | 18                        | Str 15   | Disadvantage | 65 lb. |
 | Shield          | 10 gp    | +2                        | —        | —            | 6 lb.  |
 
 #### Putting on and taking off armor

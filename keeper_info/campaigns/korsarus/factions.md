@@ -11,6 +11,9 @@ In control of Korsarus City, Thiersgar, and the constellation of villages immedi
 - Crush the thieves' guild
 - Destroy the rebel bases
 
+### NPCs
+- King
+
 ## Thieves' Guild
 The thieves' guild is home to those stealing for profit, and those who wish to steal from the rich and give to the poor.
 
@@ -22,7 +25,7 @@ The thieves' guild is home to those stealing for profit, and those who wish to s
 - Infiltrate the Omarian government with thieves
 
 ## The rebels
-The rebels are committed to the cause of liberating the villages under Omarian control, freeing them from paying tribute and allowing them to exist indepdendently. The rebels are organized by wildfolk, but have allies and comrades from many cultures.
+The rebels are a broad coalition with a militant core of wildfolk who are committed to the cause of liberating the villages under Omarian control, freeing them from paying tribute, and allowing them to exist indepdendently.
 
 ### Goals
 - Establish base in North East
@@ -38,3 +41,7 @@ The silent order are a shadowy organization run by Silent in Arcanus. Their goal
 - Prevent Omaria from acquiring Titan weapons technology
 - Prevent air travel and long distance gateways from being established
 - Uncover all secret projects Omaria is working on
+
+## The adventurer's guild
+The Omarian government will grant a certain level of legal and tax leniency to adventurers who organize under a single, centralized guild.
+The first adventurer to reach level 3 will be contacted by the prince
