@@ -72,7 +72,10 @@ Prof = proficiency bonus
 ## Feats
 
 ### Divine Spellcasting
-You've learned to call upon the power of a deity. Wisdom is your spellcasting ability. You learn two cantrips Your spell DC (difficulty class) is 8+proficiency bonus + wisdom modifier. Your spell attack modifier is proficiency bonus + wisdom modifier.
+You've learned to call upon the power of a deity. Wisdom is your spellcasting 
+ability. You learn two cantrips Your spell DC (difficulty class) is 
+8+proficiency bonus + wisdom modifier. Your spell attack modifier is proficiency
+bonus + wisdom modifier.
 
 ```
 |:------------|:------------|
@@ -88,10 +91,17 @@ You've learned to call upon the power of a deity. Wisdom is your spellcasting ab
 ```
 
 #### Preparing Spells
-Before you sleep at night, you may perform a prayer to request a number of spells equal to half your diviner level (rounded down) plus your wisdom modifier,  minimum of one spell. You may select these spells from the  diviner spell list, and they must be first level or higher. You may only cast spells that you have prepared.
+Before you sleep at night, you may perform a prayer to request a number of 
+spells equal to half your diviner level (rounded down) plus your wisdom 
+modifier,  minimum of one spell. You may select these spells from the  diviner
+spell list, and they must be first level or higher. You may only cast spells 
+that you have prepared.
 
 #### Piety
-A deity provides your source of magic, and so your fuel for spellcasting is piety. Your actions are judged, providing and revoking piety. If your balance of piety ever falls below zero, you lose all all divine spellcasting and magical abilities. You cannot cast a spell if you do not have enough piety to do so.
+A deity provides your source of magic, and so your fuel for spellcasting is 
+piety. Your actions are judged, providing and revoking piety. If your balance 
+of piety ever falls below zero, you lose all all divine spellcasting and magical 
+abilities. You cannot cast a spell if you do not have enough piety to do so.
 
 |            Good Acts              | Piety Gained |
 |:----------------------------------|:-------------|
@@ -119,7 +129,9 @@ A deity provides your source of magic, and so your fuel for spellcasting is piet
 
 
 ### Deity
-You have earned enough trust from you deity to access their special reserve of spells. With this trust, you will be responsible for abstaining from forbidden acts. Domain spells do not count against the number of spells you may prepare.
+You have earned enough trust from you deity to access their special reserve of 
+spells. With this trust, you will be responsible for abstaining from forbidden 
+acts. Domain spells do not count against the number of spells you may prepare.
 
 |  Divine|     Honorable Act    |     Forbidden Act      |                Spells                  |
 |:-------|:---------------------|:-----------------------|:---------------------------------------|
@@ -145,8 +157,9 @@ points. Roll 3d4 and add your CON modifier three times. If the value rolled is
 higher than your current max hit points, you may keep it.
 
 ### Channel Divinity
-As the discipline in your domain grows solid, your deity offers up a domain-specific ability.
-Using channel divinity uses an action and expends 5 stamina dice.
+As the discipline in your domain grows solid, your deity offers up a 
+domain-specific ability. Using channel divinity uses an action and expends 
+5 stamina dice.
 
 #### Holy Light (Solus)
 You outstretch your arms and a 60 foot diameter cylinder that extends from the  sky to your feet illuminates it's space as if in bright daylight. The light crosses through solid objects and may penetrate into subterranean spaces. Creatures cannot hide within the light, and invisible creatures become visible. Any friendly creatures within the light are immune to necrotic damage and any enemy creatures within the light are vulnerable to radiant damage. The light lasts for 1 minute.

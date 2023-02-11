@@ -507,6 +507,15 @@ save or else receive 1d4 psychic damage and have disadvantage on the next attack
 roll before the end of it's next turn.
 ```
 
+```
+Leech (cantrip)
+Casting Speed: 1 action
+Distance: 60 feet
+Duration: Instantaneous
+You point at one creature, making a ranged spell attack at them. on a hit the
+target takes 1d6 necrotic damage and you regain 1d4 hitpoints. This spell has no
+effect on constructs and undead.
+```
 ## 1st level spells
 
 ```
@@ -2361,7 +2370,19 @@ ground in front of you, completely obscuring your form. The shield becomes the
 target of the attack. The sheet has an AC of 16 and 15HP.
 ```
 
+```
+Wither (2nd)
+Casting Speed: 1 Action
+Distance: self
+Duration: Instantaneous
+a 20ft sphere drains all the energy from the life centered around yourself, 
+returning it to you as temporary vitality. All creatures within the effected 
+area are forced to make a CON save to halve 2d6 necrotic damage. you regain 
+half the total damage dealt to all creatures as temporary hitpoints.
+```
+
 ## 3rd level spells
+
 
 ```
 Wind Wall (3rd)
@@ -3513,6 +3534,7 @@ Your convert your thoughts into powerful telekinetic energy, and may perform one
 - Exert fine control over an object, such as opening a door, writing a letter, or pouring the contents of a tankard.
 ```
 
+
 ## 5th level spells
 
 ```
@@ -3868,6 +3890,17 @@ Duration: 1 hour
 You draw a 10ft diameter circle of runes which spell out the true name of a plane of existence. For the duration, the space of the circle opens into a gate between your current plane and the next, and the glowing runes leave the ground and are sucked into the portal. You may end this spell early by dismissing it with an action. You may additionally use an action to fill in missing runes, extending the duration of the spell by 1 hour.
 ```
 
+```
+Disintegrate (5th)
+Casting Speed: 1 action
+Distance: 60 feet
+Duration: Instantaneous
+You point your finger at one creature within 60 feet of you, this creature is
+forced to make a Consitution saving throw to halve 10d4 + 30 Damage. If a 
+creature is reduced to 0 Hitpoints by this spell they are instantly turned into
+dust.
+```
+
 ## 6th level spells
 
 ```
@@ -3900,4 +3933,15 @@ will continue to exist. You are now unbound by previous timelines.
 | 1-2  | Earlier   |
 | 3-4  | Later     |
 +------+-----------+
+```
+
+```
+Longevity (6th)
+Casting speed: 10 minutes
+Distance: self
+Duration: instantaneous
+Every humanoid within a 1 mile radius of you must make a constitution saving
+throw against your spellcasting DC, on a fail they are instantly killed. Every
+Creature that is killed is a year added to your lifespan regardless of any
+external factors.
 ```
