@@ -318,6 +318,7 @@ of your choice by 1. You cannot increase an ability score past 20.
 - Synaptic Static
 - Contagion
 - Dispel Evil and Good
+- Raise Dead
 - Scrying
 - Raise Undead Horde
 - Chain Lightning
