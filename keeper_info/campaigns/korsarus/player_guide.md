@@ -1,4 +1,23 @@
 # Quickstart Guide
+## What kind of campaign is this?
+
+### The original character
+In some campaigns, each player takes a few hours or days crafting and refining a fleshed-out character with a backstory that can be woven into the narrative of the campaign. Let's call these original characters, or OCs. OCs offer players a great deal of creative freedom to express their character concepts. An OC might have a gimmic like using a teapot to cast their spells, be an incarnation of a character from a book/anime/cartoon, or act as a self-insert that uniquely represents the player's identity. These characters can have a pre-destined "character arc", or a series of changes in the character that will provide dramatic tension across a linear campaign.  For the Korsarus campaign, we won't be bringing fully-formed characters like this to insert into the world.
+
+### Why not OCs?
+There are a few reasons why OCs aren't a good fit for this campaign:
+- Tone clash: Your pigfolk character named "Kris P. Bacon" is silly and delightful. That said, the intent for this campaign is a mundane/boring/believable baseline that gives room for a range of horror/comedy/absurdity/wonder/drama to unfold depending on what happens.
+- Worldbuilding: A lot of the world is shrouded in mystery, and that leaves little material to create fully fleshed-out backstories whole cloth.
+- Investment: players are attached to their OCs before they arrive at the table, making any legitimate danger seem more punishing.
+- Homework: An OC is made by a single author alone. This prevents the rest of the table from participating or getting invested in the your character. 
+
+### The discovered character
+So what do we do instead?
+- Simple concept: A profession and a reason for adventuring will get you a lot further than you may suspect.
+- Use the table: Can't think of a detail? Relate your character with the others. 
+- Play your backstory: Is your character a blank slate? Good. Let's fill it up with some formative experiences. Let your first few relationships and hard decisions define your character. If you and a group are feeling adventurous, ask to play in a starter session, a high-stakes and dramatically intense scenario that will result in particularly exotic backstories.
+
+
 
 ## Your first character
 Your first character starts as a Commoner from the Soot culture. This will get you into the action quickly. As you interact with the world, you'll unlock new classes, cultures, and other character options. When you unlock your first class, you may immediately give them a level in this class and update their ability scores using the rules described in the `Your other characters` section.
@@ -17,9 +36,16 @@ You were born and raised in the filthy slums of the copper ring of Korsarus City
 
 ![Korsarus City](https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/keeper_info/campaigns/korsarus/korsarus_city.png "Korsarus City")
 
+### Your name
+Follow this process and you'll get a proper Soot name.
+1. Think up words that describe your character's job or appearance. An older dairy farmer might have: cow, rain, bowl, and beard.
+2. Stick them together in one word. Example: Cowrainbowlbeard
+3. Strategically slice off some syllables. Coanboward
+4. Slice it into a first and last name. Coan Boward
+
 ### Your stat block
 To get you started quickly, don't worry about building a stat block. A stat block has been provided below.
-You can use Blubot's `/character update` command and use this stat block to create a character. You might want to change the name from "Fresh Meat", though.
+You can use Blubot's `/character update` command and use this stat block to create a character. You'll want to change the name from "Fresh Meat", though.
 ```
 {
 "name": "Fresh Meat",
@@ -68,7 +94,7 @@ Add a comment to `#characters` with your character name. Then create a thread fo
 - `/status stamina` change the number of stamina dice you have. Positive adds, negative substracts.
 
 ## Your other characters
-After you've made your first character, you'll generate ability scores, choose a culture, and then choose a class.
+After you've made your first character, you'll generate ability scores, choose a culture, and then choose a class. Ask, and you can get help generating names for other cultures.
 
 ### Ability Scores
 You get a choice. You can either use the standard array, or roll scores.

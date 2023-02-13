@@ -170,163 +170,293 @@ Every Fey Wild domain has a gate where the fey gather in the material plane. Com
 Over time and space, a few languages have emerged in Crucible.
 
 ## Celestial
-Language of the celestials. Celestials speak slowly and clearly when using this language, emphasizing individual vowels. Using this language fills the air with the essence of the celestials, which may attact celestials when used to plea, or may bring painf to the ears of fiends and undead. A non-celestial that speaks the language opens themselves to the judgement of celestials, who may seek to slay evil-doers who abuse their sacred tongue. Examples of traditional celestial names.
-- Dhorak
-- Sarraph
-- Sholoram
-- Zizurarek
-- Hisamph
-- Phunuriel
-- Charkarak
-- Garahad
-- Luminen
-- Hoardic
+Language of the celestials. Celestials speak slowly and clearly when using this language, emphasizing individual vowels. Using this language fills the air with the essence of the celestials, which may attact celestials when used to plea, or may bring painf to the ears of fiends and undead. A non-celestial that speaks the language opens themselves to the judgement of celestials, who may seek to slay evil-doers who abuse their sacred tongue. Mortals may not bare celestial names, so they are instead given virtues.
+How to make a celestial name:
+1. Come up with a virtue(Truth)
+
+Example Names:
+- Truth
+- Patience
+- Love
+- Hope
+- Freedom
+- Sobriety
+- Serenity
+- Faith
+- Reconciliation
+- Integrity
 
 
 ## Infernal
-This language is staccatto with complex sounds. When one speaks infernal, they become a point of infernal scrying and invite the attention of devil scribes, who are frequently listening for this very thing with a magical sensitivity from the safety of Hell, and who sell their scrying services to other devils. Infernal runes scrawled on surfaces likewise creates scrying points and acts as magnets for wayward devils in the material plane to come and bask in the infernal energy the runes provide. As such, it is strictly forbidden to speak or write infernal in most cities for fear of infernal visitation. Infernal runes glow in the presence of strong infernal energy, such as a devil or curse magic. While carrying runes may invite devils, it may likewise be used to sense their presence, making it a valuable tool for fiend hunters.
-- Tchatrakruta
-- S'mirakezza
-- Perzoforatrahez
-- Mikolechez
-- Zizzora
-- 
-- 
-- 
-- 
-- 
+This language is staccatto with complex sounds. When one speaks infernal, they become a point of infernal scrying and invite the attention of devil scribes, who are frequently listening for this very thing with a magical sensitivity from the safety of Hell, and who sell their scrying services to other devils. Infernal runes scrawled on surfaces likewise creates scrying points and acts as magnets for wayward devils in the material plane to come and bask in the infernal energy the runes provide. As such, it is strictly forbidden to speak or write infernal in most cities for fear of infernal visitation. Infernal runes glow in the presence of strong infernal energy, such as a devil or curse magic. While carrying runes may invite devils, it may likewise be used to sense their presence, making it a valuable tool for fiend hunters. 
+To make an infernal name:
+1. Use evil_name_gen_2.py for a base
+2. Shorten into chunks
+3. Omit syllables and add apostrophes
 
+Example Names:
+- Ios
+- Ifrair H'fuaa
+- Sp'zzzmoza I'sczcach
+- Zzzzewz
+- Azoruo
+- Oosoofl
+- Azsasa Zipuz
+- Shas
+- Osrau F'olsoai
+- Tjahhmti
 
 ## Abyssal
-Abyssal is a language of chaos. Native speakers swing between harsh and soft tones, with certain phrases being quite terse, while others rolling and trilling. To speak abyssal is to charge the air with abyssal energy. This generally increases the odds of abyssal corruption, and so the handful of Abyssal words that non-abyssal speakers pick up are referred to as curse words, and laws tend to prohibit their use for the general safety of the people.
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+Abyssal is a language of chaos. Native speakers swing between harsh and soft tones, with certain phrases being quite terse, while others rolling and trilling. To speak abyssal is to charge the air with abyssal energy. This generally increases the odds of abyssal corruption, and so the handful of Abyssal words that non-abyssal speakers pick up are referred to as curse words, and laws tend to prohibit their use for the general safety of the people. 
+To make an abyssal name:
+1. Use evil_name_gen_2.py for a base
+2. Find the best 4-6 character segment.
+3. Add letters to taste
+
+Example Names:
+- Iosa
+- Zifrairo
+- Mozaister
+- Zewzrin
+- Azortiz
+- Oosozo
+- Zisasfo
+- Shasfor
+- Kosrat
+- Hetchaket
 
 
 ## Giant
-The language of humans who feasted on the bones of the fallen gods and became giants. This tongue is a simple one, having very few words and very simple grammatical structure in general form of `<subject><verb>[object][adjective]`. The language makes little room for clearly defined abstractions, and is heavily dependent upon context to effectively communicate ideas. Giant is one of the simplest and easiest languages to learn, but is often ignored by most humanoids due to their sparing contact with true giants. The simple nature of the giant language allows it to easily be recorded by strings of beads on tassles, where each bead's color and shape correlates to a word or punctuation. Giants of great renoun wear garments with beads telling the stories of their accomplishments, and giants construct signs using with stacks of carved stones taking the place of beads. These signs may tell of nearby water, warn of dangers, or stake claim to the land.
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+The language of humans who feasted on the bones of the fallen gods and became giants. This tongue is a simple one, having very few words and very simple grammatical structure in general form of `<subject><verb>[object][adjective]`. The language makes little room for clearly defined abstractions, and is heavily dependent upon context to effectively communicate ideas. Giant is one of the simplest and easiest languages to learn, but is often ignored by most humanoids due to their sparing contact with true giants. The simple nature of the giant language allows it to easily be recorded by strings of beads on tassles, where each bead's color and shape correlates to a word or punctuation. Giants of great renoun wear garments with beads telling the stories of their accomplishments, and giants construct signs using with stacks of carved stones taking the place of beads. These signs may tell of nearby water, warn of dangers, or stake claim to the land. 
+To make a giant name:
+1. Combine three simple nouns. bird fire wind -> birdfirewind
+2. Swap out some syllables or sections with: "gar", "ba", "blor", "gro", "gur", "kru", "kur", "pru", and "flu". birbafigarwingro
+3. Pick a chunk of that which really grabs you.  Birbafig
+
+Example Names:
+- Birbafig
+- Sblornew
+- Gurgroe
+- Blorndbare
+- Grortgrod
+- Bardguba
+- Bavernose
+- Blorckruck
+- Gurbbait
+- Krurdblorx
 
 ## Draconic
-The language of the lizards which gained strength, cunning, and magic after feasting on the marrow of the bones of the fallen gods, becoming dragons. In the age of dragons, this language spread as the only means to speak with the world's rulers. The language is spoken by dragons with great patience, smoothely rolling over syllables and reaching punctuation with crisp glottal stops. Many texts from the age of dragons are written in draconic.
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+The language of the lizards which gained strength, cunning, and magic after feasting on the marrow of the bones of the fallen gods, becoming dragons. In the age of dragons, this language spread as the only means to speak with the world's rulers. The language is spoken by dragons with great patience, smoothely rolling over syllables and reaching punctuation with crisp glottal stops. Many texts from the age of dragons are written in draconic. 
+How to make a dragon name:
+1. List elemental or dragon words: Ice scale tooth claw
+2. Do one of the following:
+  a. Combine the first two, fuse the last two: Iscacele Toothclaw
+  b. Take first, last, first, last syllables: Iceletoaw
+  c. Combine three words together and snip some bits: Itoscoth 
+Example Names:
+- Zeefirbla Emberburn 
+- Iceowcloth
+- Capenug
+- Dacolveissid  Singemelt
+- Broangscaaw
+- Wininbrath
+- Cladthurnep Rumblehorn
+- Forafbaar
+- Lishpaark
+- Dreackday Sporesap
 
 ## Fey
-The language of the fey is charged with fey magic. Speaking it may inadvertently invoke magic, making it very dangerous for non-fey to use. When the fey speak an agreement, it is often bound by the language itself, rather than by the power of the individual. For this reason, fey magic is a matter of articulation more than an exertion of one's energy, meaning that the smallest and weakest fey may wield it's power as readily as the arch fey, provided they are skilled enough. The language is spoken with long words that are generally soft and smoothe, but this calm is frequently textured with crisp fricatives.
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+The language of the fey is charged with fey magic. Speaking it may inadvertently invoke magic, making it very dangerous for non-fey to use. When the fey speak an agreement, it is often bound by the language itself, rather than by the power of the individual. For this reason, fey magic is a matter of articulation more than an exertion of one's energy, meaning that the smallest and weakest fey may wield it's power as readily as the arch fey, provided they are skilled enough. The language is spoken with long words that are generally soft and smoothe, but this calm is frequently textured with crisp fricatives. 
+To make a fey name:
+1. List some cool fey-sounding words. Prickle, fickle, leaf, curl
+2. Pick one(Fickle) and either: 
+    a. mix with another: Fickprickle
+    b. repeat it Ficklefickle
+    c. Jumble it up: Fiklec
+    d. Combine the first syllables: Pricufilea
+Example Names:
+- Delcor
+- Bugbug
+- Skelpec
+- Daglispriti
+- Glithottern
+- Greengreen
+- Bomosols
+- Towicrotho
+- Falsumer  
+- Chuncr
 
 ## Beast Tongue
-Beast tongue arose among the beast folk after their creation by Uaos. The language consists of chaining consonant-vowel pairs to make words. Though there are many homophones, the language uses syllables that can easily be spoken by those with beaks and long snouts. The written language consists of hieroglyphics, where each symbol is intended to be visibly intelligible even by those who do not know beast tongue. Beast tongue writing is often accompanied with carvings and paintings meant to communicate more complex information such as the appearance of an indivual, or more complex emotions. Though the written language is easily understood and used, abstract concepts are portrayed with allusions to the religion of Uaos, and may be difficult to understand for those unfamiliar with the faith.
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+Beast tongue arose among the beast folk after their creation by Uaos. The language consists of chaining consonant-vowel pairs to make words. Though there are many homophones, the language uses syllables that can easily be spoken by those with beaks and long snouts. The "t" sound can be made with a tongue click against the soft pallate for folk lacking eye teeth. The written language consists of hieroglyphics, where each symbol is intended to be visibly intelligible even by those who do not know beast tongue. Beast tongue writing is often accompanied with carvings and paintings meant to communicate more complex information such as the appearance of an indivual, or more complex emotions. Though the written language is easily understood and used, abstract concepts are portrayed with allusions to the religion of Uaos, and may be difficult to understand for those unfamiliar with the faith. 
+ah ee ay oh oo ih
+```
++-----------------------------------+
+| Beast Tongue Characters           |
++-----------------------------------+
+| gah | gee | gay | goh | goo | gih |
+| kah | kee | kay | koh | koo | kih |
+| tah | tee | tay | toh | too | tih |
+| hah | hee | hay | hoh | hoo | hih |
+| nah | nee | nay | noh | noo | nih |
+| lah | lee | lay | loh | loo | lih |
++-----+-----+-----+-----+-----+-----+
+```
+
+To make a beast tongue name:
+1. Roll 1d4+2 to determine how many beast tongue characters are in your name.
+2. Roll 2d6, one for consonant, and one for vowel. This is your first character.
+```
++----+-----------+-------+
+| d6 | consonant | vowel |
++----+-----------+-------+
+|  1 | g         | ah    |
+|  2 | k         | ee    |
+|  3 | t         | ay    |
+|  4 | h         | oh    |
+|  5 | n         | oo    |
+|  6 | l         | ih    |
++----+-----------+-------+
+```
+3. Return to step 2 until you've created all your characters.
+
+Example Names:
+- Nihlayteegeeloo (Nihlay)
+- Teegihneetay (Teegih)
+- Lohteelihkahhay (Lohtee)
+- Kayteetoo
+- Hahhayhahkihnohgah (Hahay)
+- Kohteelookahnoh (Kohtee)
+- Heetootoogoh (Heetoo)
+- Laynookahnahleetah (Laynoo)
+- Nohnihtoogeelohkee
+- Leelahnah
 
 ## Primordial
-This is the language the first humans spoke when they were created by Bimros. The language is made from a small vocabulary of simple nouns and descriptors, which are fused together to make more complex and specific words. The more detailed a word is, the more constituent words it contains. For instance, one might say 'dog' to refer to any dog, or might say 'dogfriendsheep' to describe a domesticated sheep dog, or even 'dogguardstrongfangold' to describe their beloved pet guard dog. Names in primordial are descriptors, and may change over the course of an individual's lifetime to reflect how the individual changes. Rather than shortening the constituent words within a name, primordials often used the most unique constituents in a name. For instance 'manhuntlongfangwhitehair' might go by 'huntfang', 'manfang', 'longwhite', or any other combination that's unique in their community. The language is incredibly clunky and inefficient for communicating large amounts of information or complex ideas, and so other languages were made to replace it.
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+This is the language the first humans spoke when they were created by Bimros. The language is made from a small vocabulary of simple nouns and descriptors, which are fused together to make more complex and specific words. The more detailed a word is, the more constituent words it contains. For instance, one might say 'dog' to refer to any dog, or might say 'dogfriendsheep' to describe a domesticated sheep dog, or even 'dogguardstrongfangold' to describe their beloved pet guard dog. Names in primordial are descriptors, and may change over the course of an individual's lifetime to reflect how the individual changes. Rather than shortening the constituent words within a name, primordials often used the most unique constituents in a name. For instance 'manhuntlongfangwhitehair' might go by 'huntfang', 'manfang', 'longwhite', or any other combination that's unique in their community. The language is incredibly clunky and inefficient for communicating large amounts of information or complex ideas, and so other languages were made to replace it. 
+To create a primordial name:
+1. Think up four or five words that describe your character's job and appearance. Example: Tree axe river stick
+2. Combine them to make your full name. Each full name in a family differs by one word. Example: Treeaxeriverstick
+3. Pick two of the words to make your street name. Example: Treeaxe
+4. Pick one of those two words to make your short name. Example: Axe
+
+Example Names:
+- Treeaxeriverstick, Treeaxe, or Tree
+- Sheepfriendwoolman, Sheepfriend, or Sheep
+- Tallbirdneckbreak, Neckbreak, or Neck
+- Coinbookrobehand, Coinbook, or Coin
+- Stonespearleatherarm, Leatherarm, or Leather
+- Housegoldricestar, Housegold, or Gold
+- Fruitsweetsmileeye, Sweetsmile, or Sweet
+- Manfirestonesharp, Stonesharp, or Sharp
+- Cowrainbowlbeard, Cowrain, or Rain
+- Birdeggfirehair, or Eggfire, or Egg
 
 ## Metal Tongue
-The first language diverging from primordial, metal tongue was made by isolated communities of miners, and is considered a sacred language among the bronzehammer culture. It's vocabulary is more refined, and contains words that mostly apply to a miner's lifestyle. It has two written character sets, one for metal tongue words, and one for cognates. Native speakers denote cognates by pronouncing them harshly and with emphasis on hard consonants, hard vowels, and fricatives. The core language almost never has words more than four syllables long.
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+The first language diverging from primordial, metal tongue was made by isolated communities of miners, and is considered a sacred language among the bronzehammer culture. It's vocabulary is more refined, and contains words that mostly apply to a miner's lifestyle. It has two written character sets, one for metal tongue words, and one for cognates. Native speakers denote cognates by pronouncing them harshly and with emphasis on hard consonants, hard vowels, and fricatives. The core language almost never has words more than four syllables long. 
+To make a metal tongue name:
+1. Create a primordial short name. Example: Axe
+2. Add a hard consonant(hK, t, tch, ck, x, rt) to the end to make your first name. Replace an existing consonant or add another vowel if needed. Example: Axek
+3. Combine two of the following in any order to make a last name(Example: Anvilbloom):
+- Metalworking object(iron, charcoal, coke, anvil, copper, hammer, hardy, flux, pickle, quenchant, quill, pritchell)
+- Metalworking adjective(bright, hot, strong, soft, smoothe)
+- Metalworking verb(work, anneal, bellow, bloom, blow, blue, rust, polish, brown, cast, smith, harden, forge, temper, weld)
+4. Combine to make a first and last name. Example: Axek Anvilbloom
+
+Example Names:
+- Axek Anvilbloom
+- Sheehk Hardybrown
+- Neck Ironblow
+- Coirt Softbellow
+- Leathert Hotrust
+- Goldak Rusthammer
+- Sweetch Charcoalpolish
+- Sharx Smoothework
+- Raihk Tempercoke
+- Eggirt Picklebloom
 
 ## Mercantile
 This language was made by combining syllables of common Primordial words to make a more condensed vocabulary. Homophones are common and names are generally descriptive when given. As a language used primarily by sailors visiting primordial-speaking lands, Mercantile is often looked down upon not as it's own language, but as badly spoken Primordial. It is spoken with drawn out, trailing words that sharply twist into stoccatto syllable clusters. The language is thick with slang, often deliberately used to speak among Primordial speakers without being understood.
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+
+To make a mercantile name:
+1. Think up four or five words that describe your character's job or appearance. An older dairy farmer might have: cow, rain, bowl, and beard.
+2. Stick them together in one word. Example: Cowrainbowlbeard
+3. Strategically slice off some syllables. Coanboward
+4. Slice it into a first and last name. Coan Boward
+
+Example Names:
+- Treax Rivstick
+- Shepfren Wolmin
+- Talbir Nekbrek
+- Conbok Roband
+- Stonper Latharm
+- Husgol Ristar
+- Fritswet Smeye
+- Mafir Stesha
+- Coan Boward
+- Birgg Firir
 
 ## Titan
-Another language reserved for overlords and their followers, the Titan was engineered to contain magical properties. The radiant order sought out and purged the speakers of this language, meaning that the manner of it's speech has largely been lost to time. Some among the silent order retain knowledge handed down from the Titan wars of pronouncing certain Titan words, but lack tongues to wield it themselves. The written Titan language is based upon strings of binary values. Titan has multiple character sets, witch each set containing characters that represent a certain number of bits. Characters in broad Titan contains eight bits, or one byte, and is used to portray words in common use. Characters in Fine Titan contain 256 bits, or 32 bytes, and are used to make words representing true names in great detail. Properly speaking Fine Titan channels magical energy through the speaker's words, but is a dead art. Fine Titan's other use is in it's written form, as each character has a shaping effect of magic. It can be used as a magical programming language, and is turing complete in this context. Microscopic Fine Titan instructions are written on wafer-thin sheets, which are then layered together to form blocks. Part of creating these blocks involves annealing these wafers together into one continuous piece of matereal, making repairing or reverse-engineering this technology a hopeless endeavor. After the Titan factories and libraries were destroyed, many machines using Fine Titan became lost tech, artifacts that mark the exact last instances of the technology in question.
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+Another language reserved for overlords and their followers, the Titan was engineered to contain magical properties. The radiant order sought out and purged the speakers of this language, meaning that the manner of it's speech has largely been lost to time. Some among the silent order retain knowledge handed down from the Titan wars of pronouncing certain Titan words, but lack tongues to wield it themselves. The written Titan language is based upon strings of binary values. Titan has multiple character sets, witch each set containing characters that represent a certain number of bits. Characters in coarse Titan contains eight bits, or one byte, and is used to portray words in common use. Characters in Fine Titan contain 256 bits, or 32 bytes, and are used to make words representing true names in great detail. Properly speaking Fine Titan channels magical energy through the speaker's words, but is a dead art. Fine Titan's other use is in it's written form, as each character has a shaping effect of magic. It can be used as a magical programming language, and is turing complete in this context. Microscopic Fine Titan instructions are written on wafer-thin sheets, which are then layered together to form blocks. Part of creating these blocks involves annealing these wafers together into one continuous piece of matereal, making repairing or reverse-engineering this technology a hopeless endeavor. After the Titan factories and libraries were destroyed, many machines using Fine Titan became lost tech, artifacts that mark the exact last instances of the technology in question. 
+
+### Coarse Titan
+```
++-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| bah   | bay   | bai   | bee   | beh   | bih   | boo   | boh   | bao   | buh   | beo   | beu   |
+| kah   | kay   | kai   | kee   | keh   | kih   | koo   | koh   | kao   | kuh   | keo   | keu   |
+| dah   | day   | dai   | dee   | deh   | dih   | doo   | doh   | dao   | duh   | deo   | deu   |
+| fah   | fay   | fai   | fee   | feh   | fih   | foo   | foh   | fao   | fuh   | feo   | feu   |
+| gah   | gay   | gai   | gee   | geh   | gih   | goo   | goh   | gao   | guh   | geo   | geu   |
+| hah   | hay   | hai   | hee   | heh   | hih   | hoo   | hoh   | hao   | huh   | heo   | heu   |
+| jah   | jay   | jai   | jee   | jeh   | jih   | joo   | joh   | jao   | juh   | jeo   | jeu   |
+| lah   | lay   | lai   | lee   | leh   | lih   | loo   | loh   | lao   | luh   | leo   | leu   |
+| mah   | may   | mai   | mee   | meh   | mih   | moo   | moh   | mao   | muh   | meo   | meu   |
+| nah   | nay   | nai   | nee   | neh   | nih   | noo   | noh   | nao   | nuh   | neo   | neu   |
+| pah   | pay   | pai   | pee   | peh   | pih   | poo   | poh   | pao   | puh   | peo   | peu   |
+| rah   | ray   | rai   | ree   | reh   | rih   | roo   | roh   | rao   | ruh   | reo   | reu   |
+| sah   | say   | sai   | see   | seh   | sih   | soo   | soh   | sao   | suh   | seo   | seu   |
+| tah   | tay   | tai   | tee   | teh   | tih   | too   | toh   | tao   | tuh   | teo   | teu   |
+| vah   | vay   | vai   | vee   | veh   | vih   | voo   | voh   | vao   | vuh   | veo   | veu   |
+| wah   | way   | wai   | wee   | weh   | wih   | woo   | woh   | wao   | wuh   | weo   | weu   |
+| zah   | zay   | zai   | zee   | zeh   | zih   | zoo   | zoh   | zao   | zuh   | zeo   | zeu   |
+| chah  | chay  | chai  | chee  | cheh  | chih  | choo  | choh  | chao  | chuh  | cheo  | cheu  |
+| thah  | thay  | thai  | thee  | theh  | thih  | thoo  | thoh  | thao  | thuh  | theo  | theu  |
+| shah  | shay  | shai  | shee  | sheh  | shih  | shoo  | shoh  | shao  | shuh  | sheo  | sheu  |
+| tchah | tchay | tchai | tchee | tcheh | tchih | tchoo | tchoh | tchao | tchuh | tcheo | tcheu |
+| nn    | mm    | ll    | ff    |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+```
+Above is the character set for Coarse Titan, with each symbol representing an 8-bit number ranging from 1 to 256. During the Titan age, identification numbers were issued to subjects. The first 256 received a name consisting of one symbol, and the next 65,536 received two symbols, and the next 16,777,216 received three symbols, and the next 4,294,967,296 received four symbols. It's unclear exactly how many Titan subjects there were, as the titans shared this same pool of unique identifiers for vehicles, building addresses, roads, and other entities the titans wished to name.
+Example Names in coarse Titan:
+- feusaychohgao
+- kuhdoofihjih
+- dihzayvoosuh
+- juhmohchahvao
+- tayjoodeupee
+- meevahwehneo
+- mehtheochahweo
+- neodeebeetchay
+- waykeofaobeh
+- bahkehduhtao
+
 
 ## Common
-The language used by the empire of man, who stamped out all but a few language and replaced them with Common. The language was devised to be optimized for communicating simple concepts among traders. The spoken language has a syncopated rhythm with fricatives at the start and end of most words. The language is intended to be efficient to learn and understand for extremely basic interactions, but after being used as a primary language for many people, has expanded past it's original scope. The language has many rules in it's syntax, and none of them are without multiple exceptions. Though it's the most common language in use after the age of man
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+The language used by the empire of man, who stamped out all but a few language and replaced them with Common. The language was devised to be optimized for communicating simple concepts among traders. The spoken language has a syncopated rhythm with fricatives at the start and end of most words. The language is intended to be efficient to learn and understand for extremely basic interactions, but after being used as a primary language for many people, has expanded past it's original scope. The language has many rules in it's syntax, and none of them are without multiple exceptions. Though it's the most common language in use after the age of man, it's hardly elegant. 
+To make a common name:
+1. Get a full primordial name: Treeaxeriverstick
+2. Steal three to four random syllables: Tre xe ver ick
+3. Combine them to make your name: Trexeverick
+
+Example Names:
+- Trexeverick
+- Shefriwoo
+- Tabineak
+- Coboro
+- Stoleara
+- Horista
+- Frusweelee
+- Mafitone
+- Corabea
+- Bifirir
 
 ## Handspeak
 Handspeak is a sign language developed by the Radiant Order leading up to the Titan Wars, and was used to covertly communicate in public places. Though it's incredibly precise in it's execution, translating handspeak to most verbal languages renders very clunky results. This shortcoming was intentional, as a means to obfuscate those attempting to learn the language without a guide from the Radiant Order. The culture of the Silent exclusively use Handspeak and written languages due to their practice of self-inflicted mutism.
