@@ -701,7 +701,23 @@
         "Terrain": "Hillside",
         "1": "lake",
         "2": "Stone Scurrier den",
-        "3": "giant leech spawning pool"
+        "3": {
+             "name": "Tahhaykoh",
+             "hex": "",
+             "population": 1734,
+             "locations": [
+              "Herbalist",
+              "Beekeepers",
+              "Open Market",
+              "Workshop",
+              "General Store",
+              "Inn",
+              "Temple",
+              "Coach service",
+              "Book Seller"
+            ]
+        }
+
     },
     {
         "name": "F6",

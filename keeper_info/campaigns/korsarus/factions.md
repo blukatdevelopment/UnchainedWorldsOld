@@ -15,18 +15,18 @@ In control of Korsarus City, Thiersgar, and the constellation of villages immedi
 - Slay or recruit warlords
 
 ### NPCs
-- King: 
-- Queen: 
-- Prince: 
-- Princess: 
-- Merchant Guildmaster: 
-- Mage Guildmaster: 
-- Mercenary Guildmaster:
-- General Of Defense: 
-- General of Offense: 
-- Scouts commanders: 
-- Militia commanders: 
-- Royal Guard commanders: 
+- King: Croldon
+- Queen: Haildess
+- Prince: Sicrod
+- Princess: Dreflond
+- Merchant Guildmaster: Dorispro Figred
+- Mage Guildmaster: Specaswaff
+- Mercenary Guildmaster: Swosell
+- General Of Defense: Shirmord
+- General of Offense: Tamater
+- Scouts commanders: Hortchot, Berdoth, Fibance
+- Militia commanders: Consprect, Naross, Fielcrose
+- Royal Guard commanders: Ladeneth, Shierton, Cesperd
 
 ### Renown Rewards
 1. Initiate: May wear weapons and armor in most Omarian public spaces. Offer membership(instant +2 renown)
@@ -46,13 +46,23 @@ The thieves' guild is home to those stealing for profit, and those who wish to s
 - Build a palace in the sewers
 - Infiltrate the Omarian government with thieves
 
+### NPCs
+- Circle members: Steatak, Buscat, Doga Kelfeep, Conpu Sekethef
+-  Sanctuary Fence: Golgem
+-  Stadium Fence: Arnafir
+-  Steamworks Fence: Stenrusk
+-  North Gate Fence: northernbeanword
+-  Rivergate Fence: riverrunnermalt
+-  The Claw Fence: Kohgoonoh
+-  Docks Fence: Pobat Shister
+
 ### Renown Rewards
 1. Friend of the Thieves' Guild: offer of membership(+2 renown)
 3. Initiate: Learn thieves' cant, access to fences and black market.
 6. Trusted thief: Access to safe houses, parties.
 18. Notorious Masked thief: You are well-known by your thief name and your signature mask. You will be consulted for heists. 
 25. Inner circle access: Can speak with higher-ups in thieves' guild. May join another faction to infiltrate it.
-35. Grey fox: May compete for leadership position over thieves' guild.
+35. Grey fox: May compete for leadership position over thieves' guild. (There is no leader.)
 
 ## The rebels
 The rebels are a broad coalition with a militant core of wildfolk who are committed to the cause of liberating the villages under Omarian control, freeing them from paying tribute, and allowing them to exist indepdendently.
@@ -62,6 +72,17 @@ The rebels are a broad coalition with a militant core of wildfolk who are commit
 - Abolish Omarian tribute system
 - Form North Eastern Coalition
 - Sign treaty of independence between Omaria nad Nort Eastern Coalition
+
+### NPCs
+- Korsarus City(G7) Claw Cell: Geelahnoo, Bitalchi, Capumeo
+- Viktor Bay(G8) Cell: Golut Purdo, Piner Stord, Henpeck
+- Fireshant(E7) Cell: Dobur Pabremad, Rego Beskar, Kiqu Enjasp
+- Hiegal(D8) Cell: Barkroot, Pursestone, Redaxe
+- Tahhaykoh(F5)Cell: Lahnohlee, Kaylaygay, Tohgoolihgee
+- Vandenbert(C6) Cell: Leftmule, Bentleaf, Corkhandle
+- Harf(D6) Cell: Letird Giht, Reght Yeldog, Totoh Ousbid
+- Arcanus(M10) Cell: Tayjood, Bahweh, Kuhdoof
+- Shadowvale(M0) Cell: Leafleaf, Neeleekoo, Draconglaw Poisonscale
 
 ### Renown Rewards
 1. Ally of the people: Offer membership(+2 renown)
@@ -80,6 +101,10 @@ The silent order are a shadowy organization run by Silent in Arcanus. Their goal
 - Prevent air travel and long distance gateways from being established
 - Uncover all secret projects Omaria is working on
 
+### NPCS
+- Knights: Prospect, Shadow, Claymore, Dagger, Shield
+- Scribes: Flame, Crystal, Obsidian, Prudence, Acuity
+
 ### Renown Rewards
 1. Friend: Offer of membership(+2 renown)
 3. Contractor: May learn handspeak. Receive contract work.
@@ -87,14 +112,3 @@ The silent order are a shadowy organization run by Silent in Arcanus. Their goal
 18. Member of Order: Become knight or scribe
 25. Inner Order: Access to other scribes.
 35. Deepest Secrets: Access to most sensitive information.
-
-## The adventurer's guild
-The Omarian government will grant a certain level of legal and tax leniency to adventurers who organize under a single, centralized guild. The first adventurer to reach level 3 will be contacted by the prince
-
-### Renown Rewards
-1. ???
-3. ???
-6. ???
-18. ???
-25. ???
-35. ???
