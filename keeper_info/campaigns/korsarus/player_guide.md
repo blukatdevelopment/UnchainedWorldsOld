@@ -1,6 +1,9 @@
 # Quickstart Guide
 ## What kind of campaign is this?
 
+### Open World with Loading screens
+See that mountain? You can climb it! You can attempt to sneak into any location, climb any wall, and talk to any random NPC. The game world has more content than will fit in my head at one time, and certain elements are procedurally generated. Sometimes this necessitates a short break to draw a map up in owlbear rodeo, set up a random encounter, or load the contents of a location into my short term memory. Feel free to closely examine or interact with any element in the world, but know that things might slow down a bit to accommodate that, depending on particulars.
+
 ### The original character
 In some campaigns, each player takes a few hours or days crafting and refining a fleshed-out character with a backstory that can be woven into the narrative of the campaign. Let's call these original characters, or OCs. OCs offer players a great deal of creative freedom to express their character concepts. An OC might have a gimmic like using a teapot to cast their spells, be an incarnation of a character from a book/anime/cartoon, or act as a self-insert that uniquely represents the player's identity. These characters can have a pre-destined "character arc", or a series of changes in the character that will provide dramatic tension across a linear campaign.  For the Korsarus campaign, we won't be bringing fully-formed characters like this to insert into the world.
 
@@ -16,8 +19,6 @@ So what do we do instead?
 - Simple concept: A profession and a reason for adventuring will get you a lot further than you may suspect.
 - Use the table: Can't think of a detail? Relate your character with the others. 
 - Play your backstory: Is your character a blank slate? Good. Let's fill it up with some formative experiences. Let your first few relationships and hard decisions define your character. If you and a group are feeling adventurous, ask to play in a starter session, a high-stakes and dramatically intense scenario that will result in particularly exotic backstories.
-
-
 
 ## Your first character
 Your first character starts as a Commoner from the Soot culture. This will get you into the action quickly. As you interact with the world, you'll unlock new classes, cultures, and other character options. When you unlock your first class, you may immediately give them a level in this class and update their ability scores using the rules described in the `Your other characters` section.
