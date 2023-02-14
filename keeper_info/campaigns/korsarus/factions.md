@@ -51,8 +51,8 @@ The thieves' guild is home to those stealing for profit, and those who wish to s
 -  Sanctuary Fence: Golgem
 -  Stadium Fence: Arnafir
 -  Steamworks Fence: Stenrusk
--  North Gate Fence: northernbeanword
--  Rivergate Fence: riverrunnermalt
+-  North Gate Fence: Norban
+-  Rivergate Fence: Rinalt
 -  The Claw Fence: Kohgoonoh
 -  Docks Fence: Pobat Shister
 
