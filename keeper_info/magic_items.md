@@ -425,8 +425,18 @@ When you wear this amulet, it sinks into your chest and replaces your heart.
 You no longer have a pulse, and you are now vulnerable to lightning damage.
 Your constitution becomes 18. When you die, the amulet surfaces from your chest.
 
-
 ## Consumables
+
+### Conjuring cube
+These brightly colored 2-inch cubes have symbols on them indicating what they summon. Exposing the cube to a flame at least as intense as a candle causes it to disintegrate and conjure it's subject. Each pack comes with 8, rolled randomly.
+1. Water(blue): 1d4 gallons of water
+2. Tree(green): A tree that is 1d4 * 5ft tall grows
+3. Wind(white): A tornado lowers from the sky above
+4. Lightning(yellow): Lightning strikes the location of the cube, forcing DC17 DEX save to halve 6d6 lightning damage
+5. Locust(brown): 1d4 tons of locusts
+6. Sword(grey): a greatsword
+7. Wine(purple): 1d4 bottles of fine wine
+8. Tar(black): Tar bubbles from the cube, creating a 10ft radius pool. For the next minute, the tar is difficult terrain and causes 1d4 fire damage per turn
 
 ### Bubble shield
 The wearer may use their action to consume a stamina die, doff this shield, and activate it. This creates a 5ft radius dome of force around the shield. The dome has 15 AC and 30HP and cannot be crossed until broken.
@@ -451,16 +461,10 @@ When you fire an arrow removed from this quiver, it disappears shortly after
 impact and a new one reapears inside the quiver.
 
 ### Exploding Shuriken (Common)
-This throwing star shares proficiency with darts. If you throw this shuriken
-and hit a target, it sticks into them. Speaking the command word with a bonus
-action causes the shuriken to explode, which forces all creatures within 10ft
-of the target to make a dex saving throw. On a failure they take 3d6 fire
-damage, and half as much on a success.
+This throwing star shares proficiency with darts. If you throw this shuriken and hit a target, it sticks into them. Speaking the command word with a bonus action causes the shuriken to explode, which forces all creatures within 10ft of the target to make a dex saving throw. On a failure they take 3d6 fire damage, and half as much on a success.
 
 ### Fin Candy (Common)
-When you eat this grey fin-shaped candy, you find that it is sweet with a
-leathery, gummy texture. Your head transforms into that of a hammerhead shark,
-allowing you to breathe underwater for 1 hour.
+When you eat this grey fin-shaped candy, you find that it is sweet with a leathery, gummy texture. Your head transforms into that of a hammerhead shark, allowing you to breathe underwater for 1 hour.
 
 ### Spell Scroll
 This scroll contains a spell and the magical energy needed to cast it. A command
