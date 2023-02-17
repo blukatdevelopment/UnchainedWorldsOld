@@ -32,6 +32,7 @@ The gunsmith's stamina die is a d6.
 You are proficient with:
 - Clockwork
 - Metallurgy
+- Writing
 Choose one skill:
 - Athletics
 - Stealth

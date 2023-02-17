@@ -33,7 +33,6 @@ You are proficient in the following:
 - Pickpocketing
 - Stealth
 - Acrobatics
-- Athletics
 - Deception
 
 ## Starting equipment

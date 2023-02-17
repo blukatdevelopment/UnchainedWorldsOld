@@ -31,8 +31,9 @@ Your stamina die is a d4.
 
 ## Skills
 You are proficient with the following:
-- Animal handling
-- Insight
+- Hearing
+- Smelling
+- Tracking
 
 ## Starting equipment
 - Dagger

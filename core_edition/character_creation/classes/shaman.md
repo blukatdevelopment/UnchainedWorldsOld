@@ -34,7 +34,7 @@ Your stamina die is a d4.
 You are proficient with:
 - Tracking
 - Herbology
-- Religion
+- Fey lore
 
 ## Starting Equipment
 - Staff

@@ -27,11 +27,10 @@ The warrior's stamina die is a d10.
 | Saving Throws | Strength, Constitution                          |
 
 ## Skills
-You are proficient with athletics, and may choose one of the following:
+You are proficient with the following:
 - Tracking
 - Intimidation
-- Deception
-- Acrobatics
+- Athletics
 
 ## Starting Equipment
 - Chain mail or leather armor, longbow, and 20 arrows

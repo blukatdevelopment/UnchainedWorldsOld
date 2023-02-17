@@ -33,6 +33,7 @@ You are proficient in these skills:
 - Grappling
 - Climbing
 - Falling
+- Stealth
 
 ## Starting equipment
 - backpack

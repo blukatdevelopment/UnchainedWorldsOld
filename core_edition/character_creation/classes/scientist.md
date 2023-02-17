@@ -40,6 +40,8 @@ Select two of the following:
 - Clockwork
 - Alchemy
 - Chemistry
+- Tinkering
+
 
 ## Starting equipment
 - Backpack

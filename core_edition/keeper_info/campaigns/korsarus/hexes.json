@@ -32,74 +32,28 @@
         "Terrain": "Hillside",
         "1": "poorly maintained statue of Wro Gentar, devil of bodies from the Titan Age",
         "2": "Imp den",
-        "3": {
-            "name": "Heinberg",
-            "hex": "",
-            "population": 1726,
-            "locations": [
-                "Beekeepers",
-                "Open Market",
-                "Granary",
-                "Blacksmith",
-                "General Store",
-                "Workshop",
-                "Apothecary",
-                "Book Seller",
-                "Brothel"
-            ]
-        }
+        "3": "Heinberg"
     },
     {
         "name": "A5",
         "Terrain": "Hillside",
         "1": "D",
         "2": "well",
-        "3": {
-            "name": "Ironbend",
-            "hex": "",
-            "population": 130,
-            "locations": [
-                "Cobbler",
-                "Shrine",
-                "Bakery"
-            ]
-        }
+        "3": "Ironbend"
     },
     {
         "name": "A6",
         "Terrain": "Hillside",
         "1": "pond",
         "2": "always foggy zone",
-        "3": {
-            "name": "Tinderheart",
-            "hex": "",
-            "population": 616,
-            "locations": [
-                "Shrine",
-                "Bakery",
-                "Cobbler",
-                "Tailor",
-                "Workshop"
-            ]
-        }
+        "3": "Tinderheart"
     },
     {
         "name": "A7",
         "Terrain": "Hillside",
         "1": "Grass Heap den",
         "2": "abandoned wheat farm",
-        "3": {
-            "name": "Redswell",
-            "hex": "",
-            "population": 563,
-            "locations": [
-                "Beekeepers",
-                "Tavern",
-                "Cobbler",
-                "Tailor",
-                "Pub"
-            ]
-        }
+        "3": "Redswell"
     },
     {
         "name": "A8",
@@ -155,16 +109,7 @@
         "Terrain": "Mountain",
         "1": "Manface silkworm den",
         "2": "sentient wishing well",
-        "3": {
-            "name": "Dullworth",
-            "hex": "",
-            "population": 119,
-            "locations": [
-                "Open Market",
-                "Cobbler",
-                "Bakery"
-            ]
-        }
+        "3": "Dullworth"
     },
     {
         "name": "B4",
@@ -178,101 +123,35 @@
         "Terrain": "Hillside",
         "1": "stream",
         "2": "moledog tunnels",
-        "3": {
-            "name": "Bingle",
-            "hex": "",
-            "population": 1235,
-            "locations": [
-                "Trapper",
-                "Open Market",
-                "Shrine",
-                "Butcher",
-                "Stables",
-                "Pub",
-                "Brothel",
-                "Apothecary"
-            ]
-        }
+        "3": "Bingle"
     },
     {
         "name": "B6",
         "Terrain": "Hillside",
         "1": "stream",
         "2": "mud pit resembling a(n) bone",
-        "3": {
-            "name": "Sharleaf",
-            "hex": "",
-            "population": 1362,
-            "locations": [
-                "Cobbler",
-                "Herbalist",
-                "Shrine",
-                "Tailor",
-                "Blacksmith",
-                "Butcher",
-                "Temple",
-                "Healer"
-            ]
-        }
+        "3": "Bingle"
     },
     {
         "name": "B7",
         "Terrain": "Hillside",
         "1": "lake",
         "2": "poorly maintained graveyard of Exheia from the Titan Age",
-        "3": {
-            "name": "Hoaryhog",
-            "hex": "",
-            "population": 359,
-            "locations": [
-                "Herbalist",
-                "Cobbler",
-                "Open Market",
-                "Butcher"
-            ]
-        }
+        "3": "Hoaryhog"
     },
     {
         "name": "B8",
         "Terrain": "Hillside",
         "1": "abandoned temple of Titan King: Yavor from the Post-Severing",
         "2": "fungal field",
-        "3": {
-            "name": "Unleven",
-            "hex": "",
-            "population": 1199,
-            "locations": [
-                "Bakery",
-                "Granary",
-                "Trapper",
-                "Blacksmith",
-                "Tailor",
-                "Butcher",
-                "Spa",
-                "Coach service"
-            ]
-        }
+        "3": "Unleven"
     },
     {
         "name": "B9",
         "Terrain": "Hillside",
         "1": "D",
         "2": "well",
-        "3": {
-            "name": "Darsaven",
-            "hex": "",
-            "population": 1245,
-            "locations": [
-                "Trapper",
-                "Shrine",
-                "Bakery",
-                "Workshop",
-                "Inn",
-                "Butcher",
-                "Book Seller",
-                "Spa"
-            ]
-        }
+        "3": "Darsaven"
     },
     {
         "name": "B10",
@@ -307,20 +186,7 @@
         "Terrain": "Hillside",
         "1": "stream",
         "2": "leathery lichens",
-        "3": {
-            "name": "Brambleturn",
-            "hex": "",
-            "population": 792,
-            "locations": [
-                "Open Market",
-                "Cobbler",
-                "Granary",
-                "Butcher",
-                "Pub",
-                "Tailor",
-                "Healer"
-            ]
-        }
+        "3": "Brambleturn"
     },
     {
         "name": "C3",
@@ -334,17 +200,7 @@
         "Terrain": "Hillside",
         "1": "creek",
         "2": "Regret den",
-        "3": {
-            "name": "Sevensteel",
-            "hex": "",
-            "population": 436,
-            "locations": [
-                "Shrine",
-                "Open Market",
-                "Herbalist",
-                "Inn"
-            ]
-        }
+        "3": "Sevensteel"
     },
     {
         "name": "C5",
@@ -358,22 +214,7 @@
         "Terrain": "Hillside",
         "1": "pond",
         "2": "surface deposit of iron resembling a(n) dagger",
-        "3": {
-            "name": "Vandenbert",
-            "hex": "",
-            "population": 1959,
-            "locations": [
-                "Herbalist",
-                "Shrine",
-                "Beekeepers",
-                "Stables",
-                "Pub",
-                "Tailor",
-                "School",
-                "Book Seller",
-                "Brothel"
-            ]
-        }
+        "3": "Vandenbert"
     },
     {
         "name": "C7",
@@ -457,22 +298,7 @@
         "Terrain": "Hillside",
         "1": "D",
         "2": "battlefield of petrified warriors",
-        "3": {
-            "name": "Harf",
-            "hex": "",
-            "population": 1950,
-            "locations": [
-                "Herbalist",
-                "Bakery",
-                "Tavern",
-                "General Store",
-                "Inn",
-                "Stables",
-                "Brothel",
-                "Spa",
-                "School"
-            ]
-        }
+        "3": "Harf"
     },
     {
         "name": "D7",
@@ -486,22 +312,7 @@
         "Terrain": "Hillside",
         "1": "Floating Eye den",
         "2": "abandoned wheat farm",
-        "3": {
-            "name": "Hiegal",
-            "hex": "",
-            "population": 1887,
-            "locations": [
-                "Cobbler",
-                "Shrine",
-                "Open Market",
-                "General Store",
-                "Inn",
-                "Workshop",
-                "Coach service",
-                "Healer",
-                "School"
-            ]
-        }
+        "3": 
     },
     {
         "name": "D9",
@@ -515,22 +326,7 @@
         "Terrain": "Hillside",
         "1": "creek",
         "2": "Marionette spider den",
-        "3": {
-            "name": "Greyfield",
-            "hex": "",
-            "population": 1994,
-            "locations": [
-                "Beekeepers",
-                "Trapper",
-                "Open Market",
-                "Blacksmith",
-                "Stables",
-                "General Store",
-                "Tinkerer",
-                "Coach service",
-                "Book Seller"
-            ]
-        }
+        "3": "Greyfield"
     },
     {
         "name": "D11",
@@ -593,21 +389,7 @@
         "Terrain": "Hillside",
         "1": "poorly maintained temple of Coenta from the Titan Age",
         "2": "thornpatch resembling a(n) the monolith of Bimros",
-        "3": {
-            "name": "Fireshant",
-            "hex": "",
-            "population": 1120,
-            "locations": [
-                "Beekeepers",
-                "Granary",
-                "Shrine",
-                "Workshop",
-                "Tailor",
-                "Butcher",
-                "Mayor's House",
-                "Coach service"
-            ]
-        }
+        "3": "Fireshant"
     },
     {
         "name": "E8",
@@ -621,18 +403,7 @@
         "Terrain": "Hillside",
         "1": "D",
         "2": "white water rapids",
-        "3": {
-            "name": "Eagleton",
-            "hex": "",
-            "population": 611,
-            "locations": [
-                "Bakery",
-                "Shrine",
-                "Open Market",
-                "Blacksmith",
-                "Tailor"
-            ]
-        }
+        "3": "Eagleton"
     },
     {
         "name": "E10",
@@ -646,20 +417,7 @@
         "Terrain": "Coastal Water",
         "1": "half time zone",
         "2": "Imp den",
-        "3": {
-            "name": "Mintberg",
-            "hex": "",
-            "population": 811,
-            "locations": [
-                "Herbalist",
-                "Granary",
-                "Cobbler",
-                "Pub",
-                "General Store",
-                "Tailor",
-                "Spa"
-            ]
-        }
+        "3": "Mintberg"
     },
     {
         "name": "F0",
@@ -701,22 +459,7 @@
         "Terrain": "Hillside",
         "1": "lake",
         "2": "Stone Scurrier den",
-        "3": {
-             "name": "Tahhaykoh",
-             "hex": "",
-             "population": 1734,
-             "locations": [
-              "Herbalist",
-              "Beekeepers",
-              "Open Market",
-              "Workshop",
-              "General Store",
-              "Inn",
-              "Temple",
-              "Coach service",
-              "Book Seller"
-            ]
-        }
+        "3": "Tahhaykoh"
 
     },
     {
@@ -773,22 +516,7 @@
         "Terrain": "Hillside",
         "1": "well",
         "2": "boulder resembling a(n) symbol of Gidur",
-        "3": {
-            "name": "Cloverfield",
-            "hex": "",
-            "population": 1563,
-            "locations": [
-                "Cobbler",
-                "Tavern",
-                "Shrine",
-                "Stables",
-                "Pub",
-                "Workshop",
-                "Healer",
-                "Brothel",
-                "Coach service"
-            ]
-        }
+        "3": "Cloverfield"
     },
     {
         "name": "G2",
@@ -1019,22 +747,7 @@
         "Terrain": "Hillside",
         "1": "lake",
         "2": "gate to ethereal plane, active at twilight",
-        "3": {
-            "name": "Blackfurnace",
-            "hex": "",
-            "population": 1882,
-            "locations": [
-                "Shrine",
-                "Beekeepers",
-                "Bakery",
-                "Stables",
-                "Butcher",
-                "Inn",
-                "School",
-                "Apothecary",
-                "Spa"
-            ]
-        }
+        "3": "Blackfurnace"
     },
     {
         "name": "I11",
@@ -1104,22 +817,7 @@
         "Terrain": "Hillside",
         "1": "river",
         "2": "sentient wishing well",
-        "3": {
-            "name": "Mayfield",
-            "hex": "",
-            "population": 1755,
-            "locations": [
-                "Granary",
-                "Herbalist",
-                "Bakery",
-                "Workshop",
-                "Tailor",
-                "Stables",
-                "Apothecary",
-                "Tinkerer",
-                "Coach service"
-            ]
-        }
+        "3": "Mayfield"
     },
     {
         "name": "J9",
@@ -1189,22 +887,7 @@
         "Terrain": "Hillside",
         "1": "D",
         "2": "geyser",
-        "3": {
-            "name": "Rupertsville",
-            "hex": "",
-            "population": 1600,
-            "locations": [
-                "Granary",
-                "Open Market",
-                "Shrine",
-                "Workshop",
-                "General Store",
-                "Butcher",
-                "Apothecary",
-                "Brothel",
-                "Book Seller"
-            ]
-        }
+        "3": "Rupertsville"
     },
     {
         "name": "K7",
@@ -1456,22 +1139,7 @@
         "Terrain": "Forest",
         "1": "well",
         "2": "nests of fist-sized glowbugs",
-        "3": {
-            "name": "Dinangle",
-            "hex": "",
-            "population": 1750,
-            "locations": [
-                "Tavern",
-                "Bakery",
-                "Shrine",
-                "Tailor",
-                "Inn",
-                "Stables",
-                "School",
-                "Brothel",
-                "Book Seller"
-            ]
-        }
+        "3": "Dinangle"
     },
     {
         "name": "N7",
