@@ -175,7 +175,7 @@ These up-right creatures are covered in hardened green scales, and though they h
 - Brain Pith: Target one grappled creature. DC 14 STR save, or they take 4d8+3 piercing damage. If this kills the creature, the needlenose consumes their brain and gains an intelligence of 12 for the next 24 hours.
 
 ## Chameleoid
-Appearing vaguely humanoid, this creature is monstrous than any beast folk, having a mind that is nearly feral. Their bulging eyes can turn in independent directions, and their three-fingered hands are capable of grasping objects. Their most distinguishing feature is the ability to blend into their surroundings.
+Appearing vaguely humanoid, this creature is far more monstrous than any beast folk, having a mind that is nearly feral. Their bulging eyes can turn in independent directions, and their three-fingered hands are capable of grasping objects. Their most distinguishing feature is the ability to blend into their surroundings.
 
 `Chameleoid, Size: large, HP: 28(2d12+4), AC: 14, Speed: 30ft [16,11,15,5,10,3], Spear +5 1d8+3 piercing`
 - Multi-attack: May make two slam attacks
