@@ -14,3 +14,25 @@
     ]
 }
 ```
+```yml
+Military: 2
+Alchemical: 1
+Lost Tech: 1
+```
+
+## Beekeepers
+Gihlahhah
+
+## Tavern
+Fasfin Ished
+Namsason Canlay
+
+## Cobbler
+Tonig Secrone
+
+## Tailor
+Lokil Lantique
+
+
+## Pub
+Tandim Ensiona

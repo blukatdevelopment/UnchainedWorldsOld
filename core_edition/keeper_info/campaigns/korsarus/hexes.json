@@ -361,7 +361,7 @@
         "Terrain": "Hillside",
         "1": "lake",
         "2": "Giant Leech den",
-        "3": "abyssal energy zone"
+        "3": "Mintberg"
     },
     {
         "name": "E4",
@@ -417,7 +417,7 @@
         "Terrain": "Coastal Water",
         "1": "half time zone",
         "2": "Imp den",
-        "3": "Mintberg"
+        "3": "Sea monster"
     },
     {
         "name": "F0",
@@ -481,7 +481,7 @@
         "Terrain": "Hillside",
         "1": "pond",
         "2": "Giant Crab den",
-        "3": "double gravity zone"
+        "3": "Hiegal"
     },
     {
         "name": "F9",

@@ -71,3 +71,18 @@ This table's nested. Roll 2d6. The first picks a category, and the second an out
 4. Your eyes produce 10ft of bright light when open.
 5. You rapidly regenerate your flesh at a rate of 1d4 HP per minute.
 6. You bulge with muscles. Your STR score is now 22.
+
+## Item availability
+Availability of items is rated on a scale from 1 to 6, where higher is more likely to be found at base prices. If it's ambiguous whether an item would be stocked in a given store, roll a 1d6, rolling equal or under the availability score of it's category. The most scarce item categories include:
+- military(martial weapons, metal armors)
+- alchemical
+- lost tech
+These categories attract the attention of authorities, who may frown upon their sale.
+
+The scores mean:
+1. Triple cost
+2. Double cost
+3. 1.5 X cost
+4. A couple items in stock.
+5. Most expensive items unavailable.
+6. All or most items available.
