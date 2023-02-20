@@ -162,7 +162,7 @@ You swear a magical oath of vengeance, committing yourself to use violence only 
 You consume a stamina die and grant yourself a +5 bonus to persuasion checks for the next 10 minutes.
 
 ### Merciful hand(Requires Oath of Redemption)
-You have a pool of hit points equal to 15 + (5 * CHA mod, min 0). As an action, you may touch a creature and heal them 1 or more hit points from this pool. This pool restores at the end of a long rest.
+You have a pool of hit points equal to 15 + (5 * CHA mod, min 0). As an action, you may touch a creature and heal them 1 or more hit points from this pool. This pool restores at the end of a rest.
 
 ### Rebuke the violent(Requires Oath of Redemption)
 As a reaction, when a creature attacks another(not you) and deals damage, you may expend a hit die and rebuke them. They make a WIS save, taking the entire damage they dealt as radiant if they fail, or half as much on a success. The DC is 10 + your WIS mod + your proficiency bonus.

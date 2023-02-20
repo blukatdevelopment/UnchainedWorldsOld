@@ -1,8 +1,133 @@
 # Humanoids
 
-## Town folk
+## Character Classes
+These stat blocks represent NPCs that are using character classes.
 
+### Commoner
 `Commoner, XP: 0, HP: 3(1d4), AC: 10, [10, 10, 10, 10, 10, 10],Unarmed +1 1 bludgeoning`
+
+### Alchemist
+`Alchemist, XP: 0, HP: 15(3d4+3), AC: 10, [8, 10, 12, 18, 10, 10], Quarterstaff -1 1d8-1 bludgeoning`
+- Hunter bomb(2/day): 30ft range. 15ft radius explosion, DC 15 DEX save to halve 3d6 fire damage
+- Invisible Brandy(2/day): 1 minut invisibility
+- Cloud in a bottle(2/day):  20ft cube 1 hour. Salting causes DC 14 DEX save to halve 2d6 lightning damage.
+
+### Diviner
+`Diviner, XP: 0, HP: 15(3d4+3), AC: 9, [10, 8, 12, 18, 10, 10],Mace +0 1d6 bludgeoning`
+- Sacred Flame
+- Spare the dying
+- Guiding Bolt
+- Cure wounds
+- Holy Weapon
+
+### Gunsmith
+`Gunsmith, XP: 0, HP: 21(3d6+3), AC: 13, [10, 18, 12, 10, 10, 10],Dagger +5 1d4+4 piercing, Harmonica Gun +5 1d12+4 piercing`
+- Action surge(1/day): Two actions this turn
+- Extra attack
+
+
+### Monk
+`Commoner, XP: 0, HP: 8(8), AC: 10, [12, 18, 12, 10, 16, 10],Ki Fists +5 1d4+4 magic bludgeoning`
+- Reroll 3d6 Ki (10 times): Rerolls ki, replacing if higher value.
+- Extra attack: May make three unarmed attacks
+- Flurry of blows: Expend 1d4 Ki points to make three unarmed attacks as bonus action.
+
+
+### Muse
+`Muse, XP: 0, HP: 18(3d6), AC: 12, [10, 14, 10, 12, 10, 18],Shortsword +4 1d6+4 Slashing`
+- Extra attack: Two shortsword attacks
+- Spellcasting(1/day)
+- Command
+- Sleep
+- Hold Person
+- Cloud of Daggers
+- Dispel Magic
+- Slow
+
+### Psion
+`Psion, XP: 0, HP: 12(3d4), AC: 10, [10, 10, 10, 10, 18, 10],Unarmed +1 1 bludgeoning`
+- Spellcasting +6, DC14
+- Push
+- Pull
+- Catapult
+- Dissonant Whispers
+- Hold Person
+- Locate Object
+- Phantasmal Force
+
+### Runesmith
+`Runesmith, XP: 0, HP: 12(3d4), AC: 10, [10, 10, 10, 18, 10, 10],Quarterstaff +2 1d8 bludgeoning`
+- Mind Sliver (3/day)
+- Thornwhip (3/day)
+- Beast Aspect(1/day)
+- Disguise Self(1/day)
+- Burning Hands(1/day)
+- Earthbind(1/day)
+- Haste(1/day)
+- Antimagic Field(1/day)
+
+### Scientist
+`Scientist, XP: 0, HP: 12(3d4), AC: 10, [12, 10, 10, 18, 10, 10],Cane Sword +3 1d8+1 piercing`
+- Flamer(3/day): 15ft cone DC 13 DEX to halve 3d6 fire.
+- 
+
+### Shaman
+`Shaman, XP: 0, HP: 12(3d4), AC: 10, [10, 10, 10, 10, 18, 10],Quarterstaff +2 1d8 bludgeoning`
+- Wildshape Polar Bear(1/day): Form into polar bear.
+- Spellcasting +6, DC 14
+- Thorn Whip
+- Ice Knife
+- Faerie Fire
+- Barkskin
+- Rust
+
+```
+Huge Polar Bear
+Huge Beast
+XP: 300
+HP: 60(5d12+25)
+AC: 12(natural)
+Speed: 40ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 20| 10| 16|  4| 10|  4|
+Multiattack: Polar Bear can use bite and claws on 
+Attacks:
+Bite +6 1d8+4 piercing
+Claws +6 2d6+4 bludgeoning
+```
+
+### Thief
+`Thief, XP: 0, HP: 12(3d4), AC: 15(leather), [10, 18, 10, 10, 10, 10],Dart +6 1d4+4 piercing, dagger +6 1d4+4 piercing`
+- +8 Stealth
+- Cunning action: Dash, disengage hide with bonus action
+- Advantage on dart attacks
+
+### Warrior
+`Warrior, XP: 0, HP: 39(3d10+9), AC: 16(chainmail), [18, 10, 16, 10, 10, 10],Greatsword +6 2d6+4 Slashing`
+- Multi-attack: May make two greatsword attacks
+- Force strike: When miss by 1 or 2, force STR contest to deal half damage anyway.
+
+### Werewolf
+`Werewolf, XP: 0, HP: 12(3d4), AC: 11, [12, 12, 12, 12, 12, 12],Dagger +3 1d4+1 piercing`
+- Shift(1/day): Turn into werewolf form
+
+```
+Werewolf
+Medium Monstrosity
+HP: 20
+AC: 13
+Speed: 40ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 18| 16| 12|  5|  5|  5|
+Weak: slashing, bludgeoning, and piercing damage from silvered weapons
+Pack Tactics: Your attacks against a target have advantage when an ally is within 5ft of it.
+Resistance: slashing, bludgeoning, and piercing damage from non-magical, non-silvered weapons.
+Attacks:
+Jaws +4 1d10+4
+Claws: +4 2d4+4 DC 14 CON save or contract malignant lycanthropy
+```
+
+## Town folk
 
 `Bow Hunter, XP: 25, HP: 12(3d4+3), AC: 13(leather), [14, 14, 12, 12, 12, 12], Short Bow +3 1d6+2, Dagger +3 1d4+2`
 

@@ -138,7 +138,7 @@ acts. Domain spells do not count against the number of spells you may prepare.
 | Gegtix | Planting a tree      | Cutting a tree         | Thornwhip[1], Vine Suit, lightning bolt|
 | Exheia | Teaching someone     | Keeping a secret       | Eye stone[1], Identify, Mind Probe[1]  |
 |        | for an hour          |                        |                                        |
-| Korrath| Provide Judgement    | Fail to fight bad acts | Chastise, Smite, confess               |
+| Bimros | Provide Judgement    | Fail to fight bad acts | Chastise, Smite, confess               |
 |        | for a crime          | of others              |                                        |
 `[1]: Spell is found in the Spell Compendium Volume 1`
 
