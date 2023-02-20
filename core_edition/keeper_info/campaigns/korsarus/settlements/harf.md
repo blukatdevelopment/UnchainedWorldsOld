@@ -41,6 +41,8 @@ Cemo Tifid
 
 ## General Store
 Bunsec Urec
+- Dragon Bone Scale Mail 150gp
+
 
 ## The Sleepy Drum Inn
 Reref Erenwo

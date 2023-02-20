@@ -50,7 +50,6 @@ Tuan Quambit
 - Meal of bread and rabbit stew(Food and water)(Double food ration)
 - Spa token (5sp, 2 amenities)
 
-
 ## Butcher
 Contere Vuton
 

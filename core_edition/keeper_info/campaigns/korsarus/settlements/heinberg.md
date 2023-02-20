@@ -41,6 +41,7 @@ Hypres Temperfork
 
 ## General Store
 Bupror Ipersect
+- Blacks steel Breastplate 525gp
 
 ## Workshop
 Netlip Wrenchgear

@@ -41,6 +41,7 @@ Idwind Springtemper
 
 ## General Store
 Misgid Edgit
+- Pair of Hell Steel Scimitars 100gp for the pair
 
 ## Butcher
 Auster Indel

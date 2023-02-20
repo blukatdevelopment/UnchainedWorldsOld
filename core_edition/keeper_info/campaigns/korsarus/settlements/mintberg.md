@@ -48,6 +48,7 @@ Orna Guish
 
 ## General Store
 Tohgahnaynohnay
+- Ever Ice Glaive 60gp
 
 ## Tailor
 Kahteetoogahnih

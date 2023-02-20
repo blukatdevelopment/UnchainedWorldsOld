@@ -37,6 +37,7 @@ Neot Iton
 
 ## General Store
 Tahgohtahtahhah
+- +1 Serated Longsword
 
 ## The Running Deer Inn
 Tihgahtahnay

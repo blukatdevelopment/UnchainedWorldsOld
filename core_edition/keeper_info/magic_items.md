@@ -466,7 +466,7 @@ The disk player contains a 4-inch square screen that can display monochrome imag
 A 2ft cube. On the front is a 15-inch square screen and two speakers. On the back are ports to plug in a keyboard and a network cable. On the left side are slots for Disks and Cassettes. It consumes a stamina die per 8 hours of use.
 
 ### Holovid player
-This five-inch diameter metal disk has slots for cassettes and disks and controls. Holovids expand to fill a 10ft cube, and can
+This five-inch diameter metal disk has slots for cassettes and disks and controls. Holovids expand to fill a 10ft cube, and can be rotated, paused, and played in reverse.
 
 ### Illuminated wristwatch
 This watch displays the time of day on it and produces bright light within 1 foot. Breaking the watch causes it to deal 1d4 radiant damage to anything within 5ft of it for 6 seconds.

@@ -112,3 +112,24 @@ The silent order are a shadowy organization run by Silent in Arcanus. Their goal
 18. Member of Order: Become knight or scribe
 25. Inner Order: Access to other scribes.
 35. Deepest Secrets: Access to most sensitive information.
+
+# Minor factions
+These factions do not get faction turns, but allying with them aids major factions.
+
+## Wayfarer's Guild
+A band of trade wagons that bring goods and services to the Korsarus region.
+
+## Church of Bimros
+The loose coalition of sages, knights, and diviners that gather to do the will of Bimros. They delight in the extermination of monsters and the expansion of human occupation.
+
+## Church of Solus
+The loose coalition of sages, paladins, and diviners that gather to do the will of Solus. They seek to raise armies and overtake the Korsarus region.
+
+## Privateers Guild
+The organized pirates of the Eastern Sea. The privateers can be contracted as a mercenary navy, escorts, privateers, or merely paid protection money to ensure safe passage. They are responsible for most smuggled goods in the Korsarus region.
+
+## Assassin's Guild
+A group of monks that gathered under the lawful evil pursuit of violence for it's own sake. They are centered in Shadowvale, which is largely unreachable by Omarian authority.
+
+## Mages Guild
+Centered in the university within the Golden Core of Korsarus City, the mages guild governs the use of magic in the region, and is responsible for the reputation of magic users. They do not get along with diviners and other non-arcane magic users.

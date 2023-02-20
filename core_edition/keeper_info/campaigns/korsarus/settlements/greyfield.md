@@ -44,6 +44,7 @@ Awar Dindep
 
 ## General Store
 Agil rason
+- Giant Bone Battleaxe 30gp
 
 ## Tinkerer
 Ilfaed Wrenchhammer

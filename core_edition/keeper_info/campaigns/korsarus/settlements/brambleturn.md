@@ -46,8 +46,7 @@ Cortuss  Shattertemper
 - Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
 - Dinner of runny porridge (Food and water)
 - Rusty wash basin (Hot bath)
-
-### Deluxe room ()
+- Healing (5sp, 1 amenity)
 
 ## Tailor
 Tudy Scissorsnip

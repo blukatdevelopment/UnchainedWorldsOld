@@ -39,6 +39,11 @@ Lahnohlee(Rebel) - Weapons cache
 
 ## General Store
 Lahloohahgay
+On display in coat of arms, but not for sale:
+- +1 longsword Elder Kihnohlahnay
+- +1 longsword Elder Lohkohloh
+- +1 longsword Elder Teekoogee
+- +1 longsword Elder Naytahgeekahtah
 
 ## The Superb Gentleman Inn
 Naynoohihkaygih
