@@ -1,44 +1,44 @@
-# Magic Items: Volume 1
+# Magic Items
 
 ## Magic Focuses
 
-### +1 Wand (Uncommon)
+### +1 Wand
 This wand has a +! bonus to both spell attack rolls and damage dealt by
 spell attacks cast with the wand.
 
-### +2 Wand (Rare)
+### +2 Wand
 This wand has a +! bonus to both spell attack rolls and damage dealt by
 spell attacks cast with the wand.
 
-### +3 Wand (Very Rare)
+### +3 Wand
 This wand has a +! bonus to both spell attack rolls and damage dealt by
 spell attacks cast with the wand.
 
-### Cantrip Wand (Rare)
+### Cantrip Wand 
 When you cast a cantrip with this wand, you may decide to store the cantrip
 inside the wand. Anyone holding the wand may then expend a stamina die to cast
 the spell using the wand. The attack bonus is +4 and the DC is 12.
 
-### Spell-storing wand (Rare)
+### Spell-storing wand
 When you cast a spell while using this wand, you may choose to store the spell
 instead of casting it normally. The spell is stored with your spell attack
 bonus and your spell DC. Anyone holding the wand may cast the spell stored in
 it, emptying the wand.
 
-### Spell-stealing Wand (Very Rare)
+### Spell-stealing Wand
 This wand has a cover that you can slide open to reveal a hidden compartment.
 If you open the compartment within 10ft of a spellcaster when they cast a spell,
 that spell is stored in the wand instead of being cast. You may then cast the
 spell at a later time, which has a +2 modifier and a spell DC of 12. This wand
 can only store one spell, which is expended when you cast it.
 
-### Shooting star wand (Rare)
+### Shooting star wand
 When you cast a spell with an attack roll, this spell deals an additional 1d4
 force damage as it fires tiny shooting stars as part of the attack. If you
 roll a natural 1 with this wand on an attack roll, the wand produces sparks
 instead of casting.
 
-### Portal Wand (Very Rare)
+### Portal Wand
 This wand can be used to produce either a blue or orange portal. Each is
 projected onto a flat 5ft square surface within 60ft. The blue portal consumes
 two stamina dice, and the orange portal consumes one stamina die. The portals 
@@ -90,15 +90,18 @@ normal damage.
 Ranged weapon (30/60), Light
 Weight:2lb
 Damage: 1d6 fire
-Uses hand crossbow or firearm proficiency. Has five charges.
-Can be recharged with a stamina die.
+Uses hand crossbow or firearm proficiency. Has five charges. Can be recharged with a stamina die using an action.
+
+### Autoblaster
+Ranged weapon (30/60), Light
+Weight:2lb
+Damage: 1d6 fire
+Uses hand crossbow or firearm proficiency. Has thirty charges. Can be recharged with three stamina dice using an action. Instead of firing normally, wielder may burst fire, which fires ten shots targeting a 10ft cube. All creatures within the cube must succeed a DC 15 DEX save, or take 1d6 fire damage. The damage is 4d6 for large or larger creatures.
 
 ### Lightning Rifle
 Ranged weapon(120/125)
-Damage 2d12 lightning
-Uses heavy crossbow or firearm proficiency. Has one charge.
-User must use action to charge up the rifle for 6 seconds.
-Can be recharged with a stamina die.
+Damage: 2d12 lightning
+Uses heavy crossbow or firearm proficiency. Has one charge. User must use action to charge up the rifle for 6 seconds. Can be recharged with a stamina die using an action.
 
 ### Power fist
 Unarmed attacks deal 1d4 damage when wearing this. The power fist is considered
@@ -109,56 +112,56 @@ bludgeoning damage on a hit.
 ### Lycan's Woe
 A weapon of choice for werewolf hunters. This metal knuckle guard contains a springloaded silver spike. It requires an action to load. When you hit with an unarmed attack while wielding the Lycan's Woe, you may use your bonus action to inject the silver spike, dealing an additional 4d8 piercing damage. Silver spikes require 50gp to fashion.
 
-### Death's Bane (Very Rare)
+### Death's Bane
 A magical +1 sword.
 Killing a humanoid or beast with Death's bane will raise the creature back as an
 undead form of themself. They will retain the same memories as when they were
 alive, and will have control over themself.
 
-### Extending rod (Uncommon)
+### Extending rod
 This quarterstaff may extend to up to 15ft long, extending the normal attack
 range by 10ft.
 
-### Magic boomerang (Uncommon)
+### Magic boomerang
 This +1 thrown weapon deals a base damage of 1d4 bludgeoning damage and has finess. It can be thrown up to 60 feet, and always returns to the thrower's
 hand at the start of their next turn, provided there is a path for it to return.
 
 ### Hell Steel Weapon
-Extra 1d4 fire
+- Extra 1d4 fire
 
 ### Soul Steel Weapon
-Extra 1d4 necrotic
+- Extra 1d4 necrotic
 
 ### Ever ice Weapon
-Extra 1d4 cold
-Breaks on a nat 1
+- Extra 1d4 cold
+- Breaks on a nat 1
 
 ### Fey Oak Weapon
-Counts as magical weapon
-Breaks on a nat 1
+- Counts as magical weapon
+- Breaks on a nat 1
 
 ### Obsidian Weapon
-Crits on a 19
-Breaks on a nat 1
+- Crits on a 19
+- Breaks on a nat 1
 
 ### Black Steel Weapon
-Automatically crits
+- Automatically crits
 
 ### Giant Bone Weapon
-Confers +2 STR to wielder
-Breaks on a nat 1
+- Confers +2 STR to wielder
+- Breaks on a nat 1
 
 ### Chiton Weapon
-Covered in spines. Extra 1d4 piercing
-Breaks on a nat 1
+- Covered in spines. Extra 1d4 piercing
+- Breaks on a nat 1
 
 ### Wild Crystal Weapon
 Three random 1st level spells. Can cast random spell with stamina die.
 
 ### Dragon Bone Weapon
-Counts as magical damage.
-Crits deal max damage.
-Breaks on a nat 1
+- Counts as magical damage.
+- Crits deal max damage.
+- Breaks on a nat 1
 
 ### Bear Hands
 A pair of gloves with long claws that can be used as +1 sickles. When both are wielded by the the same creature, they gain a climbing speed equal to their movement speed.
@@ -258,172 +261,127 @@ Special half plate armor made from lost tech. Consume stamina die and bonus acti
 ### Mushroom Armor
 Special leather armor made from mushrooms and interfaces with your body. Grants telepathy while worn.
 
-### Cherryblossom Shield (Common)
+### Cherryblossom Shield
 Has one charge which restores each day. As a reaction to being targeted with
 a melee attack, you can release a flurry of cherryblossoms from this shield
 which will cause the attack to be made with disadvantage.
 
-### Miner's Helm (Common)
-This helmet has a built-in bullseye lantern that can be switched on and off
-with a command word. The flame is magical and does not consume fuel.
+### Miner's Helm
+This helmet has a built-in bullseye lantern that can be switched on and off with a command word. The flame is magical and does not consume fuel.
 
-### Flowering Cloak (Rare)
-This cloak is covered in flowers that attract butterflies and moths. It confers
-advantage on animal handling checks.
+### Flowering Cloak
+This cloak is covered in flowers that attract butterflies and moths. It confers advantage on animal handling checks.
 
-### Frog-eyed Necklace (Rare)
-This necklace consists of twine with a frog eye hanging from it.
-Requires attunement. When worn by the attuned creature, provides advantage
-on perception checks. However, you become hypervigialent of bugs. If you are
-in the presence of bugs, you must succeed a DC 15 wisdom saving throw or attempt
+### Frog-eyed Necklace
+This necklace consists of twine with a frog eye hanging from it. Requires attunement. When worn by the attuned creature, provides advantage on perception checks. However, you become hypervigialent of bugs. If you are in the presence of bugs, you must succeed a DC 15 wisdom saving throw or attempt
 to eat one of the bugs.
 
-### Croak Cloak (Uncommon)
-When you pull the hood of this green cloak over your head, your skin turns green
-and slick with mucus. You have advantage on checks made to avoid being grappled.
-Your fingers become webbed. You gain a swimming speed equal to your normal speed.
+### Croak Cloak
+When you pull the hood of this green cloak over your head, your skin turns green and slick with mucus. You have advantage on checks made to avoid being grappled. Your fingers become webbed. You gain a swimming speed equal to your normal speed.
 
-### Visor of Doom (Common)
+### Visor of Doom 
 When you wear this helmet, your eyes glow bright red.
 
-### Cocao Heavy Armor (Uncommon)
+### Cocao Heavy Armor 
 This +1 heavy armor maintains a toasty warm temperature, even in extremely hot
 or cold environments. When you take damage, make a DC 12 constitution saving
 throw. On a failure, the armor fails to regulate heat and burns you, dealing
 1d4 fire damage.
 
-### +1 armor (Uncommon)
+### +1 armor 
 This armor has a +1 bonus to the AC of the wearer.
 
-### +2 armor (Rare)
+### +2 armor 
 This armor has a +2 bonus to the AC of the wearer.
 
-### +3 armor (Very Rare)
+### +3 armor 
 This armor has a +3 bonus to the AC of the wearer.
 
-### Jump Suit (Rare)
-This half plate has jets on the back that produce blue flame to propel the
-wearer into the air. It has 6 charges, which return at dawn. When active,
-the suit consumes one charge per 6 seconds and confers a 60ft flying speed
-to the wearer.
+### Jump Suit 
+This half plate has jets on the back that produce blue flame to propel the wearer into the air. It has 6 charges, which return at dawn. When active, the suit consumes one charge per 6 seconds and confers a 60ft flying speed to the wearer.
 
 ### Pneumatic Mobility Gear
 These 6 inch by 18 inch by four-foot long rectangular boxes are harnessed to the hips of the wearer, who may not wear medium or heavy armor while operating the mobility gear. By using your bonus action to consume one stamina die, the box fires a grappling hook up to 120ft towards a solid object such as a tree, wall, building, or huge creature. The suit then reels in the line connected to the hook, propeling the user toward it. The user can either land on that target, or fire the pneumatic mobility gear again at the start of their next turn to remain moving without landing.
 
-### Cape of Billowing (Common)
+### Cape of Billowing
 At all times, the cape flutters as if blown by a strong wind.
 
-### Boots of Spiderwalk (Uncommon)
-When wearing these boots, you have a climb speed equal to your movement speed
-and may walk perpendicularly up walls or upside-down on ceilings.
+### Boots of Spiderwalk
+When wearing these boots, you have a climb speed equal to your movement speed and may walk perpendicularly up walls or upside-down on ceilings.
 
-### Boots of Dashing (Uncommon)
-These boots have stylish lightning bolts on them.
-When wearing these boots, you may expend a stamina die to move an additional 60 feet.
+### Boots of Dashing
+These boots have stylish lightning bolts on them. When wearing these boots, you may expend a stamina die to move an additional 60 feet.
 
-### Boots of air step (Uncommon)
-When wearing these boots, you may expend a stamina die to move horizontally on open
-air as if it were solid ground. This effect ends at the end of your turn.
+### Boots of air step
+When wearing these boots, you may expend a stamina die to move horizontally on open air as if it were solid ground. This effect ends at the end of your turn.
 
-### Boots of waterwalk (Uncommon)
+### Boots of waterwalk
 When wearing these boots, you may walk on water as if it were solid ground.
 
-### Winged boots (Uncommon)
-When wearing these boots, you may expend a stamina die to gain a flying speed of
-60ft until the start of your next turn.
+### Winged boots
+When wearing these boots, you may expend a stamina die to gain a flying speed of 60ft until the start of your next turn.
 
-### Boots of Elven Kind (Uncommon)
-When wearing these boots, your footsteps make no sound, and you have advantage 
-on stealth checks relying on moving silently.
+### Boots of Elven Kind 
+When wearing these boots, your footsteps make no sound, and you have advantage on stealth checks relying on moving silently.
 
-### Spring boots (Common)
-When wearing these boots, you may expend a stamina die to jump up to 30ft as a long
-jump or high jump.
+### Spring boots
+When wearing these boots, you may expend a stamina die to jump up to 30ft as a long jump or high jump.
 
-### Knife boots (Common)
-When you tap these boots together, a spring-loaded knife extends from the toe.
-The knife boot uses strength and deals 1d4+STR piercing damage.
+### Knife boots 
+When you tap these boots together, a spring-loaded knife extends from the toe. The knife boot uses strength and deals 1d4+STR piercing damage.
 
-### Gauntlets of Dwarven Kind (Uncommon)
-When wearing these gauntlets, your unarmed attacks deal 1d6+STR bludgeoning
-damage.
+### Gauntlets of Titan Kind
+When wearing these gauntlets, your STR score increases by +4.
 
-### Gauntlets of fire (Uncommon)
+### Gauntlets of fire
 When wearing these gauntlets, you may expend a stamina die to add 2d6 fire damage
 to an unarmed attack.
 
-### Shock Gauntlets (Uncommon)
+### Shock Gauntlets
 When wearing these gauntlets, you may use your bonus action to expend a stamina die 
 and deal 2d6 lightning damage to a grappled target.
 
-### Ice Gauntlets (Uncommon)
-When wearing these gauntlets, you may use an action to expend a stamina die and
-blast a 15ft cone of cold air. All creatures in the cone must succeed a DC 12
-DEX save to halve 2d6 cold damage. On a failure, a creature's movement is
-reduced to 0ft until the start of your next turn.
+### Ice Gauntlets
+When wearing these gauntlets, you may use an action to expend  stamina die and blast a 15ft cone of cold air. All creatures in the cone must succeed a DC 12 DEX save to halve 2d6 cold damage. On a failure, a creature's movement is reduced to 0ft until the start of your next turn.
 
-### Seeker Swarm Gauntlet (Rare)
-When wearing these gauntlets, you may use a bonus action to expend a stamina die and 
-cast the magic missile spell from the spell compendium volume 1. When you do,
-the darts appear as tiny flying needles that pierce through or graze their target
-before returning to your gauntlet.
+### Seeker Swarm Gauntlet
+When wearing these gauntlets, you may use a bonus action to expend a stamina die and cast the magic missile spell. When you do, the darts appear as tiny flying needles that pierce through or graze their target before returning to your gauntlet.
 
-### Shield Gauntlet (Rare)
-This gauntlet has a retractable shield that you may expand or retract by using
-your bonus action. It does not require an empty hand to deploy.
+### Shield Gauntlet
+This gauntlet has a retractable shield that you may expand or retract by using your bonus action. It does not require an empty hand to deploy.
 
-### Ring of Invisibility (Rare)
-You may consume a stamina die to become invisible for 1 hour. The effect ends if you
-perform an attack or cast a spell.
+### Ring of Invisibility
+You may consume a stamina die to become invisible for 1 hour. The effect ends if you perform an attack or cast a spell.
 
-### Ring of the robust (Uncommon)
-You may use a bonus action to consume a stamina die, rolling it and gaining that
-much temporary hit points.
+### Ring of the robust
+You may use a bonus action to consume a stamina die, rolling it and gaining that much temporary hit points.
 
-### Ring of regretful wisdom (Rare)
-You activate the ring by speaking a grave regret of yours. If the ring accepts
-your answer, it will consume a stamina die and grant you advantage on wisdom saving
-throws for the next hour.
+### Ring of regretful wisdom 
+You activate the ring by speaking a grave regret of yours. If the ring accepts your answer, it will consume a stamina die and grant you advantage on wisdom saving throws for the next hour.
 
-### Ring of +1 ability score (Uncommon)
-Each ring has a particular ability. A wearer that attunes to it will have a +1
-bonus to that ability score. Wearing the ring cannot raise an ability score past
-20.
+### Ring of +1 ability score
+Each ring has a particular ability. A wearer that attunes to it will have a +1 bonus to that ability score. Wearing the ring cannot raise an ability score past 20.
 
-### Ring of +2 ability score (Rare)
-Each ring has a particular ability. A wearer that attunes to it will have a +2
-bonus to that ability score. Wearing the ring cannot raise an ability score past
-20.
+### Ring of +2 ability score
+Each ring has a particular ability. A wearer that attunes to it will have a +2 bonus to that ability score. Wearing the ring cannot raise an ability score past 20.
 
-### Ring of +3 ability score (Very Rare)
-Each ring has a particular ability. A wearer that attunes to it will have a +3
-bonus to that ability score. Wearing the ring cannot raise an ability score past
-20.
+### Ring of +3 ability score
+Each ring has a particular ability. A wearer that attunes to it will have a +3 bonus to that ability score. Wearing the ring cannot raise an ability score past 20.
 
-### Ring of ghostly breath (Uncommon)
-When attuned to this ring, the wearer's breath will become visible when within
-300 feet of an undead.
+### Ring of ghostly breath
+When attuned to this ring, the wearer's breath will become visible when within 300 feet of an undead.
 
-### Ring of Disguise (Rare)
+### Ring of Disguise
 When attuned to this ring, the wearer may cast disguise self at will.
 
-### Ring of Elemental redirection (Rare)
-When attuned to this ring and targeted with an attack roll that would deal
-lightning, fire, or cold damage, the wearer may consume one stamina die to attempt
-to deflect the attack. They make an acrobatics check against the attack roll.
-On a success, they may send the attack off harmlessly in another direction. If
-they succeed by 5 or more, they may redirect the attack back to the sender for
-normal damage.
+### Ring of Elemental redirection
+When attuned to this ring and targeted with an attack roll that would deal lightning, fire, or cold damage, the wearer may consume one stamina die to attempt to deflect the attack. They make an acrobatics check against the attack roll. On a success, they may send the attack off harmlessly in another direction. If they succeed by 5 or more, they may redirect the attack back to the sender for normal damage.
 
-### Blood Band of Flames (Rare)
-You may activate the ring using a bonus action, at which time it consumes 1d4
-hit points from you and allows you to cast the Burning Hands spell from the
-spell compendium volume I.
+### Blood Band of Flames
+You may activate the ring using a bonus action, at which time it consumes 1d4 hit points from you and allows you to cast the Burning Hands spell from the spell compendium volume I.
 
-### Amulet of fortitude (Legendary)
-When you wear this amulet, it sinks into your chest and replaces your heart.
-You no longer have a pulse, and you are now vulnerable to lightning damage.
-Your constitution becomes 18. When you die, the amulet surfaces from your chest.
+### Amulet of fortitude
+When you wear this amulet, it sinks into your chest and replaces your heart. You no longer have a pulse, and you are now vulnerable to lightning damage. Your constitution becomes 18. When you die, the amulet surfaces from your chest.
 
 ## Consumables
 
@@ -444,72 +402,102 @@ The wearer may use their action to consume a stamina die, doff this shield, and 
 ### Gambler's Sausage
 This fermented sausage has a shelf life of 6 days. The older it gets, the more potent, but the more likely it is to become toxic. When eaten, roll a d12 and add the number of days since this sausage was created. If the roll is under 12, you gain that many stamina dice. If the roll is over 12, you instead take that roll as poison damage.
 
-### +1 Quiver (Common)
-This quiver contains 12 arrows that each cause an additional +1 damage on a hit.
-Arrows added to the quiver do not gain this property.
+### +1 Quiver
+This quiver contains 12 arrows that each cause an additional +1 damage on a hit. Arrows added to the quiver do not gain this property.
 
-### +2 Quiver (Uncommon)
+### +2 Quiver
 This quiver contains 12 arrows that each cause  an additional +2 damage on a hit.
 This quiver contains 12 arrows that each cause 
 
-### +3 Quiver (Rare)
+### +3 Quiver
 This quiver contains 12 arrows that each cause an additional +3 damage on a hit.
-This quiver contains 12 arrows that each cause 
 
-### Bottomless Quiver (Rare)
+### Bottomless Quiver
 When you fire an arrow removed from this quiver, it disappears shortly after
 impact and a new one reapears inside the quiver.
 
-### Exploding Shuriken (Common)
+### Exploding Shuriken
 This throwing star shares proficiency with darts. If you throw this shuriken and hit a target, it sticks into them. Speaking the command word with a bonus action causes the shuriken to explode, which forces all creatures within 10ft of the target to make a dex saving throw. On a failure they take 3d6 fire damage, and half as much on a success.
 
-### Fin Candy (Common)
+### Fin Candy
 When you eat this grey fin-shaped candy, you find that it is sweet with a leathery, gummy texture. Your head transforms into that of a hammerhead shark, allowing you to breathe underwater for 1 hour.
 
 ### Spell Scroll
-This scroll contains a spell and the magical energy needed to cast it. A command
-phrase is written on the scroll. Speaking it aloud while holding the scroll will
-cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
+This scroll contains a spell and the magical energy needed to cast it. A command phrase is written on the scroll. Speaking it aloud while holding the scroll will cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
 
-#### Cantrip spell scroll (Common)
-This scroll contains a spell and the magical energy needed to cast it. A command
-phrase is written on the scroll. Speaking it aloud while holding the scroll will
-cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
+#### Cantrip spell scroll
+This scroll contains a spell and the magical energy needed to cast it. A command phrase is written on the scroll. Speaking it aloud while holding the scroll will cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
 
-#### 1st spell scroll (Common)
-This scroll contains a spell and the magical energy needed to cast it. A command
-phrase is written on the scroll. Speaking it aloud while holding the scroll will
-cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
+#### 1st spell scroll 
+This scroll contains a spell and the magical energy needed to cast it. A command phrase is written on the scroll. Speaking it aloud while holding the scroll will cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
 
-#### 2nd spell scroll (Uncommon)
-This scroll contains a spell and the magical energy needed to cast it. A command
-phrase is written on the scroll. Speaking it aloud while holding the scroll will
-cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
+#### 2nd spell scroll
+This scroll contains a spell and the magical energy needed to cast it. A command phrase is written on the scroll. Speaking it aloud while holding the scroll will cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
 
-#### 3rd spell scroll (Rare)
-This scroll contains a spell and the magical energy needed to cast it. A command
-phrase is written on the scroll. Speaking it aloud while holding the scroll will
-cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
+#### 3rd spell scroll
+This scroll contains a spell and the magical energy needed to cast it. A command phrase is written on the scroll. Speaking it aloud while holding the scroll will cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
 
-#### 4th spell scroll (Rare)
-This scroll contains a spell and the magical energy needed to cast it. A command
-phrase is written on the scroll. Speaking it aloud while holding the scroll will
-cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
+#### 4th spell scroll
+This scroll contains a spell and the magical energy needed to cast it. A command phrase is written on the scroll. Speaking it aloud while holding the scroll will cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
 
-#### 5th spell scroll (Very Rare)
-This scroll contains a spell and the magical energy needed to cast it. A command
-phrase is written on the scroll. Speaking it aloud while holding the scroll will
-cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
+#### 5th spell scroll
+This scroll contains a spell and the magical energy needed to cast it. A command phrase is written on the scroll. Speaking it aloud while holding the scroll will cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
 
-#### 6th spell scroll (Legendary)
-This scroll contains a spell and the magical energy needed to cast it. A command
-phrase is written on the scroll. Speaking it aloud while holding the scroll will
-cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
+#### 6th spell scroll
+This scroll contains a spell and the magical energy needed to cast it. A command phrase is written on the scroll. Speaking it aloud while holding the scroll will cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
 
-#### Good Luck Pie (Uncommon)
-This pie may have a sweet or savory, but it's the fairy wings that give it it's
-name. Eating a pie grants advantage on one saving throw, attack, or ability
-check within the next hour.
+#### Good Luck Pie
+This pie may have a sweet or savory, but it's the fairy wings that give it it's name. Eating a pie grants advantage on one saving throw, attack, or ability check within the next hour.
+
+## Lost tech gadgets
+### Music Cassette
+Compatible with Cassette players, holds up to 24 hours of recording.
+
+### Cassette player
+Plays and records music cassettes. Fits in the palm of the hand, and comes with a set of headphones for private listening. Plays for 24 hours, then requires one stamina to recharge.
+
+### Data disk
+A reflective disk sitting inside a clear cassette housing. Used for storing bulk data.
+
+### Disk player
+The disk player contains a 4-inch square screen that can display monochrome images, read text files, and play audio through built-in speakers.
+
+### Computer terminal
+A 2ft cube. On the front is a 15-inch square screen and two speakers. On the back are ports to plug in a keyboard and a network cable. On the left side are slots for Disks and Cassettes. It consumes a stamina die per 8 hours of use.
+
+### Holovid player
+This five-inch diameter metal disk has slots for cassettes and disks and controls. Holovids expand to fill a 10ft cube, and can
+
+### Illuminated wristwatch
+This watch displays the time of day on it and produces bright light within 1 foot. Breaking the watch causes it to deal 1d4 radiant damage to anything within 5ft of it for 6 seconds.
+
+### Communicator badge
+This badge is tuned to a five digit frequency, and can be used to communicate with other communicators on that frequency over any distance. It requires 1 stamina to run the communicator for 24 hours.
+
+### Communicator wristwatch
+This wristwatch is tuned to a five digit frequency, and can be used to communicate with other communicators on that frequency over any distance. It requires 1 stamina to run the communicator for 24 hours.
+
+### Powerdrill
+This drill is made from black steel and consumes a stamina die in order to use for 1 hour.
+
+### Powersaw
+This saw is made from black steel and consumes a stamina die in order to use for 1 hour.
+
+### Chainsaw
+The chainsaw can slice through trees with it's black steel frame and teeth. One minute of use consumes a stamina die. If used as a melee weapon, it deals 3d6 slashing damage.
+
+### Black steel Hand tool
+A shovel, spade, hammer, wrench, axe, or other item made from black steel. It is highly durable.
+
+### Corruption counter
+This box produces a clicking sound when near sources of wild magic curruption. The faster the clicking, the closer to the source of corruption. Running it for 24 hours requires one stamina die.
+
+### Universal translator
+This item resembles a magnifying glass, except that text viewed through the lens appears in a language the wielder understands. Operating for 1 hour requires a stamina die.
+
+### Nightvision goggles
+These goggles allow one to see in perfect darkness up to 30ft. Powering it for 1 hour requires a stamina die.
+
 
 ## Potions
 
