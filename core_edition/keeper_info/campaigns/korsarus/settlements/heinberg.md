@@ -51,7 +51,12 @@ Iven Esrytach
 ## Book Seller
 Lanen Chadsud
 
-## Bathhouse
+## The Spiritual Hippo Bathhouse
 Claswo Ranyel
 Atdac Cepal
 Nohkoolah
+
+### Room (1gp, 6 amenities)
+- Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
+- Honey bread, wine (Food and water)(Fine drink)
+- Herbal Soaking (Hot bath)(Spa treatment)

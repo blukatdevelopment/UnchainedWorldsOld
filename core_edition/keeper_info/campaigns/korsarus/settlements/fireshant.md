@@ -29,23 +29,37 @@ Camram Ajori
 
 ## Granary
 Presin Ablein
+Kiqu Enjasp(Rebel) - Smuggler
 
-## Shrine
+## Shrine Kord
 Salvation
 Fatua Temight
 
 ## Workshop
 Faher Redsteel
 Furfot Brittleforge
+Dobur Pabremad(Rebel) - Weapons cache
 
 ## Tailor
 Etep Idunner
+Rego Beskar(Rebel) - Informant
 
 ## Butcher
 Draep Lasurek
+
+### Cheap Room (5sp, 4 amenities)
+- Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
+- Dinner of runny porridge (Food and water)
+- Rusty wash basin (Hot bath)
 
 ## Mayor's House
 Inbla Nuscle
 
 ## Coach service
 Woderin Creachif
+
+- Up to 6 passengers
+- Ride to Tahhaykoh(2 days, 1.44GP)
+- Ride to Eagleton(1 day, 0.72GP)
+- Ride to Hiegal(1 day, 0.72GP)
+- Ride to Greyfield(2 days, 1.44GP)

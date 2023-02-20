@@ -3,7 +3,7 @@
 ```
 {
     "name": "Mintberg",
-    "hex": "E11",
+    "hex": "E3",
     "population": 811,
     "locations": [
         "Herbalist",
@@ -32,10 +32,19 @@ Feal Esmoth
 ## Cobbler
 Twomp Loyee
 
-## Pub
+## The Obnoxious Bee(Pub)
 Insid Seng
 Ineer Gacet
 Orna Guish
+
+### Cheap Room (5sp, 3 amenities)
+- Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
+- Dinner of runny porridge (Food and water)
+
+### Fancy Room (1gp, 6 amenities)
+- Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
+- Dinner of runny porridge (Food and water)
+- Milksoap herbal soak (Hot bath)(spa treatment)(medical treatment)
 
 ## General Store
 Tohgahnaynohnay
@@ -43,5 +52,5 @@ Tohgahnaynohnay
 ## Tailor
 Kahteetoogahnih
 
-## Spa
+## Milksoap Spa
 Gahnahtoohah

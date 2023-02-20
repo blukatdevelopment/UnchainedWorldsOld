@@ -21,8 +21,14 @@ Lost Tech: 1
 ## Cobbler
 Yelso Lidpot
 
-## Shrine
+## Shrine of Exheia
 Truth
 
 ## Bakery
 Trub Leporty
+
+### Cheap Room (1sp, 4 amenities)
+- Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
+- Dinner of runny porridge (Food and water)
+- Rusty wash basin (Hot bath)
+- Can forego payment by laboring for a day

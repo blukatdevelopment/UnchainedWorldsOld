@@ -24,6 +24,9 @@ Alchemical: 5
 Lost Tech: 1
 ```
 
+## Giant yarn ball
+There's a 20ft tall yarn ball covered in resin to prevent it from rotting away.
+
 ## Trapper
 Felin Feck
 
@@ -32,7 +35,7 @@ Laynihlee
 Hohhihhih
 Kesniv Hammerbright
 
-## Shrine
+## Shrine of Gidur
 Providence
 Seveprof Spidal
 
@@ -42,11 +45,16 @@ Usul Umberwretch
 ## Stables
 Corago Ustance
 
-## Pub
+## The Armed Turtle (pub)
 Coplum Phighli
 Stoyno Talegul
 
-## Bathhouse
+### Cheap Room (5sp, 4 amenities)
+- Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
+- Dinner of runny porridge (Food and water)
+- Rusty wash basin (Hot bath)
+
+## Lemontree Bathhouse
 Fodrount Dreswort
 Comedex Citale
 

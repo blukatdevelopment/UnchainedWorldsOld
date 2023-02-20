@@ -23,7 +23,7 @@ Lost Tech: 1
 ## Bakery
 Dipled Disip
 
-## Shrine
+## Shrine to Coenta
 Revelation
 
 ## Open Market
@@ -35,3 +35,8 @@ Camer Fourchizel
 
 ## Tailor
 Linin Feror
+
+### Cheap Room (5sp, 4 amenities)
+- Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
+- Dinner of runny porridge (Food and water)
+- Rusty wash basin (Hot bath)

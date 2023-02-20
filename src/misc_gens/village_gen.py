@@ -68,7 +68,7 @@ FANCY_LOCATIONS = [
 "Tinkerer",
 "School",
 "Temple",
-"Brothel",
+"Bathhouse",
 "Mayor's House",
 "Book Seller",
 "Coach service"

@@ -86,3 +86,16 @@ The scores mean:
 4. A couple items in stock.
 5. Most expensive items unavailable.
 6. All or most items available.
+
+## Coach services
+
+(1 day, 0.72GP)
+(2 days, 1.44GP)
+(3 days, 2.16GP)
+(4 days, 2.88GP)
+(5 days, 3.6GP)
+(6 days, 4.32GP)
+(7 days, 5.04GP)
+(8 days, 5.76GP)
+(9 days, 6.48GP)
+(10 days, 7.2GP)

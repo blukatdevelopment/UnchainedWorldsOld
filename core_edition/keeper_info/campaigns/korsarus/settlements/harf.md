@@ -27,29 +27,41 @@ Lost Tech: 1
 
 ## Herbalist
 Prickabir
+Totoh Ousbid(rebel) - Smuggler
 
 ## Bakery
 Winerex Peren
 
-## Tavern
+## The Lame Axe Tavern
 Cemo Tifid
+
+### Cheap Room (1sp, 3 amenities)
+- Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
+- Vegetable stew and bread (Food and water)
 
 ## General Store
 Bunsec Urec
 
-## Inn
+## The Sleepy Drum Inn
 Reref Erenwo
+
+## Comfortable room(8gp, 6 amenities)
+- Private room with wash basin, fireplace, and feather mattress (Fire and shelter)(Dry Bedding)(Comfortable bedding)(Hot bath)
+- Meal of bread and rabbit stew(Food and water)(Double food ration)
+- Spa token for herbal massage (5sp, 2 amenities)
 
 ## Stables
 Blost Rikin
 
-## Bathhouse
+## The Grateful Tigers Bathhouse
 Lohgahheeleenay
 Gompet Ionrat
+Reght Yeldog(rebel) - Informant
 
-## Spa
+## The sanctuary (Spa)
 Tawan Prim
 Ryod Eput
 
 ## School
 Nohkohnoonay
+Letird Giht(rebel) - Agitprop

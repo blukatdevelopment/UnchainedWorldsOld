@@ -22,6 +22,11 @@ Lost Tech: 1
 ## Herbalist
 Ilfa Tedbat
 
+### Cheap Room (5sp, 5 amenities)
+- Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
+- Dinner of runny porridge (Food and water)
+- Rusty wash basin with herbal wash (Hot bath)(spa treatment)
+
 ## Cobbler
 Scrat Rest
 

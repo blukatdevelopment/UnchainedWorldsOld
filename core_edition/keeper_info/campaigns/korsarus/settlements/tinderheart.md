@@ -20,7 +20,7 @@ Alchemical: 1
 Lost Tech: 1
 ```
 
-## Shrine
+## Shrine of Kord
 Serenity
 
 ## Bakery
@@ -33,6 +33,11 @@ Conysup Ortiva
 
 ## Tailor
 Resat Iven
+
+### Cheap Room (5sp, 4 amenities)
+- Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
+- Dinner of runny porridge (Food and water)
+- Rusty wash basin (Hot bath)
 
 ## Workshop
 Totax Coalbeard

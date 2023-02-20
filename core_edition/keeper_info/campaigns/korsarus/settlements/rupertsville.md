@@ -30,8 +30,9 @@ Sowsta Darda
 ## Open Market
 Nother Senory
 
-## Shrine
-Compassion
+## Shrine of Bimros (secretly of Docla)
+- Appease the starvation devil by fasting every Coinday
+Compassion(secretly Forratra)
 
 ## Workshop
 Bront Steelsheet
@@ -44,13 +45,23 @@ Misgid Edgit
 ## Butcher
 Auster Indel
 
+### Cheap Room (5sp, 4 amenities)
+- Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
+- Dinner of runny porridge (Food and water)
+- Rusty wash basin (Hot bath)
+
 ## Apothecary
 Gaylaytohnih
 
-## Bathhouse
+## Heartyscrub Bathhouse
 Conret Einnoc
 Entsel Asure
 Scarg Lamorus
+
+### Room (1gp, 6 amenities)
+- Cotton mattress (Fire and shelter)(Dry Bedding)(comfortable beddinmg)
+- Dinner of runny porridge (Food and water)
+- Rusty wash basin (Hot bath)(spa treatment)
 
 ## Book Seller
 Melimag Inativell

@@ -19,7 +19,7 @@ Alchemical: 3
 Lost Tech: 1
 ```
 
-## Shrine
+## Shrine of Gidur
 Glory
 
 ## Open Market
@@ -28,5 +28,10 @@ Lohtahkah
 ## Herbalist
 Initat Iveglor
 
-## Inn
+## The Successful Serpent Inn
 Oussig Bahromur
+Quarty - Pet giant boa constrictor
+
+## Comfortable room(8gp, 6 amenities)
+- Private room with wash basin, fireplace, and feather mattress (Fire and shelter)(Dry Bedding)(Comfortable bedding)(Hot bath)
+- Meal of bread and rabbit stew(Food and water)(Double food ration)

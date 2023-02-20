@@ -45,13 +45,21 @@ Awar Dindep
 ## General Store
 Agil rason
 
-
 ## Tinkerer
 Ilfaed Wrenchhammer
 
 ## Coach service
 Abet Rouble
 
+- Up to 6 passengers
+- Ride to Eagleton(1 day, 0.72GP)
+- Ride to Fireshant(2 days, 1.44GP)
+- Ride to Hiegal(3 days, 2.16GP)
+
+### Cheap Room (5sp, 4 amenities)
+- Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
+- Dinner of runny porridge (Food and water)
+- Rusty wash basin (Hot bath)
 
 ## Book Seller
-
+Ratosh Amed

@@ -27,7 +27,7 @@ Lost Tech: 1
 ## Herbalist 
 Tayhahtah
 
-## Shrine 
+## Shrine of Gidur
 Integrity
 
 ## Beekeepers 
@@ -35,8 +35,9 @@ Kahhoogee
 
 ## Stables 
 Gantblow Unlid
+Corkhandle(rebel) - informant
 
-## Pub 
+## Pub
 Mercon Cree
 Heetohnay
 
@@ -47,10 +48,17 @@ Lihloonoohih
 Lihgohnohlee
 Hahkihkoo
 
-## Book Seller 
+## Book Seller
 Styblam Ereco
+Bentleaf(rebel) - Agitprop
 
-## Bathhouse
+## The Queit Fawn Bathhouse
 Rely Abilit
 Natnal Exerse
 Catous Blak
+Leftmule(rebel) - Informant
+
+### Cheap Room (8sp, 6 amenities)
+- Private room with cotton mattress (Fire and shelter)(Dry Bedding)
+- Dinner of runny honey porridge (Food and water)
+- Herbal soak and massage (Hot bath)(Spa treatment)(Medical attention)

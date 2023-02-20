@@ -22,6 +22,9 @@ Alchemical: 1
 Lost Tech: 1
 ```
 
+## Graveyard
+Divided between two draconic armies of humans from the dragon age. It's not understood who won the battle, or who the two dragon lords involved were.
+
 ## Open Market
 Fisfa Anvilquench
 Waywhis Ringhammer
@@ -35,9 +38,16 @@ Artyte Strikeiron
 ## Butcher
 Typrip Scaldcoal
 
-## Pub
+## The Royal Pelican Pub
 Engeer Clanghorse
 Cortuss  Shattertemper
+
+### Cheap Room (5sp, 4 amenities)
+- Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
+- Dinner of runny porridge (Food and water)
+- Rusty wash basin (Hot bath)
+
+### Deluxe room ()
 
 ## Tailor
 Tudy Scissorsnip

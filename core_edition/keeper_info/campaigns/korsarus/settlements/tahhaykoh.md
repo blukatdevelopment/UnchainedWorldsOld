@@ -35,20 +35,34 @@ Neehooneekih
 
 ## Workshop
 Hohtihkooneenah
+Lahnohlee(Rebel) - Weapons cache
 
 ## General Store
 Lahloohahgay
 
-## Inn
+## The Superb Gentleman Inn
 Naynoohihkaygih
 
-## Temple
+## Comfortable room(8gp, 6 amenities)
+- Private room with wash basin, fireplace, and feather mattress (Fire and shelter)(Dry Bedding)(Comfortable bedding)(Hot bath)
+- Meal of bread and rabbit stew(Food and water)(Double food ration)
+- Herbal soak (2sp, 1 amenity)
+
+## Temple of Uaos
 Keenahgee
 Lahteehaynoo
 Kohlaytoohoh
 
 ## Coach service
 Tihkihnoo
+Kaylaygay(Rebel) - Informant
+
+- Up to 12 passengers
+- Ride to Mintberg(1 day, 0.72GP)
+- Ride to Cloverfield(3 days, 2.16GP)
+- Ride to Hiegal(3 days, 2.16GP)
+- Ride to Fireshant(3 days, 2.16GP)
 
 ## Book Seller
 Kohlohkihtoh
+Tohgoolihgee(Rebel) - Agitprop
