@@ -22,7 +22,7 @@ Lost Tech: 1
 Yelso Lidpot
 
 ## Shrine of Exheia
-Truth
+Truth(Diviner)
 
 ## Bakery
 Trub Leporty

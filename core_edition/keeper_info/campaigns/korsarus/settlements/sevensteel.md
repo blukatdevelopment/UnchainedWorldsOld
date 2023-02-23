@@ -23,6 +23,7 @@ Lost Tech: 1
 Glory
 
 ## Open Market
+Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md are visiting.
 Lohtahkah
 
 ## Herbalist

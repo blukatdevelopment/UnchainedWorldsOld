@@ -32,7 +32,10 @@ Nahhahgookahnah
 Hohgookahhah
 
 ## Open Market
+Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md are visiting.
 Kahnaygoh
+Grae Cotet
+Fator Magaty(Thief)
 
 ## Blacksmith
 Famil Barrelquench

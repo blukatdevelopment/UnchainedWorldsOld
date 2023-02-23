@@ -29,10 +29,11 @@ Histo Ranfant
 Pursestone(Rebel) - Informant
 
 ## Shrine of Bimros
-Flice Rintree
-Honesty
+Flice Rintree(Warrior)
+Honesty(Diviner)
 
 ## Open Market
+Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md are visiting.
 Neot Iton
 
 ## General Store
@@ -43,6 +44,7 @@ Tahgohtahtahhah
 Tihgahtahnay
 Lahhaylay
 Redaxe(Rebel) - Informant
+Amplehistory
 
 ## Comfortable room(8gp, 6 amenities)
 - Private room with wash basin, fireplace, and feather mattress (Fire and shelter)(Dry Bedding)(Comfortable bedding)(Hot bath)
@@ -66,7 +68,7 @@ Promton Faily
 - Ride to Tahaykoh(3 days, 2.16GP)
 
 ## Healer
-Lihlaytohkih
+Lihlaytohkih(Shaman)
 
 ## School
 Buypen Curmeat

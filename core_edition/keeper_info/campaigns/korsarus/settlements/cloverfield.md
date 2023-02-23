@@ -26,18 +26,29 @@ Lost Tech: 1
 ```
 ## Town theater
 Town residents put on comedies and historical plays about the  dragon age, titan age, and the empire of man.
+Roll for a random scene
+1. A dragon dances in front of a crowd of working peasants
+2. Two dragons smoke pipes while two armies of peasants fight
+3. A giant armored warrior fights two dragons
+4. Titan king feasts in front of a crowd of peasants and wolves
+5. A man with a sword of light slays a titan king
+6. A parade of blue soldiers march while an emperor proclaims the age of man has begun
+7. Peasants fight an emperor, who calls for his army from a portal, and it explodes
+8. A group of peasants sing and dance about being free from dragons, titans, and emperors
 
 ## Cobbler
+Invitecaring
 Kaytoohahkayhoh
 
 ## The Wise Coin (Tavern)
 Nohhohloo
 Neenohtaylihnoo
 Lahleekohnah
+Ideapassenger
 
 ## Shrine of Uaos
 Socru Elstat
-Kohgohnohkeelay
+Kohgohnohkeelay(Way of the fist Monk)
 
 ## Stables
 Tahheenihnoh
@@ -46,6 +57,7 @@ Tahheenihnoh
 Neekoogihgaylih
 Gohnahheetoh
 Hayheegoo
+Organizationsmooth
 
 ### Cheap Room (5sp, 4 amenities)
 - Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
@@ -58,7 +70,7 @@ Wighbar Wrenchfold
 Litral Wheelturner
 
 ## Healer
-Gayhohtah
+Gayhohtah(Shaman)
 
 ## Steaming Basin Bathhouse
 Goonahlaykahnee

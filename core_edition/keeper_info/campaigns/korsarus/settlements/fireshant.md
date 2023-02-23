@@ -36,9 +36,9 @@ Salvation
 Fatua Temight
 
 ## Workshop
-Faher Redsteel
-Furfot Brittleforge
-Dobur Pabremad(Rebel) - Weapons cache
+Faher Redsteel(Diviner)
+Furfot Brittleforge(Diviner)
+Dobur Pabremad(Diviner)(Rebel) - Weapons cache
 
 ## Tailor
 Etep Idunner

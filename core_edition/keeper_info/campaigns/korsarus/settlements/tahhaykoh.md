@@ -31,6 +31,8 @@ Gookayhoo
 Kihnootoogay
 
 ## Open Market
+Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md are visiting.
+
 Neehooneekih
 
 ## Workshop
@@ -54,7 +56,7 @@ Naynoohihkaygih
 - Herbal soak (2sp, 1 amenity)
 
 ## Temple of Uaos
-Keenahgee
+Keenahgee(way of the fist Monk)
 Lahteehaynoo
 Kohlaytoohoh
 

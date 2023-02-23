@@ -36,14 +36,16 @@ Clentbak Egnal
 Qualso Meper
 
 ## Shrine to Titan King Yavor
-Iodict Raton
-Gulib Lalar
+Iodict Raton(Diviner)
+Gulib Lalar(Warrior)
 
 ## Tailor
 Pastdel Icus
 
 ## The Mean Traveler Inn
 Ilit Ravirt
+Factwing
+Hairylist
 
 ## Comfortable room(8gp, 5gp)
 - Private room with fireplace and feather mattress (Fire and shelter)(Dry Bedding)(Comfortable bedding)

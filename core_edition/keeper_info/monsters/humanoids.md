@@ -1,19 +1,19 @@
 # Humanoids
 
 ## Character Classes
-These stat blocks represent NPCs that are using character classes.
+These stat blocks represent NPCs that are using character classes, as well as their associated stat blocks.
 
 ### Commoner
-`Commoner, XP: 0, HP: 3(1d4), AC: 10, [10, 10, 10, 10, 10, 10],Unarmed +1 1 bludgeoning`
+`Commoner, HP: 3(1d4), AC: 10, [10, 10, 10, 10, 10, 10],Unarmed +1 1 bludgeoning`
 
 ### Alchemist
-`Alchemist, XP: 0, HP: 15(3d4+3), AC: 10, [8, 10, 12, 18, 10, 10], Quarterstaff -1 1d8-1 bludgeoning`
+`Alchemist, HP: 15(3d4+3), AC: 10, [8, 10, 12, 18, 10, 10], Quarterstaff -1 1d8-1 bludgeoning`
 - Hunter bomb(2/day): 30ft range. 15ft radius explosion, DC 15 DEX save to halve 3d6 fire damage
 - Invisible Brandy(2/day): 1 minut invisibility
 - Cloud in a bottle(2/day):  20ft cube 1 hour. Salting causes DC 14 DEX save to halve 2d6 lightning damage.
 
 ### Diviner
-`Diviner, XP: 0, HP: 15(3d4+3), AC: 9, [10, 8, 12, 18, 10, 10],Mace +0 1d6 bludgeoning`
+`Diviner, HP: 15(3d4+3), AC: 9, [10, 8, 12, 18, 10, 10],Mace +0 1d6 bludgeoning`
 - Sacred Flame
 - Spare the dying
 - Guiding Bolt
@@ -21,20 +21,20 @@ These stat blocks represent NPCs that are using character classes.
 - Holy Weapon
 
 ### Gunsmith
-`Gunsmith, XP: 0, HP: 21(3d6+3), AC: 13, [10, 18, 12, 10, 10, 10],Dagger +5 1d4+4 piercing, Harmonica Gun +5 1d12+4 piercing`
+`Gunsmith, HP: 21(3d6+3), AC: 13, [10, 18, 12, 10, 10, 10],Dagger +5 1d4+4 piercing, Harmonica Gun +5 1d12+4 piercing`
 - Action surge(1/day): Two actions this turn
 - Extra attack
 
 
 ### Monk
-`Commoner, XP: 0, HP: 8(8), AC: 10, [12, 18, 12, 10, 16, 10],Ki Fists +5 1d4+4 magic bludgeoning`
+`Commoner, HP: 8(8), AC: 10, [12, 18, 12, 10, 16, 10],Ki Fists +5 1d4+4 magic bludgeoning`
 - Reroll 3d6 Ki (10 times): Rerolls ki, replacing if higher value.
 - Extra attack: May make three unarmed attacks
 - Flurry of blows: Expend 1d4 Ki points to make three unarmed attacks as bonus action.
 
 
 ### Muse
-`Muse, XP: 0, HP: 18(3d6), AC: 12, [10, 14, 10, 12, 10, 18],Shortsword +4 1d6+4 Slashing`
+`Muse, HP: 18(3d6), AC: 12, [10, 14, 10, 12, 10, 18],Shortsword +4 1d6+4 Slashing`
 - Extra attack: Two shortsword attacks
 - Spellcasting(1/day)
 - Command
@@ -45,7 +45,7 @@ These stat blocks represent NPCs that are using character classes.
 - Slow
 
 ### Psion
-`Psion, XP: 0, HP: 12(3d4), AC: 10, [10, 10, 10, 10, 18, 10],Unarmed +1 1 bludgeoning`
+`Psion, HP: 12(3d4), AC: 10, [10, 10, 10, 10, 18, 10],Unarmed +1 1 bludgeoning`
 - Spellcasting +6, DC14
 - Push
 - Pull
@@ -56,7 +56,7 @@ These stat blocks represent NPCs that are using character classes.
 - Phantasmal Force
 
 ### Runesmith
-`Runesmith, XP: 0, HP: 12(3d4), AC: 10, [10, 10, 10, 18, 10, 10],Quarterstaff +2 1d8 bludgeoning`
+`Runesmith, HP: 12(3d4), AC: 10, [10, 10, 10, 18, 10, 10],Quarterstaff +2 1d8 bludgeoning`
 - Mind Sliver (3/day)
 - Thornwhip (3/day)
 - Beast Aspect(1/day)
@@ -67,12 +67,12 @@ These stat blocks represent NPCs that are using character classes.
 - Antimagic Field(1/day)
 
 ### Scientist
-`Scientist, XP: 0, HP: 12(3d4), AC: 10, [12, 10, 10, 18, 10, 10],Cane Sword +3 1d8+1 piercing`
+`Scientist, HP: 12(3d4), AC: 10, [12, 10, 10, 18, 10, 10],Cane Sword +3 1d8+1 piercing`
 - Flamer(3/day): 15ft cone DC 13 DEX to halve 3d6 fire.
 - 
 
 ### Shaman
-`Shaman, XP: 0, HP: 12(3d4), AC: 10, [10, 10, 10, 10, 18, 10],Quarterstaff +2 1d8 bludgeoning`
+`Shaman, HP: 12(3d4), AC: 10, [10, 10, 10, 10, 18, 10],Quarterstaff +2 1d8 bludgeoning`
 - Wildshape Polar Bear(1/day): Form into polar bear.
 - Spellcasting +6, DC 14
 - Thorn Whip
@@ -97,18 +97,18 @@ Claws +6 2d6+4 bludgeoning
 ```
 
 ### Thief
-`Thief, XP: 0, HP: 12(3d4), AC: 15(leather), [10, 18, 10, 10, 10, 10],Dart +6 1d4+4 piercing, dagger +6 1d4+4 piercing`
+`Thief, HP: 12(3d4), AC: 15(leather), [10, 18, 10, 10, 10, 10],Dart +6 1d4+4 piercing, dagger +6 1d4+4 piercing`
 - +8 Stealth
 - Cunning action: Dash, disengage hide with bonus action
 - Advantage on dart attacks
 
 ### Warrior
-`Warrior, XP: 0, HP: 39(3d10+9), AC: 16(chainmail), [18, 10, 16, 10, 10, 10],Greatsword +6 2d6+4 Slashing`
+`Warrior, HP: 39(3d10+9), AC: 16(chainmail), [18, 10, 16, 10, 10, 10],Greatsword +6 2d6+4 Slashing`
 - Multi-attack: May make two greatsword attacks
 - Force strike: When miss by 1 or 2, force STR contest to deal half damage anyway.
 
 ### Werewolf
-`Werewolf, XP: 0, HP: 12(3d4), AC: 11, [12, 12, 12, 12, 12, 12],Dagger +3 1d4+1 piercing`
+`Werewolf, HP: 12(3d4), AC: 11, [12, 12, 12, 12, 12, 12],Dagger +3 1d4+1 piercing`
 - Shift(1/day): Turn into werewolf form
 
 ```
@@ -194,7 +194,7 @@ Claws: +4 2d4+4 DC 14 CON save or contract malignant lycanthropy
 ## Cultist
 
 `Cultist Initiate, XP: 25, HP: 9(3d4), AC: 12(leather), [10, 12, 11, 12, 8, 14], Dagger: +2 1d4+1 piercing, Skin Boil(5ft): DC 12 Con save or 1d10 necrotic`
-`Prisoner, XP: 0, HP: 9(3d4), AC: 10, [10, 10, 10, 10, 10, 10], Unarmed +1 1 bludgeoning`
+`Prisoner, HP: 9(3d4), AC: 10, [10, 10, 10, 10, 10, 10], Unarmed +1 1 bludgeoning`
 
 ## Cult leader
 

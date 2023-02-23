@@ -29,7 +29,7 @@ Vacation spot for goldrobes from the golden core
 Funweigh Tybar
 
 ## Shrine of Coentos
-Grace
+Grace(Diviner)
 Kesniv Elinyo
 
 ## Bakery
@@ -44,6 +44,7 @@ Chulcom Pincopper
 ## The Twelve Post(Inn)
 Busrad Iogarn
 Tuan Quambit
+Willair
 
 ## Comfortable room(8gp, 5 amenities)
 - Private room with fireplace and feather mattress (Fire and shelter)(Dry Bedding)(Comfortable bedding)

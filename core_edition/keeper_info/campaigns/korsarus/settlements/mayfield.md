@@ -51,7 +51,7 @@ Tybig Hared
 - Dinner of runny porridge (Food and water)
 
 ## Apothecary
-Lospec Faymet
+Lospec Faymet(Alchemist)
 
 ## Tinkerer
 Ofparn Ironwrench

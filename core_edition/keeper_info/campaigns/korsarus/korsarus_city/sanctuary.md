@@ -23,7 +23,7 @@ Sells holy books, lore books, office supplies, holy goods
 - Free room and board
 - Grants 1d2 * 100 piety/day to diviners
 
-### Charity
+### Charity(Diviner)
 - Pale Human
 - Long golden hair
 - pointed ears
@@ -41,7 +41,7 @@ Sells holy books, lore books, office supplies, holy goods
 - Walls plastered in childrens' art
 - Back yard full of craft projects
 
-### Mercy
+### Mercy(Warrior)
 - Elderly Lionfolk
 - Trans woman
 - Sweet, patient, retired warrior

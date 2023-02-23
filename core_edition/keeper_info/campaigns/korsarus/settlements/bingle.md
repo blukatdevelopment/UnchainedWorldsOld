@@ -28,15 +28,16 @@ Lost Tech: 1
 There's a 20ft tall yarn ball covered in resin to prevent it from rotting away.
 
 ## Trapper
-Felin Feck
+Felin Feck(Warrior)
 
 ## Open Market
+Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md are visiting.
 Laynihlee
 Hohhihhih
 Kesniv Hammerbright
 
 ## Shrine of Gidur
-Providence
+Providence(Diviner)
 Seveprof Spidal
 
 ## Butcher
@@ -46,8 +47,9 @@ Usul Umberwretch
 Corago Ustance
 
 ## The Armed Turtle (pub)
-Coplum Phighli
+Coplum Phighli(Warrior)
 Stoyno Talegul
+Holidaycreative
 
 ### Cheap Room (5sp, 4 amenities)
 - Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
@@ -59,4 +61,4 @@ Fodrount Dreswort
 Comedex Citale
 
 ## Apothecary
-Quimal Serhusk
+Quimal Serhusk(Alchemist)

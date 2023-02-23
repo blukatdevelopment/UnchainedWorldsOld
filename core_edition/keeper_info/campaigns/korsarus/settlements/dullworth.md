@@ -20,8 +20,10 @@ Lost Tech: 1
 ```
 
 ## Open Market
+Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md are visiting.
 Itivedear Bonc
 Loogahtoh
+Medicinemassive
 
 ## Cobbler
 Scraypla Scrapestone

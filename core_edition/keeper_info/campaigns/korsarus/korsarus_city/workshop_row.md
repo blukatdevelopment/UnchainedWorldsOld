@@ -3,7 +3,7 @@ raw materials enter this line of structures, and finished goods leave. It is dir
 
 ## Norban's Boot shop
 
-### Norban
+### Norban(Thief)
 - Masculine
 - Grey Human
 - 6ft and slender
@@ -14,7 +14,7 @@ raw materials enter this line of structures, and finished goods leave. It is dir
 - Thieves' guild fence
 - Discovering their fencing goods unlocks thief class.
 
-### Fifot Fituk
+### Fifot Fituk(Warrior)
 - Feminine
 - Pink Human
 - Dirty blonde hair

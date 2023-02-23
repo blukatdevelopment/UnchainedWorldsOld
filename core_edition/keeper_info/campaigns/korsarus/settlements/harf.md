@@ -34,6 +34,9 @@ Winerex Peren
 
 ## The Lame Axe Tavern
 Cemo Tifid
+Tintep Osive
+Comos Edmis(Thief)
+Logdisc
 
 ### Cheap Room (1sp, 3 amenities)
 - Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
@@ -61,7 +64,7 @@ Gompet Ionrat
 Reght Yeldog(rebel) - Informant
 
 ## The sanctuary (Spa)
-Tawan Prim
+Tawan Prim(Shaman)
 Ryod Eput
 
 ## School

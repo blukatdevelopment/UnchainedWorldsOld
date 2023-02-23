@@ -26,6 +26,8 @@ Gihlahhah
 ## The Amused Armadillo Tavern
 Fasfin Ished
 Namsason Canlay
+Figho Liday
+Caiveass Igmen
 
 ### Cheap Room (5sp, 4 amenities)
 - Open loft space with hay mattress (Fire and shelter)(Dry Bedding)

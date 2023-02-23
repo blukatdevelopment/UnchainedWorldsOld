@@ -41,9 +41,10 @@ Loolahnoolih(Loo)
 teekeelookoolee
 
 ## The Courageous Eelchicken Inn
-Tahhooheetoonay(Taho)
+Tahhooheetoonay(Taho)(Warrior)
 Leelihgahhahloh (Lee)
 Slickslack, the chicken eel
+Assignmenthurtful
 
 ### Standard Room (5sp, 5 amenities)
 - Room with cotton bed and wash basin(Dry Bedding)(Comfortable bedding)(Fire and shelter)(Hot bath)
@@ -58,7 +59,7 @@ Slickslack, the chicken eel
 Teehooloohohkah
 
 ## Apothecary
-Nahhahgookahnah(Nah)
+Nahhahgookahnah(Nah)(Alchemist)
 
 ## Gentle Waves Spa
 Hohgookahhah(Hohgoo)

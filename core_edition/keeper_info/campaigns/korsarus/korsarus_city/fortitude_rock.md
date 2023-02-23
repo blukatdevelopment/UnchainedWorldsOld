@@ -5,7 +5,7 @@
 
 ## Recruitment office
 
-### Sworf Iterman
+### Sworf Iterman(Warrior)
 - Masc blue human, pointed ears
 - Muscular
 - Long black hair
@@ -20,19 +20,19 @@
 - One of three commanders present at all times
 - Unlock warrior class(no oaths) here
 
-### Commander Consprect
+### Commander Consprect(Warrior)
 - Fem pale human
 - Short red hair
 - Crude, crass, tough love
 - Omarian Half plate and longsword
 
-### Commander Naross
+### Commander Naross(Warrior)
 - Masc brown human
 - Short dark hair
 - Protective, friendly
 - Omarian Half plate and longsword
 
-### Commander Fielcrose
+### Commander Fielcrose(Warrior)
 - Androgenous pink human
 - Slender, tall
 - Cold, calculating

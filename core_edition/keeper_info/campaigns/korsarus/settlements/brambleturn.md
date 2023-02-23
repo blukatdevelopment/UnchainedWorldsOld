@@ -26,6 +26,7 @@ Lost Tech: 1
 Divided between two draconic armies of humans from the dragon age. It's not understood who won the battle, or who the two dragon lords involved were.
 
 ## Open Market
+Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md are visiting.
 Fisfa Anvilquench
 Waywhis Ringhammer
 
@@ -40,7 +41,8 @@ Typrip Scaldcoal
 
 ## The Royal Pelican Pub
 Engeer Clanghorse
-Cortuss  Shattertemper
+Cortuss Shattertemper(Thief)
+Enchantedvegetable
 
 ### Cheap Room (5sp, 4 amenities)
 - Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
@@ -52,4 +54,4 @@ Cortuss  Shattertemper
 Tudy Scissorsnip
 
 ## Healer
-Hohnahkohkee
+Hohnahkohkee(Shaman)

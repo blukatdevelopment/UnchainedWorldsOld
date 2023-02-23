@@ -28,8 +28,9 @@ Lost Tech: 1
 Revo Tonsin
 
 ## Open Market
+Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md are visiting.
 Gleter Rifico
-Lihnihhookoh
+Lihnihhookoh(Thief)
 
 ## Granary
 Ragsur Ris
@@ -45,9 +46,10 @@ Bupror Ipersect
 
 ## Workshop
 Netlip Wrenchgear
+Mateanchor
 
 ## Apothecary
-Iven Esrytach
+Iven Esrytach(Alchemist)
 
 ## Book Seller
 Lanen Chadsud
