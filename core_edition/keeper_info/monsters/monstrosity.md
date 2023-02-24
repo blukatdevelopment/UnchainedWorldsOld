@@ -1,5 +1,10 @@
 # Monstrosity
 
+## Gargoyle
+A creature which shifts between statue and animate forms. Made completely of stone, but is alive.
+
+`Gargoyle, Size: small, HP: 16(2d8), AC: 16, Speed: 30ft [16,14,12,10, 12, 3], Claw +5 2d4+3 slashing`
+
 ## Tentacle beast
 A mass of writhing tentacles with a pod of flesh in the center featuring a beaked mouth. The tentacles have poison barbs, and when cooked and smoked are a staple in the tunnels for rations.
 
