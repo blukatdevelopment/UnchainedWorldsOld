@@ -11,6 +11,10 @@ input {
     width: 5ch;
 }
 
+.data {
+    width: 100%;
+}
+
 .row1 {
     width: 100%;
     display: table;

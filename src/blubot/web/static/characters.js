@@ -10,7 +10,6 @@ const CLASS = "class";
 const SIZE = "size";
 const CULTURE = "culture";
 const SPEED = "speed";
-const BODY_TYPE = "body type";
 const STAMINA_DICE = "stamina dice";
 const ARMOR_PROF = "armor proficiencies";
 const WEAPON_PROF = "weapon proficiencies";
@@ -22,6 +21,7 @@ const CONDITIONS = "conditions";
 const SENSES = "senses";
 const IMG = "image";
 const UNUSED = "unused";
+const IMAGE = "image";
 
 // Abilities
 const ABILITIES = "abilities";
@@ -34,50 +34,10 @@ const CHARISMA = "charisma";
 const ABILITIES_LIST = [STRENGTH, DEXTERITY, CONSTITUTION, INTELLIGENCE, WISDOM, CHARISMA];
 const SAVING_THROWS = "saving throws";
 
-// Skills
-const SKILLS = "skills";
-const ATHLETICS = "athletics";
-const ACROBATICS = "acrobatics";
-const SLEIGHT_OF_HAND = "sleight of hand";
-const STEALTH = "stealth";
-const ARCANA = "arcana";
-const HISTORY = "history";
-const INVESTIGATION = "investigation";
-const NATURE = "nature";
-const RELIGION = "religion";
-const ANIMAL_HANDLING = "animal handling";
-const INSIGHT = "insight";
-const MEDICINE = "medicine";
-const PERCEPTION = "perception";
-const SURVIVAL = "survival";
-const DECEPTION = "deception";
-const INTIMIDATION = "intimidation";
-const PERFORMANCE = "performance";
-const PERSUASION = "persuasion";
-const SKILLS_LIST = [ATHLETICS, ACROBATICS, SLEIGHT_OF_HAND, STEALTH, ARCANA, HISTORY, INVESTIGATION, NATURE, RELIGION, ANIMAL_HANDLING, INSIGHT, MEDICINE, PERCEPTION, SURVIVAL, DECEPTION, INTIMIDATION, PERFORMANCE, PERSUASION]
-const SKILL_ABILITY_MAP = {
-    ATHLETICS: STRENGTH,
-    ACROBATICS: DEXTERITY,
-    SLEIGHT_OF_HAND: DEXTERITY,
-    STEALTH: DEXTERITY,
-    ARCANA: INTELLIGENCE,
-    HISTORY: INTELLIGENCE,
-    INVESTIGATION: INTELLIGENCE,
-    NATURE: INTELLIGENCE,
-    RELIGION: INTELLIGENCE,
-    ANIMAL_HANDLING: WISDOM,
-    INSIGHT: WISDOM,
-    MEDICINE: WISDOM,
-    PERCEPTION: WISDOM,
-    SURVIVAL: WISDOM,
-    DECEPTION: CHARISMA,
-    INTIMIDATION: CHARISMA,
-    PERFORMANCE: CHARISMA,
-    PERSUASION: CHARISMA
-};
-
-// Inventory
+// Lists
 const INVENTORY = "inventory";
+const FEATS = "feats";
+const SKILLS = "skills";
 
 // Attacks
 const ATTACKS = "attacks";
@@ -86,7 +46,135 @@ const TO_HIT = "to hit";
 const DAMAGE = "damage";
 const DAMAGE_TYPE = "damage type";
 
+const REQUIRED_FIELDS = [NAME, XP, HP, AC, CLASS, SIZE, CULTURE, SPEED, STAMINA_DICE, ARMOR_PROF, WEAPON_PROF, TOOL_PROF, LANGUAGES, PROF_BONUS, ABILITIES, SKILLS, INVENTORY, ATTACKS, SAVING_THROWS, FEATS];
+const LIST_FIELDS = [FEATS, INVENTORY, SKILLS, SAVING_THROWS];
+// global variables
+var g_feats_table;
+var g_inventory_table;
+var g_skills_table;
+var g_saves_table;
+var g_attacks_table;
 
+
+/*##############################################################################
+#               ______      _        _     _     _                             #
+#               |  _  \    | |      | |   (_)   | |                            #
+#               | | | |__ _| |_ __ _| |    _ ___| |_                           #
+#               | | | / _` | __/ _` | |   | / __| __|                          #
+#               | |/ / (_| | || (_| | |___| \__ \ |_                           #
+#               |___/ \__,_|\__\__,_\_____/_|___/\__|                          #
+#                                                                              #
+#   Get and load a list of text fields.                                        #
+##############################################################################*/
+
+function DataList(_table, _header, _blank_row, _table_name, _btn_row_id){
+    var dl = {
+        table: $("#"+_table),
+        header: _header,
+        blank_row: _blank_row,
+        table_name: _table_name,
+        btn_row_id: _table + "_btn"
+    };
+
+    dl.make_table = function(){
+        dl.btn_row_id = dl.table_name + "_btn";
+        dl.table.empty();
+        dl.make_header_row();
+        var row_data = [ dl.blank_row ];
+        row_data.forEach((row) => {
+            dl.add_data_row(row, dl.btn_row_id);
+        });
+        dl.make_table_buttons();
+    }
+
+    dl.make_header_row = function(){
+        var header_txt = "<tr>";
+        dl.header.forEach((column) => {
+            header_txt += "<th>" + column + "</th>";
+        });
+        header_txt += "</tr>";
+        dl.table.append("$" + header_txt);
+    }
+
+    dl.add_data_row = function(row){
+        var button_row = $("#" + dl.btn_row_id);
+        dl.table.remove(button_row);
+
+        var row_tr = $("<tr>");
+        var row_td = row_td = $("<td>");
+        row.forEach(cell_data => {
+            var row_input = $("<input>").attr({ type: 'text'}).val(cell_data);
+            row_td.append(row_input);
+        });
+        row_tr.append(row_td);
+        dl.table.append(row_tr);
+        dl.table.append(button_row);
+    }
+
+    dl.remove_data_row = function(){
+        if(dl.table.find("tr").length < 3){
+            return;
+        }
+        dl.table.find("tr:nth-last-child(2)").remove();
+    }
+
+    dl.make_table_buttons = function(){
+        var add_td = $("<td>");
+        var add_btn = $("<button>").html("Add").click(() => {
+            dl.add_data_row(dl.blank_row);
+        });
+        add_td.append(add_btn);
+
+        var remove_td = $("<td>");
+        var remove_btn = $("<button>").html("Remove").click(() => {
+            dl.remove_data_row();
+        });
+        remove_td.append(remove_btn);
+
+        var inner_div = $("<div>");
+        inner_div.append(add_td);
+        inner_div.append(remove_td);
+
+        var button_tr = $("<tr>", {
+            id: dl.btn_row_id
+        });
+        button_tr.append(inner_div);
+        dl.table.append(button_tr);
+    }
+    // Only works for single column tables
+    dl.get_data_list = function(){
+        var rows = [];
+        var last_index = dl.table.find("tr").length -1;
+        dl.table.find("tr").each((index, record) => {
+            if(index != 0 && index != last_index){
+                var tr = $(record);
+                var text = tr.find('td').find('input').val();
+                if(text !== ''){
+                    rows.push(text);    
+                }
+            }
+        });
+        return rows;
+    }
+    // Only works for single column tables
+    dl.load_data_list = function(data_list){
+        dl.make_table();
+        dl.remove_data_row();
+        data_list.forEach((row) =>{
+            var row_data = [];
+            row_data.push(row);
+            dl.add_data_row(row_data);
+        });
+    }
+    dl.get_data_grid = function(){
+
+    }
+    dl.load_data_grid = function(data_grid){
+
+    }
+    dl.make_table();
+    return dl;
+}
 
 // Abilities helpers
 function get_ability_mod_id(ability){
@@ -154,6 +242,11 @@ function get_ability_score(ability){
     var id = get_ability_score_id(ability);
     var score = $("#"+id).val();
     return parseInt(score);
+}
+
+function set_ability_score(ability, score){
+    var id = get_ability_score_id(ability);
+    $("#"+id).val(score);
 }
 
 function calculate_ability_mod(score){
@@ -225,6 +318,7 @@ function generate_sheet_json(){
     character = generate_abilities(character);
     character = generate_stat_fields(character);
     character = generate_proficiency_fields(character);
+    character = generate_table_fields(character);
     $("#text_json").val(JSON.stringify(character));
 }
 
@@ -244,8 +338,8 @@ function generate_header_fields(character){
     character[NAME] = $("#NAME_TXT").val();
     character[CLASS] = $("#CLASS_TXT").val();
     character[CULTURE] = $("#CULTURE_TXT").val();
-    character[BODY_TYPE] = $("#BODY_TXT").val();
     character[XP] = $("#XP_TXT").val();
+    character[IMAGE] = $("#IMG_TXT").val();
     return character;
 }
 
@@ -284,99 +378,137 @@ function generate_proficiency_fields(character){
     return character;
 }
 
-function clear_feats_table(){
-    var header = ["Feats"];
-    var row_data = [
-        [" "]
-    ];
-    var table = $("#FEATS_TABLE");
-    make_table(table, header, row_data, "feats");
+function generate_table_fields(character){
+    character[FEATS] = g_feats_table.get_data_list();
+    character[INVENTORY] = g_inventory_table.get_data_list();
+    character[SKILLS] = g_skills_table.get_data_list();
+    return character;
 }
 
-function clear_inventory_table(){
-    var header = ["Inventory"];
-    var row_data = [
-        [" "]
-    ];
-    var table = $("#INVENTORY_TABLE");
-    make_table(table, header, row_data, "inventory");
+function set_up_tables(){
+    g_feats_table = DataList(
+        "FEATS_TABLE",
+        ["Feats"],
+        [""],
+        "feats",
+        ""
+        );
+    g_inventory_table = DataList(
+        "INVENTORY_TABLE",
+        ["Inventory"],
+        [""],
+        "inventory",
+        ""
+        );
+    g_skills_table = DataList(
+        "SKILLS_TABLE",
+        ["Skills"],
+        [""],
+        "skills",
+        ""
+        );
+    g_saves_table = DataList(
+        "SAVES_TABLE",
+        ["Saving throws"],
+        [""],
+        "saves",
+        ""
+        );
+    g_attack_table = DataTable(
+        "ATTACKS_TABLE",
+        ["Attack", "To Hit", "Damage", "Damage Type"],
+        ["", "", "", ""],
+        "attacks",
+        ""
+        );
 }
 
-/* Table logic
-    @table: JQUERY object for table element,
-    @header: array of header columns
-    @row_data: 2D array containing cell contents
 
-    Creates a table with th of headers columns,
-    td for each row, and then buttons to update the
-    table afterward.
-*/
-function make_table(table, header, row_data, blank_row, table_name){
-    var btn_row_id = table_name + "_btn";
-    table.empty();
-    make_header_row(table, header);
-    row_data.forEach((row) => {
-        add_data_row(table, row, btn_row_id);
-    });
-    make_table_buttons(table, blank_row, btn_row_id);
-    
-}
-
-function make_header_row(table, header){
-    var header_txt = "<tr>";
-    header.forEach((column) => {
-        header_txt += "<th>" + column + "</th>";
-    });
-    header_txt += "</tr>";
-    table.append("$" + header_txt);
-}
-
-function add_data_row(table, row, btn_row_id){
-    var button_row = $("#" + btn_row_id);
-    //console.log(table.html());
-    //console.log(button_row.html());
-    table.remove(button_row);
-
-    var row_tr = $("<tr>");
-    row.forEach(cell_data => {
-        var row_td = $("<td>");
-        var row_input = $("<input>").attr({ type: 'text'}).val(cell_data);
-        row_td.append(row_input);
-        row_tr.append(row_td);
-    });
-    table.append(row_tr);
-    table.append(button_row);
-}
-
-function remove_data_row(table, btn_row_id){
-    if(table.find("tr").length < 3){
-        return;
+// Loads an existing sheet from a blob of json
+function load_json(json){
+    if(json == ''){
+        json = '{}';
     }
-    table.find("tr:nth-last-child(2)").remove();
+    var character = JSON.parse(json);
+    character = init_blank_char_fields(character);
+    load_header_fields(character);
+    load_abilities(character);
+    load_stat_fields(character);
+    load_proficiency_fields(character);
+    load_table_fields(character);
 }
 
-function make_table_buttons(table, btn_row_id){
-    var add_td = $("<td>");
-    var add_btn = $("<button>").html("Add").click(() => {
-        add_data_row(table, [""], btn_row_id);
+function init_blank_char_fields(character){
+    REQUIRED_FIELDS.forEach((field) => {
+        if(LIST_FIELDS.indexOf(field) >= 0 && typeof(character[field]) == 'undefined'){
+            character[field] = [];
+        }
+        else if(typeof(character[field]) == 'undefined'){
+            character[field] = '';
+        }
     });
-    add_td.append(add_btn);
+    return character;
+}
 
-    var remove_td = $("<td>");
-    var remove_btn = $("<button>").html("Remove").click(() => {
-        remove_data_row(table, btn_row_id);
+function load_abilities(character){
+    var abilities = character[ABILITIES];
+    set_ability_score(STRENGTH, abilities[0]);
+    set_ability_score(DEXTERITY, abilities[1]);
+    set_ability_score(CONSTITUTION, abilities[2]);
+    set_ability_score(INTELLIGENCE, abilities[3]);
+    set_ability_score(WISDOM, abilities[4]);
+    set_ability_score(CHARISMA, abilities[5]);
+}
+
+function load_header_fields(character){
+    $("#NAME_TXT").val(character[NAME]);
+    $("#CLASS_TXT").val(character[CLASS]);
+    $("#CULTURE_TXT").val(character[CULTURE]);
+    $("#XP_TXT").val(character[XP]);
+    $("#IMG_TXT").val(character[IMAGE]);
+}
+
+function load_stat_fields(character){
+    $("#HP_TXT").val(character[HP]);
+    $("#AC_TXT").val(character[AC]);
+    $("#SIZE_TXT").val(character[SIZE]);
+    $("#SPEED_TXT").val(character[SPEED]);
+    $("#STAMINA_TXT").val(character[STAMINA_DICE]);
+    $("#IMG_TXT").val(character[IMG]);
+    $("#SENSES_TXT").val(character[SENSES]);
+}
+
+function load_proficiency_fields(character){
+    $("#PROF_TXT").val(character[PROF_BONUS]);
+    $("#WEAPONS_TXT").val(character[WEAPON_PROF]);
+    $("#ARMORS_TXT").val(character[ARMOR_PROF]);
+    $("#TOOLS_TXT").val(character[TOOL_PROF]);
+
+    /*
+    // Skills
+    var skill_list = $("#SKILLS_TXT").val().split(",");
+    character[SKILLS] = []
+    skill_list.forEach((skill) => {
+        var skill_text = skill.trim().toLowerCase();
+        character[SKILLS].push(skill_text);
     });
-    remove_td.append(remove_btn);
 
-    var inner_div = $("<div>");
-    inner_div.append(add_td);
-    inner_div.append(remove_td);
+    // Saves
+    character[SAVING_THROWS] = [];
+    var save_list = $("#SAVES_TXT").val().split(',');
+    save_list.forEach((save) => {
+        var save_text = save.trim().toLowerCase();
+        character[SAVING_THROWS].push(save_text);
+    });    
+    return character;
+    */
+}
 
-    var button_tr = $("<tr>", {
-        id: btn_row_id
-    });
-    button_tr.append(inner_div);
-    table.append(button_tr);
+function load_table_fields(character){
+    g_inventory_table.load_data_list(character[INVENTORY]);
+    g_feats_table.load_data_list(character[FEATS]);
+    g_skills_table.load_data_list(character[SKILLS]);
+    g_saves_table.load_data_list(character[SAVING_THROWS]);
 }
 
 $(document).ready(function(){
@@ -384,6 +516,11 @@ $(document).ready(function(){
     $("#button_copy").click(() => {
         var text_json = $("#text_json").val();
         navigator.clipboard.writeText(text_json);
+    });
+
+    $("#button_load").click(() => {
+        var text_json = $("#text_json").val();
+        load_json(text_json);
     });
 
     $("#button_generate").click(generate_sheet_json);
@@ -396,7 +533,5 @@ $(document).ready(function(){
     $("#CHA_SCORE_TXT").change(update_mods);
     clear_abilities();
 
-    clear_feats_table();
-    clear_inventory_table();
-
+    set_up_tables();
 });

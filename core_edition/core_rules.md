@@ -264,7 +264,7 @@ Some spells can be cast using a reaction when some trigger (such as being attack
 Combat is centered around 5ft increments of distance. You may move in these increments. Once you have moved your maximum movement speed in one turn, you cannot move again until the start of your next turn. Moving 5ft counts against all your movement speeds. This means if you have 30ft movement and 15 flying, you may fly 15ft and walk 15ft, but you cannot walk 30ft and then fly 15ft.
 
 #### Jumping
-Jumping from more than 5ft requires 10ft of movement. When making a high jump, your body raises an amount of feet equal to your strength modifier. When long jumping with a running start, you move an amount of feet equal to your strenghth modifier and proficiency bonus.
+Jumping from more than 5ft requires 10ft of movement. When making a high jump, your body raises an amount of feet equal to 3 + your strength modifier. When long jumping with a running start, you move an amount of feet equal to 5 + your strength modifier + proficiency bonus.
 
 #### Difficult terrain
 Difficult terrain requires you to move more slowly. This means that for every 5ft of distance covered in difficult terrain, you must exert 10ft of movement. Examples of difficult terrain:

@@ -22,8 +22,6 @@
           <tr>
             <th>Culture:</th>
             <td><input class="header_field" id="CULTURE_TXT" type="text"></td>
-            <th>Body:</th>
-            <td><input class="header_field" id="BODY_TXT" type="text"></td>
             <th>XP:</th>
             <td><input class="header_field" id="XP_TXT" type="text"></td>
           </tr>
@@ -92,10 +90,6 @@
             <th>Image URL</th>
             <td><input class="stat_field" id="IMG_TXT" type="text"></td>
           </tr>
-          <tr>
-            <th>Extra Senses</th>
-            <td><input class="stat_field" id="SENSES_TXT" type="text"></td>
-          </tr>
         </table>
         <table class="sheet_cell">
           <tr>
@@ -117,32 +111,20 @@
             <th>Tools</th>
             <td><input id="TOOLS_TXT" type="text"></td>
           </tr>
-          <tr>
-            <th>Skills Profs</th>
-            <td><input id="SKILLS_TXT" type="text"></td>
-          </tr>
-          <tr>
-            <th>Saves</th>
-            <td><input id="SAVES_TXT" type="text"></td>
-          </tr>
         </table>
     </div>
     <div class="sheet_row">
         <table id="FEATS_TABLE" class="sheet_cell"></table>
         <table id="INVENTORY_TABLE" class="sheet_cell"></table>
+        <table id="SKILLS_TABLE" class="sheet_cell"></table>
+        <table id="SAVES_TABLE" class="sheet_cell"></table>
     </div>
-    <table>
-      <tr>
-        <th>Additional Info</th>
-      </tr>
-      <tr>
-        <td>
-          <textarea id="ADDITIONAL_INFO" class="additional_info" cols="50" rows="25"></textarea>
-        </td>
-      </tr>
-    </table>
+    <div class="sheet_row">
+        <table id="ATTACKS_TABLE" class="sheet_cell"></table>
+    </div>
 </div>
 <input type="text" id="text_json"> <button type="button" id="button_generate">Generate JSON</button> <button type="button" id="button_copy">Copy to clipboard</button>
+<button type="button" id="button_load">Load From JSON</button>
 
 </body> 
 </html>

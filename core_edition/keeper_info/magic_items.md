@@ -169,10 +169,6 @@ A pair of gloves with long claws that can be used as +1 sickles. When both are w
 ### Handy Hooks
 A pair of +1 sickles. When both are wielded by the the same creature, they gain a climbing speed equal to their movement speed.
 
-### Greatsword of Wrath
-+1 greatsword
-Those who swear an oath of vengeange(no class or level requirement) while holding this greatsword are soul-bound to the hellish red metal. When the soulbound dies, their soul is trapped in the blade, freed only when someone else swears an oath of vengeance to the blade and takes their place. The soulbound gains all warrior techniques that require the oath of vengeance. If one flees from a fiend while souldbound, their soul is forfeit, consumed by the blade and they fall dead. A forfeit soul increases the blade to a +2, and then a +3 greatsword if it happens a second time. If the blade is shattered while bound to it's wielder, the wielder's soul is destroyed.
-
 ### Merciful Hammer
 +1 warhammer
 This wooden warhammer has runes engraved in it and painted blue. "Hammer of wood, render of heads, redeemer of souls." It requires attunement by a wielder who has sworn a pact of redemption. When the wielder hits a creature with half or less hit points, they may expend a stamina die to force the creature to succeed a DC 15 CON saving throw, or else fall unconscious for up to 1 minute.
@@ -775,6 +771,9 @@ Effects: DC 16 WIS to avoid hyper-aggression. +4 STR
 
 ## Wondrous Items
 
+### Dowsing Crystal
+By dangling this crystal on a chain, one can locate water sources within a few miles.
+
 ### +1 tool (Common)
 This tool grants a +1 in addition to any other bonuses that it would normally afford for the purpose of ability or skill checks.
 
@@ -864,3 +863,42 @@ If this rope bares more than 15lb of weight, it blinks out of existence for 10 s
 
 ### Cone of voice throwing
 This 1ft tall cone of wood has a hole in it's top and a handle. When you speak into it, your voice travels in a straight line up to 120ft, and can only be perceived once it hits a physical surface or object, creating the illusion that your voice originates from that point.
+
+### Circlet of Celestial Flight
+Often given as a reward for good deeds by celestials.
+While you wear this circlet, feathery angelic wings sprout from your back and you gain a flying speed of 30ft.
+
+### Circlet of Celestial Aura
+Often given as a reward for good deeds by celestials.
+While you wear this circlet, your eyes turn golden and your cheeks sparkle with glimers of gold light. A field of celestial energy extends from you in a 10ft radius. Friendlies inside the radius, including you, have advantage against being frightened, posessed, or charmed, and gain 2 extra health from any healing spell.
+
+## Legendary Items
+These items are more mechanically complex than most other magic items and may have world-altering consequences.
+
+### Armor of Light
++1 platemail
+
+
+### Greatsword of Wrath
+This greatsword's powers change as it's bond grows with one individual.
+
+Upon first discovery.
+```
+### Greatsword of Wrath
++1 greatsword
+Those who swear an oath of vengeange while holding this greatsword are soulbound to the hellish metal of the blade. When the soulbound dies, their soul is trapped in the blade. When the next person swears an oath of vengeance while holding this greatsword, the current resident soul is ejected from the blade. The soulbound gains all warrior techniques that require the oath of vengeance plus proficiency with greatswords. Evil souls vanquished by the blade are absorbed into it. After ten souls are captured, the blade's powers enhance.
+```
+
+After 10 souls
+```
+### Greatsword of Wrath
++1 greatsword
+The soulbound wielder who feeds ten souls to this blade is cursed with the corruption of fiendish quickening, and the curse may not be removed while the blade remains intact. Shattering the blade will shatter all bound souls. After a total of fifty souls are captured, the blade's powers enhance.
+```
+
+After 50 souls
+```
+### Greatsword of Wrath
++2 greatsword
+The wielder who feeds fifty souls to this blade nourishes the other souls bound to it and allows them to return from the dead. While the wielder lives, each full moon is blood red and allows the past wielders of the blade to rise again by reanimating corpses as infernoids with infernal energy. These infernoids serve the will of the devil king Korrath, Reaper of War.
+```

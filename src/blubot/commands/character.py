@@ -1,4 +1,4 @@
-from uw.character import parse_character, load_active_character
+from uw.character import parse_character, load_active_character, get_skill_info
 import json
 
 '''
@@ -35,7 +35,7 @@ def character_commands(bot, discord):
         await ctx.respond("Your characters: " + ', '.join(characters))
 
     @character_group.command()
-    async def set(ctx, name):
+    async def activate(ctx, name):
         char = bot.db.get_character(ctx.user.id, name)
         if char is None:
             return await ctx.respond(f"Character '{name}' does not exist.")
@@ -66,5 +66,15 @@ def character_commands(bot, discord):
             await ctx.respond(f"No such character exists: {name}")
         bot.db.delete_character(ctx.user.id, name)
         await ctx.respond(f"Deleted character: {name}")
+
+    @character_group.command()
+    async def skills(ctx):
+        char = load_active_character(bot.db, ctx.user.id)
+        if char is None:
+            return await ctx.respond("No active character")
+        skills = get_skill_info(char)
+        skill_text = json.dumps(skills, indent=2)
+        name = char["name"]
+        await ctx.respond(f"{name} skills:\n ```json\n{skill_text}\n```")
 
     bot.add_application_command(character_group)

@@ -589,7 +589,7 @@ Barnoth's power is from those who wear clothing in his ever-changing fashion pre
 Brenzen manifests in dreams, where she offers small contracts, offering bits of good luck in exchange for said dreams. She uses the dreams to build a network of information that she then sells to other clients.
 
 ### Korrath, Reaper of War
-Korrath's clients are exclusively warriors, who makes pacts for soul-stealing weapons and armor. With his influence, he attempts to start and sustain conflicts, selling his weapons to both sides in order to increase his reaping.
+Korrath's clients are exclusively warriors, who makes pacts for soul-stealing weapons and armor. With his influence, he attempts to start and sustain conflicts, selling his weapons to both sides in order to increase his reaping. His army of the damned is built by those wielding the greatsword of Wrath, a coveted legendary weapon he controls.
 
 ### Pientara, the gossip king
 Pientara has two categories of clients. The first are famous and influential individuals who he sells minor wonders and boons to in exchange for them to spread rumors. The second class of categories are other individuals, who trade favors and souls to spread rumors. Pientara can only spread rumors that are true, and so he works closely with Brenzen to source the gossip. Clients are often people in seats of power, and often pay to spread gossip of each other.
@@ -668,3 +668,6 @@ Your temper becomes far more intense than you c
 ## Wild
 
 ## Outsider
+
+# Books
+

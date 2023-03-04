@@ -13,7 +13,6 @@ CLASS = "class"
 SIZE = "size"
 CULTURE = "culture"
 SPEED = "speed"
-BODY_TYPE = "body type"
 STAMINA_DICE = "stamina dice"
 ARMOR_PROF = "armor proficiencies"
 WEAPON_PROF = "weapon proficiencies"
@@ -23,6 +22,7 @@ PROF_BONUS = "prof bonus"
 VISION = "vision"
 CONDITIONS = "conditions"
 UNUSED = "unused"
+IMAGE = "image"
 
 # Abilities
 ABILITIES = "abilities"
@@ -33,6 +33,15 @@ INTELLIGENCE = "intelligence"
 WISDOM = "wisdom"
 CHARISMA = "charisma"
 ABILITIES_LIST = [STRENGTH, DEXTERITY, CONSTITUTION, INTELLIGENCE, WISDOM, CHARISMA]
+ABILITIES_LIST_ABBREVIATED = ["STR", "DEX", "CON", "INT", "WIS", "CHA"]
+ABILITIES_ABBREVIATED_MAP = {
+    "STR": STRENGTH,
+    "DEX": DEXTERITY, 
+    "CON": CONSTITUTION, 
+    "INT": INTELLIGENCE, 
+    "WIS": WISDOM, 
+    "CHA": CHARISMA
+}
 SAVING_THROWS = "saving throws"
 
 # Skills
@@ -87,7 +96,7 @@ TO_HIT = "to hit"
 DAMAGE = "damage"
 DAMAGE_TYPE = "damage type"
 
-NECESSARY_FIELDS = [NAME, XP, HP, AC, CLASS, SIZE, CULTURE, SPEED, BODY_TYPE, STAMINA_DICE, ARMOR_PROF, WEAPON_PROF, TOOL_PROF, LANGUAGES, PROF_BONUS, ABILITIES, SKILLS, INVENTORY, ATTACKS, SAVING_THROWS]
+REQUIRED_FIELDS = [NAME, XP, HP, AC, CLASS, SIZE, CULTURE, SPEED, STAMINA_DICE, ARMOR_PROF, WEAPON_PROF, TOOL_PROF, LANGUAGES, PROF_BONUS, ABILITIES, SKILLS, INVENTORY, ATTACKS, SAVING_THROWS]
 
 def parse_character(raw_json):
     errors = []
@@ -96,7 +105,7 @@ def parse_character(raw_json):
     except:
         return {ERROR: "malformed json"}
     sanitized = {}
-    for field in NECESSARY_FIELDS:
+    for field in REQUIRED_FIELDS:
         if field not in character_dict:
             errors.append(f"missing field {field}")
         else:
@@ -165,25 +174,29 @@ def use_attack(character, attack_name):
     (msg) = roll_attack(attack_name, to_hit, damage, damage_type)
     return msg
 
-def is_valid_check_type(check_type):
-    return check_type.lower() in SKILLS_LIST or check_type.lower() in ABILITIES_LIST 
+def parse_ability(ability):
+    if ability.lower() in ABILITIES_LIST:
+        return ability.lower()
+    if ability.upper() in ABILITIES_LIST_ABBREVIATED:
+        return ABILITIES_ABBREVIATED_MAP[ability.upper()]
+    return ""
 
-def is_valid_ability(ability):
-    return ability.lower() in ABILITIES_LIST
-
-def get_check_modifier(check_type, character):
+def get_ability_modifier(check_type, character):
     if check_type.lower() in ABILITIES_LIST:
         score = get_ability_score(check_type.lower(), character)
         return get_ability_modifier(score)
-    elif check_type.lower() in SKILLS_LIST:
-        score = get_ability_score(SKILL_ABILITY_MAP[check_type.lower()], character)
-        mod = get_ability_modifier(score)
-        if check_type.lower() in character[SKILLS]:
-            return mod + character[PROF_BONUS]
-        return mod
-    else:
-        print(f"Invalid check type: {check_type}")
-        return 0
+    return 0
+
+def get_skill_info(character):
+    skill_info = {
+        PROF_BONUS: character[PROF_BONUS],
+        WEAPON_PROF: character[WEAPON_PROF],
+        ARMOR_PROF: character[ARMOR_PROF],
+        TOOL_PROF: character[TOOL_PROF],
+        LANGUAGES: character[LANGUAGES],
+        SKILLS: character[SKILLS]
+    }
+    return skill_info
 
 def get_save_modifier(ability, character):
     mod = 0
