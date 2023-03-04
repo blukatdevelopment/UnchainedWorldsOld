@@ -1,4 +1,4 @@
-from uw.character import parse_character, load_active_character, get_ability_modifier, is_valid_ability
+from uw.character import parse_character, load_active_character, get_ability_modifier, parse_ability
 from uw.dice import roll_normal, roll_advantage, roll_disadvantage
 import json
 
@@ -7,7 +7,7 @@ def check_command(bot, discord):
     async def check(ctx, check_type):
 
         ability = parse_ability(check_type)
-        if ability = '':
+        if ability == '':
             return await cts.responf(f"{check_type} is not a valid ability")
 
         character = load_active_character(bot.db, ctx.user.id)

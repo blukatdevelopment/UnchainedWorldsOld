@@ -1,11 +1,12 @@
-from uw.character import parse_character, load_active_character, is_valid_ability, get_save_modifier
+from uw.character import parse_character, load_active_character, parse_ability, get_save_modifier
 from uw.dice import roll_advantage
 import json
 
 def save_command(bot, discord):
     @bot.command(description="Makes a saving throw. Rolls twice for auto advantage/disadvantage.")
     async def save(ctx, ability):
-        if not is_valid_ability(ability.lower()):
+        ability = parse_ability(ability)
+        if ability == '':
             return await ctx.respond(f"{ability} is not an ability. Try again. :3")
 
         character = load_active_character(bot.db, ctx.user.id)
