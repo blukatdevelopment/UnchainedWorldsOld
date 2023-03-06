@@ -12,6 +12,7 @@ from save import save_command
 from attack import attack_commands
 from status import status_commands
 from prompts import prompt_commands
+from world import world_commands
 
 
 bot = discord.Bot()
@@ -25,6 +26,7 @@ save_command(bot, discord)
 attack_commands(bot, discord)
 status_commands(bot, discord)
 prompt_commands(bot, discord)
+world_commands(bot, discord)
 
 intents = discord.Intents.default()
 intents.guilds = True

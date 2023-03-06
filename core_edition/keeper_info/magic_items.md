@@ -864,20 +864,90 @@ If this rope bares more than 15lb of weight, it blinks out of existence for 10 s
 ### Cone of voice throwing
 This 1ft tall cone of wood has a hole in it's top and a handle. When you speak into it, your voice travels in a straight line up to 120ft, and can only be perceived once it hits a physical surface or object, creating the illusion that your voice originates from that point.
 
+### Blood Dagger
+This dagger consumes the blood of those it strikes. The wielder may empty it's reserve of blood as temporary hit points. The dagger may store up to 10 temporary hit points of blood energy.
+
+### Feather of strength
+This feather can be worn or held. The wielder may use their action to consume a stamina die to gain a +1 bonus to their strength score for the next minute. While this effect is active, they may use their action to consume another stamina die and increase this bonus by 1, resetting the minute duration.
+
+### Ring of poisoning
+This emerald ring has silver snakes engraved in it. The wearer may use their bonus action to consume two stamina dice and poison a weapon or food held in the same hand. The poison lasts for 1 minute, and deals 2d8 poison damage the first time the weapon hits.
+
+### Amulet of true vision
+This amulet has the eye of gidur on it. When held above the wearer's forehead, the wearer may speak a command word using their bonus action to consume a stamina die and unlock the amulet's power for one minute. This allows them to read other languages and see invisible creatures for the duration.
+
 ### Circlet of Celestial Flight
 Often given as a reward for good deeds by celestials.
 While you wear this circlet, feathery angelic wings sprout from your back and you gain a flying speed of 30ft.
 
 ### Circlet of Celestial Aura
 Often given as a reward for good deeds by celestials.
-While you wear this circlet, your eyes turn golden and your cheeks sparkle with glimers of gold light. A field of celestial energy extends from you in a 10ft radius. Friendlies inside the radius, including you, have advantage against being frightened, posessed, or charmed, and gain 2 extra health from any healing spell.
+While you wear this circlet, your eyes turn golden and your cheeks sparkle with glimers of gold light. A field of celestial energy extends from you in a 10ft radius. Friendlies inside the radius, including you, have advantage against being frightened, possessed, or charmed, and gain 2 extra health from any healing.
+
+### Staff of light
++1 quarterstaff
+The staff of light can produce a 60ft radius of bright light, within which magical darkness is dispelled and invisible creatures are rendered visible. Activating the staff of light requires a bonus action and one stamina die. Additionally, the wielder may consume an action and three stamina dice to create a blinding flash of light in a 60ft radius. All creatures that see this light in this radius must succeed a DC 15 WIS save or they are blinded for 1 minute.
+
+### Holy Flame Sword
++1 longsword
+This gold-tinted blade has celestial prayers scrawled across it's mirror finish. When the wielder uses their bonus action to speak a command word and consume a stamina die, the blade produces a radiant flame. This flame is magical and does not spread non-magical fires. If the blade is wielded by someone marked as evil(such as a fiend, undead, or enemy of a particular celestial divine), this flame sears the wielder with 1d6 radiant damage for every six seconds it is held. The flame lasts for 1 minute, during which attacks deal an additional 1d6 radiant damage. The flame gives off 30ft of bright light while burning.
+
+### Soothing Harp
+This golden harp is small enough to play while carrying. While using an action to play the harp, the player may freely cast the calm emotions spell.
+
+### Lamp Stone
+The lamp stone can be activated by shaking, at which time it produces 60ft of bright light and 60ft of dim light for 1 hour, after which it must charge in the sunlight for 8 hours.
+
+### Locket of holding
+This locket is about three inches in diameter, and when opened reveals a tiny portal to a 10ft long, 3-inch wide pocket dimension. It may be used to store wands, staves, and other similar items.
+
+### Seeker Pipe
+The smoke from this pipe emerges in the shape of tiny, long dragons that float around the wielder. If the wielder speaks the name of someone they have seen in person once, the dragons will point to the direction of the person.
+
+### Rune Ink
+A runesmith may paint a rune tattoo onto a willing creature and expend a number of stamina dice equal to the spell level(minimum 1) in order to store the spell on the creature. That creature may then expend the same amount of stamina dice in order to cast the spell, causing the tattoo to glow and lift off of their body as a smokey rune-shaped cloud. The spell modifier and DC of the runesmith are used in this case. One 10z bottle may paint 10 spells.
+
+### Disappearing Ink
+While the ink is still wet, the wielder speaks a command word. The ink dries invisible, and speaking the command word again causes it to appear.
+
+### Bag of returning
+This bag has a ring attuned to it. The bag can hold up to 10lbs. If the bag leaves a one hundred foot radius of the user, it reappears next to them.
+
+### Spell Eater
+This medallion is made out of hematite. When a spell a spell is being cast within 30ft of the wearer, the wearer may use their reaction to consume the spell, destroying the spell eater.
+
+### Green flame lamp
+This oil-burning lamp produces a green flame when undead are within 300ft.
+
+### Blue flame lamp
+This oil-burning lamp produces a blue flame. Magical objects and objects effected by magic glow blue under this light.
+
+### Reader Disk
+This metal disk has a mouth. When places atop a book, scroll, or other object with writing on it, the reader disk's mouth will move, reading from start to finish.
+
+### Sending Stones
+This chunk of crystal was formed around a metal plate with a specific rune inscribed that matches one other. Once per day, either of the stones may be used to cast the sending spell on whoever is holding the other one.
+
+### Book float
+This contraption attunes to a ring. The wielder wears the ring, and slips an open book into the book float. The book floats in front of the the wearer, who may use their bonus action to either turn the page with a flick of the ring finger, or call out a page number(if the book has numbered pages) and turn to that page.
+
+### Ring of shadow blade
+This ring has an obsidian stone inset. When the wearer uses their bonus action and mouths the command word, a longsword made of shadow appears in their hand.
+
+### Ring of shadow jump
+This ring has an obsidian stone inset. When the wearer uses their bonus action and mouths the command word, consuming a stamina die, they may teleport up to 60ft away to a space that is in not brightly lit and that they have line of sight with.
+
+### Door Medallion
+This medallion is made from lead. When placed against a wall, the wielder speaks a command word and activates the medallion. Within a 5ft diameter, 5ft deep cylinder, the wall transmutes to smoke along with the medallion.
+
+### Dimunition disk
+This 5ft diameter metal disk weighs 50lbs. The wielder may place up to 500 lbs of objects on the disk and activate it by speaking a command word. When activated, the disk and the objects on top shrink down to one fifth their size and weigh one tenth of their normal weight. If an object falls off of the disk, it returns to normal size and weight.
+
+### Cloak of disappearing pockets
+This cloak features many small pockets. When the wearer speaks a command word, these pockets vanish and cannot be accessed. When the wearer speaks the command word again, they reappear.
 
 ## Legendary Items
 These items are more mechanically complex than most other magic items and may have world-altering consequences.
-
-### Armor of Light
-+1 platemail
-
 
 ### Greatsword of Wrath
 This greatsword's powers change as it's bond grows with one individual.

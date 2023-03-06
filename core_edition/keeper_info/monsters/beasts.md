@@ -14,6 +14,10 @@
 
 ## Tiny
 
+
+`Giant Fly, Tiny, HP: 3(1d4), AC: 12, Speed: 25ft fly, [10, 10, 10, 3, 14, 3] Bite +1 1 piercing`
+
+
 ```
 Rat
 Tiny Beast
