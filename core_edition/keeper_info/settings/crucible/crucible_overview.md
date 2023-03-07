@@ -62,5 +62,5 @@ The **divines** created the world, then receded into Celestia and the Hells afte
 - Field Folk: Dispersed farmers who rely on giant folk for defense.
 - Deep folk: Subterranean people
 - Wild Folk: Descendents of the global rebel movement that seeks to end monarchy.
-- Greenfoot: 
+- Greenfoot: Fey-worshipping people who reject industry.
 - Wayfarer: Nomadic people of engineers, scientists, mages, and artists.
