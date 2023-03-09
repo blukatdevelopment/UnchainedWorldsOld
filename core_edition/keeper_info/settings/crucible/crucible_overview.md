@@ -29,8 +29,12 @@ There are 12 months, 28 days each.
 ## Timeline
 The **divines** created the world, then receded into Celestia and the Hells after a bloody civil war. Many creatures emerged after eating the bones of the fallen gods, and for an age **dragons** ruled the world. Magically and technologically augmented warriors known as **titans** dethroned the dragons and took their place, connecting every corner of the world with portals. The titan empire fell into civil war and collapsed, destroying much of their accumulated knowledge in the process. In the aftermath of this ruin, the **empire of man** emerged to unite the world under one banner. A hundred years into the age of man, rebels staged the simultaneous destruction of the empire's portals, fragmenting the world back into insular regions more manageable for rebels and upstart power brokers to seize.
 
+## Technology
+Some urban areas have access to clockwork and steam technologies, and some areas near the ruins of old Titan cities have access to pieces of lost tech. Lost tech artifacts work, but can neither be repaired nor replaced due to most factories and other infrastructure from Titan cities being destroyed by the war that ended the Titan age. Most of the world lacks access to the above technologies, using hand power and beasts of burden in conjunction with iron, bronze, and steel tools.
+
 ## Magic
-**Arcane** magic uses a complex system of runes or other similar focuses to manipulate reality. **Divine** magic, however, is channeled from deities from Celestia. **Wild** magic is innate or harnessed by commanding naturally occurring sources of magic. **Abyssal**, and **Infernal** are like divine magic, but inherently evil and summoned from demons and devils in Hell. Undeath animates the dead. Strong sources of magic may cause corruption.
+The most common and beloved magic users are holy people using divine magic to heal the injured, cure the ill, offer alms to the poor, and to assist in establishing truthfulness during court cases. The second most ubiquitous magic users are alchemists, who produce potions that can cure the ails of even the unholy. Next in line are herbalists, healers, and shamans who utilize nature magic to render helpful services and occasionally protect forests and wildlands. With exceptions, other magic users are typically regarded as mysterious and suspicious, as most magically illiterate do not know and do not want to know the difference between arcane and infernal or abyssal magic. Though exceptions are made for well-trusted public figures, most arcane magic users are careful who they share their magic with.
+
 
 ## Common referenced divines
 

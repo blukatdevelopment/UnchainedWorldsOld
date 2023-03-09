@@ -1,5 +1,6 @@
 # Fortitude Rock
 
+
 ## Job board
 - Board with three militia quests (Refreshes weekly)
 
@@ -15,6 +16,7 @@
 - Unlock warrior class(no oaths) here
 
 ## Training Grounds
+- Require omarian faction membership to use
 - Archery course
 - Climbing wall and obstacle course
 - One of three commanders present at all times
@@ -37,7 +39,6 @@
 - Slender, tall
 - Cold, calculating
 - Omarian Half plate and longsword
-
 
 ### Downtime activity: Training
 - Free for soldiers, 5sp/day for others
