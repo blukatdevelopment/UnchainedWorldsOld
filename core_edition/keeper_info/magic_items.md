@@ -296,7 +296,7 @@ This armor has a +3 bonus to the AC of the wearer.
 ### Jump Suit 
 This half plate has jets on the back that produce blue flame to propel the wearer into the air. It has 6 charges, which return at dawn. When active, the suit consumes one charge per 6 seconds and confers a 60ft flying speed to the wearer.
 
-### Pneumatic Mobility Gear
+### PMG(Pneumatic Mobility Gear)
 These 6 inch by 18 inch by four-foot long rectangular boxes are harnessed to the hips of the wearer, who may not wear medium or heavy armor while operating the mobility gear. By using your bonus action to consume one stamina die, the box fires a grappling hook up to 120ft towards a solid object such as a tree, wall, building, or huge creature. The suit then reels in the line connected to the hook, propeling the user toward it. The user can either land on that target, or fire the pneumatic mobility gear again at the start of their next turn to remain moving without landing.
 
 ### Cape of Billowing

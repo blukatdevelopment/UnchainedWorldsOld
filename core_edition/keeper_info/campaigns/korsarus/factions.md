@@ -121,9 +121,13 @@ A band of trade wagons that bring goods and services to the Korsarus region.
 
 ## Church of Bimros
 The loose coalition of sages, knights, and diviners that gather to do the will of Bimros. They delight in the extermination of monsters and the expansion of human occupation.
+- Want the giant's playground cleared out
+- Want 14 laws of Bimros as law
 
 ## Church of Solus
 The loose coalition of sages, paladins, and diviners that gather to do the will of Solus. They seek to raise armies and overtake the Korsarus region.
+- Want the giant's playground cleared out
+- Want the royal guard replaced by Knights of Solus
 
 ## Privateers Guild
 The organized pirates of the Eastern Sea. The privateers can be contracted as a mercenary navy, escorts, privateers, or merely paid protection money to ensure safe passage. They are responsible for most smuggled goods in the Korsarus region.
