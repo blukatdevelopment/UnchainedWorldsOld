@@ -53,18 +53,18 @@ SD = Stamina Dice
 Prof = proficiency bonus
 MNVS = Maneuvers
 ```
-| LVL | XP    | SD |Prof |  MNVS |        Features               |
-|:----|:------|:---|:----|:------|:------------------------------|
-|   1 |     0 | 2  | +1  |  0    | Warrior's Respite             |
-|   2 |   300 | 4  | +1  |  1    | Maneuvers, Hit point Increase |
-|   3 |   900 | 6  | +2  |  2    | Hit point Increase            |
-|   4 |  1800 | 8  | +2  |  3    | Hit point re-roll             |
-|   5 |  3600 |10  | +2  |  3    | Ability Score Increase        |
-|   6 |  6100 |12  | +2  |  3    | Extra Attack                  |
-|   7 |  9100 |14  | +3  |  4    |                               |
-|   8 | 13100 |16  | +3  |  4    | Ability Score Increase        |
-|   9 | 22600 |18  | +4  |  5    |                               |
-|  10 | 44600 |20  | +4  |  6    | Ability Score Increase        |
+| LVL | XP    | SD |Prof |  MNVS |        Features        |
+|:----|:------|:---|:----|:------|:-----------------------|
+|   1 |     0 | 2  | +1  |  0    | Warrior's Respite      |
+|   2 |   300 | 4  | +1  |  1    | Maneuvers              |
+|   3 |   900 | 6  | +2  |  2    |                        |
+|   4 |  1800 | 8  | +2  |  3    |                        |
+|   5 |  3600 |10  | +2  |  3    | Ability Score Increase |
+|   6 |  6100 |12  | +2  |  3    | Extra Attack           |
+|   7 |  9100 |14  | +3  |  4    |                        |
+|   8 | 13100 |16  | +3  |  4    | Ability Score Increase |
+|   9 | 22600 |18  | +4  |  5    |                        |
+|  10 | 44600 |20  | +4  |  6    | Ability Score Increase |
 
 ## Features
 
@@ -73,15 +73,6 @@ An army marches on it's belly, and you are no different. You may consume a 2lb q
 
 ### Maneuver
 You learn one maneuver from the warrior maneuvers list. The maneuvers column shows the number of maneuvers you know at any given level.
-
-### Hit point Increase
-Your maximum hit points increase by 1d10+CON.
-
-### Hit point Increase
-Your maximum hit points increase by 1d10+CON.
-
-### Hit point re-roll
-Now, and again each time you gain a level from now on, you recalculate your hit points. Roll 3d10 and add your CON modifier three times. If the value rolled is higher than your current max hit points, you may keep it.
 
 ### Extra Attack
 When you use your action to make an attack, you may make two attacks instead.

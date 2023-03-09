@@ -13,8 +13,8 @@
 # Shaman
 Some are sensitive enough to detect the nature spirts that oversee the wilderness. Of those, an even narrower lot choose to talk to them. The boldest among those gain the favor of these spirits, and are granted their power. These people are known as Shamans.
 
-## Starting hit points
-You start with 4+CON hit points.
+## Hit points
+Roll 3d4 and add your CON modifier three times(minimum 1HP). These are your starting hit points. Every time you gain a level, you may roll again and keep the total if it is higher.
 
 ## Stamina Die size
 Your stamina die is a d4.
@@ -55,15 +55,15 @@ SL = Spell level
 | LVL |  XP   |SD |Prof |SL |        Features                              |
 |:----|-------|---|-----|---|----------------------------------------------|
 |   1 |     0 | 2 | +1  | --| Nature Spirit, Minor Wildshape, Spellcasting |
-|   2 |   300 | 4 | +1  |  1| Hit point Increase,
-|   3 |   900 | 6 | +2  |  1| Hit point Increase, Elemental Affinity
-|   4 |  1800 | 8 | +2  |  2| Hit point re-roll, Greater Wildshape
-|   5 |  3600 |10 | +2  |  2| 
-|   6 |  6100 |12 | +2  |  3| Superior Wildshape
-|   7 |  9100 |14 | +3  |  3| 
-|   8 | 13100 |16 | +3  |  3| Elemental Expertise
-|   9 | 22600 |18 | +4  |  3| 
-|  10 | 44600 |20 | +4  |  3| Nature Spirit Ascension
+|   2 |   300 | 4 | +1  |  1|                                              |
+|   3 |   900 | 6 | +2  |  1| Elemental Affinity                           |
+|   4 |  1800 | 8 | +2  |  2| Greater Wildshape                            |
+|   5 |  3600 |10 | +2  |  2|                                              |
+|   6 |  6100 |12 | +2  |  3| Superior Wildshape                           |
+|   7 |  9100 |14 | +3  |  3|                                              |
+|   8 | 13100 |16 | +3  |  3| Elemental Expertise                          |
+|   9 | 22600 |18 | +4  |  3|                                              |
+|  10 | 44600 |20 | +4  |  3| Nature Spirit Ascension                      |
 
 ## Feats
 
@@ -143,9 +143,6 @@ You may expend two stamina dice and use a bonus action to enable the decaying au
 
 #### Poison: Poisonous Aura
 You create a cloud that extends in 5ft in all directions. You may see through it, but you are heavily obscured to those outside of it. Creatures that enter or begin their turn in this cloud must succeed a CON save to halve 1d10 poison damage and avoid becoming poisoned for one hour.
-
-### Hit point re-roll
-Now, and again each time you gain a level from now on, you recalculate your hit points. Roll 3d4 and add your CON modifier three times. If the value rolled is higher than your current max hit points, you may keep it.
 
 ### Greater Wildshape
 You may use an action to expend a stamina die and reshape your body into one of the beasts listed below. When you enter your wildshape, your gear falls about you on the ground and any worn clothing is shredded if you increase in size. If your hit points falls below 1, you change back into your normal form. If you are inside a space that cannot accomodate your normal form, you receive 3d10 shunting damage and are teleported to an unoccupied space nearby. Your normal form retains the hit points it had before you wildshaped, even if your wildshaped form was brought down to negative hit points. You may choose from the stat blocks below, or others at your keeper's discretion.

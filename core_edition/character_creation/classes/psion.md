@@ -11,8 +11,8 @@
 # Psion
 Your mind extends beyond itself, an invisible appendage that allows you to reach farther than your arms, see farther than your eyes, and to peer into and trifle with the minds of others. There is no outward evidence of your difference, and it is unclear whether you will ever meet someone similarly-minded.
 
-## Starting hit points
-You start with 4+CON hit points.
+## Hit points
+Roll 3d4 and add your CON modifier three times(minimum 1HP). These are your starting hit points. Every time you gain a level, you may roll again and keep the total if it is higher.
 
 ## Stamina Die size
 The psion's stamina die is a d4.
@@ -96,15 +96,6 @@ You know one 1st level spells, and learn one spell each time you gain a level in
 
 ### Meditation
 When your psionic die's current size is D2 or higher, you may spend 10 minutes and one stamina die to increase its size by one. Your psionic die may not be larger than the maximum size for your level, indicated in the class table above.
-
-### Hit point Increase
-At level 2 your maximum hit points increase by 1d4+CON.
-
-### Hit point Increase
-At level 3 your maximum hit points increase by 1d4+CON.
-
-### Hit point re-roll
-Now, and again each time you gain a level from now on, you recalculate your hit points. Roll 3d4 and add your CON modifier three times. If the value rolled is higher than your current max hit points, you may keep it.
 
 ### Ability Score increase
 You may increase one ability score by 2, or you can increase two ability scores of your choice by 1. You cannot increase an ability score past 20.

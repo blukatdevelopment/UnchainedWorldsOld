@@ -12,8 +12,8 @@
 # Werewolf
 There are legends of a curse that turns the innocent into bloodthirsty monsters by the light of the full moon. In some places, silvered weapons are put on display to defend against such monsters. Few know of the nature of this curse. Though some live largely unaware of it, or completely subordinate to the bestial urges of the monster's form, many others live with the curse and attempt to control it. This is the life of a werewolf.
 
-## Starting hit points
-You start with 4+CON hit points.
+## Hit points
+Roll 3d4 and add your CON modifier three times(minimum 1HP). These are your starting hit points. Every time you gain a level, you may roll again and keep the total if it is higher.
 
 ## Stamina Die size
 Your stamina die is a d4.
@@ -54,18 +54,18 @@ SD = Stamina Dice
 Prof = proficiency bonus
 ```
 
-| LVL |  XP    | SD|Prof |        Features                                     |
-|:----|--------|---|-----|-----------------------------------------------------|
-|   1 |     0  | 2 | +1  | Werewolf Form, Controlled Shift                     |
-|   2 |   300  | 4 | +1  | Howl, Hit point Increase                            |
-|   3 |   900  | 6 | +2  | Charge, Hit point Increase                          |
-|   4 |  1800  | 8 | +2  | Alpha Strike, Hit point re-roll                     |
-|   5 |  3600  |10 | +2  | Ability Score Increase                              |
-|   6 |  6100  |12 | +2  | Bloodlust                                           |
-|   7 |  9100  |14 | +3  | Werewolf Fortitude                                  |
-|   8 | 13100  |16 | +3  | Extra Attack                                        |
-|   9 | 22600  |18 | +4  | Non-magical Immunity                                |
-|  10 | 44600  |20 | +4  | Ability Score Increase                              |
+| LVL |  XP    | SD|Prof |        Features                 |
+|:----|--------|---|-----|---------------------------------|
+|   1 |     0  | 2 | +1  | Werewolf Form, Controlled Shift |
+|   2 |   300  | 4 | +1  | Howl                            |
+|   3 |   900  | 6 | +2  | Charge                          |
+|   4 |  1800  | 8 | +2  | Alpha Strike                    |
+|   5 |  3600  |10 | +2  | Ability Score Increase          |
+|   6 |  6100  |12 | +2  | Bloodlust                       |
+|   7 |  9100  |14 | +3  | Werewolf Fortitude              |
+|   8 | 13100  |16 | +3  | Extra Attack                    |
+|   9 | 22600  |18 | +4  | Non-magical Immunity            |
+|  10 | 44600  |20 | +4  | Ability Score Increase          |
 
 ## Features
 
@@ -154,20 +154,11 @@ There are certain triggers that may cause you to involuntarily enter your shifte
 ### Howl
 While in your werewolf form, expend one hit die and use your action to unleash a bloodcurdling howl. All werwolves within a mile radius are triggered by this. All creatures within a 10ft radius of you must succeed a WIS save or become frightened. They may remake the save at the end of their turn. The DC for the WIS save is equal to 8 + your proficiency bonus + CON. You also gain 2d8 temporary hit points when you howl.
 
-### Hit point Increase
-At level 2 your maximum hit points increase by 1d4+CON.
-
 #### Charge
 You may expend two stamina dice to double your speed and make two additional attacks this turn. Your movement does not provoke attacks of opportunity for the rest of your turn.
 
-### Hit point Increase
-At level 3 your maximum hit points increase by 1d4+CON.
-
 ### Alpha Strike
 At level 4, when your bite attack hits, you may consume a stamina die to deal an extra 3d8 piercing damage.
-
-### Hit point re-roll
-At level 5, and again each time you gain a level from now on, you recalculate your hit points. Roll 3d4 and add your CON modifier three times. If the value rolled is higher than your current max hit points, you may keep it.
 
 ### Bloodlust
 At level 6, when you kill a creature with your jaws, you gain an action and a stamina die.

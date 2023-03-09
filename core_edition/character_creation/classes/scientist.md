@@ -57,18 +57,18 @@ XP = total experience points needed for level
 SD = Stamina Dice
 Prof = proficiency bonus
 ```
-| LVL |XP     | SD|Prof |  Features                                         |
-|:----|:------|:--|:----|:--------------------------------------------------|
-|   1 |     0 | 2 | +1  |  Scientific Instruments, concealed defense        |
-|   2 |   300 | 4 | +1  |  Hit point Increase, Fundamental Truth            |
-|   3 |   900 | 6 | +2  |  Hit point Increase, Old Reliable                 |
-|   4 |  1800 | 8 | +2  |  Field of expertise, Hit point re-roll            |
-|   5 |  3600 |10 | +2  |  Ability Score Increase                           |
-|   6 |  6100 |12 | +2  |  Branch out                                       |
-|   7 |  9100 |14 | +3  |                                                   |
-|   8 | 13100 |16 | +3  |  Capstone                                         |
-|   9 | 22600 |18 | +4  |                                                   |
-|  10 | 44600 |20 | +4  |  Ability Score Increase                           |
+| LVL |XP     | SD|Prof |  Features                                  |
+|:----|:------|:--|:----|:------------------------------------------ |
+|   1 |     0 | 2 | +1  |  Scientific Instruments, concealed defense |
+|   2 |   300 | 4 | +1  |  Fundamental Truth                         |
+|   3 |   900 | 6 | +2  |  Old Reliable                              |
+|   4 |  1800 | 8 | +2  |  Field of expertise                        |
+|   5 |  3600 |10 | +2  |  Ability Score Increase                    |
+|   6 |  6100 |12 | +2  |  Branch out                                |
+|   7 |  9100 |14 | +3  |                                            |
+|   8 | 13100 |16 | +3  |  Capstone                                  |
+|   9 | 22600 |18 | +4  |                                            |
+|  10 | 44600 |20 | +4  |  Ability Score Increase                    |
 
 ## Features
 
@@ -94,15 +94,6 @@ You refuse to lose yourself in your pursuits. Through self-experimentation and c
 
 #### Knowledge for it's own sake
 Your focus on learning to learn, and do so indiscriminantly. This unlocks your true learning potential. When you make an investigation check, you may now add a 1d4 to your roll.
-
-### Hit point Increase
-Your maximum hit points increase by 1d4+CON.
-
-### Hit point Increase
-Your maximum hit points increase by 1d4+CON.
-
-### Hit point re-roll
-Now, and again each time you gain a level from now on, you recalculate your hit points. Roll 3d4 and add your CON modifier three times. If the value rolled is higher than your current max hit points, you may keep it.
 
 ### Old Reliable
 Through your experimentation, you've finished a prototype weapon for your personal protection. Choose one prototype weapon from the prototype weapons list. You may replace your prototype weapon with a new one by crafting with 20gp of materials during a rest.

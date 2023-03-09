@@ -14,8 +14,8 @@ hidden patterns of magic, but they can leverage this sense to shape and cast
 spells. Their focus may be varied, but their connection to the weave through
 self expression is not.
 
-## Starting hit points
-You start with 6+CON hit points.
+## Hit points
+Roll 3d6 and add your CON modifier three times(minimum 1HP). These are your starting hit points. Every time you gain a level, you may roll again and keep the total if it is higher.
 
 ## Stamina Die size
 The muse's stamina die is a d6.
@@ -61,18 +61,18 @@ Prof = proficiency bonus
 SL = Spell Level
 ```
 
-| LVL |  XP   |SD |Prof |SL |        Features                           |
-|:----|-------|---|-----|---|-------------------------------------------|
-|   1 |     0 | 2 | +1  | 1 | Spellcasting, Focus                       |
-|   2 |   300 | 4 | +1  | 1 | Hit point Increase, Expertise             |
-|   3 |   900 | 6 | +2  | 2 | Hit point Increase, Focus Feat            |
-|   4 |  1800 | 8 | +2  | 2 | Hit point re-roll, Jack of all Trades     |
-|   5 |  3600 |10 | +2  | 2 | Improvised preparation                    |
-|   6 |  6100 |12 | +2  | 3 | Reliable Talent                           |
-|   7 |  9100 |14 | +3  | 3 | Esoteric knowledge                        |
-|   8 | 13100 |16 | +3  | 3 |                                           |
-|   9 | 22600 |18 | +4  | 3 |                                           |
-|  10 | 44600 |20 | +4  | 3 | Unbound knowledge                         |
+| LVL |  XP   |SD |Prof |SL |        Features       |
+|:----|-------|---|-----|---|-----------------------|
+|   1 |     0 | 2 | +1  | 1 | Spellcasting, Focus   |
+|   2 |   300 | 4 | +1  | 1 | Expertise             |
+|   3 |   900 | 6 | +2  | 2 | Focus Feat            |
+|   4 |  1800 | 8 | +2  | 2 | Jack of all Trades    |
+|   5 |  3600 |10 | +2  | 2 | Improvised preparation|
+|   6 |  6100 |12 | +2  | 3 | Reliable Talent       |
+|   7 |  9100 |14 | +3  | 3 | Esoteric knowledge    |
+|   8 | 13100 |16 | +3  | 3 |                       |
+|   9 | 22600 |18 | +4  | 3 |                       |
+|  10 | 44600 |20 | +4  | 3 | Unbound knowledge     |
 
 ## Features
 
@@ -142,14 +142,8 @@ Your muscle-memory contains dozens of precise moves with a blade, and you use th
 ##### Sword Dance
 You are proficient with scimitars, shortswords, longswords, rapiers, and greatswords, and may choose one of them as a part of your starting equipment. You may consume a stamina die and use your bonus action to set up for an artful strike. Your melee attacks with a sword this turn receive advantage.
 
-### Hit point Increase
-Your maximum hit points increase by 1d6+CON.
-
 ### Expertise
 Choose two skills you are proficient with. You have expertise in them, which means you may add your proficiency bonus twice when making checks with the skills.
-
-### Hit point Increase
-Your maximum hit points increase by 1d6+CON.
 
 ### Focus Feat
 Each focus offers a different feat at level 3
@@ -227,9 +221,6 @@ Through your unique motions, you unlock new possibilities for spellcasting.
 
 #### Blade: Extra Attack
 When you use your action to make an attack, you may make one additional attack.
-
-### Hit point re-roll
-Now, and again each time you gain a level from now on, you recalculate your hit points. Roll 3d6 and add your CON modifier three times. If the value rolled is higher than your current max hit points, you may keep it.
 
 ### Jack of all Trades
 Your general knowledge serves you well. You now receive half your proficiency bonus on all ability checks that you can apply some form of knowledge to.

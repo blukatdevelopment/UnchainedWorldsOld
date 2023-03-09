@@ -12,8 +12,8 @@
 # Diviner
 You live as an example to all that share your faith. In service of a deity or divine entity, you live by a strict code of conduct and leverage your piety to wield your deity's magic.
 
-## Starting hit points
-You start with 4+CON hit points.
+## Hit points
+Roll 3d4 and add your CON modifier three times(minimum 1HP). These are your starting hit points. Every time you gain a level, you may roll again and keep the total if it is higher.
 
 ## Stamina Die size
 The diviner's stamina die is a d4.
@@ -57,9 +57,9 @@ Prof = proficiency bonus
 | LVL |XP     |SD |Prof |Spell Level |        Features            |
 |:----|:------|:--|:----|:-----------|:---------------------------|
 |   1 |      0| 2 | +1  |  Cantrip   | Divine Spellcasting, Deity |
-|   2 |    300| 4 | +1  |     1      | Hit point Increase         |
-|   3 |    900| 6 | +2  |     2      | Hit point Increase         |
-|   4 |   1800| 8 | +2  |     2      | Hit point re-roll          |
+|   2 |    300| 4 | +1  |     1      |                            |
+|   3 |    900| 6 | +2  |     2      |                            |
+|   4 |   1800| 8 | +2  |     2      |                            |
 |   5 |   3600|10 | +2  |     3      | Ability Score Increase     |
 |   6 |   6100|12 | +2  |     3      | Channel Divinity           |
 |   7 |   9100|14 | +3  |     4      |                            |
@@ -142,17 +142,6 @@ acts. Domain spells do not count against the number of spells you may prepare.
 |        | for a crime          | of others              |                                        |
 `[1]: Spell is found in the Spell Compendium Volume 1`
 
-
-### Hit point Increase
-Your maximum hit points increase by 1d4+CON.
-
-### Hit point Increase
-Your maximum hit points increase by 1d4+CON.
-
-### Hit point re-roll
-Now, and again each time you gain a level from now on, you recalculate your hit
-points. Roll 3d4 and add your CON modifier three times. If the value rolled is
-higher than your current max hit points, you may keep it.
 
 ### Channel Divinity
 As the discipline in your domain grows solid, your deity offers up a 

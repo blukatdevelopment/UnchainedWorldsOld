@@ -53,18 +53,18 @@ SD = Stamina Dice
 Prof = proficiency bonus
 ```
 
-| LVL |    XP | SD|Prof |Tricks  |       Features                             |
-|:----|-------|---|-----|--------|--------------------------------------------|
-|   1 |      0| 2 | +1  |      2 | Tricks, Thieves' Cant                      |
-|   2 |    300| 4 | +1  |      3 | Expertise, Hit point Increase              |
-|   3 |    900| 6 | +2  |      4 | Ability Score Increase, Hit point Increase |
-|   4 |   1800| 8 | +2  |      5 | Hit point re-roll                          |
-|   5 |   3600|10 | +2  |      6 |                                            |
-|   6 |   6100|12 | +2  |      7 | Ability Score Increase                     |
-|   7 |   9100|14 | +3  |      8 |                                            |
-|   8 |  13100|16 | +3  |      9 |                                            |
-|   9 |  22600|18 | +4  |     10 |                                            |
-|  10 |  44600|20 | +4  |     11 | Ability Score Increase                     |
+| LVL |    XP | SD|Prof |Tricks  |       Features         |
+|:----|-------|---|-----|--------|------------------------|
+|   1 |      0| 2 | +1  |      2 | Tricks, Thieves' Cant  |
+|   2 |    300| 4 | +1  |      3 | Expertise              |
+|   3 |    900| 6 | +2  |      4 | Ability Score Increase |
+|   4 |   1800| 8 | +2  |      5 |                        |
+|   5 |   3600|10 | +2  |      6 |                        |
+|   6 |   6100|12 | +2  |      7 | Ability Score Increase |
+|   7 |   9100|14 | +3  |      8 |                        |
+|   8 |  13100|16 | +3  |      9 |                        |
+|   9 |  22600|18 | +4  |     10 |                        |
+|  10 |  44600|20 | +4  |     11 | Ability Score Increase |
 
 
 ## Features
@@ -77,15 +77,6 @@ Your thieving lifestyle has lead you to learn the language thieves use to commun
 
 ### Expertise
 Choose one skill that you have proficiency with. Your proficiency bonus counts twice for checks made with this skill. You may substitute this skill proficiency for proficiency with thieve's tools.
-
-### Hit point Increase
-Your maximum hit points increase by 1d6+CON.
-
-### Hit point Increase
-Your maximum hit points increase by 1d6+CON.
-
-### Hit point re-roll
-Now, and again each time you gain a level from now on, you recalculate your hit points. Roll 3d6 and add your CON modifier three times. If the value rolled is higher than your current max hit points, you may keep it.
 
 ### Ability Score increase
 You may increase one ability score by 2, or you can increase two ability scores of your choice by 1. You cannot increase an ability score past 20.

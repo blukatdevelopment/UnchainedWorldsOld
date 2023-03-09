@@ -11,8 +11,8 @@
 # Alchemist
 Magicians bend the weave to unleash magical energy that they struggle to control. Alchemical processes are what you struggle to control. Novice alchemy is a form of gambling, but after achieving mastery in the art, alchemists can truly achieve stability.
 
-## Starting hit points
-You start with 4+CON hit points.
+## Hit points
+Roll 3d4 and add your CON modifier three times(minimum 1HP). These are your starting hit points. Every time you gain a level, you may roll again and keep the total if it is higher.
 
 ## Stamina Die size
 The alchemist's stamina die is a d4.
@@ -57,18 +57,18 @@ SD = Stamina Dice
 Prof = proficiency bonus
 TN = Techniques
 ```
-| LVL |  XP   |SD |Prof |TN |        Features                           |
-|:----|:------|:--|:----|:--|:------------------------------------------|
-|   1 |     0 | 2 | +1  | 1 | Novice Alchemy                            |
-|   2 |   300 | 4 | +1  | 2 | Lesser Splash Potions, Hit point Increase |
-|   3 |   900 | 6 | +2  | 3 | Big Dipper, Quick Brew, Hit point Increase|
-|   4 |  1800 | 8 | +2  | 4 | Journeyman Alchemy, Hit point re-roll     |
-|   5 |  3600 |10 | +2  | 5 | Ability Score Increase                    |
-|   6 |  6100 |12 | +2  | 6 | GlassBlower                               |
-|   7 |  9100 |14 | +3  | 7 | Expert Alchemy                            |
-|   8 | 13100 |16 | +3  | 7 | Greater Splash Potions                    |
-|   9 | 22600 |18 | +4  | 7 | Master Alchemy                            |
-|  10 | 44600 |20 | +4  | 7 | Ability Score Increase                    |
+| LVL |  XP   |SD |Prof |TN |        Features        |
+|:----|:------|:--|:----|:--|:-----------------------|
+|   1 |     0 | 2 | +1  | 1 | Novice Alchemy         |
+|   2 |   300 | 4 | +1  | 2 | Lesser Splash Potions  |
+|   3 |   900 | 6 | +2  | 3 | Big Dipper, Quick Brew |
+|   4 |  1800 | 8 | +2  | 4 | Journeyman Alchemy     |
+|   5 |  3600 |10 | +2  | 5 | Ability Score Increase |
+|   6 |  6100 |12 | +2  | 6 | GlassBlower            |
+|   7 |  9100 |14 | +3  | 7 | Expert Alchemy         |
+|   8 | 13100 |16 | +3  | 7 | Greater Splash Potions |
+|   9 | 22600 |18 | +4  | 7 | Master Alchemy         |
+|  10 | 44600 |20 | +4  | 7 | Ability Score Increase |
 
 
 ## Features
@@ -78,15 +78,6 @@ You learn to brew simple potions using the Amateur's Bubbling Cauldron  techniqu
 
 ### Lesser Splash Potions
 You learn to temporarily heighten the potency of a potion so that it can be divided up between two bottles. The process requires one action and consumes one stamina die to fuel the magic, but results in two potions. These potions remain potent for 1 minute, after which they lose all potency.
-
-### Hit point Increase
-Your maximum hit points increase by 1d4+CON.
-
-### Hit point Increase
-Your maximum hit points increase by 1d4+CON.
-
-### Hit point re-roll
-Now, and again each time you gain a level from now on, you recalculate your hit points. Roll 3d4 and add your CON modifier three times. If the value rolled is higher than your current max hit points, you may keep it.
 
 ### Big Dipper
 Your practice has paid off. You may now dip a weapon or piece of ammunition in a potion using your bonus action.

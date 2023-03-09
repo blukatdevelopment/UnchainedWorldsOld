@@ -11,8 +11,8 @@
 # Monk
 Some believe there is a vitality found in all living things which can be understood only through a personal journey of discipline, self-discovery, and victory of mind over matter. Those who wield ki are rumored to ascend the physical limitations that burden most warriors. They are capable of dodging, countering, and striking with inhuman speed and precision. This wielder of ki is known as the monk.
 
-## Starting hit points
-You start with 8+CON hit points.
+## Hit points
+You have 8+CON hit points.
 
 ## Stamina Die size
 The monk's stamina die is a d8.

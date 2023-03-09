@@ -11,8 +11,8 @@
 # Gunsmith
 Maybe you dispatch your enemies from a secure vantage point, draw at high noon, or bring down buildings. You're a master of steel, lead,  and gunpowder. A cold, calculating killer who calls thunder down on those unlucky enough to face the business end of your arsenal, you represent the tip of the spear in military innovation.
 
-## Starting hit points
-You start with 6+CON hit points.
+## Hit points
+Roll 3d6 and add your CON modifier three times(minimum 1HP). These are your starting hit points. Every time you gain a level, you may roll again and keep the total if it is higher.
 
 ## Stamina Die size
 The gunsmith's stamina die is a d6.
@@ -56,18 +56,18 @@ Prof = proficiency bonus
 MNVS = Maneuvers
 ```
 
-| LVL | XP    | SD|Prof |MVNS |         Features                           |
-|:----|:------|:--|:----|:----|:-------------------------------------------|
-|   1 |     0 | 2 | +1  |   1 | Scrap, Smith                               |
-|   2 |   300 | 4 | +1  |   1 | Hit point Increase, Gunsmith Maneuvers     |
-|   3 |   900 | 6 | +2  |   2 | Hit point Increase                         |
-|   4 |  1800 | 8 | +2  |   2 | Hit point re-roll, Second Wind             |
-|   5 |  3600 |10 | +2  |   3 | Ability Score Increase                     |
-|   6 |  6100 |12 | +2  |   4 |                                            |
-|   7 |  9100 |14 | +3  |   5 | Advanced Smith                             |
-|   8 | 13100 |16 | +3  |   5 | Ability Score Increase                     |
-|   9 | 22600 |18 | +4  |   6 |                                            |
-|  10 | 44600 |20 | +4  |   6 | Ability Score Increase                     |
+| LVL | XP    | SD|Prof |MVNS |         Features       |
+|:----|:------|:--|:----|:----|:-----------------------|
+|   1 |     0 | 2 | +1  |   1 | Scrap, Smith           |
+|   2 |   300 | 4 | +1  |   1 | Gunsmith Maneuvers     |
+|   3 |   900 | 6 | +2  |   2 |                        |
+|   4 |  1800 | 8 | +2  |   2 | Second Wind            |
+|   5 |  3600 |10 | +2  |   3 | Ability Score Increase |
+|   6 |  6100 |12 | +2  |   4 |                        |
+|   7 |  9100 |14 | +3  |   5 | Advanced Smith         |
+|   8 | 13100 |16 | +3  |   5 | Ability Score Increase |
+|   9 | 22600 |18 | +4  |   6 |                        |
+|  10 | 44600 |20 | +4  |   6 | Ability Score Increase |
 
 ## Features
 
@@ -77,17 +77,8 @@ One unit of scrap consists of 10lb of iron, chemicals, and other metal. It can b
 ### Smith
 During a rest, you may craft weapons using scrap. You may not craft cartridges, nor weapons that use cartridges.
 
-### Hit point Increase
-Your maximum hit points increase by 1d6+CON.
-
 ### Gunsmith Maneuvers
 You learn to perform one maneuver from the maneuvers list. The maneuvers column shows the number of maneuvers you know at any given level.
-
-### Hit point Increase
-Your maximum hit points increase by 1d6+CON.
-
-### Hit point re-roll
-Now, and again each time you gain a level from now on, you recalculate your hit points. Roll 3d6 and add your CON modifier three times. If the value rolled is higher than your current max hit points, you may keep it.
 
 ### Second Wind
 You may use your bonus action to take a deep breath and brace yourself for more carnage. You expend one stamina die and heal the amount rolled.

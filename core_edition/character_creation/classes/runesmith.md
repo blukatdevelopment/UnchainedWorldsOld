@@ -11,8 +11,8 @@
 # Runesmith
 Some channel the power of the weave by studying symbols. These symbols are known as runes. Once carved, runes contain powerful bindings to the weave that can be invoked to cast spells. The runesmith is one who dedicates their life to the art of the rune.
 
-## Starting hit points
-You start with 4+CON hit points.
+## Hit points
+Roll 3d4 and add your CON modifier three times(minimum 1HP). These are your starting hit points. Every time you gain a level, you may roll again and keep the total if it is higher.
 
 ## Stamina Die size
 The runesmith's stamina die is a d4.
@@ -55,18 +55,18 @@ Prof = proficiency bonus
 SL = Spell Level
 ```
 
-| LVL | XP    | SD|Prof | Runes | SL |    Features                                   |
-|:----|:------|:--|:----|:------|:---|:----------------------------------------------|
-|   1 |      0| 2 | +1  |     0 |  1 | Runebook, Ritual Casting                      |
-|   2 |    300| 4 | +1  |     2 |  1 | Runesmithery, Runecasting, Hit point Increase |
-|   3 |    900| 6 | +2  |     4 |  1 | Extra Cantrip, Hit point Increase             |
-|   4 |   1800| 8 | +2  |     8 |  2 | Runecasting Style, Hit point re-roll          |
-|   5 |   3600|10 | +2  |    10 |  2 | Ability Score Increase                        |
-|   6 |   6100|12 | +2  |    12 |  3 |                                               |
-|   7 |   9100|14 | +3  |    16 |  3 | Runesmithing Technique                        |
-|   8 |  13100|16 | +3  |    18 |  4 |                                               |
-|   9 |  22600|18 | +4  |    20 |  4 | Extra Cantrip                                 |
-|  10 |  44600|20 | +4  |    24 |  5 | Ability Score Increase                        |
+| LVL | XP    | SD|Prof | Runes | SL |    Features              |
+|:----|:------|:--|:----|:------|:---|:-------------------------|
+|   1 |      0| 2 | +1  |     0 |  1 | Runebook, Ritual Casting |
+|   2 |    300| 4 | +1  |     2 |  1 | Runesmithery, Runecasting|
+|   3 |    900| 6 | +2  |     4 |  1 | Extra Cantrip            |
+|   4 |   1800| 8 | +2  |     8 |  2 | Runecasting Style        |
+|   5 |   3600|10 | +2  |    10 |  2 | Ability Score Increase   |
+|   6 |   6100|12 | +2  |    12 |  3 |                          |
+|   7 |   9100|14 | +3  |    16 |  3 | Runesmithing Technique   |
+|   8 |  13100|16 | +3  |    18 |  4 |                          |
+|   9 |  22600|18 | +4  |    20 |  4 | Extra Cantrip            |
+|  10 |  44600|20 | +4  |    24 |  5 | Ability Score Increase   |
 
 
 ## Features
@@ -91,15 +91,6 @@ Your knowledge of certain spells allows you to channel magic through their runes
 
 ### Runecasting
 When holding a rune stone in your hand, you may use an action to release the stored spell from the stone. Intelligence is your spellcasting abiility. The rune stone you cast with acts as a spell focus, and is  consumed after the spell is cast. Your spell DC (difficulty class) is 8+proficiency bonus + intelligence modifier. Your spell attack modifier is proficiency bonus + intelligence modifier.
-
-### Hit point Increase
-Your maximum hit points increase by 1d4+CON.
-
-### Hit point Increase
-Your maximum hit points increase by 1d4+CON.
-
-### Hit point re-roll
-Now, and again each time you gain a level from now on, you recalculate your hit points. Roll 3d4 and add your CON modifier three times. If the value rolled is higher than your current max hit points, you may keep it.
 
 ### Extra Cantrip
 You learn one additional Cantrip from the runesmith spell list.
