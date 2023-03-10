@@ -164,8 +164,8 @@ You may build the channeled energy further and consuming 2 more stamina dice, gr
 #### Omniscient Sight (Exheia)
 Your eyes begin to glow brightly. You can see all creatures within 120 feet of you, whether they are invisible, hiding, or in a parallel dimension such as the ethereal plane. You chant a holy prayer, and any friendly creatures within range share this sight, and additionally gain advantage on any attack rolls they make. Each turn, you may use your bonus action to continue chanting in order to extend this effect for up to 1 minute.
 
-#### Reap (Korrath)
-You use one hand to point at an evil creature within 60 feet, and hold your other hand in the air as you declare that the creature will be reaped in the name of Korrath. A spectral scythe appears in your hand. You are proficient with the scythe and it uses wisdom instead of strength. The scythe deals 3d10 force damage on a hit. If you kill the targeted creature, their soul is harvested and you receive 1d2 * 1000 piety. The weapon disappears after 1 minute, or if you end a turn without having attacked with it, or after killing the targeted creature.
+#### Reap (Bimros)
+You use one hand to point at an evil creature within 60 feet, and hold your other hand in the air as you declare that the creature will be reaped in the name of Bimros. A spectral scythe appears in your hand. You are proficient with the scythe and it uses wisdom instead of strength. The scythe deals 3d10 force damage on a hit. If you kill the targeted creature, their soul is harvested and you receive 1d2 * 1000 piety. The weapon disappears after 1 minute, or if you end a turn without having attacked with it, or after killing the targeted creature.
 
 ## Spell List
 

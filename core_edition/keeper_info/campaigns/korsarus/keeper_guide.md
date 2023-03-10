@@ -1,7 +1,74 @@
 # Keeper's Guide
 This document contains supplemental info that may be referenced during the campaign.
 
+# Factions
 
+## Major and Minor factions
+Comprehensive detail can be found in `factions.md` There are three major factions which get their own faction turns.
+- Omaria
+- Rebels
+- Silent Order
+In addition, there are several factions that may provide assistance, but do not themselves take faction turns.
+1. Wayfarer's Guild
+2. Church of Bimros
+3. Church of Solus
+4. Privateers Guild
+5. Assassin's Guild
+6. Mages Guild
+7. Thieves' Guild
+8. Giant Horde
+
+## World event
+Roll one of the following if you'd like more action. You can have up to three of these active at once. For each, calculate the current status of the event.
+
+1. Minor faction becoming major
+2. Powerful lost tech Artifact located
+3. Villanous force growing strong
+4. A foreign faction appears
+5. Disaster
+6. Nothing
+
+### Minor faction becoming major
+Roll for a minor faction from the list above in the `Major and Minor factions` section.
+
+Now pick their source of power
+
+1. Plot to hijack one of the main factions
+2. Control of new lucrative resource
+3. Seized a village
+4. Forming a coalition with two other factions
+
+### Powerful lost tech Artifact located
+
+1. Blaster factory
+2. Ground vehicle[Dragon armor, Titan Armor]
+3. Aircraft[flying castle, bomber, dropship]
+4. Planetbuster
+5. Army of dormant sentinels
+6. Pristene titan bunker city
+
+
+### Villanous force growing strong
+1. Giant Ant Queen(Blue)
+2. Infernoid
+3. Necromancer
+4. Extra-terrestrial Slime
+5. Mind leeches
+6. Flesh Eaters
+
+### A foreign faction appears
+1. Western Crusading Knights of Solus
+2. Eastern Sword invasion
+3. Northern Red Dragon
+4. Southern Inglewood invasion
+
+### Disaster
+1. Omarian Famine
+2. Unseasonable winter
+3. Unseasonable heat
+4. Large meteorite strikes and creates corrupting wind
+5. Rising sea levels
+6. Antimagic field over 10 hex diameter area
 
 # Tables
 
@@ -486,17 +553,17 @@ Roll 1d100, reroll if higher than highest listing.
 77. Skill book: Voice throwing
 78. Skill book: Guide to minerology
 79. Skill book: Goldrobe ettiquitte guide
-80. 
-81. 
-82. 
-83. 
-84. 
-85. 
-86. 
-87. 
-88. 
-89. 
-90. 
+80. Bagpipe
+81. Viola
+82. Harp
+83. Lute
+84. Pan Flute
+85. Shawm
+86. Drum
+87. Tambourine
+88. Dulcimer
+89. Hurdy Gurdy
+90. Musical horn
 91. 
 92. 
 93. 

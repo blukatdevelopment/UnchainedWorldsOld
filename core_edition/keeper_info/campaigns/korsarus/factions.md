@@ -1,4 +1,4 @@
-# Factions
+# Major Factions
 Factions are organizations with structures. The first time you would gain renoun in a faction, you will be offered the chance to join it. Your character can only be affiliate with one faction. Earning renoun in a faction offers one-time favors and permanent boons. If new factions form, this document may be expanded during the campaign.
 
 ## Omaria
@@ -35,34 +35,6 @@ In control of Korsarus City, Thiersgar, and the constellation of villages immedi
 18. Knight: Treated as nobility. May move freely within silver ring and gold core. Membership in Omarian security council.
 25. Commander: Command force of up to 10 soldiers with supply train on Omarian missions. May join another faction to infiltrate it.
 35. General: Advise the king directly, issue orders to commanders.
-
-## Thieves' Guild
-The thieves' guild is home to those stealing for profit, and those who wish to steal from the rich and give to the poor.
-
-### Goals
-- Open an orphanage in the Copper Ring
-- Open a tradeschool in Copper Ring
-- Steal the king's crown
-- Build a palace in the sewers
-- Infiltrate the Omarian government with thieves
-
-### NPCs
-- Circle members: Steatak, Buscat, Doga Kelfeep, Conpu Sekethef
--  Sanctuary Fence: Golgem
--  Stadium Fence: Arnafir
--  Steamworks Fence: Stenrusk
--  North Gate Fence: Norban
--  Rivergate Fence: Rinalt
--  The Claw Fence: Kohgoonoh
--  Docks Fence: Pobat Shister
-
-### Renown Rewards
-1. Friend of the Thieves' Guild: offer of membership(+2 renown)
-3. Initiate: Learn thieves' cant, access to fences and black market.
-6. Trusted thief: Access to safe houses, parties.
-18. Notorious Masked thief: You are well-known by your thief name and your signature mask. You will be consulted for heists. 
-25. Inner circle access: Can speak with higher-ups in thieves' guild. May join another faction to infiltrate it.
-35. Grey fox: May compete for leadership position over thieves' guild. (There is no leader.)
 
 ## The rebels
 The rebels are a broad coalition with a militant core of wildfolk who are committed to the cause of liberating the villages under Omarian control, freeing them from paying tribute, and allowing them to exist indepdendently.
@@ -121,6 +93,7 @@ A band of trade wagons that bring goods and services to the Korsarus region.
 
 ## Church of Bimros
 The loose coalition of sages, knights, and diviners that gather to do the will of Bimros. They delight in the extermination of monsters and the expansion of human occupation.
+- Lead by figurehead Bimron Susak
 - Want the giant's playground cleared out
 - Want 14 laws of Bimros as law
 
@@ -137,3 +110,34 @@ A group of monks that gathered under the lawful evil pursuit of violence for it'
 
 ## Mages Guild
 Centered in the university within the Golden Core of Korsarus City, the mages guild governs the use of magic in the region, and is responsible for the reputation of magic users. They do not get along with diviners and other non-arcane magic users.
+
+## Giant Horde
+King Kurfigar and a mass of other giants have settled the area known as the Giant's playground, crushing towns in the process. They kill most humans on sight, but have more patience with beast folk and other giants.
+
+## Thieves' Guild
+The thieves' guild is home to those stealing for profit, and those who wish to steal from the rich and give to the poor.
+
+### Goals
+- Open an orphanage in the Copper Ring
+- Open a tradeschool in Copper Ring
+- Steal the king's crown
+- Build a palace in the sewers
+- Infiltrate the Omarian government with thieves
+
+### NPCs
+- Circle members: Steatak, Buscat, Doga Kelfeep, Conpu Sekethef
+-  Sanctuary Fence: Golgem
+-  Stadium Fence: Arnafir
+-  Steamworks Fence: Stenrusk
+-  North Gate Fence: Norban
+-  Rivergate Fence: Rinalt
+-  The Claw Fence: Kohgoonoh
+-  Docks Fence: Pobat Shister
+
+### Renown Rewards
+1. Friend of the Thieves' Guild: offer of membership(+2 renown)
+3. Initiate: Learn thieves' cant, access to fences and black market.
+6. Trusted thief: Access to safe houses, parties.
+18. Notorious Masked thief: You are well-known by your thief name and your signature mask. You will be consulted for heists. 
+25. Inner circle access: Can speak with higher-ups in thieves' guild. May join another faction to infiltrate it.
+35. Grey fox: May compete for leadership position over thieves' guild. (There is no leader.)
