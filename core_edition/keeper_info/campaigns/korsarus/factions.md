@@ -106,7 +106,20 @@ The loose coalition of sages, paladins, and diviners that gather to do the will 
 The organized pirates of the Eastern Sea. The privateers can be contracted as a mercenary navy, escorts, privateers, or merely paid protection money to ensure safe passage. They are responsible for most smuggled goods in the Korsarus region.
 
 ## Assassin's Guild
-A group of monks that gathered under the lawful evil pursuit of violence for it's own sake. They are centered in Shadowvale, which is largely unreachable by Omarian authority.
+A group that gathered under the lawful evil pursuit of violence for it's own sake. They are centered in Shadowvale, which is largely unreachable by Omarian authority.
+
+### NPCs
+- Fantsmok(she/her, human) Monk
+- Laynohgay(he/him, fox folk) Monk
+- Fedbalt(she/her, human) Monk
+- Loogoolihkih(he/him, wolf folk) Monk
+- Hesblank(she/her, human) Thief
+- Persbir(he/him, human) Thief
+- Aganul(she/her, human) Thief
+- Gohnooheelih(he/him, panther folk) Runesmith
+- Piercepolite(she/her, human) Writing muse
+- Weena Turem(he/him, human) Warrior
+- Looteelah(she/her, skunk folk) Warrior
 
 ## Mages Guild
 Centered in the university within the Golden Core of Korsarus City, the mages guild governs the use of magic in the region, and is responsible for the reputation of magic users. They do not get along with diviners and other non-arcane magic users.

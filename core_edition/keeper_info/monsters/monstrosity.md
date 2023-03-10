@@ -152,6 +152,13 @@ Another puzzling product of wild magic corruption, this creature appears to be a
 
 `Giant Hand, Size: small, HP: 16(2d6+4), AC: 10, Speed: 30ft, Hover 30ft [16,16,12,8,12,11], Flick +5 1d12 bludgeoning, DC13 STR save or shoved 20ft.`
 
+## Melding Giant Hand
+Stranger than the giant hand, the melding giant hand may turn stone, or meld into stone and move freely inside it.
+
+`Melding Giant Hand, Size: small, HP: 16(2d6+4), AC: 10, Speed: 30ft, Hover 30ft [16,16,12,8,12,11], Flick +5 1d12 bludgeoning, DC13 STR save or shoved 20ft.`
+- Stone form(Bonus action): AC raises to 16, cannot move
+- Stone meld(Bonus action): disappears into stone surface or emerges from stone surface. Speed in stone is 30ft
+
 ## Dream Eater
 This strange creature has the head of an anteater, the torso of a human, and the arms and legs of a gorilla. It puts it's victims to sleep and visits their dreams to bring them nightmares and feed on their psychic energy. Within dreams, they may assume many forms.
 
