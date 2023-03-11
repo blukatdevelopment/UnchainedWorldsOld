@@ -67,7 +67,11 @@ Bite +3 1d8+1 piercing. On hit may make a claw attack.
 Claw +3 2d4+1 slashing
 ```
 
-## Medium
+## Wild Boar
+`Wild Boar, HP: 8(1d6+2), AC: 14(hide), speed: 40ft, [14, 14, 14, 4, 12, 4], Tusks +4 1d6+2`
+- Charge: After moving 20ft toward target, Tusks have advantage
+
+## Blackbear
 
 ```
 Blackbear
@@ -82,6 +86,8 @@ Multiattack: Blackbear may make 2 claw attacks.
 Bite +3 1d6+2 piercing
 Claws +3 2d4+2 slashing
 ```
+
+## Wolf
 
 ```
 Wolf
@@ -127,6 +133,8 @@ Attacks:
 Bite +5 2d6+3 piercing
 ```
 
+## Shark
+
 ```
 Shark
 Medium Beast
@@ -142,7 +150,6 @@ Attacks:
 Bite +5 2d6+3 piercing
 ```
 
-## Large
 
 ## Brown Bear
 
@@ -175,8 +182,10 @@ other creature touching the web.
 Bite +5 1d6+3 piercing, DC 11 CON to halve 2d8 poison damage and avoid being poisoned for 1 hour. If poison drops the target to or below 0, they are stable but paralyzed and poisoned.
 ```
 
+## Moose
+
 ```
-Elk
+Moose
 Large Beast
 XP: 50
 HP: 24(3d10+6)
@@ -224,7 +233,7 @@ Bite +6 1d10+5 piercing
 Claw +6 2d6+5 slashing
 ```
 
-## Huge
+## Giant Elk
 
 ```
 Giant Elk

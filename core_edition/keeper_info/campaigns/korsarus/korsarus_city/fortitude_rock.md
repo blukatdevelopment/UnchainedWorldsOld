@@ -22,12 +22,6 @@
 - One of three commanders present at all times
 - Unlock warrior class(no oaths) here
 
-### Commander Consprect(Warrior)
-- Fem pale human
-- Short red hair
-- Crude, crass, tough love
-- Omarian Half plate and longsword
-
 ### Commander Naross(Warrior)
 - Masc brown human
 - Short dark hair

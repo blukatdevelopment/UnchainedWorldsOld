@@ -12,14 +12,14 @@ Delving or withdrawing both take 1 hour.
 ### Delve deeper
 Roll 1d6. 1 is monster, 6 Discovery.
 
-### Withdrawing
+### Backtrack
 Navigator makes DC 2d10+2 INT check.
 Success = depth reduces by one
 Failure = go in circles
 Failure(5 or more) = depth increases by 1
 
 ### Following a trail
-Prospector makes DC 2d10+2 INT check
+Prospector makes DC 2d10+2 INT check. On success, they make arrive at destination. On failure, they lose trail and gain depth(must backtrack to try again)
 
 ## Monsters
 Ask for Wisdom check from the scout. The DC is 2d10+2. Apply any additional bonuses. Succeeding has range of 100ft, undetected by monster. Failure is 30ft, detected by monster. Failure by 5 or more is stumbling into ambush. 
@@ -216,8 +216,8 @@ An oasis has an underground river and some surrounding pools. Roll for the follo
 #### Roots
 Roll 3d10 for three kinds of roots
 Roll 1d4 for how many pounds of each
-DC 2d8+2 INT check to narrow down species between two options(one correct)
-DC 3d8+2 INT check to know exact species 
+DC 3d8+2 INT check to know exact species
+Fail by less than 5 to narrow down species between two options(one correct)
 1. Edible Pulp root(dirt flavor)
 2. Inedible Snarl root
 3. Edible Spear root(dirt flavor)
@@ -244,8 +244,9 @@ Small have 1d4 pounds of meat each
 #### Mushrooms
 Roll 3d20 for three kinds of mushrooms.
 Roll 1d4 for how many pounds of each mushroom.
-DC 2d8+2 INT check to narrow down species between two options(one correct)
-DC 3d8+2 INT check to know exact species 
+
+DC 3d8+2 INT check to know exact species
+Fail by less than 5 to narrow down species between two options(one correct)
 
 Glow Shrooms stay glowing for 24 hours when picked, but can live for months on wood.
 

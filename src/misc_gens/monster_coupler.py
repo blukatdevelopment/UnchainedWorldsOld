@@ -1,4 +1,80 @@
 import random
+#
+"""
+Tentacle Beast
+Pincer Beast
+Wolf bat
+Stone Scurrier
+Giant Ant
+Sha Karr
+Mind Leech
+Flesh Eaters
+Chaos Shells
+Infernoids
+Mantis Man
+Leech Man
+Sentinel
+Floating Eye
+Giant Hand
+Spindle Man
+Muckbeast
+Needlenose
+Chameleoid
+Raystalker
+Manface silkworm
+Marionette spider
+Invisible Skulker
+Changeling
+Land Urchin
+Carpet Worm
+Swarm of Heart Worms
+Pit Fisher
+Mimic
+Hydra
+Zombie
+Skeletons
+Shadow
+Ghost / Banshee / Specter
+Breath Skull
+Skelemancer
+Vampire
+Slime
+Rotheads
+Grass Heap
+Root Walkers
+Fey Guardian
+Shroom People
+Nymph
+Arch Fey
+Giant Crab
+Snarl Beak
+Huge Polar Bear
+Sharp Tooth
+Saber-toothed Tiger
+Dire Wolf
+Giant Spider
+Brown Bear
+Mountain Lion
+Giant Leech
+Featherclaws
+Littlefoot
+Sand Guardian
+Flame Guardian
+Grinders
+Abyssal Giant
+Bone Thresher
+Gattogat
+Vice
+Imp
+Regret
+Devil Scribes
+Hell Knight
+Hell Hounds
+Bandit
+Soldier
+Cultists
+Dwarf Giants
+"""
 
 # General
 first = ["Tentacle Beast",

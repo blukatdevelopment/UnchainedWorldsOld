@@ -56,7 +56,7 @@ Ilit Ravirt(he/him, human)
 Factwing(she/her, human)
 Hairylist(she/her, human)
 
-## Comfortable room(8gp, 5gp)
+## Comfortable room(8sp, 5amenities)
 - Private room with fireplace and feather mattress (Fire and shelter)(Dry Bedding)(Comfortable bedding)
 - Meal of bread and rabbit stew(Food and water)(Double food ration)
 - Bath token (3sp, 2 amenity)

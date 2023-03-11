@@ -1,6 +1,87 @@
 # Keeper's Guide
 This document contains supplemental info that may be referenced during the campaign.
 
+# Overland travel
+
+## Movement pace
+
+### Camp in place
+- Move 0 hexes
+- Set up camp with fire + tents
+- Consumes 0 stamina
+- Can do resource activity
+
+### Slow pace
+- Move half a hex
+- Set up camp with fire + tents
+- Consumes 1 stamina normally
+- Consumes 2 stamina on rough terrain
+- Can do resource activity
+
+### Standard pace
+- Move one hex
+- Set up camp with fire + tents
+- Consumes 2 stamina normally
+- Consumes 4 stamina on rough terrain
+- Consumes 1 stamina on road or by horse
+- Consumes 0 stamina by wagon
+
+### Fast pace
+- Move two hexes
+- Set up camp with fire + tents
+- Consumes 4 stamina normally
+- Consumes 8 stamina on rough terrain
+- Consumes 2 stamina on road or by horse
+- Consumes 0 stamina by wagon
+
+## Resource activities
+
+### Find Water 
+- Adventurers need 1 gal/day, horses 5gal/day
+- Auto-succeed if found water source
+- DC 2d10+2 WIS check to find normally
+- DC 3d10+2 WIS check to find in desert, mountains
+
+### Hunt Game
+1. DC 3d6+2(or 4d6+2 in winter) WIS check and 1d8 to locate game(Can retry once, losing game from first attempt)
+2. DC 3d6+2 DEX check to approach undetected
+3. Make attack with advantage. Wounded game may run or attack lone hunter.
+
+Assume meat is smoked and lasts 7 days.
+Game:
+1. Grouse(1 lb meat, AC: 14, HP: 1)
+2. Rabbit(1d4 lb meat, AC: 14, HP: 1)
+3. Goose(2d4+2 lb meat, AC: 12, HP: 3)
+4. Turkey(3d4+2 lb meat, AC: 12, HP: 3)
+5. Deer(10d8 lb meat, AC: 13. HP: 6)
+6. 1d4 Wild boar(3d10+60 lb meat, AC: 14, HP: 8)
+7. Elk(3d10+180 lb meat, AC: 13, HP: 10)
+8. Moose(4d10+470lb lb meat, AC: 13, HP: 24)
+
+### Gather wild plants
+Available during spring and summer
+1. DC 2d10 WIS check to find 1d4-1 pounds of wild greens, roots, berries, and nuts
+Assume these last in dried state for a month
+
+### Pick Mushrooms
+Available during spring and summer
+1. DC 3d8+2 WIS check to find 1d4 lb of mushrooms
+2. DC 3d8+2 INT check to know exact species
+Fail by less than 5 to narrow down species between two options(one correct)
+
+1. King Curtain Mushroom
+2. Small Club Mushroom
+3. Questionable Woodwart Mushroom
+4. Forked Trumpet Mushroom
+5. Turkey-tail Gilled Polypore Mushroom
+6. Blackcurly Fishscale Lichen Mushroom
+7. Fuzzy Jewel Lichen Mushroom
+8. Telephora Bracket Mushroom
+9. Tamarack Puffball Fungus 
+10. Clustered Fingers Mushroom
+11. Banded Scalycap Mushroom
+12. Blue glow shrooms
+
 # Factions
 
 ## Major and Minor factions
@@ -46,7 +127,6 @@ Now pick their source of power
 4. Planetbuster
 5. Army of dormant sentinels
 6. Pristene titan bunker city
-
 
 ### Villanous force growing strong
 1. Giant Ant Queen(Blue)
