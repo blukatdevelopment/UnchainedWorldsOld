@@ -11,11 +11,12 @@
 # Warrior
 Your battle cry haunts the nightmares of those adjacent to your carnage in battle. You are an instrument of war that channels fury and skill into the art of violence.
 
-## Starting hit points
-You start with 10+CON hit points.
+## Hit points
+Roll 3d8 and add your CON modifier three times(minimum 1HP). These are your starting hit points. Every time you gain a level, you may roll again and keep the total if it is higher.
+
 
 ## Stamina Die size
-The warrior's stamina die is a d10.
+The warrior's stamina die is a d8.
 
 ## Proficiencies
 | Armor         | Light Armor, Medium Armor, Heavy Armor, Shields |
