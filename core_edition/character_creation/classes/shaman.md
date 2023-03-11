@@ -145,7 +145,7 @@ You may expend two stamina dice and use a bonus action to enable the decaying au
 You create a cloud that extends in 5ft in all directions. You may see through it, but you are heavily obscured to those outside of it. Creatures that enter or begin their turn in this cloud must succeed a CON save to halve 1d10 poison damage and avoid becoming poisoned for one hour.
 
 ### Greater Wildshape
-You may use an action to expend a stamina die and reshape your body into one of the beasts listed below. When you enter your wildshape, your gear falls about you on the ground and any worn clothing is shredded if you increase in size. If your hit points falls below 1, you change back into your normal form. If you are inside a space that cannot accomodate your normal form, you receive 3d10 shunting damage and are teleported to an unoccupied space nearby. Your normal form retains the hit points it had before you wildshaped, even if your wildshaped form was brought down to negative hit points. You may choose from the stat blocks below, or others at your keeper's discretion.
+You may use an action to expend five stamina dice and reshape your body into one of the beasts listed below. When you enter your wildshape, your gear falls about you on the ground and any worn clothing is shredded if you increase in size. If your hit points falls below 1, you change back into your normal form. If you are inside a space that cannot accomodate your normal form, you receive 3d10 shunting damage and are teleported to an unoccupied space nearby. Your normal form retains the hit points it had before you wildshaped, even if your wildshaped form was brought down to negative hit points. You may choose from the stat blocks below, or others at your keeper's discretion.
 
 ```
 Elk
@@ -207,7 +207,7 @@ Claw +6 2d6+5 slashing
 ```
 
 ### Superior Wildshape
-You may use an action to expend a stamina die and reshape your body into one of the beasts listed below. When you enter your wildshape, your gear falls about you on the ground and any worn clothing is shredded if you increase in size. If your hit points falls below 1, you change back into your normal form. If you are inside a space that cannot accomodate your normal form, you receive 3d10 shunting damage and are teleported to an unoccupied space nearby. Your normal form retains the hit points it had before you wildshaped, even if your wildshaped form was brought down to negative hit points. You may choose from the stat blocks below, or others at your keeper's discretion.
+You may use an action to expend ten stamina dice and reshape your body into one of the beasts listed below. When you enter your wildshape, your gear falls about you on the ground and any worn clothing is shredded if you increase in size. If your hit points falls below 1, you change back into your normal form. If you are inside a space that cannot accomodate your normal form, you receive 3d10 shunting damage and are teleported to an unoccupied space nearby. Your normal form retains the hit points it had before you wildshaped, even if your wildshaped form was brought down to negative hit points. You may choose from the stat blocks below, or others at your keeper's discretion.
 
 ```
 Sharp Tooth
