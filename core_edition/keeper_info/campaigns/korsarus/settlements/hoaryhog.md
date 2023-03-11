@@ -19,8 +19,13 @@ Alchemical: 3
 Lost Tech: 1
 ```
 
+## Giant Defender(Deceased)
+Dubigar(she/her, giant folk)
+
 ## Herbalist
-Ilfa Tedbat
+Ilfa Tedbat(she/her, human)
+gargantuanindividual(she/her, human)
+studentobject(she/her, human)
 
 ### Cheap Room (5sp, 5 amenities)
 - Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
@@ -28,12 +33,17 @@ Ilfa Tedbat
 - Rusty wash basin with herbal wash (Hot bath)(spa treatment)
 
 ## Cobbler
-Scrat Rest
-Broadtalk
+Scrat Rest(she/her, human)
+Broadtalk(he/him, human)
+spacedelightful(she/her, human)
+creativewindow(he/him, human)
 
 ## Open Market
 Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md are visiting.
-Auran Taut
+Auran Taut(she/her, human)
+Smugmajor(she/her, human)
+Toolohgoonay(she/her, raccoon dog folk)
 
 ## Butcher
-Stinpo Iscot
+Stinpo Iscot(she/her, human)
+Improbableirritating(he/him, brown bear folk)

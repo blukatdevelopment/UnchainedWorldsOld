@@ -23,40 +23,45 @@ Military: 3
 Alchemical: 3
 Lost Tech: 1
 ```
+## Giant Defender(Deceased)
+Pigbunt(she/her, giant folk)
 
 ## Herbalist 
-Tayhahtah
+Nootayhoogookih(she/her, mink folk)
+Hahhihkih(he/him, fennec fox folk)
 
 ## Shrine of Gidur
-Integrity
+Integrity(she/her, human)
+Nootaytohkaytoh(he/him, goat folk)
 
 ## Beekeepers 
-Kahhoogee
+Gohnihkoo(he/him, raccoon dog folk)
+Hoogihlahtee(he/him, rabbit folk)
 
 ## Stables 
-Gantblow Unlid
-Corkhandle(rebel) - informant
+Gantblow Unlid(he/him, human)
+Corkhandle(he/him, human)(rebel) - informant
 
 ## Pub
-Mercon Cree
-Heetohnay
+Mercon Cree(she/her, human)
+Lihkahhooteekay(she/her, weasel folk)
 
 ## Tailor 
-Lihloonoohih
+Hoolohgoh(she/her, axolotl folk)
 
 ## School 
-Lihgohnohlee
-Hahkihkoo
+Haynihgeetee(he/him, raven folk)
+Laynohnahkay(she/her, turtle folk)
 
 ## Book Seller
-Styblam Ereco
-Bentleaf(rebel) - Agitprop
+Styblam Ereco(he/him, human)
+Bentleaf(she/her, human)(rebel) - Agitprop
 
 ## The Queit Fawn Bathhouse
-Rely Abilit
-Natnal Exerse
-Catous Blak
-Leftmule(rebel) - Informant
+Rely Abilit(he/him, human)
+Natnal Exerse(she/her, human)
+Catous Blak(he/him, human)
+Leftmule(she/her, human)(rebel) - Informant
 
 ### Cheap Room (8sp, 6 amenities)
 - Private room with cotton mattress (Fire and shelter)(Dry Bedding)

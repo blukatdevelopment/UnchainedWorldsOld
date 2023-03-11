@@ -26,25 +26,25 @@ Lost Tech: 1
 Vacation spot for goldrobes from the golden core
 
 ## Trapper
-Funweigh Tybar
+Funweigh Tybar(she/her, human)
 
 ## Shrine of Coentos
-Grace(Diviner)
-Kesniv Elinyo
+Grace(she/her, human)(Diviner)
+Gohgoonohlaynoh(she/her, black bear folk)
 
 ## Bakery
-Initu Intet
-Layhahhaytay
+Initu Intet(she/her, human)
+Keekaynihhoonoh(she/her, raven folk)
 
 ## Workshop
-Masivet Steelhammer
-Ubwat Strikequench
-Chulcom Pincopper
+Masivet Steelhammer(he/him, human)
+Ubwat Strikequench(she/her, human)
+Chulcom Pincopper(he/him, human)
 
 ## The Twelve Post(Inn)
-Busrad Iogarn
-Tuan Quambit
-Willair
+Busrad Iogarn(she/her, human)
+Tuan Quambit(he/him, human)
+Willair(he/him, human)
 
 ## Comfortable room(8gp, 5 amenities)
 - Private room with fireplace and feather mattress (Fire and shelter)(Dry Bedding)(Comfortable bedding)
@@ -52,12 +52,16 @@ Willair
 - Spa token (5sp, 2 amenities)
 
 ## Butcher
-Contere Vuton
+Contere Vuton(she/her, human)
+Westimplement(she/her, human)
+Goperspective(she/her, human)
 
 ## Book Seller
-Unrit Tenucat
+Unrit Tenucat(she/her, human)
+Reachchilly(he/him, human)
+Mixeddesire(he/him, human)
 
 ## Clean Scene Spa
-Winsens Iticomf
-Orta Blefil
-Thyworth Arless
+Winsens Iticomf(she/her, human)
+Orta Blefil(she/her, human)
+Thyworth Arless(he/him, human)

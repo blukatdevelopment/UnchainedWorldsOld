@@ -89,10 +89,10 @@ def unique_choice(collection, n):
 # Using this heavily because I don't have
 # An algorithm to generate primordial-dirivative names
 def get_primordial_full_name():
-    return "".join(unique_choice(WORDS, random.randint(7, 10)))
+    return "".join(unique_choice(WORDS, random.randint(7, 10))).capitalize()
 
 def get_primordial_short_name():
-    return "".join(unique_choice(WORDS, 2))
+    return "".join(unique_choice(WORDS, 2)).capitalize()
 
 def get_beast_tongue_name():
     name = ""
@@ -102,7 +102,7 @@ def get_beast_tongue_name():
     return name.capitalize()
 
 def get_beastfolk_name():
-    if random.randint(0, 10) == 0:
+    if random.randint(0, 10) == -1:
         return get_primordial_full_name()
     else:
         return get_beast_tongue_name()
@@ -129,6 +129,14 @@ def get_human():
     name = get_primordial_full_name()
     pronouns = get_pronouns()
     return f"{name}({pronouns}, human)"
+
+def get_fieldfolk():
+    name = get_primordial_short_name()
+    pronouns = get_pronouns()
+    species = "human"
+    if random.randint(0, 3) == 0:
+        species = get_beastfolk_species()
+    return f"{name}({pronouns}, {species})"
 
 def get_random_person():
     if random.randint(0, 3) == 0:

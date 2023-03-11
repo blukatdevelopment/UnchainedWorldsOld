@@ -24,25 +24,36 @@ Alchemical: 5
 Lost Tech: 3
 ```
 
+## Giant Defender
+Reattablu(she/her, giant folk)
+
 ## Shrine of Uaos
-Felicity
-Colnt Rywhist
+Felicity(she/her, brown bear folk)
+Colnt Rywhist(they/them, human)
 
 ## Beekeepers
-Nahhahgookahnah
+Hahnayleetay(he/him, lion folk)
+Naygaylahhihnoo(she/her, panda folk)
+Hohhookay(he/him, wombat folk)
 
 ## Bakery
-Gahheeleenee
+Hihhaytootaytah(she/her, snowleopard folk)
+Lahtahnihkaykoo(he/him, pheasant folk)
+Heetaytay(he/him, rat folk)
 
 ## Stables
-Loolahnoolih(Loo)
+Tayhihnay(she/her, warthog folk)
+Nooheekahhah(he/him, fennec fox folk)
+Nahgihlohhihlay(she/her, skunk folk)
 
 ## Butcher
-teekeelookoolee
+Lahnohnoh(she/her, warthog folk)
+Gohnohnoo(he/him, warthog folk)
+Kahnahhee(he/him, raccoon dog folk)
 
 ## The Courageous Eelchicken Inn
-Tahhooheetoonay(Taho)(Warrior)
-Leelihgahhahloh (Lee)
+Nohnohkeekihkih(he/him, mink folk)(Warrior)
+Tayneenaylah(she/her, skunk folk)
 Slickslack, the chicken eel
 Assignmenthurtful
 
@@ -56,10 +67,16 @@ Assignmenthurtful
 - Steam, hot stone, herbal soak, massage from Gentle Waves Spa(Spa treatment)(Medical attention)
 
 ## School
-Teehooloohohkah
+Tohlaygah(she/her, mink folk)
+Neehaynah(she/her, shrew folk)
 
 ## Apothecary
-Nahhahgookahnah(Nah)(Alchemist)
+Nohlohtihnah(she/her, turkey folk)
+Gihgaytihkeenih(she/her, cat folk)
+Koohaynahhohhoo(he/him, cow folk)
+Lookeeneeheetoo(he/him, snowleopard folk)(Alchemist)
 
 ## Gentle Waves Spa
-Hohgookahhah(Hohgoo)
+Hohhihgee(she/her, bull folk)
+Hoohohtihnohgoo(he/him, chicken folk)
+Kahnooneegohloh(he/him, rabbit folk)

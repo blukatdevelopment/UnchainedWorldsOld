@@ -24,6 +24,9 @@ Military: 4
 Alchemical: 1
 Lost Tech: 1
 ```
+## Giant Defender
+Orabloron(he/him, giant folk)
+
 ## Town theater
 Town residents put on comedies and historical plays about the  dragon age, titan age, and the empire of man.
 Roll for a random scene
@@ -38,26 +41,27 @@ Roll for a random scene
 
 ## Cobbler
 Invitecaring
-Kaytoohahkayhoh
+Hihkohnay(she/her, buffalo folk)
 
 ## The Wise Coin (Tavern)
-Nohhohloo
-Neenohtaylihnoo
-Lahleekohnah
-Ideapassenger
+Kahleetohgoh(she/her, fennec fox folk)
+Loogohkoh(she/her, turtle folk)
+Teelohkoh(he/him, boar folk)
+Ideapassenger(he/him, human)
 
 ## Shrine of Uaos
 Socru Elstat
-Kohgohnohkeelay(Way of the fist Monk)
+Neetihlayhaylee(he/him, skunk folk)(Way of the fist Monk)
 
 ## Stables
-Tahheenihnoh
+Nihtihhihtee(he/him, mink folk)
+Neetihlayhaylee(he/him, skunk folk)
 
 ## The Puny Lion Pub
-Neekoogihgaylih
-Gohnahheetoh
-Hayheegoo
-Organizationsmooth
+Tohtihlaygee(he/him, pheasant folk)
+Tohtoogeenaygoo(she/her, wolf folk)
+Leehaytah(she/her, deer folk)
+Organizationsmooth(he/him, human)
 
 ### Cheap Room (5sp, 4 amenities)
 - Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
@@ -65,18 +69,20 @@ Organizationsmooth
 - Bath token at Steaming Basin Bathhouse (Hot bath)
 
 ## Workshop
-Funy Swinghammer
-Wighbar Wrenchfold
-Litral Wheelturner
+Funy Swinghammer(she/her, human)
+Wighbar Wrenchfold(he/him, human)
+Litral Wheelturner(she/her, human)
 
 ## Healer
-Gayhohtah(Shaman)
+Loonoonookahgih(he/him, lizard folk)(Shaman)
 
 ## Steaming Basin Bathhouse
-Goonahlaykahnee
+Keehayneegihgah(he/him, fox folk)
 
 ## Coach service
-Taykihtah
+Gaytahteegahgah(she/her, snowleopard folk)
+Nahteeleetay(she/her, boar folk)
+Neehaygoo(she/her, buffalo folk)
 - Up to 6 passengers
 - Ride to Tahhayko(3 days, 2.16GP)
 - Ride to Mintberg(5 days, 3.6GP)

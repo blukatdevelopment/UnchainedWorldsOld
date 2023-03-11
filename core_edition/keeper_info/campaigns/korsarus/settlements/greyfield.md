@@ -25,35 +25,48 @@ Alchemical: 1
 Lost Tech: 1
 ```
 
+## Giant Defender(Injured)
+Pruphinforb(she/her, giant folk)
+
 ## Beekeepers
-Nahhahgookahnah
+Gohgoonohlaynoh(she/her, black bear folk)
 
 ## Trapper
-Hohgookahhah
+Tihgeegohnay(she/her, vole folk)
+Nahtohtih(she/her, crow folk)
 
 ## Open Market
 Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md are visiting.
-Kahnaygoh
-Grae Cotet
-Fator Magaty(Thief)
+Neelohgah(he/him, wolverine folk)
+Nookayhoo(he/him, warthog folk)
+Grae Cotet(he/him, human)
+Fator Magaty(he/him, human)(Thief)
+Complicatedbank(he/him, human)
+Esteemedblank(she/her, human)
 
 ## Blacksmith
-Famil Barrelquench
-Ystan Stampiron
-Dottleo Clanghammer
+Famil Barrelquench(she/her, human)
+Ystan Stampiron(he/him, human)
+Dottleo Clanghammer(he/him, human)
 
 ## Stables
-Awar Dindep
+Awar Dindep(she/her, human)
+Impresschampion(she/her, skunk folk)
+Jokecompany(she/her, human)
 
 ## General Store
-Agil rason
+Agil rason(she/her, human)
 - Giant Bone Battleaxe 30gp
 
 ## Tinkerer
-Ilfaed Wrenchhammer
+Ilfaed Wrenchhammer(he/him, human)
+Registerknowing(she/her, human)
+Enthusiasminflation(she/her, human)
 
 ## Coach service
-Abet Rouble
+Abet Rouble(he/him, human)
+Musicmom(she/her, human)
+Professionaldrama(she/her, human)
 
 - Up to 6 passengers
 - Ride to Eagleton(1 day, 0.72GP)
@@ -66,4 +79,7 @@ Abet Rouble
 - Rusty wash basin (Hot bath)
 
 ## Book Seller
-Ratosh Amed
+Ratosh Amed(he/him, human)
+Baggypeaceful(she/her, human)
+Innocentyellow(she/her, wolf folk)
+Functionalinteraction(he/him, possum folk)

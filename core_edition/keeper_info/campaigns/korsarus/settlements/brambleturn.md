@@ -27,22 +27,30 @@ Divided between two draconic armies of humans from the dragon age. It's not unde
 
 ## Open Market
 Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md are visiting.
-Fisfa Anvilquench
-Waywhis Ringhammer
+Fisfa Anvilquench(he/him, human)
+Waywhis Ringhammer(she/her, human)
+Gaytoonaygee(he/him, crow folk)
+Tohgaykoh(he/him, buffalo folk)
+Hihgaykih(he/him, lion folk)
 
 ## Cobbler
-Bubtef Gildcoke
+Bubtef Gildcoke(he/him, human)
+Wheelstable(he/him, human)
+Daregrumpy(she/her, human)
+Videowhirlwind(she/her, human)
 
 ## Granary
-Artyte Strikeiron
+Artyte Strikeiron(she/her, human)
+Charactershort(she/her, human)
 
 ## Butcher
-Typrip Scaldcoal
+Typrip Scaldcoal(he/him, possum folk)
+Readfickle(she/her, human)
 
 ## The Royal Pelican Pub
-Engeer Clanghorse
-Cortuss Shattertemper(Thief)
-Enchantedvegetable
+Engeer Clanghorse(she/her, human)
+Cortuss Shattertemper(he/him, human)(Thief)
+Enchantedvegetable(she/her, human)
 
 ### Cheap Room (5sp, 4 amenities)
 - Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
@@ -51,7 +59,7 @@ Enchantedvegetable
 - Healing (5sp, 1 amenity)
 
 ## Tailor
-Tudy Scissorsnip
+Tudy Scissorsnip(he/him, human)
 
 ## Healer
-Hohnahkohkee(Shaman)
+Laykayhohtihloo(she/her, brown bear folk)(Shaman)

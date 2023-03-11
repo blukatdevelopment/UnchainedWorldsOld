@@ -20,14 +20,17 @@ Alchemical: 1
 Lost Tech: 1
 ```
 
+## Giant Defender(Deceased)
+Fludkluese(she/her, giant folk)
+
 ## Beekeepers
-Gihlahhah
+Tohkaykee(he/him, black bear folk)
 
 ## The Amused Armadillo Tavern
-Fasfin Ished
-Namsason Canlay
-Figho Liday
-Caiveass Igmen
+Fasfin Ished(she/her, human)
+Namsason Canlay(he/him, human)
+Figho Liday(she/her, human)
+Caiveass Igmen(he/him, human)
 
 ### Cheap Room (5sp, 4 amenities)
 - Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
@@ -35,11 +38,15 @@ Caiveass Igmen
 - Rusty wash basin (Hot bath)
 
 ## Cobbler
-Tonig Secrone
+Tonig Secrone(she/her, human)
+Tookihheetoo(he/him, raccoon dog folk)
 
 ## Tailor
-Lokil Lantique
+Lokil Lantique(he/him, human)
+Scalymuscle(she/her, human)
 
 ## The Warm Gentlemen Pub
-Tandim Ensiona
+Tandim Ensiona(she/her, human)
+Philosophyjoint(she/her, human)
+Unsungwinding(she/her, human)
 

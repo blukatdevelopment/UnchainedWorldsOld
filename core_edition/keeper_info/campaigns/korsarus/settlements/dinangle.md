@@ -29,23 +29,32 @@ Lost Tech: 1
 Sentinels roam the town and it's perimeter with glowing blue eyes. Intet Siver's entire job is to stand outside to warn visitors to leave their weapons outside of the town.
 
 ## The Dapper Onion Tavern
-Intet Siver
+Intet Siver(she/her, human)
 Clentbak Egnal
+Peacefularea(she/her, human)
+Markcandy(she/her, human)
+Repeatjob(he/him, human)
 
 ## Bakery
-Qualso Meper
+Qualso Meper(he/him, human)
+Familiardraw(she/her, human)
+Immaculatebeautiful(she/her, human)
 
 ## Shrine to Titan King Yavor
 Iodict Raton(Diviner)
 Gulib Lalar(Warrior)
+Brilliantloose(he/him, human)
+Leadingunique(he/him, human)
 
 ## Tailor
-Pastdel Icus
+Pastdel Icus(she/her, human)
 
 ## The Mean Traveler Inn
-Ilit Ravirt
-Factwing
-Hairylist
+Westimplement(she/her, human)
+Goperspective(she/her, human)
+Ilit Ravirt(he/him, human)
+Factwing(she/her, human)
+Hairylist(she/her, human)
 
 ## Comfortable room(8gp, 5gp)
 - Private room with fireplace and feather mattress (Fire and shelter)(Dry Bedding)(Comfortable bedding)
@@ -53,13 +62,19 @@ Hairylist
 - Bath token (3sp, 2 amenity)
 
 ## Stables
-Patel Decus
+Patel Decus(he/him, human)
+Mixeddesire(he/him, human)
+Curlyspiffy(he/him, axolotl folk)
 
 ## School
-Ilir Atevirt
+Ilir Atevirt(she/her, human)
+Turnking(he/him, cheetah folk)
+Reachchilly(he/him, human)
 
 ## The Big Bubble Bathhouse
-Adwon Flatar
+Adwon Flatar(he/him, human)
 
 ## Book Seller
-Repok Lutzyprin
+Repok Lutzyprin(he/him, human)
+Feelcrew(he/him, human)
+Sadrock(she/her, wolf folk)

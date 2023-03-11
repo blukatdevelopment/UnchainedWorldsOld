@@ -21,12 +21,16 @@ Lost Tech: 1
 
 ## Open Market
 Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md are visiting.
-Itivedear Bonc
-Loogahtoh
-Medicinemassive
+- Itivedear Bonc(she/her, vole folk)
+- Lihnaygoohaykah(he/him, cow folk)
+- Medicinemassive(she/her, human)
+- Counterfussy(he/him, cheetah folk)
+- Cashexpression(he/him, panda folk)
+- Varietyhandsome(he/him, human)
 
 ## Cobbler
-Scraypla Scrapestone
+Scraypla Scrapestone(she/her, human)
+Raggedrice(he/him, human)
 
 ### Cheap Room (5sp, 4 amenities)
 - Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
@@ -34,4 +38,6 @@ Scraypla Scrapestone
 - Rusty wash basin (Hot bath)
 
 ## Bakery
-Yepos Steelclaw
+Yepos Steelclaw(she/her, human)
+Awfultotal(she/her, human)
+Tunehospital(she/her, human)
