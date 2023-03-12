@@ -37,12 +37,14 @@ This document contains supplemental info that may be referenced during the campa
 ## Resource activities
 
 ### Find Water 
+- Consumes 1 stamina die
 - Adventurers need 1 gal/day, horses 5gal/day
 - Auto-succeed if found water source
 - DC 2d10+2 WIS check to find normally
 - DC 3d10+2 WIS check to find in desert, mountains
 
 ### Hunt Game
+- Consumes 1 stamina die
 1. DC 3d6+2(or 4d6+2 in winter) WIS check and 1d8 to locate game(Can retry once, losing game from first attempt)
 2. DC 3d6+2 DEX check to approach undetected
 3. Make attack with advantage. Wounded game may run or attack lone hunter.
@@ -59,12 +61,14 @@ Game:
 8. Moose(4d10+470lb lb meat, AC: 13, HP: 24)
 
 ### Gather wild plants
-Available during spring and summer
+- Consumes 1 stamina die
+Available during spring and summer, not mountains/desert
 1. DC 2d10 WIS check to find 1d4-1 pounds of wild greens, roots, berries, and nuts
 Assume these last in dried state for a month
 
 ### Pick Mushrooms
-Available during spring and summer
+- Consumes 1 stamina die
+Available during spring and summer, not mountains/desert 
 1. DC 3d8+2 WIS check to find 1d4 lb of mushrooms
 2. DC 3d8+2 INT check to know exact species
 Fail by less than 5 to narrow down species between two options(one correct)

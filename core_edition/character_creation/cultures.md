@@ -21,7 +21,7 @@ world exploded in unrestricted vitality and growth in spite of the great
 network of trade routes vanishing overnight.
 ```
 
-## 1 Gold Robe
+## 1 Gold Robes
 ![Gold robes](https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/culture_gold_robes.jpg "Gold Robes")
 Those who benefited most from the empire of man's core's wealth and abundance of imports long for the return of the empire. Named for their status symbol, each individual in gold robe society wears a robe with gold fiber sewed in. The greater the prestige, the more gold and rarer the fabric used in the robe's construction.
 

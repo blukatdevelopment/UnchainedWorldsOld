@@ -85,30 +85,58 @@ Those who usurped the thrones of the Titans organized to become the empire of ma
 So soon as the empire lacked an enemy, resistance heightened. Resistance fighters, who had filled the ranks of the Empire of Man, leapt into action. Their target were the guidestones, a series of 12 stone portals dating back to the dragon age. Destroying the guide stones effectively severed the connection between several major regions of the Empire. Unable to arrange large-scale trade and troop movement, the regions soon fell into revolutions that shrunk the empire of man's reach back to a wealthy core of cities no longer connected to a global trade network.
 
 ### Days
-- Every week consists of seven days
-- Moon's Day / Moonday
-- Arrow's Day / Arrowday
-- Leaf's Day / Leafday
-- Hammer's Day / Hammerday
-- Coin's Day / Coinday
-- Claw's Day / Clawday
-- Sun's Day / Sunday
+Every week consists of seven days
+1. Moon's Day / Moonday
+2. Arrow's Day / Arrowday
+3. Leaf's Day / Leafday
+4. Hammer's Day / Hammerday
+5. Coin's Day / Coinday
+6. Claw's Day / Clawday
+7. Sun's Day / Sunday
 
 ### Months
 Crucible has a 336 day calendar year broken up into 12 months, 28 days each.
 
-- Winter: Gidursus
-- Winter: Bimras
-- Winter: Icefall
-- Spring: First Seed
-- Spring: Glass Eye
-- Spring: Coentas
-- Summer: Gigtexas
-- Summer: Last Seed
-- Summer: Solusmus
-- Autumn: Harvest
-- Autumn: Leafall
-- Autumn: Coentos
+1. Winter: Gidursus
+2. Winter: Bimras
+3. Winter: Icefall
+4. Spring: First Seed
+5. Spring: Glass Eye
+6. Spring: Coentas
+7. Summer: Gigtexas
+8. Summer: Last Seed
+9. Summer: Solusmus
+10. Autumn: Harvest
+11. Autumn: Leafall
+12. Autumn: Coentos
+
+## Holidays
+- Humans Day(6/1): celebrate Bimros's creation of humanity 
+- Beastfolk Day(7/1): celebrate Uaos's creation of beastfolk
+- Coentas Day(6/1): Coento becoming Coenta
+- Coentos Day(12/1): Coenta becoming Coento
+- Giant's Rest(7/14): Fieldfolk give their giants a day off.
+- Giant's Feast(8/14): Fieldfolk prepare a feast for their giants.
+- Giant's Thanks(9/14): Fieldfolk prepare speeches, songs, and art to appreciate their giants.
+- New Year's Eve(12/28): Greenfoot folk make offerings to Gegtex for a plentiful next year. Goldrobes and soots drink heavily.
+- New Year's Day(1/1): Goldrobes and soots pause all services to nurse hangovers.
+- Anvil Day(2/25): Coggers and bronzehammers host parades to display their metal posessions and give metal gifts to their loved ones.
+- Hammer Day(2/26): Bronzehammers who come of age add their name to their family hammer. Family hammers are passed on during this day.
+- Gold Coinday(11/27): Goldrobe shops sell seasonal items at huge discounts.
+- Severing Day/liberation day(12/15): Goldrobes mourn, wildfolk celebrate portal nexus being destroyed, fall of the empire of man.
+- Spirits night(10/25): Many gather in graveyards to honor the deceased, and speak with them.
+- Coenta's Feast(11/28): Feast celebrating the finished harvest and gratitude.
+- Chaos day(4/3): Day of pranks, mischief, and demonic activity. 
+- Coento's Fast(5/21): Worshippers of coent/coentos do not eat meat or cheese until Coento's Feast.
+- Coento's Feast(5/28): Worshippers of coent/coentos feast on elaborate meat and cheese dishes.
+- Kordmas(2/12): Those who pray at shrines or temples of Kord receive a gift according to their service.
+- Bright Sunday(9/7): Those who wield Solus's power become extra powerful on that day.
+- King's day(7/12): Celebration of the residing kings. Wildfolk activity rises on thesed ays.
+- Swords day(8/10): Celebration of soldiers with military parades through city streets.
+- Green Day(9/1): Gegtex's worshippers decorate fruit-bearing plants, which then magically produce fruit at noon.
+- Titanfall(5/3): Celebrating the fall of the Titan overlords. The silent celebrate the radiant order's role.
+- Slayers day(4/12): Celebrating the slaying of the last dragon lords. Wicker dragons are burned on this day.
+- Exhmas(1/20): Worshippers of Exheia celebrate technology and arts.
 
 # Realms and Regions
 

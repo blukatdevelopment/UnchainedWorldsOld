@@ -137,14 +137,65 @@ class Db:
     self.conn.commit()
 
   def get_calendar_day_data(self, year, month, day):
-    pass
-    
+    c = self.conn.cursor()
+    sql = '''
+        SELECT data FROM calendar WHERE year = ? and month = ? and day =?;
+        '''
+    cursor = c.execute(sql, (year, month, day))
+    row = cursor.fetchone()
+    if row is not None:
+      return row[0]
+    return None
+
+  def insert_calendar_day_data(self, year, month, day, data):
+    c = self.conn.cursor()
+    sql = '''
+        INSERT OR IGNORE INTO calendar(year, month, day, data) VALUES(?, ?, ?, ?);
+        '''
+    c.execute(sql, (year, month, day, data))
+    self.conn.commit()
+
+  def clear_entire_calendar(self):
+    c = self.conn.cursor()
+    sql = '''
+        DELETE FROM calendar
+        '''
+    c.execute(sql, ())
+    self.conn.commit()
+
+  def delete_world_status(self, identifier):
+    characters = []
+    c = self.conn.cursor()
+    sql = '''
+        DELETE FROM world_status WHERE id = ?;
+        '''
+    c.execute(sql, (identifier,))
+    self.conn.commit()
+
+  def insert_world_status(self, identifier, data):
+    c = self.conn.cursor()
+    sql = '''
+        INSERT OR IGNORE INTO world_status(id, data) VALUES(?, ?);
+        '''
+    c.execute(sql, (identifier, data,))
+    self.conn.commit()
+
+  def get_world_status(self, identifier):
+    c = self.conn.cursor()
+    sql = '''
+        SELECT data FROM world_status WHERE id = ?;
+        '''
+    cursor = c.execute(sql, (identifier,))
+    row = cursor.fetchone()
+    if row is not None:
+      return row[0]
+    return None
 
 # Init the tables
 def main():
-  print("Creating tables")
+  print("Initializing tables")
   db = Db()
   db.create_tables()
-  print("Table creation complete")
+  print("Table initialization complete")
 
 main()
