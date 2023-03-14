@@ -24,26 +24,26 @@ Lost Tech: 1
 ```
 
 ## Giant Defender
-Garbaor(he/him, giant folk)
+- Garbaor(he/him, giant folk)
 
 ## Herbalist
-Cofus Onlock(he/him, human)
-Hopefulblaring(she/her, human)
+- Cofus Onlock(he/him, human)
+- Hopefulblaring(she/her, human)
 
 ## Granary
-Feal Esmoth(she/her, human)
-Professorhotel(he/him, human)
+- Feal Esmoth(she/her, human)
+- Professorhotel(he/him, human)
 
 
 ## Cobbler
-Twomp Loyee(he/him, human)
-Remarkablegood(she/her, pheasant folk)
-Recipepress(she/her, sheep folk)
+- Twomp Loyee(he/him, human)
+- Remarkablegood(she/her, pheasant folk)
+- Recipepress(she/her, sheep folk)
 
 ## The Obnoxious Bee(Pub)
-Insid Seng(she/her, human)
-Ineer Gacet(he/him, human)
-Orna Guish(she/her, human)
+- Insid Seng(she/her, human)
+- Ineer Gacet(he/him, human)
+- Orna Guish(she/her, human)
 
 ### Cheap Room (5sp, 3 amenities)
 - Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
@@ -59,11 +59,11 @@ Tohnaylay(she/her, boar folk)
 - Ever Ice Glaive 60gp
 
 ## Tailor
-Tahleekah(he/him, warthog folk)
-Kahhayteenaytih(she/her, pig folk)
-Hahtahhoo(she/her, black bear folk)
+- Tahleekah(he/him, warthog folk)
+- Kahhayteenaytih(she/her, pig folk)
+- Hahtahhoo(she/her, black bear folk)
 
 ## Milksoap Spa
-Heegohgeekih(she/her, buffalo folk)
-Taygihneenih(he/him, weasel folk)
-Neehoogoo(she/her, cheetah folk)
+- Heegohgeekih(she/her, buffalo folk)
+- Taygihneenih(he/him, weasel folk)
+- Neehoogoo(she/her, cheetah folk)

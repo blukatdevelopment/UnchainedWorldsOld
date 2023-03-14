@@ -20,28 +20,28 @@ Alchemical: 1
 Lost Tech: 1
 ```
 ## Giant Defender(Deceased)
-Garatos(she/her, giant folk)
+- Garatos(she/her, giant folk)
 
 ## Shrine of Kord
-Serenity(she/her, human)
-Messimmense(she/her, human)
-Smoothloving(she/her, human)
-Menuhistory(she/her, squirrel folk)
+- Serenity(she/her, human)
+- Messimmense(she/her, human)
+- Smoothloving(she/her, human)
+- Menuhistory(she/her, squirrel folk)
 
 ## Bakery
-Straquan Tyrep(he/him, human)
-Coplish Edhig(she/her, human)
-Sprytable(she/her, human)
+- Straquan Tyrep(he/him, human)
+- Coplish Edhig(she/her, human)
+- Sprytable(she/her, human)
 
 ## Cobbler
-Fedfol Harprom(he/him, human)
-Conysup Ortiva(he/him, human)
-Afternoon(she/her, human)
+- Fedfol Harprom(he/him, human)
+- Conysup Ortiva(he/him, human)
+- Afternoon(she/her, human)
 
 ## Tailor
-Resat Iven(she/her, human)
-Grassscented(she/her, human)
-Hopefulpotential(she/her, giraffe folk)
+- Resat Iven(she/her, human)
+- Grassscented(she/her, human)
+- Hopefulpotential(she/her, giraffe folk)
 
 ### Cheap Room (5sp, 4 amenities)
 - Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
@@ -49,6 +49,6 @@ Hopefulpotential(she/her, giraffe folk)
 - Rusty wash basin (Hot bath)
 
 ## Workshop
-Totax Coalbeard(he/him, human)
-Inend Ironstrike(he/him, human)
-Entaful Heartyshovel(she/her, human)
+- Totax Coalbeard(he/him, human)
+- Inend Ironstrike(he/him, human)
+- Entaful Heartyshovel(she/her, human)

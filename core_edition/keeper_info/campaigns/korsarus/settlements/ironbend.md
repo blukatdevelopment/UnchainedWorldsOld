@@ -19,21 +19,22 @@ Lost Tech: 1
 ```
 
 ## Giant Defender(Deceased)
-Ourkruacks(he/him, giant folk)
+- Ourkruacks(he/him, giant folk)
 
 ## Cobbler
-Yelso Lidpot(he/him, human)
-Trustvolume(he/him, human)
-Perkyhideous(he/him, human)
+- Yelso Lidpot(he/him, human)
+- Trustvolume(he/him, human)
+- Perkyhideous(he/him, human)
 
 ## Shrine of Exheia
-Truth(Diviner)
-Scarcedifference(she/her, human)
-Signaturedisease(he/him, human)
+- Truth(Diviner)
+- Scarcedifference(she/her, human)
+- Signaturedisease(he/him, human)
+- Chehjohpeobeo(he/him, cow folk, silent scribe)
 
 ## Bakery
-Trub Leporty(he/him, human)
-Friendshipcheerful(she/her, human)
+- Trub Leporty(he/him, human)
+- Friendshipcheerful(she/her, human)
 
 ### Cheap Room (1sp, 4 amenities)
 - Open loft space with hay mattress (Fire and shelter)(Dry Bedding)

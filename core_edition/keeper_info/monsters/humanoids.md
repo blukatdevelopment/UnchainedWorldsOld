@@ -27,7 +27,7 @@ These stat blocks represent NPCs that are using character classes, as well as th
 
 
 ### Monk
-`Commoner, HP: 8(8), AC: 10, [12, 18, 12, 10, 16, 10],Ki Fists +5 1d4+4 magic bludgeoning`
+`Monk, HP: 8(8), AC: 10, [12, 18, 12, 10, 16, 10],Ki Fists +5 1d4+4 magic bludgeoning`
 - Reroll 3d6 Ki (10 times): Rerolls ki, replacing if higher value.
 - Extra attack: May make three unarmed attacks
 - Flurry of blows: Expend 1d4 Ki points to make three unarmed attacks as bonus action.
@@ -67,9 +67,8 @@ These stat blocks represent NPCs that are using character classes, as well as th
 - Antimagic Field(1/day)
 
 ### Scientist
-`Scientist, HP: 12(3d4), AC: 10, [12, 10, 10, 18, 10, 10],Cane Sword +3 1d8+1 piercing`
+`Scientist, HP: 12(3d4), AC: 11, [10, 12, 10, 18, 10, 10],Cane Sword +3 1d8+1 piercing`
 - Flamer(3/day): 15ft cone DC 13 DEX to halve 3d6 fire.
-- 
 
 ### Shaman
 `Shaman, HP: 12(3d4), AC: 10, [10, 10, 10, 10, 18, 10],Quarterstaff +2 1d8 bludgeoning`
@@ -126,6 +125,26 @@ Attacks:
 Jaws +4 1d10+4
 Claws: +4 2d4+4 DC 14 CON save or contract malignant lycanthropy
 ```
+
+## The silent order
+
+### Silent Knight
+`Silent Knight, HP: 8(8), Ki: 120(20d6) AC: 14, [12, 18, 12, 10, 20, 10], Radiant blade +5 2d8 radiant`
+- Reroll 20d6 Ki (1/day): Reroll ki, replacing if higher value.
+- Extra attack: May make two radiant blade attacks
+- Radiant blade deflection(reaction when targeted with missile):2d8 ki, block all incoming missiles until start of next turn.
+- Ki force powers: 1d6 ki, push/pull/levitate. Use +5, DC17
+- Ki Mind Tricks: 3d8 to cast suggestion with plausible deniability
+
+### Silent Scribe
+`Silent Scribe, HP: 12(3d4), AC: 12, [12, 14, 10, 18, 10, 10], Blaster +4 1d6+2 fire damage`
+- Quickdraw(reaction, when targeted with attack): Draw and fire blaster once at advantage
+
+### Silent Listener
+`Thief, HP: 12(3d4), AC: 14, [10, 18, 10, 10, 10, 10],Throwing star +6 1d4+4 piercing, Unarmed +6 1d4+4 bludgeoning`
+- +8 Stealth
+- Cunning action: Dash, disengage hide with bonus action
+- Advantage on throwing star attacks
 
 ## Town folk
 

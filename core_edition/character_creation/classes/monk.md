@@ -78,7 +78,7 @@ You know three techniques and may learn one more with each level. Most technique
 Select one of the following disciplines.
 
 #### Way of the Radiant Order
-You gain proficiency with longswords. You have been passed down an ancestral radiant blade, a metal hilt which produces a colorful blade of pure light. This weapon was   It deals 2d8 radiant damage on a hit. Given one minute, it can cut a door through as much as a foot of steel. The blade only works for those who know the Way of the Radiant Order.
+You gain proficiency with longswords. You have been passed down an ancestral radiant blade, a metal hilt which produces a colorful blade of pure light. It deals 2d8 radiant damage on a hit. Given one minute, it can cut a door through as much as a foot of steel. The blade only works for those who know the Way of the Radiant Order.
 
 #### Way of the Fist
 Whenever you use your action to make an unarmed attack, you may now make one additional unarmed attack.
@@ -90,6 +90,9 @@ You are proficient with longswords, which now deal an additional 1d8 necrotic da
 When you use your action to make an attack, you may make one additional attack.
 
 ## Techniques
+
+### Ki Strike
+You may expend 1d8 ki to make next melee weapon attack with advantage.
 
 ### Flurry of Blows
 When you make an unarmed attack, you may expend 1d4 Ki to use your bonus action to make three more.
@@ -149,7 +152,7 @@ When wielding your radiant blade, you casually deflect missiles. You may use you
 You may cast the Push, Pull, or Levitate spells using a bonus action, consuming 1d6 Ki with each cast.
 
 ### Ki Mind Tricks (Requires Way of the Radiant Order)
-You may consume 4d8 Ki to cast suggestion spell. When you do, make a persuasion check contesting an insight check from the target. On a success, the target believes rationalizes that they decided to follow the suggestion on their own, and not by magic. This works only for suggestions of actions that the creature could concievably do on their own, and nothing that they would normally strongly object to, such as letting prisoners free or handing over their wallet.
+You may consume 4d8 Ki to cast suggestion spell. When you do, make a persuasion check contesting an insight check from the target. On a success, the target belives and rationalizes that they decided to follow the suggestion on their own, and not by magic. This works only for suggestions of actions that the creature could concievably do on their own, and nothing that they would normally strongly object to, such as letting prisoners free or handing over their wallet.
 
 ### Ki-Charged Fist (Requires Way of the Fist)
 You may use your action and consume 2d8 Ki to fill one fist with burning teal energy. If you hit with an unarmed attack using this fist, it deals radiant damage equal to the Ki rolled for it. You may have up to two fists charged at a time.

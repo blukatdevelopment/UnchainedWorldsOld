@@ -318,10 +318,10 @@ Coins are an adventurer's most liquid asset. Fifty coins of any material add up 
 
 |     Item      | Cost | gallons | lb(Empty) | Weight lb(full) |
 |:--------------|:-----|:--------|:----------|:----------------|
-| flask/tankard | 2cp  | 1/8     |         1 |               2 |
+| Flask/Tankard | 2cp  | 1/8     |         1 |               2 |
 | Bottle        | 2gp  | 1/6     |         1 |               2 |
 | Waterskin     | 2sp  | 1/2     |         2 |               5 |
-| jug/pitcher   | 2cp  | 1       |         4 |              12 |
+| Jug/Pitcher   | 2cp  | 1       |         4 |              12 |
 | Barrel        | 2gp  | 40      |        70 |             430 |
 
 

@@ -19,25 +19,26 @@ Alchemical: 3
 Lost Tech: 1
 ```
 ## Giant Defender(Deceased)
-Groklur(she/her, giant folk)
+- Groklur(she/her, giant folk)
 
 ## Shrine of Gidur
-Glory(she/her, human)
-Shamefulvivacious(he/him, human)
+- Glory(she/her, human)
+- Shamefulvivacious(he/him, human)
+- Vaodaibaotchuh(he/him, human, silent scribe)
 
 ## Open Market
 Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md are visiting.
-Tahhohhohnee(he/him, rat folk)
-Lihgahgohteenoo(she/her, shrew folk)
-Lihtihnohtee(he/him, deer folk)
+- Tahhohhohnee(he/him, rat folk)
+- Lihgahgohteenoo(she/her, shrew folk)
+- Lihtihnohtee(he/him, deer folk)
 
 ## Herbalist
-Initat Iveglor(she/her, human)
-Grimnorth(she/her, human)
+- Initat Iveglor(she/her, human)
+- Grimnorth(she/her, human)
 
 ## The Successful Serpent Inn
-Oussig Bahromur(he/him, human)
-Quarty - Pet giant boa constrictor
+- Oussig Bahromur(he/him, human)
+- Quarty - Pet giant boa constrictor
 
 ## Comfortable room(8gp, 6 amenities)
 - Private room with wash basin, fireplace, and feather mattress (Fire and shelter)(Dry Bedding)(Comfortable bedding)(Hot bath)

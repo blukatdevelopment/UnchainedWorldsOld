@@ -21,31 +21,31 @@ Lost Tech: 1
 ```
 
 ## Giant Defender(Deceased)
-satisblort(she/her, giant folk)
+- satisblort(she/her, giant folk)
 
 ## Bakery
-Dipled Disip(she/her, human)
-Nihkahgihnoogih(she/her, cheetah folk)
+- Dipled Disip(she/her, human)
+- Nihkahgihnoogih(she/her, cheetah folk)
 
 ## Shrine to Coenta
-Revelation(she/her, human)(Diviner)
+- Revelation(she/her, human)(Diviner)
 
 ## Open Market
 Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md are visiting.
-Falu Refar(she/her, human)
-Lohkeegihnoh(she/her, boar folk)
+- Falu Refar(she/her, human)
+- Lohkeegihnoh(she/her, boar folk)
 
 ## Blacksmith
-Camer Fourchizel(she/her, human)
-Dramaticpatience(he/him, human)
-Scratchyimmaterial(she/her, human)
-Exchangeinternal(he/him, lynx folk)
+- Camer Fourchizel(she/her, human)
+- Dramaticpatience(he/him, human)
+- Scratchyimmaterial(she/her, human)
+- Exchangeinternal(he/him, lynx folk)
 
 ## Tailor
-Linin Feror(she/her, human)
-Backthese(she/her, vole folk)
-Criticismoddball(she/her, human)
-Flightnautical(she/her, human)
+- Linin Feror(she/her, human)
+- Backthese(she/her, vole folk)
+- Criticismoddball(she/her, human)
+- Flightnautical(she/her, human)
 
 ### Cheap Room (5sp, 4 amenities)
 - Open loft space with hay mattress (Fire and shelter)(Dry Bedding)

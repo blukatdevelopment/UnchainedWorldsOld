@@ -12,6 +12,7 @@ The interior is smokey from incense and dimly lit by the forges lit to build hol
 ## Temple of Exheia
 - Discovery(she/her, human)
 Inside is a library of science and the arts. Those who earn the temple's trust unlock diviner of Exheia.
+- Tcheotchahheejoh(she/her, human, silent listener)
 
 ## Temple of Kord
 - Stainless(she/her, snow leophard folk)

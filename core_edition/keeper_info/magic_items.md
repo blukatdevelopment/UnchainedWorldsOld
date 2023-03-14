@@ -92,16 +92,28 @@ Weight:2lb
 Damage: 1d6 fire
 Uses hand crossbow or firearm proficiency. Has five charges. Can be recharged with a stamina die using an action.
 
-### Autoblaster
+### Wrist blaster
 Ranged weapon (30/60), Light
+Weight:1lb
+Damage: 1d6 fire
+Variant Blaster
+Mounts directly to the wrist and can be fired by user's thought if making skin contact. Uses hand crossbow or firearm proficiency. Has five charges. Can be recharged with a stamina die using an action.
+
+### Autoblaster
+Ranged weapon (60/120), Light
 Weight:9lb
 Damage: 1d6 fire
 Uses hand crossbow or firearm proficiency. Has thirty charges. Can be recharged with three stamina dice using an action. Instead of firing normally, wielder may burst fire, which fires ten shots targeting a 10ft cube. All creatures within the cube must succeed a DC 15 DEX save, or take 1d6 fire damage. The attack automatically hits for 4d6 fire damage for large or larger creatures occupying the entire cube.
 
 ### Lightning Rifle
 Ranged weapon(120/125)
+Weight: 10lb
 Damage: 2d12 lightning
-Uses heavy crossbow or firearm proficiency. Has one charge. User must use action to charge up the rifle for 6 seconds. Can be recharged with a stamina die using an action.
+Uses heavy crossbow or firearm proficiency. Has one charge. User must use action to charge up the rifle for 6 seconds. Can be recharged with a stamina die using an action. Makes a loud, high-pitched whining sound when charging.
+
+### Fireball Launcher
+Weight: 15lb
+The user expends two stamina dice to charge the launcher with their action, causing a loud, high-pitched whining sound. Discharging the launcher casts the fireball spell. The user must roll a 1d20. On a 1, the spell is cast centered on the user and the launcher is destroyed.
 
 ### Power fist
 Unarmed attacks deal 1d4 damage when wearing this. The power fist is considered

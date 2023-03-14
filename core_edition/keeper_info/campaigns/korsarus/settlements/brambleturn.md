@@ -27,30 +27,30 @@ Divided between two draconic armies of humans from the dragon age. It's not unde
 
 ## Open Market
 Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md are visiting.
-Fisfa Anvilquench(he/him, human)
-Waywhis Ringhammer(she/her, human)
-Gaytoonaygee(he/him, crow folk)
-Tohgaykoh(he/him, buffalo folk)
-Hihgaykih(he/him, lion folk)
+-Fisfa Anvilquench(he/him, human)
+-Waywhis Ringhammer(she/her, human)
+-Gaytoonaygee(he/him, crow folk)
+-Tohgaykoh(he/him, buffalo folk)
+-Hihgaykih(he/him, lion folk)
 
 ## Cobbler
-Bubtef Gildcoke(he/him, human)
-Wheelstable(he/him, human)
-Daregrumpy(she/her, human)
-Videowhirlwind(she/her, human)
+- Bubtef Gildcoke(he/him, human)
+- Wheelstable(he/him, human)
+- Daregrumpy(she/her, human)
+- Videowhirlwind(she/her, human)
 
 ## Granary
-Artyte Strikeiron(she/her, human)
-Charactershort(she/her, human)
+- Artyte Strikeiron(she/her, human)
+- Charactershort(she/her, human)
 
 ## Butcher
-Typrip Scaldcoal(he/him, possum folk)
-Readfickle(she/her, human)
+- Typrip Scaldcoal(he/him, possum folk)
+- Readfickle(she/her, human)
 
 ## The Royal Pelican Pub
-Engeer Clanghorse(she/her, human)
-Cortuss Shattertemper(he/him, human)(Thief)
-Enchantedvegetable(she/her, human)
+- Engeer Clanghorse(she/her, human)
+- Cortuss Shattertemper(he/him, human)(Thief)
+- Enchantedvegetable(she/her, human)
 
 ### Cheap Room (5sp, 4 amenities)
 - Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
@@ -59,7 +59,7 @@ Enchantedvegetable(she/her, human)
 - Healing (5sp, 1 amenity)
 
 ## Tailor
-Tudy Scissorsnip(he/him, human)
+- Tudy Scissorsnip(he/him, human)
 
 ## Healer
-Laykayhohtihloo(she/her, brown bear folk)(Shaman)
+- Laykayhohtihloo(she/her, brown bear folk)(Shaman)

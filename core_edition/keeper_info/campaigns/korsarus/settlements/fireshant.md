@@ -27,32 +27,32 @@ Lost Tech: 1
 Dopablores(he/him, giant folk)
 
 ## Beekeeper
-Camram Ajori(she/her, human)
-Canwhile(she/her, human)
-Raggedsolid(he/him, human)
+- Camram Ajori(she/her, human)
+- Canwhile(she/her, human)
+- Raggedsolid(he/him, human)
 
 ## Granary
-Presin Ablein(he/him, human)
-Kiqu Enjasp(he/him, human)(Rebel) - Smuggler
+- Presin Ablein(he/him, human)
+- Kiqu Enjasp(he/him, human)(Rebel) - Smuggler
 
 ## Shrine Kord
-Salvation(he/him, human)
-Fatua Temight(he/him, human)
+- Salvation(he/him, human)
+- Fatua Temight(he/him, human)
 
 ## Workshop
-Faher Redsteel(he/him, human)(Diviner)
-Furfot Brittleforge(she/her, human)(Diviner)
-Dobur Pabremad(Diviner)(Rebel) - Weapons cache
+- Faher Redsteel(he/him, human)(Diviner)
+- Furfot Brittleforge(she/her, human)(Diviner)
+- Dobur Pabremad(Diviner)(Rebel) - Weapons cache
 
 ## Tailor
-Etep Idunner(she/her, human)
-Rego Beskar(he/him, human)(Rebel) - Informant
+- Etep Idunner(she/her, human)
+- Rego Beskar(he/him, human)(Rebel) - Informant
 
 ## Butcher
-Draep Lasurek(she/her, human)
-Seniorresearch(he/him, human)
-Kneewhole(he/him, human)
-Bruisedspread(he/him, human)
+- Draep Lasurek(she/her, human)
+- Seniorresearch(he/him, human)
+- Kneewhole(he/him, human)
+- Bruisedspread(he/him, human)
 
 ### Cheap Room (5sp, 4 amenities)
 - Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
@@ -60,15 +60,14 @@ Bruisedspread(he/him, human)
 - Rusty wash basin (Hot bath)
 
 ## Mayor's House
-Inbla Nuscle(she/her, human)
-Serveeconomy(she/her, human)
-Popularenergetic(she/her, human)
-Failingmuscle(he/him, human)
+- Inbla Nuscle(she/her, human)
+- Serveeconomy(she/her, human)
+- Popularenergetic(she/her, human)
+- Failingmuscle(he/him, human)
 
 ## Coach service
-Woderin Creachif(she/her, human)
+- Woderin Creachif(she/her, human)
 
-- Up to 6 passengers
 - Ride to Tahhaykoh(2 days, 1.44GP)
 - Ride to Eagleton(1 day, 0.72GP)
 - Ride to Hiegal(1 day, 0.72GP)

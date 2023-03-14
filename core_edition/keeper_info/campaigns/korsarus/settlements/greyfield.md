@@ -26,49 +26,48 @@ Lost Tech: 1
 ```
 
 ## Giant Defender(Injured)
-Pruphinforb(she/her, giant folk)
+- Pruphinforb(she/her, giant folk)
 
 ## Beekeepers
-Gohgoonohlaynoh(she/her, black bear folk)
+- Gohgoonohlaynoh(she/her, black bear folk)
 
 ## Trapper
-Tihgeegohnay(she/her, vole folk)
-Nahtohtih(she/her, crow folk)
+- Tihgeegohnay(she/her, vole folk)
+- Nahtohtih(she/her, crow folk)
 
 ## Open Market
 Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md are visiting.
-Neelohgah(he/him, wolverine folk)
-Nookayhoo(he/him, warthog folk)
-Grae Cotet(he/him, human)
-Fator Magaty(he/him, human)(Thief)
-Complicatedbank(he/him, human)
-Esteemedblank(she/her, human)
+- Neelohgah(he/him, wolverine folk)
+- Nookayhoo(he/him, warthog folk)
+- Grae Cotet(he/him, human)
+- Fator Magaty(he/him, human)(Thief)
+- Complicatedbank(he/him, human)
+- Esteemedblank(she/her, human)
 
 ## Blacksmith
-Famil Barrelquench(she/her, human)
-Ystan Stampiron(he/him, human)
-Dottleo Clanghammer(he/him, human)
+- Famil Barrelquench(she/her, human)
+- Ystan Stampiron(he/him, human)
+- Dottleo Clanghammer(he/him, human)
 
 ## Stables
-Awar Dindep(she/her, human)
-Impresschampion(she/her, skunk folk)
-Jokecompany(she/her, human)
+- Awar Dindep(she/her, human)
+- Impresschampion(she/her, skunk folk)
+- Jokecompany(she/her, human)
 
 ## General Store
-Agil rason(she/her, human)
+- Agil rason(she/her, human)
 - Giant Bone Battleaxe 30gp
 
 ## Tinkerer
-Ilfaed Wrenchhammer(he/him, human)
-Registerknowing(she/her, human)
-Enthusiasminflation(she/her, human)
+- Ilfaed Wrenchhammer(he/him, human)
+- Registerknowing(she/her, human)
+- Enthusiasminflation(she/her, human)
 
 ## Coach service
-Abet Rouble(he/him, human)
-Musicmom(she/her, human)
-Professionaldrama(she/her, human)
+- Abet Rouble(he/him, human)
+- Musicmom(she/her, human)
+- Professionaldrama(she/her, human)
 
-- Up to 6 passengers
 - Ride to Eagleton(1 day, 0.72GP)
 - Ride to Fireshant(2 days, 1.44GP)
 - Ride to Hiegal(3 days, 2.16GP)
@@ -79,7 +78,8 @@ Professionaldrama(she/her, human)
 - Rusty wash basin (Hot bath)
 
 ## Book Seller
-Ratosh Amed(he/him, human)
-Baggypeaceful(she/her, human)
-Innocentyellow(she/her, wolf folk)
-Functionalinteraction(he/him, possum folk)
+- Ratosh Amed(he/him, human)
+- Baggypeaceful(she/her, human)
+- Innocentyellow(she/her, wolf folk)
+- Functionalinteraction(he/him, possum folk)
+- Dihpahweeshih(he/him, possum folk, silent listener)

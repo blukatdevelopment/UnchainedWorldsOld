@@ -56,6 +56,7 @@ Nohnohkeekihkih(he/him, mink folk)(Warrior)
 Tayneenaylah(she/her, skunk folk)
 Slickslack, the chicken eel
 Assignmenthurtful
+- Waopoovaoguh(she/her, human, silent knight, blue blade)
 
 ### Standard Room (5sp, 5 amenities)
 - Room with cotton bed and wash basin(Dry Bedding)(Comfortable bedding)(Fire and shelter)(Hot bath)

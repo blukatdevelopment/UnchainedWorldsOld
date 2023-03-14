@@ -74,8 +74,9 @@ The silent order are a shadowy organization run by Silent in Arcanus. Their goal
 - Uncover all secret projects Omaria is working on
 
 ### NPCS
-- Knights: Prospect, Shadow, Claymore, Dagger, Shield
-- Scribes: Flame, Crystal, Obsidian, Prudence, Acuity
+- Knights: Saytahwuhmm, Meechaymihbeh, Waopoovaoguh, Nohteolaochay, Thehveevohkeh
+- Scribes: Tcheovaobohjeu, Nihvootchihteh, Vaodaibaotchuh, Tihjaoveofee, Chehjohpeobeo
+- Listeners: Tcheotchahheejoh, Paygeejooday, Roobuhtchahzai, Faytchaizihwuh, Dihpahweeshih
 
 ### Renown Rewards
 1. Friend: Offer of membership(+2 renown)

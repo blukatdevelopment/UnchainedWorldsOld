@@ -22,38 +22,38 @@ Alchemical: 1
 Lost Tech: 1
 ```
 ## Giant Defender(Deceased)
-Tubasauklu(he/him, giant folk)
+- Tubasauklu(he/him, giant folk)
 
 ## Bakery
-Cabet Nexper(she/her, human)
-Unhealthysurgery(she/her, human)
-Affectenvironment(she/her, lizard folk)
+- Cabet Nexper(she/her, human)
+- Unhealthysurgery(she/her, human)
+- Affectenvironment(she/her, lizard folk)
 
 ## Granary
-Enced Prist(he/him, human)
-Procedureslide(he/him, jaguar folk)
-Liphire(she/her, fennec fox folk)
+- Enced Prist(he/him, human)
+- Procedureslide(he/him, jaguar folk)
+- Liphire(she/her, fennec fox folk)
 
 
 ## Trapper
-Inea Contrich(she/her, human)
+- Inea Contrich(she/her, human)
 
 ## Blacksmith
-Flaed Coldgold(he/him, human)
-Sundbar Rocksalt(she/her, human)
-Memum Pickstrike(he/him, human)
+- Flaed Coldgold(he/him, human)
+- Sundbar Rocksalt(she/her, human)
+- Memum Pickstrike(he/him, human)
 
 ## Tailor
-Exciblo Derly(she/her, human)
-Singleline(she/her, human)
+- Exciblo Derly(she/her, human)
+- Singleline(she/her, human)
 
 ## Butcher
-Boren Chantin(he/him, human)
-Exchangeinternal(he/him, lynx folk)
+- Boren Chantin(he/him, human)
+- Exchangeinternal(he/him, lynx folk)
 
 ## The Square Cave Spa
-Boktrag Icworse(she/her, human)
-Lihgihloo(he/him, human)
+- Boktrag Icworse(she/her, human)
+- Lihgihloo(he/him, human)
 
 ### Room (8sp, 5 amenities)
 - Private room with cotton mattress(Fire and shelter)(Dry Bedding)(Comfortable bedding)
@@ -61,10 +61,9 @@ Lihgihloo(he/him, human)
 - Hotsprings (Hot bath)(Spa treatment)
 
 ## Coach service
-Stast Ran(she/her, human)
-Scratchymaterial(she/her, human)
+- Stast Ran(she/her, human)
+- Scratchymaterial(she/her, human)
 
-- Up to 6 passengers
 - Ride to Darsaven(1 day, 0.72GP)
 - Ride to Redswell(1 day, 0.72GP)
 - Ride to Hoaryhog(1 day, 0.72GP)

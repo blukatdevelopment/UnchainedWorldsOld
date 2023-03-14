@@ -29,8 +29,8 @@ Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md ar
 - Varietyhandsome(he/him, human)
 
 ## Cobbler
-Scraypla Scrapestone(she/her, human)
-Raggedrice(he/him, human)
+- Scraypla Scrapestone(she/her, human)
+- Raggedrice(he/him, human)
 
 ### Cheap Room (5sp, 4 amenities)
 - Open loft space with hay mattress (Fire and shelter)(Dry Bedding)
@@ -38,6 +38,6 @@ Raggedrice(he/him, human)
 - Rusty wash basin (Hot bath)
 
 ## Bakery
-Yepos Steelclaw(she/her, human)
-Awfultotal(she/her, human)
-Tunehospital(she/her, human)
+- Yepos Steelclaw(she/her, human)
+- Awfultotal(she/her, human)
+- Tunehospital(she/her, human)
