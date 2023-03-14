@@ -146,6 +146,7 @@ def get_random_person():
 
 def main():
     for i in range(100):
-        print(get_beastfolk())
+        #print(get_beastfolk())
+        print(get_fieldfolk())
 
 main()

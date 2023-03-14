@@ -33,6 +33,7 @@ These four communities are arranged in a square, with a marketplace between them
 - Piercepolite(she/her, human) Writing muse
 - Weena Turem(he/him, human) Warrior
 - Looteelah(she/her, skunk folk) Warrior
+- Neeleekoo(she/her, mink folk) Rebel spy
 
 ### Theater
 - Seating for about 100 people
@@ -58,6 +59,23 @@ These four communities are arranged in a square, with a marketplace between them
 - Recovering Chaos Shells
 - Population of about 300
 
+### Residents
+- Blaringunpleasant(he/him, human, infernoid)
+- Wobblybroken(he/him, camel folk, infernoid)
+- Woodactor(she/her, human, infernoid)
+- High-levelgenerous(she/her, camel folk, infernoid)
+- Recoveradvanced(he/him, human, infernoid)
+- Impressiveproduct(she/her, human)
+- Profuseharmful(she/her, human)
+- Knowledgeabletiny(he/him, otter folk)
+- Boldright(she/her, human)
+- Dealillustrious(she/her, brown bear folk)
+- Draconglaw Poisonscale(he/him, lizard folk, red eyes) rebel spy
+- Teeheegohtih(she/her, kangaroo folk, red eyes)
+- Nahnoogoogihgee(he/him, sloth folk, red eyes)
+- Gaykohtahnaylee(she/her, turkey folk, red eyes)
+- Lihhootahnoogoh(he/him, rabbit folk, red eyes)
+
 ## The grove
 - Nature reserve
 - Greenfoot community
@@ -69,6 +87,7 @@ These four communities are arranged in a square, with a marketplace between them
 - Woodwood(he/him, fey)
 - Huums(she/her, fey)
 - Fofafufri(he/him, fey)
+- Leafleaf(he/him, human) rebel spy
 - Flumod Liquir(she/her, human)
 - Earydal(she/her, human)
 - Hoohaygeegaynoo(he/him, fox folk)

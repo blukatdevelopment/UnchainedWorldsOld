@@ -106,7 +106,7 @@ The loose coalition of sages, paladins, and diviners that gather to do the will 
 The organized pirates of the Eastern Sea. The privateers can be contracted as a mercenary navy, escorts, privateers, or merely paid protection money to ensure safe passage. They are responsible for most smuggled goods in the Korsarus region.
 
 ## Assassin's Guild
-A group that gathered under the lawful evil pursuit of violence for it's own sake. They are centered in Shadowvale, which is largely unreachable by Omarian authority.
+A group that gathered under the lawful evil pursuit of violence for it's own sake. They follow a secret code of ethics in their killing. They are centered in Shadowvale, which is largely unreachable by Omarian authority.
 
 ### NPCs
 - Fantsmok(she/her, human) Monk

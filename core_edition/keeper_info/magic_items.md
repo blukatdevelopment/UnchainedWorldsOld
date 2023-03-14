@@ -94,9 +94,9 @@ Uses hand crossbow or firearm proficiency. Has five charges. Can be recharged wi
 
 ### Autoblaster
 Ranged weapon (30/60), Light
-Weight:2lb
+Weight:9lb
 Damage: 1d6 fire
-Uses hand crossbow or firearm proficiency. Has thirty charges. Can be recharged with three stamina dice using an action. Instead of firing normally, wielder may burst fire, which fires ten shots targeting a 10ft cube. All creatures within the cube must succeed a DC 15 DEX save, or take 1d6 fire damage. The damage is 4d6 for large or larger creatures.
+Uses hand crossbow or firearm proficiency. Has thirty charges. Can be recharged with three stamina dice using an action. Instead of firing normally, wielder may burst fire, which fires ten shots targeting a 10ft cube. All creatures within the cube must succeed a DC 15 DEX save, or take 1d6 fire damage. The attack automatically hits for 4d6 fire damage for large or larger creatures occupying the entire cube.
 
 ### Lightning Rifle
 Ranged weapon(120/125)
@@ -234,7 +234,7 @@ Cracks if hit with a crit from physical damage
 1 in 4 chance to heal 2d4 HP after taking damage.
 Cracks if hit with a crit from physical damage
 
-### Black Steel
+### Black Steel Armor
 Incoming attacks cannot crit.
 
 ### Giant Bone Armor

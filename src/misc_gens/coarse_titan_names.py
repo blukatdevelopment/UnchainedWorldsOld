@@ -265,6 +265,6 @@ def generate_name():
 
 def main():
     for i in range(100):
-        print(generate_name())
+        print(generate_name().capitalize())
 
 main()

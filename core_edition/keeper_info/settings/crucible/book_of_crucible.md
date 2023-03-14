@@ -568,12 +568,12 @@ Coent becomes Coento on the first of Coentos, assuming the form of a bulky young
 
 ### Titan Kings
 At the end of the Titan age, the kings were imbued with magic technology that was intended to render them immortal. It unfortunately worked, but not in the way they thought. Separated from their bodies, they sequester themselves away from those that would hunt them, and they bide their time, building cults and occasionally gaining ambition to overtake political regions indirectly.
-- Batchek
+- Batchek(Tiger-headed titan with a trident)
 - Tihomir
 - Petrov
 - Balcaen
 - Yavor
-- Toncheh
+- Toncheh(Blue human with third eye)
 
 ## Abyssal Pantheon 
 

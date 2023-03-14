@@ -100,7 +100,7 @@
     {
         "name": "B2",
         "Terrain": "Mountain",
-        "1": "poorly maintained statue of Titan King: Toncheh from the Divine Age",
+        "1": "poorly maintained statue of Titan King: Toncheh(man with three eyes) from the Divine Age",
         "2": "Tentacle Beast den",
         "3": "thornpatch resembling a(n) cat"
     },
@@ -374,7 +374,7 @@
         "name": "E5",
         "Terrain": "Hillside",
         "1": "weak magic zone",
-        "2": "pristeen shrine of Titan King: Toncheh from the Empire of man",
+        "2": "pristeen shrine of Titan King: Toncheh(man with three eyes) from the Empire of man",
         "3": "abandoned wheat farm"
     },
     {
@@ -466,7 +466,7 @@
         "name": "F6",
         "Terrain": "Hillside",
         "1": "river",
-        "2": "poorly maintained graveyard of Titan King: Toncheh from the Divine Age",
+        "2": "poorly maintained graveyard of Titan King: Toncheh(man with three eyes) from the Divine Age",
         "3": "plume of thick vegetation resembling a(n) dagger"
     },
     {
@@ -614,7 +614,7 @@
         "Terrain": "Hillside",
         "1": "series of boulders resembling a(n) smile",
         "2": "wild game forest",
-        "3": "pristeen graveyard of Titan King: Toncheh from the Empire of man"
+        "3": "pristeen graveyard of Titan King: Toncheh(man with three eyes) from the Empire of man"
     },
     {
         "name": "H4",
@@ -766,7 +766,7 @@
     {
         "name": "J1",
         "Terrain": "DarkWoods",
-        "1": "pristeen statue of Titan King: Toncheh from the Age of Dragons",
+        "1": "pristeen statue of Titan King: Toncheh(man with three eyes) from the Age of Dragons",
         "2": "Sentinel den",
         "3": "collapsed tunnel resembling a(n) dog"
     },
@@ -872,7 +872,7 @@
         "name": "K4",
         "Terrain": "Hillside",
         "1": "waterfall",
-        "2": "pristeen graveyard of Titan King: Toncheh from the Titan Age",
+        "2": "pristeen graveyard of Titan King: Toncheh(man with three eyes) from the Titan Age",
         "3": "20ft tall sculpture of a hand"
     },
     {
@@ -999,7 +999,7 @@
         "Terrain": "Desert",
         "1": "well",
         "2": "Raystalker den",
-        "3": "pristeen statue of Titan King: Toncheh from the Empire of man"
+        "3": "pristeen statue of Titan King: Toncheh(man with three eyes) from the Empire of man"
     },
     {
         "name": "L11",
