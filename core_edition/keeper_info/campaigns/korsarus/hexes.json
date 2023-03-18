@@ -556,9 +556,9 @@
     {
         "name": "G7",
         "Terrain": "Hillside",
-        "1": "well",
-        "2": "Marionette spider den",
-        "3": "floating coral reef"
+        "1": "Korsarus City",
+        "2": "Korsarus City",
+        "3": "Korsarus City"
     },
     {
         "name": "G8",
@@ -920,7 +920,7 @@
     {
         "name": "K11",
         "Terrain": "Desert",
-        "1": "hotsprings",
+        "1": "salt flats",
         "2": "Grass Heap den",
         "3": "well maintained statue of Uaos from the Empire of man"
     },
@@ -997,7 +997,7 @@
     {
         "name": "L10",
         "Terrain": "Desert",
-        "1": "well",
+        "1": "Ruined airship",
         "2": "Raystalker den",
         "3": "pristeen statue of Titan King: Toncheh(man with three eyes) from the Empire of man"
     },
@@ -1005,8 +1005,8 @@
         "name": "L11",
         "Terrain": "Desert",
         "1": "D",
-        "2": "well",
-        "3": "always raining zone"
+        "2": "pit of corruptive black goo",
+        "3": "1000ft monolith broken in half"
     },
     {
         "name": "M0",
@@ -1074,7 +1074,7 @@
     {
         "name": "M9",
         "Terrain": "Desert",
-        "1": "waterfall",
+        "1": "stationary corrupted cacti men",
         "2": "series of boulders resembling a(n) frown",
         "3": "talking statues"
     },
@@ -1089,7 +1089,7 @@
         "name": "M11",
         "Terrain": "Desert",
         "1": "D",
-        "2": "pond",
+        "2": "wax museum ruins",
         "3": "Giant Crab den"
     },
     {
@@ -1167,7 +1167,7 @@
         "Terrain": "Desert",
         "1": "termite mound resembling a(n) pawprint",
         "2": "poorly maintained shrine of Coento from the Divine Age",
-        "3": "always foggy zone"
+        "3": "always sandstorm zone"
     },
     {
         "name": "N11",

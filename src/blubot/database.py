@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+
+# Database abstraction layer.
 import os
 import sqlite3
 from uw.character import parse_character

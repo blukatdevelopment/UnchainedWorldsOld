@@ -1,5 +1,5 @@
 import json
-from uw.world import today_date, get_world_status, generate_encounter, is_valid_world_date, set_world_date
+from uw.world import today_date, get_world_status, generate_travel_message, is_valid_world_date, set_world_date, is_valid_hex
 
 def world_commands(bot, discord):
     world_group = discord.SlashCommandGroup("world", "Access hex and calendar info.")
@@ -25,8 +25,12 @@ def world_commands(bot, discord):
 
 
     @world_group.command()
-    async def encounter(ctx, date="today", location="road"):
-        msg = generate_encounter(date, location)
+    async def travel(ctx, date="today", hex="road"):
+        if date != "today" and not is_valid_world_date(date):
+            return await ctx.respond(f"Date {date} invalid. Use YYY/MM/DD. Cannot set before world start date.")
+        if hex != "road" and not is_valid_hex(hex):
+            return await ctx.respond(f"Hex {hex} invalid. Consult the map, then the hexes.json")
+        msg = generate_travel_message(bot.db, date, hex)
         return await ctx.respond(msg)
     
     bot.add_application_command(world_group)

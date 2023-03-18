@@ -2,6 +2,10 @@
 import datetime
 import json
 import random
+from os import sys
+sys.path.append('../')
+from config import load_hexes
+from uw.region_encounters import roll_region_encounter, roll_road_encounter, get_hex_region
 
 WORLD_ID = 1
 WORLD_START_DATE = "114/01/01"
@@ -258,8 +262,36 @@ def get_status(db, year, month, day, hex):
     info = format_date(date)
     return info
 
-def generate_encounter(date, location):
-    return "Something happens, I guess."
+def get_hex_by_name(name):
+    hexes = load_hexes()
+    for hx in hexes:
+        if hx["name"].capitalize() == name.capitalize():
+            return hx
+    return None
+
+def is_valid_hex(name):
+    return get_hex_by_name(name) != None
+
+def get_hex_landmark(hex_name):
+    hx = get_hex_by_name(hex_name)
+    if hx == None:
+        return "No landmarks on the open road"
+    landmarks = [hx["1"], hx["2"], hx["3"]]
+    landmark = random.choice(landmarks)
+    return f"**Landmark:** {landmark}\n"
+
+def generate_travel_message(db, date, hex_name):
+    hx = get_hex_by_name(hex_name)
+    status = get_world_status(db, date)
+    region = get_hex_region(hex_name)
+    area = f"**Hex name:** {hex_name}\n**Region:** {region}\n"
+    landmark = get_hex_landmark(hex_name)
+    encounter = ""
+    if hx is not None:
+        encounter = roll_region_encounter(hx)
+    else:
+        encounter = roll_road_encounter()
+    return f"{area}{landmark}{status}{encounter}"
 
 def advance_date_by_days(year, month, day, days):
     for i in range(days):
@@ -353,11 +385,11 @@ def get_world_status(db, date):
     msg = format_date(date) + "\n"
     msg += get_weather_description(day_data, date) + "\n"
     if EVENTS in day_data:
-        msg += "Today's events:\n"
+        msg += "**Today's events:**\n"
         for event in day_data[EVENTS]:
             msg += f"\t-{event}\n"
     if len(upcoming_events) > 0:
-        msg += "Upcoming events:\n"
+        msg += "**Upcoming events:**\n"
         #print(f"Upcoming events {upcoming_events}")
         for event in upcoming_events:
             #print(f"Event: {event}")

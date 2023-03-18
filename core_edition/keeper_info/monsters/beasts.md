@@ -12,11 +12,13 @@
 
 # Beasts
 
-## Tiny
+## Giant Fly
 
 
 `Giant Fly, Tiny, HP: 3(1d4), AC: 12, Speed: 25ft fly, [10, 10, 10, 3, 14, 3] Bite +1 1 piercing`
 
+
+## Rat
 
 ```
 Rat
@@ -30,6 +32,8 @@ Speed: 25ft
 Attacks:
 Bite +1 1 piercing
 ```
+
+## Littlefoot
 
 ```
 Littlefoot
@@ -48,7 +52,7 @@ Attacks:
 Bite +3 1d4 piercing. On hit, attach.
 ```
 
-## Small
+## Featherclaw
 
 ```
 Featherclaw
@@ -167,6 +171,7 @@ Bite +4 1d8+3 piercing
 Claws +4 2d6+3 slashing
 ```
 
+## Giant Spider
 ```
 Giant Spider
 Large beast
@@ -266,6 +271,7 @@ Bite(10ft) +6 3d8+4 piercing
 Tail(15ft) +6 2d4+2 bludgeoning
 ```
 
+## Three Horn
 ```
 Three Horn
 Huge Beast
@@ -281,6 +287,7 @@ Gore +6 3d8+4 piercing
 Stomp +6 2d10+4 bludgeoning
 ```
 
+## Elephant
 ```
 Elephant
 Huge Beast

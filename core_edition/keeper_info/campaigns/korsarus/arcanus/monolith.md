@@ -10,6 +10,8 @@
 - Tiger god was the Titan King Batchek
 - Batchek swore to return and retake the world
 - The ruined city was once named Thahkaowahdah
+- The monolith is a trial for godhood
+- The Titan King Yevor's tomb is impossible to find
 
 ### Residents
 - Tuhchaizaikay(she/her, human, psion)
@@ -23,7 +25,6 @@
 - Keefeudahkao(she/her, hyena folk)
 - Hohmaygeunih(he/him, human)
 - Joosaicheurai(he/him, beaver folk)
-
 
 ## Monolith
 - This blacksteel structure
@@ -45,6 +46,5 @@
 - 3rd shows him flying in the air and firing a ball of light with his trident
 
 ### Inner chamber
-- 1ft-thick blacksteel doors
-- 4 deactivated sentinels, activate on door opening
-- Huge grave of Batchek with armor and trident
+- 15ft tall statue of tiger man holding skull over brazier
+- Burning a human skull will turn the flame into a portal for one minute. Leads to random dungeon entrance.
