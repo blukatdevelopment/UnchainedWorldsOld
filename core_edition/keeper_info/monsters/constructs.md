@@ -34,6 +34,16 @@
 `Animated bathtub, XP: 10, Size: Large, HP:30(3d10), AC: 16, Speed: 20ft, [16,12, 10, 4, 10, 4], Slam +4 1d8+3`
 - Pour(1 use): As a bonus action, boils it's water. As a bonus action, dumps boiling water. 15ft cone DC 12 DEX save to halve 1d6 fire damage
 
+## Animated Armor
+`Animated book, Size: Medium, HP:30(3d8+6), AC: 17, Speed: 25ft, [16,8, 14, 4, 10, 4], Long Range Flail(15ft) 1d8+3 piercing`
+- Immune to poison, necrotic
+
+## Forgeling
+A bipedal humanoid-shaped construct with a human soul trapped inside. Used as foot soldiers and laborers in the titan age.
+
+`Forgeling, Size: medium, HP: 18(3d6), AC: 16, [16, 14, 10, 12, 12, 8], Fist +4 1d6+3`
+- Immune to poison, necrotic
+
 ## Enforcer
 A statue with a powerful beam attack. Used often as a defensive fixture, or to supervise games and puzzles.
 `Enforcer, XP: 10, Size: Large, HP:100(5d20), AC: 20, Speed: 0ft, [1, 1, 20, 10, 20, 10]`

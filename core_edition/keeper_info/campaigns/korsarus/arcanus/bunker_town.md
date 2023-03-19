@@ -14,7 +14,7 @@ Bunker town consists of a metal disk with a 20ft diameter blacksteel door leadin
 
 ## Hospitality Chambers
 - Hayzihshootuh(he/him, human)
-- Tchooveonihmm(he/him, human)
+- Tchooveonihmm(he/him, forgeling)
 - Dooneojehbay(she/her, human)
 
 ### Free suite(free, 0 amenities)
@@ -51,7 +51,7 @@ After earning trust, available
 - Tchaobohthehpuh(he/him, vole folk)
 
 ## Security
-- Theuleowairoo(she/her, human, warrior)Chief security officer 
+- Theuleowairoo(she/her, forgeling, warrior)Chief security officer 
 - Sheulooluhsai(they/them, sentinel)
 - Lihvihwaygao(they/them, sentinel)
 - Vohsaibohnee(they/them, sentinel)
@@ -84,7 +84,7 @@ After earning trust, available
 
 ### Staff
 - Tayluhchahshuh(he/him, rat folk)
-- Pohpohneujeh(he/him, human)
+- Pohpohneujeh(he/him, forgeling)
 - Meuthoogeukeu(he/him, human)
 
 ## Executive suite
@@ -95,7 +95,7 @@ After earning trust, available
 
 ### Staff
 - Moodahthohfay(he/him, human)
-- Sohthohveulai(he/him, human)
+- Sohthohveulai(he/him, forgeling)
 - Geevohmeuvah(she/her, lion folk)
 
 ## Surgical Bay
@@ -107,7 +107,7 @@ After earning trust, available
 
 ### Staff
 - Thaisheuhohheu(she/her, skunk folk)
-- Vuhvaypaorih(she/her, human)
+- Vuhvaypaorih(she/her, forgeling)
 - Sahshehweozeu(he/him, human)
 
 ## Hangar

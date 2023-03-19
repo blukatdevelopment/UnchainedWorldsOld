@@ -64,10 +64,12 @@ attack.
 This weapon has a +3 bonus to both attack rolls and the damage dealt by an
 attack.
 
+### Moon glaive
++1 glaive
+Under direct moonlight, the glaive burns with the moon's radiance and becomes a +3 blade, dealing an additional 1d6 radiant damage
+
 ### Bleeding Heart Dagger
-When you attack someone with this blade, whether you hit or not, the target begins recounting every
-failed or unrealized relationship in their life, ruminating on it. They must
-make a DC 15 wisdom saving throw, or take 1d4 psychic damage.
+When you attack someone with this blade, whether you hit or not, the target begins recounting every failed or unrealized relationship in their life, ruminating on it. They must make a DC 15 wisdom saving throw, or take 1d4 psychic damage.
 
 ### Froggy Staff
 Magical quarterstaff
@@ -133,6 +135,9 @@ alive, and will have control over themself.
 ### Extending rod
 This quarterstaff may extend to up to 15ft long, extending the normal attack
 range by 10ft.
+
+### Long Range Flail
+Has range of 15ft, deals 2d6 piercing damage. Can exhaust a stamina die to attack from up to 60ft. Can reliably be used as a grappling hook when extending.
 
 ### Magic boomerang
 This +1 thrown weapon deals a base damage of 1d4 bludgeoning damage and has finess. It can be thrown up to 60 feet, and always returns to the thrower's
@@ -782,6 +787,18 @@ Effects: DC 16 WIS to avoid hyper-aggression. +4 STR
 ```
 
 ## Wondrous Items
+
+### Ever Ice Heart
+If pressed to one's chest, the heart will shatter and meld to cover their heart in ever ice. This grants an additional 2d6 max HP, resistence to cold damage, and weakness to fire damage.
+
+### Frozen Flame
+This crystal ignites when exposed to flame, staying until doused. It's flame is cold to the touch and spreads a teal ice flame which burns without destroying what it burns. Living things react as if to regular fire, but swapping fire damage for cold damage.
+
+### Averaging Machine
+Pressing the button on this stopwatch causes a distortion in probabilities. The next d20 roll made by you is replaced with a 10. After use, this machine must be wound up for 1 hour.
+
+### Fast Watch
+Pressing the button on this stopwatch casts haste on the wielder. After use, this machine must be wound up for 8 hours.
 
 ### Dowsing Crystal
 By dangling this crystal on a chain, one can locate water sources within a few miles.

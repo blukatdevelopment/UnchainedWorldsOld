@@ -89,7 +89,7 @@ A three-foot tall cat that can stand upright. It's whiskers are bent and it's co
 ## Roth'tanag
 This hulking figure is covered in blunt horns made from stone. The creature has a forked tongue and powerful limbs.
 
-`Roth'tanag, XP: 700, HP: 86(10d8+6), AC: 13(Natural Armor), [18, 8, 14, 10, 8, 14]`
+`Roth'tanag, HP: 86(10d8+6), AC: 13(Natural Armor), [18, 8, 14, 10, 8, 14]`
 - Resists: Non-magical physical damage
 - Stone breath[Recharge 5-6]: Creatures within a 15 foot radius must succeed a DC 15 constitution save to halve 2d6 necrotic damage. If a creature fails by 5 or more or is killed by this attack, they are petrified.
 - Horn blast: Creature must succeed DC 13 dexterity saving throw or take 2d6 piercing damage.
@@ -196,7 +196,7 @@ Devils who fight long enough under the kingdom of Hell are knighted, and those w
 ### Infernal Monarch
 There are several kings and queens among the infernal plane. 
 
-`Infernal Monarch, XP: 5000, HP: 112(10d10+12), Size: Huge, AC: 18(plate), [18, 18, 18, 11, 16, 11], Claws +8 2d12 slashing`
+`Infernal Monarch, HP: 112(10d10+12), Size: Huge, AC: 18(plate), [18, 18, 18, 11, 16, 11], Claws +8 2d12 slashing`
 
 ### Hell Hound
 Hell Hounds are a rare creature imbued with the ability to open portals to the Material Plane, and are often taken into service in order to retrieve mortals. They do not serve devils, but rather the contracts that devils sign, acting as impartial enforcers of Infernal law. Hell Hounds stand ten feet tall and wield a set of sharp claws. They are wolf-like, with glowing red eyes and mouths.

@@ -293,49 +293,23 @@ Roll 5d6 to determine the spells this cult uses.
 
 ### Initiate
 Spellcasting:
+
+
+`Initiate, HP: 8(2d4), AC: 11, [10, 13, 10, 10, 10, 10], Dagger +3 1d4+1 piercing`
+- Spellcasting
 - Cantrip (infinite)
 - 1st (1 use)
 
-```
-Initiate
-HP: 6 (2d4)
-AC: 11
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 10| 13| 10| 10| 10| 10|
-Attacks:
-Dagger: +3 1d4+1 piercing
-```
-
 ### Adept
-Spellcasting:
+`Adept, HP:15(3d4+3), AC: 16, [12, 14, 12, 10, 10, 15], Shortsword +3 1d6+1 piercing`
+- Spellcasting +5, DC 13
 - 1st level (3 uses)
 - 2nd level (2 uses)
 
-```
-Adept
-HP: 12 (3d4+3)
-AC: 16
-Speed: 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 12| 14| 12| 10| 10| 10|
-Abilities:
-Attacks:
-Shortsword: +3 1d6+1 piercing
-```
-
 ### Elite
-Spellcasting:
+
+`Elite, Speed: 30ft, HP: 15 (3d4+3), AX: 15, [10, 12, 12, 16, 14, 20], Long Sword +5 1d8+2 Piercing`
+- Spellcasting +7, DC 15
 - 2nd level (3 uses)
 - 3rd level (2 uses)
 - 4th level (1 use)
-
-```
-Elite
-Medium Humanoid
-XP: 200
-HP: 9 (3d4)
-AC: 15(Mage Armor)
-Speed: 30ft 
-Shadow Sword: +5 2d8+2 Piercing
-```

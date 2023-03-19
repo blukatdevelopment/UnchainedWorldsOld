@@ -69,7 +69,7 @@ Assume these last in dried state for a month
 ### Pick Mushrooms
 - Consumes 1 stamina die
 Available during spring and summer, not mountains/desert 
-1. DC 3d8+2 WIS check to find 1d4 lb of mushrooms
+1. DC 3d8+2 WIS check to find 1d4 lb of mushrooms(8 per lb)
 2. DC 3d8+2 INT check to know exact species
 Fail by less than 5 to narrow down species between two options(one correct)
 
@@ -85,6 +85,9 @@ Fail by less than 5 to narrow down species between two options(one correct)
 10. Clustered Fingers Mushroom
 11. Banded Scalycap Mushroom
 12. Blue glow shrooms
+
+#### In Dungeons
+- Automatically find 1d8 mushrooms in a pile
 
 # Factions
 
@@ -254,6 +257,55 @@ The scores mean:
 
 ## Random spells
 Roll 1d100, reroll if higher than highest listing.
+
+### Cantrip
+1. restidigitation
+2. Mending
+3. Chastise
+4. Guidance
+5. Sacred Flame
+6. Druidcraft
+7. Firebolt
+8. Thornwhip
+9. Light
+10. Minor Illusion
+11. Spare The Dying
+12. Eye Stone
+13. Earth Whisper
+14. Phantom Whistle
+15. Long Ear
+16. Minute Conjuration
+17. Touch Light
+18. Lesser Telekinesis
+19. Lay on hands
+20. Thaumaturgy
+21. Bonfire
+22. Sparking Blade
+23. Death Grip
+24. Acid Splash
+25. Control Flames
+26. Friends
+27. Frostbite
+28. Viridescent blade
+29. Gust
+30. Vermin Cloud
+31. Mind Sliver
+32. Mold Earth
+33. Poison Spray
+34. Ray of Frost
+35. Shape Water
+36. Shocking Grasp
+37. Thunderclap
+38. Druidcraft
+39. Toll The Dead
+40. Produce Flame
+41. Shillelagh
+42. Resistance
+43. Spare the dying
+44. Word of Radiance
+45. Sanguine Sight
+46. Vicious Mockery
+47. Leech
 
 ### 1st
 1. Faerie Fire (1st)

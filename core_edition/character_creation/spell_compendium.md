@@ -508,7 +508,7 @@ roll before the end of it's next turn.
 ```
 
 ```
-Leech (cantrip)
+Leech (Cantrip)
 Casting Speed: 1 action
 Distance: 60 feet
 Duration: Instantaneous

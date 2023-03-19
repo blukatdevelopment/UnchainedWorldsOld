@@ -54,6 +54,7 @@ they receive 3d6 acid damage as they are rapidly digested.
 - Poison Spines: A creature struck by spines must make a DC 12 CON save or fall paralyzed for 1d4 turns.
 - Protective spines: As a reaction, the green slime may extend it's spines, forcing the attacker to succeed a DC 12 dex save or take 1d4 piercing damage. Spine Hail: Upon death, the slime fires it's spines. All creatures within 10ft must succeed a DC 12 dex save or take 1d4 piercing damage.
 
+## Slime Brute
 A muscular humanoid creature with writhing tentacles coming out of it's left arm socket and a very muscular right arm.
 
 `Slime Brute, XP: 50, Size: Large
@@ -62,6 +63,7 @@ HP: 36(6d6), AC: 11, [16, 10, 14, 10, 10, 10], Slam +4 1d4+3 bludgeoning, Tentac
 - Throw: May throw a grappled creature up to 15 feet as a bonus action.
 - Multiattack:  May make a slam attack and a tentacles attack
 
+## Slime Behemoth
 A blob of green slime which has up to five pseudopods that come from nearby water sources. A tiny guppie-like fish swims around inside the slime.\
 `Slime Behemoth, XP: 200, Size: Large, HP: 74(12d6+2), AC: 11, Speed: 25ft, [16, 10, 14, 10, 10, 10], Nip +3 1 piercing`
 - Pseudopods: Up to five pseudopods appear from nearby water sources. The pods have 11AC, 8HP, and 30ft movement. They can grapple and drag a target. At the end of the behemoth's turn, all pseudopods regrow.

@@ -157,19 +157,11 @@ Bite +5 2d6+3 piercing
 
 ## Brown Bear
 
-```
-Brown Bear
-Large Beast
-HP: 40
-AC: 11(natural)
-Speed: 30ft, Climb 30ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 16| 14| 12|  3| 12|  3|
-Keen nose: Advantage on perception checks requiring smell.
-Multiattack: Brown bear may make one bite and one claws attack.
-Bite +4 1d8+3 piercing
-Claws +4 2d6+3 slashing
-```
+
+`Brown Bear, Size: Large, HP: 44(4d10+4), speed: 30ft, climb 30ft, AC: 11, [16, 14, 12, 3, 12, 3], Bite +4 1d8+3 piercing, Claws +4 2d6+3 slashing`
+- Multiattack: Bear may make one bite and one claws attack.
+- Keen nose: Advantage on perception checks requiring smell.
+
 
 ## Giant Spider
 ```
@@ -220,23 +212,10 @@ Bite +5 2d6+3
 ```
 
 ## Saber-toothed Tiger
-```
-Saber-Toothed Tiger
-Large Beast
-XP: 450
-HP: 47(7d10+5)
-AC: 12(natural)
-Speed: 40ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 18| 14| 15|  3| 12|  8|
-Keen Sense: Advantage on perception checks utilizing smell.
-Pounce: After moving 20ft in a straight line, hitting with a claw attack forces
-target to succeed a DC 14 STR save or be knocked prone. If prone, the tiger can
-make a bite attack as a bonus action.
-Attacks:
-Bite +6 1d10+5 piercing
-Claw +6 2d6+5 slashing
-```
+
+`Saber-toothed tiger, Size: Large, HP: 75(7d10+5), speed: 40ft, AC: 12, [18, 14, 15, 3, 12, 8], Bite +6 1d10+5 piercing, Claw +6 2d6+5 slashing`
+- Keen Sense: Advantage on checks using smell.
+- Pounce: Move20ft in line, require DC 15 STR or knock prone. If knocked prone, bite with bonus action.
 
 ## Giant Elk
 
@@ -304,20 +283,10 @@ Stomp +6 2d10+4 bludgeoning
 ```
 
 ## Huge Polar Bear
-```
-Huge Polar Bear
-Huge Beast
-XP: 300
-HP: 60(5d12+25)
-AC: 12(natural)
-Speed: 40ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 20| 10| 16|  4| 10|  4|
-Multiattack: Polar Bear can use bite and claws on 
-Attacks:
-Bite +6 1d8+5 piercing
-Claws +6 2d6+5 slashing
-```
+
+`Huge Polar Bear, Size: Huge, HP: 85(5d12+25), Speed: 40ft, AC: 12, [20, 10, 16, 4, 10, 4], Bite +6 1d8+5 piercing, Claws +6 2d6+5 slashing`
+- Multiattack: Polar Bear can use bite and claws 
+
 
 ## Giant Crab
 ```

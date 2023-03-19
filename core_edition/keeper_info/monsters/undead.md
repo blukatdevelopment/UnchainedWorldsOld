@@ -92,11 +92,12 @@ attempt to live as if they were in the moments preceding their cause of death.
 - Blindsight: 30ft
 
 ## Reaper
-`Reaper, XP: 200, HP: 18 (3d10), AC: 12, Speed: Float 30ft, [14, 12, 14, 10, 11, 4], Scythe +6 2d6+2 magical slashing, Life Drain(10ft) +6 1d8+2 necrotic. Heals damage dealt.`
+`Reaper, XP: 200, HP: 30 (3d10), AC: 12, Speed: Float 30ft, [14, 12, 14, 10, 11, 4], Scythe +6 2d6+2 magical slashing, Life Drain(10ft) +6 1d8+2 necrotic. Heals damage dealt.`
 - Weak: Bludgeoning
 - Blindsight: 30ft
 - Scythe Block: As a reaction when targeted with a melee attack, add +2 to AC for this attack by blocking with scythe. If this blocks the attack, the attacker must succeed a DC 14 STR save or drop their weapon.
 
+## Tower Shield skeleton
 A skeleton with a large shield.
 
 `Tower Shield Skeleton,XP: 25XP HP: 5(1d8), AC: 14, [14, 12, 14, 10, 11, 4], Spear +4 1d6+2 piercing`
@@ -104,6 +105,7 @@ A skeleton with a large shield.
 - Blindsight: 30ft
 - Deploy Shield(Bonus action): Once hidden behind the shield, skeleton has +5 AC. Attacks that halve damage with a successful save are halved by default, dealing no damage on a successful save.
 
+## Slimy skeleton
 A skeleton oozing green slime.
 
 `Slimy Skeleton, XP: 25, HP: 4(1d4), AC: 8, [14, 12, 14, 10, 11, 4]`
@@ -112,11 +114,12 @@ A skeleton oozing green slime.
 - Acid Spray: One target within 15ft must succeed a DC 12 DEX save or take 1d6 acid damage.
 - Acidic touch: Grappling or being grappled forces a DC 12 CON save to avoid taking 1d4 acid damage. Check is remade at skeleton's turn until grapple is broken. Any humanoid killed by a slimy skeleton rises up as one on the next turn.
 
-
+## Titan Guardian
 `titan Guardian, XP: 100, HP: 56(5d10+6), AC: 16 (chain mail), Speed: 25ft, [17, 8, 14, 4, 4, 4], Battleaxe +5 1d8+3`
 - Weak: Radiant, Resistant: Non-magical physical, Immune: Necrotic
 - Shout: All creatures in a 15ft cone must succeed a DC 14 STR save or be thrown backward 10ft, falling prone if they collide with another creature.
 
+## Bone Heap
 `Bone Heap, XP: 200, size: Large, HP: 80(4d20), AC: 11, [18, 8, 18, 3, 10, 3]`
 - Weak: Bludgeoning
 - Reform: At the start of it's turn, the bone heap restores 1d6 hit points.
@@ -130,18 +133,18 @@ A floating skull wreathed in brightly colored dragon's breath.
 - Element: The dragon's breath is either fire, lightning, acid, or poison. The breath skull is resistant to this type of damage, and it's breath attack deals this damage type.
 - Breath: 15ft cone DC 15 DEX save to halve 2d4(see element for type)
 
-## Skelemancer
-A robed skeleton with a rusty, blood-crusted dagger
 
-`Skelemancer, XP: 200, HP: 35(3d8+9), AC: 12, [15, 14, 16, 16, 8, 8], Letter +4 1d4+2 piercing, 1d6 necrotic`
-- Raise(Recharge 3-6): Every bone pile and corpse within 15ft are raised as a skeleton or zombie, respectively. They each have 1d4 hit points.
-
-An armored skeleton wielding a morning star.\
-`Bone Gauntlet, XP: 200, HP: 36(3d8+12), AC: 18(rusty plate mail), Morning Star(10ft) +4 1d8+4 bludgeoning`
 
 ## Vampire
 Given eternal youth and fortitude by the same curse that drains their humanity.
-`Vampire, XP: 450, HP: 24(3d6+3), AC: 12, [14, 15, 14, 15, 16, 17], Rapier +5 1d8+2, Feed +5 1d6+2 piercing, gains damage dealt as temporary hit points`
+`Vampire, HP: 24(3d6+3), AC: 12, [14, 15, 14, 15, 16, 17], Rapier +5 1d8+2`
 - Vampiric surge(Recharge 3-6): This turn, the vampire's movement speed doubles, they may take the disengage action as a bonus action, and they may make one extra attack.
 - Immune: nonmagical physical damage
 - Multiattack: Vampire may make two rapier attacks
+- Energy drain: Touch one creature, who must succeed a DC 16 CON save, or lose 5 stamina dice. Any damage dealt from this adds a year per HP to the creature. Dice are rolled and added as temp HP.
+
+## Vampire Spawn
+New vampires are enthralled to the one that turned them, and are generally weaker until 
+`Vampire, HP: 24(3d6+3), AC: 12, [14, 15, 14, 15, 16, 17], Claws +5 2d4+2`
+- Immune: nonmagical physical damage
+- Energy drain: Touch one creature, who must succeed a DC 16 CON save, or lose 5 stamina dice. Any damage dealt from this adds a year per HP to the creature. Dice are rolled and added as temp HP.
