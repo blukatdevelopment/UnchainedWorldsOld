@@ -386,7 +386,7 @@ def get_scars_encounter(hex_obj):
         case 11:
             encounter = "Group of dying travelers: " + random.choice(["omarian scouts", "dwarf giants", "smugglers", "rebels", "traders"])
         case 12:
-            encounter = "King Yevor's Wandering Tomb"
+            encounter = "King Yevor's Wandering Temple"
     encounter = "**Encounter:** " + encounter
     perception_dc = random.randint(1, 10) + random.randint(1, 10) + 2
     stealth_dc = random.randint(1, 10) + random.randint(1, 10) + random.randint(1, 10) + 2

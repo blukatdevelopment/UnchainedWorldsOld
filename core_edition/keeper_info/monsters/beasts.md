@@ -93,19 +93,9 @@ Claws +3 2d4+2 slashing
 
 ## Wolf
 
-```
-Wolf
-Medium beast
-XP: 100
-HP: 12 (3d6)
-AC: 12
-Speed: 40ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 14| 12| 10|  4| 12|  4|
-Pack tactics: When attacking a target adjacent to a friendly, the wolf
-gains advantage on the attack.
-Bite +3 1d6+2
-```
+`Wolf, HP: 18(3d6), AC 12, Speed 40ft, [14, 12, 10, 4, 12, 4], Bite +3 1d6+2`
+- Pack tactics: Advantage on targets adjacent to friendlies.
+
 
 ## Mouintain Lion
 ```

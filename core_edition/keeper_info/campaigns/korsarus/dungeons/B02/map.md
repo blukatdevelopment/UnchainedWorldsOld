@@ -1,24 +1,21 @@
 # Wandering Temple of Titan King Yevor
+This temple has been shrunken down to 1 floor.
 
-## The 8 trials
+## The 4 trials
 - After completing one earn mark by swearing an oath and become knighted(proficient with all armor and weapons)
 - Cannot re-enter the temple unless marked
 - Only one of each mark is given out at a time
 - Killing a markbearer clears their marks to be earned by others, unless the killer was markbearer. A markbearer killing another steals their mark.
 - Someone who reaches 0HP in the temple is teleported outside with 1HP
 - Failing a trial causes the person to be teleported to the entrance
-- All 8 marks must be present to summon Yevor
+- All marks must be present to summon Yevor
 - Defeating Yevor grants +3 blacksteel full plate armor
 
 Roll an entrance to the temple
 1. Courage
-2. Conviction
-3. Determination
-4. Honesty
-5. Integrity
-6. Inspiration
-7. Generosity
-8. Selflessness
+2. Determination
+3. Integrity
+4. Selflessness
 
 
 ## Trial of Courage
@@ -27,144 +24,11 @@ Boss: Titan Knight Ichta
 ### Boon: Mark of Courage
 Once per day, speak a word of resolve. You gain 15 temporary hit points that last for the next 10 minutes, during which time you are immune to being frightened.
 
-### Room 4
-
-### Room 26
-
-### Room 36
-
-### Room 35
-
-### Room 35
-
-### Room 3
-
-### Room 12
-
-### Room 11
-
-### Room 31
-
-### Room 22
-
-### Room 16
-
-### Room 7
-
-
-## Trial of Conviction
-Boss: Titan Knight Yahze
-
-### Boon: Mark of Conviction
-Once per day, you may resist a charm or effect that would cause you to behave unwillingly.
-
-### Room 10
-
-### Room 17
-
-### Room 2
-
-### Room 24
-
-### Room 19
-
-### Room 14
-
-### Room 34
-
-### Room 32
-
-### Room 20
-
-### Room 13
-
-### Room 33
-
-### Room 23
-
-### Room 1
-
-
-## Trial of Honesty
-Boss: Titan Knight Vuta
-
-### Boon: Mark of Honesty
-Once per day, you may speak a true phrase and everyone who hears it believes it.
-
-### Room 6
-
-### Room 30
-
-### Room 28
-
-### Room 18
-
-### Room 9
-
-
 ## Trial of Integrity
-Boss: Titan Knight Hita
+Boss: Titan Knight Rathmuth, cloaked sage
 
 ### Boon: Mark of integrity
 Once per day, you may perform a morally good act and speak it to regain 5 stamina dice.
-
-### Room 1
-
-### Room 8
-
-### Room 19
-
-### Room 31
-
-### Room 15
-
-### Room 32
-
-### Room 18
-
-### Room 16
-
-### Room 20
-
-### Room 2
-
-### Room 7
-
-
-## Trial of Inspiration
-Boss: Titan Knight Lakito
-
-### Boon: Mark of Inspiration
-Once per day, you may speak a word of encouragement and rally your allies, granting them 10 temporary HP for the next hour.
-
-### Room 23
-
-### Room 10
-
-### Room 29
-
-### Room 27
-
-### Room 12
-
-### Room 25
-
-
-## Trial of Generosity
-Boss: Titan Knight Turukan
-
-### Boon: Mark of Generosity
-Once a day you may touch a pile of gold coins resting on another creature and speak the coarse titan phrase GHITARA to activate this ability. The coins vanish, healing the other creature 1HP per coin. If there were at least 100 coins, the creature is cured of any physical ailments. With 250 coins, an elderly creature is returned to youthful age. With 1000 coins, a corpse is raised from the dead.
-
-### Room 24
-
-### Room 28
-
-### Room 9
-
-### Room 30
-
-### Room 11
 
 ## Trial of Selflessness
 Boss: Titan Knight Hanesh wielding noose and axe
@@ -186,17 +50,6 @@ Boss: Titan Knight Kevi
 
 ### Boon: Mark of Determination
 Once per day, when you die, your corpse speaks a word of determination and you return from the dead. This effect regrows limbs and vital organs as well as purges poisons from the body.
-
-### Room 21
-
-### Room 15
-
-### Room 29
-
-### Room 5
-
-### Room 27
-
 
 ## King Yevor
 

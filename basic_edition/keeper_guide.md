@@ -234,7 +234,7 @@ Roll 1d10+90
 11. Dominate beast: You dominate the mind of one beast you can see. It is obedient to you for 1 minute.
 12. Regrowth: You restore plant life to a 1 mile radius around you
 13. Spiritual weapon: Glowing weapon flies up to 6 paces and attacks with free object interaction. It remains until you take damage. +5 2d6+2
-14. Holy Flame: Melee spell attack. Target is wreathed in radiant flames. 4d6 damage
+14. Holy Flame: Melee spell attack. Target is wreathed in radiant flames. May use as torch for up to 1 hour. 3d6 damage
 15. Guiding bolt: Ranged spell attack. Target takes 3d6 damage, and next attack has a +5 to hit until the end of this combat.
 16. Halo: Halo appears and erupts on your head. All creatures within 3 paces make DEX save to halve 2d6 damage. 
 17. Aid: Target's HP and max HP raises by 5 until they complete a rest.
@@ -321,8 +321,18 @@ Roll 1d10+90
 98. Meteorite: You call upon a celestial body to strike a position that you can see. 3 days later a falling star lands on that point, creating a 1 mile radius crater. You may cancel this spell within the first two days.
 99. Life drain: A creature you can see must succeed a WIS save or they age by 10 years, and you gain the youth they lost.
 100. Resurrection: One creature you see that is dead wakes up, alive. If it is a skeleton, it's flesh regenerates.
-
+101. Truth: You touch a creature. For the next hour, it can only speak the truth to the best of it's ability.
+102. Angelic form: For the next minute, you become an angel. Your melee attacks deal 3d6 damage, your maximum hit points temporarily doubles, and you can fly.
+103. Sacred site: You crush a gem worth at least 1000GP and create a 1-mile-radius sphere of protection. Demons, undead, and devils cannot enter this sphere. The sphere lasta 100 years.
+104. Water walk: You may walk accross water, acid, lava, and other liquids without sinking in nor getting close enough to be damaged by it for the next hour.
 ## Magic Items
+105. Revivify: You destroy a gem worth 100GP and one creature of your choice that has died within the last minute awakens with one hit point.
+106. Aura of life: Now, and for the next 10 minute, friendly creatures within 10 feet of you restore 1d4 hit points.
+107. Judgement: You may use your free action to name a unique rule your target has broken from your code. The first violation deals 2d6 damage, the second 4d6, and so on. If you name a rule the target hasn't broken, the spell ends.
+108. Banish fiend: You target one demon or devil, and they must succeed a WIS save or be sent back to the nine Hells.
+109. Protection from evil: You have a +5 bonus to AC and on saving throws against undead, demons, and devils for the next hour.
+110. Holy weapon: You touch one weapon and it becomes a +3 weapon for the next 8 hours.
+111. Angelic form: For the next minute, you become an angel. Your melee attacks deal 3d6 damage, your maximum hit points temporarily doubles, and you can fly.
 
 ### Weapons
 1. Flame tongue: Flaming sword that deals 2d8 damage and ignites objects it touches.
