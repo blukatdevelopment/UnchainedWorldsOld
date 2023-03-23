@@ -156,8 +156,6 @@ You have the uncanny ability to deliver speak to the beats of a metronome. You h
 ![Soots](https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/culture_soots.jpg "Soots")
 The folk that first emerged from shifts in titan mines quickly took on this name due to the pitch black coal dust clinging to their forms. Their role remains preserved after the empire's collapse. If there is a dirty industrial job, it will often be done by one or more soots. It's hard work, and the pay is not the best, but you gotta do what you gotta do. Soots are seen as expendable, and often first in line for conscription due to the already short lives afforded by proximity to smoke, coal, and oil.
 
-Common phrases in Soot speech include "scraggy"/"gritty"/"dirt behind the ears" to denote fellow soots, "dregs-chugging"/"open palmed"/"field fodder"/"sticky fingered"/"loose mouthed" to mock people of lower status, and "shiny-pants"/"rust mouth"/"gold brick"/"gearhead"/"bright buttons" to mock people of higher status.
-
 ### Apprenticeship
 During your childhood you worked as an apprentice to help pay the bills. You are proficient in one tool of your choice.
 
@@ -196,7 +194,7 @@ Farmers, foresters, and fishermen bear this name. It is a simple life, but often
 
 Large and huge folk play a specific role in Field Folk cultures. Capable of pulling plows, of lifting timbers directly, and performing other miracles that a team would otherwise be needed for, larger folk also act as defenders for many Field Folk communities. At summer solstice, Field Folk often spend the day celebrating their community's giants by baking confections and singing.
 
-Common phrases field folk use are "how green of you!" to compliment kindness, "rowwed up all neat" to compliment appearance, "if that isn't the ripest thing I've ever heard" incredulity at unkindness. Many words are shortened, such as "ain't" for are not, "posed" for supposed, "speckin" for expecting, among others.
+Common phrases field folk use are "how green of you!" to compliment kindness, "rowwed up all neat" to compliment appearance, "if that isn't the ripest thing I've ever heard" incredulity at unkindness.
 
 ### Strong back (requires 13 STR)
 You can carry 20 extra pounds of carry weight before you are overencumbered.
