@@ -30,11 +30,12 @@
 - D20: 
 
 ## Large dungeons
-- A01: 
-- B01: 
+- A01: Ice Dungeon
+- A02: Missile Silo
+- B02: Titan King Yevor's Wandering Temple
+- B01: Flame tiger & Ice Lion
 - C01: Monolith
-- A02: 
-- B02: 
+
 
 ## Megadungeon
 - E01: Inverted Spire under Korsarus Arena

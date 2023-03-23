@@ -382,7 +382,7 @@ Each ring has a particular ability. A wearer that attunes to it will have a +2 b
 Each ring has a particular ability. A wearer that attunes to it will have a +3 bonus to that ability score. Wearing the ring cannot raise an ability score past 20.
 
 ### Ring of ghostly breath
-When attuned to this ring, the wearer's breath will become visible when within 300 feet of an undead.
+When attuned to this ring, the wearer's breath will become visible when within 300 feet of undead creatures.
 
 ### Ring of Disguise
 When attuned to this ring, the wearer may cast disguise self at will.
@@ -977,6 +977,25 @@ This cloak features many small pockets. When the wearer speaks a command word, t
 
 ## Legendary Items
 These items are more mechanically complex than most other magic items and may have world-altering consequences.
+
+### Armor of Yevor 
++3 blacksteel full plate
+Worn by titan knights of Yevor. The armor feels hot to the touch to anyone who is not wearing a mark of Yevor, burning them with radiant energy. The wearer may use their bonus action to consume one or more stamina dice and shout in coarse titan, projecting the shout in a 15ft cone. The wearer makes a CHA check which serves as DC of a STR save for all creatures in the cone to avoid being pushed 10ft. For each stamina die other than the first, their CHA check gains a +1 bonus, and targets that fail are pushed an additional 10ft. A wearer bearing all 8 marks unlocks the armor's true power.
+
+
+With all 8 marks, the wearer gains a fly speed of 60ft and may expend one or more stamina dice, roll them, and gain that much temporary HP.
+
+### Sword of Yevor
++3 blacksteel greatsword
+Wielded by titan knights of Yevor. This sword feels hot to the touch to anyone who is not wielding a mark of yevor, burning them with radiant energy. The wearer may use their bonus action to consume five stamina dice in order to cast the fireball spell. With all 8 marks, the wearer unlocks the blade's true power.
+
+With all 8 marks, the cost of casting fireball with this sword is reduced to one stamina die.
+
+### Maskar Armor
++1 platemail
+Originating from Maskar, the first human to slay a dragon. The armor bares the jade color of the banner of Maskar's dragon lord, Evibaran, who was slain. Evibaran cursed Maskar with his dying breath, causing the warrior to cry tears of blood. When Maskar died, he trapped his soul and the curse in the armor. The visor of it's helm remains wet with fresh blood that reappears if wiped away.
+
+The wearer sees a red aura around any creature within 30ft that has blood. The auras prevent the wearer from seeing faces within that range, but creatures are otherwise normally visible.
 
 ### Greatsword of Wrath
 This greatsword's powers change as it's bond grows with one individual.

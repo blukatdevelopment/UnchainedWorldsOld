@@ -191,6 +191,7 @@ You didn't get where you are by paying full price. The first charisma check you 
 It's hard for others to know what you have and haven't experienced. When you tell a tall tale, you get advantage on any deceptive charisma check.
 
 ## 6 Field Folk
+![Gold robes](https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/culture_field_folk.jpg "Field Folk")
 Farmers, foresters, and fishermen bear this name. It is a simple life, but often a rewarding one.
 
 Large and huge folk play a specific role in Field Folk cultures. Capable of pulling plows, of lifting timbers directly, and performing other miracles that a team would otherwise be needed for, larger folk also act as defenders for many Field Folk communities. At summer solstice, Field Folk often spend the day celebrating their community's giants by baking confections and singing.
@@ -216,6 +217,7 @@ Even if it's not your job, you've spent a lot of time near livestock. You have a
 You have advantage on charisma checks if they rely on you telling stories, true or otherwise.
 
 ## 7 Deep folk
+![Gold robes](https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/culture_deep_folk.jpg "Deep Folk")
 The residents of the caves and mines that honeycomb many regions, most deep folk never venture into the sunlight more than once or twice in their life. Subsisting on farming fungi and hunting underground monsters, the deep folk are often proud warriors. 
 
 Deep folk warrens have acted as spaces of refuge over the years. Many soots found their way into deep folk warrens when the boom and bust left them jobless, or when industrial accidents left entire families of orphans. The tradition of soots visiting warrens to check on rehomed friends and loved ones has resulted in the singular channel of trade that the communities are familiar with, often exporting fungi and monster parts.
