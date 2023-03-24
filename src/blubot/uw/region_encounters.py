@@ -364,29 +364,21 @@ def get_scars_encounter(hex_obj):
     d4 = random.randint(1, 4)
     roll = random.randint(1, 6) + random.randint(1, 6)
     encounter = ""
-    match roll:
-        case 2:
-            encounter = "Great sand worm Volheis"
-        case 3:
-            encounter = "Sand pirates piloting three-story hovering wind ship"
-        case 4:
-            encounter = f"{d4} sand guardians" 
-        case 5:
-            encounter = f"Pit Fisher"
-        case 6:
-            encounter = "Only the blowing sands accompany you on your journey."
-        case 7:
-            encounter = "Only the blowing sands accompany you on your journey."
-        case 8:
-            encounter = "Only the blowing sands accompany you on your journey."
-        case 9:
-            encounter = "Lost wanderer " + random.choice(["child", "trader", "tiger cultist", "sentinel", "silent"])
-        case 10:
-            encounter = "Wandering oasis. Water source."
-        case 11:
-            encounter = "Group of dying travelers: " + random.choice(["omarian scouts", "dwarf giants", "smugglers", "rebels", "traders"])
-        case 12:
-            encounter = "King Yevor's Wandering Temple"
+    roll_map = {
+        2: "Great sand worm Volheis"
+        3: "Sand pirates piloting three-story hovering wind ship",
+        4: f"{d4} sand guardians" ,
+        5: f"Pit Fisher",
+        6: "Only the blowing sands accompany you on your journey.",
+        7: "Only the blowing sands accompany you on your journey.",
+        8: "Only the blowing sands accompany you on your journey.",
+        9: "Lost wanderer " + random.choice(["child", "trader", "tiger cultist", "sentinel", "silent"]),
+        10: "Wandering oasis. Water source.",
+        11: "Group of dying travelers: " + random.choice(["omarian scouts", "dwarf giants", "smugglers", "rebels", "traders"]),
+        12: "King Yevor's Wandering Temple" 
+    }
+    encounter = roll_map[roll]
+        
     encounter = "**Encounter:** " + encounter
     perception_dc = random.randint(1, 10) + random.randint(1, 10) + 2
     stealth_dc = random.randint(1, 10) + random.randint(1, 10) + random.randint(1, 10) + 2

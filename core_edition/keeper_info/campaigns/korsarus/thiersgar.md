@@ -65,7 +65,7 @@ Magically cooled structure filled with mountain ice
 - Cousinletter(he/him, human)
 - Triprevolution(she/her, human)
 
-## The 
+## The Drunk Bumble
 - Bagpipe music, lots of mead
 
 - Awarenessselfish(he/him, mink folk)

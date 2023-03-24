@@ -1,10 +1,22 @@
 # Bunker town
 Bunker town consists of a metal disk with a 20ft diameter blacksteel door leading inside a maze of underground tunnels. Most people down here are armed with a blaster and a titan jumpsuit.
 
+## Purple shield
+If one approaches the shield, sentinels will approach them and ask questions before letting them in. They may requst food or headscratches.
+
 ## Directory
+There's a chalk map of the bunker city with labeled locations.
 - Silent Salon
 - Hospitality Chambers
 - General Store
+- Botany Bay
+- Security
+- Clone vats
+- Engineering
+- Executive suite
+- Waterworks
+- Surgical Bay
+- Hangar
 
 ## Silent Salon
 - Secret silent order base

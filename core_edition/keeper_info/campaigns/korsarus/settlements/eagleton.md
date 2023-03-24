@@ -28,6 +28,7 @@ Lost Tech: 1
 - Nihkahgihnoogih(she/her, cheetah folk)
 
 ## Shrine to Coenta
+- Statue of Coenta dancing
 - Revelation(she/her, human)(Diviner)
 
 ## Open Market

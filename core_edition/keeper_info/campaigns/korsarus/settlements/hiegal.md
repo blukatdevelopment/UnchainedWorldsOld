@@ -32,6 +32,7 @@ Lost Tech: 1
 - Pursestone(he/him, human)(Rebel) - Informant
 
 ## Shrine of Bimros
+- Statue of the monolith with the 14 laws
 - Flice Rintree(she/her, human)(Warrior)
 - Honesty(he/him, human)(Diviner)
 - Lipdevice(she/her, human)

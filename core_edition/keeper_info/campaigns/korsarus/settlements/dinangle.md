@@ -1,5 +1,5 @@
 # Dinangle
-Built within the sentinel forest, guarded by sentinels.
+Built within the sentinel forest in a Titan fortress, guarded by sentinels. The underground fortreess has hot and cold running water, plumbing, and heating.
 
 ```
 {

@@ -38,6 +38,7 @@ Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md ar
 - Kesniv Hammerbright(she/her, human)
 
 ## Shrine of Gidur
+- Statue of Gidur raising a sapling.
 - Providence(she/her, human)(Diviner)
 - Seveprof Spidal(he/him, human)
 - exammerry(he/him, human)

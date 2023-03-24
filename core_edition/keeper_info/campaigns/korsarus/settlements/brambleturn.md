@@ -27,11 +27,11 @@ Divided between two draconic armies of humans from the dragon age. It's not unde
 
 ## Open Market
 Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md are visiting.
--Fisfa Anvilquench(he/him, human)
--Waywhis Ringhammer(she/her, human)
--Gaytoonaygee(he/him, crow folk)
--Tohgaykoh(he/him, buffalo folk)
--Hihgaykih(he/him, lion folk)
+- Fisfa Anvilquench(he/him, human)
+- Waywhis Ringhammer(she/her, human)
+- Gaytoonaygee(he/him, crow folk)
+- Tohgaykoh(he/him, buffalo folk)
+- Hihgaykih(he/him, lion folk)
 
 ## Cobbler
 - Bubtef Gildcoke(he/him, human)

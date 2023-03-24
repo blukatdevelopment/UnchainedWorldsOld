@@ -22,6 +22,7 @@ Lost Tech: 1
 - Groklur(she/her, giant folk)
 
 ## Shrine of Gidur
+- Statue of Gidur petting a doe and fawn
 - Glory(she/her, human)
 - Shamefulvivacious(he/him, human)
 - Vaodaibaotchuh(he/him, human, silent scribe)

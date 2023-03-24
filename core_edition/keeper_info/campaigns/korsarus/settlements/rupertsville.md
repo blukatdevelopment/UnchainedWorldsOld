@@ -37,6 +37,7 @@ Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md ar
 - Nother Senory(she/her, human)
 
 ## Shrine of Bimros (secretly of Docla)
+- A skeletal man(bimros) holding an arrow
 - Appease the starvation devil by fasting every Coinday(she/her, human)
 Compassion(she/her, human)(secretly Forratra)
 

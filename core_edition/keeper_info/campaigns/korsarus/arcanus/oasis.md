@@ -35,6 +35,3 @@
 - Tcheemihgayvuh(he/him, human, silent)
 - Peeshahjootchao(she/her, possum folk, silent)
 - Waigeozahjai(he/him, human, silent)
-
-
-

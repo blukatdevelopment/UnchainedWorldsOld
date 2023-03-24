@@ -36,6 +36,7 @@ Dopablores(he/him, giant folk)
 - Kiqu Enjasp(he/him, human)(Rebel) - Smuggler
 
 ## Shrine Kord
+- Ever ice statue of Kord holding a trident
 - Salvation(he/him, human)
 - Fatua Temight(he/him, human)
 

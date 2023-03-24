@@ -12,6 +12,7 @@
 - The ruined city was once named Thahkaowahdah
 - The monolith is a trial for godhood
 - The Titan King Yevor's tomb is impossible to find
+- The four trials are courage, integrity, determination, and selflessness
 
 ### Residents
 - Tuhchaizaikay(she/her, human, psion)
@@ -27,7 +28,7 @@
 - Joosaicheurai(he/him, beaver folk)
 
 ## Monolith
-- This blacksteel structure
+- Blacksteel structure
 - 1000ft tall
 
 ### Entrance

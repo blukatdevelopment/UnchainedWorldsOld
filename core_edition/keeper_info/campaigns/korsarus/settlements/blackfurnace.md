@@ -25,37 +25,38 @@ Lost Tech: 3
 ```
 
 ## Giant Defender
-Reattablu(she/her, giant folk)
+- Reattablu(she/her, giant folk)
 
 ## Shrine of Uaos
-Felicity(she/her, brown bear folk)
-Colnt Rywhist(they/them, human)
+- Statue of bull-headed creature protecting brandishing an axe
+- Felicity(she/her, brown bear folk)
+- Colnt Rywhist(they/them, human)
 
 ## Beekeepers
-Hahnayleetay(he/him, lion folk)
-Naygaylahhihnoo(she/her, panda folk)
-Hohhookay(he/him, wombat folk)
+- Hahnayleetay(he/him, lion folk)
+- Naygaylahhihnoo(she/her, panda folk)
+- Hohhookay(he/him, wombat folk)
 
 ## Bakery
-Hihhaytootaytah(she/her, snowleopard folk)
-Lahtahnihkaykoo(he/him, pheasant folk)
-Heetaytay(he/him, rat folk)
+- Hihhaytootaytah(she/her, snowleopard folk)
+- Lahtahnihkaykoo(he/him, pheasant folk)
+- Heetaytay(he/him, rat folk)
 
 ## Stables
-Tayhihnay(she/her, warthog folk)
-Nooheekahhah(he/him, fennec fox folk)
-Nahgihlohhihlay(she/her, skunk folk)
+- Tayhihnay(she/her, warthog folk)
+- Nooheekahhah(he/him, fennec fox folk)
+- Nahgihlohhihlay(she/her, skunk folk)
 
 ## Butcher
-Lahnohnoh(she/her, warthog folk)
-Gohnohnoo(he/him, warthog folk)
-Kahnahhee(he/him, raccoon dog folk)
+- Lahnohnoh(she/her, warthog folk)
+- Gohnohnoo(he/him, warthog folk)
+- Kahnahhee(he/him, raccoon dog folk)
 
 ## The Courageous Eelchicken Inn
-Nohnohkeekihkih(he/him, mink folk)(Warrior)
-Tayneenaylah(she/her, skunk folk)
-Slickslack, the chicken eel
-Assignmenthurtful
+- Nohnohkeekihkih(he/him, mink folk)(Warrior)
+- Tayneenaylah(she/her, skunk folk)
+- Slickslack, the chicken eel
+- Assignmenthurtful
 - Waopoovaoguh(she/her, human, silent knight, blue blade)
 
 ### Standard Room (5sp, 5 amenities)
@@ -68,16 +69,16 @@ Assignmenthurtful
 - Steam, hot stone, herbal soak, massage from Gentle Waves Spa(Spa treatment)(Medical attention)
 
 ## School
-Tohlaygah(she/her, mink folk)
-Neehaynah(she/her, shrew folk)
+- Tohlaygah(she/her, mink folk)
+- Neehaynah(she/her, shrew folk)
 
 ## Apothecary
-Nohlohtihnah(she/her, turkey folk)
-Gihgaytihkeenih(she/her, cat folk)
-Koohaynahhohhoo(he/him, cow folk)
-Lookeeneeheetoo(he/him, snowleopard folk)(Alchemist)
+- Nohlohtihnah(she/her, turkey folk)
+- Gihgaytihkeenih(she/her, cat folk)
+- Koohaynahhohhoo(he/him, cow folk)
+- Lookeeneeheetoo(he/him, snowleopard folk)(Alchemist)
 
 ## Gentle Waves Spa
-Hohhihgee(she/her, bull folk)
-Hoohohtihnohgoo(he/him, chicken folk)
-Kahnooneegohloh(he/him, rabbit folk)
+- Hohhihgee(she/her, bull folk)
+- Hoohohtihnohgoo(he/him, chicken folk)
+- Kahnooneegohloh(he/him, rabbit folk)

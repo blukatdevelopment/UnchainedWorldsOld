@@ -20,7 +20,6 @@ In control of Korsarus City, Thiersgar, and the constellation of villages immedi
 - Prince: Sicrod
 - Princess: Dreflond
 - Merchant Guildmaster: Dorispro Figred
-- Mage Guildmaster: Specaswaff
 - Mercenary Guildmaster: Swosell
 - General Of Defense: Shirmord
 - General of Offense: Tamater
@@ -124,6 +123,7 @@ A group that gathered under the lawful evil pursuit of violence for it's own sak
 
 ## Mages Guild
 Centered in the university within the Golden Core of Korsarus City, the mages guild governs the use of magic in the region, and is responsible for the reputation of magic users. They do not get along with diviners and other non-arcane magic users.
+- Mage Guildmaster: Specaswaff
 
 ## Giant Horde
 King Kurfigar and a mass of other giants have settled the area known as the Giant's playground, crushing towns in the process. They kill most humans on sight, but have more patience with beast folk and other giants.

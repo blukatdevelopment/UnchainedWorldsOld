@@ -23,6 +23,7 @@ Lost Tech: 1
 - Garatos(she/her, giant folk)
 
 ## Shrine of Kord
+- Ever ice statue of Kord felling a tree
 - Serenity(she/her, human)
 - Messimmense(she/her, human)
 - Smoothloving(she/her, human)

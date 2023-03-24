@@ -117,7 +117,7 @@ These four communities are arranged in a square, with a marketplace between them
 - Hahnooteetihlee(he/him, pheasant folk)
 - Hohlootee(she/her, lizard folk)
 
-## Corruption catacombs
+## The Pit
 - Entrance into tunnels
 - Deepfolk community
 - Population of about 300

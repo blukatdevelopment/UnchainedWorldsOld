@@ -27,6 +27,7 @@ Lost Tech: 1
 - Perkyhideous(he/him, human)
 
 ## Shrine of Exheia
+- A glass-windowed box containing children's books
 - Truth(Diviner)
 - Scarcedifference(she/her, human)
 - Signaturedisease(he/him, human)

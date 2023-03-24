@@ -66,6 +66,7 @@ On display in coat of arms, but not for sale:
 - Herbal soak (2sp, 1 amenity)
 
 ## Temple of Uaos
+- Statue of bull-headed figure with an axe
 - Tihtahgay(she/her, warthog folk)(way of the fist Monk)
 - Kahkohheekoh(she/her, giraffe folk)
 - Neenoohih(she/her, bull folk)
