@@ -365,9 +365,9 @@ def get_scars_encounter(hex_obj):
     roll = random.randint(1, 6) + random.randint(1, 6)
     encounter = ""
     roll_map = {
-        2: "Great sand worm Volheis"
+        2: "Great sand worm Volheis",
         3: "Sand pirates piloting three-story hovering wind ship",
-        4: f"{d4} sand guardians" ,
+        4: f"{d4} sand guardians",
         5: f"Pit Fisher",
         6: "Only the blowing sands accompany you on your journey.",
         7: "Only the blowing sands accompany you on your journey.",
