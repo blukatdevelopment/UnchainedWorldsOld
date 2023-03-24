@@ -343,7 +343,7 @@ def get_day_events(month, day):
     return events
 
 def populate_calendar(db):
-    print("Populating calendar")
+    #print("Populating calendar")
     db.clear_entire_calendar()
     set_world_status(db)
     year = 114
@@ -352,9 +352,9 @@ def populate_calendar(db):
     for i in range(3360):
         day_data = generate_random_calendar_day_data(month, day)
         db.insert_calendar_day_data(year, month, day, json.dumps(day_data))
-        print(f"Date {year}/{month}/{day}")
+        #print(f"Date {year}/{month}/{day}")
         (year, month, day) = next_date(year, month, day)
-    print("Calendar population complete")
+    #print("Calendar population complete")
 
 def set_world_date(db, world_date):
     return set_world_status(db, world_date)
@@ -419,7 +419,7 @@ def get_next_week_of_data(db, date):
     return week
 
 def get_weather_description(day_data, date):
-    print(f"day_data {day_data}")
+    #print(f"day_data {day_data}")
     month = date[MONTH]
     season = SEASON_MAP[month]
     wind = day_data[WIND]

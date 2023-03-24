@@ -23,6 +23,7 @@ VISION = "vision"
 CONDITIONS = "conditions"
 UNUSED = "unused"
 IMAGE = "image"
+FEATS = "feats"
 
 # Abilities
 ABILITIES = "abilities"
@@ -96,7 +97,7 @@ TO_HIT = "to hit"
 DAMAGE = "damage"
 DAMAGE_TYPE = "damage type"
 
-REQUIRED_FIELDS = [NAME, XP, HP, AC, CLASS, SIZE, CULTURE, SPEED, STAMINA_DICE, ARMOR_PROF, WEAPON_PROF, TOOL_PROF, LANGUAGES, PROF_BONUS, ABILITIES, SKILLS, INVENTORY, ATTACKS, SAVING_THROWS]
+REQUIRED_FIELDS = [NAME, XP, HP, AC, CLASS, SIZE, CULTURE, SPEED, STAMINA_DICE, ARMOR_PROF, WEAPON_PROF, TOOL_PROF, LANGUAGES, PROF_BONUS, ABILITIES, SKILLS, INVENTORY, ATTACKS, SAVING_THROWS, FEATS]
 
 def parse_character(raw_json):
     errors = []
@@ -120,21 +121,36 @@ def parse_character(raw_json):
 
 def load_active_character(db, user_id):
     raw_json = db.get_active_character(user_id)
-    if raw_json is None:
+    if raw_json == None:
         return None
     return parse_character(raw_json)
 
 def load_active_status(db, user_id, character):
     raw_json = db.get_active_character_status(user_id)
-    if raw_json is None or raw_json == "":
+    if raw_json == None or raw_json == "":
         return init_status(character)
-    return json.loads(raw_json)
+    status = json.loads(raw_json)
+    status[HP] = coerce_to_int(status[HP])
+    status[THP] = coerce_to_int(status[THP])
+    status[STAMINA_DICE] = coerce_to_int(status[STAMINA_DICE])
+    return status
+
+def coerce_to_int(field):
+    if field == '' or field == None:
+        return 0
+    if isinstance(field, int):
+        return field
+    if field.isdigit():
+        return int(field)
+    return 0
 
 def init_status(character):
+
+
     status = {
-        HP: character[HP],
+        HP: coerce_to_int(character[HP]),
         THP: 0,
-        STAMINA_DICE: character[STAMINA_DICE]
+        STAMINA_DICE: coerce_to_int(character[STAMINA_DICE])
     }
     return status
 
@@ -165,14 +181,15 @@ def use_attack(character, attack_name):
     for current_attack in character[ATTACKS]:
         if current_attack[ATTACK_NAME].lower() == attack_name:
             attack = current_attack
-    if attack is None:
-        return f'No such attack: {attack_name}. Meow.'
-    to_hit = attack[TO_HIT]
+    
+    if attack == None:
+        return f"No such attack: {attack_name}. Meow."
+    to_hit = int(attack[TO_HIT])
     damage = attack[DAMAGE]
     damage_type = attack[DAMAGE_TYPE]
-    
-    (msg) = roll_attack(attack_name, to_hit, damage, damage_type)
-    return msg
+
+    msg = roll_attack(attack_name, to_hit, damage, damage_type)[0]
+    return f"{character['name']} uses their {attack_name} attack!\n" + msg
 
 def parse_ability(ability):
     if ability.lower() in ABILITIES_LIST:
@@ -184,7 +201,7 @@ def parse_ability(ability):
 def get_ability_modifier(check_type, character):
     if check_type.lower() in ABILITIES_LIST:
         score = get_ability_score(check_type.lower(), character)
-        return get_ability_modifier(score)
+        return get_ability_modifier_from_score(score)
     return 0
 
 def get_skill_info(character):
@@ -202,7 +219,7 @@ def get_save_modifier(ability, character):
     mod = 0
     if ability.lower() in ABILITIES_LIST:
         score = get_ability_score(ability.lower(), character)
-        mod += get_ability_modifier(score)
+        mod += get_ability_modifier_from_score(score)
     for save in character[SAVING_THROWS]:
         if save == ability.lower():
             mod += character[PROF_BONUS]
@@ -221,10 +238,9 @@ def get_ability_score(ability, character):
         return character[ABILITIES][4]
     if ability == CHARISMA:
         return character[ABILITIES][5]
-    print(f"Invalid ability: {ability}")
     return -1
 
-def get_ability_modifier(ability_score):
+def get_ability_modifier_from_score(ability_score):
     if ability_score < 3:
         return -4
     if ability_score < 5:
@@ -270,16 +286,16 @@ def xp_to_level(xp):
 
 def update_hp(ctx, bot, change):
     character = load_active_character(bot.db, ctx.user.id)
-    if character is None:
+    if character == None:
         return f"No Active character selected."
     status = load_active_status(bot.db, ctx.user.id, character)
     if change < 0:
-        status['thp'] += change
-        if status['thp'] < 0:
-            status['hp'] += status['thp']
-            status['thp'] = 0
+        status[THP] += change
+        if status[THP] < 0:
+            status[HP] += status[THP]
+            status[THP] = 0
     else:
-        status['hp'] += change
+        status[HP] += change
 
     save_status(bot.db, ctx.user.id, status)
     msg = f"{character['name']}'s HP "
@@ -289,10 +305,10 @@ def update_hp(ctx, bot, change):
     return msg
 
 def format_status(status, character):
-        msg = f"HP: {status['hp']}/{character['hp']}"
-        if status["thp"] > 0:
-            msg += f"({status['thp']})\n"
+        msg = f"HP: {status[HP]}/{character[HP]}"
+        if status[THP] > 0:
+            msg += f"({coerce_to_int(status[THP])})\n"
         else:
             msg += "\n"
-        msg += f"Stamina Dice: {status['stamina dice']}/{character['stamina dice']}"
+        msg += f"Stamina Dice: {status[STAMINA_DICE]}/{coerce_to_int(character[STAMINA_DICE])}"
         return msg

@@ -102,6 +102,9 @@ The loose coalition of sages, paladins, and diviners that gather to do the will 
 - Want the giant's playground cleared out
 - Want the royal guard replaced by Knights of Solus
 
+### NPCS
+- Constitution of Korsarus City Temple District
+
 ## Privateers Guild
 The organized pirates of the Eastern Sea. The privateers can be contracted as a mercenary navy, escorts, privateers, or merely paid protection money to ensure safe passage. They are responsible for most smuggled goods in the Korsarus region.
 
@@ -127,6 +130,31 @@ Centered in the university within the Golden Core of Korsarus City, the mages gu
 
 ## Giant Horde
 King Kurfigar and a mass of other giants have settled the area known as the Giant's playground, crushing towns in the process. They kill most humans on sight, but have more patience with beast folk and other giants.
+
+## Church of Uaos
+- Felicity of Blackfurnace
+- Neetihlayhaylee of Cloverfield
+- Tihtahgay of Tahhaykoh
+- Tohgahlaygoh of Korsarus City Temple District
+
+## Church of Kord
+- Salvation of Fireshant
+- Serenity of Tinderheart
+- Stainless of Korsarus city Temple district
+
+## Church of Exheia
+- Truth of Ironbend
+- Communication of Korsarus City University Stacks
+- Tcheotchahheejoh of Korsarus City Temple District
+
+## Church of Gidur
+- Providence of Bingle
+- Integrity of Vanderbert
+- Glory of Sevensteel
+- Security of Korsarus City University Archives
+
+## Church of Gegtex
+- Spriflofruth of Korsarus city Temple District
 
 ## Thieves' Guild
 The thieves' guild is home to those stealing for profit, and those who wish to steal from the rich and give to the poor.
@@ -155,3 +183,11 @@ The thieves' guild is home to those stealing for profit, and those who wish to s
 18. Notorious Masked thief: You are well-known by your thief name and your signature mask. You will be consulted for heists. 
 25. Inner circle access: Can speak with higher-ups in thieves' guild. May join another faction to infiltrate it.
 35. Grey fox: May compete for leadership position over thieves' guild. (There is no leader.)
+
+## Arcanus
+## Dinangle
+## Von Otvos
+## North Omaria
+
+## The Red Queen
+- Red

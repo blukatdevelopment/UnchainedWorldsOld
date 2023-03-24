@@ -8,7 +8,7 @@ def check_command(bot, discord):
 
         ability = parse_ability(check_type)
         if ability == '':
-            return await cts.responf(f"{check_type} is not a valid ability")
+            return await ctx.respond(f"{check_type} is not a valid ability")
 
         character = load_active_character(bot.db, ctx.user.id)
         if character is None:

@@ -31,7 +31,7 @@ Lost Tech: 1
 - Hahhihkih(he/him, fennec fox folk)
 
 ## Shrine of Gidur
-- Statue of Gidur holding a basket of corn
+- Statue of Gidur holding a scroll
 - Integrity(she/her, human)
 - Nootaytohkaytoh(he/him, goat folk)
 - Tihjaoveofee(she/her, human, silent scribe)

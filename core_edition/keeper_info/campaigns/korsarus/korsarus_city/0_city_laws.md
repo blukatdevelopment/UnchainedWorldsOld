@@ -18,7 +18,7 @@
 - Theft worth more than 50gp
 - Use of unlawful magic
 
-## Death by hanging
+## Death by Arena
 - Treason or sedition
 - Aiding or abetting rebels
 - Violence against a noble or royal

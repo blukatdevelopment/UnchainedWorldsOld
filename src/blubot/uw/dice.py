@@ -30,8 +30,8 @@ def roll_disadvantage(mod):
     return {"sum": lowest+mod, "roll1": {"sum": roll1, "dropped": not first_chosen}, "roll2": {"sum": roll2, "dropped": first_chosen}, "mod": mod}
 
 def roll_attack(name, to_hit, damage, damage_type):
-    attack1 = roll_normal(0)
-    attack2 = roll_normal(0)
+    attack1 = roll_normal(to_hit)
+    attack2 = roll_normal(to_hit)
     damage1 = roll(damage)
     damage2 = roll(damage)
     to_hit_string = str(to_hit) if to_hit < 0 else "+" + str(to_hit)
