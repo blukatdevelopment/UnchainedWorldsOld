@@ -45,15 +45,15 @@ The rebels are a broad coalition with a militant core of wildfolk who are commit
 - Sign treaty of independence between Omaria nad Nort Eastern Coalition
 
 ### NPCs
-- Korsarus City(G7) Claw Cell: Geelahnoo, Bitalchi, Capumeo
-- Viktor Bay(G8) Cell: Golut Purdo, Piner Stord, Henpeck
-- Fireshant(E7) Cell: Dobur Pabremad, Rego Beskar, Kiqu Enjasp
-- Hiegal(D8) Cell: Barkroot, Pursestone, Redaxe
-- Tahhaykoh(F5)Cell: Lahnohlee, Kaylaygay, Tohgoolihgee
-- Vandenbert(C6) Cell: Leftmule, Bentleaf, Corkhandle
-- Harf(D6) Cell: Letird Giht, Reght Yeldog, Totoh Ousbid
-- Arcanus(M10) Cell: Tayjood, Bahweh, Kuhdoof
-- Shadowvale(M0) Cell: Leafleaf, Neeleekoo, Draconglaw Poisonscale
+- Korsarus City(G7) Claw (Catty) Cell: Geelahnoo, Bitalchi, Capumeo
+- Viktor Bay(G8)(Berry) Cell: Golut Purdo, Piner Stord, Henpeck
+- Fireshant(E7)(Eggy) Cell: Dobur Pabremad, Rego Beskar, Kiqu Enjasp
+- Hiegal(F8)(Doggy) Cell: Barkroot, Pursestone, Redaxe
+- Tahhaykoh(F5)(Hitty)Cell: Lahnohlee, Kaylaygay, Tohgoolihgee
+- Vandenbert(C6)(Gritty) Cell: Leftmule, Bentleaf, Corkhandle
+- Harf(D6)(Figgy) Cell: Letird Giht, Reght Yeldog, Totoh Ousbid
+- Arcanus(M10)(Aunty) Cell: Tayjood, Bahweh, Kuhdoof
+- Shadowvale(M0)(Itty) Cell: Leafleaf, Neeleekoo, Draconglaw Poisonscale
 
 ### Renown Rewards
 1. Ally of the people: Offer membership(+2 renown)

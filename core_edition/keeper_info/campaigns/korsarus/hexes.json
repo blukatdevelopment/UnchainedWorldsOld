@@ -9,7 +9,7 @@
     {
         "name": "A1",
         "Terrain": "Mountain",
-        "1": "D",
+        "1": "Dungeon A01",
         "2": "fey river gate",
         "3": "Imp den"
     },
@@ -37,7 +37,7 @@
     {
         "name": "A5",
         "Terrain": "Hillside",
-        "1": "D",
+        "1": "Dungeon D12",
         "2": "well",
         "3": "Ironbend"
     },
@@ -93,7 +93,7 @@
     {
         "name": "B1",
         "Terrain": "Mountain",
-        "1": "D",
+        "1": "Dungeon B01",
         "2": "stream",
         "3": "Giant Hand den"
     },
@@ -149,7 +149,7 @@
     {
         "name": "B9",
         "Terrain": "Hillside",
-        "1": "D",
+        "1": "Dungeon D17",
         "2": "well",
         "3": "Darsaven"
     },
@@ -170,7 +170,7 @@
     {
         "name": "C0",
         "Terrain": "Mountain",
-        "1": "D",
+        "1": "Dungeon D03",
         "2": "well",
         "3": "Cultists(Any) den"
     },
@@ -268,7 +268,7 @@
     {
         "name": "D2",
         "Terrain": "Hillside",
-        "1": "D",
+        "1": "Dungeon D02",
         "2": "giant leech spawning pool",
         "3": "imp trade shop"
     },
@@ -282,7 +282,7 @@
     {
         "name": "D4",
         "Terrain": "Hillside",
-        "1": "D",
+        "1": "Dungeon D14",
         "2": "well",
         "3": "Sand Guardian den"
     },
@@ -296,7 +296,7 @@
     {
         "name": "D6",
         "Terrain": "Hillside",
-        "1": "D",
+        "1": "Dungeon D04",
         "2": "battlefield of petrified warriors",
         "3": "Harf"
     },
@@ -354,7 +354,7 @@
         "Terrain": "Hillside",
         "1": "wild magic zone",
         "2": "giant leech spawning pool",
-        "3": "Tentacle Beast den"
+        "3": "Log Fort"
     },
     {
         "name": "E3",
@@ -401,7 +401,7 @@
     {
         "name": "E9",
         "Terrain": "Hillside",
-        "1": "D",
+        "1": "Dungeon D13",
         "2": "white water rapids",
         "3": "Eagleton"
     },
@@ -429,7 +429,7 @@
     {
         "name": "F1",
         "Terrain": "Hillside",
-        "1": "D",
+        "1": "Dungeon D07",
         "2": "stream",
         "3": "acid rain zone"
     },
@@ -443,7 +443,7 @@
     {
         "name": "F3",
         "Terrain": "Hillside",
-        "1": "D",
+        "1": "Hermit Hardcider",
         "2": "stream",
         "3": "Stone Scurrier den"
     },
@@ -549,7 +549,7 @@
     {
         "name": "G6",
         "Terrain": "Hillside",
-        "1": "D",
+        "1": "Dungeon D14",
         "2": "wild game forest",
         "3": "Spindle Man den"
     },
@@ -577,7 +577,7 @@
     {
         "name": "G10",
         "Terrain": "Bay",
-        "1": "D",
+        "1": "Dungeon D11",
         "2": "gate to ethereal plane, active at twilight",
         "3": "Invisible Skulker den"
     },
@@ -605,7 +605,7 @@
     {
         "name": "H2",
         "Terrain": "Hillside",
-        "1": "D",
+        "1": "Floating hill held down by vines",
         "2": "hotsprings",
         "3": "always foggy zone"
     },
@@ -619,7 +619,7 @@
     {
         "name": "H4",
         "Terrain": "Hillside",
-        "1": "D",
+        "1": "Dungeon D19",
         "2": "well",
         "3": "pristeen statue of Docla, starvation devil from the Post-Severing"
     },
@@ -675,7 +675,7 @@
     {
         "name": "I0",
         "Terrain": "DarkWoods",
-        "1": "D",
+        "1": "Mass grave with unmarked tomb stones",
         "2": "waterfall",
         "3": "abandoned statue of Korrath, Reaper of War from the Titan Age"
     },
@@ -689,7 +689,7 @@
     {
         "name": "I2",
         "Terrain": "Hillside",
-        "1": "D",
+        "1": "Dungeon D01",
         "2": "creek",
         "3": "well maintained temple of Brenzen, dream devil from the Empire of man"
     },
@@ -717,7 +717,7 @@
     {
         "name": "I6",
         "Terrain": "Hillside",
-        "1": "D",
+        "1": "Dungeon D20",
         "2": "stream",
         "3": "termite mound resembling a(n) heart"
     },
@@ -731,7 +731,7 @@
     {
         "name": "I8",
         "Terrain": "Hillside",
-        "1": "D",
+        "1": "Dungeon D08",
         "2": "waterfall",
         "3": "primordial 14 laws miniature monolith"
     },
@@ -787,7 +787,7 @@
     {
         "name": "J4",
         "Terrain": "Hillside",
-        "1": "D",
+        "1": "pools of acid",
         "2": "wild game forest",
         "3": "half time zone"
     },
@@ -885,7 +885,7 @@
     {
         "name": "K6",
         "Terrain": "Hillside",
-        "1": "D",
+        "1": "Shy Giant hermit Bleborg",
         "2": "geyser",
         "3": "Rupertsville"
     },
@@ -901,7 +901,7 @@
         "Terrain": "Hillside",
         "1": "abandoned shrine of Bimros from the Divine Age",
         "2": "haunted woodlands",
-        "3": "Mantis Man den"
+        "3": "Dungeon D09"
     },
     {
         "name": "K9",
@@ -934,7 +934,7 @@
     {
         "name": "L1",
         "Terrain": "Swamp",
-        "1": "D",
+        "1": "Dungeon D18",
         "2": "swamp water",
         "3": "Hydra den"
     },
@@ -1004,7 +1004,7 @@
     {
         "name": "L11",
         "Terrain": "Desert",
-        "1": "D",
+        "1": "Dungeon D10",
         "2": "pit of corruptive black goo",
         "3": "1000ft monolith broken in half"
     },
@@ -1018,7 +1018,7 @@
     {
         "name": "M1",
         "Terrain": "Swamp",
-        "1": "D",
+        "1": "Dungeon D05",
         "2": "swamp water",
         "3": "always foggy zone"
     },
@@ -1046,7 +1046,7 @@
     {
         "name": "M5",
         "Terrain": "Forest",
-        "1": "abandoned orchard",
+        "1": "Dungeon A02",
         "2": "always foggy zone",
         "3": "brackish pond resembling a(n) plus sign"
     },
@@ -1076,7 +1076,7 @@
         "Terrain": "Desert",
         "1": "stationary corrupted cacti men",
         "2": "series of boulders resembling a(n) frown",
-        "3": "talking statues"
+        "3": "Dungeon D16"
     },
     {
         "name": "M10",
@@ -1088,7 +1088,7 @@
     {
         "name": "M11",
         "Terrain": "Desert",
-        "1": "D",
+        "1": "Empty caves",
         "2": "wax museum ruins",
         "3": "Giant Crab den"
     },
@@ -1102,7 +1102,7 @@
     {
         "name": "N1",
         "Terrain": "Swamp",
-        "1": "D",
+        "1": "Dungeon D06",
         "2": "swamp water",
         "3": "space devoid of plants resembling a(n) plus sign"
     },
@@ -1172,7 +1172,7 @@
     {
         "name": "N11",
         "Terrain": "Desert",
-        "1": "D",
+        "1": "Half-buried airship wreckage",
         "2": "Saber-toothed Tiger den",
         "3": "pristeen altar of Titan King: Yavor from the Titan Age"
     }
