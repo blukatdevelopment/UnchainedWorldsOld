@@ -22,6 +22,9 @@ Lost Tech: 1
 ## Giant Defender(Deceased)
 - Dubigar(she/her, giant folk)
 
+## Viceroy
+- Broadtalk(he/him, human)
+
 ## Herbalist
 - Ilfa Tedbat(she/her, human)
 - gargantuanindividual(she/her, human)
@@ -34,7 +37,6 @@ Lost Tech: 1
 
 ## Cobbler
 - Scrat Rest(she/her, human)
-- Broadtalk(he/him, human)
 - spacedelightful(she/her, human)
 - creativewindow(he/him, human)
 

@@ -15,7 +15,7 @@
 - The four trials are courage, integrity, determination, and selflessness
 
 ### Residents
-- Tuhchaizaikay(she/her, human, psion)
+- Tuhchaizaikay(she/her, human, psion), Cult Leader
 - Kohvihdaokay(she/her, human, psion)
 - Tchahraonaosah(he/him, sheep folk, psion)
 - Feudihpahpeo(he/him, human, psion)

@@ -28,8 +28,10 @@ Lost Tech: 1
 ## Sentinel guards
 Sentinels roam the town and it's perimeter with glowing blue eyes. Intet Siver's entire job is to stand outside to warn visitors to leave their weapons outside of the town.
 
-## The Dapper Onion Tavern
+## Oveerseer's chambers
 - Intet Siver(she/her, human)
+
+## The Dapper Onion Tavern
 - Clentbak Egnal(he/him, human)
 - Peacefularea(she/her, human)
 - Markcandy(she/her, human)

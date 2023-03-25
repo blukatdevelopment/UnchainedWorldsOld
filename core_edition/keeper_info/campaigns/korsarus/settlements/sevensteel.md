@@ -21,6 +21,9 @@ Lost Tech: 1
 ## Giant Defender(Deceased)
 - Groklur(she/her, giant folk)
 
+## Viceroy
+- Grimnorth(she/her, human)
+
 ## Shrine of Gidur
 - Statue of Gidur holding a spy glass
 - Glory(she/her, human)
@@ -35,7 +38,6 @@ Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md ar
 
 ## Herbalist
 - Initat Iveglor(she/her, human)
-- Grimnorth(she/her, human)
 
 ## The Successful Serpent Inn
 - Oussig Bahromur(he/him, human)

@@ -28,6 +28,9 @@ Lost Tech: 1
 ## Giant Defender(Injured)
 - Pruphinforb(she/her, giant folk)
 
+## Viceroy
+- Grae Cotet(he/him, human)
+
 ## Beekeepers
 - Gohgoonohlaynoh(she/her, black bear folk)
 
@@ -39,7 +42,6 @@ Lost Tech: 1
 Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md are visiting.
 - Neelohgah(he/him, wolverine folk)
 - Nookayhoo(he/him, warthog folk)
-- Grae Cotet(he/him, human)
 - Fator Magaty(he/him, human)(Thief)
 - Complicatedbank(he/him, human)
 - Esteemedblank(she/her, human)

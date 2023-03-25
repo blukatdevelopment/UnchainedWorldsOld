@@ -26,6 +26,9 @@ Lost Tech: 1
 - Trustvolume(he/him, human)
 - Perkyhideous(he/him, human)
 
+## Viceroy
+- Trub Leporty(he/him, human)
+
 ## Shrine of Exheia
 - A glass-windowed box containing children's books
 - Truth(Diviner)
@@ -34,7 +37,6 @@ Lost Tech: 1
 - Chehjohpeobeo(he/him, cow folk, silent scribe)
 
 ## Bakery
-- Trub Leporty(he/him, human)
 - Friendshipcheerful(she/her, human)
 
 ### Cheap Room (1sp, 4 amenities)

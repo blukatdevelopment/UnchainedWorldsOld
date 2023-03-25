@@ -23,6 +23,9 @@ Lost Tech: 1
 ## Giant Defender(Deceased)
 - Fludkluese(she/her, giant folk)
 
+## Viceroy
+- Lokil Lantique(he/him, human)
+
 ## Beekeepers
 - Tohkaykee(he/him, black bear folk)
 
@@ -42,11 +45,9 @@ Lost Tech: 1
 - Tookihheetoo(he/him, raccoon dog folk)
 
 ## Tailor
-- Lokil Lantique(he/him, human)
 - Scalymuscle(she/her, human)
 
 ## The Warm Gentlemen Pub
 - Tandim Ensiona(she/her, human)
 - Philosophyjoint(she/her, human)
 - Unsungwinding(she/her, human)
-

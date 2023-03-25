@@ -28,6 +28,9 @@ Lost Tech: 1
 ## Giant Defender(Deceased)
 - krurev(he/him, giant folk)
 
+## Viceroy
+- Gompet Ionrat(he/him, human)
+
 ## Herbalist
 - rickabir(she/her, human)
 - otoh Ousbid(rebel) - Smuggler
@@ -65,7 +68,6 @@ Lost Tech: 1
 
 ## The Grateful Tigers Bathhouse
 - Tihtaykookay(he/him, lion folk)
-- Gompet Ionrat(he/him, human)
 - Reght Yeldog(rebel) - Informant
 
 ## The sanctuary (Spa)

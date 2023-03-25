@@ -24,8 +24,8 @@ Alchemical: 5
 Lost Tech: 1
 ```
 
-## Giant yarn ball
-There's a 20ft tall yarn ball covered in resin to prevent it from rotting away.
+## Viceroy
+- Desertedflaky(he/him, human)
 
 ## Trapper
 - Felin Feck(Warrior)
@@ -50,7 +50,6 @@ Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md ar
 ## Stables
 - Corago Ustance(he/him, human)
 - Kuicyfrigid(he/him, cheetah folk)
-- Desertedflaky(he/him, human)
 - Descriptionmarvelous(she/her, human)
 
 ## The Armed Turtle (pub)

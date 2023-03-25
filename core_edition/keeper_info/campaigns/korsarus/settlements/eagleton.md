@@ -23,6 +23,9 @@ Lost Tech: 1
 ## Giant Defender(Deceased)
 - satisblort(she/her, giant folk)
 
+## Viceroy
+- Dramaticpatience(he/him, human)
+
 ## Bakery
 - Dipled Disip(she/her, human)
 - Nihkahgihnoogih(she/her, cheetah folk)
@@ -38,7 +41,6 @@ Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md ar
 
 ## Blacksmith
 - Camer Fourchizel(she/her, human)
-- Dramaticpatience(he/him, human)
 - Scratchyimmaterial(she/her, human)
 - Exchangeinternal(he/him, lynx folk)
 

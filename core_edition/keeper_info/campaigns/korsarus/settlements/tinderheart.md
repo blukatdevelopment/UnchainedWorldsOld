@@ -29,9 +29,11 @@ Lost Tech: 1
 - Smoothloving(she/her, human)
 - Menuhistory(she/her, squirrel folk)
 
+## Viceroy
+- Coplish Edhig(she/her, human)
+
 ## Bakery
 - Straquan Tyrep(he/him, human)
-- Coplish Edhig(she/her, human)
 - Sprytable(she/her, human)
 
 ## Cobbler

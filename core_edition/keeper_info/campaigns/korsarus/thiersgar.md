@@ -8,10 +8,12 @@ Local guard will question and direct newcomers
 - Ignorantcollection(he/him, human)
 - Comfortweekend(she/her, human)
 
+## Viceroy
+- Sweettough(he/him, human)
+
 ## Smelters
 Converts ores into ingots.
 - Resolvename(she/her, human)
-- Sweettough(he/him, human)
 - Rollgifted(she/her, wombat folk)
 - Harmfulmurky(he/him, human)
 

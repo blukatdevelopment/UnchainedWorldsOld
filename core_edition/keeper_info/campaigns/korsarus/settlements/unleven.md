@@ -24,6 +24,9 @@ Lost Tech: 1
 ## Giant Defender(Deceased)
 - Tubasauklu(he/him, giant folk)
 
+## Viceroy
+- Flaed Coldgold(he/him, human)
+
 ## Bakery
 - Cabet Nexper(she/her, human)
 - Unhealthysurgery(she/her, human)
@@ -39,7 +42,6 @@ Lost Tech: 1
 - Inea Contrich(she/her, human)
 
 ## Blacksmith
-- Flaed Coldgold(he/him, human)
 - Sundbar Rocksalt(she/her, human)
 - Memum Pickstrike(he/him, human)
 

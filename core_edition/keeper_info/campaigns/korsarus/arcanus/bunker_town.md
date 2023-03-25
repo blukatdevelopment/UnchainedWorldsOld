@@ -6,6 +6,7 @@ If one approaches the shield, sentinels will approach them and ask questions bef
 
 ## Directory
 There's a chalk map of the bunker city with labeled locations.
+- Overseer's Chambers
 - Silent Salon
 - Hospitality Chambers
 - General Store
@@ -17,6 +18,9 @@ There's a chalk map of the bunker city with labeled locations.
 - Waterworks
 - Surgical Bay
 - Hangar
+
+## Overseer Geevoh's Chambers
+- Geevohmeuvah(she/her, lion folk)
 
 ## Silent Salon
 - Secret silent order base
@@ -108,7 +112,6 @@ After earning trust, available
 ### Staff
 - Moodahthohfay(he/him, human)
 - Sohthohveulai(he/him, forgeling)
-- Geevohmeuvah(she/her, lion folk)
 
 ## Surgical Bay
 

@@ -19,6 +19,9 @@ Alchemical: 1
 Lost Tech: 1
 ```
 
+## Viceroy
+- Varietyhandsome(he/him, human)
+
 ## Open Market
 Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md are visiting.
 - Itivedear Bonc(she/her, vole folk)
@@ -26,7 +29,6 @@ Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md ar
 - Medicinemassive(she/her, human)
 - Counterfussy(he/him, cheetah folk)
 - Cashexpression(he/him, panda folk)
-- Varietyhandsome(he/him, human)
 
 ## Cobbler
 - Scraypla Scrapestone(she/her, human)

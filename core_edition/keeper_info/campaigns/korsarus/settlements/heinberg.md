@@ -39,9 +39,11 @@ Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md ar
 - Amountdescription(she/her, human)
 
 ## Granary
-- Ragsur Ris(she/her, human)
 - Draftzigzag(he/him, human)
 - Industrycry(he/him, human)
+
+## Viceroy
+- Ragsur Ris(she/her, human)
 
 ## Blacksmith
 - Optimalph Steelcone(he/him, human)

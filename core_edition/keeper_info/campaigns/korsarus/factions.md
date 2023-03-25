@@ -185,9 +185,35 @@ The thieves' guild is home to those stealing for profit, and those who wish to s
 35. Grey fox: May compete for leadership position over thieves' guild. (There is no leader.)
 
 ## Arcanus
+- Geevohmeuvah, Overseer of Bunker City
+- Batchek, Mayor of Junktown
+- Tuhchaizaikay, Leader of the cult of the tiger god
+- Feotchaobaifeh, Water baron  of Oasis
+
 ## Dinangle
+- Overseer Intet Silver 
+
 ## Von Otvos
+- Von Otvos
+
 ## North Omaria
+- Ragsur Ris, viceroy of Heinberg
+- Trub Leporty, viceroy of Ironbend
+- Coplish Edhig, viceroy of Tinderheart
+- Broadtalk, viceroy of Hoaryhog
+- Lokil Lantique, viceroy of Redswell
+- Goperspective, viceroy of Darsaven
+- Flaed Coldgold, viceroy of Unleven
+- Desertedflaky, viceroy of Bingle
+- Varietyhandsome, viceroy of Dullworth
+- Waywhis Ringhammer, viceroy of Brambleturn
+- Grimnorth, viceroy of Sevensteel
+- Gompet Ionrat, viceroy of Harf
+- Catous Blak, viceroy of Vanderbert
+- Grae Cotet, viceroy of Greyfield
+- Dramaticpatience, viceroy of Eagleton
+- Italen Aggressivestrike, viceroy of Hiegal
+- Sweettough, viceroy of Thiersgar
 
 ## The Red Queen
 - Red

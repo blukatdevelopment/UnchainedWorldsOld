@@ -27,6 +27,9 @@ Lost Tech: 1
 ## Giant Defender(Deceased)
 - Batach(he/him, giant folk)
 
+## Viceroy
+- Italen Aggressivestrike(he/him, human)
+
 ## Cobbler
 - Histo Ranfant(she/her, human)
 - Pursestone(he/him, human)(Rebel) - Informant
@@ -59,7 +62,6 @@ Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md ar
 
 ## Workshop
 - Numcap Silvertwang(she/her, human)
-- Italen Aggressivestrike(he/him, human)
 - Chantig Hotmetal(she/her, human)
 
 ## Coach service
