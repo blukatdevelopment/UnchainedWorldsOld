@@ -726,12 +726,11 @@ boils surface, the character must succeed a DC 12 CON save or take 1d4 necrotic
 damage. If the boils are cleansed with a flask of holy water or a DC 17 medicine
 check using an herbalism kit, they are cured.
 
-### Elf's Itch
+### Fey's Itch
 The infected's ears grow inflamed and red, and itch intensely. When not treated
 with a calming salve, the infected has disadvantage on ability checks. The salve
 must be applied every four hours. Every night, the infected may make a DC 16 CON
-save for their immune system to fight off the infection. Elves make this check
-with disadvantage.
+save for their immune system to fight off the infection.
 
 ### Sneeze Itis
 The infected experience a runny nose, nasal congestion, and frequent bouts

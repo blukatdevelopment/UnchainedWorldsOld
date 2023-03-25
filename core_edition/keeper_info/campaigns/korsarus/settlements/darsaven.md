@@ -32,6 +32,9 @@ Lost Tech: 1
 - Grace(she/her, human)(Diviner)
 - Gohgoonohlaynoh(she/her, black bear folk)
 
+## Viceroy's house
+- Goperspective(she/her, human)
+
 ## Bakery
 - Initu Intet(she/her, human)
 - Keekaynihhoonoh(she/her, raven folk)
@@ -54,7 +57,6 @@ Lost Tech: 1
 ## Butcher
 - Contere Vuton(she/her, human)
 - Westimplement(she/her, human)
-- Goperspective(she/her, human)
 
 ## Book Seller
 - Unrit Tenucat(she/her, human)

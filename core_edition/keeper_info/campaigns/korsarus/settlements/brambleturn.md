@@ -25,10 +25,12 @@ Lost Tech: 1
 ## Graveyard
 Divided between two draconic armies of humans from the dragon age. It's not understood who won the battle, or who the two dragon lords involved were.
 
+## Viceroy
+- Waywhis Ringhammer(she/her, human)
+
 ## Open Market
 Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md are visiting.
 - Fisfa Anvilquench(he/him, human)
-- Waywhis Ringhammer(she/her, human)
 - Gaytoonaygee(he/him, crow folk)
 - Tohgaykoh(he/him, buffalo folk)
 - Hihgaykih(he/him, lion folk)

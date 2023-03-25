@@ -26,6 +26,9 @@ Lost Tech: 1
 ## Giant Defender(Deceased)
 - Pigbunt(she/her, giant folk)
 
+## Viceroy
+- Catous Blak(he/him, human)
+
 ## Herbalist 
 - Nootayhoogookih(she/her, mink folk)
 - Hahhihkih(he/him, fennec fox folk)
@@ -62,7 +65,6 @@ Lost Tech: 1
 ## The Queit Fawn Bathhouse
 - Rely Abilit(he/him, human)
 - Natnal Exerse(she/her, human)
-- Catous Blak(he/him, human)
 - Leftmule(she/her, human)(rebel) - Informant
 
 ### Cheap Room (8sp, 6 amenities)

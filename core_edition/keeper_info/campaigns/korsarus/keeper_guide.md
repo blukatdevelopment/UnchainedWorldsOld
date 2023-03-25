@@ -3,6 +3,27 @@ This document contains supplemental info that may be referenced during the campa
 
 # Overland travel
 
+## Procedure
+0. Choose Navigator and Scout(s) who cannot do resource activities
+1. Choose direction and pace
+2. (If not on road/road)Navigator Makes A DC 10 WIS check to not get lost. Lost = roll for direction [North, South, East, West, NorthWest, NorthEast, SouthWest, SouthEast]
+3. Roll for complications if needed
+4. Discover location
+5. Check for random encounter. Scouts roll for distance and stealth if encounter found.
+6. Set up camp and consume food and water
+
+## Misc rules
+- Run out of stamina dice? Roll a travel complication.
+- Eat 1lb food, drink 1 gal water daily
+
+### Travel Complication
+1. DC 3d10 CON save or Disease
+2. DC 2d10 CON save or Disease
+3. Fall unconscious for 4 hours
+4. DC 3d8 DEX save or Injury
+5. DC 2d10 DEX save or Injury
+6. Nothing(Lucky)
+
 ## Movement pace
 
 ### Camp in place
@@ -167,6 +188,14 @@ When a character goes down and would die due to lacking stamina dice, they may i
 4. Lose an eye: -3 WIS
 5. Lose leg: -15ft speed and one arm used by crutch. -5ft instead with prosthetic leg.
 6. No wound. Remain unconscious for 24 hours, can't be awakened by healing.
+
+## Disease table
+1. Bogrot. Max HP drops by 1d4. (Reroll daily, replacing value if lower)
+2. Angry Boils. Boils arise when angered. DC 12 CON save or take 1d4 necrotic damage.
+3. Mouthfoam. Daily DC 15 CON save against progressing levels.(Irritability, Aggressive outbursts, foaming at the mouth, fear of water, loss of memory, feral mental state)
+4. Fey's itch: ears grow inflamed and red. -1 on all checks.
+5. Ink Lung: Cough black ink dust, succeed DC 15 CON save to dash, end turn coughing otherwise.
+6. Chicken Kisser's Lament: Ring of feathers around lips, DC 16 to not retreat from loud noises.
 
 ## Corruption table
 This table's nested. Roll 2d6. The first picks a category, and the second an outcome. Some outcomes have their own rolls as well.
