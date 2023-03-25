@@ -23,7 +23,6 @@ Royal guards will patrol the perimeter stop anyone not affiliated with the Omari
 - 1/6 chance to be training troops
 - Leather armor, dual shortswords
 
-
 ## Riding course
 - Obstacle course for horse riders
 

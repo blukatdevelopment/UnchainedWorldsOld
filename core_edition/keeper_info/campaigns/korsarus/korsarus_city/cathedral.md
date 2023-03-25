@@ -32,6 +32,10 @@ The largest worship site of Bimros in the world.
 - Subterranean grave site
 - Dates back to the divine age
 
+### Defile graves
+- 1d4 chance of summoning angry ghost
+- 1d6 chance of finding item table B
+
 ## Staff cottages
 - Fate(he/him, human), Diviner of Bimros
 - Fortune(he/him, human), Diviner of Bimros

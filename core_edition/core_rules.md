@@ -452,7 +452,7 @@ Adventuring requires a great many things. Here are some of them.
 Fresh rations are generally fresh produce, meat, bread, and similar foods which spoil 7 days after purchase. Iron rations are made of ingredients such as travel bread, fruit preserves, fruit leather, jerky, potted meat, noodles, and pemican. Iron rations are generally shelf stable for multiple months at a time.
 
 #### Healer's Kit
-A kit filled with gauze, scissors, bandages, salves, and other medicinal gear. Has 10 charges. When you use this kit on yourself or another creature, make a medicine check to determine the outcome.
+A kit filled with gauze, scissors, bandages, salves, and other medicinal gear. Has 10 charges. When you use this kit on yourself or another creature, make a wisdom check to determine the outcome.
 
 |     Roll     |          Outcome           |
 |:-------------|:---------------------------|

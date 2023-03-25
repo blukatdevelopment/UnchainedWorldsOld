@@ -56,3 +56,13 @@ A pond with some titan armor and skulls gathered on the small island.
 
 ## Blood field
 Where broomball tournaments take place.
+
+## Dropout Maguses for hire
+1. Pettyhoarse(she/her, human)(Magus, Frostbite, Mending)
+2. Leeteeheetih(he/him, raccoon dog folk)(Magus, Ray of Frost, Mending)
+3. Naynaytoogahgoh(he/him, fennec fox folk)(Magus, Firebolt, Prestidigitation)
+4. Lahkohlohkayhoo(he/him, crow folk)(Magus, Firebolt, Mending)
+5. Limiteddemand(she/her, human)(Magus, Ray of Frost, Mending)
+6. Whoppingdefenseless(she/her, human)(Magus, Ray of Frost, Bonfire)
+7. Writingrush(she/her, weasel folk)(Magus, Mind Sliver, Light)
+8. Surroundsubstance(she/her, buffalo folk)(Magus, Firebolt, Mending)

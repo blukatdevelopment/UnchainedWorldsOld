@@ -148,6 +148,8 @@ Claws: +4 2d4+4 DC 14 CON save or contract malignant lycanthropy
 
 ## Town folk
 
+`Torchbearer, HP: 3(1d4), AC: 10, [12, 12, 10, 10, 10, 10],Unarmed +1 1 bludgeoning`
+
 `Bow Hunter, XP: 25, HP: 12(3d4+3), AC: 13(leather), [14, 14, 12, 12, 12, 12], Short Bow +3 1d6+2, Dagger +3 1d4+2`
 
 `Spear Hunter, XP: 25, HP: 12(3d4+3). AC: 14(leather), [14, 14, 12, 12, 12, 12], Spear +3 1d8+1 piercing, Bola(15ft) +2 target must succeed DC 16 STR or fall prone`

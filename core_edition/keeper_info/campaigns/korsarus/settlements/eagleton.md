@@ -39,6 +39,11 @@ Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md ar
 - Falu Refar(she/her, human)
 - Lohkeegihnoh(she/her, boar folk)
 
+### Hirelings
+- Tahkoogoolay(she/her, vole folk)(pathfinder)
+- Haygahgaytoo(she/her, rabbit folk)(Swordbarer)
+- Neegahnahnahtee(he/him, camel folk)(Swordbarer)
+
 ## Blacksmith
 - Camer Fourchizel(she/her, human)
 - Scratchyimmaterial(she/her, human)

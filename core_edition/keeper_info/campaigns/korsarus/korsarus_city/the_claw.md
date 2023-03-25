@@ -1,8 +1,10 @@
 # The Claw
 
 ## Shrine of Uaos
-Neegohnih(F)(bearfolk)
-Layneenoh(M)(Wolkffolk)
+- Neegohnih(she/her, bearfolk)(Shaman)
+- Layneenoh(he/him, Wolkffolk)(Shaman)
+- Lohhahkih(he/him, buffalo folk)
+- Nohheeloo(he/him, turtle folk)
 
 ## Catnip bar
 Restaraunt selling catnip-infused pastries.
@@ -15,29 +17,32 @@ Menu
 4. Catnip baggie 1gp
 5. Catnip sweetroll 1gp
 ```
-Colrad Ruddud(F)(Catfolk)
-Dokko Granfomp(M)(Catfolk)
-Boap Theem(F)(Catfolk)
-Tookahhihtahtoh(F)(Tigerfolk)
+- Colrad Ruddud(she/her, Catfolk)
+- Dokko Granfomp(he/him, Catfolk)
+- Boap Theem(she/her, Catfolk)
+- Tookahhihtahtoh(she/her, Tigerfolk)
 
 ## Fabulous Bathhouse and Salon
-Specialize in grooming fur.
-Kooteegaykoh(F)(Skunkfolk)
-Lahnihheekoo(N)(Possumfolk)
-Gohkohgoo(M)(Raccoonfolk)
+- Specialize in grooming fur.
+- Kooteegaykoh(she/her, Skunkfolk)
+- Lahnihheekoo(N)(Possumfolk)
+- Gohkohgoo(he/him, Raccoonfolk)
 
 ## School of Flying Claws
 Martial arts academy
-Kihteegeegah(F)(Foxfolk)(Pupil)
-Lahtahkah(M)(Golden retrieverfolk)(Pupil)
-Gihgahnih(N)(Mousefolk)(Pupil)
-Hootahgoo(M)(Horsefolk)(Pupil)
-Lihlihkihnahkoh(M)(Fennec foxfolk)(Way of fist Monk)
+- Lihlihkihnahkoh(he/him, Fennec foxfolk)(Way of fist Monk)
+- Kihteegeegah(she/her, Foxfolk)(Pupil)
+- Lahtahkah(he/him, Golden retrieverfolk)(Pupil)
+- Gihgahnih(N)(Mousefolk)(Pupil)
+- Hootahgoo(he/him, Horsefolk)(Pupil)
 
 ## Claw Outfitters
-Lahtahkah(M)(otterfolk)
-Gihgahnih(F)(minkfolk)
-Hootahgoo(M)(crowfolk)
+- Lahtahkah(he/him, otterfolk)
+- Gihgahnih(she/her, minkfolk)
+- Hootahgoo(he/him, crowfolk)
 
 ## Fight Street
 This corner allows people to gather and gamble on street fights. Weapons and magic are banned. Non-lethal only.
+- Supervisor Hihhohtihgee(she/her, pheasant folk)
+- Supervisor Gohtihnahlay(he/him, warthog folk)
+- Supervisor Neelohkaylohlih(she/her, warthog folk)

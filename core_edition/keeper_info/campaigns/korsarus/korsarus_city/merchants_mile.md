@@ -16,7 +16,7 @@ Roll a 1d6
 1-3: Nothing
 4: Magic item table A for sale in current/next shop
 5: Pickpocket
-6: Guards stop and demand [inspection, explanation, taxes/duties, bribe]
+6: Guards stop and demand D4[inspection, explanation, taxes/duties, bribe]
 
 ## Spas(3gp, 10 amenities)
 1. The scrubbed dragon

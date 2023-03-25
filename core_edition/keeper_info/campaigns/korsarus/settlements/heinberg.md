@@ -38,6 +38,15 @@ Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md ar
 - Punchpage(he/him, human)
 - Amountdescription(she/her, human)
 
+### Hirelings
+- Noolihhoh(he/him, hyena folk)(torchbearer)
+- Tahgihlahlaynoo(he/him, raccoon folk)(torchbearer)
+- Heelihnookihtoo(she/her, pig folk)(torchbearer)
+- Poolgargantuan(he/him, raccoon dog folk)(pathfinder)
+- Wealthydetail(she/her, pheasant folk)(archer)
+- Argumentwhirlwind(she/her, turkey folk)(archer)
+- Surgeryregular(she/her, human)(archer)
+
 ## Granary
 - Draftzigzag(he/him, human)
 - Industrycry(he/him, human)

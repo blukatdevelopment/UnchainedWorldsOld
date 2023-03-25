@@ -5,20 +5,32 @@ Judge Ripton lives in and resides over this house where trials and sentencing ar
 
 ## Shantie camp
 - At least 300 people at one time.
-Teetihkee(F)(Foxfolk)
-Gahgihkoh(M)(Wolffolk)
-Kihteegeegah(F)(Lionfolk)
-Fieldfolkwomanlady
-Regira Fedoken(F)(Human)
-Vic Leopat(M)(Human)
-Dolhis Cotlan(M)(Human)
+- Teetihkee(she/her, Foxfolk)
+- Gahgihkoh(he/him, Wolffolk)
+- Kihteegeegah(she/her, Lionfolk)
+- Fieldfolkwomanlady
+- Regira Fedoken(she/her, Human)
+- Vic Leopat(he/him, Human)
+- Dolhis Cotlan(he/him, Human)
 
 ## Guard tower
 - 4 stories high
 - Ground floor room with bunk for warden
 - Spotlight
-- Rightlon bollig(F)(Warrior)(Warden)
-- 10 guards
+- Rightlon bollig(she/her, Warrior)(Warden)
+
+### Guards
+- Glossytoe(he/him, human)
+- Tangiblepart(he/him, human)
+- Absolutebonus(she/her, human)
+- Plushsize(he/him, human)
+- Perkystomach(she/her, human)
+- Grimycell(he/him, human)
+- Switchcover(she/her, human)
+- Societyyoung(he/him, human)
+- Extra-smallworst(he/him, human)
+- Greatwinner(he/him, human)
+- Fabulousstimulating(he/him, human)
 
 ## Downtime activity: Fieldhand
 - Room and board

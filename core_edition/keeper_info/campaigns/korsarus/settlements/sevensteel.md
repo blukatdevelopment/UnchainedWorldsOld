@@ -36,6 +36,12 @@ Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md ar
 - Lihgahgohteenoo(she/her, shrew folk)
 - Lihtihnohtee(he/him, deer folk)
 
+### Hirelings
+- Lohtaytah(he/him, skunk folk)(Pathfinder)
+- Lihneenaygootee(she/her, cougar folk)(Pathfinder)
+- Geetaygohhihnih(he/him, weasel folk)(Pathfinder)
+- Loolohhahgoh(he/him, shrew folk)(Pathfinder)
+
 ## Herbalist
 - Initat Iveglor(she/her, human)
 

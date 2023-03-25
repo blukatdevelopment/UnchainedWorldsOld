@@ -42,6 +42,18 @@ Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md ar
 - Hohgaynoohohloh(he/him, otter folk)
 - Tootihgoh(she/her, cat folk)
 
+### Hirelings
+- Kaygohhih(he/him, lion folk)(Pathfinder)
+- Haynihkoolahlah(he/him, squirrel folk)(Pathfinder)
+- Googohhoonoo(she/her, raven folk)(Pathfinder)
+- Kahleegaykeegay(he/him, wombat folk)(torchbearer)
+- Gahgeegee(she/her, snowleopard folk)(torchbearer)
+- Kaylahnohkoo(she/her, panther folk)(torchbearer)
+- Neekayhihlohtah(he/him, sheep folk)(archer)
+- Kohgootee(she/her, polar bear folk)(Swordbarer)
+- Haynahgay(he/him, lynx folk)(archer)
+- Kohgahhaylee(he/him, raven folk)(archer)
+
 ## Workshop
 - Gohgihtoh(he/him, cat folk)
 - Lahnohlee(he/him, cat folk)(Rebel) - Weapons cache

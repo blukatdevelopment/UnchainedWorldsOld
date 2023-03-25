@@ -20,11 +20,11 @@
 Roll 1d6 for one of these visitors
 
 1. Captain Burdbow(he/him, sparrow folk) privateer captain, with his 11 bandit crew
-2. Captain Caget Awfrock(she/her, human), leader of Mercenary group
+2. Captain Caget Awfrock(she/her, human)(Mercanry), leader of Mercenary group
 3. Sulikest(she/her, cat folk) assassin's guild contact
 4. Ridek Wheelturner(he/him, possum folk), outcast cogger
 5. Captain Thratto Altare(he/him, husky folk, eye patch, teen) head of a gang of orphan children known as the survivors
-6. Bulya Sofant(she/her, human) with three-legged retriever Skonk, prospector
+6. Bulya Sofant(she/her, human)(Archer) with three-legged retriever Skonk, prospector
 
 ## Smuggler's market
 - On shore underneath docks
@@ -32,6 +32,19 @@ Roll 1d6 for one of these visitors
 - Sell martial weapons, armor
 - Pay, then drop off goods at designated drop spot in the city
 - 1/6 chance they take the money and run
+
+### Magus for hire
+- pay 1gp to meet with a random magus behind the rusted barnacle
+
+1. Oilycandle(he/him, buffalo folk)(Magus, Firebolt, Prestidigitation)
+2. Strikedoor(he/him, human)(Magus, Mind Sliver, Bonfire)
+3. Darewest(he/him, human)(Magus, Mind Sliver, Mending)
+4. Keegaylayhoo(she/her, boar folk)(Magus, Ray of Frost, Bonfire)
+5. Gahgeehoo(she/her, brown bear folk)(Magus, Frostbite, Light)
+6. Kaylohhahtoogah(she/her, panda folk)(Magus, Frostbite, Prestidigitation)
+7. Gahnohkee(he/him, horse folk)(Magus, Frostbite, Light)
+8. Hoolahnoohah(she/her, cougar folk)(Magus, Ray of Frost, Bonfire)
+
 
 ## The barrel inn
 - Rickety building with two floors

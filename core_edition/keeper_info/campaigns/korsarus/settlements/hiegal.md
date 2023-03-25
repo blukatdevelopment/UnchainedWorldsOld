@@ -44,6 +44,16 @@ Lost Tech: 1
 Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md are visiting.
 - Neot Iton(she/her, human)
 
+### Hirelings
+- Kihkihgihhoh(he/him, bull folk)(pathfinder)
+- Heekohtoo(he/him, buffalo folk)(torchbearer)
+- Leenohlay(he/him, lynx folk)(torchbearer)
+- Transportationsoft(he/him, human)(torchbearer)
+- Courteoussoup(he/him, human)(torchbearer)
+- Duevague(she/her, squirrel folk)(torchbearer)
+- Dotingfail(she/her, human)(swordbearer)
+- Dirtystick(he/him, sloth folk)(swordbearer)
+
 ## General Store
 - Kayheenohgih(she/her, skunk folk)
 - Cookiesize(he/him, human)

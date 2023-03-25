@@ -50,29 +50,29 @@ Sells holy books, lore books, office supplies, holy goods
 - Unlocks Warrior class and Oath of Redemption
 
 ### Liomar
-- Teen masc lionfolk
+- Teen he/him lionfolk
 - Aged out, stayed to volunteer
 - Sweet and playful
 - Blue robes
 
 ### Children
-- Smabuck(masc pale human)
-- Adola(fem pink human)
-- Tookahkih(fem possumfolk)
-- Naygaytahlah(masc foxfolk)
-- Leelohlohkahnee(fem chickenfolk)
-- Lagerwathy(masc pale human)
-- Tihnookih(masc brown bearfolk)
-- Donasto(fem pale human)
-- Kohhihkay(fem lizardfolk)
-- Loonoohoo(masc catfolk)
+- Smabuck(he/him pale human)
+- Adola(she/her pink human)
+- Tookahkih(she/her possumfolk)
+- Naygaytahlah(he/him foxfolk)
+- Leelohlohkahnee(she/her chickenfolk)
+- Lagerwathy(he/him pale human)
+- Tihnookih(he/him brown bearfolk)
+- Donasto(she/her pale human)
+- Kohhihkay(she/her lizardfolk)
+- Loonoohoo(he/him catfolk)
 
 ## Healer's Clinic
 - Lobby, recovery room
 
 ### Clarity
 - Program director
-- fem blue human, pointed ears
+- she/her blue human, pointed ears
 - Lab coat with high collar
 - Unlocks scientist class (Biology, Chemistry skills)
 
@@ -80,3 +80,9 @@ Sells holy books, lore books, office supplies, holy goods
 - Symbols of Exheia galore
 - 250GP to build prosthetic limbs, eyes
 - 50gp to restore all stamina in 10 minutes
+
+### Healers for hire
+- Untriedtest(she/her, goat folk)(Healer)
+- Bedenvious(he/him, human)(Healer)
+- Powerlessforceful(he/him, human)(Healer)
+- Leekaygih(he/him, black bear folk)(Healer)

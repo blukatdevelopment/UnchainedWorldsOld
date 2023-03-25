@@ -46,6 +46,16 @@ Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md ar
 - Smugmajor(she/her, human)
 - Toolohgoonay(she/her, raccoon dog folk)
 
+### Hirelings
+- Lihlohtahkih(she/her, cat folk)(Pathfinder)
+- Neetihgayloh(she/her, raccoon dog folk)(Torchbearer)
+- Taytoogihnih(she/her, hyena folk)(Torchbearer)
+- Googohhoo(he/him, weasel folk)(Torchbearer)
+- Geehihgee(he/him, tiger folk)(Torchbearer)
+- Wetdeep(he/him, human)(archer)
+- Playtower(she/her, snowleopard folk)(archer)
+- Afternoongrizzled(she/her, human)(archer)
+
 ## Butcher
 - Stinpo Iscot(she/her, human)
 - Improbableirritating(he/him, brown bear folk)

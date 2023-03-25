@@ -37,6 +37,14 @@ Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md ar
 - Gahnahhohheenih(he/him, chicken folk)
 - Kesniv Hammerbright(she/her, human)
 
+### Hirelings
+- Mildoptimistic(he/him, human)(torchbearer)
+- Substantialscholarly(he/him, human)(torchbearer)
+- Rashbug(she/her, human)(torchbearer)
+- Properscared(he/him, human)(torchbearer)
+- Gihtahhahlah(he/him, cat folk)(healer)
+- Nahtahhahnih(he/him, camel folk)(archer)
+
 ## Shrine of Gidur
 - Statue of Gidur snuffing a candle
 - Providence(she/her, human)(Diviner)

@@ -46,6 +46,13 @@ Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md ar
 - Complicatedbank(he/him, human)
 - Esteemedblank(she/her, human)
 
+### Hirelings
+- Hahtayheeleeloh(she/her, axolotl folk)(pathfinder)
+- Gihheekay(she/her, cat folk)(Torchbearers)
+- Gahkohkihhoh(she/her, sloth folk)(Torchbearers)
+- Gihgoohoo(he/him, chicken folk)(Torchbearers)
+- Tookohtayloo(he/him, crow folk)(Torchbearers)
+
 ## Blacksmith
 - Famil Barrelquench(she/her, human)
 - Ystan Stampiron(he/him, human)

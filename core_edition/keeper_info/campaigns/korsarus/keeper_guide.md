@@ -1,6 +1,74 @@
 # Keeper's Guide
 This document contains supplemental info that may be referenced during the campaign.
 
+# Hirelings
+
+## Pathfinders
+- 5sp/day minimum payment
+- Will scout or 
+- Will defend self, but not join delves
+- Require provisions
+
+`Pathfinder, HP: 4(1d4), AC: 10, [12, 12, 10, 10, 16, 10], Unarmed +1 1 bludgeoning`
+- +5 navigation
+
+## Torchbearers
+- 1sp/day mininum
+- Carry stuff
+- Will flee from combat
+- Require provisions
+
+`Torchbearer, HP: 4(1d4), AC: 10, [12, 12, 10, 10, 10, 10],Unarmed +1 1 bludgeoning`
+
+
+## Mercenaries
+- 1gp/day minimum
+- Join in combat, guard caravan
+- Require provisions
+
+1. Swordbarer
+2. Archer
+3. Healer
+4. Magus
+
+`Swordbarer, HP: 21(3d6+3), AC: 15(hide, shield), [14, 10, 12, 10, 13, 12], shortsword +4, 1d6+2`
+
+`Archer, HP: 15 (3d4+3), AC: 15(leather and shield), [12, 14, 12, 12, 12, 12], Dagger +4 1d4+2, Longbow +4 1d8+2`
+
+`Healer, HP: 12(3d4), AC: 10(robes), [10, 14, 10, 16, 14, 12], dagger +4 1d4+2 piercing`
+- Healer's kit(10 uses per day). +5 Mod
+|     Roll     |          Outcome           |
+|:-------------|:---------------------------|
+| 1 or less    | Takes 1d4 piercing damage. |
+| 2-5          | No effect.                 |
+| 6-10         | Stabilized if not already. |
+| 11-15        | Heals 1d4 hit points.      |
+| 16-20        | Heal 1d6 hit points.       |
+| 21 or higher | Heal 1d8 hit points.       |
+
+A magus never discusses their abilities in public
+`Magus, HP: 12(3d4), AC: 10(robes), [10, 14, 10, 13, 13, 12], dagger +4 1d4+2 piercing, Healer's Kit`
+- Spellcasting +5, DC 13
+Left wrist rune tattoo
+1. Firebolt
+2. Mind Sliver
+3. Frostbite
+4. Ray of Frost
+Right wrist rune tattoo
+1. Prestidigitation
+2. Mending
+3. Light
+4. Bonfire
+
+## Caravaneers
+- 3gp/day minimum
+- Can carry 1000lbs on wagon
+- Won't leave wagon
+- Two mules, one driver
+- Require provisions
+
+`Torchbearer, HP: 4(1d4), AC: 10, [12, 12, 10, 10, 10, 10],Unarmed +1 1 bludgeoning`
+
 # Overland travel
 
 ## Procedure
@@ -288,7 +356,7 @@ The scores mean:
 Roll 1d100, reroll if higher than highest listing.
 
 ### Cantrip
-1. restidigitation
+1. Prestidigitation
 2. Mending
 3. Chastise
 4. Guidance

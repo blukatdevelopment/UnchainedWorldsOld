@@ -4,7 +4,7 @@ raw materials enter this line of structures, and finished goods leave. It is dir
 ## Norban's Boot shop
 
 ### Norban(Thief)
-- Masculine
+- he/him
 - Grey Human
 - 6ft and slender
 - Dark hair
@@ -15,7 +15,7 @@ raw materials enter this line of structures, and finished goods leave. It is dir
 - Discovering their fencing goods unlocks thief class.
 
 ### Fifot Fituk(Warrior)
-- Feminine
+- she/her
 - Pink Human
 - Dirty blonde hair
 - 5ft and muscular
@@ -34,6 +34,12 @@ Inventory:
 - Fences goods for quarter price
 - Sells handcrossbows, bolts
 - Fight pit(no weapons, no magic)
+
+#### Hirelings
+- Questionablequerulous(she/her, human)(archer)
+- Hotfearful(he/him, human)(swordbarer)
+- Koohohgee(she/her, wombat folk)(Magus, Frostbite, Prestidigitation)
+- Lahtihtah(he/him, wombat folk)(Magus, Firebolt, Mending)
 
 ## Employment office
 
