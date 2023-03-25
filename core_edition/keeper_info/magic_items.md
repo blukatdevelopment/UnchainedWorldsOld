@@ -149,6 +149,9 @@ hand at the start of their next turn, provided there is a path for it to return.
 ### Soul Steel Weapon
 - Extra 1d4 necrotic
 
+### Hematite Steel weapon
+When wielder dies while holding or wearing this weapon, weapon shatters and they awaken with 1HP
+
 ### Ever ice Weapon
 - Extra 1d4 cold
 - Breaks on a nat 1
@@ -212,10 +215,6 @@ When the blade accumulates 50 hit points, it is fully charged and takes on a lig
 +1 longsword
 When you attune to this blade, it detects your most feared type of foe. Select from beasts, monstrosities, humanoids, slime, undead, elements or fiends according to your fear. When one such creature comes within 100 feet of the attuned blade, it gives off a bright blue light for 30 feet, and a dim blue light for 30 more feet. If creatures of this type enter within 60 feet, the sword begins calling out with a man's voice.
 
-### Thunder Maw
-+1 Greathammer
-This greathammer's business end is shaped like a lion's head. When you strike an enemy size medium or smaller, they are automatically thrown back 15ft while a lion's roar emanates from the hammer. If they are size large they may succeed a DC 15 STR save to avoid this effect. Creatures lartger than size large are unaffected.
-
 ## Armor
 
 ### Obsidian Armor
@@ -233,6 +232,7 @@ Resistance to fire
 
 ### Fey Oak Armor
 Advantage against being charmed
+Splits from a critical hit
 
 ### Chiton Armor
 Resistance against non-magical physical
@@ -280,7 +280,7 @@ a melee attack, you can release a flurry of cherryblossoms from this shield
 which will cause the attack to be made with disadvantage.
 
 ### Miner's Helm
-This helmet has a built-in bullseye lantern that can be switched on and off with a command word. The flame is magical and does not consume fuel.
+This helmet has a built-in bullseye lantern that can be switched on and off with a command word. The flame is magical and does not consume fuel. It lasts for 8 hours and requires 24 hours to recharge.
 
 ### Flowering Cloak
 This cloak is covered in flowers that attract butterflies and moths. It confers advantage on animal handling checks.
@@ -293,7 +293,7 @@ to eat one of the bugs.
 When you pull the hood of this green cloak over your head, your skin turns green and slick with mucus. You have advantage on checks made to avoid being grappled. Your fingers become webbed. You gain a swimming speed equal to your normal speed.
 
 ### Visor of Doom 
-When you wear this helmet, your eyes glow bright red.
+When you wear this helmet, your eyes glow bright red. The wearer can not be charmed, frightened, nor affected by mind control.
 
 ### Cocao Heavy Armor 
 This +1 heavy armor maintains a toasty warm temperature, even in extremely hot
@@ -311,7 +311,7 @@ This armor has a +2 bonus to the AC of the wearer.
 This armor has a +3 bonus to the AC of the wearer.
 
 ### Jump Suit 
-This half plate has jets on the back that produce blue flame to propel the wearer into the air. It has 6 charges, which return at dawn. When active, the suit consumes one charge per 6 seconds and confers a 60ft flying speed to the wearer.
+This half plate has jets on the back that produce blue flame to propel the wearer into the air. It has 6 charges, which are regained by an hour of pumping the air tank. When active, the suit consumes one charge per 6 seconds and confers a 60ft flying speed to the wearer.
 
 ### PMG(Pneumatic Mobility Gear)
 These 6 inch by 18 inch by four-foot long rectangular boxes are harnessed to the hips of the wearer, who may not wear medium or heavy armor while operating the mobility gear. By using your bonus action to consume one stamina die, the box fires a grappling hook up to 120ft towards a solid object such as a tree, wall, building, or huge creature. The suit then reels in the line connected to the hook, propeling the user toward it. The user can either land on that target, or fire the pneumatic mobility gear again at the start of their next turn to remain moving without landing.
@@ -326,7 +326,7 @@ When wearing these boots, you have a climb speed equal to your movement speed an
 These boots have stylish lightning bolts on them. When wearing these boots, you may expend a stamina die to move an additional 60 feet.
 
 ### Boots of air step
-When wearing these boots, you may expend a stamina die to move horizontally on open air as if it were solid ground. This effect ends at the end of your turn.
+When wearing these boots, you may expend a stamina die to move horizontally on open air as if it were solid ground. This effect ends at the start of your next turn if you do not use it again.
 
 ### Boots of waterwalk
 When wearing these boots, you may walk on water as if it were solid ground.
@@ -334,11 +334,11 @@ When wearing these boots, you may walk on water as if it were solid ground.
 ### Winged boots
 When wearing these boots, you may expend a stamina die to gain a flying speed of 60ft until the start of your next turn.
 
-### Boots of Elven Kind 
-When wearing these boots, your footsteps make no sound, and you have advantage on stealth checks relying on moving silently.
+### Boots of Fey Kind 
+When wearing these boots, your footsteps make no sound, and you have advantage on checks for sneaking.
 
 ### Spring boots
-When wearing these boots, you may expend a stamina die to jump up to 30ft as a long jump or high jump.
+When wearing these boots, you may jump up to 30ft as a long jump or high jump.
 
 ### Knife boots 
 When you tap these boots together, a spring-loaded knife extends from the toe. The knife boot uses strength and deals 1d4+STR piercing damage.
@@ -372,13 +372,13 @@ You may use a bonus action to consume a stamina die, rolling it and gaining that
 ### Ring of regretful wisdom 
 You activate the ring by speaking a grave regret of yours. If the ring accepts your answer, it will consume a stamina die and grant you advantage on wisdom saving throws for the next hour.
 
-### Ring of +1 ability score
+### Ring of +1 ability
 Each ring has a particular ability. A wearer that attunes to it will have a +1 bonus to that ability score. Wearing the ring cannot raise an ability score past 20.
 
-### Ring of +2 ability score
+### Ring of +2 ability
 Each ring has a particular ability. A wearer that attunes to it will have a +2 bonus to that ability score. Wearing the ring cannot raise an ability score past 20.
 
-### Ring of +3 ability score
+### Ring of +3 ability
 Each ring has a particular ability. A wearer that attunes to it will have a +3 bonus to that ability score. Wearing the ring cannot raise an ability score past 20.
 
 ### Ring of ghostly breath
@@ -395,6 +395,12 @@ You may activate the ring using a bonus action, at which time it consumes 1d4 hi
 
 ### Amulet of fortitude
 When you wear this amulet, it sinks into your chest and replaces your heart. You no longer have a pulse, and you are now vulnerable to lightning damage. Your constitution becomes 18. When you die, the amulet surfaces from your chest.
+
+### Amulet of Iron Heart
+When you wear this amulet, it sinks into your chest and replaces your heart. You no longer have a pulse, and your flesh becomes metal. You no longer need food and water, weigh 500 lbs more than you did before, and your unarmored AC is 16
+
+### Spider Queen's Amulet
+When you wear this amulet, it sinks into your chest and replaces your heart. You grow three additional sets of eyes. You have advantage on checks involving sight, and attacks involving surprise no longer have advantage against you.
 
 ## Consumables
 
@@ -429,11 +435,12 @@ This quiver contains 12 arrows that each cause an additional +3 damage on a hit.
 When you fire an arrow removed from this quiver, it disappears shortly after
 impact and a new one reapears inside the quiver.
 
-### Exploding Shuriken
-This throwing star shares proficiency with darts. If you throw this shuriken and hit a target, it sticks into them. Speaking the command word with a bonus action causes the shuriken to explode, which forces all creatures within 10ft of the target to make a dex saving throw. On a failure they take 3d6 fire damage, and half as much on a success.
+### Exploding Star
++1 Dart
+If you throw this Star and hit a target, it sticks into them. Speaking the command word with a bonus action causes the Star to explode, which forces all creatures within 30ft forcing a DEX save to halve 6d6 fire damage.
 
 ### Fin Candy
-When you eat this grey fin-shaped candy, you find that it is sweet with a leathery, gummy texture. Your head transforms into that of a hammerhead shark, allowing you to breathe underwater for 1 hour.
+When you eat this grey fin-shaped candy, you find that it is sweet with a leathery, gummy texture. Your head transforms into that of a hammerhead shark, allowing you to breathe underwater for 8 hours.
 
 ### Spell Scroll
 This scroll contains a spell and the magical energy needed to cast it. A command phrase is written on the scroll. Speaking it aloud while holding the scroll will cast the spell. Spell scrolls have a +5 to hit and a 13 spell DC.
@@ -491,10 +498,7 @@ This badge is tuned to a five digit frequency, and can be used to communicate wi
 This wristwatch is tuned to a five digit frequency, and can be used to communicate with other communicators on that frequency over any distance. It requires 1 stamina to run the communicator for 24 hours.
 
 ### Powerdrill
-This drill is made from black steel and consumes a stamina die in order to use for 1 hour.
-
-### Powersaw
-This saw is made from black steel and consumes a stamina die in order to use for 1 hour.
+This drill is made from black steel and consumes a stamina die in order to use for 1 hour. It deals 3d6 piercing damage and has advantage against enemies in heavy armor.
 
 ### Chainsaw
 The chainsaw can slice through trees with it's black steel frame and teeth. One minute of use consumes a stamina die. If used as a melee weapon, it deals 3d6 slashing damage.
@@ -532,6 +536,16 @@ Cost: 50gp
 Flavor: Very bitter
 Effect Duration: Immediate
 Effects: regain 3 stamina
+```
+
+```
+Name: Supererior Stamina Potion
+Weight: 1lb
+Shelf life: 1 year
+Cost: 100gp
+Flavor: Very bitter
+Effect Duration: Immediate
+Effects: regain 10 stamina
 ```
 
 ```
@@ -786,6 +800,36 @@ Effect Duration: 1 minute
 Effects: DC 16 WIS to avoid hyper-aggression. +4 STR
 ```
 
+```
+Name: Moon Dust
+Weight: 0lb
+Shelf life: 6 months
+Cost: 5gp
+Flavor: Spicy, tingly
+Effect Duration: 1 minute
+Effects: Eyes dilate. +1 to all ability checks, attack rolls, and AC. D6 chance of addiction(-1 to all checks if not used daily). D20 chance of corruption. Multiple doses may be consumed at once, stacking the bonus as well as the rolls against addiction and corruption.
+```
+
+```
+Name: Moon Grass
+Weight: 0lb
+Shelf life: 6 months
+Cost: 5gp
+Flavor: Pungeant, musky
+Effect Duration: 1 hour
+Effects: Eyes redden. Advantage on saves against spell effects. Immune to mental alteration.
+```
+
+```
+Name: Moon Honey
+Weight: 0lb
+Shelf life: 6 months
+Cost: 5gp
+Flavor: Pungeant, musky, sweet, bitter
+Effect Duration: 8 hour
+Effects: Suppresses the symptoms of diseases and addictions.
+```
+
 ## Wondrous Items
 
 ### Ever Ice Heart
@@ -803,26 +847,26 @@ Pressing the button on this stopwatch casts haste on the wielder. After use, thi
 ### Dowsing Crystal
 By dangling this crystal on a chain, one can locate water sources within a few miles.
 
-### +1 tool (Common)
+### +1 tool
 This tool grants a +1 in addition to any other bonuses that it would normally afford for the purpose of ability or skill checks.
 
-### +2 tool (Uncommon)
+### +2 tool
 This tool grants a +3 in addition to any other bonuses that it would normally afford for the purpose of ability or skill checks.
 
-### +3 tool (Rare)
+### +3 tool
 This tool grants a +3 in addition to any other bonuses that it would normally afford for the purpose of ability or skill checks.
 
-### Broom of flying (Common)
+### Broom of flying
 This broom has a flying speed of 50ft and can seat one rider.
 
-### Bag of Holding (Uncommon)
+### Bag of Holding
 This bag contains a portal to a pocket dimension. The interior has a volume of ten cubic feet.
 
-### Private Canvas (Common)
+### Private Canvas
 This canvas contains a painting of a countryside. You may draw on top of it after specifying the audience and your drawing disappears and is only visible to the specified audience.
 
-### Pulse Orb (Common)
-The pulse orb is a sticky blue globe of gel. When you activate it, it strobes slowly, producing a bright light each time it strobes on. It strobes on for 6 seconds, and then off for 6 seconds, alternating. You may stick the strobe to a surface or a creature, and it can be thrown up to 30 feet. While strobed on, it produces bright light for 30 feet and dim light for an additional 30 feet.
+### Pulse Orb
+The pulse orb is a sticky blue globe of gel. When you activate it, it strobes slowly, producing a bright light each time it strobes on. It strobes on for 6 seconds, and then off for 6 seconds, alternating. You may stick the strobe to a surface or a creature, and it can be thrown up to 30 feet. While strobed on, it produces bright light for 30 feet and dim light for an additional 30 feet. The strobing lasts for 1 hour.
 
 ### Immovable rod
 This spell focus has a button that clicks in to activate it's main feature, which is that it is immovable.
@@ -835,7 +879,7 @@ This spell focus has a button that clicks in to activate it's main feature, whic
 When an Unstoppable rod meets an Immovable rod, a hole is torn in the weave. 1d4 rounds later, there is an eruption. Everything within a 1 mile radius sphere becomes a permanent anti-magic field, and the two rods are destroyed.
 
 ### Blu's Tiny Tavern
-This small wooden carving of a tavern fits in your palm. When you speak the command word, it expands into a full-size tavern with a small staff of blue awakened cats to provide free room and board for thirty days for the party. Once expanded, the tavern cannot be returned to it's previous size.
+This small wooden carving of a tavern fits in your palm. When you speak the command word, it expands into a full-size tavern with a small staff of blue awakened cats to provide free room and board for thirty days for the party. Once expanded, the tavern cannot be returned to it's previous size. The tavern is operated by three-foot tall blue catfolk that cannot speak.
 
 ### Sentient Bee Nest
 These bees make honey, and spell out words in common to communicate. If they swarm, they deal 1d4 poison damage per round for 3 rounds before dying out.
@@ -914,7 +958,7 @@ Often given as a reward for good deeds by celestials.
 While you wear this circlet, your eyes turn golden and your cheeks sparkle with glimers of gold light. A field of celestial energy extends from you in a 10ft radius. Friendlies inside the radius, including you, have advantage against being frightened, possessed, or charmed, and gain 2 extra health from any healing.
 
 ### Staff of light
-+1 quarterstaff
++2 quarterstaff
 The staff of light can produce a 60ft radius of bright light, within which magical darkness is dispelled and invisible creatures are rendered visible. Activating the staff of light requires a bonus action and one stamina die. Additionally, the wielder may consume an action and three stamina dice to create a blinding flash of light in a 60ft radius. All creatures that see this light in this radius must succeed a DC 15 WIS save or they are blinded for 1 minute.
 
 ### Holy Flame Sword
@@ -975,8 +1019,15 @@ This 5ft diameter metal disk weighs 50lbs. The wielder may place up to 500 lbs o
 ### Cloak of disappearing pockets
 This cloak features many small pockets. When the wearer speaks a command word, these pockets vanish and cannot be accessed. When the wearer speaks the command word again, they reappear.
 
+### Hole Cubes
+A blue and orange cube that are linked. Throwing a cube at a flat surface opens a 5ft diameter portal flush with that surface. The portals lead to one another.
+
 ## Legendary Items
 These items are more mechanically complex than most other magic items and may have world-altering consequences.
+
+### Thunder Maw
++2 Greathammer
+Once belonging to the Titan king Batchek, this greathammer's business end is shaped like a tiger's head. When you strike an enemy size medium or smaller, they are automatically thrown back 15ft while a tiger's roar emanates from the hammer. If they are size large they may succeed a DC 15 STR save to avoid this effect. Creatures larger than size large are unaffected.
 
 ### Armor of Yevor 
 +3 blacksteel full plate

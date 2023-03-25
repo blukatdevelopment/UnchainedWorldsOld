@@ -729,16 +729,16 @@ Roll 1d100, reroll if higher than highest listing.
 88. Dulcimer
 89. Hurdy Gurdy
 90. Musical horn
-91. 
-92. 
-93. 
-94. 
-95. 
-96. 
-97. 
-98. 
-99. 
-100.
+91. Bag of 36 caltrops
+92. Bag of 1000 ballbearings
+93. Bag of 60 stone marbles
+94. Pouch of random mushrooms
+95. Stuffed animal with bow on it[bear, dog, bunny, frog]
+96. Compass
+97. Sextant
+98. Wayfarer trading map
+99. A diamond-shaped piece of ever ice
+100. A powerful horseshoe magnet
 
 
 ### Weapon table
@@ -811,9 +811,67 @@ Roll 1d100
 10. Dragon Bone
 
 ### Table A
-
+1. Random Mushroom(Use mushroom table above)
+2. Minor Stamina Potion
+3. Minor Health Potion
+4. D2[Jump Potion, Darkeye Potion]
+5. D2[Growth potion, Shrinking potion]
+6. 1d4 servings of of D6[Kobbonamon, Ikku Grass, Tiger Savory, Nabaley, Dream Savory]
+7. 3d6 doses of D3[Moon Dust, Moon Grass, Moon Honey]
+8. 2d4 minor stamina potions
+9. 1d4 minor health potions
+10. Major Health Potion
+11. cantrip Spell Scroll
+12. 1st level Spell scroll
+13. Spell book with D4 1st level spells and one cantrip
+14. D2[Blaster, +1 quiver]
+15. D4[Gambler's sausage, Bubble Shield, 1d8 Fin candy, Good Luck Pie]
+16. Lost tech [Cassette, Cassette Player, Data Disk, Disk Player]
+17. 3d6 +1 D4[arrows, javelins, crossbow bolts, sling ammunition]
+18. D6[Scale Mail, Breast Plate, Half Plate, Splint] made of D6[Ever Ice, Fey Oak, Chiton, Dragon Bone, Wild Crystal, Giant Bone]
+19. D6[spear, glaive, handaxe, warhammer, greathammer, greataxe] made of D6[Ever Ice, Fey Oak, Obsidian, Giant Bone, Chiton, Dragon Bone]
+20. +1 D6[dagger, shortsword, longsword, greatsword, shortbow, longbow]
 
 ### Table B
+1. Spell scroll D4[1st, 2nd, 3rd]
+2. Spell scroll D4[1st, 2nd, 3rd]
+3. Spell book with d6 1st level spells
+4. Spell book with d6 1st level, d4 2nd level spells
+5. 2d4  Minor Stamina Potions
+6. 2d4 Minor Health Motions
+7. Supreme Health potion
+8. Supreme Stamina Potion
+9. Vial of 1d4 * 10 doses of moon dust
+10. D2[Awakened Shrub, Broom of flying, Conjuring Cube]
+11. D6[Stilt Shoes, Trick Rope, Chest of preserving, Animated Knitting needles, Rug of Slipping, Soothing Harp]
+12. D4[Nymph in a bottle, Spell Eater, Door Medallion, Exploding Star]
+13. D6[Locket of holding, lamp stone, seeker pipe, 10oz bottle of rune ink, bag of returning, reader disk]
+14. D6[Gauntlets of fire, Gauntlets of Titan Kind, Shock Gauntlets, Ice Gauntlets, Seeker Swarm Gauntlet, Shield Gauntlet]
+15. D6[Mirror of unmasking, Mirror of reaching, locket of desire, Spectacles of instant reading, cone of voice throwing, Amulet of true vision]
+16. Robe of useful items
+17. Full Plate armor made of D6[Ever Ice, Fey Oak, Chiton, Dragon Bone, Wild Crystal, Giant Bone]
+18. D8[Ring of Invisibility, Ring of Robust, Ring of +1 ability score, Ring of +1 ability, Ring of Ghostly Breath, Ring of Disguise, Ring of Elemental Redirection, Blood Band of Flame]
+19. D6[spear, glaive, handaxe, warhammer, greathammer, greataxe] of D4[Hell steel, Soul Steel, Black Steel, Hematite Steel]
+20. +2 D6[dagger, shortsword, longsword, greatsword, shortbow, longbow]
 
 ### Table C
-
+1. D4[Bag of holding, immovable rod, unstoppable rod, pair of Sending Stones]
+2. 100oz jug of rune ink
+3. D4[Frozen Flame, Ever Ice Heart, Fast Watch, Dowsing Crystal]
+4. [Blu's Tiny Tavern, Sentient Bee Nest]
+5. Spell scroll 4th level
+6. Spell scroll 5th level
+7. Spell book of 2d6 1st level, 2d4 2nd level, d8 3rd level spells
+8. [Feather of Strength, Ring of Poisoning,, Green Flame lamp, Blue Flame Lamp, Diminution Disk]
+9. Tin box of 3d6 * 10 doeses of moon dust
+10. [Circlet of Celestial Flight, Circlet of Celestial Aura, Staff of light]
+11. D2[Ring of shadow blade, ring of shadow jump]
+12. D2[Hole Cubes, 3d6 conjuring cubes]
+13. D6[Boots of Dashing, Boots of Spider Walk, Boots of Air Step, Winged Boots, Spring Boots, Boots of Fey Kind]
+14. D4[Ring of +3 Ability, Amulet of Fortitude, Amulet of Iron Heart, Spider Queen's Amulet]
+15. D6[Powerdrill, Chainsaw, Recon Armor, Active Shield Armor, Jump Suit, Pneumatic Mobility Gear]
+16. D4[3d4 Exploding Star, +3 quiver, Bottomless quiver, autoblaster, lightning rifle]
+17. +1 Plate armor of D4[Soul Steel, Hell Steel, Black Steel, Dragon Scale]
+18. D6[Rapier of Charming, Diplomat's Companion, Dagger of Malevolence, Shortsword of life siphoning, Longsword of Warning, Holy Flame Sword]
+19. +2 variant of D6[Rapier of Charming, Diplomat's Companion, Dagger of Malevolence, Shortsword of life siphoning, Longsword of Warning, Holy Flame Sword]
+20. +3 D6[dagger, shortsword, longsword, greatsword, shortbow, longbow]
