@@ -208,6 +208,6 @@ def create_commoner(culture=None, species=None, language=None):
 
 def main():
     for i in range(100):
-        print(create_commoner())
+        print(get_beastfolk())
 
 main()
