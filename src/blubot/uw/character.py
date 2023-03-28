@@ -241,25 +241,25 @@ def get_ability_score(ability, character):
     return -1
 
 def get_ability_modifier_from_score(ability_score):
-    if ability_score < 3:
+    if ability_score <= 3:
         return -4
-    if ability_score < 5:
+    if ability_score <= 5:
         return -3
-    if ability_score < 7:
+    if ability_score <= 7:
         return -2
-    if ability_score < 9:
+    if ability_score <= 9:
         return -1
-    if ability_score < 11:
+    if ability_score <= 11:
         return 0
-    if ability_score < 13:
+    if ability_score <= 13:
         return 1
-    if ability_score < 15:
+    if ability_score <= 15:
         return 2
-    if ability_score < 17:
+    if ability_score <= 17:
         return 3
-    if ability_score < 19:
+    if ability_score <= 19:
         return 4
-    if ability_score < 21:
+    if ability_score <= 20:
         return 5
 
 def xp_to_level(xp):
