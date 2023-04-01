@@ -105,7 +105,7 @@ Mounts directly to the wrist and can be fired by user's thought if making skin c
 Ranged weapon (60/120), Light
 Weight:9lb
 Damage: 1d6 fire
-Uses hand crossbow or firearm proficiency. Has thirty charges. Can be recharged with three stamina dice using an action. Instead of firing normally, wielder may burst fire, which fires ten shots targeting a 10ft cube. All creatures within the cube must succeed a DC 15 DEX save, or take 1d6 fire damage. The attack automatically hits for 4d6 fire damage for large or larger creatures occupying the entire cube.
+Uses hand crossbow or firearm proficiency. Has thirty charges. Can be recharged with three stamina dice using an action. May use action to fire ten shots targeting a 10ft cube. Creatures within cube succeed DC 15 DEX save or take normal damage. Automatically hits 2d4 times for large or larger creatures occupying at least half the cube.
 
 ### Lightning Rifle
 Ranged weapon(120/125)

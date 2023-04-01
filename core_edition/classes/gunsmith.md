@@ -18,23 +18,23 @@ Roll 3d6 and add your CON modifier three times(minimum 1HP). These are your star
 The gunsmith's stamina die is a d6.
 
 ## Proficiencies
-|               |                                                                        |
-|:--------------|:-----------------------------------------------------------------------|
-| Armor         | Light armor                                                            |
-|:--------------|------------------------------------------------------------------------|
-| Weapons       | Simple Weapons, Shortswords, Heavy Crossbows, Hand Crossbows, Firearms |
-|:--------------|------------------------------------------------------------------------|
-| Tools         | Gunsmithing tools                                                      |
-|:--------------|------------------------------------------------------------------------|
-| Saving Throws | Strength, Dexterity                                                    |
+|               |                          |
+|:--------------|:-------------------------|
+| Armor         | Light armor              |
+|:--------------|--------------------------|
+| Weapons       | Simple Weapons, Firearms |
+|:--------------|--------------------------|
+| Saving Throws | Strength, Dexterity      |
 
 ## Skills
 You are proficient with:
 - Clockwork
 - Metallurgy
 - Writing
+- Gunsmithing
 Choose one skill:
 - Athletics
+- Acrobatics
 - Stealth
 
 ## Starting Equipment
@@ -44,6 +44,7 @@ Choose one skill:
 - Backpack
 - Heavy Wrench
 - Tinker's Tools
+- Smith's tools
 - one 10lb unit of scrap
 - common clothes with apron
 - pouch of 5GP
@@ -53,130 +54,108 @@ LVL = level
 XP = total experience points needed for level
 SD = Stamina Dice
 Prof = proficiency bonus
-MNVS = Maneuvers
 ```
 
-| LVL | XP    | SD|Prof |MVNS |         Features       |
-|:----|:------|:--|:----|:----|:-----------------------|
-|   1 |     0 | 2 | +1  |   1 | Scrap, Smith           |
-|   2 |   300 | 4 | +1  |   1 | Gunsmith Maneuvers     |
-|   3 |   900 | 6 | +2  |   2 |                        |
-|   4 |  1800 | 8 | +2  |   2 | Second Wind            |
-|   5 |  3600 |10 | +2  |   3 | Ability Score Increase |
-|   6 |  6100 |12 | +2  |   4 |                        |
-|   7 |  9100 |14 | +3  |   5 | Advanced Smith         |
-|   8 | 13100 |16 | +3  |   5 | Ability Score Increase |
-|   9 | 22600 |18 | +4  |   6 |                        |
-|  10 | 44600 |20 | +4  |   6 | Ability Score Increase |
+| LVL | XP    | SD|Prof |         Features            |
+|:----|:------|:--|:----|:----------------------------|
+|   1 |     0 | 2 | +1  | Gunning 1, Smithing         |
+|   2 |   300 | 4 | +1  | Gunning 2                   |
+|   3 |   900 | 6 | +2  | Gunning 3                   |
+|   4 |  1800 | 8 | +2  | Gunning 4                   |
+|   5 |  3600 |10 | +2  | Gunning 5, Ability Increase |
+|   6 |  6100 |12 | +2  | Gunning 6                   |
+|   7 |  9100 |14 | +3  | Gunning 7, Advanced Smithing|
+|   8 | 13100 |16 | +3  | Gunning 8, Ability Increase |
+|   9 | 22600 |18 | +4  | Gunning 9                   |
+|  10 | 44600 |20 | +4  | Gunning 10                  |
 
 ## Features
 
-### Scrap
-One unit of scrap consists of 10lb of iron, chemicals, and other metal. It can be purchased from most shops for 1GP. During a rest, you may break down metal items into scrap. When you break down a batch of metal items, divide the total weight by 10 to find the number of scrap units you get. The the remainder is wasted.
+### Gunning 1
+Firearms require an action to reload when empty, and you are skilled with them.
+Choose one of the following techniques:
+- Careful aim: you can expend a stamina die and add to your attack roll with a firearm.
+- Close quarters: Using a firearm within 5ft of an enemy does not impose disadvantage.
 
-### Smith
-During a rest, you may craft weapons using scrap. You may not craft cartridges, nor weapons that use cartridges.
+### Smithing
+You may smith guns and ammunition using scrap. Each unit of scrap weighs 10lbs, and metal objects can be used as scrap. Over the course of 8 hours, you may do up to 10 scrap worth of crafting on the items below. For instance, you might make two pistols, or half of a match long gun to be finished on another day. This requires a workshop with tools.
 
-### Gunsmith Maneuvers
-You learn to perform one maneuver from the maneuvers list. The maneuvers column shows the number of maneuvers you know at any given level.
+|        Item    | Damage |  Range  | Ammo | Scrap | lb |Properties  |
+|:---------------|:-------|:--------|:-----|:------|:---|:-----------|
+| Match Pistol   | 1d10   | 30/90   |    1 |     5 |  3 |            |
+| Match long gun | 1d12   | 60/120  |    1 |    20 | 10 | Two-handed |
+| Blunderbuss    | 3d4    | 30/90   |    1 |    20 |  6 | Two-handed |
+| Harmonica Gun  | 1d12   | 30/90   |   10 |    50 | 10 | Two-handed |
+| Bullet(20)     |        |         |      |     4 |  2 |            |
+| Powder Bomb    | 3d6    | 30ft    |      |    10 |  5 |            |
 
-### Second Wind
-You may use your bonus action to take a deep breath and brace yourself for more carnage. You expend one stamina die and heal the amount rolled.
+#### Powder Bomb
+Thrown up to 30ft. Can explode upon impact or with up to 1 minute of wick in 6 second increments. Creatures within 15ft make DC15 DEX save to halve 3d6 fire damage.
 
-### Ability Score increase
+### Gunning 2
+Choose one of the following techiques:
+- Steady aim: Can't move this turn. Use bonus action to grant advantage on next shot.
+- Duel wielder: You may draw or holster two pistols at once. You may fire an off-hand pistol with your bonus action.
+
+### Gunning 3
+Choose one of the following techiques:
+- Quickdraw: As a reaction when targeted with an attack, you may consume a stamina die and draw a pistol to attack them first. Other gunning techniques don't apply to this shot.
+- Bayonet training: You may affix a bayonet(dagger, shortsword, or longsword) to a two-handed firearm, granting melee attacks with it at a range of up to 10ft.
+
+### Gunning 4
+Choose one of the following techiques:
+- Called shot: You can aim at a weak point for maximum damage with a -5 penalty to hit.
+- Suppression: Use your action to fire five times at a 10ft cube within normal range. Creatures in cube must succeed DC13 WIS check to move or take actions, make attacks within disadvantage, and a must make a DC13 DEX check to not get hit for full damage when moving.
+
+### Gunning 5
+Choose one of the following techiques:
+- Action surge: Consume a stamina die, take two actions.
+- Second wind: Use bonus action to consume stamina die, roll it, heal that much.
+
+### Ability Increase
 You may increase one ability score by 2, or you can increase two ability scores of your choice by 1. You cannot increase an ability score past 20.
 
-### Advanced Smith
-You may now craft cartridges and weapons that use cartridges.
+### Gunning 6
+Choose one of the following techiques:
+- Double tap: After firing with your action, you may fire again(if the weapon has ammo) using a bonus action.
+- Triple shot: Use your action to fire up to three times with disadvantage. Prevents doubletap that turn.
 
-## Maneuvers
+### Gunning 7
+Choose one of the following techiques:
+- Blind fire: Fire from around cover without exposing self with -5 penalty.
+- Army crawl: You may dash while prone to move normal speed. Firing while prone no longer imposes disadvantage on attacks with firearms.
 
-### Humanoid shield
-When you are grappling a creature and are the target of a ranged attack, you may use your reaction to add +5 to your AC for the purpose of that attack. If the attack would have otherwise hit you, the grappled creature receives this hit instead, taking the full damage.
-
-### Execution
-When you are within 5ft of an enemy that does not see you, your expertise with gunning allows you to aim to kill. You may make a ranged weapon attack without receiving disadvantage from close range. If this attack hits, you deal an additional 3d8 damage of the same type.
-
-### Spray and Pray
-If firing a weapon with the reload property, you may use your action to make up to three ranged attacks in place of one. Each attack has disadvantage.
-
-### Suppressing fire
-You use a weapon with at least five shots left in it to lay down suppressing fire. Target a 10 foot cube in range. You fire five times into this area until the start of your next turn. A creature that starts its turn in this cube or enters it for the first time must succeed a DC 15 wisdom saving throw or fall prone and end its turn. If a creature succeeds the saving throw and moves in your line of sight, you may target it with one of your 5 shots. This attack has disadvantage, but forces the creature to remake the wisdom saving throw even if it misses.
-
-### Blind Fire
-You've learned to blindly fire from behind cover. When you are behind cover from an enemy, you may hold your weapon out of cover and attack with it. When doing so, you receive a -5 to your attack roll. Making an attack this way does not expose you to enemy ranged attacks.
-
-### Disarming shot
-You're as precise as you are quick. If an enemy is holding an item of any kind in one hand, you may target the item in their hand, incurring a -5 penalty to your attack roll when you do so. On a hit, the target lets go of the item. If it is not attached to them in some way, it falls to the ground.
-
-### Called shot
-You target a specific body part such as a leg, arm, hand, or eye. At the Keeper's discretion, this attack receives either a -2 or -5 penalty to the attack roll. On a hit, your damage is applied directly to that body part. This may effect a creature's mobility, senses, or deal an additional 1d8 damage by targeting a vital body part.
-
-### Quick draw
-If you are targeted by a ranged weapon attack and your hands are empty, you may use your reaction to draw a holstered one-handed ranged weapon and make a ranged weapon attack with it. You may not quick draw weapons that are already drawn, or that are not in a holster of some sort.
-
-### Steady Aim
-You're good at getting the most out of long barrels. With any two-handed ranged weapon, you may use your bonus action to aim carefully. Doing so grants your next shot this turn advantage.
-
-### Akimbo
-You've learned how to shoot two one-handed firearms at once. The firearms must be one-handed, but do not require the light property. Reloading takes a full  action when dual weilding firearms, resulting in both firearms being reloaded.  Additionally, you are capable of storing or drawing two one handed firearms  during the same object interaction.
-
-### Trigger Guard Catch
-When a blade(dagger, shortsword, longsword, rapier) targets you with an attack that would hit, you may use your reaction to gain +2 AC for the purpose of this attack by catching the blade in the trigger guard of a weapon that has one  (pistol, revolver, hand crossbow). If this blocks the attack, you each may  attempt to wrestle the entangled weapons free from the other by making your  choice of an athletics or acrobatics check. Whoever succeeds retains their weapon and knocks their opponent's weapon onto the ground.
-
-### Bayonet
-On a two-handed crossbow or firearm, you may now install a shortsword as a bayonet. When wielding a weapon equipped with a bayonet, you are able to defend against approaching enemies. When a creature that you can see enters a range of 10 feet of you, you may use your reaction to make an melee attack at them. This attack uses your strength modifier and deals 1d8 piercing damage on a hit.
-
-### Army Crawl
-Your ranged attacks no longer suffer disadvantage from being prone, and while prone you may now take the dash action to move your normal speed.
-
-### Corner Shot
-If you are behind full cover, you may peek out one side in order to make a single attack against an enemy. This will trigger held actions to attack you with ranged weapons, but you will still have half cover from these attacks. Using this ability does not require movement.
-
-### Double Tap
-After hitting an enemy with a ranged attack using a weapon that still has more ammunition, you may use your reaction to fire an additional time. You cannot use double-tap if you have fired more than once already on this turn.
-
-### Action Surge
-You may expend a stamina die and take one additional action this turn. You may only use action surge once per turn.
-
-## Firearms
-
+### Advanced Smithing
+You learn to make more sophisticated weapons.
 
 |        Item        | Damage |  Range  | Ammo | Scrap | Weight(lb) |      Properties       |
 |:-------------------|:-------|:--------|:-----|:------|:-----------|:----------------------|
-| Pocket Pistol      | 1d8    | 30/90   |    1 |     2 |          2 | Light, Reloading      |
-| Pistol             | 1d10   | 30/90   |    1 |     5 |          3 | Reloading             |
-| Musket             | 1d12   | 40/120  |    1 |    20 |         10 | Two-handed, reloading |
-| Revolver           | 1d10   | 30/90   |    6 |    50 |          3 | Reloading             |
-| Shotgun*           | 2d8    | 30/90   |    1 |    35 |          6 | Two-handed            |
-| Bolt-action Rifle* | 2d10   | 100/500 |    5 |    50 |          8 | Reloading, Two-handed |
-| Harmonica Gun      | 1d12   | 40/120  |   10 |    50 |         10 | Reloading, Two-handed |
-| Crank Gun*         | 1d12   | 40/120  |  300 |   500 |        100 | Burst Fire            |
-| Medieval Bullet(20)|        |         |      |     4 |          2 |                       |
-| Cartridge(20)      |        |         |      |     4 |          2 |                       |
-`* = Uses Cartridges`
+| Pocket Pistol      | 1d8    | 30/90   |    1 |     2 |          2 | Light                 |
+| Revolver           | 1d10   | 30/90   |    6 |    50 |          3 |                       |
+| Rifle              | 3d6    | 100/500 |    5 |    50 |          8 | Two-handed            |
+| Clockwork Gun      | 1d12   | 40/120  |  200 |   500 |         30 | Burst Fire            |
+| Dynamite(stick)    | 3d6    |         |      |    15 |          1 |                       |
+| Smoke Bomb         |        |         |      |    12 |          1 |                       |
 
-### Properties
+#### Burst Fire Property
+Use action to fire ten shots targeting a 10ft cube. Creatures within cube succeed DC 15 DEX save or take normal damage. Automatically hits 2d4 times for large or larger creatures occupying at least half the cube.
 
-#### Reloading Property
-A weapon with the reloading property contains one or more pieces of ammunition. You may expend an action to reload such a weapon up to its full capacity, provided you have enough ammunition to do so.
+#### Dynamite
+Can throw a stick or bundle of dynamite up to 30 feet. Can explode upon impact or with up to 1 minute of wick in 6 second increments. Creatures within 15ft make DC15 DEX save to halve 3d6 fire damage. A bundle may include up to 3 sticks. Each extra stick adds 3d6 damage.
 
-#### Burst Fire
-Instead of a normal ranged weapon attack, a weapon with the burst fire property may fire ten rounds of ammunition in rapid succession on a ten foot cube. Every creature inside the cube must succeed a DC15 dex saving throw or receive the weapon’s normal damage. This consumes ten rounds of ammunition. If the creature is beyond the weapon's normal range, the save is made with advantage. If the creature is within half the weapon's normal range, the creature is hit with twice the weapon's normal damage dice.
+#### Smoke Bomb
+Can throw up to 30 feet. Can explode upon impact or with up to 1 minute of wick in 6 second increments. Forms a cloud of smoke that fills 15ft radius, heavily obscuring the area. Cloud lasts 1 minute.
 
-## Explosives
+### Gunning 8
+Choose one of the following techiques:
+- Parry: As reaction, block attack with held weapon, expend stamina die, roll, and add to AC against one melee attack.
+- Speed reload: Reloads can be performed as a bonus action.
 
-|      Item       | Scrap | Weight |
-|:----------------|-------|--------|
-| Bomb            |   10  | 1 lb   |
-| Dynamite(stick) |   12  | 2 lb   |
-| Smoke Bomb      |   12  | 1 lb   |
+### Gunning 9
+Choose one of the techniques from gunning 2-8 that you do not already have.
 
-### Bomb
-You may use your action to light and throw a bomb at a point within 30 feet. It explodes upon impact. All creatures within 15 feet of the bomb must make a DC15 dex saving throw, taking 3d6 fire damage on a failure and half as much on a success.
+### Gunning 10
+Choose one of the techniques from gunning 2-8 that you do not already have.
 
-### Dynamite
-You may use your action to throw a stick or bundle of dynamite at a point  within 30 feet. It explodes on impact. All creatures within 15 feet of the bomb must make a DC15 dex saving throw, taking 3d6 fire damage on a failure and half  as much on a success. You can attach up to 3 sticks of dynamite together. Each  stick increases the damage dealt by 3d6
-
-### Smoke Bomb
-You may use your action to throw an impact smoke bomb at a point within 30 feet. It explodes upon impact, forming a cloud of smoke that fills a 20 food diameter sphere. The smoke heavily obscures any creature behind or inside it. After a  minute the smoke subsides, taking 1/4th as long in a windy or well ventilted  area.
+### Ability Increase
+You may increase one ability score by 2, or you can increase two ability scores of your choice by 1. You cannot increase an ability score past 20.
