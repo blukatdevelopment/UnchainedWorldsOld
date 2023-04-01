@@ -98,8 +98,11 @@ You may increase one ability score by 2, or you can increase two ability scores 
 ### Specialty
 When you reach 6th level, you reach one of the following achievements
 
+#### Somatic Casting
+You've learned to breathe your life essence into runes while tracing them in the air with your finger. This creates a glowing image of the rune that erupts into brilliant light when cast. When you cast a spell this way, it consumes a number of stamina dice equal to triple the spell level and does not require a rune stone(or 2 stamina dice for cantrips).
+
 #### Rune Tattoo
-Instead of inscribing stone, you may inscribe skin. You tattoo a spell onto someone's skin using two ounces of rune ink(15gp). A person may have up to three tattoos, one on each wrist, and one on the forehead. The tattooed person may expend stamina dice equal to the spell level(0 for cantrips) to cast the spell. They use their INT mod for the spell check, and failing causes the tattoo to burn away and deal 1d10 radiant damage in the process. You may not have a spell on a runestone and tattoo at the same time.
+Instead of inscribing stone, you may inscribe skin. You tattoo a spell onto someone's skin using two ounces of rune ink(30gp). A person may have up to three tattoos, one on each wrist, and one on the forehead. The tattooed person may expend stamina dice equal to the spell level(0 for cantrips) to cast the spell. They use their INT mod for the spell check, and failing causes the tattoo to burn away and deal 1d10 radiant damage in the process. You may not have a spell on a runestone and tattoo at the same time.
 
 #### Signature spell
 Choose a spell you know, and raise it's spell level by one. Work with the keeper to make a suitably more powerful version of this spell. This spell bears your name, and is written in your spell book in addition to the unaltered version of the spell.
