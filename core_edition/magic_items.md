@@ -981,9 +981,6 @@ This locket is about three inches in diameter, and when opened reveals a tiny po
 ### Seeker Pipe
 The smoke from this pipe emerges in the shape of tiny, long dragons that float around the wielder. If the wielder speaks the name of someone they have seen in person once, the dragons will point to the direction of the person.
 
-### Rune Ink
-A runesmith may paint a rune tattoo onto a willing creature and expend a number of stamina dice equal to the spell level(minimum 1) in order to store the spell on the creature. That creature may then expend the same amount of stamina dice in order to cast the spell, causing the tattoo to glow and lift off of their body as a smokey rune-shaped cloud. The spell modifier and DC of the runesmith are used in this case. One 10z bottle may paint 10 spells. One may permanently be tattooed on their wrists, at the cost of 1d4 maximum hit points per tattoo(maximum two tattoos).
-
 ### Disappearing Ink
 While the ink is still wet, the wielder speaks a command word. The ink dries invisible, and speaking the command word again causes it to appear.
 

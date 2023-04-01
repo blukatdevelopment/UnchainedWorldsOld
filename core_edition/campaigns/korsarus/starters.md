@@ -1,3 +1,10 @@
+# Starter session
+- Tarher Losek(he/him, blind, human, commoner)
+Tarher gathers the party together in the alleys of the steamworks.
+- Takes them to the thieves' hideout for a job if they wear blindfolds
+- Tells them about the job board at Fortitude rock.
+
+
 # Militia starters
 Militia starters involve a wagonload of commoners being dropped off to resolve issues that are too risky to lose seasoned Omarian soldiers solving. Weapons will generally be handed out just before arrival, with instructions read out for objectives. Two soldiers and a guard will remain in the wagon, and defectors will be shot. Weapons will generally be one of the following:
 1. Spear with bloody fingerprints

@@ -924,7 +924,7 @@ Roll 1d100
 
 ### Table C
 1. D4[Bag of holding, immovable rod, unstoppable rod, pair of Sending Stones]
-2. 100oz jug of rune ink
+2. Spell book of 5 1st level, 3 2nd level, 2 3rd level spells.
 3. D4[Frozen Flame, Ever Ice Heart, Fast Watch, Dowsing Crystal]
 4. [Blu's Tiny Tavern, Sentient Bee Nest]
 5. Spell scroll 4th level

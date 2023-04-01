@@ -23,14 +23,13 @@ The thief's stamina die is a d6.
 |:--------------|--------------------------------|
 | Weapons       | Simple Weapons, Hand Crossbows |
 |:--------------|--------------------------------|
-| Tools         | Thieves' Tools                 |
-|:--------------|--------------------------------|
 | Saving Throws | Dexterity, Intelligence        |
 
 
 ## Skills
 You are proficient in the following:
 - Pickpocketing
+- Lockpicking
 - Stealth
 - Acrobatics
 - Deception
@@ -76,7 +75,7 @@ You know 2 tricks, and you learn more as you gain levels, according to the trick
 Your thieving lifestyle has lead you to learn the language thieves use to communicate by subtle gestures and markings left on buildings and objects. You may use these to locate criminal contacts.
 
 ### Expertise
-Choose one skill that you have proficiency with. Your proficiency bonus counts twice for checks made with this skill. You may substitute this skill proficiency for proficiency with thieve's tools.
+Choose one skill you possess. When you expend a stamina die as a bonus to an ability check with this skill, you may roll the stamina die twice.
 
 ### Ability Score increase
 You may increase one ability score by 2, or you can increase two ability scores of your choice by 1. You cannot increase an ability score past 20.
@@ -90,7 +89,7 @@ You know the Lesser Telekinesis cantrip from the spell compendium volume 1. You 
 If you hold an item such as a thick book, a bar stool, or table, you may use it to block an attack. You receive a +2 bonus to your AC. If the attack roll is only 1 or 2 lower than your AC, the item takes damage from the attack, and might be destroyed.
 
 ### Distracting Phrase
-When a creature is about to make an attack, you may expend a stamina die and use your reaction to call it's attention to you and away from the attack, granding that attack disadvantage.
+When a creature is about to make an attack, you may expend a stamina die and use your reaction to call it's attention to you and away from the attack, granting that attack disadvantage.
 
 ### Distraction Toss
 You use your action to hurl an object weighing 20lb or more at a medium creature, which may use it's reaction to catch, dodge, or deflect the object. If it does not, make an athletics check. The amount rolled is the DC for a strength saving throw that it must succeed, or will fall prone. Until the start of the creature's next turn, the first attack made against it has advantage due to this distraction.
@@ -105,7 +104,7 @@ You gain a climbing speed equal to half your movement speed. Fall damage from 20
 You may now use your bonus action to perform sleight of hand checks, use your thieves' tools to disarm a trap, open a lock, or take the Use An Object action.
 
 ### Fast Feet
-You consume a stamina die to unlock hidden stamina. Adrenaline pumps through your veins and you feel faster than normal. For this turn, your speed doubles.
+You consume a stamina die to unlock hidden speed. Adrenaline pumps through your veins and you feel faster than normal. For this turn, your speed doubles.
 
 ### Slippery
 When you begin your turn grappled and you are wearing a coat, cloak, or other similarly loose garment, you may use your free object interaction to slip out of the garment, exiting the grapple in the process. The grappler will be left holding your garment.
@@ -117,13 +116,13 @@ You drop to your knees, surrender, and beg for mercy. Each creature that knows a
 When an attack targets you, you may now use your reaction to give that attack disadvantage.
 
 ### Defensive Acrobatics (Minimum level 3)
-When you are targeted by a ranged or melee attack, you may use your reaction to perform a somersault, backflip, cartwheel, or other acrobatic maneuver to avoid damage. Make an acrobatics check. If you roll equal or higher than the attack, the attack misses. If you roll lower, you instead fall prone before the attack takes place.
+When you are targeted by a ranged or melee attack, you may use your reaction to perform a somersault, backflip, cartwheel, or other acrobatic maneuver to avoid damage. Make a dexterity check. If you roll equal or higher than the attack, the attack misses. If you roll lower, you instead fall prone before the attack takes place.
 
 ### Dart Deliverer (Minimum level 3)
-You now have advantage on attack rolls made with darts.
+When you throw a dart with your action, you may now throw a second dart with your bonus action.
 
 ### Vice (Minimum Level 4)
-You take comfort in consuming something considered as a vice. When you have no stamina dice, you may consume 5sp worth over the course of 10 minutes to regain one stamina die. Common vices may be alcohol, tobacco, romance novels or burning incense.
+You take comfort in consuming something considered as a vice. When you have no stamina dice, you may consume 5sp worth over the course of 10 minutes to regain one stamina die. Common vices may be alcohol, tobacco, candy, perfume, romance novels, or burning incense.
 
 ### Cunning Action (Minimum level 4)
 You may use your bonus action to perform the Dash, Dodge, Disengage, or Hide actions.

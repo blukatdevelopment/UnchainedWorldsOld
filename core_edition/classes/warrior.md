@@ -23,8 +23,6 @@ The warrior's stamina die is a d8.
 |:--------------|:------------------------------------------------|
 | Weapons       | Simple Weapons, Martial Weapons                 |
 |:--------------|:------------------------------------------------|
-| Tools         | None                                            |
-|:--------------|:------------------------------------------------|
 | Saving Throws | Strength, Constitution                          |
 
 ## Skills
@@ -83,8 +81,14 @@ You may increase one ability score by 2, or you can increase two ability scores 
 
 ## Warrior Maneuvers
 
+### Parry
+As a reaction when targeted with a melee attack, you may expend a stamina die and attempt to block the attack with a melee weapon you are wielding. When you do, roll the stamina die and add it to your AC for this attack.
+
+### Rage Strike
+As part of making a melee attack, you may consume a stamina die, roll it, and add it to the attack roll.
+
 ### Frenzy
-As a reaction when you take damage during combat, you may enter a frenzy. In a frenzy you are resistant to slashing, bludgeoning, and piercing damage. You also have advantage on athletics and strength saving throws while in a frenzy. Your frenzy ends after one minute, or when you begin your turn without taking damage or making an attack in the previous round of combat. When your frenzy ends, you lose one stamina dice to exhaustion.
+As a reaction when you take damage during combat, you may enter a frenzy. In a frenzy you are resistant to slashing, bludgeoning, and piercing damage. You also have advantage on athletics and strength saving throws while in a frenzy. Your frenzy ends after one minute, or when you begin your turn without taking damage or making an attack in the previous round of combat. When your frenzy ends, you lose one stamina die to exhaustion.
 
 ### Stagger Block
 As a reaction when a melee weapon attack misses you by 2 or less, you can block the attack with brute force and stagger the attacker. The attacker must succeed a strength saving throw with a DC equal to your passive strength. On a failure, they are staggered, and the next attack against them has advantage until the start of their next turn.
@@ -93,7 +97,7 @@ As a reaction when a melee weapon attack misses you by 2 or less, you can block 
 When your melee weapon attack misses by 2 or less, you may use your bonus action to lock weapons with the targeted creature, and you make a contested athletics check. If you succeed, you force your weapon against their block and deal half damage.
 
 ### Reckless Strike
-When you make the first attack on your turn, you may do so fiercely and without regard for your own safety. When you do, you gain advantage on that attack roll. Until the start of your next turn, attacks made against you have advantage.
+When you make the first melee attack on your turn, you may do so fiercely and without regard for your own safety. When you do, you gain advantage on that attack roll. Until the start of your next turn, attacks made against you have advantage.
 
 ### Charge
 When you move at least 20 feet in a straight line before attacking, your next attack deals an additional 1d8 damage if it hits.
