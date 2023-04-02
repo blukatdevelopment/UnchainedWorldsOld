@@ -52,119 +52,77 @@ SD = Stamina Dice
 Prof = proficiency bonus
 MNVS = Maneuvers
 ```
-| LVL | XP    | SD |Prof |  MNVS |        Features        |
-|:----|:------|:---|:----|:------|:-----------------------|
-|   1 |     0 | 2  | +1  |  0    | Warrior's Respite      |
-|   2 |   300 | 4  | +1  |  1    | Maneuvers              |
-|   3 |   900 | 6  | +2  |  2    |                        |
-|   4 |  1800 | 8  | +2  |  3    |                        |
-|   5 |  3600 |10  | +2  |  3    | Ability Score Increase |
-|   6 |  6100 |12  | +2  |  3    | Extra Attack           |
-|   7 |  9100 |14  | +3  |  4    |                        |
-|   8 | 13100 |16  | +3  |  4    | Ability Score Increase |
-|   9 | 22600 |18  | +4  |  5    |                        |
-|  10 | 44600 |20  | +4  |  6    | Ability Score Increase |
+| LVL | XP    | SD |Prof |        Features               |
+|:----|:------|:---|:----|:------------------------------|
+|   1 |     0 | 2  | +1  | Maneuver 1                    |
+|   2 |   300 | 4  | +1  | Maneuver 2                    |
+|   3 |   900 | 6  | +2  | Maneuver 3                    |
+|   4 |  1800 | 8  | +2  | Maneuver 4                    |
+|   5 |  3600 |10  | +2  | Maneuver 5, Ability Increase  |
+|   6 |  6100 |12  | +2  | Maneuver 6, Extra Attack      |
+|   7 |  9100 |14  | +3  | Maneuver 7                    |
+|   8 | 13100 |16  | +3  | Maneuver 8, Ability Increase  |
+|   9 | 22600 |18  | +4  | Maneuver 9                    |
+|  10 | 44600 |20  | +4  | Maneuver 10, Ability Increase |
 
 ## Features
 
-### Warrior's Respite
-An army marches on it's belly, and you are no different. You may consume a 2lb quantity of food over the course of 10 minutes and expend one stamina die. Roll the expended die and gain that many temporary hit points, which last until you complete a rest.
+### Maneuver 1
+Choose one of the following options:
+- Warrior's Respite: Eat 2lb of food for 10 minutes, expend stamina die, and roll. Heal that much HP, and gain that much temp HP.
+- Second wind: Use bonus action to consume stamina die, roll it, heal that much.
 
-### Maneuver
-You learn one maneuver from the warrior maneuvers list. The maneuvers column shows the number of maneuvers you know at any given level.
+### Maneuver 2
+Choose one of the following options:
+- Reckless Strike: Advantage on first melee attack this turn. Until your next turn, attacks have advantage against you.
+- Rage strike: When making melee attack, consume and roll stamina die, adding as bonus to attack roll.
+
+### Maneuver 3
+Choose one of the following options:
+- Parry: As reaction use weapon to block. Consume and roll stamina die and add to AC for this attack.
+- Stagger Block: As reaction when attack misses by 1 or 2, force contested STR save to stagger them until start of their next turn. If staggered, next attack on them has advantage.
+- Shield Parry: Use reaction to block with shield, add 2 to AC for one attack.
+- Danger sense: Use reaction to gain advantage on one DEX save when you can see the source of danger.
+
+### Maneuver 4
+Choose one of the following options:
+- Frenzy: As reaction when taking damage, enter frenzy. Become resistant physical damage, advantage on STR saves. Frenzy ends after one minute, or after not attacking or taking damage during a round. Lose 2 stamina at end of frenzy.
+- Fighting Will: Bonus action to expend and roll stamina die, gaining it as temp HP. Your attacks this round receive advantage.
+
+### Maneuver 5
+Choose one of the following options:
+- Zealous Strike: Use reaction to attack creature that enters melee range.
+- Forced Strike: When your melee attack misses by 2 or less, use bonus action to force contested STR check, dealing half attack damage on success.
+
+### Ability increase
+You may increase one ability score by 2, or you can increase two ability scores of your choice by 1. You cannot increase an ability score past 20.
+
+### Maneuver 6
+Choose one of the following options:
+- Charge: If you move 20ft in straight line before attacking, deal additional 1d8 damage.
+- Violent Grapple break: Use reaction to make attack when a grapple against you fails.
 
 ### Extra Attack
 When you use your action to make an attack, you may make two attacks instead.
 
-### Ability Score increase
+### Maneuver 7
+Choose one of the following options:
+- Action Surge: Consume a stamina die and take two actions this turn. 
+- Last Stand: When you go down but don't die, use reaction to expend all stamina dice, roll them, and regain that much HP.
+
+### Maneuver 8
+Choose one of the following options:
+- Down, but not out: When you go down, the first death saving throw does not consume a stamina die.
+- Enduring Will: If you roll initiative and have no stamina dice remaining, you regain one.
+
+### Ability increase
 You may increase one ability score by 2, or you can increase two ability scores of your choice by 1. You cannot increase an ability score past 20.
 
-## Warrior Maneuvers
+### Maneuver 9
+Choose one of the options from Maneuvers 1-8 that you did not already.
 
-### Parry
-As a reaction when targeted with a melee attack, you may expend a stamina die and attempt to block the attack with a melee weapon you are wielding. When you do, roll the stamina die and add it to your AC for this attack.
+### Maneuver 10
+Choose one of the options from Maneuvers 1-8 that you did not already.
 
-### Rage Strike
-As part of making a melee attack, you may consume a stamina die, roll it, and add it to the attack roll.
-
-### Frenzy
-As a reaction when you take damage during combat, you may enter a frenzy. In a frenzy you are resistant to slashing, bludgeoning, and piercing damage. You also have advantage on athletics and strength saving throws while in a frenzy. Your frenzy ends after one minute, or when you begin your turn without taking damage or making an attack in the previous round of combat. When your frenzy ends, you lose one stamina die to exhaustion.
-
-### Stagger Block
-As a reaction when a melee weapon attack misses you by 2 or less, you can block the attack with brute force and stagger the attacker. The attacker must succeed a strength saving throw with a DC equal to your passive strength. On a failure, they are staggered, and the next attack against them has advantage until the start of their next turn.
-
-### Forced Strike
-When your melee weapon attack misses by 2 or less, you may use your bonus action to lock weapons with the targeted creature, and you make a contested athletics check. If you succeed, you force your weapon against their block and deal half damage.
-
-### Reckless Strike
-When you make the first melee attack on your turn, you may do so fiercely and without regard for your own safety. When you do, you gain advantage on that attack roll. Until the start of your next turn, attacks made against you have advantage.
-
-### Charge
-When you move at least 20 feet in a straight line before attacking, your next attack deals an additional 1d8 damage if it hits.
-
-### Swift Action
-At the beginning of your turn you may fully utilize your swiftness in battle to perform two actions instead of one. When you do so, you must expend one stamina die. You may only use this ability once per turn.
-
-### Deflect Attack
-If a melee attack would hit by 2 or less, you may use your reaction to deflect the attack.
-
-### Violent Grapple Break
-When a creature fails an attempted grapple on you, you may make an attack against them.
-
-### Zealous Strike
-When a creature enters your attack range, you may use your reaction to make an attack against them.
-
-### Second Wind
-You may use your bonus action to take a deep breath and brace yourself for more carnage. You must have at least one stamina die, which you expend by rolling. You heal the rolled amount of hit points.
-
-### Danger Sense
-You may use your reaction to confer advantage on a dexterity saving throw
-when you can see or hear the source of danger.
-
-### Fighting Will
-You may use your bonus action to expend one of your stamina dice and roll it. You gain that many temporary hit points. Until the start of your next turn, any attack you make receives advantage.
-
-### Down, but not out
-When you go down, the first death saving throw you make does not expend a hit die.
-
-### Oath of Devotion(minimum level 3)
-You swear a magical oath of devotion, committing yourself to pursue justice and the greater good. This oath grants you magical power. You may only swear one oath at a time. When you get this maneuver, you may learn one maneuver that requires this oath.
-
-### Courageous Aura (Requires Oath of Devotion)
-You expend a stamina die. For the next minute, you emanate an aura that extends 10ft in each direction. You and friendly creatures inside gain 1d6 temporary hit points at the start of their turn, and have advantage on WIS saves to resist or stop being frightened.
-
-### Sacred Weapon (Requires Oath of Devotion)
-You expend a stamina die and imbue one weapon with holy radiance. For the next minute, your weapon's attack and damage rolls gain a bonus equal to your CHA mod(min +1). If it's not already magical, it becomes magical.
-
-### Holy Armor (Requires Oath of Devotion)
-You expend a stamina die and imbue your armor with holy radiance. For the next minute, undead, fiends, and those who have sworn a pact to either have a -2 penalty to attack rolls made against you.
-
-### Oath of Vengeance(minimum level 3)
-You swear a magical oath of vengeance, committing yourself to punish evil. This oath grants you magical power. You may only swear one oath at a time. When you get this maneuver, you may learn one maneuver that requires this oath.
-
-### Armor of Smiting(Requires Oath of Vengeance)
-You expend a hit die and your armor lights with glowing runes. for the next minute, any fiend, undead, or creature that has sworn a pact to either received 2d8 radiant damage when they touch your armor, or at the beginning of their turn when one of you has the other grappled.
-
-### Evil Sense(Requires Oath of Vengeance)
-You expend a hit die and your irises glow. For the next minute you can see any fiend, undead, or creature that has sworn a pact to either, provided they are not behind full cover. You see their outline highlighted in red, even if they are invisible or heavily obscured.
-
-### Wrathlful Smite(Requires Oath of Vengeance)
-When your melee attack hits, you may add 3d8 radiant damage to your attack, taking 1d8+2 radiant damage as you are hurt by your own wrath.
-
-### Oath of Redemption(minimum level 3)
-You swear a magical oath of vengeance, committing yourself to use violence only as a last resort in pursuit of redeeming and reforming evildoers. This oath grants you magical power. You may only swear one oath at a time. When you get this maneuver, you may learn one maneuver that requires this oath.
-
-### Emissary of Peace (Requires Oath of Redemption)
-You consume a stamina die and grant yourself a +5 bonus to persuasion checks for the next 10 minutes.
-
-### Merciful hand(Requires Oath of Redemption)
-You have a pool of hit points equal to 15 + (5 * CHA mod, min 0). As an action, you may touch a creature and heal them 1 or more hit points from this pool. This pool restores at the end of a rest.
-
-### Rebuke the violent(Requires Oath of Redemption)
-As a reaction, when a creature attacks another(not you) and deals damage, you may expend a hit die and rebuke them. They make a WIS save, taking the entire damage they dealt as radiant if they fail, or half as much on a success. The DC is 10 + your WIS mod + your proficiency bonus.
-
-### Enduring Will (minimum level 9)
-If you roll initiative and have no stamina dice remaining, you regain one.
-
-### Last stand (minimum level 9)
-When you take damage that reduces you to 0 hit points and doesn't kill you outright, you may use your reaction to expend all of your stamina dice, roll them, and regain as much HP.
+### Ability increase
+You may increase one ability score by 2, or you can increase two ability scores of your choice by 1. You cannot increase an ability score past 20.
