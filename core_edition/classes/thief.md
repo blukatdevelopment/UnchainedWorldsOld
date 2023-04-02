@@ -52,95 +52,85 @@ SD = Stamina Dice
 Prof = proficiency bonus
 ```
 
-| LVL |    XP | SD|Prof |Tricks  |       Features         |
-|:----|-------|---|-----|--------|------------------------|
-|   1 |      0| 2 | +1  |      2 | Tricks, Thieves' Cant  |
-|   2 |    300| 4 | +1  |      3 | Expertise              |
-|   3 |    900| 6 | +2  |      4 | Ability Score Increase |
-|   4 |   1800| 8 | +2  |      5 |                        |
-|   5 |   3600|10 | +2  |      6 |                        |
-|   6 |   6100|12 | +2  |      7 | Ability Score Increase |
-|   7 |   9100|14 | +3  |      8 |                        |
-|   8 |  13100|16 | +3  |      9 |                        |
-|   9 |  22600|18 | +4  |     10 |                        |
-|  10 |  44600|20 | +4  |     11 | Ability Score Increase |
+| LVL |    XP | SD|Prof |       Features             |
+|:----|-------|---|-----|----------------------------|
+|   1 |      0| 2 | +1  | Tricks 1, Thieves' Cant    |
+|   2 |    300| 4 | +1  | Tricks 2, Expertise        |
+|   3 |    900| 6 | +2  | Tricks 3, Ability Increase |
+|   4 |   1800| 8 | +2  | Tricks 4,                  |
+|   5 |   3600|10 | +2  | Tricks 5,                  |
+|   6 |   6100|12 | +2  | Tricks 6, Ability Increase |
+|   7 |   9100|14 | +3  | Tricks 7,                  |
+|   8 |  13100|16 | +3  | Tricks 8,                  |
+|   9 |  22600|18 | +4  | Tricks 9,                  |
+|  10 |  44600|20 | +4  | Tricks 10, Ability Increase|
 
 
 ## Features
 
-### Tricks
-You know 2 tricks, and you learn more as you gain levels, according to the tricks column.
+### Tricks 1
+Choose one of the following tricks to learn:
+- Thief's Pet: You train a tiny animal(cat, possum, rat, ferret, raccoon) to follow simple orders. It has 10AC, 1HP, and can move 30ft. 
+- Vice: Consume 5sp of a vice(such as alcohol, tobacco, candy, perfume) over 10 minutes, regain stamina die.
 
 ### Thieve's Cant
 Your thieving lifestyle has lead you to learn the language thieves use to communicate by subtle gestures and markings left on buildings and objects. You may use these to locate criminal contacts.
 
-### Expertise
-Choose one skill you possess. When you expend a stamina die as a bonus to an ability check with this skill, you may roll the stamina die twice.
+### Tricks 2
+Choose one of the following tricks to learn:
+- Second-story work: Gain climbing speed of 15ft. Resistant to fall damage from 20ft or less.
+- Dart deliverer: After throwing a dart with action, may throw another with bonus action.
 
-### Ability Score increase
+### Expertise
+When you expend a stamina die as a bonus to an ability check with a skill, you take the die's maximum value as the bonus.
+
+### Tricks 3
+Choose one of the following tricks to learn:
+- Improvised shield: You can hold objects such as books and furniture to give yourself a +2 bonus, which can be destroyed by incoming attacks.
+- Reactive dodge: As a reaction when attacked, consume stamina die to perform a dodge, imposing disadvantage.
+- Slippery: Attempts to grapple you are made with disadvantage.
+
+### Ability increase
 You may increase one ability score by 2, or you can increase two ability scores of your choice by 1. You cannot increase an ability score past 20.
 
-## Thief Tricks
+### Tricks 4
+Choose one of the following tricks to learn:
+- Cunning Action: Use bonus action to take Dash, Dodge, Disengage, or Hide actions.
+- Fast Hands: Use bonus action to do sneaky actions such as pick pockets, pick locks, disarm traps, or use an object.
 
-### Trickster's Arcana
-You know the Lesser Telekinesis cantrip from the spell compendium volume 1. You may expend a stamina die to cast this spell. 
+### Tricks 5
+Choose one of the following tricks to learn:
+- Cloak and Dagger: With an action, consume a stamina die to draw a dagger and attack a target that is not yet hostile. Roll the stamina die and add it to both the attack and damage rolls for this attack.
+- Throwing expert: The first dagger or dart you throw on a turn deals critical damage if it hits.
 
-### Improvised Shield
-If you hold an item such as a thick book, a bar stool, or table, you may use it to block an attack. You receive a +2 bonus to your AC. If the attack roll is only 1 or 2 lower than your AC, the item takes damage from the attack, and might be destroyed.
+### Tricks 6
+Choose one of the following tricks to learn:
+- Trip: In place of attack of opportunity against a humanoid, make contested DEX check to knock them prone and deal 1d4 bludgeoning damage.
+- Distracting Phrase: As a reaction, consume a stamina die to shout and impose disadvantage on one attack targeting someone other than you.
 
-### Distracting Phrase
-When a creature is about to make an attack, you may expend a stamina die and use your reaction to call it's attention to you and away from the attack, granting that attack disadvantage.
+### Ability increase
+You may increase one ability score by 2, or you can increase two ability scores of your choice by 1. You cannot increase an ability score past 20.
 
-### Distraction Toss
-You use your action to hurl an object weighing 20lb or more at a medium creature, which may use it's reaction to catch, dodge, or deflect the object. If it does not, make an athletics check. The amount rolled is the DC for a strength saving throw that it must succeed, or will fall prone. Until the start of the creature's next turn, the first attack made against it has advantage due to this distraction.
+### Tricks 7
+Choose one of the following tricks to learn:
+- Superior Sneak: If you move half or less of your spell in a turn, checks to sneak are made with advantage.
+- Fast Feet: Consume stamina die, double speed for this turn.
 
-### Pocket Sand
-You may expend your stamina die to throw pocket sand at one creature within 5ft of you. The creature may use it's reaction to make a DC 14 dexterity saving throw. If it fails or does not make the save, it is blinded until the start of your next turn.
+### Tricks 8
+Choose one of the following tricks to learn:
+- One of the tricks from Tricks 1-7 that you did not choose.
+- Thief's Second Sight: Gain 10ft blindsight.
+- Trickster's Hand: Consume one stamina die to cast Lesser Telekinesis
+- Trickster's Step: Consume two stamina dice to cast Blink Step.
+- Trickster's Snake: Consume two stamina dice to cast Vorpal Snare.
+- Trickster's Cat Eyes: Consume two stamina dice to cast Darkvision.
+- Trickster's Sixth Sense: Consume two stamina dice to cast Locate Object.
 
-### Second-Story Work
-You gain a climbing speed equal to half your movement speed. Fall damage from 20 feet or less is halved for you.
+### Tricks 9
+Choose one of options from Tricks 1-8 that you did not previously select.
 
-### Fast Hands
-You may now use your bonus action to perform sleight of hand checks, use your thieves' tools to disarm a trap, open a lock, or take the Use An Object action.
+### Tricks 10
+Choose one of options from Tricks 1-8 that you did not previously select.
 
-### Fast Feet
-You consume a stamina die to unlock hidden speed. Adrenaline pumps through your veins and you feel faster than normal. For this turn, your speed doubles.
-
-### Slippery
-When you begin your turn grappled and you are wearing a coat, cloak, or other similarly loose garment, you may use your free object interaction to slip out of the garment, exiting the grapple in the process. The grappler will be left holding your garment.
-
-### Cower
-You drop to your knees, surrender, and beg for mercy. Each creature that knows at least one language must make a wisdom saving throw. Make a performance check, which is the DC. On a failure, the creature's attacks against you have disadvantage, and the first attack you make while cowering has advantage if it targets them.
-
-### Reactive Dodge (Minimum level 3)
-When an attack targets you, you may now use your reaction to give that attack disadvantage.
-
-### Defensive Acrobatics (Minimum level 3)
-When you are targeted by a ranged or melee attack, you may use your reaction to perform a somersault, backflip, cartwheel, or other acrobatic maneuver to avoid damage. Make a dexterity check. If you roll equal or higher than the attack, the attack misses. If you roll lower, you instead fall prone before the attack takes place.
-
-### Dart Deliverer (Minimum level 3)
-When you throw a dart with your action, you may now throw a second dart with your bonus action.
-
-### Vice (Minimum Level 4)
-You take comfort in consuming something considered as a vice. When you have no stamina dice, you may consume 5sp worth over the course of 10 minutes to regain one stamina die. Common vices may be alcohol, tobacco, candy, perfume, romance novels, or burning incense.
-
-### Cunning Action (Minimum level 4)
-You may use your bonus action to perform the Dash, Dodge, Disengage, or Hide actions.
-
-### Trip (Minimum level 4)
-When you make an attack of opportunity, you may first make a contested check to attempt to trip the creature. Use your acrobatics against their athletics. If they are larger than you, they have advantage on their check. If you succeed, the creature falls prone.
-
-### Trickster's Step(Minimum level 5)
-You know the Blink Step 2nd level spell from the spell compendium volume 1, and may cast it by consuming two stamina dice.
-
-### Trickster's Advanced Arcana (Minimum level 6)
-You know the Vorpal Snare and Catapult spells. You may cast either of these spells by consuming two stamina dice.
-
-### Superior Sneak (Minimum level 6)
-You gain advantage on a stealth check if you have moved no more than half your speed on the same turn.
-
-### Cloak and Dagger (Minimum level 6)
-You know how to draw a blade quickly and covertly on an unsuspecting enemy. When you have nothing in your hands and have not attacked yet in combat, you may use your action to draw a dagger and perform a melee or thrown attack with it. You have advantage on this attack.
-
-### Dagger Throwing Expertise (Minimum level 6)
-When you throw a dagger for the first time on your turn, it deals critical damage on a hit.
+### Ability increase
+You may increase one ability score by 2, or you can increase two ability scores of your choice by 1. You cannot increase an ability score past 20.

@@ -133,7 +133,7 @@ You learn to make more sophisticated weapons.
 | Pocket Pistol      | 1d8    | 30/90   |    1 |     2 |          2 | Light                 |
 | Revolver           | 1d10   | 30/90   |    6 |    50 |          3 |                       |
 | Rifle              | 3d6    | 100/500 |    5 |    50 |          8 | Two-handed            |
-| Clockwork Gun      | 1d12   | 40/120  |  200 |   500 |         30 | Burst Fire            |
+| Clockwork Gun      | 1d12   | 60/120  |   30 |   250 |         30 | Burst Fire            |
 | Dynamite(stick)    | 3d6    |         |      |    15 |          1 |                       |
 | Smoke Bomb         |        |         |      |    12 |          1 |                       |
 

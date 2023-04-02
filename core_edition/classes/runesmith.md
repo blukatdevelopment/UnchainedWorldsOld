@@ -236,7 +236,7 @@ Work with the keeper to create one spell of any level.
 - Gust of Wind
 - Blazing Scorcher
 - Water Cannon
-- Eathbind
+- Earthbind
 - Arcane Lock
 - Blindness/Deafness
 - Blur
