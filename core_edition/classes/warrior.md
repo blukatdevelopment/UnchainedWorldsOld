@@ -70,7 +70,7 @@ MNVS = Maneuvers
 ### Maneuver 1
 Choose one of the following options:
 - Warrior's Respite: Eat 2lb of food for 10 minutes, expend stamina die, and roll. Heal that much HP, and gain that much temp HP.
-- Second wind: Use bonus action to consume stamina die, roll it, heal that much.
+- Second wind: Use bonus action to consume two stamina dice, roll them, and heal half the total.
 
 ### Maneuver 2
 Choose one of the following options:

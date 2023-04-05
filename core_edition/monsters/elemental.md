@@ -1,5 +1,9 @@
 # Elemental
 
+## Frost Guardian
+`Frost Guardian, HP: 50(4d8+16), AC: 16, Speed: 25ft, [18, 18, 10, 3, 14, 3], Ice Shard +6 1d8+4 piercing + 2d8 cold`
+- Immunities: Cold
+- Weaknesses: Fire
 
 ## Flame Guardian
 `Flame Guardian, HP: 32(4d8), AC: 15, Speed: 25ft fly 25ft, [14, 10, 10, 3, 14, 3], Flame Seed +6 2d10 fire`

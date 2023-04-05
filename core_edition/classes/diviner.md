@@ -24,8 +24,6 @@ The diviner's stamina die is a d4.
 |:--------------|:-----------------------------------|
 | Weapons       | Simple Weapons                     |
 |:--------------|:-----------------------------------|
-| Tools         | None                               |
-|:--------------|:-----------------------------------|
 | Saving Throws | Wisdom, Charisma                   |
 |:--------------|:-----------------------------------|
 
@@ -56,12 +54,12 @@ Prof = proficiency bonus
 ```
 | LVL |XP     |SD |Prof |Spell Level |        Features            |
 |:----|:------|:--|:----|:-----------|:---------------------------|
-|   1 |      0| 2 | +1  |  Cantrip   | Divine Spellcasting, Deity |
+|   1 |      0| 2 | +1  |  Cantrip   | Divine Spellcasting        |
 |   2 |    300| 4 | +1  |     1      |                            |
 |   3 |    900| 6 | +2  |     2      |                            |
 |   4 |   1800| 8 | +2  |     2      |                            |
 |   5 |   3600|10 | +2  |     3      | Ability Score Increase     |
-|   6 |   6100|12 | +2  |     3      | Channel Divinity           |
+|   6 |   6100|12 | +2  |     3      |                            |
 |   7 |   9100|14 | +3  |     4      |                            |
 |   8 |  13100|16 | +3  |     4      |                            |
 |   9 |  22600|18 | +4  |     5      |                            |
@@ -70,60 +68,31 @@ Prof = proficiency bonus
 ## Feats
 
 ### Divine Spellcasting
-You've learned to call upon the power of a deity. Wisdom is your spellcasting 
-ability. You learn two cantrips Your spell DC (difficulty class) is 
-8+proficiency bonus + wisdom modifier. Your spell attack modifier is proficiency
-bonus + wisdom modifier.
+You've learned to call upon the power of a deity. Wisdom is your spellcasting ability. You learn two cantrips Your spell DC (difficulty class) is 8+proficiency bonus + wisdom modifier. Your spellcasting modifier is proficiency bonus + wisdom modifier. See your deity's section for more spellcasting details.
 
-```
-|:------------|:------------|
-| Spell Level |  Piety Cost |
-|:------------|:------------|
-| Cantrip     |          25 |
-| 1           |         200 |
-| 2           |         800 |
-| 3           |        2400 |
-| 4           |        7200 |
-| 5           |       21600 |
-|:------------|:------------|
-```
+## Diety
+Select or roll for a deity from the list below.
 
-#### Preparing Spells
-Before you sleep at night, you may perform a prayer to request a number of 
-spells equal to half your diviner level (rounded down) plus your wisdom 
-modifier,  minimum of one spell. You may select these spells from the  diviner
-spell list, and they must be first level or higher. You may only cast spells 
-that you have prepared.
-
-#### Piety
-A deity provides your source of magic, and so your fuel for spellcasting is 
-piety. Your actions are judged, providing and revoking piety. If your balance 
-of piety ever falls below zero, you lose all all divine spellcasting and magical 
-abilities. You cannot cast a spell if you do not have enough piety to do so.
-
-|            Good Acts              | Piety Gained |
-|:----------------------------------|:-------------|
-| Lead Prayer(10 min, 1 stamina die)| 1d100        |
-| Celebrate Holiday                 | 1d100        |
-| Bless newborn, wedding, funeral   | 2d100        |
-| Provide counsel(Roleplay it)      | 2d100        |
-| Honorable Act(Domain Specific)    | 1d2 * 100    |
-| Alms to the poor                  | 5d100        |
-| Convert non-believer              | 1d10 * 100   |
-| Apprehend/dissuade Criminal       | 1d10 * 100   |
-| Sacrifice heart of large monster  | 1d4 * 1000   |
-| Save a life from immediate danger | 1d12 * 100   |
-| Cure the sick                     | 1d4 * 1000   |
-| Sacrifice heart of huge monster   | 1d6 * 1000   |
+1. Bimros
+2. Uaos
+3. Solus
+4. Exheia
+5. Kord
+6. Gegtex
+7. Coenta
+8. Coento
 
 
-|          Bad Acts             | Piety Lost  |
-|:------------------------------|:------------|
-| Knowingly Harming innocents   | 1d10 * 1000 |
-| Blasphemy or profanity        | 1d10 * 1000 |
-| Murder                        | 2d20 * 1000 |
-| Forbidden Act(Domain specific)|  1d6 * 1000 |
-| Deceive, Cheat, or Steal      | 1d20 * 100  |
+### Coenta
+
+#### Code
+
+#### Channel divinity
+### Coento
+
+#### Code
+
+#### Channel divinity
 
 
 ### Deity
@@ -133,14 +102,13 @@ acts. Domain spells do not count against the number of spells you may prepare.
 
 |  Divine|     Honorable Act    |     Forbidden Act      |                Spells                  |
 |:-------|:---------------------|:-----------------------|:---------------------------------------|
-| Solus  | Lighting a new shrine| Leaving a shrine unlit | Light[1], Dazzling Light, Bend Light   |
-| Coent  | Blessing a child     | Killing a humanoid     | Spare the dying[1], Mana, Revivify     |
-| Gegtix | Planting a tree      | Cutting a tree         | Thornwhip[1], Vine Suit, lightning bolt|
-| Exheia | Teaching someone     | Keeping a secret       | Eye stone[1], Identify, Mind Probe[1]  |
+| Solus  | Lighting a new shrine| Leaving a shrine unlit | Light, Dazzling Light, Bend Light      |
+| Coent  | Blessing a child     | Killing a humanoid     | Spare the dying, Mana, Revivify        |
+| Gegtix | Planting a tree      | Cutting a tree         | Thornwhip, Vine Suit, lightning bolt   |
+| Exheia | Teaching someone     | Keeping a secret       | Eye stone, Identify, Mind Probe        |
 |        | for an hour          |                        |                                        |
 | Bimros | Provide Judgement    | Fail to fight bad acts | Chastise, Smite, confess               |
 |        | for a crime          | of others              |                                        |
-`[1]: Spell is found in the Spell Compendium Volume 1`
 
 
 ### Channel Divinity
@@ -165,7 +133,7 @@ You may build the channeled energy further and consuming 2 more stamina dice, gr
 Your eyes begin to glow brightly. You can see all creatures within 120 feet of you, whether they are invisible, hiding, or in a parallel dimension such as the ethereal plane. You chant a holy prayer, and any friendly creatures within range share this sight, and additionally gain advantage on any attack rolls they make. Each turn, you may use your bonus action to continue chanting in order to extend this effect for up to 1 minute.
 
 #### Reap (Bimros)
-You use one hand to point at an evil creature within 60 feet, and hold your other hand in the air as you declare that the creature will be reaped in the name of Bimros. A spectral scythe appears in your hand. You are proficient with the scythe and it uses wisdom instead of strength. The scythe deals 3d10 force damage on a hit. If you kill the targeted creature, their soul is harvested and you receive 1d2 * 1000 piety. The weapon disappears after 1 minute, or if you end a turn without having attacked with it, or after killing the targeted creature.
+You use one hand to point at an evil creature within 60 feet, and hold your other hand in the air as you declare that the creature will be reaped in the name of Bimros. A spectral scythe appears in your hand. You are proficient with the scythe and it uses wisdom instead of strength. The scythe deals 3d10 force damage on a hit. If you kill the targeted creature, their soul is harvested and you receive 1d2 * 40 piety. The weapon disappears after 1 minute, or if you end a turn without having attacked with it, or after killing the targeted creature.
 
 ## Spell List
 

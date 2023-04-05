@@ -558,7 +558,7 @@ Law establishes an order in the form of hierarchies via social institutions such
 Many lesser divines combined, forming more powerful divines containing multiple aspects. The celestial pantheon was formed by a few of these divines forming a loose alliance and creating a realm together from which they shape the world. They are perpetually in a state of cold war, their conflict limited entirely to the material plane where they compete using the prayers of their believers.
 
 ### Bimros
-God of arrows, hunting, and dominion over nature. He created humans to rule the mountains, fields, and forests. His symbol is that of monolith containing his 14 laws, which he created to provide humans with direction in the world.
+God of arrows, hunting, and dominion over nature. He created the first blue humans to rule the mountains, fields, and forests. His symbol is that of monolith containing his 14 laws, which he created to provide humans with direction in the world. Bimros is a blue humanoid who wears full platemail and carries a sword.
 
 ### Gegtex
 Goddess of grass, trees, flowers, thorns, fruit, and rebirth. Creating the fae to protect her aspects as they are reflected in the Crucible's wildlife. Gegtex offers an oath to pursue this goal as well, granting druidic magic to those who take it.
@@ -632,6 +632,7 @@ Devils are well-known for their contract magic. They occupy the upper layers of 
 Nekatur visits the lonely and desperate in the material plane. Often, her job is an easy one. She offers contracts offering to magically fulfill her clients' desires. With the money and favors she gets from wealthy and influential clients, she backs puritanical reforms, further driving demand for her forbidden services.
 
 ### Docla, starvation devil
+`Doh-kla`
 Docla deals in extending the mortality of her clients, either by days, weeks, years, or centuries. Her payment comes in favors. Salting a crop, chaining someone in a basement with water, or robbing a grain shipment, Docla and her underlings are nourished by the hunger and starvation of others. In rare cases, she accepts long-term fasting as payment.
 
 ### Barnoth, fashion devil

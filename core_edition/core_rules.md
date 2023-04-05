@@ -496,35 +496,35 @@ You may drop caltrops over a space of four 5ft squares that are connected. When 
 | Sling                  | 1 sp  | 1d4 bludgeoning | —       | Ammunition (range 30/120)                     |
 
 #### Martial Melee Weapons
-|         Weapon         | Cost  |     Damage      | Weight  |                       Properties     |
-|:-----------------------|:------|:----------------|:--------|:-------------------------------------|
-| Battleaxe              | 10 gp | 1d8 slashing    | 4 lb.   | Versatile (1d10)                     |
-| Flail                  | 10 gp | 1d8 bludgeoning | 2 lb.   | —                                    |
-| Glaive                 | 20 gp | 1d10 slashing   | 6 lb.   | Heavy, reach, two-handed             |
-| Greataxe               | 30 gp | 1d12 slashing   | 7 lb.   | Heavy, two-handed                    |
-| Greatsword             | 50 gp | 2d6 slashing    | 6 lb.   | Heavy, two-handed                    |
-| Halberd                | 20 gp | 1d10 slashing   | 6 lb.   | Heavy, reach, two-handed             |
-| Lance                  | 10 gp | 1d12 piercing   | 6 lb.   | Reach, special                       |
-| Longsword              | 15 gp | 1d8 slashing    | 3 lb.   | Versatile (1d10)                     |
-| Morningstar            | 15 gp | 1d8 piercing    | 4 lb.   | —                                    |
-| Pike                   | 5 gp  | 1d10 piercing   | 18 lb.  | Heavy, reach, two-handed             |
-| Rapier                 | 25 gp | 1d8 piercing    | 2 lb.   | Finesse                              |
-| Scimitar               | 25 gp | 1d6 slashing    | 3 lb.   | Finesse, light                       |
-| Shortsword             | 10 gp | 1d6 piercing    | 2 lb.   | Finesse, light                       |
-| Trident                | 5 gp  | 1d6 piercing    | 4 lb.   | Thrown (range 20/60), versatile (1d8)|
-| War pick               | 5 gp  | 1d8 piercing    | 2 lb.   | —                                    |
-| Warhammer              | 15 gp | 1d8 bludgeoning | 2 lb.   | Versatile (1d10)                     |
-| Greathammer            | 30 gp | 3d4 bludgeoning | 9 lb.   | Two-handed, Heavy                    |
-| Whip                   | 2 gp  | 1d4 slashing    | 3 lb.   | Finesse, reach                       |
+|     Weapon    | Cost  |     Damage      | Weight  |                       Properties     |
+|:--------------|:------|:----------------|:--------|:-------------------------------------|
+| Battleaxe     | 10 gp | 1d8 slashing    | 4 lb.   | Versatile (1d10)                     |
+| Flail         | 10 gp | 1d8 bludgeoning | 2 lb.   | —                                    |
+| Glaive        | 20 gp | 1d10 slashing   | 6 lb.   | Heavy, reach, two-handed             |
+| Greataxe      | 30 gp | 1d12 slashing   | 7 lb.   | Heavy, two-handed                    |
+| Greatsword    | 50 gp | 2d6 slashing    | 6 lb.   | Heavy, two-handed                    |
+| Halberd       | 20 gp | 1d10 slashing   | 6 lb.   | Heavy, reach, two-handed             |
+| Lance         | 10 gp | 1d12 piercing   | 6 lb.   | Reach, special                       |
+| Longsword     | 15 gp | 1d8 slashing    | 3 lb.   | Versatile (1d10)                     |
+| Morningstar   | 15 gp | 1d8 piercing    | 4 lb.   | —                                    |
+| Pike          | 5 gp  | 1d10 piercing   | 18 lb.  | Heavy, reach, two-handed             |
+| Rapier        | 25 gp | 1d8 piercing    | 2 lb.   | Finesse                              |
+| Scimitar      | 25 gp | 1d6 slashing    | 3 lb.   | Finesse, light                       |
+| Shortsword    | 10 gp | 1d6 piercing    | 2 lb.   | Finesse, light                       |
+| Trident       | 5 gp  | 1d6 piercing    | 4 lb.   | Thrown (range 20/60), versatile (1d8)|
+| War pick      | 5 gp  | 1d8 piercing    | 2 lb.   | —                                    |
+| Warhammer     | 15 gp | 1d8 bludgeoning | 2 lb.   | Versatile (1d10)                     |
+| Greathammer   | 30 gp | 3d4 bludgeoning | 9 lb.   | Two-handed, Heavy                    |
+| Whip          | 2 gp  | 1d4 slashing    | 3 lb.   | Finesse, reach                       |
 
 ##### Martial Ranged Weapons
-|         Weapon         | Cost  |     Damage      | Weight  |                       Properties                       |
-|:-----------------------|:------|:----------------|:--------|:-------------------------------------------------------|
-| Blowgun                | 10 gp | 1 piercing      | 1 lb.   | Ammunition (range 25/100), loading                     |
-| Crossbow, hand         | 75 gp | 1d6 piercing    | 3 lb.   | Ammunition (range 30/120), light, loading              |
-| Crossbow, heavy        | 50 gp | 1d10 piercing   | 18 lb.  | Ammunition (range 100/400), heavy, loading, two-handed |
-| Longbow                | 50 gp | 1d8 piercing    | 2 lb.   | Ammunition (range 150/600), heavy, two-handed          |
-| Net                    | 1 gp  | —               | 3 lb.   | Special, thrown (range 5/15)                           |
+|         Weapon  | Cost  |     Damage      | Weight  |                       Properties                       |
+|:----------------|:------|:----------------|:--------|:-------------------------------------------------------|
+| Blowgun         | 10 gp | 1 piercing      | 1 lb.   | Ammunition (range 25/100), loading                     |
+| Crossbow, hand  | 75 gp | 1d6 piercing    | 3 lb.   | Ammunition (range 30/120), light, loading              |
+| Crossbow, heavy | 50 gp | 1d10 piercing   | 18 lb.  | Ammunition (range 100/400), heavy, loading, two-handed |
+| Longbow         | 50 gp | 1d8 piercing    | 2 lb.   | Ammunition (range 150/600), heavy, two-handed          |
+| Net             | 1 gp  | —               | 3 lb.   | Special, thrown (range 5/15)                           |
 
 
 #### Weapon properties
@@ -647,7 +647,7 @@ An adventurer has stamina dice to measure their state of physical endurance. The
 If exposed to the elements in an extremely hot or cold environment, an adventurer must succeed a DC 14 constitution saving throw or lose a stamina die. This check repeats for each hour spent exposed to the elements. An adventurer may avoid these checks by staying in shelter or wearing clothing appropriate to the weather.
 
 ### Rest
-An adventurer may wish to rest to recover their physical and mental stamina as  well as perform maintenance of their gear. A rest takes 8 hours, and can occur once per day. Provided an adventurer is not suffering from starvation, exposure to harsh elements(such as ice or desert sun), or dehydration, they may regain  one stamina die for each amenity that their rest includes(See amenities table below). Adventurers may also expend up to one stamina die for each amenity  during the rest. An adventurer may expend a stamina die to roll it, add their constitution bonus, and restore that many hit points.
+An adventurer may wish to rest to recover their physical and mental stamina as  well as perform maintenance of their gear. A rest takes 8 hours, and can occur once per day. Provided an adventurer is not suffering from starvation, exposure to harsh elements(such as ice or desert sun), or dehydration, they may regain one stamina die for each amenity that their rest includes(See amenities table below). Adventurers may also expend one stamina die and roll it, add their CON modifier, and restore that many hit points. If you spend a full day doing nothing but resting and light activities such as gathering firewood, cooking, and inscribing runestones, you may rest twice.
 
 |   Rest amenities    |
 |:--------------------|
