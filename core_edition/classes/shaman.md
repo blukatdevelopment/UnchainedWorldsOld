@@ -47,23 +47,21 @@ You are proficient with:
 
 ```
 LVL = level
-XP = total experience points needed for level
-SD = Stamina Dice
 Prof = proficiency bonus
 SL = Spell level
 ```
-| LVL |  XP   |SD |Prof |SL |        Features                              |
-|:----|-------|---|-----|---|----------------------------------------------|
-|   1 |     0 | 2 | +1  | --| Nature Spirit, Minor Wildshape, Spellcasting |
-|   2 |   300 | 4 | +1  |  1|                                              |
-|   3 |   900 | 6 | +2  |  1| Elemental Affinity                           |
-|   4 |  1800 | 8 | +2  |  2| Greater Wildshape                            |
-|   5 |  3600 |10 | +2  |  2|                                              |
-|   6 |  6100 |12 | +2  |  3| Superior Wildshape                           |
-|   7 |  9100 |14 | +3  |  3|                                              |
-|   8 | 13100 |16 | +3  |  3| Elemental Expertise                          |
-|   9 | 22600 |18 | +4  |  3|                                              |
-|  10 | 44600 |20 | +4  |  3| Nature Spirit Ascension                      |
+| LVL |Prof |SL |        Features                              |
+|:----|-----|---|----------------------------------------------|
+|   1 | +1  | --| Nature Spirit, Minor Wildshape, Spellcasting |
+|   2 | +1  |  1|                                              |
+|   3 | +2  |  1| Elemental Affinity                           |
+|   4 | +2  |  2| Greater Wildshape                            |
+|   5 | +2  |  2|                                              |
+|   6 | +2  |  3| Superior Wildshape                           |
+|   7 | +3  |  3|                                              |
+|   8 | +3  |  3| Elemental Expertise                          |
+|   9 | +4  |  3|                                              |
+|  10 | +4  |  3| Nature Spirit Ascension                      |
 
 ## Feats
 

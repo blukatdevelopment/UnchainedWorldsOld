@@ -53,22 +53,20 @@ Select two of the following:
 
 ```
 LVL = level
-XP = total experience points needed for level
-SD = Stamina Dice
 Prof = proficiency bonus
 ```
-| LVL |XP     | SD|Prof |  Features                                  |
-|:----|:------|:--|:----|:------------------------------------------ |
-|   1 |     0 | 2 | +1  |  Scientific Instruments, concealed defense |
-|   2 |   300 | 4 | +1  |  Fundamental Truth                         |
-|   3 |   900 | 6 | +2  |  Old Reliable                              |
-|   4 |  1800 | 8 | +2  |  Field of expertise                        |
-|   5 |  3600 |10 | +2  |  Ability Score Increase                    |
-|   6 |  6100 |12 | +2  |  Branch out                                |
-|   7 |  9100 |14 | +3  |                                            |
-|   8 | 13100 |16 | +3  |  Capstone                                  |
-|   9 | 22600 |18 | +4  |                                            |
-|  10 | 44600 |20 | +4  |  Ability Score Increase                    |
+| LVL |Prof |  Features                                  |
+|:----|:----|:------------------------------------------ |
+|   1 | +1  |  Scientific Instruments, concealed defense |
+|   2 | +1  |  Fundamental Truth                         |
+|   3 | +2  |  Old Reliable                              |
+|   4 | +2  |  Field of expertise                        |
+|   5 | +2  |  Ability Score Increase                    |
+|   6 | +2  |  Branch out                                |
+|   7 | +3  |                                            |
+|   8 | +3  |  Capstone                                  |
+|   9 | +4  |                                            |
+|  10 | +4  |  Ability Score Increase                    |
 
 ## Features
 

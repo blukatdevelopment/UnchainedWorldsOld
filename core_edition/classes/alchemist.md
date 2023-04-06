@@ -52,23 +52,21 @@ You are proficient in the following skills:
 
 ```
 LVL = level
-XP = total experience points needed for level
-SD = Stamina Dice
 Prof = proficiency bonus
 TN = Techniques
 ```
-| LVL |  XP   |SD |Prof |TN |        Features        |
-|:----|:------|:--|:----|:--|:-----------------------|
-|   1 |     0 | 2 | +1  | 1 | Novice Alchemy         |
-|   2 |   300 | 4 | +1  | 2 | Lesser Splash Potions  |
-|   3 |   900 | 6 | +2  | 3 | Big Dipper, Quick Brew |
-|   4 |  1800 | 8 | +2  | 4 | Journeyman Alchemy     |
-|   5 |  3600 |10 | +2  | 5 | Ability Score Increase |
-|   6 |  6100 |12 | +2  | 6 | GlassBlower            |
-|   7 |  9100 |14 | +3  | 7 | Expert Alchemy         |
-|   8 | 13100 |16 | +3  | 7 | Greater Splash Potions |
-|   9 | 22600 |18 | +4  | 7 | Master Alchemy         |
-|  10 | 44600 |20 | +4  | 7 | Ability Score Increase |
+| LVL |Prof |TN |        Features        |
+|:----|:----|:--|:-----------------------|
+|   1 | +1  | 1 | Novice Alchemy         |
+|   2 | +1  | 2 | Lesser Splash Potions  |
+|   3 | +2  | 3 | Big Dipper, Quick Brew |
+|   4 | +2  | 4 | Journeyman Alchemy     |
+|   5 | +2  | 5 | Ability Score Increase |
+|   6 | +2  | 6 | GlassBlower            |
+|   7 | +3  | 7 | Expert Alchemy         |
+|   8 | +3  | 7 | Greater Splash Potions |
+|   9 | +4  | 7 | Master Alchemy         |
+|  10 | +4  | 7 | Ability Score Increase |
 
 
 ## Features

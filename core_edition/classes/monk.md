@@ -43,25 +43,23 @@ You are proficient in these skills:
 
 ```
 LVL = level
-XP = total experience points needed for level
-SD = Stamina Dice
 Prof = proficiency bonus
 KD = Ki Dice
 TN = Techniques
 ```
 
-| LVL |    XP | SD|Prof |  KD |  TN |       Features          |
-|:----|:------|:--|:----|:----|:----|:------------------------|
-|   1 |      0| 2 | +1  | 1d6 |   3 | Ki, Ki Fists, Techniques|
-|   2 |    300| 4 | +1  | 2d6 |   4 |                         |
-|   3 |    900| 6 | +2  | 3d6 |   5 | Discipline              |
-|   4 |   1800| 8 | +2  | 4d6 |   6 |                         |
-|   5 |   3600|10 | +2  | 5d6 |   7 |                         |
-|   6 |   6100|12 | +2  | 6d6 |   8 |                         |
-|   7 |   9100|14 | +3  | 7d6 |   9 | Extra Attack            |
-|   8 |  13100|16 | +3  | 8d6 |  10 |                         |
-|   9 |  22600|18 | +4  | 9d6 |  11 |                         |
-|  10 |  44600|20 | +4  |10d6 |  12 |                         |
+| LVL |Prof |  KD |  TN |       Features          |
+|:----|:----|:----|:----|:------------------------|
+|   1 | +1  | 1d6 |   3 | Ki, Ki Fists, Techniques|
+|   2 | +1  | 2d6 |   4 |                         |
+|   3 | +2  | 3d6 |   5 | Discipline              |
+|   4 | +2  | 4d6 |   6 |                         |
+|   5 | +2  | 5d6 |   7 |                         |
+|   6 | +2  | 6d6 |   8 |                         |
+|   7 | +3  | 7d6 |   9 | Extra Attack            |
+|   8 | +3  | 8d6 |  10 |                         |
+|   9 | +4  | 9d6 |  11 |                         |
+|  10 | +4  |10d6 |  12 |                         |
 
 ## Features
 

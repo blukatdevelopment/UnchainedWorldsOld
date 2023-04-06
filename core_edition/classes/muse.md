@@ -51,24 +51,22 @@ Choose 4 from the following:
 
 ```
 LVL = level
-XP = total experience points needed for level
-SD = Stamina Dice
 Prof = proficiency bonus
 SL = Spell Level
 ```
 
-| LVL |  XP   |SD |Prof |SL |        Features       |
-|:----|-------|---|-----|---|-----------------------|
-|   1 |     0 | 2 | +1  | 1 | Spellcasting, Focus   |
-|   2 |   300 | 4 | +1  | 1 | Expertise             |
-|   3 |   900 | 6 | +2  | 2 | Focus Feat            |
-|   4 |  1800 | 8 | +2  | 2 | Jack of all Trades    |
-|   5 |  3600 |10 | +2  | 2 | Improvised preparation|
-|   6 |  6100 |12 | +2  | 3 | Reliable Talent       |
-|   7 |  9100 |14 | +3  | 3 | Esoteric knowledge    |
-|   8 | 13100 |16 | +3  | 3 |                       |
-|   9 | 22600 |18 | +4  | 3 |                       |
-|  10 | 44600 |20 | +4  | 3 | Unbound knowledge     |
+| LVL |Prof |SL |        Features       |
+|:----|-----|---|-----------------------|
+|   1 | +1  | 1 | Spellcasting, Focus   |
+|   2 | +1  | 1 | Expertise             |
+|   3 | +2  | 2 | Focus Feat            |
+|   4 | +2  | 2 | Jack of all Trades    |
+|   5 | +2  | 2 | Improvised preparation|
+|   6 | +2  | 3 | Reliable Talent       |
+|   7 | +3  | 3 | Esoteric knowledge    |
+|   8 | +3  | 3 |                       |
+|   9 | +4  | 3 |                       |
+|  10 | +4  | 3 | Unbound knowledge     |
 
 ## Features
 

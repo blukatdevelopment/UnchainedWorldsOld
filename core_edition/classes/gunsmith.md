@@ -51,23 +51,21 @@ Choose one skill:
 
 ```
 LVL = level
-XP = total experience points needed for level
-SD = Stamina Dice
 Prof = proficiency bonus
 ```
 
-| LVL | XP    | SD|Prof |         Features            |
-|:----|:------|:--|:----|:----------------------------|
-|   1 |     0 | 2 | +1  | Gunning 1, Smithing         |
-|   2 |   300 | 4 | +1  | Gunning 2                   |
-|   3 |   900 | 6 | +2  | Gunning 3                   |
-|   4 |  1800 | 8 | +2  | Gunning 4                   |
-|   5 |  3600 |10 | +2  | Gunning 5, Ability Increase |
-|   6 |  6100 |12 | +2  | Gunning 6                   |
-|   7 |  9100 |14 | +3  | Gunning 7, Advanced Smithing|
-|   8 | 13100 |16 | +3  | Gunning 8, Ability Increase |
-|   9 | 22600 |18 | +4  | Gunning 9                   |
-|  10 | 44600 |20 | +4  | Gunning 10                  |
+| LVL |Prof |         Features            |
+|:----|:----|:----------------------------|
+|   1 | +1  | Gunning 1, Smithing         |
+|   2 | +1  | Gunning 2                   |
+|   3 | +2  | Gunning 3                   |
+|   4 | +2  | Gunning 4                   |
+|   5 | +2  | Gunning 5, Ability Increase |
+|   6 | +2  | Gunning 6                   |
+|   7 | +3  | Gunning 7, Advanced Smithing|
+|   8 | +3  | Gunning 8, Ability Increase |
+|   9 | +4  | Gunning 9                   |
+|  10 | +4  | Gunning 10                  |
 
 ## Features
 

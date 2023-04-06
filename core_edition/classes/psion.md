@@ -42,24 +42,22 @@ You are proficient in the following skills:
 
 ```
 LVL = level
-XP = total experience points needed for level
-SD = Stamina Dice
 Prof = proficiency bonus
 PD = Maximum Psionic Die size for level
 SL = Spell Level
 ```
-| LVL | XP    | SD|Prof | PD | SL |           Features                         |
-|:----|-------|---|-----|----|----|--------------------------------------------|
-|   1 |      0| 2 | +1  | D2 |  1 | Invisible Hand, Silent Voice, spellcasting |
-|   2 |    300| 4 | +1  | D2 |  1 | Psionic Guidance, Hit point Increase       |
-|   3 |    900| 6 | +2  | D4 |  1 | Meditation, Hit point Increase             |
-|   4 |   1800| 8 | +2  | D4 |  1 | Hit point re-roll                          |
-|   5 |   3600|10 | +2  | D6 |  2 | Ability Score Increase                     |
-|   6 |   6100|12 | +2  | D6 |  2 |                                            |
-|   7 |   9100|14 | +3  | D6 |  3 |                                            |
-|   8 |  13100|16 | +3  | D6 |  3 |                                            |
-|   9 |  22600|18 | +4  | D8 |  4 |                                            |
-|  10 |  44600|20 | +4  | D8 |  4 | Ability Score Increase                     |
+| LVL |Prof | PD | SL |           Features                         |
+|:----|-----|----|----|--------------------------------------------|
+|   1 | +1  | D2 |  1 | Invisible Hand, Silent Voice, spellcasting |
+|   2 | +1  | D2 |  1 | Psionic Guidance, Hit point Increase       |
+|   3 | +2  | D4 |  1 | Meditation, Hit point Increase             |
+|   4 | +2  | D4 |  1 | Hit point re-roll                          |
+|   5 | +2  | D6 |  2 | Ability Score Increase                     |
+|   6 | +2  | D6 |  2 |                                            |
+|   7 | +3  | D6 |  3 |                                            |
+|   8 | +3  | D6 |  3 |                                            |
+|   9 | +4  | D8 |  4 |                                            |
+|  10 | +4  | D8 |  4 | Ability Score Increase                     |
 
 
 ## Features

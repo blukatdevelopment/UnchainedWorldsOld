@@ -47,23 +47,21 @@ You are proficient in the following:
 
 ```
 LVL = level
-XP = total experience points needed for level
-SD = Stamina Dice
 Prof = proficiency bonus
 ```
 
-| LVL |    XP | SD|Prof |       Features             |
-|:----|-------|---|-----|----------------------------|
-|   1 |      0| 2 | +1  | Tricks 1, Thieves' Cant    |
-|   2 |    300| 4 | +1  | Tricks 2, Expertise        |
-|   3 |    900| 6 | +2  | Tricks 3, Ability Increase |
-|   4 |   1800| 8 | +2  | Tricks 4,                  |
-|   5 |   3600|10 | +2  | Tricks 5,                  |
-|   6 |   6100|12 | +2  | Tricks 6, Ability Increase |
-|   7 |   9100|14 | +3  | Tricks 7,                  |
-|   8 |  13100|16 | +3  | Tricks 8,                  |
-|   9 |  22600|18 | +4  | Tricks 9,                  |
-|  10 |  44600|20 | +4  | Tricks 10, Ability Increase|
+| LVL |Prof |       Features             |
+|:----|-----|----------------------------|
+|   1 | +1  | Tricks 1, Thieves' Cant    |
+|   2 | +1  | Tricks 2, Expertise        |
+|   3 | +2  | Tricks 3, Ability Increase |
+|   4 | +2  | Tricks 4,                  |
+|   5 | +2  | Tricks 5,                  |
+|   6 | +2  | Tricks 6, Ability Increase |
+|   7 | +3  | Tricks 7,                  |
+|   8 | +3  | Tricks 8,                  |
+|   9 | +4  | Tricks 9,                  |
+|  10 | +4  | Tricks 10, Ability Increase|
 
 
 ## Features

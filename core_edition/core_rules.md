@@ -151,25 +151,23 @@ If you trust your fate to the dice gods, this is your ritual. You will discover 
 Every character has a proficiency bonus which increases with level progression. When you're proficient with a skill, you can add your proficiency bonus to ability checks using that skill. You may likewise exhaust a stamina die and roll it as a bonus on an ability check using that skill. Skills define a field of expertise, like agriculture, tracking, or poetry. They are not defined exhaustively, and can be added by supplementary books or improvised in the moment. Skills are best negotiated in the context they're being applied to. For instance, a player might say "I'm use my tracking knowledge to attempt to determine how fresh these footprints are." or "I use my poetry skill to write a catchy rhyme that will spread a message of disapproval of the king.".
 
 ## Class
-Your class decides your stamina dice, class features, and informs the role you'll play in your party. Talk to you keeper about what classes are available at your table.
+Your class decides your stamina die size, class features, and informs the role you'll play in your party. Talk to you keeper about what classes are available at your table.
 
-### Commoner Stat Block
-If you wish to only use the core rules, you may use this commoner stat block in lieu of supplemental character creation options.
-```
-#####################
-# Name: 
-# Class: Commoner
-# HP(Max 4): 4
-# AC: 10, Speed: 30ft
-# Stamina Dice(Max 1d4): 1
-# Ability scores: All are 10 (+0)
-#-------------------
-# Inventory:
-# - Common clothes
-# - One tool, left over from your previous profession
-# - 5GP, your entire life savings
-#####################
-```
+### Advancement
+As you earn XP, you gain levels according to the table below.
+| Level |  Total XP   |
+|:------|:------------|
+|   1   |           0 |
+|   2   |          30 |
+|   3   |          90 |
+|   4   |         180 |
+|   5   |         360 |
+|   6   |         610 |
+|   7   |         910 |
+|   8   |        1310 |
+|   9   |        2260 |
+|  10   |        4460 |
+
 # Roleplaying
 
 ## Control your character

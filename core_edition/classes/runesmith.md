@@ -48,24 +48,22 @@ You are proficient in these skills:
 
 ```
 LVL = level
-XP = total experience points needed for level
-SD = Stamina Dice
 Prof = proficiency bonus
 SL = Spell Level
 ```
 
-| LVL | XP    | SD|Prof | SL |    Features              |
-|:----|:------|:--|:----|:---|:-------------------------|
-|   1 |      0| 2 | +1  |  1 | Runebook                 |
-|   2 |    300| 4 | +1  |  1 | Runesmithing, Runecasting|
-|   3 |    900| 6 | +2  |  1 |                          |
-|   4 |   1800| 8 | +2  |  2 |                          |
-|   5 |   3600|10 | +2  |  2 | Ability Score Increase   |
-|   6 |   6100|12 | +2  |  3 | Specialty                |
-|   7 |   9100|14 | +3  |  3 |                          |
-|   8 |  13100|16 | +3  |  4 |                          |
-|   9 |  22600|18 | +4  |  4 | Ability Score Increase   |
-|  10 |  44600|20 | +4  |  5 | Create Spell             |
+| LVL |Prof | SL |    Features              |
+|:----|:----|:---|:-------------------------|
+|   1 | +1  |  1 | Runebook                 |
+|   2 | +1  |  1 | Runesmithing, Runecasting|
+|   3 | +2  |  1 |                          |
+|   4 | +2  |  2 |                          |
+|   5 | +2  |  2 | Ability Score Increase   |
+|   6 | +2  |  3 | Specialty                |
+|   7 | +3  |  3 |                          |
+|   8 | +3  |  4 |                          |
+|   9 | +4  |  4 | Ability Score Increase   |
+|  10 | +4  |  5 | Create Spell             |
 
 
 ## Features

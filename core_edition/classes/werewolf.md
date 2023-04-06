@@ -47,23 +47,21 @@ You are proficient with the following:
 
 ```
 LVL = level
-XP = total experience points needed for level
-SD = Stamina Dice
 Prof = proficiency bonus
 ```
 
-| LVL |  XP    | SD|Prof |        Features                 |
-|:----|--------|---|-----|---------------------------------|
-|   1 |     0  | 2 | +1  | Werewolf Form, Controlled Shift |
-|   2 |   300  | 4 | +1  | Howl                            |
-|   3 |   900  | 6 | +2  | Charge                          |
-|   4 |  1800  | 8 | +2  | Alpha Strike                    |
-|   5 |  3600  |10 | +2  | Ability Score Increase          |
-|   6 |  6100  |12 | +2  | Bloodlust                       |
-|   7 |  9100  |14 | +3  | Werewolf Fortitude              |
-|   8 | 13100  |16 | +3  | Extra Attack                    |
-|   9 | 22600  |18 | +4  | Non-magical Immunity            |
-|  10 | 44600  |20 | +4  | Ability Score Increase          |
+| LVL |Prof |        Features                 |
+|:----|-----|---------------------------------|
+|   1 | +1  | Werewolf Form, Controlled Shift |
+|   2 | +1  | Howl                            |
+|   3 | +2  | Charge                          |
+|   4 | +2  | Alpha Strike                    |
+|   5 | +2  | Ability Score Increase          |
+|   6 | +2  | Bloodlust                       |
+|   7 | +3  | Werewolf Fortitude              |
+|   8 | +3  | Extra Attack                    |
+|   9 | +4  | Non-magical Immunity            |
+|  10 | +4  | Ability Score Increase          |
 
 ## Features
 

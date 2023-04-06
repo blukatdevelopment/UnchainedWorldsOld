@@ -1,6 +1,12 @@
 # Keeper's Guide
 This document contains supplemental info that may be referenced during the campaign.
 
+# Rewards
+
+## Golden standard
+1GP = 1XP, does not cover selling purchased items
+Additionally, every GP you spend earns you 1XP.
+
 # Hirelings
 
 ## Pathfinders

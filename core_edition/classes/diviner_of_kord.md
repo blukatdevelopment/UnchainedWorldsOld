@@ -35,22 +35,20 @@ You may choose one of the following skills:
 
 ```
 LVL = level
-XP = total experience points needed for level
-SD = Stamina Dice
 Prof = proficiency bonus
 ```
-| LVL |XP     |SD |Prof |Spell Level |        Features            |
-|:----|:------|:--|:----|:-----------|:---------------------------|
-|   1 |      0| 2 | +1  |  Cantrip   | Divine Spellcasting        |
-|   2 |    300| 4 | +1  |     1      |                            |
-|   3 |    900| 6 | +2  |     2      |                            |
-|   4 |   1800| 8 | +2  |     2      |                            |
-|   5 |   3600|10 | +2  |     3      | Ability Score Increase     |
-|   6 |   6100|12 | +2  |     3      |                            |
-|   7 |   9100|14 | +3  |     4      |                            |
-|   8 |  13100|16 | +3  |     4      |                            |
-|   9 |  22600|18 | +4  |     5      |                            |
-|  10 |  44600|20 | +4  |     5      | Ability Score Increase     |
+| LVL |Prof |Spell Level |        Features            |
+|:----|:----|:-----------|:---------------------------|
+|   1 | +1  |  Cantrip   | Divine Spellcasting        |
+|   2 | +1  |     1      |                            |
+|   3 | +2  |     2      |                            |
+|   4 | +2  |     2      |                            |
+|   5 | +2  |     3      | Ability Score Increase     |
+|   6 | +2  |     3      |                            |
+|   7 | +3  |     4      |                            |
+|   8 | +3  |     4      |                            |
+|   9 | +4  |     5      |                            |
+|  10 | +4  |     5      | Ability Score Increase     |
 
 ## Feats
 
