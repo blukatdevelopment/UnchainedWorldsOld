@@ -11,8 +11,8 @@
 # Thief
 Sneaking, scheming, and plotting the deeds that are better left under the cover of night, you are an expert in all things stealth and theft.
 
-## Starting hit points
-You start with 6+CON hit points.
+## Hit points
+Roll 3d6 and add your CON modifier three times(minimum 1HP). These are your starting hit points. Every time you gain a level, you may roll again and keep the total if it is higher.
 
 ## Stamina Die size
 The thief's stamina die is a d6.

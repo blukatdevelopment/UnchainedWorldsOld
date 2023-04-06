@@ -11,8 +11,8 @@
 # Scientist
 You have a habit of looking past limits, be they technical or moral. An insatiable curiosity transforms your life into an unending pursuit of knowledge.
 
-## Starting hit points
-You start with 4+CON hit points.
+## Hit points
+Roll 3d4 and add your CON modifier three times(minimum 1HP). These are your starting hit points. Every time you gain a level, you may roll again and keep the total if it is higher.
 
 ## Stamina Die size
 The scientist's stamina die is a d4.
