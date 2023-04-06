@@ -33,7 +33,7 @@ Menu
 
 ## School of Flying Claws
 Martial arts academy
-- Lihlihkihnahkoh(he/him, Fennec foxfolk)(Way of fist Monk)
+- Lihlihkihnahkoh(he/him, Fennec foxfolk)(Way of fist Aurent)
 - Kihteegeegah(she/her, Foxfolk)(Pupil)
 - Lahtahkah(he/him, Golden retrieverfolk)(Pupil)
 - Gihgahnih(N)(Mousefolk)(Pupil)

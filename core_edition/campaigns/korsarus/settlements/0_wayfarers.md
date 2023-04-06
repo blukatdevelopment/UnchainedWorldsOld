@@ -45,8 +45,8 @@ Group of mercs patrollong for Omaria.
 
 ### The Silent Caravan
 Communicate by setting up a wooden board with a hundred words on it, and pointing.
-- Claymore(she/her, human) (monk)
-- Lance(he/him, human) (monk)
+- Claymore(she/her, human) (Aurent)
+- Lance(he/him, human) (Aurent)
 - Lens(she/her, human) (healer)
 - Anvil(he/him, human) (swordbarer)
 - Nib(she/her, human) (archer)

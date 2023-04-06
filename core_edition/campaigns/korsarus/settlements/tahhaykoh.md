@@ -79,7 +79,7 @@ On display in coat of arms, but not for sale:
 
 ## Temple of Uaos
 - Statue of bull-headed figure with an axe
-- Tihtahgay(she/her, warthog folk)(way of the fist Monk)
+- Tihtahgay(she/her, warthog folk)(way of the fist Aurent)
 - Kahkohheekoh(she/her, giraffe folk)
 - Neenoohih(she/her, bull folk)
 - Nihtohhahkoh(he/him, polar bear folk)

@@ -112,10 +112,10 @@ The organized pirates of the Eastern Sea. The privateers can be contracted as a 
 A group that gathered under the lawful evil pursuit of violence for it's own sake. They follow a secret code of ethics in their killing. They are centered in Shadowvale, which is largely unreachable by Omarian authority.
 
 ### NPCs
-- Fantsmok(she/her, human) Monk
-- Laynohgay(he/him, fox folk) Monk
-- Fedbalt(she/her, human) Monk
-- Loogoolihkih(he/him, wolf folk) Monk
+- Fantsmok(she/her, human) Aurent
+- Laynohgay(he/him, fox folk) Aurent
+- Fedbalt(she/her, human) Aurent
+- Loogoolihkih(he/him, wolf folk) Aurent
 - Hesblank(she/her, human) Thief
 - Persbir(he/him, human) Thief
 - Aganul(she/her, human) Thief

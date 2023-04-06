@@ -51,7 +51,7 @@ Roll for a random scene
 
 ## Shrine of Uaos
 - Socru Elstat(she/her, wolf folk)
-- Neetihlayhaylee(he/him, skunk folk)(Way of the fist Monk)
+- Neetihlayhaylee(he/him, skunk folk)(Way of the fist Aurent)
 
 ## Stables
 - Nihtihhihtee(he/him, mink folk)

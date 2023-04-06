@@ -22,10 +22,10 @@ These four communities are arranged in a square, with a marketplace between them
 6. Room already occupied
 
 ### Assassin's guild hall
-- Fantsmok(she/her, human) Monk
-- Laynohgay(he/him, fox folk) Monk
-- Fedbalt(she/her, human) Monk
-- Loogoolihkih(he/him, wolf folk) Monk
+- Fantsmok(she/her, human) Aurent
+- Laynohgay(he/him, fox folk) Aurent
+- Fedbalt(she/her, human) Aurent
+- Loogoolihkih(he/him, wolf folk) Aurent
 - Hesblank(she/her, human) Thief
 - Persbir(he/him, human) Thief
 - Aganul(she/her, human) Thief

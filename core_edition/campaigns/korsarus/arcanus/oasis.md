@@ -29,7 +29,7 @@
 - Community of silent
 
 #### Residents
-- Chihrohraimee(he/him, human, silent, Monk)
+- Chihrohraimee(he/him, human, silent, Aurent)
 - Tchaomeorihtee(she/her, skunk folk, silent, Scientist)
 - Sooneotuhwai(he/him, otter folk, silent)
 - Tcheemihgayvuh(he/him, human, silent)
