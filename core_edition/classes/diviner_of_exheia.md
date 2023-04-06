@@ -1,5 +1,5 @@
-# Diviner
-You live as an example to all that share your faith. In service of a deity or divine entity, you live by a strict code of conduct and leverage your piety to wield your deity's magic.
+# Diviner Of Exheia
+Exheia cares chiefly about the pursuit of knowledge, and so too do you. You seek out discoveries to bring back to your library with holy fervor and the blessing of Exheia.
 
 ## Hit points
 Roll 3d4 and add your CON modifier three times(minimum 1HP). These are your starting hit points. Every time you gain a level, you may roll again and keep the total if it is higher.
@@ -35,18 +35,18 @@ You may choose one of the following skills:
 LVL = level
 Prof = proficiency bonus
 ```
-| LVL |Prof |Spell Level |        Features        |
-|:----|:----|:-----------|:-----------------------|
-|   1 | +1  |  Cantrip   | Divine Spellcasting    |
-|   2 | +1  |     1      |                        |
-|   3 | +2  |     2      |                        |
-|   4 | +2  |     2      |                        |
-|   5 | +2  |     3      | Ability Score Increase |
-|   6 | +2  |     3      |                        |
-|   7 | +3  |     4      |                        |
-|   8 | +3  |     4      |                        |
-|   9 | +4  |     5      |                        |
-|  10 | +4  |     5      | Ability Score Increase |
+| LVL |Prof |Spell Level |        Features                          |
+|:----|:----|:-----------|:-----------------------------------------|
+|   1 | +1  |  Cantrip   | Divine Spellcasting, Channel divinity    |
+|   2 | +1  |     1      |                                          |
+|   3 | +2  |     2      |                                          |
+|   4 | +2  |     2      |                                          |
+|   5 | +2  |     3      | Ability Score Increase                   |
+|   6 | +2  |     3      |                                          |
+|   7 | +3  |     4      |                                          |
+|   8 | +3  |     4      |                                          |
+|   9 | +4  |     5      |                                          |
+|  10 | +4  |     5      | Ability Score Increase                   |
 
 ## Feats
 
@@ -69,7 +69,7 @@ Spell tattoos are conduits for Exheia's power that allow you to cast a single sp
 |       5th |18|
 
 ### Channel divinity: Query
-You may consume a stamina die to touch an object and contact your library to telepathically request information from your head librarian. You will either gain a telepathic description of the artifact based on library records, or learn that it is a novel architect.
+You may touch an object and contact your library to telepathically request information from your head librarian. You will either gain a telepathic description of the artifact based on library records, or learn that it is a novel architect.
 
 ### Cantrip
 1.  Mending 

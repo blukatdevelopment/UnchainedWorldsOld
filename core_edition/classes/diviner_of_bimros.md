@@ -1,5 +1,5 @@
-# Diviner
-You live as an example to all that share your faith. In service of a deity or divine entity, you live by a strict code of conduct and leverage your piety to wield your deity's magic.
+# Diviner of Bimros
+God of dominion over nature, Bimros created the primordial humans in his image to inherit the world. Bimros is depicted as a blue human with long black hair, a sword, and platemail armor. You are a diviner of his will.
 
 ## Hit points
 Roll 3d4 and add your CON modifier three times(minimum 1HP). These are your starting hit points. Every time you gain a level, you may roll again and keep the total if it is higher.
@@ -29,7 +29,7 @@ You may choose one of the following skills:
 - Holy Book
 - Holy Symbol
 - backpack
-- vestments
+- Blue robes
 - holy book
 - holy symbol
 - 2 blocks of incense
@@ -39,26 +39,23 @@ You may choose one of the following skills:
 LVL = level
 Prof = proficiency bonus
 ```
-| LVL |Prof |Spell Level |        Features            |
-|:----|:----|:-----------|:---------------------------|
-|   1 | +1  |  Cantrip   | Divine Spellcasting        |
-|   2 | +1  |     1      |                            |
-|   3 | +2  |     2      |                            |
-|   4 | +2  |     2      |                            |
-|   5 | +2  |     3      | Ability Score Increase     |
-|   6 | +2  |     3      |                            |
-|   7 | +3  |     4      |                            |
-|   8 | +3  |     4      |                            |
-|   9 | +4  |     5      |                            |
-|  10 | +4  |     5      | Ability Score Increase     |
+| LVL |Prof |Spell Level |        Features                      |
+|:----|:----|:-----------|:-------------------------------------|
+|   1 | +1  |  Cantrip   | Divine Spellcasting, Channel divinity|
+|   2 | +1  |     1      |                                      |
+|   3 | +2  |     2      |                                      |
+|   4 | +2  |     2      |                                      |
+|   5 | +2  |     3      | Ability Score Increase               |
+|   6 | +2  |     3      |                                      |
+|   7 | +3  |     4      |                                      |
+|   8 | +3  |     4      |                                      |
+|   9 | +4  |     5      |                                      |
+|  10 | +4  |     5      | Ability Score Increase               |
 
 ## Feats
 
 ### Divine Spellcasting
 You've learned to call upon the power of a deity. Wisdom is your spellcasting ability. You learn two cantrips Your spell DC (difficulty class) is 8+proficiency bonus + wisdom modifier. Your spellcasting modifier is proficiency bonus + wisdom modifier. See your deity's section for more spellcasting details.
-
-### Bimros
-God of dominion over nature, Bimros created the primordial humans in his image to inherit the world. Bimros is depicted as a blue human with long black hair, a sword, and platemail armor.
 
 #### Preparing Spells
 Before you sleep at night, you may perform a prayer to bimros request a number of spells equal to half your diviner level (rounded down) plus your wisdom modifier,  minimum of one spell. You may select these spells from the  diviner spell list, and they must be first level or higher. You may only cast spells that you have prepared.
@@ -75,7 +72,7 @@ Bimros provides your source of magic, and so your fuel for spellcasting is piety
 | 4           |         300 |
 | 5           |         900 |
 
-#### Code: The 14 laws
+#### The 14 laws
 Legend says that his fourteen laws were written on a thousand foot monolith, though the location of it is unknown. The common translation of the laws are all that remains, and are highly disputed between different churches.
 1. Pray to no other
 2. Kill the murder
@@ -101,7 +98,7 @@ This translates to the following effect on piety.
 | +Donate 1gp to temple |      +1              |
 
 
-#### Channel divinity: Reap
+### Channel divinity: Reap
 You point to an unrepenting breaker of the laws of Bimros and hold your other hand in the air. A blue spectral scythe appears in your open hand with the crackle of thunder, consuming 30 piety. The blade remains for 1 minute and uses your WIS mod for attack and damage rolls. It deals 3d10 force damage. For every attack against the selected target, you gain piety equal to damage dealt. When the target dies, the scythe vanishes.
 
 ## Spell List
