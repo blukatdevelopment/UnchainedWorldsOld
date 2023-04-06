@@ -26,8 +26,8 @@ These stat blocks represent NPCs that are using character classes, as well as th
 - Extra attack
 
 
-### Monk
-`Monk, HP: 8(8), AC: 10, [12, 18, 12, 10, 16, 10],Ki Fists +5 1d4+4 magic bludgeoning`
+### Aurent
+`Aurent, HP: 8(8), AC: 10, [12, 18, 12, 10, 16, 10],Ki Fists +5 1d4+4 magic bludgeoning`
 - Reroll 3d6 Ki (10 times): Rerolls ki, replacing if higher value.
 - Extra attack: May make three unarmed attacks
 - Flurry of blows: Expend 1d4 Ki points to make three unarmed attacks as bonus action.
@@ -70,8 +70,8 @@ These stat blocks represent NPCs that are using character classes, as well as th
 `Scientist, HP: 12(3d4), AC: 11, [10, 12, 10, 18, 10, 10],Cane Sword +3 1d8+1 piercing`
 - Flamer(3/day): 15ft cone DC 13 DEX to halve 3d6 fire.
 
-### Shaman
-`Shaman, HP: 12(3d4), AC: 10, [10, 10, 10, 10, 18, 10],Quarterstaff +2 1d8 bludgeoning`
+### Wildheart
+`SWildheart, HP: 12(3d4), AC: 10, [10, 10, 10, 10, 18, 10],Quarterstaff +2 1d8 bludgeoning`
 - Wildshape Polar Bear(1/day): Form into polar bear.
 - Spellcasting +6, DC 14
 - Thorn Whip
