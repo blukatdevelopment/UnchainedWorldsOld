@@ -1,17 +1,15 @@
 ```
 ################################################################################
-#  _____ _                                                                     #
-# /  ___| |                                                                    #
-# \ `--.| |__   __ _ _ __ ___   __ _ _ __                                      #
-#  `--. \ '_ \ / _` | '_ ` _ \ / _` | '_ \                                     #
-# /\__/ / | | | (_| | | | | | | (_| | | | |                                    #
-# \____/|_| |_|\__,_|_| |_| |_|\__,_|_| |_|                                    #
-#                                                                              #
-#                                                                              #
+#                 _    _ _ _     _ _                     _                     #
+#                | |  | (_) |   | | |                   | |                    #
+#                | |  | |_| | __| | |__   ___  __ _ _ __| |_                   #
+#                | |/\| | | |/ _` | '_ \ / _ \/ _` | '__| __|                  #
+#                \  /\  / | | (_| | | | |  __/ (_| | |  | |_                   #
+#                 \/  \/|_|_|\__,_|_| |_|\___|\__,_|_|   \__|                  #
 ################################################################################
 ```
-# Shaman
-Some are sensitive enough to detect the nature spirts that oversee the wilderness. Of those, an even narrower lot choose to talk to them. The boldest among those gain the favor of these spirits, and are granted their power. These people are known as Shamans.
+# Wildheart
+Some are sensitive enough to detect the nature spirts that oversee the wilderness. Of those, an even narrower lot choose to talk to them. The boldest among those gain the favor of these spirits, and are granted their power. These people are known as wildhearts.
 
 ## Hit points
 Roll 3d4 and add your CON modifier three times(minimum 1HP). These are your starting hit points. Every time you gain a level, you may roll again and keep the total if it is higher.
@@ -57,16 +55,16 @@ SL = Spell level
 |   3 | +2  |  1| Elemental Affinity                           |
 |   4 | +2  |  2| Greater Wildshape                            |
 |   5 | +2  |  2|                                              |
-|   6 | +2  |  3| Superior Wildshape                           |
+|   6 | +2  |  3| Elemental Expertise                          |
 |   7 | +3  |  3|                                              |
-|   8 | +3  |  3| Elemental Expertise                          |
+|   8 | +3  |  3| Superior Wildshape                           |
 |   9 | +4  |  3|                                              |
 |  10 | +4  |  3| Nature Spirit Ascension                      |
 
 ## Feats
 
 ### Nature Spirit
-You begin your career as a shaman by befriending one powerful nature spirit. The spirit takes the form of an animal and controls a specific domain. Choose from below to determine your spirit animal and domain.
+You begin your career as a wildheart by befriending one powerful nature spirit. The spirit takes the form of an animal and controls a specific domain. Choose from below to determine your spirit animal and domain.
 
 #### Eagle of grasslands
 You gain proficiency in perception, and advantage on perception checks which rely on sight.
@@ -96,7 +94,7 @@ Ram horns sprout from your head and can be used as a natural weapon that deals 1
 (Optional)You sprout fox ears and a fox tail. When moving, you may expend a stamina die in order to not provoke attacks of opportunity for the remainder of your turn. You are immune to the ill-effects of exposure to hot or dry weather.
 
 ### Minor Wildshape
-You may use an action to expend a stamina die and reshape your body into a tiny size beast such as a frog, bat, cat, hawk, snake, spider, trout, or mouse. Whichever beast you select, it uses the stat block below. When you enter your wildshape, your gear falls about you on the ground and if you are grappled, that grapple ends. If your hit points falls below 1, you change back into your normal form. If you are inside a space that cannot accomodate your normal form, you receive 3d10 shunting damage and are teleported to an unoccupied space nearby. Your normal form retains the hit points it had before you wildshaped, even if your wildshaped form was brought down to negative hit points. 
+You may use an action to expend a stamina die and reshape your body into a tiny size beast such as a frog, bat, cat, hawk, snake, spider, trout, or mouse. Whichever beast you select, it uses the stat block below. When you enter your wildshape, your gear falls about you on the ground and if you are grappled, that grapple ends. If your hit points falls below 1, you change back into your normal form with the same hit points you did before you entered your wildshape. If you are inside a space that cannot accomodate your normal form, you receive 3d10 shunting damage and are teleported to an unoccupied space nearby. Your normal form retains the hit points it had before you wildshaped, even if your wildshaped form was brought down to negative hit points. You may exit your wildshape as an action by expending one stamina die.
 
 ```
 Minor Wildshape Beast
@@ -116,7 +114,7 @@ You cast spells by channeling your life energy through your nature spirit. Your 
 When you cast a spell of level 1 or higher, you must consume a number of stamina dice equal to the spell's level. For example, one for a 1st level spell, or three for a 3rd level spell.
 
 #### Cantrips
-At level 1, you know two cantrips from the shaman spell list, which you may cast at will.
+At level 1, you know two cantrips from the wildheart spell list, which you may cast at will.
 
 #### Preparing spells
 You can prepare a number of spells equal to your level in this class. You may prepare spells during a rest, or over the course of 10 minutes of meditation spent communing with your spirit.
@@ -143,7 +141,7 @@ You may expend two stamina dice and use a bonus action to enable the decaying au
 You create a cloud that extends in 5ft in all directions. You may see through it, but you are heavily obscured to those outside of it. Creatures that enter or begin their turn in this cloud must succeed a CON save to halve 1d10 poison damage and avoid becoming poisoned for one hour.
 
 ### Greater Wildshape
-You may use an action to expend five stamina dice and reshape your body into one of the beasts listed below. When you enter your wildshape, your gear falls about you on the ground and any worn clothing is shredded if you increase in size. If your hit points falls below 1, you change back into your normal form. If you are inside a space that cannot accomodate your normal form, you receive 3d10 shunting damage and are teleported to an unoccupied space nearby. Your normal form retains the hit points it had before you wildshaped, even if your wildshaped form was brought down to negative hit points. You may choose from the stat blocks below, or others at your keeper's discretion.
+You may use an action to expend eight stamina dice and reshape your body into one of the beasts listed below. When you enter your wildshape, your gear falls about you on the ground and any worn clothing is shredded if you increase in size. If your hit points falls below 1, you change back into your normal form with the same number of hit points you had before you wildshaped. If you are inside a space that cannot accomodate your normal form, you receive 3d10 shunting damage and are teleported to an unoccupied space nearby. Your normal form retains the hit points it had before you wildshaped, even if your wildshaped form was brought down to negative hit points. You may choose from the stat blocks below, or others at your keeper's discretion. You may expend two stamina dice as an action to leave your wildshape.
 
 ```
 Elk
@@ -204,8 +202,51 @@ Bite +6 1d10+5 piercing
 Claw +6 2d6+5 slashing
 ```
 
+### Elemental Expertise
+You may either select one additional elemental affinity, or else choose the ability below corresponding with the element you picked for your elemental affinity.
+
+#### Lightning: Ball Lightning
+You expend two stamina dice and send a ball of lightning towards a creature within 60ft, which may be fully obscured from you, but cannot be hidden from you. The lightning hits the creature and forces them to make a CON save to halve 3d6 lightning damage. If you expend five stamina dice, you may send three balls of lightning instead of one, targeting the same or separate targets.
+
+#### Fire: Flame guardian
+You expend five stamina dice and a spirit wrathed in flames appears to assist you. It shares your turn in initiative, and may be commanded by using your bonus action. It disappears when you next complete a rest.
+
+```
+Flame Guardian
+Medium Elemental
+HP: 40
+AC: 15
+Speed: 25ft, fly 25ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 10| 10|  3| 14|  3|
+Immune to: fire
+Weak to: cold
+Attacks:
+Flame Seed +6 2d10 fire damage
+```
+
+#### Cold: Ice Block
+You may create a 5ft cube of ice by using an action. When the ice melts, the liquid dissipates immedately, leaving no puddle.
+
+#### Thunder: Thunder Sight
+You let loose a sonic boom, then listen with your bare feet on the ground. You instantly learn the position of any creature within 60ft that is not hovering or flying.
+
+#### Necrotic: Magic Mushrooms
+You may consume five stamina dice and send spores out at least four medium size corpses, or one large corpse. 3d6 mushrooms sprout from the bodies in various colors. Roll a 1d6 to determine the mushroom colors and effects. The mushrooms remain potent for one week.
+
+1. Blue Mushroom: 1d6 temp HP
+2. Pink Mushroom: gain +10 speed for 1 minute
+3. Purple Mushroom: 2d6 poison damage if eaten
+4. Gold Mushroom: regain 1 stamina
+5. White Mushroom: regain 2 stamina, lose 1d4HP
+6. White Mushroom: regain 2 stamina, lose 1d4HP
+
+
+#### Poison: Cloud of Tears
+You may consume a stamina die to create a 20ft radius cloud of stinging, spicy gas centered on a point within a 30ft of you. Each creature inside this cloud for any time must succeed a CON save against your spell DC or else become blinded and poisoned for one minute. When poisoned by the cloud of tears, a creature's movement is halved. The cloud lasts for one minute.
+
 ### Superior Wildshape
-You may use an action to expend ten stamina dice and reshape your body into one of the beasts listed below. When you enter your wildshape, your gear falls about you on the ground and any worn clothing is shredded if you increase in size. If your hit points falls below 1, you change back into your normal form. If you are inside a space that cannot accomodate your normal form, you receive 3d10 shunting damage and are teleported to an unoccupied space nearby. Your normal form retains the hit points it had before you wildshaped, even if your wildshaped form was brought down to negative hit points. You may choose from the stat blocks below, or others at your keeper's discretion.
+You may use an action to expend sixteen stamina dice and reshape your body into one of the beasts listed below. When you enter your wildshape, your gear falls about you on the ground and any worn clothing is shredded if you increase in size. If your hit points falls below 1, you change back into your normal form with the same number of hit points you had before you wildshaped. If you are inside a space that cannot accomodate your normal form, you receive 3d10 shunting damage and are teleported to an unoccupied space nearby. Your normal form retains the hit points it had before you wildshaped, even if your wildshaped form was brought down to negative hit points. You may choose from the stat blocks below, or others at your keeper's discretion. You may expend three stamina dice to exit your wildshape as an action.
 
 ```
 Sharp Tooth
@@ -264,58 +305,14 @@ Multiattack: The crab makes two claw attacks
 Claws +7 3d10+4 bludgeoning, DC 15 STR save or target is grappled
 ```
 
-### Elemental Expertise
-You may either select one additional elemental affinity, or else choose the ability below corresponding with the element you picked for your elemental affinity.
-
-#### Lightning: Ball Lightning
-You expend two stamina dice and send a ball of lightning towards a creature within 60ft, which may be fully obscured from you, but cannot be hidden from you. The lightning hits the creature and forces them to make a CON save to halve 3d6 lightning damage. If you expend five stamina dice, you may send three balls of lightning instead of one, targeting the same or separate targets.
-
-#### Fire: Flame guardian
-You expend five stamina dice and a spirit wrathed in flames appears to assist you. It shares your turn in initiative, and may be commanded by using your bonus action. It disappears when you next complete a rest.
-
-```
-Flame Guardian
-Medium Elemental
-HP: 40
-AC: 15
-Speed: 25ft, fly 25ft
-|STR|DEX|CON|INT|WIS|CHA|
-| 14| 10| 10|  3| 14|  3|
-Immune to: fire
-Weak to: cold
-Attacks:
-Flame Seed +6 2d10 fire damage
-```
-
-#### Cold: Ice Block
-You may create a 5ft cube of ice by using an action. When the ice melts, the liquid dissipates immedately, leaving no puddle.
-
-#### Thunder: Thunder Sight
-You let loose a sonic boom, then listen with your bare feet on the ground. You instantly learn the position of any creature within 60ft that is not hovering or flying.
-
-#### Necrotic: Magic Mushrooms
-You may consume five stamina dice and send spores out at least four medium size corpses, or one large corpse. 3d6 mushrooms sprout from the bodies in various colors. Roll a 1d6 to determine the mushroom colors and effects. The mushrooms remain potent for one week.
-
-1. Blue Mushroom: 1d6 temp HP
-2. Pink Mushroom: gain +10 speed for 1 minute
-3. Purple Mushroom: 2d6 poison damage if eaten
-4. Gold Mushroom: regain 1 stamina
-5. White Mushroom: regain 2 stamina, lose 1d4HP
-6. White Mushroom: regain 2 stamina, lose 1d4HP
-
-
-#### Poison: Cloud of Tears
-You may consume a stamina die to create a 20ft radius cloud of stinging, spicy gas centered on a point within a 30ft of you. Each creature inside this cloud for any time must succeed a CON save against your spell DC or else become blinded and poisoned for one minute. When poisoned by the cloud of tears, a creature's movement is halved. The cloud lasts for one minute.
-
 ### Spiritual Ascension
-You outgrow the need for your nature spirit, and learn to cast spells without
-it's blessing. You gain one of the following benefits:
+You outgrow the need for your nature spirit and learn to cast spells without it's blessing. You gain one of the following benefits:
 
 #### Wild Spirit
-When you die, your soul may attempt to enter the body of a creature within 30ft of your body. The creature must succeed a WIS save, or else swap bodies with you just before your final breath. A creature may willingly fail this save. If the creature succeeds, you may attempt this with each other creature within 30ft of your body. If all creatures within range resist this bodyswap, you are dead. If you succeed in switching bodies, you inherit their physical form, including their STR, DEX, and CON scores, but retain your shaman powers.
+When you die, your soul may attempt to enter the body of a creature within 30ft of your body. The creature must succeed a WIS save, or else swap bodies with you just before your final breath. A creature may willingly fail this save. If the creature succeeds, you may attempt this with each other creature within 30ft of your body. If all creatures within range resist this bodyswap, you are dead. If you succeed in switching bodies, you inherit their physical form, including their STR, DEX, and CON scores, but retain your mental abilities and wildheart powers.
 
 #### Reincarnation
-When you die, your soul is transferred to a beast that has just been born. You may use wildshape to assume your avatar form, the form you had when you first gained a level in shaman. You retain your memories, all levels of shaman, and mental ability scores in your beast form, but you may only cast spells in your avatar form. If you die as a beast, you are reincarnated again. If you die in your avatar form, your death is permanent.
+When you die, your soul is transferred to a beast that has just been born. You may expend 5 stamina dice to assume your avatar form, the form you had when you first gained a level in wildheart. Falling below 1 HP reverts you from your avatar form. You retain your memories, all levels of wildheart, and mental ability scores in your beast form, but you may only cast spells in your avatar form. If you die as a beast, you are reincarnated again. If you die in your avatar form, your death is permanent.
 
 #### Nature Spirit
 When you die, you become a nature spirit. You gain a fly speed of 30ft, are immune to non-magical piercing, slashing, and bludgeoning damage, and no longer need to eat, sleep or breathe. If this form is destroyed, you are dead.
