@@ -12,7 +12,7 @@
 
 ### Merchants
 - Pothes Ulscien(she/her, human)
-- Aften Chamship(he/him, human)
+- Aften Chamship(he/him, human) Hireling contractor
 - Gohgeegay(he/him, snake folk)
 - Gahtohhihkeelah(she/her, sloth folk)
 - Nahkeehihnoh(he/him, boar folk)
