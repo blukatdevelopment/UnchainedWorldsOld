@@ -8,7 +8,6 @@ Judge Ripton lives in and resides over this house where trials and sentencing ar
 - Teetihkee(she/her, Foxfolk)
 - Gahgihkoh(he/him, Wolffolk)
 - Kihteegeegah(she/her, Lionfolk)
-- Fieldfolkwomanlady
 - Regira Fedoken(she/her, Human)
 - Vic Leopat(he/him, Human)
 - Dolhis Cotlan(he/him, Human)

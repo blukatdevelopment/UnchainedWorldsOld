@@ -46,13 +46,16 @@ Roll 1d6 for one of these visitors
 8. Hoolahnoohah(she/her, cougar folk)(Magus, Ray of Frost, Bonfire)
 
 
+## Cottage industry
+- Arsurd(human): Heprico(mom), Fonesel(daughter), Thefin(son), Stondek(son), Twobort(son); sell homespun clothing with hearts on them.
+
 ## The barrel inn
 - Rickety building with two floors
+- Shaped like a giant barrel
 - multiple lofts and rooms for rent(5cp, 3 amenities)
 - Owned by Gaykahtoohih(female, beat folk)
 
 ### Immigrant families
-- Arsurd(human): Twobort(dad), Heprico(mom), Fonesel(daughter), Thefin(son), Stondek(son); sell homespun clothing with hearts on them.
 - Cayobe(wolf folk): Lieve(mom), Beeson(son), Tepad(daughter), Fothir(daughter); Bake pastries with tiny brick oven.
 
 ### More immigrant families
