@@ -28,9 +28,6 @@ class HexEditor:
                     self.selected_cell = None
                 else:
                     self.selected_cell = self.hovered_cell
-        if event_state.key_down(event_state.M_3):
-            if not self.menu_hover:
-                self.selected_cell = None
         if event_state.key_pressed(pygame.K_RIGHT):
             self.offset_x -= self.scroll_speed
         if event_state.key_pressed(pygame.K_LEFT):

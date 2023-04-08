@@ -75,7 +75,8 @@ class EventState:
             elif self.keys_prev[key] == self.UP:
                 self.keys[key] = self.UNHELD
 
-    def handle_events(self):
+    # Menu is from thorpy
+    def handle_events(self, menu):
         self.prepare_key_states()
         (self.mouse_x, self.mouse_y) = pygame.mouse.get_pos()
         (self.mouse_x_rel, self.mouse_y_rel) = pygame.mouse.get_rel()
@@ -95,3 +96,4 @@ class EventState:
             elif event.type == pygame.MOUSEWHEEL:
                 self.mousewheel_x = event.x
                 self.mousewheel_x = event.y
+            menu.react(event)
