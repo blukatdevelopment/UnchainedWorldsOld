@@ -1,7 +1,8 @@
 import pygame, thorpy
 from event import EventState
-from thorpy.painting.painters.imageframe import ImageFrame
+from thorpy.painting.painters.imageframe import ImageFrame, ImageButton
 from thorpy.elements.element import Element
+from thorpy.elements.clickable import Clickable
 
 # Singleton for global stuff
 class Deck:
@@ -56,10 +57,15 @@ class Deck:
         return e
 
 
-
 # Some access functions
     def set_programs(self, programs):
         self.programs = programs
+
+    def remove_element(self, element):
+        if element == None:
+            return
+        element.visible = False
+        self._menu.remove_from_population(element)
 
     def set_active_program(self, program_id):
         elements = self._menu._elements

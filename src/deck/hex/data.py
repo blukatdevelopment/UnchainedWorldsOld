@@ -76,7 +76,7 @@ def load_cells():
         coords = name_to_coords(hx["name"])
         color = TERRAIN_COLORS[hx[TERRAIN]]
         #print(f"Color: {color}, coords: {coords}")
-        cell = Cell(hx["name"], color, coords)
+        cell = Cell(hx["name"], color, coords, hx[TERRAIN])
         cells.append(cell)
 
     return cells

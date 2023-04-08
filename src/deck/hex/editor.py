@@ -1,7 +1,43 @@
 from hex.cell import Cell
 from hex.data import load_cells
-import pygame
-import random
+import pygame, thorpy, random
+
+TERRAIN = "Terrain"
+HILLSIDE = "Hillside"
+FOREST = "Forest"
+DARKWOODS = "DarkWoods"
+SWAMP = "Swamp"
+DESERT = "Desert"
+COASTAL_WATER = "Coastal Water"
+OCEAN = "Ocean"
+BAY = "Bay"
+MOUNTAIN = "Mountain"
+TERRAINS = [HILLSIDE, FOREST, DARKWOODS, SWAMP, DESERT, COASTAL_WATER, OCEAN, BAY, MOUNTAIN]
+TERRAIN_COLORS = {
+    HILLSIDE: (115, 222, 73),
+    FOREST: (29, 84, 7),
+    DARKWOODS: (15, 48, 2),
+    SWAMP: (27, 54, 40),
+    DESERT: (255, 234, 148),
+    COASTAL_WATER: (59, 185, 255),
+    OCEAN: (9, 79, 102),
+    BAY: (144, 197, 214),
+    MOUNTAIN: (255, 255, 255)
+}
+
+def terrain_function(self, terrain):
+    return lambda: select_terrain(self, terrain)
+
+def select_terrain(self, terrain):
+    cell = self.get_selected()
+    if cell == None:
+        return
+    
+    cell.terrain = terrain
+    color = TERRAIN_COLORS[terrain]
+    (cell.r, cell.g, cell.b) = color
+    self.show_side_panel()
+
 
 class HexEditor:
     def __init__(self, deck):
@@ -14,20 +50,96 @@ class HexEditor:
         self.ZOOM_MAX = 4
         self.zoom = 1
         self.scroll_speed = 10;
-
         self.cells = load_cells()
         self.hovered_cell = None
-        self.selected_cell = None
+        self._selected = None
         self.menu_hover = False
+        self.panel_bg = None
         self.font = pygame.font.Font('freesansbold.ttf', 32)
+        self.init_needed = True
+        self.cursor_color = pygame.Color(255, 0, 0)
+
+    def init_thorpy(self):
+        self.init_needed = False
+
+    def show_side_panel(self, show=True):
+        if not show or self.panel_bg != None:
+            self.deck.remove_element(self.panel_bg)
+            self.panel_bg = None
+        
+        if not show or self.get_selected() == None:
+            return
+
+        rx = self.deck.RES_X
+        ry = self.deck.RES_Y
+        ux = rx/10
+        uy = ry/10
+        cell = self.get_selected()
+        color_buttons = self.make_color_buttons()
+        name_label = thorpy.make_text("Active Hex: " + cell.name)
+        name_label.set_font_size(32)
+        name_label.set_font_color((255, 255, 255))
+        name_label.set_topleft((0, 0))
+        terrain_label = thorpy.make_text(cell.terrain)
+        terrain_label.set_font_size(32)
+        terrain_label.set_font_color(TERRAIN_COLORS[cell.terrain])
+        terrain_label.set_topleft((0, 32))
+        self.panel_bg = thorpy.Background(color=(0, 0, 255),elements = [name_label, terrain_label, color_buttons])
+        self.panel_bg.set_topleft((rx-2*ux, 0))
+        self.panel_bg.set_size((2*ux, ry))
+        self.deck.menu(self.panel_bg)
+
+
+
+
+    def make_color_buttons(self):
+        rx = self.deck.RES_X
+        ry = self.deck.RES_Y
+        ux = rx/10
+        uy = ry/10
+        rt = "./hex/img/"
+        ex = ".png"
+        elements = []
+        for i in range(len(TERRAINS)):
+            t = TERRAINS[i]
+            f = t.lower()
+            f = f.replace(" ", "_")
+            e = thorpy.make_image_button(rt+f+ex)
+            c = TERRAIN_COLORS[t]
+            e.terrain = t
+            func = terrain_function(self, t)
+            e.user_func = func
+            elements.append(e)
+
+        for i in range(len(elements)):
+            el = elements[i]
+            size = 40
+            el.set_size((size, size))
+            el.set_topleft((i * size, 0))
+        
+        color_bg = thorpy.Background(color=(0, 0, 0),                                    elements=elements)
+        color_bg.set_size((2*ux, 40))
+        color_bg.set_topleft((0, 70))
+        return color_bg
+
+
+    def set_selected(self, selected):
+        self._selected = selected
+
+    def get_selected(self):
+        return self._selected
 
     def update(self, event_state):
+        if self.init_needed:
+            self.init_thorpy()
         if event_state.key_down(event_state.M_1):
             if not self.menu_hover:
-                if self.selected_cell == self.hovered_cell:
-                    self.selected_cell = None
+                if self.get_selected() == self.hovered_cell or self.hovered_cell == None:
+                    self.set_selected(None)
+                    self.show_side_panel(False)
                 else:
-                    self.selected_cell = self.hovered_cell
+                    self.set_selected(self.hovered_cell)
+                    self.show_side_panel()
         if event_state.key_pressed(pygame.K_RIGHT):
             self.offset_x -= self.scroll_speed
         if event_state.key_pressed(pygame.K_LEFT):
@@ -63,7 +175,7 @@ class HexEditor:
         y_unit = ry / 10
         
         # Detect if mouse on a menu
-        if (self.selected_cell != None and mx > rx - 2 * x_unit) or my > ry - y_unit:
+        if (self.get_selected() != None and mx > rx - 2 * x_unit) or my > ry - y_unit:
             self.menu_hover = True
         else:
             self.menu_hover = False
@@ -74,8 +186,7 @@ class HexEditor:
         for cell in self.cells:
             self.draw_cell(cell, event_state)
 
-        self.draw_footer()
-        self.draw_side_panel()
+        self.deck.update_menu()
 
 
     def draw_cell(self, cell, event_state):
@@ -88,9 +199,9 @@ class HexEditor:
         my = event_state.mouse_y
 
         if self.menu_hover == False and mx > x and mx < x + size and my > y and my < y + size:
-            color = pygame.Color(255, 0, 0)
+            color = self.cursor_color
             self.hovered_cell = cell
-        if cell is self.selected_cell:
+        if cell is self.get_selected():
             color = pygame.Color(255, 0, 0)
 
         self.pygame.draw.rect(self.screen, color, rect, 0)
@@ -98,24 +209,6 @@ class HexEditor:
 
     def hex_size(self):
         return 50 * self.zoom
-
-    def draw_side_panel(self):
-        if self.selected_cell == None:
-            return
-        bg = (0, 0, 255)
-        rx = self.deck.RES_X
-        ry = self.deck.RES_Y
-        ux = rx/10
-        uy = ry/10
-        panel_bg = (255, 0, 255)
-        self.draw_rect((rx - 2*ux, 0, 2 * ux, ry), bg)
-
-    def draw_footer(self):
-        y_unit = self.deck.RES_Y/10
-        bg = (0, 0, 255)
-        self.draw_rect((0, self.deck.RES_Y - y_unit, self.deck.RES_X, y_unit), bg)
-        text = "" if self.selected_cell == None else f"Selected cell: {self.selected_cell.name}"
-        self.draw_text(text, (self.deck.RES_X/2, self.deck.RES_Y-y_unit), (255, 255, 255), bg)
 
     def draw_rect(self, rect, color):
         self.pygame.draw.rect(self.screen, color, rect, 0)
