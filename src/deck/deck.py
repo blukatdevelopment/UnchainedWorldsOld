@@ -5,7 +5,8 @@ from event import EventState
 class Deck:
     def __init__(self):
         # Init constants
-        self.HEX_EDITOR = 0
+        self.TITLE_SCREEN = 0
+        self.HEX_EDITOR = 1
         self.RES_X = 1920
         self.RES_Y = 1080
         self.FRAMERATE = 30
@@ -20,7 +21,7 @@ class Deck:
         self.screen = self.pygame.display.set_mode((self.RES_X, self.RES_Y))
         self.clock = self.pygame.time.Clock()
         self.running = True
-        self.pygame.display.set_caption('Interface')
+        self.pygame.display.set_caption('World Editor')
         self.pygame.init()
 
 # Public functions

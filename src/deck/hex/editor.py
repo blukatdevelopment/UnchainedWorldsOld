@@ -1,4 +1,5 @@
 from hex.cell import Cell
+from hex.data import load_cells
 import pygame
 import random
 
@@ -14,17 +15,11 @@ class HexEditor:
         self.zoom = 1
         self.scroll_speed = 10;
 
-        self.cells = []
+        self.cells = load_cells()
         self.hovered_cell = None
         self.selected_cell = None
         self.menu_hover = False
-        self.populate_cells()
         self.font = pygame.font.Font('freesansbold.ttf', 32)
-
-    def populate_cells(self):
-        for x in range(50):
-            for y in range(50):
-                self.cells.append(Cell((0, random.randint(0, 255), 0), (x, y)))
 
     def update(self, event_state):
         if event_state.key_down(event_state.M_1):
@@ -118,12 +113,11 @@ class HexEditor:
         panel_bg = (255, 0, 255)
         self.draw_rect((rx - 2*ux, 0, 2 * ux, ry), bg)
 
-
     def draw_footer(self):
         y_unit = self.deck.RES_Y/10
         bg = (0, 0, 255)
         self.draw_rect((0, self.deck.RES_Y - y_unit, self.deck.RES_X, y_unit), bg)
-        text = "" if self.selected_cell == None else f"Selected cell: ({self.selected_cell.x},{self.selected_cell.y})"
+        text = "" if self.selected_cell == None else f"Selected cell: {self.selected_cell.name}"
         self.draw_text(text, (self.deck.RES_X/2, self.deck.RES_Y-y_unit), (255, 255, 255), bg)
 
     def draw_rect(self, rect, color):

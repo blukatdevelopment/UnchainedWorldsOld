@@ -1,6 +1,6 @@
 class Cell:
-    def __init__(self, color, coords):
-        self.name = ""
+    def __init__(self, name, color, coords):
+        self.name = name
         # Color
         self.r = color[0]
         self.g = color[1]
