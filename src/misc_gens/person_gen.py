@@ -205,9 +205,21 @@ def create_commoner(culture=None, species=None, language=None):
     ret = f"- `{name}({pronouns}, {species}), HP: {hp}, AC: {ac}, {abilities}, {attack}`"
     return ret
 
+def get_species():
+    species = "human"
+    if d(5) == 1:
+        species = get_beastfolk_species()
+    return species
+
+def get_mercantile():
+    name = get_mercantile_name()
+    pronouns = get_pronouns()
+    species = get_species()
+    trait = random.choice(PERSONALITY_TRAITS)
+    return f"{name}({pronouns}, {species}, {trait})"
 
 def main():
     for i in range(100):
-        print(get_beastfolk())
+        print(get_mercantile())
 
 main()

@@ -29,3 +29,26 @@ Roll a 1d6
 2. Sleep In Inn
 3. Counting Sheep Corral
 4. The golden Buckle Inn
+
+## Restaurants
+1. Cat's Haven 
+2. Dragon's Roost
+3. Zkullz
+4. The Gilded Roll
+5. Gold Tongue
+6. The Exquisite Egg
+
+### Cat's Haven
+- Drip Eppares(he/him, human, fun-loving)
+
+### Dragon's Roost
+- Fayagg Ravatingo(she/her, human, aggressive)
+
+### The Gilded Roll
+- Forthright Pineviden(she/her, human, crisp)
+
+### Gold Tongue
+- Softree Rygapoil(he/him, human, opinionated)
+
+### The Exquisite Egg
+- Pleas Inngs(he/him, human, predictable)
