@@ -34,10 +34,10 @@ Lost Tech: 1
 Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md are visiting.
 - Tahhohhohnee(he/him, rat folk)
 - Lihgahgohteenoo(she/her, shrew folk)
-- Lihtihnohtee(he/him, deer folk)
+- Lihtihnohtee(he/him, deer folk) rebel
 
 ### Hirelings
-- Lohtaytah(he/him, skunk folk)(Pathfinder)
+- Lohtaytah(he/him, skunk folk)(Pathfinder)Rebel
 - Lihneenaygootee(she/her, cougar folk)(Pathfinder)
 - Geetaygohhihnih(he/him, weasel folk)(Pathfinder)
 - Loolohhahgoh(he/him, shrew folk)(Pathfinder)
@@ -46,7 +46,7 @@ Roll 1d6. On a 1 or 2, pick a random caravan of wayfarers from 0_wayfarers.md ar
 - Initat Iveglor(she/her, human)
 
 ## The Successful Serpent Inn
-- Oussig Bahromur(he/him, human)
+- Oussig Bahromur(he/him, human) Rebel
 - Quarty - Pet giant boa constrictor
 
 ## Comfortable room(8gp, 6 amenities)

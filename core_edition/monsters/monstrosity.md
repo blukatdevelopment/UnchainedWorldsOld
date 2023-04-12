@@ -36,7 +36,7 @@ This hard-shelled bipedal creature resembles a crab. It has a hunchback and no c
 ## Wolf bat
 The wolf bat is a winged mammal with clawed feet and powerful jaws. They hunt in packs like wolves, and tend to single out one target to kill before moving on to the next.
 
-`Wolf Bat, Size: small, HP: 6(1d6), AC: 12, Speed: 10ft, 30ft fly [16,16,12,3,12,3], Bite +4 1d8+3 piercing`
+`Wolf Bat, Size: small, HP: 6(1d6), AC: 12, Speed: 10ft, 30ft fly [16,16,12,3,12,3], Bite +4 1d4 piercing`
 - claw attack(bonus action): target one creature that is prone. +4 2d4+3
 
 ## Stone Scurrier
@@ -135,7 +135,7 @@ Wild magic replaced the heads of these humanoids with those of giant leeches. Th
 ## Sentinel
 A partially biological weapon that outlived it's use in the Titan wars. This creature has an organic body resembling a werewolf, with their face, torso, hips and claw tips replaced with lost tech mechanical components. Their face visor displays a glowing image of their face, and opens to allow them to eat. Some Sentinels have overcome their original programming, but most in the wild are still seeking out and killing any armed humanoids they encounter. The Sentinel will not attack humanoids that are unarmed, or who discard their weapons. They will confiscate discarded weapons and destroy them, however. Their organic portions can be regenerated from the mechanical portions.
 
-`Sentinel, Size: medium, HP: 42(3d12+6), AC: 15, Speed: 35ft, climb 30ft [16,16,12,12,7,15], Claws +5 2d6+3 slashing, Wrist Blaster(60ft) +5 1d6+3 fire damage`
+`Sentinel, Size: medium, HP: 36(3d10+6), AC: 15, Speed: 35ft, climb 30ft [16,16,12,12,7,15], Claws +5 1d6+3 slashing, Wrist Blaster(60ft) +5 1d6+3 fire damage`
 - Multi-attack: May make three Wrist Blaster attacks
 - Jump Jet(1/day): Gain 60ft fly speed until start of next turn. 
 - Seismic scan: Can sense any object or creature touching the ground within 100 feet, even when they are behind cover.
@@ -143,7 +143,7 @@ A partially biological weapon that outlived it's use in the Titan wars. This cre
 ## Floating Eye
 It's unclear how this creature emerged, except that wild magic corruption was involved. It is an eye capable of floating with a myriad of pink tentacles hanging from it like that of a jellyfish. Inexplicably, it can produce a beam attack from it's pupil.
 
-`Floating Eye, Size: small, HP: 8(1d6+2), AC: 10, Speed: Fly 30ft [10,10,12,12,7,15], Claws +5 2d6+3 slashing, `
+`Floating Eye, Size: small, HP: 8(1d6+2), AC: 10, Speed: Fly 30ft [10,10,12,12,7,15]`
 - Charge beam: The eye's iris glows golden. Next turn it may make a beam attack.
 - Beam: A 5ft wide, 100ft long beam of golden light blasts forth. All creatures in it's path must succeed a DC 11 DEX save to halve 3d6 radiant damage.
 
@@ -176,14 +176,14 @@ A strange creature of legend. This creature stands ten feet tall, but has limbs 
 ## Muckbeast
 This creature resembles a mass of mud with two human eyes and a gaping mouth. It's organs float freely within it's amorphous physiology, containing a layer of protection against it's heavily biodegrading mud-like muck. Muckbeasts can be found in swamps, but also wherever large amounts of decaying organic matter can be found, such as dumps, sewers, and battlefields littered with bodies.
 
-`Muckbeast, Size: large, HP: 33(3d12+9), AC: 10, Speed: 15ft [12,8,16,3,7,3], Smother +5 3d6+3 necrotic`
+`Muckbeast, Size: large, HP: 33(3d12+9), AC: 10, Speed: 15ft [12,8,16,3,7,3], Smother +5 2d6+3 necrotic`
 - Biodegrading muck: Organic matter such as wood that touches the creature is quickly eaten away, destroying weapons such as spears and clubs used against it. An organic creature that touches the muckbeast takes 1d8 necrotic damage.
 - Much stream(recharge 5-6): The muckbeast heaves and spews muck onto one creature within 10ft. If the creature is organic, it must make a DC 13 CON save to halve 3d6 necrotic damage.
 
 ## Needlenose
 These up-right creatures are covered in hardened green scales, and though they have gills that allow them to breathe underwater, they are capable of living fully on land without issue. They are named by their three foot long proboscis which opens in three segments and reveals a very long spiky tongue that they can use to pith the insides of their victims. These creatures are feral, gathering in large nests, where they drag the corpses of their victims. When needlenoses consume the brains of their victims, they gain a temporary intelligence boost and become sentient for 24 hours, inheriting the memories of their victims. Generally, one or only a handful of needlenoses will remain intelligent, orchestrating their nests to provide them with a steady stream of brains to feast on.
 
-`Needlenose, Size: large, HP: 28(2d12+4), AC: 14, Speed: 30ft, 30ft swim [16,11,15,5,10,3], Beak +3 2d8+3 piercing`
+`Needlenose, Size: large, HP: 28(2d12+4), AC: 14, Speed: 30ft, 30ft swim [16,11,15,5,10,3], Beak +3 1d8+3 piercing`
 - Brain Pith: Target one grappled creature. DC 14 STR save, or they take 4d8+3 piercing damage. If this kills the creature, the needlenose consumes their brain and gains an intelligence of 12 for the next 24 hours.
 
 ## Chameleoid
@@ -208,7 +208,7 @@ The larval form of a dragon beetle, the manface silkworm is a 10ft long work wit
 ## Dragon Beetle
 This beatle's horn is shaped like a roaring dragon, and it can produce a stream of flame from the horn's tip as if a dragon breathing flames. Dragon beetles often hoard shiny objects or dung, and are intelligent.
 
-`Dragon Beetle, Size: large, HP: 56(4d10+16), AC: 17, Speed: 30ft 30ft fly [18,14,18,14,10,3], Bite +6 2d8+4 piercing autograpple`
+`Dragon Beetle, Size: large, HP: 56(4d10+16), AC: 17, Speed: 30ft 30ft fly [18,14,18,14,10,3], Bite +6 1d10+4 piercing autograpple`
 - Flame Lance(recharged 5-6): 30ft long, 5ft wide spray of fire. DC 13 DEX save to halve 3d6 fire damage.
 
 ## Marionette Spider
@@ -220,7 +220,7 @@ These spiders are relatively intelligent and have adapted the to rigging victims
 ## Invisible Skulker
 These bipedal creatures have a three-toothed triangular mouth with an eye in the space between teeth. They additionally lack spines, instead relying on a series of liquid bladders. As such, they can squeeze their bodies down and fit under doors, in pipes, or through cracks. Invisible skulkers tend to keep to themselves, laying clutches of invisible eggs in plain sight in the surface world, usually in areas adjacent to food sources such as villages and farms.
 
-`Invisible Stalker, Size: medium, HP: 18(3d4+6), AC: 15, Speed: 30ft 30ft climb [14,12,14,8,10,3], Bite +4 1d8+2 piercing, Claws +4 2d4+2 slashing`
+`Invisible Stalker, Size: medium, HP: 18(3d4+6), AC: 15, Speed: 30ft 30ft climb [14,12,14,8,10,3], Bite +4 1d6+2 piercing, Claws +4 2d4 slashing`
 - Invisible: The invisible skulker is invisible.
 - Multi-attack: May make a bite and claw attack in the same turn
 
@@ -232,15 +232,15 @@ A changeling looks like a humanoid, possesses humanoid intelligence, but lacks a
 ## Land Urchin
 A ball of spiky quills that can part to reveal their circular mouths. Land urchins operate by very sensitive sense of hearing, and roll for locomotion. They often gather eating moss and fungi, but will also eat corpses.
 
-`Land Urchin, Size: medium, HP: 12(2d4+4), AC: 15, Speed: 30ft [12,12,14,8,10,3], Body Slam +5 3d4 piercing`
-- Spines: Attacking with melee or grapple within 5ft results in 3d4 piercing damage for the attacker.
+`Land Urchin, Size: medium, HP: 12(2d4+4), AC: 15, Speed: 30ft [12,12,14,8,10,3], Body Slam +5 1d6 piercing`
+- Spines: Attacking with melee or grapple within 5ft results in 1d6 piercing damage for the attacker.
 
 ## Carpet Worm
 This flat worm disguises itself as the floor of caves laying on it's back. When one steps on it, it's circular mouth opens to reveal rows of teeth and it gives a surprise strike to it's victim. Carpet beasts filter feed, cleaning the environments they hunt in.
 
-`Carpet Worm, Size: large, HP: 24(4d6), AC: 11, Speed: 30ft [12,12,10,8,10,3], Bite +4 2d8+1`
+`Carpet Worm, Size: large, HP: 24(4d6), AC: 11, Speed: 30ft [12,12,10,8,10,3], Bite +4 1d8+1`
 - Camoflage: Requires a DC 14 Perception check to detect in caves.
-- Surprise strike: When a creature steps on the carpet worm, it must succeed a DC 14 STR save to avoid being grappled, and the carpet worm gets a free attack on the creature.
+- Surprise strike: When a creature steps on the carpet worm, it must succeed a DC 15 STR save to avoid being grappled, and the carpet worm gets a free attack on the creature.
 
 ## Swarm of Heart Worms
 These three-inch worms often congregate in carrion, waiting for a creature with a large heart to come near. Once they surface, they attempt to burrow into their target's flesh and move towards their heart, which they devour.

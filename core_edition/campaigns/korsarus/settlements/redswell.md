@@ -27,7 +27,7 @@ Lost Tech: 1
 - Lokil Lantique(he/him, human)
 
 ## Beekeepers
-- Tohkaykee(he/him, black bear folk)
+- Tohkaykee(he/him, black bear folk) rebel
 
 ## The Amused Armadillo Tavern
 - Fasfin Ished(she/her, human)
@@ -41,13 +41,13 @@ Lost Tech: 1
 - Rusty wash basin (Hot bath)
 
 ## Cobbler
-- Tonig Secrone(she/her, human)
+- Tonig Secrone(she/her, human) rebel
 - Tookihheetoo(he/him, raccoon dog folk)
 
 ## Tailor
 - Scalymuscle(she/her, human)
 
 ## The Warm Gentlemen Pub
-- Tandim Ensiona(she/her, human)
+- Tandim Ensiona(she/her, human) Rebel
 - Philosophyjoint(she/her, human)
 - Unsungwinding(she/her, human)

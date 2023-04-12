@@ -146,8 +146,7 @@ You may use an action to expend eight stamina dice and reshape your body into on
 ```
 Elk
 Large Beast
-XP: 50
-HP: 24(3d10+6)
+HP: (3d10+6)
 AC: 10
 Speed: 50ft
 |STR|DEX|CON|INT|WIS|CHA|
@@ -161,7 +160,7 @@ Hooves(against prone) +5 2d4+3 bludgeoning
 ```
 Dire Wolf
 Large beast
-HP: 21 (3d8+9)
+HP: (3d8+9)
 AC: 12
 Speed: 40ft
 |STR|DEX|CON|INT|WIS|CHA|
@@ -174,7 +173,7 @@ Bite +5 2d6+3
 ```
 Giant Spider
 Large beast
-HP: 18 (3d10+4)
+HP: (2d8+4)
 AC: 14 (natural armor)
 Speed: 30ft, climb30ft
 |STR|DEX|CON|INT|WIS|CHA|
@@ -188,15 +187,13 @@ Bite +5 1d6+3 piercing, DC 11 CON to halve 2d8 poison damage and avoid being poi
 ```
 Saber-Toothed Tiger
 Large Beast
-HP: 47(7d10+5)
+HP: (3d10+8)
 AC: 12(natural)
 Speed: 40ft
 |STR|DEX|CON|INT|WIS|CHA|
 | 18| 14| 15|  3| 12|  8|
 Keen Sense: Advantage on perception checks utilizing smell.
-Pounce: After moving 20ft in a straight line, hitting with a claw attack forces
-target to succeed a DC 14 STR save or be knocked prone. If prone, the tiger can
-make a bite attack as a bonus action.
+Pounce: After moving 20ft in a straight line, hitting with a claw attack forces target to succeed a DC 14 STR save or be knocked prone. If prone, the tiger can make a bite attack as a bonus action.
 Attacks:
 Bite +6 1d10+5 piercing
 Claw +6 2d6+5 slashing
@@ -214,7 +211,7 @@ You expend five stamina dice and a spirit wrathed in flames appears to assist yo
 ```
 Flame Guardian
 Medium Elemental
-HP: 40
+HP: 32
 AC: 15
 Speed: 25ft, fly 25ft
 |STR|DEX|CON|INT|WIS|CHA|
@@ -222,7 +219,7 @@ Speed: 25ft, fly 25ft
 Immune to: fire
 Weak to: cold
 Attacks:
-Flame Seed +6 2d10 fire damage
+Flame Seed +6 2d6 fire damage
 ```
 
 #### Cold: Ice Block
@@ -251,11 +248,11 @@ You may use an action to expend sixteen stamina dice and reshape your body into 
 ```
 Sharp Tooth
 Huge Beast
-HP: 90(10d12+20)
+HP: (5d12+25)
 AC: 12(natural)
 Speed: 40ft,
 |STR|DEX|CON|INT|WIS|CHA|
-| 18| 12| 12|  4| 10|  4|
+| 18| 12| 20|  4| 10|  4|
 Multiattack: Sharp tooth can use bite and tail on two separate enemies.
 Attacks:
 Bite(10ft) +6 3d8+4 piercing
@@ -265,8 +262,7 @@ Tail(15ft) +6 2d4+2 bludgeoning
 ```
 Huge Polar Bear
 Huge Beast
-XP: 300
-HP: 60(5d12+25)
+HP: (5d12+15)
 AC: 12(natural)
 Speed: 40ft
 |STR|DEX|CON|INT|WIS|CHA|
@@ -280,23 +276,21 @@ Claws +6 2d6+4 bludgeoning
 ```
 Elephant
 Huge Beast
-XP: 300
-HP: 60(5d12+25)
+HP: (5d12+15)
 AC: 12(natural)
 Speed: 40ft
 |STR|DEX|CON|INT|WIS|CHA|
 | 22| 10| 17|  4| 10|  4|
 Trample: If the three horn moves at least 20 feet in a straight line toward the target and gits with a gore attack, the target succeeds a DC 13 STR save to avoid being knocked prone. If the target's knocked prone, the three horn can make a stomp attack with it's bonus action.
 Attacks:
-Gore +6 3d8+5 piercing
-Stomp +6 2d10+5 slashing
+Gore +6 3d8+4 piercing
+Stomp +6 2d10+4 bludgeoning
 ```
 
 ```
 Giant Crab
 Huge Beast
-XP: 300
-HP: 76(6d12+24)
+HP: (4d12+12)
 AC: 17(natural)
 Speed: 40ft
 |STR|DEX|CON|INT|WIS|CHA|

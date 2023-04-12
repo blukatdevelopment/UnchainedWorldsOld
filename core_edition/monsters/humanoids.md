@@ -84,7 +84,7 @@ These stat blocks represent NPCs that are using character classes, as well as th
 Huge Polar Bear
 Huge Beast
 XP: 300
-HP: 60(5d12+25)
+HP: 45(3d12+9)
 AC: 12(natural)
 Speed: 40ft
 |STR|DEX|CON|INT|WIS|CHA|

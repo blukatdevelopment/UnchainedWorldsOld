@@ -23,7 +23,6 @@
 ```
 Rat
 Tiny Beast
-XP: 10
 HP: 3(1d4)
 AC: 12
 Speed: 25ft
@@ -39,8 +38,7 @@ Bite +1 1 piercing
 Littlefoot
 A dino roughly the size of a cat. Often hunt in packs.
 Tiny Beast
-XP: 10
-HP: 3(1d4)
+HP: 3(1d4-1)
 AC: 10
 Speed: 35ft
 |STR|DEX|CON|INT|WIS|CHA|
@@ -58,8 +56,7 @@ Bite +3 1d4 piercing. On hit, attach.
 Featherclaw
 A small raptor with green feathers.
 Small Beast
-XP: 50
-HP: 8(2d4+2)
+HP: 8(2d4)
 AC: 12(natural)
 Speed: 40ft
 |STR|DEX|CON|INT|WIS|CHA|
@@ -80,8 +77,7 @@ Claw +3 2d4+1 slashing
 ```
 Blackbear
 Medium Beast
-XP: 200
-HP: 21(3d10+3)
+HP: 27(3d8+3)
 AC: 13(natural)
 Speed: 30ft, Climb 30ft
 |STR|DEX|CON|INT|WIS|CHA|
@@ -101,8 +97,7 @@ Claws +3 2d4+2 slashing
 ```
 Mountain lion
 Medium Beast
-XP: 200
-HP: 18(3d6+3)
+HP: 21(3d6+3)
 AC: 12
 Speed: 40ft, Climb 30ft
 |STR|DEX|CON|INT|WIS|CHA|
@@ -117,14 +112,13 @@ Claws +3 2d4+2 slashing
 ```
 Giant Leech
 Medium Beast
-XP:
-HP: 12(3d6)
+HP: 18(3d6)
 AC: 13
 Speed: 5ft, 40ft swim
 |STR|DEX|CON|INT|WIS|CHA|
 | 16| 14| 12|  3| 14|  3|
 Attacks:
-Bite +5 2d6+3 piercing
+Bite +5 2d8+3 piercing
 ```
 
 ## Shark
@@ -132,12 +126,11 @@ Bite +5 2d6+3 piercing
 ```
 Shark
 Medium Beast
-XP: 450
-HP: 28(6d6+4)
+HP: 25(3d6+9)
 AC: 13
 Speed: 5ft, 40ft swim
 |STR|DEX|CON|INT|WIS|CHA|
-| 16| 14| 12|  3| 14|  3|
+| 16| 14| 16|  3| 14|  3|
 Feeding frenzy: Shark may make a second attack on a target that has less than
 half it's hitpoints.
 Attacks:
@@ -157,8 +150,7 @@ Bite +5 2d6+3 piercing
 ```
 Giant Spider
 Large beast
-XP: 200
-HP: 18 (3d10+4)
+HP: 20 (2d8+4)
 AC: 14 (natural armor)
 Speed: 30ft, climb30ft
 |STR|DEX|CON|INT|WIS|CHA|
@@ -174,8 +166,7 @@ Bite +5 1d6+3 piercing, DC 11 CON to halve 2d8 poison damage and avoid being poi
 ```
 Moose
 Large Beast
-XP: 50
-HP: 24(3d10+6)
+HP: 36(3d10+6)
 AC: 10
 Speed: 50ft
 |STR|DEX|CON|INT|WIS|CHA|
@@ -190,8 +181,7 @@ Hooves(against prone) +5 2d4+3 bludgeoning
 ```
 Dire Wolf
 Large beast
-XP: 200
-HP: 21 (3d8+9)
+HP: 33 (3d8+9)
 AC: 12
 Speed: 40ft
 |STR|DEX|CON|INT|WIS|CHA|
@@ -203,17 +193,32 @@ Bite +5 2d6+3
 
 ## Saber-toothed Tiger
 
-`Saber-toothed tiger, Size: Large, HP: 75(7d10+5), speed: 40ft, AC: 12, [18, 14, 15, 3, 12, 8], Bite +6 1d10+5 piercing, Claw +6 2d6+5 slashing`
+`Saber-toothed tiger, Size: Large, HP: 48(3d10+8), speed: 40ft, AC: 12, [18, 14, 15, 3, 12, 8], Bite +6 1d10+5 piercing, Claw +6 2d6+5 slashing`
 - Keen Sense: Advantage on checks using smell.
 - Pounce: Move20ft in line, require DC 15 STR or knock prone. If knocked prone, bite with bonus action.
+
+## Elk
+
+```
+Elk
+Large Beast
+HP: 24(3d10+6)
+AC: 10
+Speed: 50ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 19| 16| 14|  7| 14| 10|
+Charge: After moving 20ft in straight line at target, ram forces a DC13 STR save
+to halve 2d6 extra bludgeoning damage and avoid being knocked prone.
+Ram(10ft) +5 1d6+3 bludgeoning
+Hooves(against prone) +5 2d4+3 bludgeoning
+```
 
 ## Giant Elk
 
 ```
 Giant Elk
 Huge Beast
-XP: 450
-HP: 35(5d12)
+HP: 48(4d10+8)
 AC: 14
 Speed: 60ft
 |STR|DEX|CON|INT|WIS|CHA|
@@ -228,12 +233,11 @@ Hooves(against prone) +6 4d8+4 bludgeoning
 ```
 Sharp Tooth
 Huge Beast
-XP: 2300
-HP: 90(10d12+20)
+HP: 85(5d12+25)
 AC: 12(natural)
 Speed: 40ft,
 |STR|DEX|CON|INT|WIS|CHA|
-| 18| 12| 12|  4| 10|  4|
+| 18| 12| 20|  4| 10|  4|
 Multiattack: Sharp tooth can use bite and tail on two separate enemies.
 Attacks:
 Bite(10ft) +6 3d8+4 piercing
@@ -244,12 +248,11 @@ Tail(15ft) +6 2d4+2 bludgeoning
 ```
 Three Horn
 Huge Beast
-XP: 2300
-HP: 95(10d12+25)
+HP: 75(5d12+15)
 AC: 12(natural)
 Speed: 40ft
 |STR|DEX|CON|INT|WIS|CHA|
-| 18| 12| 12|  4| 10|  4|
+| 18| 12| 16|  4| 10|  4|
 Trample: If the three horn moves at least 20 feet in a straight line toward the target and gits with a gore attack, the target succeeds a DC 13 STR save to avoid being knocked prone. If the target's knocked prone, the three horn can make a stomp attack with it's bonus action.
 Attacks:
 Gore +6 3d8+4 piercing
@@ -260,8 +263,7 @@ Stomp +6 2d10+4 bludgeoning
 ```
 Elephant
 Huge Beast
-XP: 300
-HP: 60(5d12+25)
+HP: 75(5d12+15)
 AC: 12(natural)
 Speed: 40ft
 |STR|DEX|CON|INT|WIS|CHA|
@@ -274,7 +276,7 @@ Stomp +6 2d10+4 bludgeoning
 
 ## Huge Polar Bear
 
-`Huge Polar Bear, Size: Huge, HP: 85(5d12+25), Speed: 40ft, AC: 12, [20, 10, 16, 4, 10, 4], Bite +6 1d8+5 piercing, Claws +6 2d6+5 slashing`
+`Huge Polar Bear, Size: Huge, HP: 75(5d12+15), Speed: 40ft, AC: 12, [20, 10, 16, 4, 10, 4], Bite +6 1d8+5 piercing, Claws +6 2d6+5 slashing`
 - Multiattack: Polar Bear can use bite and claws 
 
 
@@ -282,8 +284,7 @@ Stomp +6 2d10+4 bludgeoning
 ```
 Giant Crab
 Huge Beast
-XP: 300
-HP: 76(6d12+24)
+HP: 60(4d12+12)
 AC: 17(natural)
 Speed: 40ft
 |STR|DEX|CON|INT|WIS|CHA|
@@ -295,6 +296,6 @@ Claws +7 3d10+4 bludgeoning, DC 15 STR save or target is grappled
 ## Snarlbeak
 A winged reptilian with feathers and a beak full of teeth.
 
-`Snarlbeak, Size: Medium, HP: 12(3d4+3), AC: 13, Fly 60ft, [15, 16, 12, 3, 12, 3], Beak +4 1d8+2, Talons +4 2d4+2`
+`Snarlbeak, Size: Medium, HP: 15(3d4+3), AC: 13, Fly 60ft, [15, 16, 12, 3, 12, 3], Beak +4 1d8+2, Talons +4 2d4+2`
 - Multi-attack: If the snarlbeak lands a hit with Talons, they may make another hit with their beak
 - Flyby: The snarlbeak does not provoke attacks of opportunity while flying

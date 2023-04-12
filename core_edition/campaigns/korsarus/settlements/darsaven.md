@@ -36,7 +36,7 @@ Lost Tech: 1
 - Goperspective(she/her, human)
 
 ## Bakery
-- Initu Intet(she/her, human)
+- Initu Intet(she/her, human), rebel
 - Keekaynihhoonoh(she/her, raven folk)
 
 ## Workshop
@@ -47,7 +47,7 @@ Lost Tech: 1
 ## The Twelve Post(Inn)
 - Busrad Iogarn(she/her, human)
 - Tuan Quambit(he/him, human)
-- Willair(he/him, human)
+- Willair(he/him, human) rebel
 
 ## Comfortable room(8gp, 5 amenities)
 - Private room with fireplace and feather mattress (Fire and shelter)(Dry Bedding)(Comfortable bedding)
@@ -56,7 +56,7 @@ Lost Tech: 1
 
 ## Butcher
 - Contere Vuton(she/her, human)
-- Westimplement(she/her, human)
+- Westimplement(she/her, human) Rebel
 
 ## Book Seller
 - Unrit Tenucat(she/her, human)
