@@ -220,6 +220,6 @@ def get_mercantile():
 
 def main():
     for i in range(100):
-        print(get_mercantile())
+        print(get_beastfolk())
 
 main()

@@ -102,7 +102,7 @@ Variant Blaster
 Mounts directly to the wrist and can be fired by user's thought if making skin contact. Uses hand crossbow or firearm proficiency. Has five charges. Can be recharged with a stamina die using an action.
 
 ### Autoblaster
-Ranged weapon (60/120), Light
+Ranged weapon (60/120)
 Weight:9lb
 Damage: 1d6 fire
 Uses hand crossbow or firearm proficiency. Has thirty charges. Can be recharged with three stamina dice using an action. May use action to fire ten shots targeting a 10ft cube. Creatures within cube succeed DC 15 DEX save or take normal damage. Automatically hits 2d4 times for large or larger creatures occupying at least half the cube.
