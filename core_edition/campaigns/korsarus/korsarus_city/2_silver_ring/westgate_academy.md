@@ -7,6 +7,7 @@
 Royal guards will patrol the perimeter stop anyone not affiliated with the Omarian military from getting onto the compound. There's additionally a 10ft tall wall built around the space.
 
 ## Barracks
+- Cardinal walls of structure
 - Quartermaster Regafor(He/him, human)
 - Stock of PMGs and air tank charging station
 - Sell PMGs to Omarian soldiers for 200gp
@@ -31,8 +32,11 @@ Royal guards will patrol the perimeter stop anyone not affiliated with the Omari
 - Leather armor, dual shortswords
 
 ## PMG course
-- Omarian soldiers can train proficiency with PMG
+- Omarian soldiers can train proficiency with PMG(Pneumatic Mobility Gear)
 
 ### Fibance
 - 1/6 chance to be training troops
 - Leather armor, dual shortswords
+
+## Memorial Field
+Tombstones to commemorate every fallen scout.
