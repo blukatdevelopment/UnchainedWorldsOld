@@ -23,9 +23,31 @@ In control of Korsarus City, Thiersgar, and the constellation of villages immedi
 - Mercenary Guildmaster: Swosell
 - General Of Defense: Shirmord
 - General of Offense: Tamater
-- Scouts commanders: Hortchot, Berdoth, Fibance
+- Scouts commanders: Hortchot, Worewold, (Deceased)~~Berdoth~~, Fibance
 - Militia commanders: Consprect, Naross, Fielcrose
 - Royal Guard commanders: Ladeneth, Shierton, Cesperd
+
+#### Scout offensive forces(12 person, 2d6)
+- Tenippy
+- Etvady
+- Tiotedanks
+- Ffiterred
+- Alcyjast
+- Rbraanth
+- Atbeaepim
+- Nchaerrio
+- Ecookgul
+
+#### Militia offensive forces(50 person, 2d6)
+- Gelingdi
+- Reaunconabl
+- Eastmowmessy
+- Etybengi
+- Delalda
+- Bravavllimdfren
+- Infirfof
+- Adsterrg
+- Vectalysi
 
 ### Renown Rewards
 1. Initiate: May wear weapons and armor in most Omarian public spaces. Offer membership(instant +2 renown)
@@ -57,6 +79,17 @@ The rebels are a broad coalition with a militant core of wildfolk who are commit
 - Sevensteel(C4)(Jitty) Cell: Lohtaytah, Oussig Bahromur, Lihtihnohtee
 - Redswell(A7)(Kitty) Cell: Tonig Secrone, Tandim Ensiona, Tohkaykee
 - Darsaven(B9)(Litty) Cell: Westimplement, Willair, Initu Intet
+
+#### Rebel Teams(10 people, 1d4)
+- Badger
+- Mongoose
+- Possum
+- Mouse
+- Hedgehog
+- Shrew
+- Stoat
+- Skunk
+- Squirrel
 
 ### Renown Rewards
 1. Ally of the people: Offer membership(+2 renown)
@@ -133,6 +166,17 @@ Centered in the university within the Golden Core of Korsarus City, the mages gu
 
 ## Giant Horde
 King Kurfigar and a mass of other giants have settled the area known as the Giant's playground, crushing towns in the process. They kill most humans on sight, but have more patience with beast folk and other giants.
+
+### Giant armies (3d6 in mass combat)
+- Kurfigar(Golden, 6 dwarf)
+- Brungle(blue, 6 dwarf)
+- Rargald(red, 6 dwarf)
+- Grundol(green, 6 dwarf)
+- Fielfaff(3 field, 6 dwarf)
+- Farbog(3 field, 6 dwarf)
+- Birbolg(3 field, 6 dwarf)
+- Drifurff(3 field, 6 dwarf)
+- Harblar(3 field, 6 dwarf)
 
 ## Church of Uaos
 - Felicity of Blackfurnace
