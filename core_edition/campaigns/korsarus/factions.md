@@ -49,6 +49,16 @@ In control of Korsarus City, Thiersgar, and the constellation of villages immedi
 - Adsterrg
 - Vectalysi
 
+#### Royal Guard defensive forces(20 person, 1d8)
+- Lyquarerlart
+- Quekilas
+- Oarsnauffco
+- Ottlywonten
+- Ousayeint
+- Rtiaeoptneoaryp
+- Uccntworpsu
+- Ntviarcdeain
+
 ### Renown Rewards
 1. Initiate: May wear weapons and armor in most Omarian public spaces. Offer membership(instant +2 renown)
 3. Foot Soldier: May make arrests, 75gp credit for starting gear from Omarian armory.

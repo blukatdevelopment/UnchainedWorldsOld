@@ -14,11 +14,11 @@ Well, because then I can share it and preserve the [four freedoms](https://www.g
 ## Blukat, you silly banana! A TTRPG isn't software.
 Sure it is. It just runs on human brains instead of computers. Git gud, scrub. :P
 
-## Getting started (as a player)
-You ready to start adventuring?
-Grab a copy of the core rules book, then talk to your keeper about which content books to
-look through for character creation options.
+## Agile edition
+A simple and flexible base that can be applied to many different settings using content packs.
 
-## Getting started (as a keeper)
-Grab a copy of the core rules book, then figure out what content is suitable for your campaign.
-Need a keeper's guide? Well, be patient! I still gotta write one.
+## Basic edition
+A minimalistic dungeon crawling system.
+
+## Core edition
+Crunchy system focused on sandbox play.
