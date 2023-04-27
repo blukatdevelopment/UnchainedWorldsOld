@@ -46,11 +46,9 @@ A revenant returns from the grave seeking vengeance on one who wronged them. The
 - Strangle: STR save or take 1d6 bludgeoning damage and become grappled
 - Life Drain: CON save to halve 2d6 necrotic
 
-`Zombie, XP: 25, HP: 18(2d4+6), speed: 20ft, AC: 8, [14, 8, 14, 4, 4, 4], Bash +2 1d8+1 bludgeoning`
+`Zombie, XP: 25, HP: 12(2d4+4), speed: 20ft, AC: 8, [14, 8, 14, 4, 4, 4], Bash +2 1d8+1 bludgeoning`
 - Resistant: Non-magical physical, Weak: Radiant, Immune: Necrotic
-- Undead Fortitude: When zombie falls to 0 hit points by damage other than fire
-or radiant, they can make a con save to stay up with 1 hit point. The DC is half
-the damage plus 10.
+- Undead Fortitude: When downed without fire or radiant, roll a 1d6, subtract killing blow's damage from roll. If the roll is positive, the zombie gets up with 1 HP.
 
 `Zombie Runner, XP: 25, HP: 18(2d4+6), speed: 20ft, AC: 8, [14, 8, 14, 4, 4, 4], Bite +2 1d4+1 piercing`
 - Resistant: Non-magical physical, Weak: Radiant, Immune: Necrotic

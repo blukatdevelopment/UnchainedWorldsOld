@@ -55,7 +55,7 @@ Prof = proficiency bonus
 ## Feats
 
 ### Divine Spellcasting
-You've learned to call upon the power of Uaos/ Wisdom is your spellcasting ability. Your spell DC (difficulty class) is 8+proficiency bonus + wisdom modifier. Your spellcasting modifier is proficiency bonus + wisdom modifier. See your deity's section for more spellcasting details.
+You've learned to call upon the power of Uaos. Wisdom is your spellcasting ability. Your spell DC (difficulty class) is 8+proficiency bonus + wisdom modifier. Your spellcasting modifier is proficiency bonus + wisdom modifier. See your deity's section for more spellcasting details.
 
 #### Code: Conviction
 To become a diviner of Uaos, you must define their own moral code as six virtues. The head of a temple of Uaos can then tattoos the virtues onto your back. During a rest, you may pray to Uaos to prepare a spell for each virtue. Whenever you cast a spell, make a spell check with your spell check using the table below to determine the DC. Failing this check causes the tattoo to vanish and the spell to become unavailable. By performing an act to further your virtue that satisfies Uaos, the tattoo reappears and the spell becomes available to cast again.
