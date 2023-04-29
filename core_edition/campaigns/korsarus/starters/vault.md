@@ -77,58 +77,105 @@ There are a few rooms of strategic importance.
 - Lift to surface
 For each of these, roll which block D4[North, South, East, West] and a D6 for which of the rooms within the block this critical room is connected to. Some overseers may restrict access to these rooms with locking doors, stationed guards, or hidden doors.
 
-## Name generator
-Coarse Titan names are simple identification numbers akin to barcodes. It's common that vault dwellers will shorten, stylize, or completely replace their assigned names with nicknames. There are 255 characters in coarse titan, and each name has four characters.
-
-For each character:
-- roll a 1d6 for the column
-- For the row, roll a 1d4 for the tens place and 1d10 for the ones place(a roll of 10 results in a 0).
-- If using a dice bot, you can roll 1d6+1d4+1d10 to get these three values
-- Reroll if need be.
-- Decide a shortened version or nickname used on a daily basis.
-
-|    |  1    |  2    |  3    |  4    |  5    |  6    |
-|:---|:------|:------|:------|:------|:------|:------|
-|  1 | bah   | bay   | bai   | bee   | beh   | bih   |
-|  2 | kah   | kay   | kai   | kee   | keh   | kih   |
-|  3 | dah   | day   | dai   | dee   | deh   | dih   |
-|  4 | fah   | fay   | fai   | fee   | feh   | fih   |
-|  5 | gah   | gay   | gai   | gee   | geh   | gih   |
-|  6 | hah   | hay   | hai   | hee   | heh   | hih   |
-|  7 | jah   | jay   | jai   | jee   | jeh   | jih   |
-|  8 | lah   | lay   | lai   | lee   | leh   | lih   |
-|  9 | mah   | may   | mai   | mee   | meh   | mih   |
-| 10 | nah   | nay   | nai   | nee   | neh   | nih   |
-| 11 | pah   | pay   | pai   | pee   | peh   | pih   |
-| 12 | rah   | ray   | rai   | ree   | reh   | rih   |
-| 13 | sah   | say   | sai   | see   | seh   | sih   |
-| 14 | tah   | tay   | tai   | tee   | teh   | tih   |
-| 15 | vah   | vay   | vai   | vee   | veh   | vih   |
-| 16 | wah   | way   | wai   | wee   | weh   | wih   |
-| 17 | zah   | zay   | zai   | zee   | zeh   | zih   |
-| 18 | chah  | chay  | chai  | chee  | cheh  | chih  |
-| 19 | thah  | thay  | thai  | thee  | theh  | thih  |
-| 20 | shah  | shay  | shai  | shee  | sheh  | shih  |
-| 21 | tchah | tchay | tchai | tchee | tcheh | tchih |
-| 22 | boo   | boh   | bao   | buh   | beo   | beu   |
-| 23 | koo   | koh   | kao   | kuh   | keo   | keu   |
-| 24 | doo   | doh   | dao   | duh   | deo   | deu   |
-| 25 | foo   | foh   | fao   | fuh   | feo   | feu   |
-| 26 | goo   | goh   | gao   | guh   | geo   | geu   |
-| 27 | hoo   | hoh   | hao   | huh   | heo   | heu   |
-| 28 | joo   | joh   | jao   | juh   | jeo   | jeu   |
-| 29 | loo   | loh   | lao   | luh   | leo   | leu   |
-| 30 | moo   | moh   | mao   | muh   | meo   | meu   |
-| 31 | noo   | noh   | nao   | nuh   | neo   | neu   |
-| 32 | poo   | poh   | pao   | puh   | peo   | peu   |
-| 33 | roo   | roh   | rao   | ruh   | reo   | reu   |
-| 34 | soo   | soh   | sao   | suh   | seo   | seu   |
-| 35 | too   | toh   | tao   | tuh   | teo   | teu   |
-| 36 | voo   | voh   | vao   | vuh   | veo   | veu   |
-| 37 | woo   | woh   | wao   | wuh   | weo   | weu   |
-| 38 | zoo   | zoh   | zao   | zuh   | zeo   | zeu   |
-| 39 | choo  | choh  | chao  | chuh  | cheo  | cheu  |
-| 40 | thoo  | thoh  | thao  | thuh  | theo  | theu  |
-| 41 | shoo  | shoh  | shao  | shuh  | sheo  | sheu  |
-| 42 | tchoo | tchoh | tchao | tchuh | tcheo | tcheu |
-| 43 | nn    | mm    | ll    | ff    |       |       |
+## Player Character Names
+For each character, roll 1d100 on the table below, then come up with an abbreviated version of the name, or a nickname. Their full name is tattooed on the back of their neck.
+1. Beevahfaymah
+2. Kaopayneezeu
+3. Zaojuhraosee
+4. Daodehrehzeh
+5. Fehtoopihdoo
+6. Sihnoojaoloo
+7. Woogahjeowuh
+8. Gehthaytcheenn
+9. Shayffnihwao
+10. Chaiweoduhtchai
+11. Neochaitchahdao
+12. Baiheetcheewai
+13. Bihvoofaithuh
+14. Tchehjaoweuvai
+15. Jahzihmeeneu
+16. Jeulihjuhvoo
+17. Jehzaohahgih
+18. Pahjahgihtoo
+19. Maizoodehshoh
+20. Tihthoodaofay
+21. Jahtchahtaishai
+22. Zeuzeefaopeo
+23. Tchuhcheenihjoh
+24. Waiseuraykuh
+25. Teecheepayleu
+26. Dainehshehfai
+27. Nnshohtheewao
+28. Paysuhthehfeo
+29. Baopayshahpuh
+30. Keedaosaytchoo
+31. Mairohfayjay
+32. Huhdeolohsuh
+33. Meomaoffjee
+34. Pihzuhdeolah
+35. Naywahpeesheo
+36. Cheotcheuthoohoo
+37. Thohfayguhtcheh
+38. Poomuhlooray
+39. Roofaybaikao
+40. Zaochookeejeu
+41. Vahpuhdeuweh
+42. Naygaofeebee
+43. Waiffreuseh
+44. Bohfihneochoh
+45. Jayjahteuhao
+46. Kaihohnihheu
+47. Vehthehjeebeu
+48. Dehdahgeefoo
+49. Taykaihoopao
+50. Wehwehbaorao
+51. Sheuthaobeuboo
+52. Gohmmhehkao
+53. Heumohtcheosee
+54. Seubeuneegih
+55. Tchaozeopayloo
+56. Vuhzaiveonay
+57. Keothohfeoweu
+58. Mahsheeheefay
+59. Laytchaodohfeh
+60. Chahtchohheoweo
+61. Veoshaychoozee
+62. Mahtchehluhthoo
+63. Tchohlihnoozee
+64. Mahfaizohsoo
+65. Ffcheopehsoo
+66. Gahhaypohroo
+67. Chaideuroomih
+68. Daytaotuhdao
+69. Pehkehlihveh
+70. Jeeraytheolah
+71. Wehchaohaifay
+72. Lihfeuheewoh
+73. Peoffthaoll
+74. Muhshehsayzah
+75. Bihdeefaireo
+76. Mahkuhnohtchao
+77. Sheomaypaytchoh
+78. Dehheufehgah
+79. Vehshahjoozah
+80. Dahveuzehkay
+81. Thaytchaytaovao
+82. Thehshehjeujah
+83. Nohneopihkih
+84. Keoteureethay
+85. Shaishihjuhkih
+86. Lohtchaonahjee
+87. Tchuhdeereemao
+88. Rahvaijohkih
+89. Shihreojuhgoh
+90. Layhihtchaideh
+91. Haynuhvohhay
+92. Choonooseuchoo
+93. Baowuhtcheeloh
+94. Jeesehnuhdah
+95. Kohgeomaisee
+96. Rohthoozaonoh
+97. Lehlihnahzeu
+98. Vooheepehguh
+99. Tchahdaolehpai
+100. Rahjohtchahtchai

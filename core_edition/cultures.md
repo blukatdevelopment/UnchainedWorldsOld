@@ -139,3 +139,13 @@
     - Actor: You are proficient in impersonation and performance 
 - Languages: Common and choice of beast tongue
 - Question: What does your family's wagon bring to the people it visits?
+
+## 11 Vault Dweller
+- Live in a vault from end of the Titan age
+- Tattoed with barcode on back of neck
+- Raised to believe world ended during Titanfall
+
+### Your Character
+- Feat: You are proficient with lost tech and blasters
+- Languages: Common and can read and write Coarse Titan
+- Question: Will you ever return to the vault, and why?
