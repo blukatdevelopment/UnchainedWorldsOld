@@ -10,14 +10,14 @@
 ################################################################################
 ```
 
-# Scientist
+# Inventor
 You have a habit of looking past limits, be they technical or moral. An insatiable curiosity transforms your life into an unending pursuit of knowledge.
 
 ## Hit points
 Roll 3d4 and add your CON modifier three times(minimum 1HP). These are your starting hit points. Every time you gain a level, you may roll again and keep the total if it is higher.
 
 ## Stamina Die size
-The scientist's stamina die is a d4.
+The inventor's stamina die is a d4.
 
 ## Proficiencies
 | Armor         | Light Armor                                     |
