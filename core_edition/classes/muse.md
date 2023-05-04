@@ -71,20 +71,20 @@ SL = Spell Level
 ## Features
 
 ### Spellcasting
-You know how to cast spells. Charisma is your spellcasting ability. Your spell DC is 8 + your proficiency bonus + your charisma mod, and your spellcasting modifier is your proficiency bonus + your charisma mod. During a rest, or by consuming a stamina die when not resting you may prepare your spells. When you do so, prepare a number of spells from the muse spell list according to the table below.
+You know how to cast spells. Charisma is your spellcasting ability. Your spell DC is 8 + your proficiency bonus + your charisma mod, and your spellcasting modifier is your proficiency bonus + your charisma mod. During a rest, or by consuming a stamina die over the course of 10 minutes, you may prepare spells from the muse spell list, as well as any bonus spells granted by your focus. When you do so, prepare a number of spells from the muse spell list according to the table below. You may prepare at most one copy of any given spell.
 
 | Level | 1st | 2nd | 3rd |
 |:------|-----|-----|-----|
-|     1 |   2 | --  | --  |
-|     2 |   4 | --  | --  |
-|     3 |   5 | 1   | --  |
-|     4 |   5 | 2   | --  |
-|     5 |   5 | 3   | --  |
-|     6 |   5 | 4   | 1   |
-|     7 |   5 | 4   | 2   |
-|     8 |   5 | 4   | 3   |
-|     9 |   5 | 4   | 3   |
-|    10 |   5 | 4   | 3   |
+|     1 |   1 | --  | --  |
+|     2 |   2 | --  | --  |
+|     3 |   3 | 1   | --  |
+|     4 |   3 | 1   | --  |
+|     5 |   3 | 2   | --  |
+|     6 |   3 | 2   | 1   |
+|     7 |   3 | 2   | 1   |
+|     8 |   3 | 2   | 1   |
+|     9 |   3 | 2   | 2   |
+|    10 |   3 | 2   | 2   |
 
 ### Focus
 A muse bends the weave in a myriad ways, each with their specific qualities.

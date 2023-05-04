@@ -47,3 +47,49 @@ Claws +7 3d10+4 piercing, DC 15 STR save or target is grappled
 `Zombie, HP: 12(2d4+4), speed: 20ft, AC: 8, [14, 8, 14, 4, 4, 4], Bash +2 1d8+1 bludgeoning`
 - Resistant: Non-magical physical, Weak: Radiant, Immune: Necrotic
 - Undead Fortitude: When downed without fire or radiant, roll a 1d6, subtract killing blow's damage from roll. If the roll is positive, the zombie gets up with 1 HP.
+
+
+# Premade encounters
+
+## Morbisu
+
+Morbisu: 35
+
+## Some Cultists
+Cultist: 5
+Cultist: 7
+Cultist: 10
+Cultist: 8
+Cultist: 7
+Cultist: 6
+Cultist: 9
+Cultist: 7
+Cultist: 10
+Cultist: 9
+Cultist: 7
+Cultist: 12
+Cultist: 8
+
+
+## Random zombie group
+
+Zombie 1: 11
+Zombie 2: 3
+Zombie 3: 3
+Zombie 4: 9
+Zombie 5: 8
+Zombie 6: 9
+Zombie 7: 11
+Zombie 8: 9
+Zombie 9: 6
+
+## Randon zombie group
+
+Zombie 1: 7
+Zombie 2: 9
+Zombie 3: 9
+Zombie 4: 11
+Zombie 5: 8
+Zombie 6: 10
+Zombie 7: 10
+
