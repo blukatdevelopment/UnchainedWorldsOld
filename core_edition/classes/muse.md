@@ -23,24 +23,19 @@ The muse's stamina die is a d6.
 |:--------------|----------------------|
 | Weapons       | Simple Weapons       |
 |:--------------|----------------------|
-| Tools         | 3 instruments        |
-|:--------------|----------------------|
 | Saving Throws | Dexterity, Charisma  |
 |:--------------|----------------------|
 
 ## Skills
-Choose 4 from the following:
+You are proficient with one musical instrument and 3 from the following:
 - Religion
+- Technology
 - Arcana
 - History
-- Deception
-- Investigation
 - Insight
 - Persuasion
-- Deception
 - Intimidation
-- Stealth
-- Sleight of Hand
+- Deception
 
 ## Starting Equipment
 - Musical instrument
