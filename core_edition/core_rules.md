@@ -436,6 +436,19 @@ Adventuring requires a great many things. Here are some of them.
 | Vial                        | 1 gp    | —      |
 | Whetstone                   | 1 cp    | 1 lb.  |
 
+#### Transportation and vehicles
+| Name     | Cost | Capacity |
+|:---------|:-----|:---------|
+| Donkey   |  8gp |  420lb   |
+| Pony     | 30gp |  225lb   |
+| Horse    | 75gp |  540lb   |
+| Cart     | 15gp | +200lb   |
+| Wagon*   | 35gp | +400lb   |
+| Carriage*|100gp | +600lb   |
+| Rowboat  | 50gp |  500lb   |
+| Sailboat |10K GP| 2000lb   |
+* Wagon and carriage require two pack animals
+
 #### Light Sources
 | Light Source    | Radius | Duration|
 |:----------------|:-------|:--------|
@@ -543,7 +556,7 @@ When you make an attack with a light weapon in one hand, you may use your bonus 
 Each time you use an action, bonus action, or reaction to make an attack with a weapon posessing the loading property, you can only fire once, regardless of how many attacks you have.
 
 ##### Range
-A ranged weapon has a range specified in parentheses after the ammunition or thrown property. The first number in the range is the normal range in feet, and the second is the weapon's long range. Attacking beyond normal range confers disadvantage on the attack roll. You cannot make attacks beyond the long range.
+A ranged weapon has a range specified in parentheses after the ammunition or thrown property. The first number in the range is the normal range in feet, and the second is the weapon's long range. Attacking beyond normal range confers disadvantage on the attack roll. You cannot make attacks beyond the long range. Ranged attacks have disadvantage if made within 5ft of a hostile creature.
 
 ##### Reach
 This weapon gains an additional 5 feet of range when attacking, as well as determining reach for opportunity attacks.

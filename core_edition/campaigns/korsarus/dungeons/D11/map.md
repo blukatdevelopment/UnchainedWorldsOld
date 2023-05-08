@@ -39,7 +39,7 @@ Speed: 40ft
 |STR|DEX|CON|INT|WIS|CHA|
 | 19| 10| 16|  4| 11|  4|
 Multiattack: The crab makes two claw attacks
-Claws +7 3d10+4 piercing, DC 15 STR save or target is grappled
+Claws +5 2d10 piercing
 ```
 
 ### Zombie

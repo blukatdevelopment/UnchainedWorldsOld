@@ -49,7 +49,7 @@ SL = Spell Level
 | LVL |Prof | PD | SL |           Features                         |
 |:----|-----|----|----|--------------------------------------------|
 |   1 | +1  | D2 |  1 | Invisible Hand, Silent Voice, spellcasting |
-|   2 | +1  | D2 |  1 | Psionic Guidance, Hit point Increase       |
+|   2 | +1  | D2 |  1 | Psionic Guidance                           |
 |   3 | +2  | D4 |  1 | Meditation, Hit point Increase             |
 |   4 | +2  | D4 |  1 | Hit point re-roll                          |
 |   5 | +2  | D6 |  2 | Ability Score Increase                     |
@@ -87,7 +87,7 @@ You draw from your well of mental guidance to creatures within thirty feet of  y
 You have awakened latent abilities. They will grow stronger as you grow further in tune with yourself. Your spellcasting ability is wisdom. To determine the limit of your magical capacity you use a psionic die. At first level, your psionic die is a D2. It increases in size according to the “psionic die” column in the psion table. Spells you cast never need verbal, somatic, nor material components. If you cast a damage-dealing spell and roll the maximum value on the first psionic die you roll for that spell, the spell deals critical damage.
 
 #### Using the psionic die
-When you cast a spell of first or higher level, you roll a number of dice equal to the spell’s level. If any of these dice roll a 1, your die decreases one  size. When you roll a 1 on a D2, you can no longer cast spells this way.
+When you cast a spell of first or higher level, you roll a number of dice equal to the spell’s level. If any of these dice roll a 1, your die decreases one  size. When you roll a 1 on a D2, you can no longer cast spells this way until you rest.
 
 #### Spells Known
 You know one 1st level spells, and learn one spell each time you gain a level in this class. When you gain a level in this class, you may swap out one spell with another of the same level.
@@ -106,7 +106,7 @@ You may increase one ability score by 2, or you can increase two ability scores 
 - Mind Blade 
 - Missile Wall 
 - Force Field 
-- Pyro-Osmosis 
+- Pyro-Osmosis
 - Ice Shield 
 - Glowing Filament 
 - Splash Freeze 

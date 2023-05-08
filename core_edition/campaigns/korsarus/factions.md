@@ -15,7 +15,7 @@ In control of Korsarus City, Thiersgar, and the constellation of villages immedi
 - Slay or recruit warlords
 
 ### NPCs
-- King: Croldon
+- (Dead)King: Croldon
 - Queen: Haildess
 - Prince: Sicrod
 - Princess: Dreflond
@@ -23,41 +23,10 @@ In control of Korsarus City, Thiersgar, and the constellation of villages immedi
 - Mercenary Guildmaster: Swosell
 - General Of Defense: Shirmord
 - General of Offense: Tamater
-- Scouts commanders: Hortchot, Worewold, (Deceased)~~Berdoth~~, Fibance
+- Scouts commanders: Hortchot, Worewold, (Dead)~~Berdoth~~, Fibance
 - Militia commanders: Consprect, Naross, Fielcrose
 - Royal Guard commanders: Ladeneth, Shierton, Cesperd
 
-#### Scout offensive forces(12 person, 2d6)
-- Tenippy
-- Etvady
-- Tiotedanks
-- Ffiterred
-- Alcyjast
-- Rbraanth
-- Atbeaepim
-- Nchaerrio
-- Ecookgul
-
-#### Militia offensive forces(50 person, 2d6)
-- Gelingdi
-- Reaunconabl
-- Eastmowmessy
-- Etybengi
-- Delalda
-- Bravavllimdfren
-- Infirfof
-- Adsterrg
-- Vectalysi
-
-#### Royal Guard defensive forces(20 person, 1d8)
-- Lyquarerlart
-- Quekilas
-- Oarsnauffco
-- Ottlywonten
-- Ousayeint
-- Rtiaeoptneoaryp
-- Uccntworpsu
-- Ntviarcdeain
 
 ### Renown Rewards
 1. Initiate: May wear weapons and armor in most Omarian public spaces. Offer membership(instant +2 renown)
