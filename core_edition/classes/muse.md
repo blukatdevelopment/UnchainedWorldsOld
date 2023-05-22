@@ -268,7 +268,6 @@ At level 10, your knowledge exceeds your power. Choose one spell from any class'
 - Aid
 - Animal Messenger
 - Blindness/deafness
-- Borrowed Knowledge
 - Calm Emotions
 - Cloud of Daggers
 - Crown of Madness

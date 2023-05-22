@@ -126,215 +126,106 @@ Work with the keeper to create one spell of any level.
 ## Runesmith Spell List
 
 ### Cantrips
-- Sparking Blade 
-- Bonfire 
+- Shocking Grasp
+- Thunderclap 
 - Firebolt 
-- Prestidigitation 
-- Light 
-- Spare the dying 
-- Thornwhip 
-- Eye Stone 
-- Mending 
-- Minor Illusion 
-- Earth Whisper 
-- Phantom Whistle 
-- Long Ear 
-- Minute Conjuration 
-- Touch Light 
-- Lesser Telekinesis 
 - Death Grip 
-- Acid Splash 
-- Control Flames 
-- Friends 
-- Frostbite 
-- Green Flame Blade 
-- Gust 
-- Infestation 
-- Mind Sliver 
-- Mold Earth 
 - Poison Spray 
 - Ray of Frost 
-- Shape Water 
-- Shocking Grasp 
-- Thunderclap 
-- Toll the Dead 
-
+- Prestidigitation
+- Light
+- Spare the dying
+- Eye Stone
+- Mending
+- Minor Illusion
+- Long Ear
+- Minute Conjuration
+- Touch Light
+- Gust
+- Control Flames
+- Mold Earth
+- Shape Water
 
 ### 1st
-- Self deception 
-- Sculpt Ice 
-- Protection from good and evil 
-- Magic Missile 
-- Shield 
-- Hasty Retreat 
-- Instant Athlete 
-- Magic Caltrops 
-- Catapult 
-- Vorpal Snare 
-- Absorb Element 
+- Magic Missile
 - Beast Aspect 
-- Identify 
-- False Life 
-- Push 
-- Pull 
 - Ice Tomb 
-- Jump 
-- Detect Magic 
-- Alarm 
-- Cause Fear 
-- Charm Person 
-- Chromatic Orb 
-- Color Spray 
-- Comprehend Languages 
-- Disguise Self 
-- Distort Value 
-- Earth Tremor 
-- Feather Fall 
-- Find Familiar 
-- Fog Cloud 
-- Frost Fingers 
-- Grease 
-- Ice Knife 
-- Mage Armor 
 - Ray of Sickness 
-- Silent Image 
-- Sleep 
-- Snare 
-- Caustic Brew 
-- Hideous Laughter 
-- Floating Disk 
-- Tunderwave 
-- Unseen Servant 
-- Witch Bolt 
 - Burning Hands 
-
+- Mage Armor 
+- Shield 
+- Sleep 
+- Hideous Laughter 
+- Fog Cloud 
+- Grease 
+- Identify
+- Detect Magic
+- Alarm
+- Charm Person
+- Comprehend Languages
+- Disguise Self
+- Silent Image
+- Floating Disk
+- Unseen Servant
 
 ### 2nd
-- Blink Step 
-- Consort With Devils 
-- Eyeball Zone 
-- Hypnotic Trigger 
 - Red-hot metal 
-- Slime 
-- Spin Web 
-- Levitate 
-- Insight Arrow 
-- Psionic Missiles 
-- suggestion 
-- Hold Person 
-- Words of Warning 
-- Walk Through Walls 
-- Fiendishness 
-- Channel The Dead 
-- Object of Desire 
-- Spirit Barrier 
-- Enhance Ability 
-- Gentle Repose 
-- Locate Object
-- Gust of Wind
-- Blazing Scorcher
-- Water Cannon
-- Earthbind
-- Arcane Lock
-- Blindness/Deafness
-- Blur
-- Borrowed Knowledge
 - Cloud of Daggers
-- Continual Flame
-- Crown of Madness
-- Darkness
-- Darkvision
-- Detect Thoughts
 - Dragon's Breath
-- Dust Devil
-- Enhance Ability
-- Enlarge/Reduce
 - Flaming Sphere
-- Gentle Repose
-- Gift of Gab
+- Slime 
+- Spin Web
+- Levitate 
 - Hold Person
+- Gust of Wind
+- Earthbind
+- Blindness/Deafness
+- Darkness
+- Eyeball Zone 
+- Enhance Ability 
+- Blur
+- Enlarge/Reduce
 - Invisibility
-- Glowing Coin
-- Kinetic Jaunt 
+- Warding Wind
+- Blink Step 
+- Insight Arrow
+- Walk Through Walls
+- Locate Object
+- Arcane Lock
 - Knock
 - Magic Mouth
-- Magic Weapon
-- Eathen Grasp
-- Acid Arrow 
-- Mind Spike
-- Mischief [pending]
-- Magic Aura [pending]
-- Phantasmal Force
-- Pyrotechnics [pending]
-- Ray of Enfeeblement [pending]
-- Binding Ice [pending]
-- Rope Trick [pending]
-- Scorching Ray [pending]
-- See Invisibility
-- Shadow Blade [pending]
-- Shatter
-- Snowball Swarm [pending]
-- Spider Climb 
-- Suggestion
-- Mind Whip [pending]
-- Vortex Warp [pending]
-- Warding Wind
-- Spin Web
-- Wither and Bloom
 
 ### 3rd
-- Create Undead Vermin Swarm 
-- Shadow Magic 
-- Delusion 
-- Flight 
-- Lightning Bolt 
-- Riddle 
-- Silent Prance 
-- Posession 
-- Tame Beast 
-- Counterspell 
-- Rust 
-- Petrification 
-- Blazing Trail 
-- Animate Dead 
-- Blink 
-- Clairvoyance 
-- Dispel Magic 
-- Enemies Abound 
-- Erupting Earth 
-- Fast Friends 
-- Feign Death 
-- Flame Arrows 
-- Gaseous Form 
-- Glyph of Warding 
-- Haste 
-- Hypnotic Pattern 
-- Force Sphere 
-- Incite Greed 
-- Intellect Fortress 
+- Lightning Bolt
+- Petrification
+- Erupting Earth
+- Glyph of Warding
+- Minute Meteors
+- Thunder step
+- Tidal wave
+- vampiric touch
+- Rust
+- Shadow Magic
+- Flight
+- Haste
+- Protection from energy
+- Slow
+- stinking cloud
+- wall of sand
+- Counterspell
+- Animate Dead
+- Dispel Magic
+- Feign Death
+- Force Sphere
 - Life Transference
 - Magic Circle
+- Tongues
 - Major Image
-- Minute Meteors
 - Nondetection
 - Phantom Steed
-- Protection from energy
 - Sending
-- Sleet Storm
-- Slow
-- Speak with dead
-- spirit shroud
-- stinking cloud
-- Thunder step
-- tidal wave
-- tongues
-- vampiric touch
-- wall of sand
-- wall of water
 - water breathing
 - tiny servant
-- summon X [Pending]
-- Skill Empowerment
 
 ### 4th
 - Stone skin 
@@ -353,25 +244,9 @@ Work with the keeper to create one spell of any level.
 - Dimension Door
 - Divination
 - Elemental Bane
-- Black Tentacles [pending]
-- Fabricate [pending]
-- Fire Shield [pending]
-- Greater Invisibility [pending]
-- Hallucinatory Terrain [pending]
-- Ice Storm [pending]
-- Secret Chest [pending]
 - Locate Creature
-- Faithful Hound [pending]
-- Private Sanctum [pending]
-- Phantasmal Killer [pending]
 - Polymorph
-- Psychic Lance [pending]
-- Sickening Radiance [pending]
 - Stone Shape
-- Storm Sphere [pending]
-- Vitriolic Sphere [pending]
-- Wall of Fire [pending]
-- Watery Sphere [pending]
 
 ### 5th
 - Firewall 
@@ -381,29 +256,6 @@ Work with the keeper to create one spell of any level.
 - Raise Undead Horde 
 - Nightmare Gate 
 - Bodyswap 
-- Animate Objects [pending]
-- Magic Hand [pending]
-- Cloudkill [pending]
-- Cone of Cold [pending]
-- Contact other plane [pending]
-- Control Winds [pending]
-- Creation [pending]
-- Danse Macabre [pending]
-- Dawn [pending]
-- Dominate Person [pending]
-- Dream [pending]
-- Enervation [pending]
-- Far Step [pending]
-- Geas [pending]
-- Hold Monster [pending]
-- Immolation [pending]
-- Infernal Calling [pending]
-- Mislead [pending]
-- Modify Memory [pending]
-- Negative Energy Flood [pending]
-- Passwall [pending]
-- Plane Binding [pending]
-- Scrying [pending]
 - Seeming
 - Steel Wind Strike
 - Synaptic Static

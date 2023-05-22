@@ -19,11 +19,12 @@ The thief's stamina die is a d6.
 
 ## Proficiencies
 
+|               |                                |
+|:--------------|--------------------------------|
 | Armor         | Light Armor                    |
-|:--------------|--------------------------------|
 | Weapons       | Simple Weapons, Hand Crossbows |
-|:--------------|--------------------------------|
 | Saving Throws | Dexterity, Intelligence        |
+
 
 
 ## Skills

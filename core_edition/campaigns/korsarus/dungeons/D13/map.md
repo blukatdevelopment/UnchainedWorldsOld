@@ -18,22 +18,8 @@ Once humanoids, but corrupted into monsters. Their minds are warped to feel no r
 
 # Prepped encounters
 
-Pincer Beast 1: 
-Pincer Beast 2: 
 
-Flesh eater: 17
-Flesh eater: 16
-Flesh eater: 12
-Flesh eater: 20
-Flesh eater: 27
-Flesh eater: 13
-Flesh eater: 19
-Flesh eater: 16
-Flesh eater: 20
-Flesh eater: 16
-Flesh eater: 17
-Flesh eater: 23
-Flesh eater: 17
-Flesh eater: 19
-Flesh eater: 20
-Flesh eater: 13
+Flesh eater: 6
+
+
+Pincer beast: 8

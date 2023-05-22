@@ -652,7 +652,7 @@ An adventure needs to eat at least one pound of food each day, or lose one stami
 An adventurer must sleep at least 6 hours each day. Failing this, they lose one stamina die each time each morning without sleep. One may not sleep in armor.
 
 ### Stamina Dice
-An adventurer has stamina dice to measure their state of physical endurance. They may not expend a stamina die if they have none left. If an adventurer loses a stamina die when they have none left, they must succeed a DC 15 constitution save to avoid falling unconscious for 1d4 hours. If you lose stamina dice when unconscious in this way, roll the die and subtract it from your hit points. If your hit points fall below 1 this way, you die.
+An adventurer has stamina dice to measure their state of physical endurance. They may not expend a stamina die if they have none left. If an adventurer loses a stamina die when they have none left, they must succeed a DC 15 constitution save to avoid falling unconscious for 1d4 hours. If you lose stamina dice when unconscious in this way, roll the die and subtract it from your hit points. If your hit points fall below 1 this way, you die. An adventurer has a maximum of two stamina dice per level.
 
 ### Clothing
 If exposed to the elements in an extremely hot or cold environment, an adventurer must succeed a DC 14 constitution saving throw or lose a stamina die. This check repeats for each hour spent exposed to the elements. An adventurer may avoid these checks by staying in shelter or wearing clothing appropriate to the weather.
@@ -676,7 +676,7 @@ An adventurer may wish to rest to recover their physical and mental stamina as  
 ### Conditions
 
 #### Down
-A creature is downed when their hit points fall below 1. A downed creature is paralyzed, knocked prone, and incoming attacks deal critical damage. At the start of a downed creature's turn, it must expend a stamina die to make a death saving throw, or else immediately die. The expended stamina die is added to the creature's hit points, and the down condition is removed if the creature's hit points are 1 or more. A creature may be stabilized if a creature uses it's action to make a DC 15 medicine check from within 5ft.
+A creature is downed when their hit points fall below 1. A downed creature is paralyzed, knocked prone, and incoming attacks deal critical damage. At the start of a downed creature's turn, it must expend a stamina die to make a death saving throw, or else immediately die. The expended stamina die is added to the creature's hit points. If the hit points hit exactly 0, the creature is stable and unconscious for 1d4 hours at 1 HP. If higher, the creature wakes up at the end of their current turn in initiative. A creature may be stabilized if a creature uses it's action to make a DC 15 medicine check from within 5ft.
 
 #### Blinded
 - can't see and automatically fail any check requiring sight

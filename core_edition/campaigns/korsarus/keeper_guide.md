@@ -39,7 +39,7 @@ Additionally, every GP you spend earns you 1XP.
 
 `Swordbarer, HP: 21(3d6+3), AC: 15(hide, shield), [14, 10, 12, 10, 13, 12], shortsword +4, 1d6+2`
 
-`Archer, HP: 15 (3d4+3), AC: 15(leather and shield), [12, 14, 12, 12, 12, 12], Dagger +4 1d4+2, Longbow +4 1d8+2`
+`Archer, HP: 15 (3d4+3), AC: 13(leather), [12, 14, 12, 12, 12, 12], Dagger +4 1d4+2, Longbow +4 1d8+2`
 
 `Healer, HP: 12(3d4), AC: 10(robes), [10, 14, 10, 16, 14, 12], dagger +4 1d4+2 piercing`
 - Healer's kit(10 uses per day). +5 Mod

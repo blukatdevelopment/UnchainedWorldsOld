@@ -50,8 +50,8 @@ SL = Spell Level
 |:----|-----|----|----|--------------------------------------------|
 |   1 | +1  | D2 |  1 | Invisible Hand, Silent Voice, spellcasting |
 |   2 | +1  | D2 |  1 | Psionic Guidance                           |
-|   3 | +2  | D4 |  1 | Meditation, Hit point Increase             |
-|   4 | +2  | D4 |  1 | Hit point re-roll                          |
+|   3 | +2  | D4 |  1 | Meditation                                 |
+|   4 | +2  | D4 |  1 |                                            |
 |   5 | +2  | D6 |  2 | Ability Score Increase                     |
 |   6 | +2  | D6 |  2 |                                            |
 |   7 | +3  | D6 |  3 |                                            |

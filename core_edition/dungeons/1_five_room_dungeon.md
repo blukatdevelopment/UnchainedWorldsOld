@@ -1,5 +1,4 @@
 # Five Room Dungeon
-- Concrete implementation
 - Five different elements
 - Each element spans one to two rooms
 - Ideal for oneshots and episodic play
