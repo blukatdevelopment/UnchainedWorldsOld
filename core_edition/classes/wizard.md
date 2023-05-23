@@ -1,3 +1,14 @@
+```
+################################################################################
+#             _    _ _                  _                                      #
+#            | |  | (_)                | |                                     #
+#            | |  | |_ ______ _ _ __ __| |                                     #
+#            | |/\| | |_  / _` | '__/ _` |                                     #
+#            \  /\  / |/ / (_| | | | (_| |                                     #
+#             \/  \/|_/___\__,_|_|  \__,_|                                     #
+################################################################################
+```
+
 # Wizard
 Some channel the power of the weave by studying symbols. These symbols are known as runes. Once carved, runes contain powerful bindings to the weave that can be invoked to cast spells. The runesmith is one who dedicates their life to the art of the rune.
 
@@ -40,32 +51,35 @@ You are proficient in these skills:
 ```
 LVL = level
 Prof = proficiency bonus
-SL = Spell Level
 ```
 
-| LVL |Prof | SL |    Features              |
-|:----|:----|:---|:-------------------------|
-|   1 | +1  |  1 |                          |
-|   2 | +1  |  1 |                          |
-|   3 | +2  |  1 |                          |
-|   4 | +2  |  2 |                          |
-|   5 | +2  |  2 |                          |
-|   6 | +2  |  3 |                          |
-|   7 | +3  |  3 |                          |
-|   8 | +3  |  4 |                          |
-|   9 | +4  |  4 |                          |
-|  10 | +4  |  5 |                          |
+| LVL |Prof |    Features              |
+|:----|:----|:-------------------------|
+|   1 | +1  | Magic word spellcasting  |
+|   2 | +1  | Two word spells          |
+|   3 | +2  | Three word spells        |
+|   4 | +2  |                          |
+|   5 | +2  |                          |
+|   6 | +2  |                          |
+|   7 | +3  |                          |
+|   8 | +3  |                          |
+|   9 | +4  |                          |
+|  10 | +4  |                          |
 
 
 ## Features
 
-### Spellcasting
+### Magic word spellcasting
 Intelligence is your spellcasting ability. Your spellcasting modifier is your STR modifier + your proficiency bonus. Your spellcasting DC is 8 + your STR modifier + your proficiency bonus. Your magic is shaped by speaking magically potent words. One who commands fire, for instance, may conjure a flame hovering over their palm, ignite a candle across the room, change the color or shape of a flame, or erupt a cone of flame against multiple creatures.  The player describes what they wish to do with their word, then the keeper assigns a cost in stamina dice to attempt it as well as the DC for a spellcasting check in order to succeed. A failed spell fizzles out while still consuming stamina dice.
 
+#### Magic Words known
+At level 1, you know 1 magic word. Roll it from the Magic Words table. Each time you gain a level in Wizard, roll one new more magic word to learn.
 
+### Two word spells
+You may create a spell using two words. For example, `fire` `sight` may involve seeing heat for a duration. Though this spell may be accomplished using only the word `sight`, it grows stronger with a second word. Two word spells consume one less stamina die(minimum 0) when cast, and you gains a +2 bonus to the spellcheck.
 
-
-
+### Three word spells
+You may create a spell using three words. Three word spells consume two less stamina dice(minimum 0) when cast, and you gain a +4 bonus to the spellcheck.
 
 ## Magic words
 When selecting randomly, roll a D6 for the ones place and another D6 for the tens place.
@@ -94,12 +108,12 @@ When selecting randomly, roll a D6 for the ones place and another D6 for the ten
 34. Fur
 35. Wood
 36. Horn
-41. Walking
-42. Flying
-43. Swimming
-44. Falling
-45. Slipping
-46. Grinding
+41. Chaos
+42. Construct
+43. Slime
+44. Undeath
+45. Corrupt
+46. Mold
 51. Cage
 52. Wheel
 53. Rope

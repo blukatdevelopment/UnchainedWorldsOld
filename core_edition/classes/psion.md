@@ -215,4 +215,3 @@ You may increase one ability score by 2, or you can increase two ability scores 
 - Confusion
 - Dreamscape
 - Telekinesis
-- Psychic Lance [Pending]

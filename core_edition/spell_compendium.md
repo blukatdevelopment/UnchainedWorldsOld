@@ -3230,13 +3230,7 @@ Dreamscape (4th)
 Casting Speed: 1 hour
 Distance: 1 mile
 Duration: Concentration, up to 8 hours
-You dream of an environment of your choosing that extends in a one mile radius of yourself.
-You and any sleeping creatures within range enter this dreamscape. Spellcasting and magic abilities
-do not work inside the dreamscape. If any creature, including you, is killed in the dream, you
-may not wake up until Greater Restoration or an equivalent magical ritual is conducted to restore
-your mind. You may dismiss this spell using an action. When the dream ends, all participants wake up
-remembering it. You may make alterations to the dreamscape (such as changing your form or the environment)
-by succeeding a spellcheck against a DC set by the GM based on the attempted alteration.
+You dream of an environment of your choosing that extends in a one mile radius of yourself. You and any sleeping creatures within range enter this dreamscape. Spellcasting and magic abilities do not work inside the dreamscape. If any creature, including you, is killed in the dream, you may not wake up until Greater Restoration or an equivalent magical ritual is conducted to restore your mind. You may dismiss this spell using an action. When the dream ends, all participants wake up remembering it. You may make alterations to the dreamscape (such as changing your form or the environment) by succeeding a spellcheck against a DC set by the GM based on the attempted alteration.
 ```
 
 ```
@@ -3608,7 +3602,7 @@ Nightmare Gate (5th)
 Casting Speed: 1 action 
 Distance: 60ft
 Duration: Concentration, 10 minutes
-You create a portal on a 10ft square surface within range. Black tentacles reach out of the portal to grasp and drag any creature within 30ft of it closer. Each creatue must succeed a strength saving throw, or else become grappled and dragged 10ft closer. Each tentacle has 10HP and 12AC. If a creature is dragged inside the nightmare gate, they disappear into a nightmare realm, where they are torn to pieces and die.
+You create a portal on a 10ft square surface within range. Black tentacles reach out of the portal to grasp and drag any creature within 30ft of it closer. Each creatue must succeed a strength saving throw, or else become grappled and dragged 10ft closer. Each tentacle has 10HP and 12AC. If a creature is dragged inside the nightmare gate, they disappear into a nightmare realm where they are torn to pieces and die.
 ```
 
 ```
@@ -3616,10 +3610,7 @@ Bodyswap (5th)
 Casting Speed: 1 action 
 Distance: Touch
 Duration: 1 day
-You touch one creature, which must succeed a wisdom saving throw. If it fails,
-both you and the creature switch bodies. You each reserve your mental abilit
-scores(INT, WIS, CHA), but your physical ability scores are inherited from your
-new body. If your old body is killed, you are stuck in your new body.
+You touch one creature, which must succeed a wisdom saving throw. If it fails, both you and the creature switch bodies. You each reserve your mental abilit scores(INT, WIS, CHA), but your physical ability scores are inherited from your new body. If your old body is killed, you are stuck in your new body.
 ```
 
 ```
@@ -3639,49 +3630,4 @@ You point your finger at one creature within 60 feet of you, this creature is
 forced to make a Consitution saving throw to halve 10d4 + 30 Damage. If a 
 creature is reduced to 0 Hitpoints by this spell they are instantly turned into
 dust.
-```
-
-## 6th level spells
-
-```
-Time Jump (6th)
-Casting Speed: 1 minute
-Distance: 30 feet
-Duration: Instantaneous
-You and up to five willing creatures in range are jolted backwards in time.
-You name a target time (ie "10 years ago", "year 400 of the dwarven empire").
-You and the creatures are removed from the current timeline, where it appears
-you have met a gruesome fate from the gem exploding. Roll on each time table to
-determine the magntiude and direction you miss your exact destination by. If you
-encounter an older version of yourself or an ancenstor and they are killed, you
-will continue to exist. You are now unbound by previous timelines.
-
-+------+-------------------------+
-| Roll |        Magnitude        |
-+------+-------------------------+
-|    1 | second                  |
-|    2 | year                    |
-|    3 | decade(10 years)        |
-|    4 | century(100 years)      |
-|    5 | millennium(1,000 years) |
-|    6 | Epoch(1,000,000)        |
-+------+-------------------------+
-
-+------+-----------+
-| Roll | Direction |
-+------+-----------+
-| 1-2  | Earlier   |
-| 3-4  | Later     |
-+------+-----------+
-```
-
-```
-Longevity (6th)
-Casting speed: 10 minutes
-Distance: self
-Duration: instantaneous
-Every humanoid within a 1 mile radius of you must make a constitution saving
-throw against your spellcasting DC, on a fail they are instantly killed. Every
-Creature that is killed is a year added to your lifespan regardless of any
-external factors.
 ```

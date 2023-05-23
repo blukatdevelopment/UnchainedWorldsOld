@@ -127,141 +127,54 @@ Work with the keeper to create one spell of any level.
 
 ### Cantrips
 - Shocking Grasp
-- Thunderclap 
-- Firebolt 
-- Death Grip 
-- Poison Spray 
-- Ray of Frost 
+- Poison Spray
 - Prestidigitation
-- Light
-- Spare the dying
 - Eye Stone
-- Mending
 - Minor Illusion
 - Long Ear
 - Minute Conjuration
-- Touch Light
-- Gust
-- Control Flames
 - Mold Earth
-- Shape Water
 
 ### 1st
 - Magic Missile
-- Beast Aspect 
-- Ice Tomb 
-- Ray of Sickness 
-- Burning Hands 
-- Mage Armor 
-- Shield 
-- Sleep 
-- Hideous Laughter 
-- Fog Cloud 
-- Grease 
-- Identify
-- Detect Magic
-- Alarm
+- Burning Hands
+- Shield
+- Sleep
+- Fog Cloud
+- Grease
 - Charm Person
-- Comprehend Languages
 - Disguise Self
-- Silent Image
-- Floating Disk
-- Unseen Servant
 
 ### 2nd
-- Red-hot metal 
-- Cloud of Daggers
 - Dragon's Breath
 - Flaming Sphere
-- Slime 
-- Spin Web
-- Levitate 
-- Hold Person
-- Gust of Wind
-- Earthbind
-- Blindness/Deafness
+- Levitate
 - Darkness
-- Eyeball Zone 
-- Enhance Ability 
-- Blur
+- Eyeball Zone
 - Enlarge/Reduce
 - Invisibility
-- Warding Wind
-- Blink Step 
-- Insight Arrow
-- Walk Through Walls
-- Locate Object
-- Arcane Lock
-- Knock
-- Magic Mouth
+- Blink Step
 
 ### 3rd
 - Lightning Bolt
-- Petrification
-- Erupting Earth
-- Glyph of Warding
-- Minute Meteors
-- Thunder step
-- Tidal wave
-- vampiric touch
-- Rust
-- Shadow Magic
 - Flight
 - Haste
-- Protection from energy
-- Slow
-- stinking cloud
-- wall of sand
-- Counterspell
 - Animate Dead
-- Dispel Magic
-- Feign Death
 - Force Sphere
-- Life Transference
-- Magic Circle
 - Tongues
-- Major Image
-- Nondetection
-- Phantom Steed
-- Sending
-- water breathing
-- tiny servant
 
 ### 4th
-- Stone skin 
 - Fireball 
-- Mind Probe 
-- Summon Devil 
-- Dreamscape 
 - Polymorph 
-- Antimagic Field 
-- Arcane Eye
+- Antimagic Field
 - Banishment
-- Blight
-- Charm Monster
 - Confusion
-- Control Water
-- Dimension Door
-- Divination
-- Elemental Bane
-- Locate Creature
 - Polymorph
-- Stone Shape
 
 ### 5th
-- Firewall 
-- Chain Lightning 
-- Conjure Demon 
-- Curse 
-- Raise Undead Horde 
-- Nightmare Gate 
-- Bodyswap 
+- Firewall
+- Raise Undead Horde
+- Nightmare Gate
+- Bodyswap
 - Seeming
-- Steel Wind Strike
-- Synaptic Static
-- Telekinesis
 - Teleportation Circle
-- Transmute Rock
-- Wall of force
-- Wall of light
-- Wall of stone
