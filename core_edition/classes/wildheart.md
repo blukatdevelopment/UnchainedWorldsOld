@@ -1,13 +1,3 @@
-```
-################################################################################
-#                 _    _ _ _     _ _                     _                     #
-#                | |  | (_) |   | | |                   | |                    #
-#                | |  | |_| | __| | |__   ___  __ _ _ __| |_                   #
-#                | |/\| | | |/ _` | '_ \ / _ \/ _` | '__| __|                  #
-#                \  /\  / | | (_| | | | |  __/ (_| | |  | |_                   #
-#                 \/  \/|_|_|\__,_|_| |_|\___|\__,_|_|   \__|                  #
-################################################################################
-```
 # Wildheart
 Some are sensitive enough to detect the nature spirts that oversee the wilderness. Of those, an even narrower lot choose to talk to them. The boldest among those gain the favor of these spirits, and are granted their power. These people are known as wildhearts.
 

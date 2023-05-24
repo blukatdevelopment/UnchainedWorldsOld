@@ -1,13 +1,3 @@
-```
-#####################################################
-#  _____ _     _       __                           #
-# |_   _| |   (_)     / _|                          #
-#   | | | |__  _  ___| |_                           #
-#   | | | '_ \| |/ _ \  _|                          #
-#   | | | | | | |  __/ |                            #
-#   \_/ |_| |_|_|\___|_|                            #
-#####################################################                      
-```
 # Thief
 Sneaking, scheming, and plotting the deeds that are better left under the cover of night, you are an expert in all things stealth and theft.
 

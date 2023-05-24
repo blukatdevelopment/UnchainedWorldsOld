@@ -1,12 +1,3 @@
-```
-################################################################################
-#              |  \/  |                                                        #
-#              | .  . |_   _ ___  ___                                          #
-#              | |\/| | | | / __|/ _ \                                         #
-#              | |  | | |_| \__ \  __/                                         #
-#              \_|  |_/\__,_|___/\___|                                         #
-################################################################################
-```
 # Muse
 The muse has a broad knowledge of many domains. Their spirit is free, and they are sensitive to the resonance of the weave. Not only can they perceive the hidden patterns of magic, but they can leverage this sense to shape and cast spells. Their focus may be varied, but their connection to the weave through self expression is not.
 

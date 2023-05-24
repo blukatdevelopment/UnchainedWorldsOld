@@ -1,13 +1,3 @@
-```
-################################################################################
-#  _    _                 _                                                    #
-# | |  | |               (_)                                                   #
-# | |  | | __ _ _ __ _ __ _  ___  _ __                                         #
-# | |/\| |/ _` | '__| '__| |/ _ \| '__|                                        #
-# \  /\  / (_| | |  | |  | | (_) | |                                           #
-#  \/  \/ \__,_|_|  |_|  |_|\___/|_|                                           #
-################################################################################
-```
 # Warrior
 Your battle cry haunts the nightmares of those adjacent to your carnage in battle. You are an instrument of war that channels fury and skill into the art of violence.
 

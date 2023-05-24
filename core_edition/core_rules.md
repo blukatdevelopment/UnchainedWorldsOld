@@ -1,27 +1,4 @@
 # Unchained Worlds
-```
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNXXWMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNKko;'.';l0WM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0dc,..,cdOko'.dW
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMKc..;lx0NMMMMMO..k
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWNNNWMMWl.;OKXWMMMMMMWk..k
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNxOWMMMMMMMMMMMMMMMMWXkolc:;;,''';dXXo,;;'cKMMWNOd:..oN
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXOKWX0XWKdlcccdKWMMWx'.,:clodxkkd:,;,..',ck0Oo:'.':o0WM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0dc:;;lKMMXOKN0lcll:,;kNW0c,oO0NMMMMXo,..':d0O:....':dOXWMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMWKkolldONMMMXl.'clod0WMMMMXXMMMNkl:'',,''...:0MMMMXxoxo,cKMMN0kk0NWMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMN0xl,...;;,;o0XKx;;ox0NMMMMMMMWWMMMNd::,,cdxc,;oOKK0Okxxdc..xWMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMW0l,..,cdONKc''...'....'cKMMMMMMMMMMWNXKOo';OMMKl'.'''..''',:dKWMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMO'.;xKWMMMMXkdo:'lOOl':dO0OOKWMMMMMWx,''',c0WMMMMX0kOO0KXNNWMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMWKkdlldONMWx';llcOMMMMMN0l..dWMKo,..'''lXWNNWMMXOO0KNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMWKko:,..';;,,lxo;...,l0WXOd:'..;kNMMMMNK0KXXNWX00XXKNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-Wk;..':okKNNOc'..':ol;;ll;...:okKWMMMMMMMMMMMMMMMMMW0kXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-k..dKNMMMMMXo;c:;dNMXkoc:cdOXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-o :NMMMMMMMMN0o..xWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-O..dXWWX0xo:,..;kNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-WO:.';,'..,cokKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMW0xooxOXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-
-```
 
 # Foreword
 
@@ -69,32 +46,6 @@ Something unexpected or negative happens. Maybe you botch an important roll, or 
 This handbook provides a skeletal set of character creation options, and are not intended for use in tyical campaigns. Work with your keeper to determine what supplemental books you will use when creating your characters.
 
 ## Abilities
-```
-MMMMMMMMMMMMMMMMMWWWWWWWWMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMWXOdldxxxxxxdoodxkOO00KXNWMMMMMMMMMMMM
-MMMMMMMMMMMXxodo;:doc:cc:;;,,:looooodddONMMMMMMMMM
-MMMMMMMMMWOoldodl;ld:',::::;',ccccccc:'.c0WMMMMMMM
-MMMMMMMMXxol:coodc,cc;,;::::ccccllloooc',ckWMMMMMM
-MMMMMMW0dol::odddl...,:clodxxxxxocloool',ccxNMMMMM
-MMMMMNxl:;:lodoc::'.,;:ldxdddxxc..,lxdo;':c:xWMMMM
-MMMMKdlc;:ll:::coxc:ooc:ccclddxo'.;::oxl',;';kWMMM
-MMW0ooddlc:;;codxxc:dddxdolcccdxdc:;..ld,'...:0WMM
-MWOoolc:::cllllool;:dddxxxxxoccclxx:''lk:''..'oKWM
-MKl::::lol;:lllll:':oooodddl:ldocc:cdOOOl,,...,xNW
-MO;;lllllc.'lllll;,cc,,,;;;' .:oddlccldkl,;,..,c0W
-MXc;lolllc..cllll,,lc;''.......coodddl:::,,;,;,:OW
-MM0:,:lllc..,':lc';l:'';c:;',,;cloooooo:...'''.:KW
-MMW0c,;col'...;l;':l' .;,.... .clllc:;;;'';,,';OWW
-MMMWOc,';c:;;:cc,'cl:'.....:;.'c:;;;;;cc;;,.':OWWW
-MMMMWO,.,,,:ccc:.,cccccccllc;,,;,,;:ccc;,;..c0WWWW
-MMMMMWO;''.',:c;.;ccc:;;;;;;,',,,,,'';,.,,'oXWWWWW
-MMMMMMMKc'.',',..,;,,,,;;::,..''... .'..':kNWWWWWW
-MMMMMMMMXd'.,,.....';:::;;,....''...'...c0WWWWWWWW
-MMMMMMMMWNkc,........'',,,'.. ......'.'dXWWWWWWWWW
-MMMMMMWWWWWWKOxoc;,,................,l0WWWWWWWWWWW
-MMMMMMMMMMMMMMMMWWXK0Okdooolc::;:cokKWWWWWWWWWWWWW
-
-```
 
 ### What are abilities?
 When you attempt to perform a task that involves natural ability, your ability scores help determine the odds of success. Here’s a breakdown of what different abilities help you with.
@@ -181,33 +132,6 @@ If Geremy does not want to act, he might respond like this: "Alexa thinks the to
 
 # Combat
 
-```
-WNXK00OOkkkkkkOkdoddolccdxxxxxox0KKKK0KXXXKKKXNWWW
-WNkc;;,;,,,;::::::::cccoOKK0OkkxkxxxxodkxddookNWWW
-WNx;;,..'''',,;;::ccccldOKKKKKKKK0kO00OOOxolokNWWW
-WNx;;,'''',,;;;::cccccldOKKKKKKKK0O0XKKKKOdookNWWW
-WNk::,'''',,;;;::ccccccd0KKKKKKKX0O0XXXXK0xookNWNW
-NNx;;,''''',,;;:::cccccd0KKKKKXXXKO0XXKKK0dllkNNNN
-WNx;;,''''',,;;;;:::cccoOKKKKKXXXKO0XXXKKOdlokNWWW
-WNx;;;''''',,;;;;::::ccoOKKKKKXXXKO0XXXKKOdllkNWWW
-WNx;,,'''''',;;;;:::::coOKKKKKXXXKO0KXKXXOoccxNWWW
-WNx;,,'''''',;::::::::coOKKKKKKXXKO0KKKKKOocckNWWW
-WNx;,;clcllooloddddddddodxxxxxxkkkkkkkkkkdlccxNWWW
-WNx;;:okkOOOkdk0000000kdlllccllllloollllc:::cxNWWW
-WNk:;:okOOOOkdk0000000kollllllcclllllllcc:::ckNWWW
-WW0c;:lxkOOOkdk000KKKKOocccllcclllloolllc:ccl0NWWW
-WWNx:;:lxOOOkxk00KKKKKOoccccccccllooollcccccxXWWWW
-WWWXx:;:lxOOkdk00KKKKK0dllllllcccloololllllkXNWWWW
-NNNNXOl::coxddk00KKKKK0dlllcccccclllllolloOXNNNWNN
-WWWWWNXkocccllxO0KKKKK0dcc:::::ccclloddxOXNWWWWWWW
-WWWWWWWWN0xoccldxO00KK0dc::::::clooodkKXNWWWWWWWWW
-WWWWWWWWWWNX0kdllldxk0Od:;:::cloxkO0XNWWWWWWWWWWWW
-MMMMMMMMMMMMMWNKkdoooddlcccloodOKXNWWWWWWWWWWWWWWW
-MMMMMMMMMMMMMMMMMWKOkdlclodxOKNNWNNNWWNNWWWWWWWWWW
-MMMMMMMMMMMMMMMMMMMWNX0O0KXNNWWNNNNNWNNNNWWWWWWWWW
-
-```
-
 ## Initiative
 In combat, combatants take turns. The combat order is known as initiative. 
 
@@ -276,29 +200,6 @@ Difficult terrain requires you to move more slowly. This means that for every 5f
 
 
 ## Equipment and items
-```
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMN0OOOOOO0XWMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMW0kxxkO000OkxxONMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMNkdO0000OO0KKK0xxKMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMNxd0K0OxxkkkxO00KxdXMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMM0dOKK0dxNMMWOdOK00dOMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMM0dOK00dkWMMWOoOKK0dOMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMNxd00KOxkOOkxk0KKkdXMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMXxdOK0K0OOO0000Kxd0NWMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMN0xxkO0000OxxOKKOxdx0WMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMWX0OOOOOOOOxxO0KKOxx0WWNWMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMW0xxO00KOxxxxxKN00NMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMW0xddOKKOOxldxxodK0kkONMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMWN0xxO00OxxkxdddxOxdKMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMW0xxOK00kloxOkxkXMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0xxOKK00koxXMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0xxOK0OxxKWMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0xxk0KxdXMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0kxkx0WMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNWMMMMMMMMM
-
-```
 
 ### Coinage
 Coins are an adventurer's most liquid asset. Fifty coins of any material add up to one pound of carry weight. Gold bars come in either 2lb (100gp), 5lb (250gp), or 10lb(500gp) sizes and are used to trade large amounts of wealth.
@@ -617,31 +518,7 @@ You don armor to put it on and doff it to take it off. You only receive the bene
 
 
 ## Physical needs
-```
-MMMMMMMMMWWNNNNNWWMMMMMMMMMMMMMMWWNNNNNWWMMMMMMMMM
-MMMMMWNKOxolccclodkKNWMMMMMMWN0kdolcccloxOKWMMMMMM
-MMMMNOo:;,,,,,,,,,,;lkKWMWWXkl;,,,,,,,,,,,:oONWMMM
-MMWKd;,,,,,,,,,,,,,,,,ckKKkc;,,,,,,,,,,,,,,,;dKWMM
-MWKo;,,,,,,,,,,,,,,,,,,;::;,,,,,,,,,,,,,,,,,,;oKWM
-WNx;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;xNM
-MXo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,oXM
-MXo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,oXM
-MNd;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;dNM
-MWO:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:OWM
-MMNd;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;dNMM
-MMMXo;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;oXWMM
-MMMWXx:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:xXWMMM
-MMMMMW0o:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;o0WMMMMM
-MMMMMMMN0o:,,,,,,,,,,,,,,,,,,,,,,,,,,,,:o0NMMMMMMM
-MMMMMMMMMN0d:,,,,,,,,,,,,,,,,,,,,,,,,:d0NMMMMMMMMM
-MMMMMMMMMMMWKxc;,,,,,,,,,,,,,,,,,,;cxKWMMMMMMMMMMM
-MMMMMMMMMMMMMWXkl;,,,,,,,,,,,,,,;lkXWMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMNOo:,,,,,,,,,,:oONWMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMN0dc,,,,,,:d0NMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMWKxc;;cxKWMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMWX00XWMMMMMMMMMMMMMMMMMMMMMM
 
-```
 ### Water
 An adventurer needs to drink at least one gallon of water each day, or lose one stamina die. If they have a water container, they may use it throughout the day,  refilling it at water sources, if any can be found nearby. In extremely hot or  dry terrain, an adventurer instead needs to drink two gallons.
 

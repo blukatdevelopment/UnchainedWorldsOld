@@ -1,14 +1,3 @@
-```
-################################################################################
-#            _    _                             _  __                          #
-#           | |  | |                           | |/ _|                         #
-#           | |  | | ___ _ __ _____      _____ | | |_                          #
-#           | |/\| |/ _ \ '__/ _ \ \ /\ / / _ \| |  _|                         #
-#           \  /\  /  __/ | |  __/\ V  V / (_) | | |                           #
-#            \/  \/ \___|_|  \___| \_/\_/ \___/|_|_|                           #
-#                                                                              #
-################################################################################
-```
 # Werewolf
 There are legends of a curse that turns the innocent into bloodthirsty monsters by the light of the full moon. In some places, silvered weapons are put on display to defend against such monsters. Few know of the nature of this curse. Though some live largely unaware of it, or completely subordinate to the bestial urges of the monster's form, many others live with the curse and attempt to control it. This is the life of a werewolf.
 

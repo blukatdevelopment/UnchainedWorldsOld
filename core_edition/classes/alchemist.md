@@ -1,13 +1,3 @@
-```
-################################################################################
-#   ___  _      _                    _     _                                   #
-#  / _ \| |    | |                  (_)   | |                                  #
-# / /_\ \ | ___| |__   ___ _ __ ___  _ ___| |_                                 #
-# |  _  | |/ __| '_ \ / _ \ '_ ` _ \| / __| __|                                #
-# | | | | | (__| | | |  __/ | | | | | \__ \ |_                                 #
-# \_| |_/_|\___|_| |_|\___|_| |_| |_|_|___/\__|                                #
-################################################################################
-```
 # Alchemist
 Magicians bend the weave to unleash magical energy that they struggle to control. Alchemical processes are what you struggle to control. Novice alchemy is a form of gambling, but after achieving mastery in the art, alchemists can truly achieve stability.
 

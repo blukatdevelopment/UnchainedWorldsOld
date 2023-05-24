@@ -1,13 +1,3 @@
-```
-################################################################################
-# ______    _                                                                  #
-# | ___ \  (_)                                                                 #
-# | |_/ /__ _  ___  _ __                                                       #
-# |  __/ __| |/ _ \| '_ \                                                      #
-# | |  \__ \ | (_) | | | |                                                     #
-# \_|  |___/_|\___/|_| |_|                                                     #
-################################################################################
-```
 # Psion
 Your mind extends beyond itself, an invisible appendage that allows you to reach farther than your arms, see farther than your eyes, and to peer into and trifle with the minds of others. There is no outward evidence of your difference, and it is unclear whether you will ever meet someone similarly-minded.
 

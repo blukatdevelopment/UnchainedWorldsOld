@@ -1,13 +1,3 @@
-```
-################################################################################
-#       _____                           _ _   _                                #
-#      |  __ \                         (_) | | |                               #
-#      | |  \/_   _ _ __  ___ _ __ ___  _| |_| |__                             #
-#      | | __| | | | '_ \/ __| '_ ` _ \| | __| '_ \                            #
-#      | |_\ \ |_| | | | \__ \ | | | | | | |_| | | |                           #
-#       \____/\__,_|_| |_|___/_| |_| |_|_|\__|_| |_|                           #
-################################################################################
-```
 # Gunsmith
 Maybe you dispatch your enemies from a secure vantage point, draw at high noon, or bring down buildings. You're a master of steel, lead,  and gunpowder. A cold, calculating killer who calls thunder down on those unlucky enough to face the business end of your arsenal, you represent the tip of the spear in military innovation.
 
