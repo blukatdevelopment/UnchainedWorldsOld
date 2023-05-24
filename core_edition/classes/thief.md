@@ -118,11 +118,9 @@ Choose one of the following tricks to learn:
 Choose one of the following tricks to learn:
 - One of the tricks from Tricks 1-7 that you did not choose.
 - Thief's Second Sight: Gain 10ft blindsight.
-- Trickster's Hand: Consume one stamina die to cast Lesser Telekinesis
-- Trickster's Step: Consume two stamina dice to cast Blink Step.
-- Trickster's Snake: Consume two stamina dice to cast Vorpal Snare.
-- Trickster's Cat Eyes: Consume two stamina dice to cast Darkvision.
-- Trickster's Sixth Sense: Consume two stamina dice to cast Locate Object.
+- Trickster's Hand: Consume one stamina die to move a 5lb or less object within 120ft.
+- Trickster's Step: Consume two stamina dice to teleport up to a spot you can see within 60ft.
+- Trickster's door: Consume three stamina dice and pass through one wall up to 50ft thick.
 
 ### Tricks 9
 Choose one of options from Tricks 1-8 that you did not previously select.

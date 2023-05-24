@@ -81,6 +81,7 @@ You are now proficient with shortswords, longswords, and greatswords. When you c
 - Command 
 - Protection from good and evil
 - Inflict Wounds
+- Comprehend Languages
 
 ### 2nd
 - Insight Arrow
@@ -88,8 +89,6 @@ You are now proficient with shortswords, longswords, and greatswords. When you c
 - Aid
 - Gentle Repose
 - Lesser Restoration
-- Locate Object
-- Prayer of Healing
 - Silence
 
 ### 3rd

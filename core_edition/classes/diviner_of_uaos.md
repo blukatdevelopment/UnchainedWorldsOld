@@ -85,6 +85,7 @@ When all six virtue tattoos are visible, you may channel the compassion of Uaos.
 - Command 
 - Protection from good and evil
 - Inflict Wounds
+- Comprehend Languages
 
 ### 2nd
 - Insight Arrow
@@ -92,8 +93,6 @@ When all six virtue tattoos are visible, you may channel the compassion of Uaos.
 - Aid
 - Gentle Repose
 - Lesser Restoration
-- Locate Object
-- Prayer of Healing
 - Silence
 
 ### 3rd

@@ -129,9 +129,7 @@ Work with the keeper to create one spell of any level.
 - Prestidigitation
 - Eye Stone
 - Minor Illusion
-- Long Ear
 - Minute Conjuration
-- Mold Earth
 
 ### 1st
 - Magic Missile
@@ -139,19 +137,15 @@ Work with the keeper to create one spell of any level.
 - Shield
 - Sleep
 - Fog Cloud
-- Grease
-- Charm Person
 - Disguise Self
 
 ### 2nd
 - Dragon's Breath
 - Flaming Sphere
 - Levitate
-- Darkness
 - Eyeball Zone
 - Enlarge/Reduce
 - Invisibility
-- Blink Step
 
 ### 3rd
 - Lightning Bolt

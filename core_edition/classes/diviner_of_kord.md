@@ -100,6 +100,7 @@ When you restore your spells at an altar of Kord, you may exhaust spells in exch
 - Command 
 - Protection from good and evil
 - Inflict Wounds
+- Comprehend Languages
 
 ### 2nd
 - Insight Arrow
@@ -107,8 +108,6 @@ When you restore your spells at an altar of Kord, you may exhaust spells in exch
 - Aid
 - Gentle Repose
 - Lesser Restoration
-- Locate Object
-- Prayer of Healing
 - Silence
 
 ### 3rd

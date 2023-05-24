@@ -114,6 +114,7 @@ You point to an unrepenting breaker of the laws of Bimros and hold your other ha
 - Command 
 - Protection from good and evil
 - Inflict Wounds
+- Comprehend Languages
 
 ### 2nd
 - Insight Arrow
@@ -121,8 +122,6 @@ You point to an unrepenting breaker of the laws of Bimros and hold your other ha
 - Aid
 - Gentle Repose
 - Lesser Restoration
-- Locate Object
-- Prayer of Healing
 - Silence
 
 ### 3rd

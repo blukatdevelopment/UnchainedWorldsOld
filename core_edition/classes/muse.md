@@ -218,15 +218,12 @@ At level 10, your knowledge exceeds your power. Choose one spell from any class'
 ## Spell list
 
 ### 1st
-- Cause Fear
 - Charm Person
 - Comprehend Languages
 - Disguise Self
 - Sleep
 - Hideous Laughter
 - Dissonant Whispers
-- Color Spray
-- Faerie Fire
 
 ### 2nd
 - Enhance Ability
@@ -235,12 +232,9 @@ At level 10, your knowledge exceeds your power. Choose one spell from any class'
 - Mirror Image
 - Silence
 - Suggestion
-- Insight Arrow
 
 ### 3rd
 - Enemies Abound
-- Fast Friends
-- Feign Death
 - Hypnotic Pattern
 - Major Image
 - Motivational Speech

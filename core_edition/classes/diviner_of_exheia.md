@@ -83,6 +83,7 @@ You may touch an object and contact your library to telepathically request infor
 - Command 
 - Protection from good and evil
 - Inflict Wounds
+- Comprehend Languages
 
 ### 2nd
 - Insight Arrow
@@ -90,8 +91,6 @@ You may touch an object and contact your library to telepathically request infor
 - Aid
 - Gentle Repose
 - Lesser Restoration
-- Locate Object
-- Prayer of Healing
 - Silence
 
 ### 3rd
