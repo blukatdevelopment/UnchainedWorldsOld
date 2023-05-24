@@ -23,9 +23,6 @@ Your stamina die is a d4.
 | Armor         | None                   |
 |:--------------|------------------------|
 | Weapons       | Simple                 |
-|:--------------|------------------------|
-| Saving Throws | Constitution, Strength |
-|:--------------|------------------------|
 
 ## Skills
 You are proficient with the following:

@@ -22,10 +22,6 @@ Your stamina die is a d4.
 | Armor         | Light armor              |
 |:--------------|--------------------------|
 | Weapons       | Simple Weapons, longbows |
-|:--------------|--------------------------|
-| Tools         | Herbalism Kit            |
-|:--------------|--------------------------|
-| Saving Throws | Intelligence, Wisdom     |
 
 
 ## Skills
@@ -306,7 +302,41 @@ You outgrow the need for your nature spirit and learn to cast spells without it'
 When you die, your soul may attempt to enter the body of a creature within 30ft of your body. The creature must succeed a WIS save, or else swap bodies with you just before your final breath. A creature may willingly fail this save. If the creature succeeds, you may attempt this with each other creature within 30ft of your body. If all creatures within range resist this bodyswap, you are dead. If you succeed in switching bodies, you inherit their physical form, including their STR, DEX, and CON scores, but retain your mental abilities and wildheart powers.
 
 #### Reincarnation
-When you die, your soul is transferred to a beast that has just been born. You may expend 5 stamina dice to assume your avatar form, the form you had when you first gained a level in wildheart. Falling below 1 HP reverts you from your avatar form. You retain your memories, all levels of wildheart, and mental ability scores in your beast form, but you may only cast spells in your avatar form. If you die as a beast, you are reincarnated again. If you die in your avatar form, your death is permanent.
+When you die, your soul is transferred to a beast that has just been born. You may expend 5 stamina dice to assume your ava### Cantrips
+- Create Bonfire
+- Frostbite
+- Mold Earth
+- Thorn Whip
+
+### 1st
+- Ice Knife
+- Tame Beast
+- Create or Destroy Water
+- Cure Wounds
+- Faerie Fire
+- Fog Cloud
+- Speak with Animals
+- Thunderwave
+
+### 2nd
+- Barkskin
+- Beast Sense
+- Flame Blade
+- Great Berry
+- Locate Animals or Plants
+- Moonbeam
+- Pass without Trace
+- Spike Growth
+
+### 3rd
+- Rust
+- Daylight
+- Elemental Weapon
+- Erupting Earth
+- Meld into Stone
+- Sleet Storm
+- Tidal Wave
+- Wind Walltar form, the form you had when you first gained a level in wildheart. Falling below 1 HP reverts you from your avatar form. You retain your memories, all levels of wildheart, and mental ability scores in your beast form, but you may only cast spells in your avatar form. If you die as a beast, you are reincarnated again. If you die in your avatar form, your death is permanent.
 
 #### Nature Spirit
 When you die, you become a nature spirit. You gain a fly speed of 30ft, are immune to non-magical piercing, slashing, and bludgeoning damage, and no longer need to eat, sleep or breathe. If this form is destroyed, you are dead.
@@ -320,89 +350,37 @@ You stop aging and are immune to death by old age. Instead, you live until somet
 ## Spell list
 
 ### Cantrips
-- Control Flames
 - Create Bonfire
-- Druidcraft
 - Frostbite
-- Guidance
-- Gust
-- Mending
 - Mold Earth
-- Produce Flame
-- Resistance
-- Shape Water
-- Shillelagh
 - Thorn Whip
-- Thunderclap
 
 ### 1st
-- Absorb Element
-- Animal Friendship
+- Ice Knife
 - Tame Beast
-- Charm Person
 - Create or Destroy Water
 - Cure Wounds
-- Detect Magic
-- Detect Poison and Disease
-- Earth Tremor
-- Entangle
 - Faerie Fire
 - Fog Cloud
-- Healing Word
-- Ice Knife
-- Jump
-- Longstrider
-- Protection from good and evil
-- Purify Food and Drink
-- Snare1
 - Speak with Animals
 - Thunderwave
 
 ### 2nd
-- Air Bubble
-- Bird Friend
-- Barkskin 
+- Barkskin
 - Beast Sense
-- Continual Flame
-- Darkvision
-- Dust Devil
-- Earthbind
-- Enhance Ability
-- Enlarge/Reduce
-- Find Traps
 - Flame Blade
-- Flaming Sphere
 - Great Berry
-- Gust of Wind
-- Red-hot Metal
-- Hold Person
-- Lesser Restoration
 - Locate Animals or Plants
-- Locate Object
 - Moonbeam
 - Pass without Trace
-- Protection from Poison
 - Spike Growth
-- Warding Wind
-- Wither and Bloom
 
 ### 3rd
 - Rust
-- Aura of Vitality
-- Call Lightning
 - Daylight
-- Dispel Magic
 - Elemental Weapon
 - Erupting Earth
-- Feign Death
-- Flame Arrows
 - Meld into Stone
-- Plant Growth
-- Protection from Energy
 - Sleet Storm
-- Speak with Plants
 - Tidal Wave
-- Wall of Water
-- Water Breathing
-- Water Walk
 - Wind Wall

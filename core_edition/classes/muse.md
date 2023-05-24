@@ -22,9 +22,6 @@ The muse's stamina die is a d6.
 | Armor         | Light armor          |
 |:--------------|----------------------|
 | Weapons       | Simple Weapons       |
-|:--------------|----------------------|
-| Saving Throws | Dexterity, Charisma  |
-|:--------------|----------------------|
 
 ## Skills
 You are proficient with one musical instrument and 3 from the following:
@@ -149,16 +146,13 @@ Your speech improves, and you gain access to new spells.
 ##### 1st
 - Hellish Rebuke
 - Absorb Element
-- Self Deception
 
 ##### 2nd
 - Words of Strength
 - Consort with devils
-- Words of Warning
 
 ##### 3rd
 - Confession
-- Kindness
 - Malevolent Guidance
 
 #### Written: Get that in triplicate.
@@ -168,45 +162,31 @@ When you prepare spells, you may expend five stamina dice to prepare one spell t
 You learn to produce other spells using your paintings.
 
 ##### 1st
-- Floating Disk
 - Fog Cloud
-- Grease
 - Beast Aspect
 
 ##### 2nd
 - Fiendishness
-- Flaming Sphere
-- Magic Weapon
 - Spin Web
 
 ##### 3rd
 - Phantom Steed
 - Tiny Servant
-- Spirit Guardian
-- Wall of Water
 
 #### Dance: Bonus Spells
 Through your unique motions, you unlock new possibilities for spellcasting.
 
 ##### 1st
-- Mind Blade
-- Shield
-- Instant Althlete
 - Hasty Retreat
-- Feather Fall
 - Jump
 
 ##### 2nd
 - Blur
 - Water Walk
-- Spider Climb
 
 ##### 3rd
-- Slow
 - Haste
-- Vampiric Touch
 - Thunder Step
-- Blink
 
 #### Blade: Extra Attack
 When you use your action to make an attack, you may make one additional attack.
@@ -238,75 +218,31 @@ At level 10, your knowledge exceeds your power. Choose one spell from any class'
 ## Spell list
 
 ### 1st
-- Dazzling Light
-- Command
-- Self Deception
-- Jump
-- Bless
-- Cure Wounds
-- Detect Magic
 - Cause Fear
 - Charm Person
 - Comprehend Languages
 - Disguise Self
-- Distort Value
-- Fog Cloud
-- Silent Image
 - Sleep
 - Hideous Laughter
-- Heroism
-- Speak with Animals
-- Bane
 - Dissonant Whispers
-- Animal Friendship
-- Feather Fall
 - Color Spray
 - Faerie Fire
-- Cause Fear
 
 ### 2nd
-- Aid
-- Animal Messenger
-- Blindness/deafness
-- Calm Emotions
-- Cloud of Daggers
-- Crown of Madness
-- Detect Thought
 - Enhance Ability
-- Enlarge/Reduce
-- Enthrall
-- Gift of Gab
-- Heat Metal
 - Hold Person
 - Invisibility
-- Lesser Restoration
-- Locate Object
-- Magic Mouth
-- Enthrall
 - Mirror Image
-- Phantasmal Force
-- See Invisibility
 - Silence
-- Shatter
 - Suggestion
 - Insight Arrow
 
 ### 3rd
-- Curse
-- clairvoyance
-- Dispel Magic
 - Enemies Abound
 - Fast Friends
 - Feign Death
-- Glyph of Warding
 - Hypnotic Pattern
-- Intellect Fortress
 - Major Image
-- Mass Healing Word
 - Motivational Speech
-- Nondetection
-- Sending
-- Slow
 - Speak with the dead
-- Stinking Cloud
 - Tongues

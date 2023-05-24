@@ -22,8 +22,6 @@ The warrior's stamina die is a d8.
 | Armor         | Light Armor, Medium Armor, Heavy Armor, Shields |
 |:--------------|:------------------------------------------------|
 | Weapons       | Simple Weapons, Martial Weapons                 |
-|:--------------|:------------------------------------------------|
-| Saving Throws | Strength, Constitution                          |
 
 ## Skills
 You are proficient with the following:

@@ -23,10 +23,6 @@ The alchemist's stamina die is a d4.
 | Armor         | Light armor          |
 |---------------|----------------------|
 | Weapons       | Simple Weapons       |
-|---------------|----------------------|
-| Tools         | Alchemy Kit          |
-|---------------|----------------------|
-| Saving Throws | Intelligence, Wisdom |
 
 ## Skills
 You are proficient in the following skills:

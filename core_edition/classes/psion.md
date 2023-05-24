@@ -22,11 +22,6 @@ The psion's stamina die is a d4.
 | Armor         | Light Armor, Shields |
 |:--------------|----------------------|
 | Weapons       | Simple Weapons       |
-|:--------------|----------------------|
-| Tools         | None                 |
-|:--------------|----------------------|
-| Saving Throws | Wisdom, Charisma     |
-|:--------------|----------------------|
 
 ## Skills
 You are proficient in the following skills:
@@ -101,117 +96,33 @@ You may increase one ability score by 2, or you can increase two ability scores 
 ## Psion Spell List
 
 ### 1st
-- Propelling Flame 
-- Psionic Lasso 
-- Mind Blade 
-- Missile Wall 
-- Force Field 
-- Pyro-Osmosis
-- Ice Shield 
-- Glowing Filament 
-- Splash Freeze 
-- Sculpt Ice
+- Mind Blade
 - Calm Emotions
-- Catapult
-- Command
 - Shield
-- Enthrall
-- Absorb Element
-- False Life
-- Push
-- Pull
-- Ice Tomb
-- Vorpal Snare
-- Jump
+- Push or pull
 - Dissonant Whispers
-- Speak with Animals
-- Faerie Fire
-- Dazzling Light
-- Instant Athlete
-- Inflict Wounds
-- Cause Fear
-- Charm Person
-- Earth Tremor
-- Feather Fall
 - Hideous Laughter
-- Thunderwave
-- Mage Armor
 
 ### 2nd
-- Psionic Bridge 
-- Water Walk 
-- Hypnotic Trigger 
-- Red-hot metal
 - Psionic Missiles
-- Flying Weapon 
 - Levitate
-- Object of Desire
 - Mind Spike
-- See Invisibility
-- Knock
-- Blindness/deafness
-- Kinetic Jaunt
-- Blur
-- Borrowed Knowledge
-- Crown of Madness
-- Suggestion
 - Hold Person
-- Words of Warning
-- Object of Desire
 - Detect Thoughts
-- Gift of Gab
-- Find Traps
-- Locate Object
-- Silence
-- Shatter
-- Gust of wind
-- Beast Sense
-- Locate Animals Or Plants
 - Phantasmal Force
 
 ### 3rd
-- Malevolent Guidance 
-- Delusion
-- Psionic Construct 
+- Malevolent Guidance
 - Flight 
-- Enemies Abound 
-- Force Sphere 
-- Dispel Magic 
-- Fast Friends
-- Counterspell
-- Blink
-- Clairvoyance
-- Erupting Earth
-- Feign Death
-- Haste
+- Enemies Abound
 - Hypnotic Pattern
-- Force Sphere
-- Incite Greed
-- Intellect Fortress
-- Speak With Plants
-- Major Image
-- Nondetection
 - Sending
-- Slow
 - Tongues
-- Wall of Sand
-- Wall of Water
-- Speak With dead
-- Silent Prance
-- Delusion
-- Tame Beast
 
 ### 4th
-- Ferroform 
 - Mind Probe
-- Dreamscape
 - Heart Crush 
-- Mind Meld
-- Crushing Force
-- Control Water
 - Locate Creature
 - Arcane Eye
-- Charm Monster
 - Confusion
-- Dreamscape
 - Telekinesis

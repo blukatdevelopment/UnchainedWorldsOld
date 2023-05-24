@@ -22,11 +22,6 @@ The aurent's stamina die is a d8.
 | Armor         | None                           |
 |:--------------|:-------------------------------|
 | Weapons       | None                           |
-|:--------------|:-------------------------------|
-| Tools         | Thieves' Tools                 |
-|:--------------|:-------------------------------|
-| Saving Throws | Dexterity, Wisdom              |
-|:--------------|:-------------------------------|
 
 ## Skills
 You are proficient in these skills:

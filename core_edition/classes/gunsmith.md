@@ -23,8 +23,6 @@ The gunsmith's stamina die is a d6.
 | Armor         | Light armor              |
 |:--------------|--------------------------|
 | Weapons       | Simple Weapons, Firearms |
-|:--------------|--------------------------|
-| Saving Throws | Strength, Dexterity      |
 
 ## Skills
 You are proficient with:

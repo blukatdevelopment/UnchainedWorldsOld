@@ -23,8 +23,6 @@ The inventor's stamina die is a d4.
 | Armor         | Light Armor                                     |
 |:--------------|:------------------------------------------------|
 | Weapons       | Simple Weapons, Heavy Crossbows, Hand Crossbows |
-|:--------------|:------------------------------------------------|
-| Saving Throws | Dexterity, Wisdom                               |
 
 
 ## Skills

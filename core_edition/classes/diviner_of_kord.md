@@ -12,9 +12,6 @@ The diviner's stamina die is a d4.
 | Armor         | Light Armor, Medium Armor, Shields |
 |:--------------|:-----------------------------------|
 | Weapons       | Simple Weapons                     |
-|:--------------|:-----------------------------------|
-| Saving Throws | Wisdom, Charisma                   |
-|:--------------|:-----------------------------------|
 
 ## Skills
 You are proficient with these skills:
@@ -90,128 +87,50 @@ When you restore your spells at an altar of Kord, you may exhaust spells in exch
 ## Spell List
 
 ### Cantrip
-- Mending 
-- Sacred Flame 
-- Guidance 
-- Touch Light 
-- Lay On Hands 
-- Thaumaturgy 
-- Toll the Dead 
-- Resistance 
-- Spare the Dying 
-- Word of Radiance 
+- Sacred Flame
+- Guidance
+- Lay On Hands
+- Thaumaturgy
+- Toll the Dead
+- Spare the Dying
 
 ### 1st
-- Guiding Bolt 
-- Healing Word 
-- Cure Wounds 
-- Shield of Faith 
-- Calm Emotions 
+- Healing Word
+- Cure Wounds
 - Command 
-- Protection from good and evil 
-- Vorpal Snare
-- Push
-- Bane 
-- Bless 
-- Create or Destroy Water 
-- Detect Evil and Good 
-- Detect Magic 
-- Detect Poison and Disease 
-- Inflict Wounds 
-- Sanctuary 
-- Purify Drink or Food 
-- Diagnose Curse
-- Death Ward
+- Protection from good and evil
+- Inflict Wounds
 
 ### 2nd
-- Insight Arrow 
-- Radiant Weapon 
-- Holy Weapon 
-- Bird Friend 
-- Words of Warning 
-- Walk Through Walls 
-- Channel the Dead 
-- Words of Strength 
-- Object of Desire 
-- Spirit Barrier 
-- Cure Sickness 
-- Hold Person 
-- Aid 
-- Blindness/Deafness 
-- Continual Flame 
-- Enhance Ability 
-- Find Traps 
-- Gentle Repose 
-- Lesser Restoration 
-- Locate Object 
-- Prayer of Healing 
-- Protection from Poison 
-- Silence 
-- Warding Bond
+- Insight Arrow
+- Spirit Barrier
+- Aid
+- Gentle Repose
+- Lesser Restoration
+- Locate Object
+- Prayer of Healing
+- Silence
 
 ### 3rd
-- Sacrifice 
-- Kindness 
-- Confession 
-- Riddle 
-- Exorcism 
-- Dispel Magic 
-- Feign Death 
-- Gaseous Form 
-- Fast Friends
-- Animate Dead
-- Clairvoyance
-- Feign Death
-- Glyph of Warding
-- Life Transference
-- Magic Circle
-- Incite Greed
-- Protection from Energy
-- Sending
-- Speak with dead
+- Dispel Magic
 - Spirit Shroud
-- Tongues
-- Water Walk
 - Aura of Vitality
 - Beacon of Hope
 - Create Food and Water
-- Daylight
-- Dispel Magic
 - Mass Healing Word
-- Meld into stone
-- Motivational Speech
-- Spirit Guardians
-
 
 ### 4th
-- Miracle 
-- Life Mist 
+- Miracle
 - Revivify
-- Aura Of Life
 - Aura of Purity
 - Banishment
 - Control Water
-- Death Ward
-- Freedom of Movement
-- Guardian of Faith
 - Locate Creature
-- Stone Shape
 
 ### 5th
-- Judgement 
-- Curse 
-- Angelic Transformation 
-- Commune
-- Contagion
+- Celestial Transformation
 - Dawn
 - Dispel Evil and Good
-- Flame Strike
-- Geas
 - Greater Restoration
-- Hallow
-- Holy Weapon
-- Insect Plague
 - Mass Cure Wounds
-- Planar Binding
-- Raise Dead
 - Scrying

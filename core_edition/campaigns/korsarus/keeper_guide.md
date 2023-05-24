@@ -703,7 +703,7 @@ Roll 1d100, reroll if higher than highest listing.
 25. Chain Lightning (5th)
 26. Firewall (5th)
 27. Judgement (5th)
-28. Angelic Transformation (5th)
+28. Celestial Transformation (5th)
 29. Nightmare Gate (5th)
 30. Bodyswap (5th)
 31. Plane Gate (5th)

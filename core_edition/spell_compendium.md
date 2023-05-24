@@ -59,18 +59,6 @@ succeed on a dexterity saving throw or take 1d6 radiant damage.
 ```
 
 ```
-Druidcraft (Cantrip)
-Casting Speed: 1 action
-Distance: 30 feet
-Duration: Instantaneous
-You channel the spirits of nature create one of the following effects within range.
-- You create a tiny, harmless sensory effect that predicts the weather at your location for the next 24 hours.
-- You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.
-- A spark leaps from your finger and you instantly light or snuff out a candle, a torch, or a small campfire.
-- You place a pice of moss on a stone and it adheres to the North side.
-```
-
-```
 Firebolt (Cantrip)
 Casting Speed: 1 action
 Distance: 120 feet
@@ -539,9 +527,7 @@ Heroism (1st)
 Casting Speed: 1 action
 Distance: Touch
 Duration: Concentration, up to 1 minute
-You touch a creature and imbue it with bravery. The creature is immune to being frightened and gains temporary hit points
-equal to your spellcasting ablity modifier at the start of
-each of their turns.
+You touch a creature and imbue it with bravery. The creature is immune to being frightened and gains temporary hit points equal to your spellcasting ablity modifier at the start of each of their turns.
 ```
 
 ```
@@ -549,10 +535,7 @@ Dazzling Light (1st)
 Casting Speed: 1 reaction, when a creature attempts to attack you from within 5ft
 Distance: 5ft
 Duration: Instantaneous
-You raise your hand and bright light flashes at the creature, partially blinding
-it. The creature must make a wisdom saving throw. On a success, they have
-disadvantage on their attack. On a failure, they cover their eyes, ending it's
-turn.
+You raise your hand and bright light flashes at the creature, partially blinding it. The creature must make a wisdom saving throw. On a success, they have disadvantage on their attack. On a failure, they cover their eyes, ending it's turn.
 ```
 
 ```
@@ -583,9 +566,7 @@ Bane (1st)
 Casting Speed: 1 action
 Distance: 60 feet
 Duration: Concentration, up to 1 hour
-Up to 6 creatures in sight must succeed a wisdom saving throw or be charmed by
-this spell. While under the effect, the creatures have a -1d4 penalty to their
-attack rolls and saving throws.
+Up to 6 creatures in sight must succeed a wisdom saving throw or be charmed by this spell. While under the effect, the creatures have a -1d4 penalty to their attack rolls and saving throws.
 ```
 
 ```
@@ -593,9 +574,7 @@ Death ward (1st)
 Casting Speed: 1 action
 Distance: 30 feet
 Duration: Concentration, up to 1 hour
-You place a ward on one creature in range. For the duration, when this creature
-goes down, protective energy courses through them. While they are down, they
-may roll 1d20 to make a death saving throw. Rolling 10 or higher is a success.
+You place a ward on one creature in range. For the duration, when this creature goes down, protective energy courses through them. While they are down, they may roll 1d20 to make a death saving throw. Rolling 10 or higher is a success.
 If they accumulate 3 successes, they are unconscious for 1d4 hours with 1 hit 
 point. If they instead accumulate 3 fails, they may expend stamina dice to make
 regular death saving throws.
@@ -724,11 +703,7 @@ Propelling Flame (1st)
 Casting Speed: 1 action
 Distance: 60ft
 Duration: 1 round
-A jet of flame projects from each of your palms and you temporarily gain flight.
-All creatures within 5ft of you must succeed a dexterity saving throw or take 
-fire damage equal to the amount rolled on your psionic die. Until the start of 
-your next turn, you gain a flying speed of 60ft and movement does not provoke 
-an attack of opportunity. If you did not cast this spell with a psionic die,
+A jet of flame projects from each of your palms and you temporarily gain flight. All creatures within 5ft of you must succeed a dexterity saving throw or take fire damage equal to the amount rolled on your psionic die. Until the start of your next turn, you gain a flying speed of 60ft and movement does not provoke an attack of opportunity. If you did not cast this spell with a psionic die,
 substitute with 1d4.
 ```
 
@@ -737,14 +712,7 @@ Psionic Lasso (1st)
 Casting Speed: 1 action
 Distance: 60ft
 Duration: Instantaneous
-You use your action to focus your psychic energy on one creature within 60ft, 
-attempting to grapple them with your mind. Make an intelligence check and add 
-the amount you rolled on your psionic die. The enemy may contest the grapple by 
-making an acrobatics or athletics check. If you succeed, the enemy is grappled. 
-The psionic grapple lasts one minute and requires concentration. If a creature 
-grappled this way resists, you must repeat the check by rolling your psionic 
-die again. If you did not cast this spell with a psionic die, substitute with
-1d4.
+You use your action to focus your psychic energy on one creature within 60ft, attempting to grapple them with your mind. Make an intelligence check and add the amount you rolled on your psionic die. The enemy may contest the grapple by making an acrobatics or athletics check. If you succeed, the enemy is grappled. The psionic grapple lasts one minute and requires concentration. If a creature  grappled this way resists, you must repeat the check by rolling your psionic die again. If you did not cast this spell with a psionic die, substitute with 1d4.
 ```
 
 ```
@@ -752,12 +720,7 @@ Mind Blade (1st)
 Casting Speed: 1 bonus action
 Distance: self
 Duration: Concentration, up to 1 minute
-You use your bonus action to envision yourself holding a longsword in an empty 
-hand and your psionic energy manifests to create an invisible blade of force. 
-You are proficient with the mind blade, which lasts for up to one minute and 
-requires concentration. If you make an attack with it on this turn, you may add 
-the amount rolled on your psionic die to your first attack roll. If you did not
-cast this spell with a psionic die, substitute with 1d4. The blade's base damage is 1d6.
+You use your bonus action to envision yourself holding a longsword in an empty hand and your psionic energy manifests to create an invisible blade of force. You are proficient with the mind blade, which lasts for up to one minute and requires concentration. If you make an attack with it on this turn, you may add the amount rolled on your psionic die to your first attack roll. If you did not cast this spell with a psionic die, substitute with 1d4. The blade's base damage is 1d6.
 ```
 
 ```
@@ -948,25 +911,11 @@ an additional 5 temporary hit points per level above 1st.
 ```
 
 ```
-Push (1st)
+Push or Pull (1st)
 Casting Speed: 1 action 
-Distance: Touch
+Distance: 30ft
 Duration: Instantaneous
-You touch one creature and they are pushed 15 feet away from you. If their path
-collides with another creature, then each creature must succeed a dexterity
-saving throw or be knocked prone. If the creature instead collides with an
-object, wall, ground, or ceiling, they instead receive 1d6 bludgeoning damage.
-```
-
-```
-Pull (1st)
-Casting Speed: 1 bonus action 
-Distance: 60 feet
-Duration: Instantaneous
-You gesture at one creature in range that you can see to come your way. They
-are pulled 15 feet toward you. If their path collides with another creature,
-each creature must succeed a dexterity saving throw or fall prone. If they
-instead collide with an object, they receive 1d6 bludgeoning damage.
+You focus on one creature and they are pushed or pulled 15 feet straight toward or away from you. If their path collides with another creature, they each must succeed a DEX save to not fall down. If they collide with a solid object such as a wall, they receive 1d6 bludgeoning damage.
 ```
 
 ```
@@ -994,8 +943,7 @@ Bless (1st)
 Casting Speed: 1 action
 Distance: 30 feet
 Duration: Concentration, up to 1 minute
-Up to three creatures you can see in range are blessed. Their attack rolls and
-saving throws receive a bonus of 1d4 for the duration.
+Up to three creatures you can see in range are blessed. Their attack rolls and saving throws receive a bonus of 1d4 for the duration.
 ```
 ```
 Create or Destroy Water (1st)
@@ -1044,7 +992,7 @@ Sanctuary (1st)
 Casting Speed: 1 bonus action
 Distance: 30 feet
 Duration: 1 minute
-You place a ward on one creature within range that you can see. Any creature targeting the warded creature with an attack or harmful spell must succeed a Wisdom save, select a new target, or lose the spell or attack.
+You place a ward on one creature within range that you can see. Any creature targeting the warded creature with an attack or harmful spell must succeed a Wisdom save, select a new target, or lose the spell or attack. If the effected creature makes an attack or casts a harmful spell, this spell ends.
 ```
 
 ```
@@ -1544,11 +1492,10 @@ Radiant Weapon (2nd)
 Casting Speed: 1 action
 Distance: touch
 Duration: Concentration, 1 minute
-You speak a command word and the weapon in your hand burns with a radiant flame.
-For the duration, your attacks with this weapon deal an additional 1d8 radiant
+You speak a command word and the weapon in your hand burns with a radiant flame. For the duration, your attacks with this weapon deal an additional 1d8 radiant
 damage.
-At higher levels: When you cast this spell at a 3rd or higher level,
-the damage increases by 1d8 for each level.
+
+At higher levels: When you cast this spell at a 3rd or higher level, the damage increases by 1d8 for each level.
 ```
 
 ```
@@ -1568,9 +1515,7 @@ Bird Friend(2nd)
 Casting Speed: 1 action
 Distance: 1 mile
 Duration: 8 hours
-A bird appears from thin air, imbued with a friendly celestial spirit. You may whisper to it a destination within range,
-and it will attempt to fly to this location, survey it, and return to tell you the lay of the land. The bird has an AC
-of 16 and 1 hit point. It disappears once it tells you about what it saw or the duration ends.
+A bird appears from thin air, imbued with a friendly celestial spirit. You may whisper to it a destination within range, and it will attempt to fly to this location, survey it, and return to tell you the lay of the land. The bird has an AC of 16 and 1 hit point. It disappears once it tells you about what it saw or the duration ends.
 ```
 
 ```
@@ -1615,10 +1560,7 @@ Water Walk (2nd level, Ritual)
 Casting Speed: 1 action
 Distance: Self
 Duration: Concentration, up to 1 minute
-You use your action to seal a pocket of air beneath each foot using psionic
-energy. You may walk across liquids such as water, lava, and acid as if they 
-were a solid surface without touching them. This ability requires concentration
-and lasts for up to one minute.
+You use your action to seal a pocket of air beneath each foot using psionic energy. You may walk across liquids such as water, lava, and acid as if they were a solid surface without touching them. This ability requires concentration and lasts for up to one minute.
 ```
 
 ```
@@ -1638,12 +1580,11 @@ You read from the pages of your fiendish text and the book levitates into the ai
 ```
 
 ```
-Cure Sickness (2nd)
+Cure Illness (2nd)
 Casting Speed: 1 minute
 Distance: self
 Duration: Instantaneous
-You select one illness, disease, or medical condition and end it. Cure sickness
-cannot regrow nor re-attach limbs, nor can it prevent the natural effects of aging.
+You select one illness, disease, or medical condition and end it. Cure illnesscannot regrow nor re-attach limbs, nor can it prevent the natural effects of aging.
 ```
 
 ```
@@ -1761,13 +1702,7 @@ Psionic Missiles (2nd)
 Casting Speed: 1 action
 Distance: 120 feet
 Duration: Instantaneous
-You levitate up to six pieces of ammunition, which you propel 
-towards one or more targets. Make an ranged spell attack for each piece
-of ammunition, which deals 1d4+1 piercing damage upon a hit. If all
-pieces ammunition target the same creature, you may forego the attack
-rolls to instead force the target to make a dexterity saving throw. 
-When you do this, the target receives up to 6d4+6 damage on a failure,
-or half as much on a success.
+You levitate up to six pieces of ammunition, which you propel towards one or more targets. Make an ranged spell attack for each piece of ammunition, which deals 1d4+1 piercing damage upon a hit. If all pieces ammunition target the same creature, you may forego the attack rolls to instead force the target to make a dexterity saving throw to halve  6d4+6 piercing damage.
 ```
 
 ```
@@ -1815,11 +1750,9 @@ Words of Strength (2nd)
 Casting Speed: 1 action
 Distance: 60ft
 Duration: Concentration, 1 minute
-Any creature of your choice in range that can hear you has advantage on checks
-and saving throws involving strength. Melee attacks from such creatures
-deal an additional 1d4 damage.
-At higher levels: When cast as a 3rd or higher level spell, the effected
-creatures instead deal an extra 1d8 damage with their melee attacks.
+Any creature of your choice in range that can hear you has advantage on checks and saving throws involving strength. Melee attacks from such creatures deal an additional 1d4 damage.
+
+At higher levels: When cast as a 3rd or higher level spell, the effected creatures instead deal an extra 1d8 damage with their melee attacks.
 ```
 
 ```
@@ -1973,8 +1906,7 @@ Lesser Restoration (2nd)
 Casting Speed: 1 action
 Distance: Touch
 Duration: Instantaneous
-You touch a creature and end one disease, corruption, or condition effecting it.
-The condition can be blinded, deafened, deafened, paralyzed, or poisoned.
+You touch a creature and end one disease, corruption, or condition effecting it. The condition can be blinded, deafened, deafened, paralyzed, or poisoned.
 ```
 
 ```
@@ -2142,7 +2074,7 @@ Spike Growth (2nd)
 Casting Speed: 1 action
 Distance:  150ft
 Duration: Concentration, up to 10 minute
-The ground around you in a 20ft radius explodes with hard spikes and throwns, becoming difficult terrain for the duration. Creatures passing through take 2d4 piercing damage for every 5ft they travel.
+The ground around you in a 20ft radius explodes with hard spikes and thorns, becoming difficult terrain for the duration. Creatures passing through take 2d4 piercing damage for every 5ft they travel.
 
 The spikes are cammouflaged to be natural in appearance, forcing a WIS check against your spell DC for any creature that does not witness the spell's casting.
 ```
@@ -2292,7 +2224,7 @@ Elemental Weapon (3rd)
 Casting Speed: 1 action
 Distance: touch
 Duration: Concentration, up to 1 hour
-You touch a nonmagical weapon and grant it one of the following damage types: acid, cold, fire, lightning, or thunder. For the duration, the weapon deals an extra 1d4 damage of the chosen type and has a +1 bonus on attack rolls.
+You touch a nonmagical weapon and grant it one of the following damage types: acid, cold, fire, lightning, or thunder. For the duration, the weapon deals an extra 1d12 damage of the chosen type and has a +1 bonus on attack rolls.
 ```
 
 ```
@@ -2525,9 +2457,7 @@ Confession (3rd)
 Casting Speed: 1 action
 Distance: 30 feet
 Duration: Concentration, up to 1 minute
-You speak a command word to a creature, and it must succeed a wisdom saving
-throw or begin making confessions for the duration. The creature must only
-state confessions that they feel genuine guilt about.
+You speak a command word to a creature that can understand you, and it must succeed a wisdom saving throw or begin making confessions for the duration. Each confession takes consumes an action. The creature must only state confessions that they feel genuine guilt about.
 ```
 
 ```
@@ -2568,11 +2498,8 @@ Kindness (3rd)
 Casting Speed: 1 action
 Distance: 60 feet
 Duration: Concentration, up to 10 minutes
-You speak a compliment to a creature that can understand you. The creature must
-succeed a wisdom saving throw, or else become charmed with a powerful sense of
-affection for every creature it encounters, treating them as a beloved family
-member or close friend. When the spell ends, the creature is fully aware that
-you have manipulated it with magic.
+You speak a compliment to a creature that can understand you. The creature must succeed a wisdom saving throw, or else become charmed with a powerful sense of affection for every creature it encounters, treating them as a beloved family
+member or close friend. When the spell ends, the creature is fully aware that you have manipulated it with magic.
 ```
 
 ```
@@ -2698,13 +2625,7 @@ Tame Beast (3rd)
 Casting Speed: 1 action
 Distance: 30 feet
 Duration: Instantaneous
-You speak a command to one beast within range. It must make a wisdom saving
-throw. If it succeeds, the beast becomes hostile and cannot be effected by this
-spell for 24 hours. If it fails, the beast Regards you as a close friend. The
-effect lasts until the beast receives damage. If you cast this spell on a beast
-that is already effected by it, the effect becomes permanent. A creature that is
-hostile or has a size of large or above has advantage on saves against this
-spell.
+You speak a command to one beast within range. It must make a wisdom saving throw. If it succeeds, the beast becomes hostile and cannot be effected by this spell for 24 hours. If it fails, the beast Regards you as a close friend. The effect lasts until the beast receives damage. If you cast this spell on a beast that is already effected by it, the effect becomes permanent. A creature that is hostile or has a size of large or above has advantage on saves against this spell.
 ```
 
 ```
@@ -3183,12 +3104,7 @@ Mind Meld (4th)
 Casting Speed: 1 minute
 Distance: Touch
 Duration: Instantaneous
-You and up to 6 creatures link hands and meditate. You each attempt to connect 
-your minds for the purpose of lending mental stamina. Each creature rolls 
-1d8. They take as much psychic damage. Add up the amount they rolled. If it
-is higher than 10, then regardless of what you roll on your psionic die for this
-particular casting, your psionic die grows to a D10. If you did not cast this
-spell with a psionic die, substitute with 1d4.
+You and up to 6 creatures link hands and meditate. You each attempt to connect your minds for the purpose of lending mental stamina. Each creature rolls 1d8. They take as much psychic damage. Add up the amount they rolled. If it is higher than 10, then regardless of what you roll on your psionic die for this particular casting, your psionic die grows to a D10. If you did not cast this spell with a psionic die, substitute with 1d4.
 ```
 
 ```
@@ -3548,14 +3464,9 @@ Firewall (5th)
 Casting Speed: 1 action
 Distance: 120 feet
 Duration: Concentration, 1 hour
-You create a roaring flame wall. One side of the wall produces a firestorm, and
-any creature that starts it's turn within 10 feet of the wall must make a
-dexterity saving throw, receiving 4d6 fire damage on a failure or half as much
-as a save. If a creature is inside the flame wall, the damage increases to 
-8d6.
+You create a roaring flame wall. One side of the wall produces a firestorm, and any creature that starts it's turn within 10 feet of the wall must make a dexterity saving throw, receiving 4d6 fire damage on a failure or half as much as a save. If a creature is inside the flame wall, the damage increases to 8d6.
 
-You can either make the wall take the form of a 60 foot wide, 60 foot high, 10
-foot thick wall facing away from you. Alternately, you can make the wall 
+You can either make the wall take the form of a 60 foot wide, 60 foot high, 10 foot thick wall facing away from you. Alternately, you can make the wall 
 surround a 20ft square, facing outwards.
 ```
 
@@ -3564,12 +3475,7 @@ Judgement (5th)
 Casting Speed: 1 action
 Distance: 120 feet
 Duration: Concentration, up to 1 minute
-Your eyes glow with holy fire and if you have hair, it turns golden for the
-duration. For the duration, you may use your bonus action to name one sin
-committed by a creature within range. That creature must make a wisdom saving
-throw. On a failure, they receive the damage listed in the chart below, or
-half as much on a success. You must have witnessed them perform the sin you
-are judging them for. Each creature can be judged for each sin only once.
+Your eyes glow with holy fire and if you have hair, it turns golden for the duration. For the duration, you may use your bonus action to name one sin committed by a creature within range. That creature must make a wisdom saving throw. On a failure, they receive the damage listed in the chart below, or half as much on a success. You must have witnessed them perform the sin you are judging them for. Each creature can be judged for each sin only once.
 +-------------------------------+----------------+
 |          Sins                 | Radiant Damage |
 +-------------------------------+----------------+
@@ -3581,7 +3487,7 @@ are judging them for. Each creature can be judged for each sin only once.
 ```
 
 ```
-Angelic Transformation (5th)
+Celestial Transformation (5th)
 Casting Speed: 1 bonus action
 Distance: self
 Duration: Concentration, up to 10 minutes

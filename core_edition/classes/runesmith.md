@@ -21,8 +21,6 @@ The runesmith's stamina die is a d4.
 | Armor         | None                                                   |
 |:--------------|:-------------------------------------------------------|
 | Weapons       | Daggers, Darts, Slings, Quarterstaffs, Light Crossbows |
-|:--------------|:-------------------------------------------------------|
-| Saving Throws | Dexterity, Intelligence                                |
 
 ## Skills
 You are proficient in these skills:

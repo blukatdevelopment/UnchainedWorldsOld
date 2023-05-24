@@ -11,8 +11,6 @@ The diviner's stamina die is a d4.
 | Armor         | Light Armor, Medium Armor, Shields |
 |:--------------|:-----------------------------------|
 | Weapons       | Simple Weapons                     |
-|:--------------|:-----------------------------------|
-| Saving Throws | Wisdom, Charisma                   |
 
 ## Skills
 You are proficient with these skills:
@@ -72,128 +70,50 @@ Spell tattoos are conduits for Exheia's power that allow you to cast a single sp
 You may touch an object and contact your library to telepathically request information from your head librarian. You will either gain a telepathic description of the artifact based on library records, or learn that it is a novel architect.
 
 ### Cantrip
-1.  Mending 
-2.  Sacred Flame 
-3.  Guidance 
-4.  Touch Light 
-5.  Lay On Hands 
-6.  Thaumaturgy 
-7.  Toll the Dead 
-8.  Resistance 
-9.  Spare the Dying 
-10. Word of Radiance 
+- Sacred Flame
+- Guidance
+- Lay On Hands
+- Thaumaturgy
+- Toll the Dead
+- Spare the Dying
 
 ### 1st
-1.  Guiding Bolt 
-2.  Healing Word 
-3.  Cure Wounds 
-4.  Shield of Faith 
-5.  Calm Emotions 
-6.  Command 
-7.  Protection from good and evil 
-8.  Vorpal Snare
-9.  Push
-10. Bane 
-11. Bless 
-12. Create or Destroy Water 
-13. Detect Evil and Good 
-14. Detect Magic 
-15. Detect Poison and Disease 
-16. Inflict Wounds 
-17. Sanctuary 
-18. Purify Drink or Food 
-19. Diagnose Curse
-20. Death Ward
+- Healing Word
+- Cure Wounds
+- Command 
+- Protection from good and evil
+- Inflict Wounds
 
 ### 2nd
-1.  Insight Arrow 
-2.  Radiant Weapon 
-3.  Holy Weapon 
-4.  Bird Friend 
-5.  Words of Warning 
-6.  Walk Through Walls 
-7.  Channel the Dead 
-8.  Words of Strength 
-9.  Object of Desire 
-10. Spirit Barrier 
-11. Cure Sickness 
-12. Hold Person 
-13. Aid 
-14. Blindness/Deafness 
-15. Continual Flame 
-16. Enhance Ability 
-17. Find Traps 
-18. Gentle Repose 
-19. Lesser Restoration 
-20. Locate Object 
-21. Prayer of Healing 
-22. Protection from Poison 
-23. Silence 
-24. Warding Bond
+- Insight Arrow
+- Spirit Barrier
+- Aid
+- Gentle Repose
+- Lesser Restoration
+- Locate Object
+- Prayer of Healing
+- Silence
 
 ### 3rd
-1.  Sacrifice 
-2.  Kindness 
-3.  Confession 
-4.  Riddle 
-5.  Exorcism 
-6.  Dispel Magic 
-7.  Feign Death 
-8.  Gaseous Form 
-9.  Fast Friends
-10. Animate Dead
-11. Clairvoyance
-12. Feign Death
-13. Glyph of Warding
-14. Life Transference
-15. Magic Circle
-16. Incite Greed
-17. Protection from Energy
-18. Sending
-19. Speak with dead
-20. Spirit Shroud
-21. Tongues
-22. Water Walk
-23. Aura of Vitality
-24. Beacon of Hope
-25. Create Food and Water
-26. Daylight
-27. Dispel Magic
-28. Mass Healing Word
-29. Meld into stone
-30. Motivational Speech
-31. Spirit Guardians
-
+- Dispel Magic
+- Spirit Shroud
+- Aura of Vitality
+- Beacon of Hope
+- Create Food and Water
+- Mass Healing Word
 
 ### 4th
-1.  Miracle 
-2.  Life Mist 
-3.  Revivify
-4.  Aura Of Life
-5.  Aura of Purity
-6.  Banishment
-7.  Control Water
-8.  Death Ward
-9.  Freedom of Movement
-10. Guardian of Faith
-11. Locate Creature
-12. Stone Shape
+- Miracle
+- Revivify
+- Aura of Purity
+- Banishment
+- Control Water
+- Locate Creature
 
 ### 5th
-1.  Judgement 
-2.  Curse 
-3.  Angelic Transformation 
-4.  Commune
-5.  Contagion
-6.  Dawn
-7.  Dispel Evil and Good
-8.  Flame Strike
-9.  Geas
-10. Greater Restoration
-11. Hallow
-12. Holy Weapon
-13. Insect Plague
-14. Mass Cure Wounds
-15. Planar Binding
-16. Raise Dead
-17. Scrying
+- Celestial Transformation
+- Dawn
+- Dispel Evil and Good
+- Greater Restoration
+- Mass Cure Wounds
+- Scrying
