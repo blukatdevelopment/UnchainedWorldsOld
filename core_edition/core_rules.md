@@ -2,45 +2,39 @@
 
 # Foreword
 
-## What is Unchained Worlds?
-Unchained Worlds is a tabletop roleplaying game designed with the intention of providing a table of three to seven people with tools, rules, and content to participate in Unchained World's three pillars of exploration, combat, and roleplaying. Unchained Worlds differs from most competing games in that it is neither a clone of an existing game, nor is it designed as a commercial product. Unchained Worlds is both free as in free beer and free as in freedom. It’s content is deliberately modular and self-contained in order to make the process of selecting, using, and authoring content easy. 
+## What is Core Edition?
+This system is designed with the following principles and assumptions:
 
-## Why Unchained Worlds?
-Unchained Worlds is built with “less is more” as its motto. Character customization options are slim, hit points are low for monsters and adventurers, and levels are capped at 10. This lends itself to low power play wherein a party of players must carefully consider the consequences for their actions and use lateral thinking to overcome obstacles and limitations. The worlds explored with this system are intended to be gritty and dangerous places where decision-making and roleplaying is more important than character build. While this system can be used for linear epic campaigns and for combat-focused power gaming, such play is not the primary concern.
+- Table of 2-5 players
+- Sandbox-styled play
+- Lore from Crucible
+- High improvisation
+- High trust
+- "There is no such thing as flavor."
+- Classes are committed to their premises
 
 ## How do I play Unchained Worlds?
-At your table, one person assumes the role of keeper. They create the world that is explored, control non-player characters(henceforth NPCs), and referee combat and player interaction with the world. All other people at the table are players, who each control a player character. Player characters (henceforth PCs) explore the world, interact with NPCs, and fight. There may be a linear campaign designed for the players to explore, or there may be a sandbox world that is explored according to the player’s interests.
+- A **keeper** selects or creates a gameworld
+- The **players** create characters and explore that world
 
 # Philosophy
-Make sure your group agrees with what's written here before you take it too seriously. If your table's opinionated, they'll probably have their own version that better reflects their philosophy. If they want to be extra clever, they'll just change this section and take out this warning.
-That said, let's dive in.
+As a table, review this section. Revise anything you disagree with.
 
 ## Safety Tools
-For better and worse, everyone brings their unique life experiences to the table. This can help to enrich the game with a variety of perspectives. It also means that what content is fine, uncomfortable, or outright traumatic to each person can vary significantly. Sometimes people know in advance what content they'd like to tread carefully or avoid entirely. Other times, people don't realize something is deeply troubling to them until they encounter it at the table. Discuss the known content before your first game. Additionally, make sure anyone at the table is free to call for a moment or scene to stop if they realize it's troubling to them. If you do these two things, it will help to keep your table more safe and comfortable for everyone sitting at it.
+- Trigger warnings: give players a heads-up on disturbing content
+- Pregame discussion: List player sensitivities, make any accommodations
+- X-card: Anyone can use this to skip the current scene
 
 ## The Social Contract
-A social contract is an informal agreement between people. In this case, it's made across the table that everyone's here to have fun, and we'll all do what we can to make sure that happens. With that, I'll present you two possible social contracts. Your group should either pick one, or make a third that they think fits better.
+- Set expectations for behavior
+- Decide how tricky situations are handled
+- Call out priorities/values
 
-### Fantasy Fulfillment
-Each person at the table shows up with some premade, polished, content. Players have characters with fleshed out personalities and voices, and likely backstories intended to tie into the game world and play out as a character arc in which they grow as characters. The keeper creates a setting and weaves these characters into a fleshed out plot involving developed non-player characters for the party to interact with in a dramatic capacity. The mechanics and rules can change to suit the fantasy of each player, which will generally involve some element of homebrew content being written to accomodate their character concepts. There is a certain structure to these campaigns that intends to lead the party in a certain direction to progress from beginning, middle, to end. Combat is "balanced", which often means "the party is unlikely to die", allowing players space to act out the fantasy of their character and character arc as they progress between level-appropriate content modules. Very dramatic moments may include a "deadly" encounter where life and death are at stake, during which player characters may die in a dramatically satisfying way. Character death can often be reversed through resurrection, as dieing is a mistake of the keeper in balancing or just an accident of bad dice when it is not planned with the consent of the player.
-
-### Simulation
-The keeper considers the player's requests for content, then creates a world with consistent mechanics. Players show up to the table and discover their characters, creating backstories and personalities in a collaborative environment within existing mechanics. While players may have ambitions for their characters, the onus is on each player to realize their goals within the mechanics of the world. The keeper prepares any content knowing that players are free to do whatever is in their character's power. The keeper respects that the player has no obligation to follow any progression along a story, and is free to carve their own path out of the world the keeper has produced. Players know that their freedom comes at the cost of consequences. One wrong step or fumbled die roll can end a player character's life permanently, and the responsibility for the character's safety falls firmly on the player. The life-or-death nature of the world creates dramatic tension by transforming any random moment into a potential struggle for survival. In response to this danger, players weave stories of their character's heroic victories and defeats against overwhelming odds. Players also engage in system mastery and thinking outside the box, learning to solve problems more flexibly to avoid the specter of death for as long as possible.
-
-## Etiquette 
-You're probably a player reading this. I'll list some behaviors that'll help you and the rest of your table get the most fun out of the game.
-
-### Don't argue rules at the table
-A keeper is juggling many tasks at once at the table. Sometimes their encyclopedic knowledge of the rules may falter. Now's your time to say "wait, doesn't it work like this?" If your keeper says "naw, it works like I said" or "let's do **this** right now, we can revisit later", then they likely still have enough time to get back on their train of thought and continue juggling things like pacing, dramatic tension, etc, etc. If you instead press and create an argument, the game now stops. Players will now start checking their phones, pulled out of the fantasy while you and the keeper hold legal precedings. When the legal precedings are adjorned and the table is ready to continue playing the game, the table must now rebuild any momentum they had before. If it's once in a blue moon, or during relaxed moments, no harm, no foul. If this is frequent enough, however, it can be extremely frustrating to pause gameplay to argue over what will likely seem to be minutia. To dodge this, just note your argument and bring it up outside the session, or during a break, or some other time when there's no momentum to lose.
-
-### Take timely turns
-Initiative is rolled, the fight starts, and you watch others beginning to take their turn. Now's the time to ask "what do I do?" in your head. Consolidate it well enough, and you can quickly do your part in combat, keeping the game moving. Having a hard time remembering what options you have in combat? Draw some boxes on a blank sheet of paper. Put each of your abilities/tactics/actions in a box and draw an icon on it. If you can boil your decision down to a confident "I do X!", then you'll have plenty of space to add flowery description while keeping your turn quick.
-
-### Share the spotlight
-This one's easy. Want to flesh out your character by roleplaying? Involve another player character in your moment. Who do you pick? The player who hasn't gotten a chance to say anything in 10 minutes. When everyone gets a turn playing, that's gameplay. Otherwise, it's one or two people playing while everyone else watches. You enter a room with a big red button in it. You could say "I run up and press it" and shine as being chaotic. Alternatively, you could say "Oh gosh, guys, I wanna press it so badly!" and give others space to interact with your decision. Maybe they hold you back while you comically scream "Nooooo! Let me press it! We may never see another as big and red!", or maybe you start a discussion of whether you should press the big red button. Either way, by involving others, you are making your fun roleplay moment into everyone's fun roleplay moment.
-
-### Roll with the punches
-Something unexpected or negative happens. Maybe you botch an important roll, or maybe your character falls into a dark chasm. Work your dramatic muscles and get creative. You could play it straight with a "Just as I feel myself beginning to slip, I mouth the words 'so long, friends'." and see how many tears you can jerk from the party. Or, maybe this is a good moment for comedy. "I fall. 'Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh! Wow, how far down does this-' Thump." There's a lot of ways you can do this. Get creative.
+### Example Contract
+- Keeper's rulings are absolute
+- Inner-party conflict requires out of character consent
+- Take turns in the spotlight
+- Accept the outcome of the dice
 
 # Creating your character
 This handbook provides a skeletal set of character creation options, and are not intended for use in tyical campaigns. Work with your keeper to determine what supplemental books you will use when creating your characters.
@@ -96,13 +90,20 @@ If you do not want to trust your fate to the dice, you may use an array of prede
 `Demigod array: [18, 18, 18, 18, 18, 18]`
 
 #### Roll scores
-If you trust your fate to the dice gods, this is your ritual. You will discover your character, for better or worse. Roll 4d6. Set aside the lowest roll and ignore it. Add up the remaining three. This is your strength score. Repeat this process for the other five abilities. When you’re done, you may switch the scores of two abilities. You may do this only for one pair of abilities.
+- Roll 4d6, drop the lowest roll
+- This is your strength score
+- Repeat for the other abilities
+- If you don't get at least one 14, reroll
+- When you're done, you may swap one pair of scores
 
 ## Skills
-Every character has a proficiency bonus which increases with level progression. When you're proficient with a skill, you can add your proficiency bonus to ability checks using that skill. You may likewise exhaust a stamina die and roll it as a bonus on an ability check using that skill. Skills define a field of expertise, like agriculture, tracking, or poetry. They are not defined exhaustively, and can be added by supplementary books or improvised in the moment. Skills are best negotiated in the context they're being applied to. For instance, a player might say "I'm use my tracking knowledge to attempt to determine how fresh these footprints are." or "I use my poetry skill to write a catchy rhyme that will spread a message of disapproval of the king.".
+- A skill is knowledge and experience on a subject
+- Ability checks using a skill benefit from the proficiency bonus
+- A proficiency bonus increases with level
 
 ## Class
-Your class decides your stamina die size, class features, and informs the role you'll play in your party. Talk to you keeper about what classes are available at your table.
+- Decides starting hit points and background knowledge
+- Offers class features when gaining levels
 
 ### Advancement
 As you earn XP, you gain levels according to the table below.
@@ -119,30 +120,21 @@ As you earn XP, you gain levels according to the table below.
 |   9   |        2000 |
 |  10   |        3000 |
 
-# Roleplaying
-
-## Control your character
-As a player, you have the freedom to breathe life into your character. For example, let's take a player Geremy and his character Alexa, a human commoner. The keeper prompts Geremy "A large toad rises from the surface of the pond water and stares at you. It ribbits out a greeting. What do you do?"
-
-### Act
-If Geremy wants to act out his character's speech and actions, he can respond this: "'Oh gods, look at the warts and mucus! I think I might be sick.' With that, Alexa backs up." Perhaps Geremy will show a look of disgust and pretend to take a step back or cover his mouth.
-
-### Describe
-If Geremy does not want to act, he might respond like this: "Alexa thinks the toad is repulsive, so she screams and backs up". This is a completely valid way to roleplay.
-
 # Combat
 
 ## Initiative
 In combat, combatants take turns. The combat order is known as initiative. 
 
 ### Standard
-In standard initiative, each combatant rolls a 1d20 and adds their dexterity modifier to the roll. Turn order reflects the roll. On a tie, the combatant with the highest dexterity goes first. When a tie remains after comparing dexterity, combatants each roll a 1d20 and the highest goes first. Combat with this initiative is consistent between rounds, and so players can count on turn order when making plans.
+- Everyone makes a DEX check
+- Everyone goes one at a time, highest check first
+- Ties are broken with a contested DEX check
 
 ### (Variant)Team initiative
-Each team chooses one representative, who rolls a 1d20 and adds their proficiency modifier to the roll. The combatants on the team with the highest roll take their turns for that round simultaneously. When the first team finishes, the second team takes their turns simultaneously. After both teams have taken their turns, each team selects a representative to roll initiative for the next round. This variant is useful for cutting down on book-keeping while introducing randomness each round. Players cannot necessarily count on turn order, as an enemy team may go twice in a row.
-
-### (Variant)Simultaneous initiative
-Each round, every player character chooses what they will attempt to do (eg cast a spell, attack a specific enemy, retreat and hide). All player rolls are made simultaneously. The keeper then goes in an arbitrary order (likely left to right across a battle map) and calls for rolls in order to judge what happens. This prevents players from using knowledge of turn order, enemy, or friendly actions at the time of making their decision for the round. In turn, this renders combat chaotic and unpredictable.
+- Each team rolls a D6
+- Highest team goes first, together
+- Lowest team goes next, together
+- Ties are broken by a reroll
 
 ## On your turn
 On each turn, you receive the following:
@@ -166,11 +158,16 @@ There is an assortment of actions you may use in combat.
 - Search: You seek to find something. Your keeper will likely request an investigation or perception check.
 
 #### How to make attack rolls
-Roll a 1d20. If you're proficient with the weapon, add your proficiency bonus. Then, add the relevant ability modifier. As a general rule, melee and thrown attacks use strength, while ranged attacks use dexterity. A roll that meets or beats the AC of the target is a hit. If your d20 roll is 20, you have rolled a natural 20 and automatically hit. If your d20 roll is a 1, you roll a natural 1 and automatically miss.
+- Roll 1d20
+- A 1 is a critical failure and automatically misses
+- A 20 is a critical hit and automatically hits
+- Add your ability modifier(strength or dexterity, depending on weapon)
+- Add proficiency bonus if you're proficient with this weapon
 
 #### How to make damage rolls
-Once you've hit, check your weapon's damage for that attack. Roll all dice used for that damage, then add the same ability modifier that you used when making the attack roll. If you rolled a nat 20 on the attack role, you deal critical damage. When rolling critical damage, all dice are doubled. For example, an attack that would deal 1d8+3 damage now deals 2d8+3 damage.  
-
+- Roll damage dice for weapon
+- Add your ability modifier(strength or dexterity, depending on weapon)
+- If critical hit, roll double the normal number of dice
 
 ### Bonus actions
 Some spells and special abilities consume bonus actions instead of regular actions. Actions and bonus actions are not interchangeable.
