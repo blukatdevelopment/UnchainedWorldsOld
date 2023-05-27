@@ -24,7 +24,7 @@
 Rat
 Tiny Beast
 HP: 3(1d4)
-AC: 12
+AC: 10
 Speed: 25ft
 |STR|DEX|CON|INT|WIS|CHA|
 | 10| 10| 10|  3| 14|  3|
@@ -78,7 +78,7 @@ Claw +3 2d4+1 slashing
 Blackbear
 Medium Beast
 HP: 27(3d8+3)
-AC: 13(natural)
+AC: 12(natural)
 Speed: 30ft, Climb 30ft
 |STR|DEX|CON|INT|WIS|CHA|
 | 14| 14| 12|  3| 12|  3|
@@ -113,7 +113,7 @@ Claws +3 2d4+2 slashing
 Giant Leech
 Medium Beast
 HP: 18(3d6)
-AC: 13
+AC: 10
 Speed: 5ft, 40ft swim
 |STR|DEX|CON|INT|WIS|CHA|
 | 16| 14| 12|  3| 14|  3|
@@ -127,7 +127,7 @@ Bite +5 2d8+3 piercing
 Shark
 Medium Beast
 HP: 25(3d6+9)
-AC: 13
+AC: 12
 Speed: 5ft, 40ft swim
 |STR|DEX|CON|INT|WIS|CHA|
 | 16| 14| 16|  3| 14|  3|
@@ -151,7 +151,7 @@ Bite +5 2d6+3 piercing
 Giant Spider
 Large beast
 HP: 20 (2d8+4)
-AC: 14 (natural armor)
+AC: 15 (natural armor)
 Speed: 30ft, climb30ft
 |STR|DEX|CON|INT|WIS|CHA|
 | 14| 16| 12|  2| 11|  4|
@@ -219,7 +219,7 @@ Hooves(against prone) +5 2d4+3 bludgeoning
 Giant Elk
 Huge Beast
 HP: 48(4d10+8)
-AC: 14
+AC: 12
 Speed: 60ft
 |STR|DEX|CON|INT|WIS|CHA|
 | 19| 16| 14|  7| 14| 10|
@@ -284,8 +284,8 @@ Stomp +6 2d10+4 bludgeoning
 ```
 Giant Crab
 Huge Beast
-HP: 60(4d12+12)
-AC: 17(natural)
+HP: 90(4d12+12)
+AC: 15(natural)
 Speed: 40ft
 |STR|DEX|CON|INT|WIS|CHA|
 | 19| 10| 16|  4| 11|  4|

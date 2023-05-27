@@ -35,7 +35,7 @@ A fleshy snake with a humanoid torso and a mouth like a lamprey. It feasts on th
 
 ### Leech crawlers
 
-`Leech crawler zombie, 25 HP: 24(3d4+12), AC: 10, [14, 10, 18, 10, 8, 10], Unarmed: +3 3 bludgeoning, Pitchfork: +3 1d6 piercing`
+`Leech crawler zombie, 25 HP: 24(3d4+12), AC: 10, [14, 10, 18, 10, 8, 10], Unarmed: +3 1d4 bludgeoning, Pitchfork: +3 1d6 piercing`
 - Swarm: Upon death, a swarm of leech crawlers burst from the zombie's body, ready to exact revenge.
 
 `Swarm of Leech Crawlers, HP: 36(3d12), AC: 8, [10, 12, 12, 10, 10, 10]`
@@ -62,13 +62,13 @@ A small, shriveled humanoid creature. While it isn't physically imposing, it's a
 ### Grinder
 This spherical demon opens into two hemispheres joined by a central stalk. Teeth brim at the edges where these pieces meet, forming a 360 degree mouth. Grinders gnash their teeth constantly, compelled to chew through stone despite the pain it causes them. They have eyes on all sides, and three legs.
 
-`Grinder, HP: 30(3d8+6), AC: 14, [16, 10, 14, 10, 10, 10], Slam +4 1d6+3 bludgeoning, Bite +4 1d8+3 piercing`
+`Grinder, HP: 30(3d8+6), AC: 14, [16, 10, 14, 10, 10, 10], Slam +4 1d6 bludgeoning, Bite +4 1d8 piercing`
 - Curl: The grinder can use its bonus action to enter or exit its curled form. When curled, the grinder can move up to 60 feet in a straight line and make a slam attack using its action. While rolled, AC increases by +3.
 
 ### Abyssal Giant
 The blood steel helmet and cuirass hide the true horror of this monster, which is a hulking heap of rotten corpses joined by a possessing spirit. It has no eyes nor mouth on its head, but perceives spirits to a limited range. The Hell Knight is loyal to it's creator, and will go on a rampage if it's creator dies.
 
-`Abyssal Giant, HP: 63 (5d12+3), AC: 16(Half Plate), [20, 12, 12, 4, 4, 4]. Blood Sword +6 2d8+5 slashing damage`
+`Abyssal Giant, HP: 63 (5d12+3), AC: 16(Half Plate), [20, 12, 12, 4, 4, 4]. Blood Sword +6 2d8 slashing damage`
 - Blindsight 30ft, Resistance: Fire
 - Destruct: When the Hell Knight is killed, it's blood steel equipment explodes into flame. All creatures within 10ft must succeed a DC 12 dexterity saving throw to halve 1d6 fire damage.
 - Engulf: Arms reach out and drag a grappled creature into the Hell Knight's torso. This turn, and at the start of any following, the grappled creature takes 1d4 piercing damage as mouths begin biting and gnawing on them.
@@ -76,7 +76,7 @@ The blood steel helmet and cuirass hide the true horror of this monster, which i
 ### Bone thresher
 This orange-fleshed creature has the bones of it's enemies sewed to it's hide as armor. It carries a large bone spear and has a cat of nine tails made with sharpened bone fragments. It wears a necklace of skulls. Surrounding the bone thresher is a roughly 100ft radius cold front.
 
-`Bone Thresher, Size: Large, HP: 52(4d12+4), AC: 14(bone armor), [16, 12, 12, 10, 10, 10], Bone Whip(15ft) +5 2d4+3, Bone Spear +5 2d8+3`
+`Bone Thresher, Size: Large, HP: 52(4d12+4), AC: 14(bone armor), [16, 12, 12, 10, 10, 10], Bone Whip(15ft) +5 2d4, Bone Spear +5 2d8`
 
 ### Gattogat
 A three-foot tall cat that can stand upright. It's whiskers are bent and it's coat is a bit frazzled and unkempt. It can pretend to be a large housecat, and can also reveal it's true form. It's eyes are bright blue unless it's using it's powers, at which point they turn green.
@@ -113,7 +113,7 @@ Devils are a lawful evil fiend drawn to the infernal planes by contract. The inf
 ### Prattler
 A soul caught by an infernal "prattle clause" in a devil's contract. Though they need neither sleep, drink, nor food, the second they stop talking for 6 seconds, their soul will be consumed. A common part of the "prattcle clause" allows a prattler to swap places with the soul of another creature it kills.
 
-`Prattler, HP: 4(1d4), AC: 12, [10, 10, 10, 10, 10, 10], Life Drain: +4 1d6+2 necrotic`
+`Prattler, HP: 4(1d4), AC: 12, [10, 10, 10, 10, 10, 10], Life Drain: +4 1d6 necrotic`
 - Vulnerabilities: radiant, Immunities: non-magical physical damage, necrotic
 
 ### Vice
@@ -157,7 +157,7 @@ Regretful hex: One creature the regret can see must succeed a WIS save or else b
 ### Devil Scribe
 Standing about five feet tall with leathery red skin and black hair, a devil scribe often wears a suit and carries a book of dark magic that it uses to create fiendish contracts. Scribes store their spells in a book.
 
-`Devil Scribe, HP: 39(3d6+3), AC: 14(natural), [10, 10, 12, 16, 16, 18], Fire Ray +5 2d10 fire, Trident +3 1d6 slashing`
+`Devil Scribe, HP: 39(3d6+3), AC: 14(natural), [10, 10, 12, 16, 16, 18], Fire Ray +5 2d6 fire, Trident +3 1d6 slashing`
 - Spellcasting: May cast each spell once/day. They know three spells. Roll one spell from each of the tables below. Their DC is 17 and their spellcasting modifier is +9.
 
 #### Spell table A
@@ -187,7 +187,7 @@ Standing about five feet tall with leathery red skin and black hair, a devil scr
 ### Hell Knight
 Devils who fight long enough under the kingdom of Hell are knighted, and those who are knighted are replaced when they fail to fight with the utmost loyalty and ferocity. There are only ever six Hell knights serving each infernal monarch. Each is adorned in hellknight armor, and given a greatsword. When killed, the entire Hellknight disintegrates and reappears knealing before their Monarch, at their mercy.
 
-`Hell Knight, HP: 42(3d10+12), AC: 18(plate), [18, 18, 18, 11, 16, 11], Greatsword +7 2d6 slashing 2d6 fire`
+`Hell Knight, HP: 42(3d10+12), AC: 18(plate), [18, 18, 18, 11, 16, 11], Greatsword +7 2d6`
 - Immune: Fire, poison, necrotic
 - Vulnerable: Radiant
 - Mutli-attack: two greatsword attacks.
@@ -197,11 +197,11 @@ Devils who fight long enough under the kingdom of Hell are knighted, and those w
 ### Infernal Monarch
 There are several kings and queens among the infernal plane. 
 
-`Infernal Monarch, HP: 112(10d10+12), Size: Huge, AC: 18(plate), [18, 18, 18, 11, 16, 11], Claws +8 2d12 slashing`
+`Infernal Monarch, HP: 112(10d10+12), Size: Huge, AC: 15, [18, 18, 18, 11, 16, 11], Claws +8 2d12 slashing`
 
 ### Hell Hound
 Hell Hounds are a rare creature imbued with the ability to open portals to the Material Plane, and are often taken into service in order to retrieve mortals. They do not serve devils, but rather the contracts that devils sign, acting as impartial enforcers of Infernal law. Hell Hounds stand ten feet tall and wield a set of sharp claws. They are wolf-like, with glowing red eyes and mouths.
 
-`Hell Hound, HP: 24(3d8), Size: Large, AC: 14, [17, 14, 16, 12, 16, 6], Claws +5 2d6+3`
+`Hell Hound, HP: 24(3d8), Size: Large, AC: 14, [17, 14, 16, 12, 16, 6], Claws +5 2d6`
 - Immune to fire and poison, resistant to non-magical physical damage, weak to radiant
-- Magma Spray(Recharge 5-6): 30ft cone, DC 15 DEX save to halve 3d8 fire damage 
+- Magma Spray(Recharge 5-6): 30ft cone, DC 15 DEX save to halve 2d8 fire damage

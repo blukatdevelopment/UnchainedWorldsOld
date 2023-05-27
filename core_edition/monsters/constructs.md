@@ -13,7 +13,7 @@
 # Constructs
 
 ## Animated Book
-`Animated book, XP: 10, Size: Tiny, HP:3(1d4-1), AC: 8, Speed: 30ft fly, [10,10, 10, 4, 10, 4], papercut +2 1 slashing`
+`Animated book, XP: 8, Size: Tiny, HP:3(1d4-1), AC: 8, Speed: 30ft fly, [10,10, 10, 4, 10, 4], papercut +2 1 slashing`
 - weak to fire damage
 
 ## Swarm of animated books

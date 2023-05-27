@@ -16,7 +16,7 @@
 - Resistant to non-magical physical damage
 - Immune to fire damage
 - Flaming Aura: Ignites anything it touches, 1d10 fire damage
-- Flame throw: 15ft cone, DC 13 DEX save to halve 3d6 fire damage
+- Flame throw: 15ft cone, DC 13 DEX save to halve 2d6 fire damage
 
 ## Smoke Elemental Modifier
 - Immune to non-magical physical damage
@@ -27,7 +27,6 @@
 ## Wind Elemental Modifier
 - Immune to non-magical physical damage
 - Fly 30ft
-- Catapult spell on command
 - Gust of wind, Dust Devil spells once/day
 
 
@@ -44,16 +43,7 @@
 
 ## Frost Elemental Modifier
 - Resistant to non-magical physical damage
-- AC +2
-- Ice tomb spell on command.
-```
-Ice Tomb (1st)
-Casting Speed: 1 action
-Distance: 30 feet
-Duration: Concentration, 1 minute
-Make a ranged spell attack against one creature within range. If it hits, the creature receives 1d12+8 cold damage. If you miss, the spell ends. For the duration, you may use your action to continue the effect of the spell, dealing an additional 1d12 cold damage. If you do not continue the spell, it ends. If the target falls below 0 hit points, they are frozen solid and
-instantly killed.
-```
+- AC = 12
 
 ## Lightning Elemental Modifier
 - Immune to non-magical physical damage
@@ -64,7 +54,7 @@ instantly killed.
 ## Fey Guardian
 The fae choose their strongers to patrol and protect widerness from axe, pick, and plow. They often ride on the back of ferhorns.
 
-`Fey Guardian, XP: 50, Size: Small, HP: 12(3d4), AC: 12(Carapace), [8, 12, 10, 12, 12, 16], Bubble Staff(60ft) +4 1d4 bludgeoning, pushes target 20ft`
+`Fey Guardian, Size: Small, HP: 12(3d4), AC: 12(Carapace), [8, 12, 10, 12, 12, 16], Bubble Staff(60ft) +4 1d4 bludgeoning, pushes target 20ft`
 - Invisibility(1/day): Fae may become invisible for 1 hour, which drops if they lose concentration, cast a spell, or attack.
 - Name magic: if a fae knows the name of a creature, they may learn the location of the creature. If they are given the name, the creature forgets their name and all other creatures lose their memories of the creature.
 
@@ -76,7 +66,7 @@ A nymph is attracted to one specific aspect, which it embodies. If allowed to fe
 - Rot
 - Flower
 
-`Diminutive Nymph, XP: 25, Size: Tiny, HP: 8(2d4), AC: 10, Fly 15ft[4, 12, 10, 12, 12, 16], Bite +3 1 piercing`
+`Diminutive Nymph, Size: Tiny, HP: 8(2d4), AC: 10, Fly 15ft[4, 12, 10, 12, 12, 16], Bite +3 1 piercing`
 
 ## Nymph
 A nymph is attracted to one specific aspect, which it embodies. If allowed to feed on it's source, it becomes a Major Nymph. It gains an ability according to the aspect.
@@ -86,7 +76,7 @@ A nymph is attracted to one specific aspect, which it embodies. If allowed to fe
 - Rot - DC 14 CON save to halve 1d12 necrotic 
 - Flower - Speak with plants at command
 
-`Nymph, XP: 25, Size: Small, HP: 12(3d4), AC: 11, Fly 30ft [12, 12, 10, 12, 12, 16], Bite +3 1d4 piercing`
+`Nymph, Size: Small, HP: 12(3d4), AC: 10, Fly 30ft [12, 12, 10, 12, 12, 16], Bite +3 1d4 piercing`
 
 ## Major Nymph
 A nymph is attracted to one specific aspect, which it embodies. It gains an ability according to the aspect.
@@ -96,12 +86,12 @@ A nymph is attracted to one specific aspect, which it embodies. It gains an abil
 - Rot - Vitality Drain on command
 - Flower - Cast Greatberry
 
-`Major Nymph, XP: 50, Size: Medium, HP: 27(3d8+3), AC: 12, Fly 30ft [14, 12, 14, 12, 12, 16], Bite +3 2d6 piercing`
+`Major Nymph, Size: Medium, HP: 27(3d8+3), AC: 12, Fly 30ft [14, 12, 14, 12, 12, 16], Bite +3 2d6 piercing`
 
 ## Arch Fey
 These are the most powerful fey, not only in their command of fey magic, but also in their scheming.
 
-`Arch Fey, XP: 50, Size: Medium, HP: 32(4d6+8), AC: 12, Speed: 30ft [14, 15, 14, 16, 17, 18], staff +4 1d6+2`
+`Arch Fey, Size: Medium, HP: 32(4d6+8), AC: 12, Speed: 30ft [14, 15, 14, 16, 17, 18], staff +4 1d6+2`
 - Spellcasting: On command fey magic. +7, DC 15 Spells:
 1. Disguise self, Faerie Fire
 2. Earthen Grasp, Red Hot Metal
