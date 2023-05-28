@@ -1,4 +1,4 @@
-# Unchained Worlds: Basic Edition
+# Unchained Worlds: Basic Edition V1
 
 # Foreword
 This ruleset is stripped down, hyper-minimilist version of the unchained worlds
