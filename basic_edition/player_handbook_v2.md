@@ -100,9 +100,9 @@ If you attack unarmed, your attack does damage equal to 1 + your strength modifi
 |:------------|:-------------------------------------------|:-------|:-----|:---|
 |  Unarmed    | Fists, claws, feet, elbows                 |  --    |  --  | D2 |
 |  Minor      | Daggers, clubs, sickles, staves, spears    |  2 lb. |  5GP | D4 |
-|  Ranged     | Bows, crossbows                            |  5 lb. | 25GP | D6 |
-|  Martial    | Swords, axes, war hammers, maces           |  5 lb. | 45GP | D6 |
-|  Great      | Greataxes, greatswords, lances, battleaxes |  9 lb. | 80GP | D12|
+|  Ranged     | Bows, crossbows                            |  5 lb. | 15GP | D6 |
+|  Martial    | Swords, axes, war hammers, maces           |  5 lb. | 35GP | D6 |
+|  Great      | Greataxes, greatswords, lances, battleaxes |  9 lb. | 50GP | D12|
 
 
 ### Coinage
@@ -111,32 +111,79 @@ If you attack unarmed, your attack does damage equal to 1 + your strength modifi
 
 ### Adventuring gear
 
-|             Item             |   Cost   |    Weight    |
-|:-----------------------------|:---------|:-------------|
-| Arrows (20)                  | 1 gp     | 1 lb.        |
-| Wand                         | 10 gp    | 1 lb.        |
-| Backpack                     | 2 gp     | 5 lb.        |
-| Bedroll                      | 1 gp     | 7 lb.        |
-| Block and tackle             | 1 gp     | 5 lb.        |
-| Candle(10ft light)           | 1 cp     | —            |
-| Clothes, Common              | 5 sp     | 3 lb.        |
-| Clothes, fine                | 15 gp    | 6 lb.        |
-| Crowbar                      | 2 gp     | 5 lb.        |
-| Hammer                       | 1 gp     | 3 lb.        |
-| Lantern, bullseye(30 light)  | 10 gp    | 2 lb.        |
-| Lantern, hooded(30 light)    | 5 gp     | 2 lb.        |
-| Mirror, steel                | 5 gp     | 1/2 lb.      |
-| Oil (1 pint flask)           | 1 sp     | 1 lb.        |
-| Pick, miner’s                | 2 gp     | 10 lb.       |
-| Piton                        | 5 cp     | 1/4 lb.      |
-| Pole (10-foot)               | 5 cp     | 7 lb.        |
-| Rations (1 day)              | 5 sp     | 2 lb.        |
-| Rope, hempen (50 feet)       | 1 gp     | 10 lb.       |
-| Spellbook                    | 50 gp    | 3 lb.        |
-| Tent, two-person             | 2 gp     | 20 lb.       |
-| Tinderbox                    | 5 sp     | 1 lb.        |
-| Torch(30 light)              | 1 cp     | 1 lb.        |
-| Waterskin                    | 2 sp     | 5 lb. (full) |
+|             Item     |  Cost |   Weight |
+|:---------------------|:------|:---------|
+| Arrows (20)          |  1 gp |    1 lb. |
+| Backpack             |  2 gp |    5 lb. |
+| Bedroll              |  1 gp |    7 lb. |
+| Block and tackle     |  1 gp |    5 lb. |
+| Clothes, Common      |  5 sp |    3 lb. |
+| Clothes, fine        | 15 gp |    6 lb. |
+| Crowbar              |  2 gp |    5 lb. |
+| Hammer               |  1 gp |    3 lb. |
+| Mirror, steel        |  5 gp |  1/2 lb. |
+| Oil Flask            |  1 sp |    1 lb. |
+| Pick, miner’s        |  2 gp |   10 lb. |
+| Piton                |  5 cp |  1/4 lb. |
+| Pole (10-foot)       |  5 cp |    7 lb. |
+| Fresh Ration         |  5 cp |    2 lb. |
+| Dry Ration           |  5 sp |    2 lb. |
+| Rope (50 ft)         |  1 gp |   10 lb. |
+| Book                 | 15 gp |    3 lb. |
+| Soap                 |  2 cp | 1/10 lb. |
+| Ink Bottle           |  5 gp | 1/10 lb. |
+| Quill Pen            |  5 sp |       -- |
+| Tent, two-person     |  2 gp |   20 lb. |
+| Tinderbox            |  5 sp |    1 lb. |
+| Lockpick             | 10 gp |    5 lb. |
+| Waterskin(1/2 gal)   |  2 sp |    5 lb. |
+| Barrel(40gal)        |  2 gp |   70 lb. |
+
+#### Light Sources
+|        Item      |  Cost |  Weight | Light | Duration |
+|:-----------------|:------|:--------|:------|:---------|
+| Torch            |  1 cp |   1 lb. | 30ft  | 1/2 hour |
+| Lantern, bullseye| 10 gp |   2 lb. | 60ft  | 4 hours  |
+| Lantern, hooded  |  5 gp |   2 lb. | 30ft  | 4 hours  |
+| Candle           |  1 cp |1/10 lb. | 10ft  | 1 hour   |
+
+#### Adventuring Packs
+- Slightly-discounted gear
+
+##### Explorers Pack(8GP, 49lb)
+- Backpack
+- Warm common clothes
+- Bedroll
+- Tent, two-person
+- Tinderbox
+- (5)Torch
+- (4)Dry Ration
+
+##### Dungeoneer's Pack(10gp, 33lb)
+- Backpack
+- Common clothes with climbing boots
+- Tinderbox
+- Lantern, hooded
+- (5)Oil Flask
+- Rope (50 ft)
+- (4)Piton
+- Hammer
+- (2)Dry Ration
+
+##### Burglar's Pack(10gp, 18lb)
+- Backpack
+- Dark common clothes with hood
+- Lockpick
+- Crowbar
+
+##### Scholar's Pack(15gp, 13lb)
+- Backpack
+- Clean common clothes
+- Book(Blank)
+- Quill Pen
+- Tinderbox
+- (10)Candle
+- Soap
 
 
 ### Armor
@@ -222,7 +269,7 @@ An action die is a D12 that you may add to an ability check to do some something
 - Scroll disintigrates after one use
 
 ## Divine Magic(50XP): Requires positive WIS mod
-- During a rest, you may pray to deity for a particular kind of spell
+- During a rest, you may pray to deity for a particular kind of spell using two words, which becomes the name of the spell
 - You roll 2d6 for power level, keeper creates spell to fit
 - When casting spell, you must make a WIS check against the spell's DC
 - If you fail the check, the spell becomes disabled
@@ -245,8 +292,9 @@ An action die is a D12 that you may add to an ability check to do some something
 ## Naming Magic(50XP): Requires positive CHA mod
 - You may expend 2 CON score to learn a random magic word
 - Your number of words may not exceed your CHA mod
-- Describe a spell utilizing one or more word, keeper assigns HP cost to cast it
+- Describe a spell utilizing one or more word, keeper assigns the DC for a CHA check necessary to cast the spell
 - Example: using the word "Fire" to create a flame in your hand for 1 hour
+- If the D20 rolls a 1, the spell fails catastrophically
 
 ## Expertise(50XP): Requires a skill
 - You may roll two skill dice when using this skill

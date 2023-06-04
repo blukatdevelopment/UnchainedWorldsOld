@@ -7,9 +7,9 @@ Regretful hex: One creature the regret can see must succeed a WIS save or else b
 4. Sloth: Slow: Target's movement is halved, it cannot attack multiple times in one turn, and cannot use bonus actions.
 
 ### Regret
-This soul was victim to a deadly sin before it's death, and as a result, it seeks to punish every instance of the sin it can find, which it does through hexes.
+This soul was victim to a deadly sin before it's death, and as a result, it seeks to punish every instance of the sin it can find, which it does through hexes.  
 
-`Regret, XP: 50, HP: 16(2d8), speed: 20 fly, [8, 8, 11, 15, 13, 16]`
+`Regret, XP: 50, HP: 16(2d8), speed: 20 fly, [8, 8, 11, 15, 13, 16]` 
 Regretful hex: One creature the regret can see must succeed a WIS save or else become hexxed. They may repeat this save at the end of each of their turns to end the condition. This ability requires concentration.
 1. Lust: Distraction: Target has disadvantage on attack rolls, skill checks, and saving throws.
 2. Gluttony: Hunger: Target must use it's action to eat 2lb of food, or else take 1d12 necrotic damage and lose a stamina die.

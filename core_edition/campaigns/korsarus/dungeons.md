@@ -9,10 +9,10 @@
 
 ## Tiny Dungeons
 - D01:(Hex I2) Slime Wolves
-- D02:(Hex D2) Rothead silk
+- D02:(Hex D2) Rothead silk (Immovable Rod)
 - D03:(Hex C0) Titan bunker
 - D04:(Hex D6) Flesh Eater Den
-- D05:(Hex M1) Sloth Regret Lair
+- D05:(Hex M1) Sloth Regret Lair (Winged Boots)
 - D06:(Hex N1) Bone Thresher Lair
 - D07:(Hex F1) Red Ant and Rotking
 - D08:(Hex I8) Dungeon used as bandit hideout
@@ -21,7 +21,7 @@
 - D11:(Hex G10) Cult of the king crab
 - D12:(Hex A5) Flesh eater den
 - D13:(Hex E9) Flesh eater den
-- D14:(Hex D4) Leechman den
+- D14:(Hex D4) Leechman den (Ring of shadow jump)
 - D15:(Hex G6) Omarian-occupied dungeon
 - D16:(Hex M9) The cult of sand
 - D17:(Hex B9) Flesh Eater den
