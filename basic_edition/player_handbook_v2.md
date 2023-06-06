@@ -1,4 +1,4 @@
-# Unchained Wolrds: Basic Edition V2
+# Unchained Wolrds: Basic Edition 2e
 
 ## Foreword
 - These rules are minimal

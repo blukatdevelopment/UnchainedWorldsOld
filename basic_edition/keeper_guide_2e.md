@@ -1,3 +1,5 @@
+# Keeper's Guide 2e
+
 # Loot
 
 ## Magic Items
@@ -15,23 +17,23 @@ Note: +1 means a +1 bonus to attack and damage rolls.
 10. Dragon scale: Medium armor, grants a +5 bonus to spell saving throws.
 11. Power gauntlets: Confers a +1 bonus to attack and damage rolls with unarmed attacks.
 12. Magic boomerang: +1 Minor weapon that always returns to the thrower's hand.
-13. Magic Sword: +1 Martial weapon containing the soul of a previous wielder. See magic sword section below.
+13. Lesser Magic Sword: +1 Martial weapon containing the soul of a warrior.
 14. Light bow: +1 Bow. Deals double damage to the undead.
 15. Thunder hammer: +1 Great weapon that sends targets flying backward 3 paces upon a successful hit.
-16. 
-17. 
-18. 
-19. 
-20. 
-21. 
-22. 
-23. 
+16. Instant boulder: This pellet has a button on it. If pressed, the pellet turns into a 2000lb boulder in 6 seconds.
+17. Magic Doorknob: Insert into a wall up to 1ft thick to create a door.
+18. Pair of sending stones: Can exchange one 25 word message each way once per day.
+19. Immovable rod: Pressing a button on this rod causes it to remain stationary.
+20. Robe of patches: Has 5d4 patches. You may store an object as a design on a patch. Ripping the patch off summons the object and destroys the patch.
+21. Disappearing ink: Pour onto a creature or object to turn it invisible for one hour.
+22. Dragon sauce: For one minute after consuming, breath a 15 cone of flame that forces creature inside to make a DEX save to halve 2d6 damage.
+23. Dark eyedrops: You apply these drops to your eyes and can see in the dark for one hour. D6 chance of running out each time you use it.
 24. 
 25. 
-26. 
-27. 
-28. 
-29. 
+26. Radiant blade: +1 Martial weapon containing the soul of a priest. Deals double damage to the undead, demons, and devils.
+27. Soul Eater: +1 Martial weapon containing the soul of a devil. This sword deals double damage to humanoids.
+28. Rust blade: +1 Martial weapon that causes metal to rust. Each hit subtracts 1 AC from an enemy's metal armor.
+29. Assassin's friend: +1 Minor weapon. This dagger oozes poison, and deals D4 extra damage. 
 30. 
 31. 
 32. 
@@ -103,6 +105,9 @@ Note: +1 means a +1 bonus to attack and damage rolls.
 98. 
 99. 
 100.
+
+
+
 
 
 ## Spells
