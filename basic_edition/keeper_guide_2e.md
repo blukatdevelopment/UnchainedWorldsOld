@@ -1,5 +1,88 @@
 # Keeper's Guide 2e
 
+# Monsters
+
+## Templates
+You can use these as starting points for different monster types. HD refers to hit dice, or how many times a D6 is rolled for HP. One can use any value within the min and max range without destroying the 
+
+- Minion(10AC, 1HP(1HD), +1 to hit, D4 damage)
+- Mook(10AC, 10HP(2HD), +2 to hit, D6 damage)
+- Brawler(12AC, 15HP(3HD), +4 to hit, D8 damage)
+- Boss(15AC, 30HP(5HD), +6 to hit, D10 damage)
+
+## Monsters todo list
+- Skeleton
+- Vampire
+- Slime
+- Plant
+- Tentacle Beast
+- Gargoyle
+- Pincer Beast
+- Stone Scurrier
+- Giant insect
+- Corrupt Beast
+- Beast
+- Flesh Eater
+- Chaos Shell
+- Infernoid
+- Mantis man
+- Leech man
+- Floating Eye
+- Giant Hand
+- Dream Eater
+- Muchbeast
+- Needlenose
+- Raystalker
+- Manface Silkworm
+- Dragon
+- Swarm of heartworms
+- Pit Fisher
+- Mimic
+- Hydra
+- Elemental
+-
+
+## Monsters
+
+### Skeleton(Minion)
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+
+### Zombie (Mook)
+- 3 paces per action
+- D6 chance of staying at 1HP instead of dying
+- Weak to radiant
+Variants:
+1. Torso: Moving takes 3 actions
+2. Runner: 6 paces per action
+3. Sturdy: 2HD, D6 damage
+4. Ghoul: Long tongue. No penalty on second attack
+5. Brain eater: Heals D6 after eating brain
+6. Infectious: Constant drooling. 1d6 chance to infect on attack
+
+### Ghost(Mook)
+- Invisible at will
+- Ephemeral at will
+- Resist non-silvered, non-magical weapons
+1. Spectral warrior: Wields spectral martial weapons
+2. Banshee: Screech which has 1d6 chance to reduce targets to 1HP
+3. 
+4. 
+5. 
+6. 
+
+### ()
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+
 # Loot
 
 ## Magic Items
@@ -28,8 +111,8 @@ Note: +1 means a +1 bonus to attack and damage rolls.
 21. Disappearing ink: Pour onto a creature or object to turn it invisible for one hour.
 22. Dragon sauce: For one minute after consuming, breath a 15 cone of flame that forces creature inside to make a DEX save to halve 2d6 damage.
 23. Dark eyedrops: You apply these drops to your eyes and can see in the dark for one hour. D6 chance of running out each time you use it.
-24. 
-25. 
+24. Spell Arrow: Arrow with unicorn hair inside. You may cast a spell to store it in the arrow, then fire it to release the stored spell, targeting whatever is hit.
+25. Flask of Arcane Adhesive: Dries in a minute and can hold nearly a ton.
 26. Radiant blade: +1 Martial weapon containing the soul of a priest. Deals double damage to the undead, demons, and devils.
 27. Soul Eater: +1 Martial weapon containing the soul of a devil. This sword deals double damage to humanoids.
 28. Rust blade: +1 Martial weapon that causes metal to rust. Each hit subtracts 1 AC from an enemy's metal armor.

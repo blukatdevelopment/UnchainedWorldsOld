@@ -54,19 +54,16 @@ The keeper may ask you to make a check to succeed an attempted action or to resi
 - Higher is better
 - Yours is 10 + your DEX mod
 
-## Skills
-- Gained by rolling a 20 on the D20 when performing a skillful ability check
-- If using a skill in an ability check, add a D6
-- Can have number of skills equal to your INT mod(minimum 1)
-
 # Combat
 ## Initiative
 - Each side rolls a 1d6 and winner goes first
 - Reroll on tie
 - After both sides go, reroll
 
+\page
 ## On Your Turn
 On each turn, you receive three actions.
+
 
 ### Actions In Combat
 Using your action, you may perform many tasks. Some examples:
@@ -81,7 +78,7 @@ Using your action, you may perform many tasks. Some examples:
 
 #### Making Attacks
 - Roll a D20
-- If proficient with weapon, add STR(for melee) or DEX(for ranged) mod
+- Add STR(for melee) or DEX(for ranged) mod
 - Add any other attack bonuses or penalties
 - If your roll meets or beats the enemy's AC, you hit
 - On a hit, roll your weapon's damage die
@@ -94,7 +91,6 @@ Using your action, you may perform many tasks. Some examples:
 
 ### Weapons
 If you attack unarmed, your attack does damage equal to 1 + your strength modifier(minimum 1).
-
 
 | Class       |                   Weapon                   | Weight | Cost | DMG|
 |:------------|:-------------------------------------------|:-------|:-----|:---|
@@ -125,7 +121,7 @@ If you attack unarmed, your attack does damage equal to 1 + your strength modifi
 | Oil Flask            |  1 sp |    1 lb. |
 | Pick, miner’s        |  2 gp |   10 lb. |
 | Piton                |  5 cp |  1/4 lb. |
-| Pole (10-foot)       |  5 cp |    7 lb. |
+| Pole (10ft)          |  5 cp |    7 lb. |
 | Fresh Ration         |  5 cp |    2 lb. |
 | Dry Ration           |  5 sp |    2 lb. |
 | Rope (50 ft)         |  1 gp |   10 lb. |
@@ -134,7 +130,7 @@ If you attack unarmed, your attack does damage equal to 1 + your strength modifi
 | Ink Bottle           |  5 gp | 1/10 lb. |
 | Quill Pen            |  5 sp |       -- |
 | Tent, two-person     |  2 gp |   20 lb. |
-| Tinderbox            |  5 sp |    1 lb. |
+| Flint and steel      |  5 sp |    1 lb. |
 | Lockpick             | 10 gp |    5 lb. |
 | Waterskin(1/2 gal)   |  2 sp |    5 lb. |
 | Barrel(40gal)        |  2 gp |   70 lb. |
@@ -147,54 +143,17 @@ If you attack unarmed, your attack does damage equal to 1 + your strength modifi
 | Lantern, hooded  |  5 gp |   2 lb. | 30ft  | 4 hours  |
 | Candle           |  1 cp |1/10 lb. | 10ft  | 1 hour   |
 
-#### Adventuring Packs
-- Slightly-discounted gear
-
-##### Explorers Pack(8GP, 49lb)
-- Backpack
-- Warm common clothes
-- Bedroll
-- Tent, two-person
-- Tinderbox
-- (5)Torch
-- (4)Dry Ration
-
-##### Dungeoneer's Pack(10gp, 33lb)
-- Backpack
-- Common clothes with climbing boots
-- Tinderbox
-- Lantern, hooded
-- (5)Oil Flask
-- Rope (50 ft)
-- (4)Piton
-- Hammer
-- (2)Dry Ration
-
-##### Burglar's Pack(10gp, 18lb)
-- Backpack
-- Dark common clothes with hood
-- Lockpick
-- Crowbar
-
-##### Scholar's Pack(15gp, 13lb)
-- Backpack
-- Clean common clothes
-- Book(Blank)
-- Quill Pen
-- Tinderbox
-- (10)Candle
-- Soap
-
-
+\page
 ### Armor
+Armor requires a minimum STR or DEX to gain the benefits.
 
-| Armor  |   AC   | GP  | Lbs |
-|:-------|:-------|:----|:----|
-| None   | 10+DEX |  -- |  -- |
-| Light  | 11+DEX |  10 |  10 |
-| Medium | 14     |  50 |  45 |
-| Heavy  | 17     | 200 |  60 |
-| Shield | +2     |  10 |  10 |
+| Armor  |   AC   | GP  | Lbs | Requirements   |
+|:-------|:-------|:----|:----|----------------|
+| None   | 10+DEX |  -- |  -- | --             |
+| Light  | 11+DEX |  10 |  10 | 12 DEX         |
+| Medium | 14     |  50 |  45 | 13 STR or DEX  |
+| Heavy  | 17     | 200 |  60 | 15 STR         |
+| Shield | +2     |  10 |  10 | 12 STR or DEX  |
 
 ### Rest
 - Takes 8 hours
@@ -202,99 +161,201 @@ If you attack unarmed, your attack does damage equal to 1 + your strength modifi
 - Regain HP equal to your CON mod (min 1)
 - Regain any once per day abilities(such as prepared spells)
 
+### Starting gear
+A new character starts with common clothes and 1d4 of the table below.
+| D12 | Gear             |
+|:----|:-----------------|
+| 1   | Torch            |
+| 2   | Daggers          |
+| 3   | Pole(10ft)       |
+| 4   | Bow and 5 arrows |
+| 5   | Rope(50ft)       |
+| 6   | Flask of Oil     |
+| 7   | Crowbar          |
+| 8   | Iron Spikes(10)  |
+| 9   | Flint and Steel  |
+| 10  | hammer           |
+| 11  | Club             |
+| 12  | Caltrops(one bag)|
+
 # Advancement
 - As you gain XP, you can spend it on advancements
 - Some advancements require you to already have others
 
-## Ability Score Increase
-- Add 2 to one ability score OR add 1 to three ability scores
-- Each time it's taken, the cost increases
-- Costs 10, 25, 50, 100, 150, 200, 250, 500 XP
-- No ability score may exceed 20
+## Hand-to-hand Training(50XP)
+With at least one level of Hand-to-hand training, you gain the following benefits:
+- May substitute DEX for STR with unarmed attacks
+<br><br>
+Roll on the table below.
 
-## Armor Proficiency
-- Shield(25XP)
-- Light(25XP)
-- Medium(50XP): Requires Light
-- Heavy(100XP): Requires Light
+| 2d6   | Effect                                            |
+|:------|:--------------------------------------------------|
+| 2     | Unarmed attacks on grappled target deal D6 damage |
+| 3     | Add D6 to AC(lasts 1 round) per rest              |
+| 4-7   | +1 to unarmed attacks                             |
+| 8-10  | +2 to STR, DEX, or CON                            |
+| 11    | A successful grapple deals unarmed damage         |
+| 12    | No penalty on second or third unarmed attack      |
 
-## Weapon Advancement Tree
+## Minor Weapon Training(50XP)
+With at least one level of training, you may do the following:
+- Substitute DEX for STR with bladed or sharp minor weapons
+- Throw minor weapons up to 6 paces
+<br><br>
+Roll on the table below.
 
-### Attack Bonus
-Bonus applied to attack rolls made with proficient weapons
-- +1 (25XP)
-- +2 (50XP)
-- +3 (75XP)
+| 2d6   | Effect                                            |
+|:------|:--------------------------------------------------|
+| 2     | D6 bonus to backstabbing damage                   |
+| 3     | Add a D6 to minor attack or damage once per rest  |
+| 4-7   | +1 to minor weapon attacks                        |
+| 8-10  | +2 to STR, DEX, or CON                            |
+| 11    | Second attack with minor weapon has no pentalty   |
+| 12    | Dual wield to roll damage twice and pick highest  |
 
-### Unarmed
-- Unarmed Proficieny(5XP)
-- Fast Fists(15XP): Requires proficiency. No penalty for unarmed second or third attack
-- Fierce Fists(15XP): Requires proficiency. Unarmed attacks deal max damage
-- Stranglehold(15XP): Requires proficiency. A successful grapple deals unarmed damage
+## Ranged Weapon Training(50XP)
+Roll on the table below.
 
-### Minor
-- Minor Weapon Proficieny(10XP): Requires Unarmed proficiency
-- Dual Wield(25XP): Requires proficiency. No second attack penalty using two minor weapons
-- Throw(25XP): Requires proficiency. May attack up to 6 paces by throwing minor weapon.
+| 2d6   | Effect                                         |
+|:------|:-----------------------------------------------|
+| 2     | Use two actions for a D6 bonus to range attack |
+| 3     | Add a D6 to ranged damage once per day         |
+| 4-7   | +1 to ranged weapon attacks                    |
+| 8-10  | +2 to DEX or WIS                               |
+| 11    | Add a D6 to ranged attack once per day         |
+| 12    | Second attack with ranged has no penalty       |
+\page
+## Martial Weapon Training(50XP)
+Roll on the table below.
 
-### Ranged
-- Ranged Weapon Proficieny(20XP)
-- Steady Aim(25XP): Requires Proficiency. Use three actions for ranged attack, +5 bonus to hit
-- Double-tap(50XP): Requires proficiency. Second attack with ranged has no penalty.
+| 2d6   | Effect                                            |
+|:------|:--------------------------------------------------|
+| 2     | Two-handed attacks deal 1d10 damage               |
+| 3     | Add a D6 to martial attack or damage once per rest|
+| 4-7   | +1 to martial weapon attacks                      |
+| 8-10  | +2 to STR or CON                                  |
+| 11    | When wielding martial weapon two-handed, +1 AC    |
+| 12    | free attack if a melee attack misses you by 5+    |
 
-### Martial
-- Martial Weapon(20XP): Requires Minor Weapon proficiency
-- Two-handed(25XP): Requires proficiency. May hold with both hands to deal 1d10 damage instead of 1d6
-- Reposte(50XP): Requires proficiency. If a melee attack misses you by 5 or more, you may immediately make a free attack
+## Great Weapon Training(50XP)
+Roll on the table below.
 
-### Great
-- Great Weapon Proficieny(30XP): Requires Martial Weapon proficiency
-- Cleave(25XP): Requires proficiency. Overkill damage spreads to an adjacent enemy
-- Brutality(25XP): Requires proficiency. You may reroll damage, but must use second damage roll
+| 2d6   | Effect                                            |
+|:------|:--------------------------------------------------|
+| 2     | Overkill damage spreads to adjacent enemies       |
+| 3     | Add a D12 to great attack or damage once per rest |
+| 4-7   | +1 to great weapon attacks                        |
+| 8-10  | +2 to STR or CON                                  |
+| 11    | Choose one armor. +1 AC when wearing it           |
+| 12    | May reroll damage, using second roll              |
 
-## Action Dice
-An action die is a D12 that you may add to an ability check to do some something action-packed such as swinging from a chandelier, pushing someone off a cliff, or suspending yourself in a hallway by doing the splits. Action dice are recovered after a rest.
-- One action die(25XP)
-- Second action die(50XP)
-- Third action die(75XP)
+## Arcane Magic Training(50XP)
+The first time you choose this, you gain access to arcane spellcasting.
+<br><br>
+Roll on the table below.
 
-## Arcane Magic(50XP): Requires positive INT mod
-- You may expend 1 CON score to learn a spell from a book, scroll, or mentor
-- You may cast each known spell once per rest
-- Use INT checks for magic
+| 2d6   | Effect                                     |
+|:------|:-------------------------------------------|
+| 2     | Upgrade a spell you know                   |
+| 3     | Add a D6 to a spell check once per day     |
+| 4-7   | +1 to arcane spellcasting bonus            |
+| 8-10  | +2 to INT or CON                           |
+| 11    | Learn a random spell at no cost            |
+| 12    | Choose a spell to make scrolls of(5gp each)|
 
-### Spell Scroll(50XP)
-- May spend 10GP to create scroll of known spell
-- Spell uses your INT modifier
-- Scroll disintigrates after one use
+### Arcane Spellcasting
+- Expend 1 CON score to learn a spell from a book, scroll, or mentor
+- Expend 3 CON score to create a new spell
+- Cast each known spell once per rest
+- Use INT checks for arcane magic
 
-## Divine Magic(50XP): Requires positive WIS mod
+## Divine Magic Training(50XP)
+The first time you choose this, you gain access to divine spellcasting.
+<br><br>
+Roll on the table below.
+| 2d6   | Effect                                            |
+|:------|:--------------------------------------------------|
+| 2     | Gain a once per rest power from divine            |
+| 3     | Add a D6 to a spell damage once per day           |
+| 4-7   | +1 to divine spellcasting bonus                   |
+| 8-10  | +2 to WIS or CHA                                  |
+| 11    | Add a D6 to spell healing once per day            |
+| 12    | When you fall below 1HP, make a DC 15 to be saved |
+
+### Divine spellcasting
 - During a rest, you may pray to deity for a particular kind of spell using two words, which becomes the name of the spell
 - You roll 2d6 for power level, keeper creates spell to fit
 - When casting spell, you must make a WIS check against the spell's DC
-- If you fail the check, the spell becomes disabled
+- If you fail the check, the spell becomes exhausted
 - You can restore the spell by doing a request of the divine
-- You may replace a spell during a rest, provided it is not disabled
+- You may replace a spell during a rest, provided it is not exhausted
 - Your number of spells may not exceed your WIS mod
 
 | Power  | DC |
 |:-------|:---|
-| 2-4    |  5 |
-| 5-6    |  8 |
-| 7      | 10 |
-| 8-9    | 12 |
-| 10-12  | 15 |
+| 2      |  5 |
+| 3-6    |  8 |
+| 7-9    | 10 |
+| 10-11  | 12 |
+| 12     | 15 |
 
-### Divine Intervention(50XP)
-- When you fall below 1 HP, you may make a DC 15 WIS check to pray with your final breath
-- If you succeed, your deity takes pity on you and you have 1HP now
-
-## Naming Magic(50XP): Requires positive CHA mod
+#### Examples of deities
+| Name   | Domains                           |
+|:-------|:----------------------------------|
+| Bimros | Law, Order, Discipline, humankind |
+| Gegtex | Plants, Rebirth, the fae          |
+| Kord   | Sleep, Ice, Stone, circles        |
+| Uaos   | Farming, Empathy, beastfolk       |
+| Exheia | Discovery, Knowledge, Research    |
+| Gidur  | Secrets                           |
+| Solus  | Fire, War, Light                  |
+| Coent  | Seasons, Chaos, Beauty            |
+\page
+## Naming Magic Training(50XP)
+The first time you choose this, you gain access to Naming Spellcasting.
+<br><br>
+Roll on the table below.
+| 2d6   | Effect                                      |
+|:------|:--------------------------------------------|
+| 2-3   | Add a D6 to a spell check once per day      |
+| 4-7   | +1 to naming spellcasting bonus             |
+| 8-10  | +2 to CHA or WIS                            |
+| 11    | Expend 1 CON to write down a spell you cast |
+| 12    | Create your own word at no cost             |
+### Naming spellcasting
 - You may expend 2 CON score to learn a random magic word
 - Your number of words may not exceed your CHA mod
 - Describe a spell utilizing one or more word, keeper assigns the DC for a CHA check necessary to cast the spell
-- Example: using the word "Fire" to create a flame in your hand for 1 hour
+- Example: using the word "Fire" to create a heatless flame in your hand for 1 hour
 - If the D20 rolls a 1, the spell fails catastrophically
 
-## Expertise(50XP): Requires a skill
-- You may roll two skill dice when using this skill
+## Skill Training(50XP)
+The first time you choose this, you gain access to skills.
+<br><br>
+Roll on the table below.
+| 2d6   | Effect                                  |
+|:------|:----------------------------------------|
+| 2     | Learn a new skill of your choice        |
+| 3-4   | Choose a skill and upgrade it to a D12  |
+| 5-9   | +2 to INT, WIS, or CHA                  |
+| 10-11 | Add a D6 to one skill check per rest    |
+| 12    | Add a D6 to one INT check once per rest |
+
+### Skills
+- You may practice a skill while making ability check
+- Rolling a 20 on the D20 when doing so grants you proficiency in this skill
+- You may add a D6 to ability checks which utilize this skill proficiency
+- You can have a number of skills equal to your INT mod(minimum 1)
+
+### Examples of skills
+A skill encompasses one task or type of task. You may define your own to attempt them. Below are some examples.
+|               |           |
+|:--------------|:----------|
+| Pickpocketing | Throwing  |
+| Intimidation  | Climbing  |
+| Lockpicking   | Tracking  |
+| Persuasion    | Jumping   |
+| Herbalism     | Insight   |
+| Grappling     | Singing   |
+| Deception     | History   |
+| Sneaking      | Arcana    |

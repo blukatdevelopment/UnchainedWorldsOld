@@ -28,6 +28,8 @@ Spellcasting(+5, DC13):
 - Wing Flight
 - Hand Light
 - Radiant Shield
+Attacks:
+- Unarmed -1, D2
 
 ## Blank
 
