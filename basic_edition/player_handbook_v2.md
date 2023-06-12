@@ -11,7 +11,7 @@
 ## Abilities
 When performing actions, the keeper may call for ability checks. These are the abilities used.
 
-- Strength(STR): Lift, climb, carry(6lb times score), grapple, throw, punch, and perform tasks that require brute force.
+- Strength(STR): Lift, climb, carry, grapple, throw, punch, and perform tasks that require brute force.
 - Dexterity(DEX): Sprint, jump, duck, dodge, sneak, and perform acrobatic Techniques.
 - Constitution(CON): Resist the effects of poison, toxins, fatigue, and illness. Determines your maximum hit points.
 - Intelligence(INT): Process, calculate, remember, and reason through complex information. 
@@ -53,6 +53,15 @@ The keeper may ask you to make a check to succeed an attempted action or to resi
 - Determines whether an enemy attack hits you
 - Higher is better
 - Unarmored AC = 10 + your DEX mod
+
+### Inventory Slots
+- STR score = slots
+- Identical items stack
+|Size | Stack | Examples         |
+|:----|:------|:-----------------|
+|Large|     1 | Sword, rope, book|
+|Small|     8 | Torch, ration    |
+|Tiny |    16 | Chalk, paper, ink|
 
 # Combat
 ## Initiative
@@ -138,6 +147,9 @@ If you attack unarmed, your attack does damage equal to 1 + your strength modifi
 
 #### Healer's Kit
 If the target's got less than half their max HP, you can expend the kit over 1 minute to heal D4 HP.
+
+#### Backpack
+Can carry 8 small items, or 16 tiny items, even if they aren't identical.
 
 #### Light Sources
 |        Item      |  Cost |  Weight | Light | Duration |
@@ -338,18 +350,18 @@ Roll on the table below.
 The first time you choose this, you gain access to skills.
 <br><br>
 Roll on the table below.
-| 2d6   | Effect                                  |
-|:------|:----------------------------------------|
-| 2     | Learn a new skill of your choice        |
-| 3-4   | Choose a skill and upgrade it to a D12  |
-| 5-9   | +2 to INT, WIS, or CHA                  |
-| 10-11 | Add a D6 to one skill check per rest    |
-| 12    | Add a D6 to one INT check once per rest |
+| 2d6   | Effect                                   |
+|:------|:-----------------------------------------|
+| 2     | Learn a new skill of your choice         |
+| 3-4   | Choose a skill. Its skill die becomes D12|
+| 5-9   | +2 to INT, WIS, or CHA                   |
+| 10-11 | Add a D6 to one skill check per rest     |
+| 12    | Add a D6 to one INT check once per rest  |
 
 ### Skills
 - You may practice a skill while making ability check
 - Rolling a 20 on the D20 when doing so grants you proficiency in this skill
-- You may add a D6 to ability checks which utilize this skill proficiency
+- You may add a skill die (D6) to ability checks which utilize this skill proficiency
 - You can have a number of skills equal to your INT mod(minimum 1)
 
 ### Examples of skills
