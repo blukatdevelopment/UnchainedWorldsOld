@@ -11,7 +11,7 @@
 ## Abilities
 When performing actions, the keeper may call for ability checks. These are the abilities used.
 
-- Strength(STR): Lift, climb, carry(6lb per score), grapple, throw, punch, and perform tasks that require brute force.
+- Strength(STR): Lift, climb, carry(6lb times score), grapple, throw, punch, and perform tasks that require brute force.
 - Dexterity(DEX): Sprint, jump, duck, dodge, sneak, and perform acrobatic Techniques.
 - Constitution(CON): Resist the effects of poison, toxins, fatigue, and illness. Determines your maximum hit points.
 - Intelligence(INT): Process, calculate, remember, and reason through complex information. 
@@ -47,12 +47,12 @@ The keeper may ask you to make a check to succeed an attempted action or to resi
 ### Hit Points(HP)
 - Reduced by taking damage
 - If it falls below 1, you die
-- Your max HP is equal to your CON score
+- HP = CON score
 
 ### Armor Class(AC)
 - Determines whether an enemy attack hits you
 - Higher is better
-- Yours is 10 + your DEX mod
+- Unarmored AC = 10 + your DEX mod
 
 # Combat
 ## Initiative
@@ -113,11 +113,11 @@ If you attack unarmed, your attack does damage equal to 1 + your strength modifi
 | Backpack             |  2 gp |    5 lb. |
 | Bedroll              |  1 gp |    7 lb. |
 | Block and tackle     |  1 gp |    5 lb. |
-| Clothes, Common      |  5 sp |    3 lb. |
-| Clothes, fine        | 15 gp |    6 lb. |
+| Common Clothes       |  5 sp |    3 lb. |
+| Fine clothes         | 15 gp |    6 lb. |
 | Crowbar              |  2 gp |    5 lb. |
 | Hammer               |  1 gp |    3 lb. |
-| Mirror, steel        |  5 gp |  1/2 lb. |
+| steel Mirror         |  5 gp |  1/2 lb. |
 | Oil Flask            |  1 sp |    1 lb. |
 | Pick, miner’s        |  2 gp |   10 lb. |
 | Piton                |  5 cp |  1/4 lb. |
@@ -129,11 +129,15 @@ If you attack unarmed, your attack does damage equal to 1 + your strength modifi
 | Soap                 |  2 cp | 1/10 lb. |
 | Ink Bottle           |  5 gp | 1/10 lb. |
 | Quill Pen            |  5 sp |       -- |
-| Tent, two-person     |  2 gp |   20 lb. |
+| Tent(two-person)     |  2 gp |   20 lb. |
 | Flint and steel      |  5 sp |    1 lb. |
 | Lockpick             | 10 gp |    5 lb. |
 | Waterskin(1/2 gal)   |  2 sp |    5 lb. |
 | Barrel(40gal)        |  2 gp |   70 lb. |
+| Healer's Kit         |  5 gp |    1 lb. |
+
+#### Healer's Kit
+If the target's got less than half their max HP, you can expend the kit over 1 minute to heal D4 HP.
 
 #### Light Sources
 |        Item      |  Cost |  Weight | Light | Duration |
@@ -166,7 +170,7 @@ A new character starts with common clothes and 1d4 of the table below.
 | D12 | Gear             |
 |:----|:-----------------|
 | 1   | Torch            |
-| 2   | Daggers          |
+| 2   | Dagger           |
 | 3   | Pole(10ft)       |
 | 4   | Bow and 5 arrows |
 | 5   | Rope(50ft)       |
@@ -210,7 +214,7 @@ Roll on the table below.
 | 3     | Add a D6 to minor attack or damage once per rest  |
 | 4-7   | +1 to minor weapon attacks                        |
 | 8-10  | +2 to STR, DEX, or CON                            |
-| 11    | Second attack with minor weapon has no pentalty   |
+| 11    | Second attack with minor weapon has no penalty    |
 | 12    | Dual wield to roll damage twice and pick highest  |
 
 ## Ranged Weapon Training(50XP)
@@ -317,7 +321,8 @@ The first time you choose this, you gain access to Naming Spellcasting.
 Roll on the table below.
 | 2d6   | Effect                                      |
 |:------|:--------------------------------------------|
-| 2-3   | Add a D6 to a spell check once per day      |
+| 2     | Consume materials to gain +5 to spell check |
+| 3     | Add a D6 to a spell check once per day      |
 | 4-7   | +1 to naming spellcasting bonus             |
 | 8-10  | +2 to CHA or WIS                            |
 | 11    | Expend 1 CON to write down a spell you cast |
