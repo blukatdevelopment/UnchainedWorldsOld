@@ -9,8 +9,8 @@
 # Creating Your Character
 
 ## Name
-1. Think up a few flavor words. Example: Tree axe river stick
-1. Combine them. Example: Treeaxeriverstick
+1. Think up a few flavor words: Tree axe river stick
+1. Combine them: Treeaxeriverstick
 2. Steal three to four random syllables: Tre xe ver ick
 3. Combine them to make your name: Trexeverick
 
