@@ -3,16 +3,16 @@
 ## Foreword
 - These rules are minimal
 - Familiarity with TTRPGs is assumed
-- The keeper creates the sandbox world to explore
+- The keeper creates a world or scenario
 - The players control player characters(PC) exploring that world
 
 # Creating Your Character
 
 ## Name
 1. Think up a few flavor words: Tree axe river stick
-1. Combine them: Treeaxeriverstick
-2. Steal three to four random syllables: Tre xe ver ick
-3. Combine them to make your name: Trexeverick
+2. Combine them: Treeaxeriverstick
+3. Steal three to four random syllables: Tre xe ver ick
+4. Combine them to make your name: Trexeverick
 
 ## Abilities
 When performing actions, the keeper may call for ability checks. These are the abilities used.
@@ -84,10 +84,10 @@ Using your action, you may perform many tasks. Some examples:
 - **Attack**: Make an attack against a creature
 - **Attack(2nd this turn)**: Has -3 penalty to hit
 - **Attack(3rd this turn)**:  Has -6 penalty to hit
-- **Move**: You move up to 6 paces(1 pace = 5feet)
-- **Hide**: You may make a DEX check (DC 12) to hide from one or more creatures if your line of sight is broken.
-- **Dodge**: You focus on avoiding incoming attacks, adding +5 to your AC
-- **Cast a spell** (requires 2 actions)
+- **Move**: Move up to 6 paces, 5ft each
+- **Hide**: Make a DEX check (DC 12) to hide from one or more creatures if your line of sight is broken.
+- **Dodge**: Focus on avoiding incoming attacks, adding +3 to your AC
+- **Cast a spell**: (requires 2 actions)
 - **Draw/Store/Use object**
 
 #### Making Attacks
@@ -95,9 +95,9 @@ Using your action, you may perform many tasks. Some examples:
 - Add STR(for melee) or DEX(for ranged) mod
 - Add any other attack bonuses or penalties
 - If your roll meets or beats the enemy's AC, you hit
-- On a hit, roll your weapon's damage die
-- If that D20 rolls a 20, the attack hits and you can roll an extra damage die
-- If that D20 rolls a 1, the attack misses
+- On a hit, roll your weapon's damage die and any extra bonuses or penalties
+- If the D20 rolls a 20, the attack hits and you can roll an extra damage die
+- If the D20 rolls a 1, the attack misses
 
 # Exploration
 
@@ -178,7 +178,7 @@ Armor requires a minimum STR or DEX to gain the benefits.
 - Takes 8 hours
 - Can do once per day
 - Regain HP equal to your CON mod (min 1)
-- Regain any once per day abilities(such as prepared spells)
+- Regain any once per rest abilities
 
 ### Starting gear
 A new character starts with common clothes and 1d4 of the table below.
