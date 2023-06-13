@@ -63,11 +63,12 @@ The keeper may ask you to make a check to succeed an attempted action or to resi
 ### Inventory Slots
 - STR score = slots
 - Identical items stack
-|Size | Stack | Examples         |
-|:----|:------|:-----------------|
-|Large|     1 | Sword, rope, book|
-|Small|     8 | Torch, ration    |
-|Tiny |    16 | Chalk, paper, ink|
+|Size | Stack | Examples            |
+|:----|:------|:--------------------|
+|Large|     1 | Sword, rope, book   |
+|Small|     8 | Torch, ration       |
+|Tiny |    16 | Chalk, paper, ink   |
+|Coin |    64 | Gold, Silver, Copper|
 \page
 # Combat
 ## Initiative
@@ -115,7 +116,6 @@ Using your action, you may perform many tasks. Some examples:
 
 ### Coinage
 - 1 Gold Piece = 10 silver pieces = 100 copper pieces
-- 50 pieces = 1 lb
 
 ### Adventuring gear
 
