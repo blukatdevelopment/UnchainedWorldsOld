@@ -112,13 +112,13 @@ Crucible has a 336 day calendar year broken up into 12 months, 28 days each.
 
 ## Holidays
 - Humans Day(6/1): celebrate Bimros's creation of humanity 
-- Beastfolk Day(7/1): celebrate Uaos's creation of beastfolk
+- Beastfolk Day(7/1): celebrate Raos's creation of beastfolk
 - Coentas Day(6/1): Coento becoming Coenta
 - Coentos Day(12/1): Coenta becoming Coento
 - Giant's Rest(7/14): Fieldfolk give their giants a day off.
 - Giant's Feast(8/14): Fieldfolk prepare a feast for their giants.
 - Giant's Thanks(9/14): Fieldfolk prepare speeches, songs, and art to appreciate their giants.
-- New Year's Eve(12/28): Greenfoot folk make offerings to Gegtex for a plentiful next year. Goldrobes and soots drink heavily.
+- New Year's Eve(12/28): Greenfoot folk make offerings to Fliff for a plentiful next year. Goldrobes and soots drink heavily.
 - New Year's Day(1/1): Goldrobes and soots pause all services to nurse hangovers.
 - Anvil Day(2/25): Coggers and bronzehammers host parades to display their metal posessions and give metal gifts to their loved ones.
 - Hammer Day(2/26): Bronzehammers who come of age add their name to their family hammer. Family hammers are passed on during this day.
@@ -133,7 +133,7 @@ Crucible has a 336 day calendar year broken up into 12 months, 28 days each.
 - Bright Sunday(9/7): Those who wield Solus's power become extra powerful on that day.
 - King's day(7/12): Celebration of the residing kings. Wildfolk activity rises on thesed ays.
 - Swords day(8/10): Celebration of soldiers with military parades through city streets.
-- Green Day(9/1): Gegtex's worshippers decorate fruit-bearing plants, which then magically produce fruit at noon.
+- Green Day(9/1): Fliff's worshippers decorate fruit-bearing plants, which then magically produce fruit at noon.
 - Titanfall(5/3): Celebrating the fall of the Titan overlords. The silent celebrate the radiant order's role.
 - Slayers day(4/12): Celebrating the slaying of the last dragon lords. Wicker dragons are burned on this day.
 - Exhmas(1/20): Worshippers of Exheia celebrate technology and arts.
@@ -357,7 +357,7 @@ Example Names:
 - Chuncr
 
 ## Beast Tongue
-Beast tongue arose among the beast folk after their creation by Uaos. The language consists of chaining consonant-vowel pairs to make words. Though there are many homophones, the language uses syllables that can easily be spoken by those with beaks and long snouts. The "t" sound can be made with a tongue click against the soft pallate for folk lacking eye teeth. The written language consists of hieroglyphics, where each symbol is intended to be visibly intelligible even by those who do not know beast tongue. Beast tongue writing is often accompanied with carvings and paintings meant to communicate more complex information such as the appearance of an indivual, or more complex emotions. Though the written language is easily understood and used, abstract concepts are portrayed with allusions to the religion of Uaos, and may be difficult to understand for those unfamiliar with the faith. 
+Beast tongue arose among the beast folk after their creation by Raos. The language consists of chaining consonant-vowel pairs to make words. Though there are many homophones, the language uses syllables that can easily be spoken by those with beaks and long snouts. The "t" sound can be made with a tongue click against the soft pallate for folk lacking eye teeth. The written language consists of hieroglyphics, where each symbol is intended to be visibly intelligible even by those who do not know beast tongue. Beast tongue writing is often accompanied with carvings and paintings meant to communicate more complex information such as the appearance of an indivual, or more complex emotions. Though the written language is easily understood and used, abstract concepts are portrayed with allusions to the religion of Raos, and may be difficult to understand for those unfamiliar with the faith. 
 ah ee ay oh oo ih
 ```
 +-----------------------------------+
@@ -553,8 +553,8 @@ Often shortened to "The 14 Laws" or "The Law of Bimros", these laws were origina
 13. Eat no flesh of man
 14. Tell no lie
 
-## The Lessons of Uaos
-Often referred to as "The Lessons", the Lessons of Uaos is an oral tradition containing hundreds of fables containing morals. They were never delivered together as one complete work from Uaos, but instead with individual fables given to individual wise shamen over hundreds of years. Uaos himself gave differing or contradictory versions of the same fables, and even the same fables giving contradicting moral lessons. The chief aim of The Lessons was to provide an alternative moral framework to that of Bimros's claim of absolute moral truth. Shamen pass on Uaos's wisdom to use the fables as a starting point, and to examine the issues presented in order for each individual to reach their own honest conclusions.
+## The Lessons of Raos
+Often referred to as "The Lessons", the Lessons of Raos is an oral tradition containing hundreds of fables containing morals. They were never delivered together as one complete work from Raos, but instead with individual fables given to individual wise shamen over hundreds of years. Raos himself gave differing or contradictory versions of the same fables, and even the same fables giving contradicting moral lessons. The chief aim of The Lessons was to provide an alternative moral framework to that of Bimros's claim of absolute moral truth. Shamen pass on Raos's wisdom to use the fables as a starting point, and to examine the issues presented in order for each individual to reach their own honest conclusions.
 
 ## Libraries of 
 
@@ -578,13 +578,13 @@ Many lesser divines combined, forming more powerful divines containing multiple 
 ### Bimros
 God of arrows, hunting, and dominion over nature. He created the first blue humans to rule the mountains, fields, and forests. His symbol is that of monolith containing his 14 laws, which he created to provide humans with direction in the world. Bimros is a blue humanoid who wears full platemail and carries a sword.
 
-### Gegtex
-Goddess of grass, trees, flowers, thorns, fruit, and rebirth. Creating the fae to protect her aspects as they are reflected in the Crucible's wildlife. Gegtex offers an oath to pursue this goal as well, granting druidic magic to those who take it.
+### Fliff
+Goddess of grass, trees, flowers, thorns, fruit, and rebirth. Creating the fae to protect her aspects as they are reflected in the Crucible's wildlife. Fliff offers an oath to pursue this goal as well, granting druidic magic to those who take it.
 
 ### Kord
 Goddess of sleep, ice, stone, and circles. Her avatar is a teal-skinned pointy-eared humanoid with white irises, and is known for leaving icy footsteps when she walks on land and water alike. Those who speak an oath to Kord gain magic that grows stronger in winter months.
 
-### Uaos
+### Raos
 God of agriculture. He has the head of a bull and carries a spear with a horn as the tip. He created the beast folk to worship him, and commonly grants small blessings and boons to farms that burn offerings to him.
 
 ### Exheia

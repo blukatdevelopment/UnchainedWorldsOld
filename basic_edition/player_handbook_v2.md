@@ -8,6 +8,12 @@
 
 # Creating Your Character
 
+## Name
+1. Think up a few flavor words. Example: Tree axe river stick
+1. Combine them. Example: Treeaxeriverstick
+2. Steal three to four random syllables: Tre xe ver ick
+3. Combine them to make your name: Trexeverick
+
 ## Abilities
 When performing actions, the keeper may call for ability checks. These are the abilities used.
 
@@ -62,17 +68,15 @@ The keeper may ask you to make a check to succeed an attempted action or to resi
 |Large|     1 | Sword, rope, book|
 |Small|     8 | Torch, ration    |
 |Tiny |    16 | Chalk, paper, ink|
-
+\page
 # Combat
 ## Initiative
 - Each side rolls a 1d6 and winner goes first
 - Reroll on tie
 - After both sides go, reroll
 
-\page
 ## On Your Turn
 On each turn, you receive three actions.
-
 
 ### Actions In Combat
 Using your action, you may perform many tasks. Some examples:
@@ -99,7 +103,6 @@ Using your action, you may perform many tasks. Some examples:
 ## Equipment And Items
 
 ### Weapons
-If you attack unarmed, your attack does damage equal to 1 + your strength modifier(minimum 1).
 
 | Class       |                   Weapon                   | Weight | Cost | DMG|
 |:------------|:-------------------------------------------|:-------|:-----|:---|
@@ -146,8 +149,8 @@ If you attack unarmed, your attack does damage equal to 1 + your strength modifi
 | Healer's Kit         |  5 gp |    1 lb. |
 
 #### Healer's Kit
-If the target's got less than half their max HP, you can expend the kit over 1 minute to heal D4 HP.
-
+If the target's got less than half their max HP, you can expend the kit over 1 minute to heal D6 HP.
+\page
 #### Backpack
 Can carry 8 small items, or 16 tiny items, even if they aren't identical.
 
@@ -159,7 +162,7 @@ Can carry 8 small items, or 16 tiny items, even if they aren't identical.
 | Lantern, hooded  |  5 gp |   2 lb. | 30ft  | 4 hours  |
 | Candle           |  1 cp |1/10 lb. | 10ft  | 1 hour   |
 
-\page
+
 ### Armor
 Armor requires a minimum STR or DEX to gain the benefits.
 
@@ -194,10 +197,46 @@ A new character starts with common clothes and 1d4 of the table below.
 | 11  | Club             |
 | 12  | Caltrops(one bag)|
 
+# World of Crucible
+
+## History
+- The ruins of the ages of **Divines**, **Dragons**, and **Titans** litter the world
+- Fractured kingdoms remain where the empire of man stood
+- Cities struggle to hold back the wilderness
+
+## Common Languages
+| Language      | Who speaks it   |
+|:--------------|:----------------|
+| Common        | Most humanoids  |
+| Beast Tongue  | Beast folk, Fey |
+| Metal Tongue  | Miners          |
+| Mercantile    | Merchants       |
+| Primordial    | Giants, farmers |
+
+## Rare Languages
+| Language      | Who speaks it   |
+|:--------------|:----------------|
+| Celestial     | Divines, Angels |
+| Infernal      | Devils          |
+| Abyssal       | Demons          |
+| Draconic      | Dragons         |
+
+## Deities
+| Name   | Domains                           |
+|:-------|:----------------------------------|
+| Bimros | Law, Order, Discipline, humankind |
+| Fliff  | Plants, Rebirth, the fey          |
+| Kord   | Sleep, Ice, Stone, circles        |
+| Raos   | Farming, Empathy, beastfolk       |
+| Exia   | Discovery, Knowledge, Research    |
+| Gidur  | Secrets                           |
+| Solus  | Fire, War, Light                  |
+| Coent  | Seasons, Chaos, Beauty            |
+
 # Advancement
 - As you gain XP, you can spend it on advancements
 - Some advancements require you to already have others
-
+\page
 ## Hand-to-hand Training(50XP)
 With at least one level of Hand-to-hand training, you gain the following benefits:
 - May substitute DEX for STR with unarmed attacks
@@ -240,7 +279,7 @@ Roll on the table below.
 | 8-10  | +2 to DEX or WIS                               |
 | 11    | Add a D6 to ranged attack once per day         |
 | 12    | Second attack with ranged has no penalty       |
-\page
+
 ## Martial Weapon Training(50XP)
 Roll on the table below.
 
@@ -284,7 +323,7 @@ Roll on the table below.
 - Expend 3 CON score to create a new spell
 - Cast each known spell once per rest
 - Use INT checks for arcane magic
-
+\page
 ## Divine Magic Training(50XP)
 The first time you choose this, you gain access to divine spellcasting.
 <br><br>
@@ -315,18 +354,6 @@ Roll on the table below.
 | 10-11  | 12 |
 | 12     | 15 |
 
-#### Examples of deities
-| Name   | Domains                           |
-|:-------|:----------------------------------|
-| Bimros | Law, Order, Discipline, humankind |
-| Gegtex | Plants, Rebirth, the fae          |
-| Kord   | Sleep, Ice, Stone, circles        |
-| Uaos   | Farming, Empathy, beastfolk       |
-| Exheia | Discovery, Knowledge, Research    |
-| Gidur  | Secrets                           |
-| Solus  | Fire, War, Light                  |
-| Coent  | Seasons, Chaos, Beauty            |
-\page
 ## Naming Magic Training(50XP)
 The first time you choose this, you gain access to Naming Spellcasting.
 <br><br>
@@ -352,7 +379,7 @@ The first time you choose this, you gain access to skills.
 Roll on the table below.
 | 2d6   | Effect                                   |
 |:------|:-----------------------------------------|
-| 2     | Learn a new skill of your choice         |
+| 2     | Learn a new language of your choice      |
 | 3-4   | Choose a skill. Its skill die becomes D12|
 | 5-9   | +2 to INT, WIS, or CHA                   |
 | 10-11 | Add a D6 to one skill check per rest     |
@@ -365,7 +392,7 @@ Roll on the table below.
 - You can have a number of skills equal to your INT mod(minimum 1)
 
 ### Examples of skills
-A skill encompasses one task or type of task. You may define your own to attempt them. Below are some examples.
+A skill encompasses one task or type of task, or domain of knowledge. You may define your own to attempt them. Below are some examples.
 |               |           |
 |:--------------|:----------|
 | Pickpocketing | Throwing  |
