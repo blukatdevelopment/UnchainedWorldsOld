@@ -3,7 +3,7 @@
 # Monsters
 
 ## Templates
-You can use these as starting points for different monster types. HD refers to hit dice, or how many times a D6 is rolled for HP. One can use any value within the min and max range without destroying the 
+You can use these as starting points for different monster types. HD refers to hit dice, or how many times a D6 is rolled for HP. One can use any value within the min and max range without worry.
 
 - Minion(10AC, 1HP(1HD), +1 to hit, D4 damage)
 - Mook(10AC, 10HP(2HD), +2 to hit, D6 damage)
@@ -11,36 +11,55 @@ You can use these as starting points for different monster types. HD refers to h
 - Boss(15AC, 30HP(5HD), +6 to hit, D10 damage)
 
 ## Monsters todo list
-- Skeleton
-- Vampire
-- Slime
-- Plant
-- Tentacle Beast
-- Gargoyle
-- Pincer Beast
-- Stone Scurrier
-- Giant insect
-- Corrupt Beast
-- Beast
-- Flesh Eater
-- Chaos Shell
-- Infernoid
-- Mantis man
-- Leech man
-- Floating Eye
-- Giant Hand
-- Dream Eater
-- Muchbeast
-- Needlenose
-- Raystalker
-- Manface Silkworm
-- Dragon
-- Swarm of heartworms
-- Pit Fisher
-- Mimic
-- Hydra
-- Elemental
--
+### Skeleton(10AC, 1HP(1HD), +1 to hit, D4 damage)
+### Vampire
+### Slime(10AC, 10HP(2HD), +2 to hit, D6 damage)
+1. Blue: Water and ice
+2. Green: Acid
+3. Red: Fire
+4. Yellow: Lightning
+5. Purple: Poison
+6. Pink: Brain stealing
+
+### Plant(12AC, 15HP(3HD), +4 to hit, D8 damage)
+1. Awakened Shrub(10AC, 1HP(1HD), +1 to hit, D4 damage)
+2. Mushmen: Stone spears and axes
+3. Vine mass: Grabbing tentacles
+4. Walking Tree: 30HP
+
+### Fey(12AC, 15HP(3HD), +4 to hit, D8 damage)
+- Naming Magic(+5, 13)
+- +5 against spell effects
+- Spells auto-succeed on named targets
+1. Nymph: 10HP(2HD), Words(Leaf, Flower, Laugh)
+2. Dryad: Words(Vine, Honey, Thorn)
+3. Archfey: 20HP(3HD) Words(Crown, Bark, Season, Madness)
+
+### Tentacle Beast
+### Gargoyle(10AC, 10HP(2HD), +2 to hit, D6 damage)
+### Pincer Beast
+### Stone Scurrier
+### Giant insect(10AC, 1HP(1HD), +1 to hit, D4 damage)
+### Corrupt Beast(10AC, 10HP(2HD), +2 to hit, D6 damage)
+### Beast
+### Flesh Eater
+### Chaos Shell
+### Infernoid
+### Mantis man(10AC, 10HP(2HD), +2 to hit, D6 damage)
+### Leech man(10AC, 10HP(2HD), +2 to hit, D6 damage)
+### Floating Eye(10AC, 1HP(1HD), +1 to hit, D4 damage)
+### Giant Hand(10AC, 10HP(2HD), +2 to hit, D6 damage)
+### Dream Eater(10AC, 10HP(2HD), +2 to hit, D6 damage)
+### Muckbeast
+### Needlenose(10AC, 10HP(2HD), +2 to hit, D6 damage)
+### Raystalker(10AC, 10HP(2HD), +2 to hit, D6 damage)
+### Manface Silkworm(10AC, 10HP(2HD), +2 to hit, D6 damage)
+### Dragon(15AC, 30HP(5HD), +6 to hit, D10 damage)
+### Swarm of heartworms(10AC, 10HP(2HD), +2 to hit, D6 damage)
+### Pit Fisher(10AC, 10HP(2HD), +2 to hit, D6 damage)
+### Mimic(10AC, 10HP(2HD), +2 to hit, D6 damage)
+### Hydra(15AC, 30HP(5HD), +6 to hit, D10 damage)
+### Elemental(10AC, 10HP(2HD), +2 to hit, D6 damage)
 
 ## Monsters
 

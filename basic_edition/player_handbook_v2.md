@@ -17,12 +17,12 @@
 ## Abilities
 When performing actions, the keeper may call for ability checks. These are the abilities used.
 
-- Strength(STR): Lift, climb, carry, grapple, throw, punch, and perform tasks that require brute force.
-- Dexterity(DEX): Sprint, jump, duck, dodge, sneak, and perform acrobatic Techniques.
-- Constitution(CON): Resist the effects of poison, toxins, fatigue, and illness. Determines your maximum hit points.
-- Intelligence(INT): Process, calculate, remember, and reason through complex information. 
-- Wisdom(WIS): Intuit, deduce, and read between the lines. Particularly good for resisting mind-altering magic, reading the intentions of others, and perceiving the world around you.
-- Charisma(CHA): Joke, flatter, persuade, lie, bluff, perform, and intimidate others. Useful wherever talking or looking good is needed.
+- Strength(STR): Lift, climb, carry, grapple, throw
+- Dexterity(DEX): Sprint, jump, duck, sneak, aim
+- Constitution(CON): Take hits, resist harm
+- Intelligence(INT): Remember, reason, calculate
+- Wisdom(WIS): Sense, intuit, control emotions
+- Charisma(CHA): Joke, intimidate, persuade, deceive
 
 ### Modifiers
 The keeper may ask you to make a check to succeed an attempted action or to resist negative effects. Roll a 1d20 and add the modifier for the relevant ability.
@@ -70,27 +70,25 @@ The keeper may ask you to make a check to succeed an attempted action or to resi
 |Tiny |    16 | Chalk, paper, ink   |
 |Coin |    64 | Gold, Silver, Copper|
 \page
+
 # Combat
 ## Initiative
-- Each side rolls a 1d6 and winner goes first
+- Each side rolls a D6 and winner goes first
 - Reroll on tie
 - After both sides go, reroll
 
-## On Your Turn
-On each turn, you receive three actions.
-
-### Actions In Combat
+### Actions In Initiative
 Using your action, you may perform many tasks. Some examples:
-- **Attack**: Make an attack against a creature
-- **Attack(2nd this turn)**: Has -3 penalty to hit
-- **Attack(3rd this turn)**:  Has -6 penalty to hit
+- **Attack**
+- **Second Attack**: -3 penalty to hit
+- **Third Attack**:  -6 penalty to hit
 - **Move**: Move up to 6 paces, 5ft each
-- **Hide**: Make a DEX check (DC 12) to hide from one or more creatures if your line of sight is broken.
-- **Dodge**: Focus on avoiding incoming attacks, adding +3 to your AC
+- **Hide**: Needs line of sight broken and DC 12 DEX check
+- **Dodge**:(requires 2 actions) +3 to AC
 - **Cast a spell**: (requires 2 actions)
 - **Draw/Store/Use object**
 
-#### Making Attacks
+## Making Attacks
 - Roll a D20
 - Add STR(for melee) or DEX(for ranged) mod
 - Add any other attack bonuses or penalties
@@ -124,14 +122,14 @@ Using your action, you may perform many tasks. Some examples:
 | Arrows (20)          |  1 gp |    1 lb. |
 | Backpack             |  2 gp |    5 lb. |
 | Bedroll              |  1 gp |    7 lb. |
-| Block and tackle     |  1 gp |    5 lb. |
+| Block and Tackle     |  1 gp |    5 lb. |
 | Common Clothes       |  5 sp |    3 lb. |
-| Fine clothes         | 15 gp |    6 lb. |
+| Fine Clothes         | 15 gp |    6 lb. |
 | Crowbar              |  2 gp |    5 lb. |
 | Hammer               |  1 gp |    3 lb. |
-| steel Mirror         |  5 gp |  1/2 lb. |
+| Steel Mirror         |  5 gp |  1/2 lb. |
 | Oil Flask            |  1 sp |    1 lb. |
-| Pick, miner’s        |  2 gp |   10 lb. |
+| Pick, Miner’s        |  2 gp |   10 lb. |
 | Piton                |  5 cp |  1/4 lb. |
 | Pole (10ft)          |  5 cp |    7 lb. |
 | Fresh Ration         |  5 cp |    2 lb. |
@@ -141,8 +139,8 @@ Using your action, you may perform many tasks. Some examples:
 | Soap                 |  2 cp | 1/10 lb. |
 | Ink Bottle           |  5 gp | 1/10 lb. |
 | Quill Pen            |  5 sp |       -- |
-| Tent(two-person)     |  2 gp |   20 lb. |
-| Flint and steel      |  5 sp |    1 lb. |
+| Tent(Two-Person)     |  2 gp |   20 lb. |
+| Flint and Steel      |  5 sp |    1 lb. |
 | Lockpick             | 10 gp |    5 lb. |
 | Waterskin(1/2 gal)   |  2 sp |    5 lb. |
 | Barrel(40gal)        |  2 gp |   70 lb. |
@@ -302,7 +300,7 @@ Roll on the table below.
 | 4-7   | +1 to great weapon attacks                        |
 | 8-10  | +2 to STR or CON                                  |
 | 11    | Choose one armor. +1 AC when wearing it           |
-| 12    | May reroll damage, using second roll              |
+| 12    | May reroll great weapon damage, using second roll |
 
 ## Arcane Magic Training(50XP)
 The first time you choose this, you gain access to arcane spellcasting.
@@ -328,14 +326,14 @@ Roll on the table below.
 The first time you choose this, you gain access to divine spellcasting.
 <br><br>
 Roll on the table below.
-| 2d6   | Effect                                            |
-|:------|:--------------------------------------------------|
-| 2     | Gain a once per rest power from divine            |
-| 3     | Add a D6 to a spell damage once per day           |
-| 4-7   | +1 to divine spellcasting bonus                   |
-| 8-10  | +2 to WIS or CHA                                  |
-| 11    | Add a D6 to spell healing once per day            |
-| 12    | When you fall below 1HP, make a DC 15 to be saved |
+| 2d6   | Effect                                                     |
+|:------|:-----------------------------------------------------------|
+| 2     | Gain a once per rest power from divine                     |
+| 3     | Add a D6 to a spell damage once per day                    |
+| 4-7   | +1 to divine spellcasting bonus                            |
+| 8-10  | +2 to WIS or CHA                                           |
+| 11    | Add a D6 to spell healing once per day                     |
+| 12    | When you fall below 1HP, make a DC15 WIS check to be saved |
 
 ### Divine spellcasting
 - During a rest, you may pray to deity for a particular kind of spell using two words, which becomes the name of the spell
