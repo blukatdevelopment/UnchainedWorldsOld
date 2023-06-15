@@ -17,12 +17,12 @@
 ## Abilities
 When performing actions, the keeper may call for ability checks. These are the abilities used.
 
-- Strength(STR): Lift, climb, carry, grapple, throw
-- Dexterity(DEX): Sprint, jump, duck, sneak, aim
-- Constitution(CON): Take hits, resist harm
-- Intelligence(INT): Remember, reason, calculate
-- Wisdom(WIS): Sense, intuit, control emotions
-- Charisma(CHA): Joke, intimidate, persuade, deceive
+- **STR**ength: Lift, climb, carry, grapple, throw
+- **DEX**terity: Sprint, jump, duck, sneak, aim
+- **CON**stitution: Take hits, resist harm
+- **INT**elligence: Remember, reason, calculate
+- **WIS**dom: Sense, intuit, control emotions
+- **CHA**risma: Joke, intimidate, persuade, deceive
 
 ### Modifiers
 The keeper may ask you to make a check to succeed an attempted action or to resist negative effects. Roll a 1d20 and add the modifier for the relevant ability.
@@ -53,15 +53,15 @@ The keeper may ask you to make a check to succeed an attempted action or to resi
 ### Hit Points(HP)
 - Reduced by taking damage
 - If it falls below 1, you die
-- HP = CON score
+- HP = **CON** score (ie 17 **CON** = 17HP)
 
 ### Armor Class(AC)
 - Determines whether an enemy attack hits you
 - Higher is better
-- Unarmored AC = 10 + your DEX mod
+- Unarmored AC = 10 + your **DEX** mod
 
 ### Inventory Slots
-- STR score = slots
+- **STR** score = slots
 - Identical items stack
 |Size | Stack | Examples            |
 |:----|:------|:--------------------|
@@ -83,7 +83,7 @@ Using your action, you may perform many tasks. Some examples:
 - **Second Attack**: -3 penalty to hit
 - **Third Attack**:  -6 penalty to hit
 - **Move**: Move up to 6 paces, 5ft each
-- **Hide**: Needs line of sight broken and DC 12 DEX check
+- **Hide**: Needs line of sight broken and DC 12 **DEX** check
 - **Dodge**:(requires 2 actions) +3 to AC
 - **Cast a spell**: (requires 2 actions)
 - **Draw/Store/Use object**
@@ -162,20 +162,20 @@ Can carry 8 small items, or 16 tiny items, even if they aren't identical.
 
 
 ### Armor
-Armor requires a minimum STR or DEX to gain the benefits.
+Armor requires a minimum **STR** or **DEX** to gain the benefits.
 
 | Armor  |   AC   | GP  | Lbs | Requirements   |
 |:-------|:-------|:----|:----|----------------|
-| None   | 10+DEX |  -- |  -- | --             |
-| Light  | 11+DEX |  10 |  10 | 12 DEX         |
-| Medium | 14     |  50 |  45 | 13 STR or DEX  |
-| Heavy  | 17     | 200 |  60 | 15 STR         |
-| Shield | +2     |  10 |  10 | 12 STR or DEX  |
+| None   | 10+**DEX** |  -- |  -- | --             |
+| Light  | 11+**DEX** |  10 |  10 | 12 **DEX**         |
+| Medium | 14     |  50 |  45 | 13 **STR** or **DEX**  |
+| Heavy  | 17     | 200 |  60 | 15 **STR**         |
+| Shield | +2     |  10 |  10 | 12 **STR** or **DEX**  |
 
 ### Rest
 - Takes 8 hours
 - Can do once per day
-- Regain HP equal to your CON mod (min 1)
+- Regain HP equal to your **CON** mod (min 1)
 - Regain any once per rest abilities
 
 ### Starting gear
@@ -237,7 +237,7 @@ A new character starts with common clothes and 1d4 of the table below.
 \page
 ## Hand-to-hand Training(50XP)
 With at least one level of Hand-to-hand training, you gain the following benefits:
-- May substitute DEX for STR with unarmed attacks
+- May substitute **DEX** for **STR** with unarmed attacks
 <br><br>
 Roll on the table below.
 
@@ -246,13 +246,13 @@ Roll on the table below.
 | 2     | Unarmed attacks on grappled target deal D6 damage |
 | 3     | Add D6 to AC(lasts 1 round) per rest              |
 | 4-7   | +1 to unarmed attacks                             |
-| 8-10  | +2 to STR, DEX, or CON                            |
+| 8-10  | +2 to either **STR**, **DEX**, or **CON**, or +1 to two       |
 | 11    | A successful grapple deals unarmed damage         |
 | 12    | No penalty on second or third unarmed attack      |
 
 ## Minor Weapon Training(50XP)
 With at least one level of training, you may do the following:
-- Substitute DEX for STR with bladed or sharp minor weapons
+- Substitute **DEX** for **STR** with bladed or sharp minor weapons
 - Throw minor weapons up to 6 paces
 <br><br>
 Roll on the table below.
@@ -262,7 +262,7 @@ Roll on the table below.
 | 2     | D6 bonus to backstabbing damage                   |
 | 3     | Add a D6 to minor attack or damage once per rest  |
 | 4-7   | +1 to minor weapon attacks                        |
-| 8-10  | +2 to STR, DEX, or CON                            |
+| 8-10  | +2 to either **STR**, **DEX**, or **CON**, or +1 to two       |
 | 11    | Second attack with minor weapon has no penalty    |
 | 12    | Dual wield to roll damage twice and pick highest  |
 
@@ -274,7 +274,7 @@ Roll on the table below.
 | 2     | Use two actions for a D6 bonus to range attack |
 | 3     | Add a D6 to ranged damage once per day         |
 | 4-7   | +1 to ranged weapon attacks                    |
-| 8-10  | +2 to DEX or WIS                               |
+| 8-10  | +2 to either **DEX** or **WIS**, or +1 to both         |
 | 11    | Add a D6 to ranged attack once per day         |
 | 12    | Second attack with ranged has no penalty       |
 
@@ -286,7 +286,7 @@ Roll on the table below.
 | 2     | Two-handed attacks deal 1d10 damage               |
 | 3     | Add a D6 to martial attack or damage once per rest|
 | 4-7   | +1 to martial weapon attacks                      |
-| 8-10  | +2 to STR or CON                                  |
+| 8-10  | +2 to either **STR** or **CON**, or +1 to both            |
 | 11    | When wielding martial weapon two-handed, +1 AC    |
 | 12    | Free attack if a melee attack misses you by 5+    |
 
@@ -298,7 +298,7 @@ Roll on the table below.
 | 2     | Overkill damage spreads to adjacent enemies       |
 | 3     | Add a D12 to great attack or damage once per rest |
 | 4-7   | +1 to great weapon attacks                        |
-| 8-10  | +2 to STR or CON                                  |
+| 8-10  | +2 to either **STR** or **CON**, or +1 to both            |
 | 11    | Once per rest, take half damage for D6 turns      |
 | 12    | May reroll great weapon damage, using second roll |
 
@@ -312,15 +312,15 @@ Roll on the table below.
 | 2     | Upgrade a spell you know                   |
 | 3     | Add a D6 to a spell check once per day     |
 | 4-7   | +1 to arcane spellcasting bonus            |
-| 8-10  | +2 to INT or CON                           |
+| 8-10  | +2 to **INT** or **CON**                           |
 | 11    | Learn a random spell at no cost            |
 | 12    | Choose a spell to make scrolls of(5gp each)|
 
 ### Arcane Spellcasting
-- Expend 1 CON score to learn a spell from a book, scroll, or mentor
-- Expend 3 CON score to create a new spell
+- Expend 1 **CON** score to learn a spell from a book, scroll, or mentor
+- Expend 3 **CON** score to create a new spell
 - Cast each known spell once per rest
-- Use INT checks for arcane magic
+- Use **INT** checks for arcane magic
 \page
 ## Divine Magic Training(50XP)
 The first time you choose this, you gain access to divine spellcasting.
@@ -331,18 +331,18 @@ Roll on the table below.
 | 2     | Gain a once per rest power from divine                     |
 | 3     | Add a D6 to a spell damage once per day                    |
 | 4-7   | +1 to divine spellcasting bonus                            |
-| 8-10  | +2 to WIS or CHA                                           |
+| 8-10  | +2 to **WIS** or **CHA**                                           |
 | 11    | Add a D6 to spell healing once per day                     |
-| 12    | When you fall below 1HP, make a DC15 WIS check to be saved |
+| 12    | When you fall below 1HP, make a DC15 **WIS** check to be saved |
 
 ### Divine spellcasting
 - During a rest, you may pray to deity for a particular kind of spell using two words, which becomes the name of the spell
 - You roll 2d6 for power level, keeper creates spell to fit
-- When casting spell, you must make a WIS check against the spell's DC
+- When casting spell, you must make a **WIS** check against the spell's DC
 - If you fail the check, the spell becomes exhausted
 - You can restore the spell by doing a request of the divine
 - You may replace a spell during a rest, provided it is not exhausted
-- Your number of spells may not exceed your WIS mod
+- Your number of spells may not exceed your **WIS** mod
 
 | Power  | DC |
 |:-------|:---|
@@ -361,11 +361,11 @@ Roll on the table below.
 | 2     | Consume materials to gain +5 to spell check |
 | 3     | Add a D6 to a spell check once per day      |
 | 4-7   | +1 to naming spellcasting bonus             |
-| 8-10  | +2 to CHA or WIS                            |
-| 11    | Expend 1 CON to write down a spell you cast |
+| 8-10  | +2 to **CHA** or **WIS**                            |
+| 11    | Expend 1 **CON** to write down a spell you cast |
 | 12    | Create your own word at no cost             |
 ### Naming spellcasting
-- You may expend 2 CON score to learn a random magic word
+- You may expend 2 **CON** score to learn a random magic word
 - Your number of words may not exceed your CHA mod
 - Describe a spell utilizing one or more word, keeper assigns the DC for a CHA check necessary to cast the spell
 - Example: using the word "Fire" to create a heatless flame in your hand for 1 hour
@@ -379,15 +379,15 @@ Roll on the table below.
 |:------|:-----------------------------------------|
 | 2     | Learn a new language of your choice      |
 | 3-4   | Choose a skill. Its skill die becomes D12|
-| 5-9   | +2 to INT, WIS, or CHA                   |
+| 5-9   | +2 to **INT**, **WIS**, or **CHA**                   |
 | 10-11 | Add a D6 to one skill check per rest     |
-| 12    | Add a D6 to one INT check once per rest  |
+| 12    | Add a D6 to one **INT** check once per rest  |
 
 ### Skills
 - You may practice a skill while making ability check
 - Rolling a 20 on the D20 when doing so grants you proficiency in this skill
 - You may add a skill die (D6) to ability checks which utilize this skill proficiency
-- You can have a number of skills equal to your INT mod(minimum 1)
+- You can have a number of skills equal to your **INT** mod(minimum 1)
 
 ### Examples of skills
 A skill encompasses one task or type of task, or domain of knowledge. You may define your own to attempt them. Below are some examples.
