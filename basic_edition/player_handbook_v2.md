@@ -288,7 +288,7 @@ Roll on the table below.
 | 4-7   | +1 to martial weapon attacks                      |
 | 8-10  | +2 to STR or CON                                  |
 | 11    | When wielding martial weapon two-handed, +1 AC    |
-| 12    | free attack if a melee attack misses you by 5+    |
+| 12    | Free attack if a melee attack misses you by 5+    |
 
 ## Great Weapon Training(50XP)
 Roll on the table below.
@@ -299,7 +299,7 @@ Roll on the table below.
 | 3     | Add a D12 to great attack or damage once per rest |
 | 4-7   | +1 to great weapon attacks                        |
 | 8-10  | +2 to STR or CON                                  |
-| 11    | Choose one armor. +1 AC when wearing it           |
+| 11    | Once per rest, take half damage for D6 turns      |
 | 12    | May reroll great weapon damage, using second roll |
 
 ## Arcane Magic Training(50XP)
