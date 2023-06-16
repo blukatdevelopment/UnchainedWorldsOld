@@ -103,13 +103,13 @@ Using your action, you may perform many tasks. Some examples:
 
 ### Weapons
 
-| Class       |                   Weapon                   | Weight | Cost | DMG|
+| Class       |                   Weapon                   | Size   | Cost | DMG|
 |:------------|:-------------------------------------------|:-------|:-----|:---|
 |  Unarmed    | Fists, claws, feet, elbows                 |  --    |  --  | D2 |
-|  Minor      | Daggers, clubs, sickles, staves, spears    |  2 lb. |  5GP | D4 |
-|  Ranged     | Bows, crossbows                            |  5 lb. | 15GP | D6 |
-|  Martial    | Swords, axes, war hammers, maces           |  5 lb. | 35GP | D6 |
-|  Great      | Greataxes, greatswords, lances, battleaxes |  9 lb. | 50GP | D12|
+|  Minor      | Daggers, clubs, sickles, staves, spears    |  Small |  5GP | D4 |
+|  Ranged     | Bows, crossbows                            |  Large | 15GP | D6 |
+|  Martial    | Swords, axes, war hammers, maces           |  Large | 35GP | D6 |
+|  Great      | Greataxes, greatswords, lances, battleaxes |  Large | 50GP | D12|
 
 
 ### Coinage
@@ -117,34 +117,34 @@ Using your action, you may perform many tasks. Some examples:
 
 ### Adventuring gear
 
-|             Item     |  Cost |   Weight |
+|             Item     |  Cost |   Size   |
 |:---------------------|:------|:---------|
-| Arrows (20)          |  1 gp |    1 lb. |
-| Backpack             |  2 gp |    5 lb. |
-| Bedroll              |  1 gp |    7 lb. |
-| Block and Tackle     |  1 gp |    5 lb. |
-| Common Clothes       |  5 sp |    3 lb. |
-| Fine Clothes         | 15 gp |    6 lb. |
-| Crowbar              |  2 gp |    5 lb. |
-| Hammer               |  1 gp |    3 lb. |
-| Steel Mirror         |  5 gp |  1/2 lb. |
-| Oil Flask            |  1 sp |    1 lb. |
-| Pick, Miner’s        |  2 gp |   10 lb. |
-| Piton                |  5 cp |  1/4 lb. |
-| Pole (10ft)          |  5 cp |    7 lb. |
-| Fresh Ration         |  5 cp |    2 lb. |
-| Dry Ration           |  5 sp |    2 lb. |
-| Rope (50 ft)         |  1 gp |   10 lb. |
-| Book                 | 15 gp |    3 lb. |
-| Soap                 |  2 cp | 1/10 lb. |
-| Ink Bottle           |  5 gp | 1/10 lb. |
-| Quill Pen            |  5 sp |       -- |
-| Tent(Two-Person)     |  2 gp |   20 lb. |
-| Flint and Steel      |  5 sp |    1 lb. |
-| Lockpick             | 10 gp |    5 lb. |
-| Waterskin(1/2 gal)   |  2 sp |    5 lb. |
-| Barrel(40gal)        |  2 gp |   70 lb. |
-| Healer's Kit         |  5 gp |    1 lb. |
+| Arrows (16)          |  1 gp |    Small |
+| Backpack             |  2 gp |    Large |
+| Bedroll              |  1 gp |    Large |
+| Block and Tackle     |  1 gp |    Large |
+| Common Clothes       |  5 sp |    Large |
+| Fine Clothes         | 15 gp |    Large |
+| Crowbar              |  2 gp |    Large |
+| Hammer               |  1 gp |    Small |
+| Steel Mirror         |  5 gp |    Small |
+| Oil Flask            |  1 sp |    Small |
+| Pick, Miner’s        |  2 gp |    Large |
+| Piton                |  5 cp |    Tiny  |
+| Pole (10ft)          |  5 cp |    Large |
+| Fresh Ration         |  5 cp |    Small |
+| Dry Ration           |  5 sp |    Small |
+| Rope (50 ft)         |  1 gp |    Large |
+| Book                 | 15 gp |    Large |
+| Soap                 |  2 cp |    Small |
+| Ink Bottle           |  5 gp |    Small |
+| Quill Pen            |  5 sp |    Tiny  |
+| Tent(Two-Person)     |  2 gp |    Large |
+| Flint and Steel      |  5 sp |    Small |
+| Lockpick             | 10 gp |    Small |
+| Waterskin(1/2 gal)   |  2 sp |    Small |
+| Barrel(40gal)        |  2 gp |    Large |
+| Healer's Kit         |  5 gp |    Large |
 
 #### Healer's Kit
 If the target's got less than half their max HP, you can expend the kit over 1 minute to heal D6 HP.
@@ -153,24 +153,24 @@ If the target's got less than half their max HP, you can expend the kit over 1 m
 Can carry 8 small items, or 16 tiny items, even if they aren't identical.
 
 #### Light Sources
-|        Item      |  Cost |  Weight | Light | Duration |
+|        Item      |  Cost |  Size   | Light | Duration |
 |:-----------------|:------|:--------|:------|:---------|
-| Torch            |  1 cp |   1 lb. | 30ft  | 1/2 hour |
-| Lantern, bullseye| 10 gp |   2 lb. | 60ft  | 4 hours  |
-| Lantern, hooded  |  5 gp |   2 lb. | 30ft  | 4 hours  |
-| Candle           |  1 cp |1/10 lb. | 10ft  | 1 hour   |
+| Torch            |  1 cp |   Small | 30ft  | 1/2 hour |
+| Lantern, bullseye| 10 gp |   Small | 60ft  | 4 hours  |
+| Lantern, hooded  |  5 gp |   Small | 30ft  | 4 hours  |
+| Candle           |  1 cp |   Tiny  | 10ft  | 1 hour   |
 
 
 ### Armor
 Armor requires a minimum **STR** or **DEX** to gain the benefits.
 
-| Armor  |   AC   | GP  | Lbs | Requirements   |
-|:-------|:-------|:----|:----|----------------|
-| None   | 10+**DEX** |  -- |  -- | --             |
-| Light  | 11+**DEX** |  10 |  10 | 12 **DEX**         |
-| Medium | 14     |  50 |  45 | 13 **STR** or **DEX**  |
-| Heavy  | 17     | 200 |  60 | 15 **STR**         |
-| Shield | +2     |  10 |  10 | 12 **STR** or **DEX**  |
+| Armor  |   AC   | GP  | Requirements   |
+|:-------|:-------|:----|----------------|
+| None   | 10+**DEX** |  -- | --             |
+| Light  | 11+**DEX** |  10 | 12 **DEX**         |
+| Medium | 14     |  50 | 13 **STR** or **DEX**  |
+| Heavy  | 16     | 200 | 15 **STR**         |
+| Shield | +2     |  10 | 12 **STR** or **DEX**  |
 
 ### Rest
 - Takes 8 hours
@@ -272,10 +272,10 @@ Roll on the table below.
 | 2d6   | Effect                                         |
 |:------|:-----------------------------------------------|
 | 2     | Use two actions for a D6 bonus to range attack |
-| 3     | Add a D6 to ranged damage once per day         |
-| 4-7   | +1 to ranged weapon attacks                    |
-| 8-10  | +2 to either **DEX** or **WIS**, or +1 to both         |
-| 11    | Add a D6 to ranged attack once per day         |
+| 3     | Add a D6 to ranged damage once per rest        |
+| 4-8   | +1 to ranged weapon attacks                    |
+| 9-10  | +2 to either **DEX** or **WIS**, or +1 to both         |
+| 11    | Add a D6 to ranged attack once per rest        |
 | 12    | Second attack with ranged has no penalty       |
 
 ## Martial Weapon Training(50XP)
@@ -285,8 +285,8 @@ Roll on the table below.
 |:------|:--------------------------------------------------|
 | 2     | Two-handed attacks deal 1d10 damage               |
 | 3     | Add a D6 to martial attack or damage once per rest|
-| 4-7   | +1 to martial weapon attacks                      |
-| 8-10  | +2 to either **STR** or **CON**, or +1 to both            |
+| 4-8   | +1 to martial weapon attacks                      |
+| 9-10  | +2 to either **STR** or **CON**, or +1 to both            |
 | 11    | When wielding martial weapon two-handed, +1 AC    |
 | 12    | Free attack if a melee attack misses you by 5+    |
 
@@ -297,8 +297,8 @@ Roll on the table below.
 |:------|:--------------------------------------------------|
 | 2     | Overkill damage spreads to adjacent enemies       |
 | 3     | Add a D12 to great attack or damage once per rest |
-| 4-7   | +1 to great weapon attacks                        |
-| 8-10  | +2 to either **STR** or **CON**, or +1 to both            |
+| 4-8   | +1 to great weapon attacks                        |
+| 9-10  | +2 to either **STR** or **CON**, or +1 to both            |
 | 11    | Once per rest, take half damage for D6 turns      |
 | 12    | May reroll great weapon damage, using second roll |
 
@@ -310,9 +310,9 @@ Roll on the table below.
 | 2d6   | Effect                                     |
 |:------|:-------------------------------------------|
 | 2     | Upgrade a spell you know                   |
-| 3     | Add a D6 to a spell check once per day     |
-| 4-7   | +1 to arcane spellcasting bonus            |
-| 8-10  | +2 to **INT** or **CON**                           |
+| 3     | Add a D6 to a spell check once per rest    |
+| 4-8   | +1 to arcane spellcasting bonus            |
+| 9-10  | +2 to **INT** or **CON**                           |
 | 11    | Learn a random spell at no cost            |
 | 12    | Choose a spell to make scrolls of(5gp each)|
 
@@ -329,10 +329,10 @@ Roll on the table below.
 | 2d6   | Effect                                                     |
 |:------|:-----------------------------------------------------------|
 | 2     | Gain a once per rest power from divine                     |
-| 3     | Add a D6 to a spell damage once per day                    |
-| 4-7   | +1 to divine spellcasting bonus                            |
-| 8-10  | +2 to **WIS** or **CHA**                                           |
-| 11    | Add a D6 to spell healing once per day                     |
+| 3     | Add a D6 to a spell damage once per rest                   |
+| 4-8   | +1 to divine spellcasting bonus                            |
+| 9-10  | +2 to **WIS** or **CHA**                                           |
+| 11    | Add a D6 to spell healing once per rest                    |
 | 12    | When you fall below 1HP, make a DC15 **WIS** check to be saved |
 
 ### Divine spellcasting
@@ -359,9 +359,9 @@ Roll on the table below.
 | 2d6   | Effect                                      |
 |:------|:--------------------------------------------|
 | 2     | Consume materials to gain +5 to spell check |
-| 3     | Add a D6 to a spell check once per day      |
-| 4-7   | +1 to naming spellcasting bonus             |
-| 8-10  | +2 to **CHA** or **WIS**                            |
+| 3     | Add a D6 to a spell check once per rest     |
+| 4-8   | +1 to naming spellcasting bonus             |
+| 9-10  | +2 to **CHA** or **WIS**                            |
 | 11    | Expend 1 **CON** to write down a spell you cast |
 | 12    | Create your own word at no cost             |
 ### Naming spellcasting
