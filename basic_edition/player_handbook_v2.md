@@ -407,26 +407,3 @@ A skill encompasses one task or type of task, or domain of knowledge. You may de
 | Grappling     | Singing   |
 | Deception     | History   |
 | Sneaking      | Arcana    |
-
-## Alchemy Training(50XP)
-The first time you choose this, you gain access to alchemy.
-<br><br>
-Roll on the table below.
-| 2d6   | Effect                                                   |
-|:------|:---------------------------------------------------------|
-| 2     | Brew D4 more flasks or 2d4 more vials of an ingredient   |
-| 3-4   | Add a D6 when identifying one sample per rest            |
-| 5-9   | +2 to **INT**                                            |
-| 10-11 | You may convert 8 identical flasks into a new ingredient |
-| 12    | You may use spell scrolls as ingredients                 |
-
-### Alchemy
-
-#### Identify ingredients
-- Identify up to one magical property of a sample with a DC 14 INT check
-- Can only make one attempt per each plant, corpse, or large object
-
-#### Brew potions
-- Can brew during a rest by succeeding a DC 14 INT check per ingredient
-- One ingredient to fill 16 vials or 8 flasks sharing its identified property
-- Combine 2 different vials to make a flask with a novel effect
