@@ -216,12 +216,13 @@ For creating stronger characters, character has 3d6 GP per every 2 perks.
 | Primordial    | Giants, farmers |
 
 ## Rare Languages
-| Language      | Who speaks it   |
-|:--------------|:----------------|
-| Celestial     | Divines, Angels |
-| Infernal      | Devils          |
-| Abyssal       | Demons          |
-| Draconic      | Dragons         |
+| Language      | Who speaks it      |
+|:--------------|:-------------------|
+| Celestial     | Divines, Angels    |
+| Infernal      | Devils             |
+| Abyssal       | Demons             |
+| Draconic      | Dragons            |
+| Titan         | Titans, Constructs |
 
 ## Deities
 | Name   | Domains                           |

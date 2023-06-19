@@ -241,7 +241,7 @@ If you need some random spells, consult this table. It's highly encouraged to cr
 24. Sending: You send a creature you've met a message containing up to 25 words and they may respond in kind.
 25. Face melt: One target in sight succeeds a WIS save or takes 2d6 damage.
 26. Weak: One target in sight deals 1d4 less damage until they complete a rest or the caster dies.
-27. Shadow Blade: Form a blade with a +4 to hit and deals 2d6 damage.
+27. Shadow Blade: Form a blade with a +4 bonus to hit and deals 2d6 damage.
 28. Green Flame: 5ft ube of flame forcing a DEX save to avoid 1d6 damage when inside.
 29. Thorns: Thorny tentacles erupt in three 5ft cubes within sight, dealing 1d4 damage to those that enter them.
 30. Ice Floor: A 20ft square on the ground becomes icy and forces DEX save to avoid slipping and falling prone.
@@ -309,7 +309,7 @@ If you need some random spells, consult this table. It's highly encouraged to cr
 92. Power Word Kill: You command one creature you can see to die, and if it has less than 30HP, it does.
 93. Ballbearings: You conjure enough tiny ballbearings to fill a 5ft cube that persist for the next 24 hours.
 94. Teleport: You and up to 10 other creatures you can see vanish and appear in a space of your choice, provided you have been there before.
-95. Magic Weapon: Holy You touch one weapon and it gains a +3 to attack and damage rolls for the next hour.
+95. Magic Weapon: You touch one weapon and it gains a +3 to attack and damage rolls for the next hour.
 96. Soul Bind: You may bind the soul of a humanoid to a sword, provided they have less than 5HP, and it gains an attack and damage bonus according to the creature's maximum hit points(Less than 10 = +1, less than 20 = +2, 20 or more = +3)
 97. Truth: You touch a creature, and for the next hour it can only speak the truth to the best of it's ability.
 98. Resurrection: You destroy a gem worth 100GP and sprinkle the dust over a corpse, bringing it back to life.
