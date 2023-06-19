@@ -217,7 +217,7 @@ If you need some random spells, consult this table. It's highly encouraged to cr
 
 1. Flame hand: 15 foot cone of flame erupts from your hand and effected creatures make a DEX save to halve 2d6 damage.
 2. Lightning hand: Melee spell attack, 2d8 damage.
-3. Wind hand: creatures in a 30ft cone must succeed a STR save or be pushed 15 feet and taking 1d6 damage if they collide with anything.
+3. Wind hand: Creatures in a 30ft cone must succeed a STR save or be pushed 15 feet and taking 1d6 damage if they collide with anything.
 4. Cloud of insects: Bugs descend on one target within 3 paces, who take 1d4 damage until they use two actions to remove the bugs.
 5. Wildshape: Turn into an animal of your choice(must have touched the animal once) until you dismiss this spell or fall to 0 hit points, reverting to your previous hit points.
 6. Moon beam: A 30ft diameter circle is lit by the moon for the next minute, dealing 3d4 damage to any creature inside.
@@ -262,7 +262,7 @@ If you need some random spells, consult this table. It's highly encouraged to cr
 45. Bodyjump: Should you die in the next 24 hours, your soul jumps to the nearest creature who must succeed a WIS save or become possessed by you.
 46. Invisible object: You touch an object no more than 2000lbs, and it becomes invisible until you next cast this spell.
 47. Duplication: You create 5 illusory duplicates of yourself, who you may control and who disappear when attacked.
-48. Thrall: One creature who can hear you makes a WIS save or becomes loyal to you and may repeat the save for the next six days to prevent the effect from becoming permanent.
+48. Thrall: One non-hostile creature who can hear you makes a WIS save or becomes loyal to you and may repeat the save for the next six days to prevent the effect from becoming permanent.
 49. Flame aura: Any creature within one pace of you takes 1d6 damage for the next minute.
 50. Acid Splash: One creature within a pace of you makes a DEX save to halve 2d12 damage.
 51. Surface: You fly upward up to 30ft and swim through the ceiling until you surface at the first open space above. 
@@ -270,7 +270,7 @@ If you need some random spells, consult this table. It's highly encouraged to cr
 53. Animate object: You cause up to 5 small objects to grow little arms and legs and do your bidding for the next hour.
 54. Fuse: You combine two items, creating a new item in the process.
 55. Life sense: You can detect living things within 100ft as purple auras visible through cover for the next hour.
-56. Cure illness: You touch a creature and remove one illness or affliction.
+56. Cure illness: You touch a creature and remove one illness or affliction, instead healing 5HP if they have no illness.
 57. Lightning strike: If sky is visible, target makes CON save to halve 2d8 damage.
 58. Plague: Choose a plague, which forms around a 1 mile radius: blood, frogs, lice, flies, boils, hail, locusts, darkness.
 59. Muscles: Touch one creature and they ripple with musculature, having a 20 STR score and adding their STR mod to melee attacks for the next hour.
@@ -286,7 +286,7 @@ If you need some random spells, consult this table. It's highly encouraged to cr
 69. Mass hallucination: Every creature within 120 feet of you must succeed a WIS save or hear, see, smell, taste, and feel hallucinations of your choice for the next ten minutes.
 70. Meat Puppet: One creature you can see must succeed a WIS save or become animated by you, repeating the WIS save with each command you give it.
 71. Slime Form: One creature you touch becomes an amorphous slime creature for the next hour.
-72. Halo: You don a halo
+72. Halo: You don a halo until you cast another spell or make an attack, and creatures must succeed a WIS save to attack you.
 73. Tongues: You speak, and any creature that can hear you understands for the next hour.
 74. Vicious mockery: You give a dire insult to a creature, who must succeed a WIS saving throw or take 1d6 damage.
 75. Serenade of skill: You describe a task to one creature that can hear you, and they gain a D6 bonus to checks for that task for the next minute.
@@ -302,7 +302,7 @@ If you need some random spells, consult this table. It's highly encouraged to cr
 85. Shrink: An object or creature shrinks to a tenth of its normal size for one hour, unless you dismiss the spell early.
 86. Enlarge: An object or creature grows to ten times its normal size for one hour, unless you dismiss the spell early.
 87. Light: You touch an object or creatue, and it produces 30ft of light for the next hour, blinding if placed directly on eyes.
-88. Fireball: A ball of flame grows in your palm, and you toss it up to 24 paces and it erupts into a 30ft radius explosion that deals 6d4 damage to those inside.
+88. Fireball: A ball of flame grows in your palm, and you toss it up to 24 paces and it erupts into a 30ft radius explosion that forces those inside to succeed a DEX check to halve 4d6 damage.
 89. Fireproof: For the next minute, fire does not harm you nor any items you are holding or wearing.
 90. Thunder step: You slam down your feet(taking no fall damage if you accomplish this by falling) and cause a resounding shockwave that deals 1d6 damage to all creatures within a 30ft radius.
 91. Zone: You declare a 100ft diameter sphere in sight as one of the following zones until you cast this spell again: silence, anti-magic, hyper-magic, corruption, darkness, gravity-free, frictionless, timeless, annihilation.
@@ -313,7 +313,7 @@ If you need some random spells, consult this table. It's highly encouraged to cr
 96. Soul Bind: You may bind the soul of a humanoid to a sword, provided they have less than 5HP, and it gains an attack and damage bonus according to the creature's maximum hit points(Less than 10 = +1, less than 20 = +2, 20 or more = +3)
 97. Truth: You touch a creature, and for the next hour it can only speak the truth to the best of it's ability.
 98. Resurrection: You destroy a gem worth 100GP and sprinkle the dust over a corpse, bringing it back to life.
-99. Life drain: A creature you can see must succeed a WIS save or they age by 10 years, and you gain the youth they lost.
+99. Life drain: A creature you can see must succeed a WIS save to halve 10 damage and avoid transfering 10 years of youth to you.
 100. Aura of life: Now, and at the start of your turn for the next minute, you may heal all creatures within 10ft of you for 1d4 hit points.
 
 ## Magic Words

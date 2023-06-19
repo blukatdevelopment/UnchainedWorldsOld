@@ -143,6 +143,8 @@ Using your action, you may perform many tasks. Some examples:
 | Flint and Steel      |  5 sp |    Small |
 | Lockpick             | 10 gp |    Small |
 | Waterskin(1/2 gal)   |  2 sp |    Small |
+| Glass Vial           |  1 gp |    Tiny  |
+| Flask                |  2 cp |    Small |
 | Barrel(40gal)        |  2 gp |    Large |
 | Healer's Kit         |  5 gp |    Large |
 
@@ -195,6 +197,8 @@ A new character starts with common clothes and 1d4 of the table below.
 | 11  | Club             |
 | 12  | Caltrops(one bag)|
 
+For creating stronger characters, character has 3d6 GP per every 2 perks.
+
 # World of Crucible
 
 ## History
@@ -232,10 +236,10 @@ A new character starts with common clothes and 1d4 of the table below.
 | Coent  | Seasons, Chaos, Beauty            |
 
 # Advancement
-- As you gain XP, you can spend it on advancements
-- Some advancements require you to already have others
+- As you earn perks, you may choose from the options below
 \page
-## Hand-to-hand Training(50XP)
+
+## Hand-to-hand Training
 With at least one level of Hand-to-hand training, you gain the following benefits:
 - May substitute **DEX** for **STR** with unarmed attacks
 <br><br>
@@ -250,7 +254,7 @@ Roll on the table below.
 | 11    | A successful grapple deals unarmed damage         |
 | 12    | No penalty on second or third unarmed attack      |
 
-## Minor Weapon Training(50XP)
+## Minor Weapon Training
 With at least one level of training, you may do the following:
 - Substitute **DEX** for **STR** with bladed or sharp minor weapons
 - Throw minor weapons up to 6 paces
@@ -266,7 +270,7 @@ Roll on the table below.
 | 11    | Second attack with minor weapon has no penalty    |
 | 12    | Dual wield to roll damage twice and pick highest  |
 
-## Ranged Weapon Training(50XP)
+## Ranged Weapon Training
 Roll on the table below.
 
 | 2d6   | Effect                                         |
@@ -278,19 +282,19 @@ Roll on the table below.
 | 11    | Add a D6 to ranged attack once per rest        |
 | 12    | Second attack with ranged has no penalty       |
 
-## Martial Weapon Training(50XP)
+## Martial Weapon Training
 Roll on the table below.
 
 | 2d6   | Effect                                            |
 |:------|:--------------------------------------------------|
-| 2     | Two-handed attacks deal 1d10 damage               |
+| 2     | Two-handed attacks deal D10 damage                |
 | 3     | Add a D6 to martial attack or damage once per rest|
 | 4-8   | +1 to martial weapon attacks                      |
 | 9-10  | +2 to either **STR** or **CON**, or +1 to both            |
 | 11    | When wielding martial weapon two-handed, +1 AC    |
 | 12    | Free attack if a melee attack misses you by 5+    |
 
-## Great Weapon Training(50XP)
+## Great Weapon Training
 Roll on the table below.
 
 | 2d6   | Effect                                            |
@@ -302,26 +306,27 @@ Roll on the table below.
 | 11    | Once per rest, take half damage for D6 turns      |
 | 12    | May reroll great weapon damage, using second roll |
 
-## Arcane Magic Training(50XP)
+## Arcane Magic Training
 The first time you choose this, you gain access to arcane spellcasting.
 <br><br>
-Roll on the table below.
+Roll on the table below and acquire one random spell scroll.
 
 | 2d6   | Effect                                     |
 |:------|:-------------------------------------------|
-| 2     | Upgrade a spell you know                   |
+| 2     | Create a new spell at no cost              |
 | 3     | Add a D6 to a spell check once per rest    |
 | 4-8   | +1 to arcane spellcasting bonus            |
-| 9-10  | +2 to **INT** or **CON**                           |
-| 11    | Learn a random spell at no cost            |
-| 12    | Choose a spell to make scrolls of(5gp each)|
+| 9-10  | +2 to **INT** or **CON** or +1 to both             |
+| 11    | Learn 3 random spells at no cost           |
+| 12    | You may craft spell scrolls*               |
+Spell scrolls cost 5gp of materials, are single use, and use your INT score at time of crafting.
 
+\page
 ### Arcane Spellcasting
 - Expend 1 **CON** score to learn a spell from a book, scroll, or mentor
-- Expend 3 **CON** score to create a new spell
 - Cast each known spell once per rest
 - Use **INT** checks for arcane magic
-\page
+
 ## Divine Magic Training(50XP)
 The first time you choose this, you gain access to divine spellcasting.
 <br><br>
@@ -331,7 +336,7 @@ Roll on the table below.
 | 2     | Gain a once per rest power from divine                     |
 | 3     | Add a D6 to a spell damage once per rest                   |
 | 4-8   | +1 to divine spellcasting bonus                            |
-| 9-10  | +2 to **WIS** or **CHA**                                           |
+| 9-10  | +2 to **WIS** or **CHA** or +1 to both                             |
 | 11    | Add a D6 to spell healing once per rest                    |
 | 12    | When you fall below 1HP, make a DC15 **WIS** check to be saved |
 
@@ -352,7 +357,7 @@ Roll on the table below.
 | 10-11  | 12 |
 | 12     | 15 |
 
-## Naming Magic Training(50XP)
+## Naming Magic Training
 The first time you choose this, you gain access to Naming Spellcasting.
 <br><br>
 Roll on the table below.
@@ -361,7 +366,7 @@ Roll on the table below.
 | 2     | Consume materials to gain +5 to spell check |
 | 3     | Add a D6 to a spell check once per rest     |
 | 4-8   | +1 to naming spellcasting bonus             |
-| 9-10  | +2 to **CHA** or **WIS**                            |
+| 9-10  | +2 to **CHA** or **WIS** or +1 to both              |
 | 11    | Expend 1 **CON** to write down a spell you cast |
 | 12    | Create your own word at no cost             |
 ### Naming spellcasting
@@ -371,16 +376,16 @@ Roll on the table below.
 - Example: using the word "Fire" to create a heatless flame in your hand for 1 hour
 - If the D20 rolls a 1, the spell fails catastrophically
 
-## Skill Training(50XP)
+## Skill Training
 The first time you choose this, you gain access to skills.
 <br><br>
 Roll on the table below.
-| 2d6   | Effect                                   |
-|:------|:-----------------------------------------|
-| 2     | Learn a new language of your choice      |
-| 3-4   | Choose a skill. Its skill die becomes D12|
-| 5-9   | +2 to **INT**, **WIS**, or **CHA**                   |
-| 10-11 | Add a D6 to one skill check per rest     |
+| 2d6   | Effect                                       |
+|:------|:---------------------------------------------|
+| 2     | Learn a new language of your choice          |
+| 3-4   | Choose a skill. Its skill die becomes D12    |
+| 5-9   | +2 to **INT**, **WIS**, or **CHA** or +1 to 2            |
+| 10-11 | Add a D6 to one skill check per rest         |
 | 12    | Add a D6 to one **INT** check once per rest  |
 
 ### Skills
@@ -389,6 +394,7 @@ Roll on the table below.
 - You may add a skill die (D6) to ability checks which utilize this skill proficiency
 - You can have a number of skills equal to your **INT** mod(minimum 1)
 
+\page
 ### Examples of skills
 A skill encompasses one task or type of task, or domain of knowledge. You may define your own to attempt them. Below are some examples.
 |               |           |
@@ -401,3 +407,26 @@ A skill encompasses one task or type of task, or domain of knowledge. You may de
 | Grappling     | Singing   |
 | Deception     | History   |
 | Sneaking      | Arcana    |
+
+## Alchemy Training(50XP)
+The first time you choose this, you gain access to alchemy.
+<br><br>
+Roll on the table below.
+| 2d6   | Effect                                                   |
+|:------|:---------------------------------------------------------|
+| 2     | Brew D4 more flasks or 2d4 more vials of an ingredient   |
+| 3-4   | Add a D6 when identifying one sample per rest            |
+| 5-9   | +2 to **INT**                                            |
+| 10-11 | You may convert 8 identical flasks into a new ingredient |
+| 12    | You may use spell scrolls as ingredients                 |
+
+### Alchemy
+
+#### Identify ingredients
+- Identify up to one magical property of a sample with a DC 14 INT check
+- Can only make one attempt per each plant, corpse, or large object
+
+#### Brew potions
+- Can brew during a rest by succeeding a DC 14 INT check per ingredient
+- One ingredient to fill 16 vials or 8 flasks sharing its identified property
+- Combine 2 different vials to make a flask with a novel effect
