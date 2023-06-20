@@ -197,7 +197,7 @@ A new character starts with common clothes and 1d4 of the table below.
 | 11  | Club             |
 | 12  | Caltrops(one bag)|
 
-For creating stronger characters, character has 3d6 GP per every 2 perks.
+For creating stronger characters, character has 5d6 GP per every 2 perks.
 
 # World of Crucible
 
@@ -256,6 +256,8 @@ Roll on the table below.
 | 12    | No penalty on second or third unarmed attack      |
 
 ## Minor Weapon Training
+<img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/minor_weapons.jpg" style="width:300px;">
+
 With at least one level of training, you may do the following:
 - Substitute **DEX** for **STR** with bladed or sharp minor weapons
 - Throw minor weapons up to 6 paces
@@ -272,6 +274,7 @@ Roll on the table below.
 | 12    | Dual wield to roll damage twice and pick highest  |
 
 ## Ranged Weapon Training
+<img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/ranged_weapons.jpg" style="width:300px;">
 Roll on the table below.
 
 | 2d6   | Effect                                         |
@@ -294,7 +297,7 @@ Roll on the table below.
 | 9-10  | +2 to either **STR** or **CON**, or +1 to both            |
 | 11    | When wielding martial weapon two-handed, +1 AC    |
 | 12    | Free attack if a melee attack misses you by 5+    |
-
+\page
 ## Great Weapon Training
 Roll on the table below.
 
@@ -322,7 +325,7 @@ Roll on the table below and acquire one random spell scroll.
 | 12    | You may craft spell scrolls*               |
 Spell scrolls cost 5gp of materials, are single use, and use your INT score at time of crafting.
 
-\page
+
 ### Arcane Spellcasting
 - Expend 1 **CON** score to learn a spell from a book, scroll, or mentor
 - Cast each known spell once per rest
@@ -370,12 +373,14 @@ Roll on the table below.
 | 9-10  | +2 to **CHA** or **WIS** or +1 to both              |
 | 11    | Expend 1 **CON** to write down a spell you cast |
 | 12    | Create your own word at no cost             |
+\page
 ### Naming spellcasting
 - You may expend 2 **CON** score to learn a random magic word
 - Your number of words may not exceed your CHA mod
 - Describe a spell utilizing one or more word, keeper assigns the DC for a CHA check necessary to cast the spell
 - Example: using the word "Fire" to create a heatless flame in your hand for 1 hour
 - If the D20 rolls a 1, the spell fails catastrophically
+
 
 ## Skill Training
 The first time you choose this, you gain access to skills.
@@ -395,7 +400,6 @@ Roll on the table below.
 - You may add a skill die (D6) to ability checks which utilize this skill proficiency
 - You can have a number of skills equal to your **INT** mod(minimum 1)
 
-\page
 ### Examples of skills
 A skill encompasses one task or type of task, or domain of knowledge. You may define your own to attempt them. Below are some examples.
 |               |           |
