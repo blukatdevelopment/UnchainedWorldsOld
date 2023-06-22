@@ -312,6 +312,8 @@ Roll on the table below.
 | 12    | May reroll great weapon damage, using second roll |
 
 ## Arcane Magic Training
+<img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/arcane_magic.jpg" style="width:300px;">
+
 The first time you choose this, you gain access to arcane spellcasting.
 <br><br>
 Roll on the table below and acquire one random spell scroll.
@@ -349,6 +351,7 @@ Roll on the table below.
 
 ### Divine spellcasting
 - During a rest, you may pray to deity for a particular kind of spell using two words, which becomes the name of the spell
+\page
 - You roll 2d6 for power level, keeper creates spell to fit
 - When casting spell, you must make a **WIS** check against the spell's DC
 - If you fail the check, the spell becomes exhausted
@@ -364,7 +367,7 @@ Roll on the table below.
 | 10-11  | 12 |
 | 12     | 15 |
 
-\page
+
 ## Naming Magic Training
 The first time you choose this, you gain access to Naming Spellcasting.
 <br><br>
