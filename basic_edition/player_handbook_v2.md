@@ -333,9 +333,11 @@ Spell scrolls cost 5gp of materials, are single use, and use your INT score at t
 - Use **INT** checks for arcane magic
 
 ## Divine Magic Training(50XP)
+<img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/deities.jpg" style="width:300px;">
 The first time you choose this, you gain access to divine spellcasting.
 <br><br>
 Roll on the table below.
+
 | 2d6   | Effect                                                     |
 |:------|:-----------------------------------------------------------|
 | 2     | Gain a once per rest power from divine                     |
@@ -362,6 +364,7 @@ Roll on the table below.
 | 10-11  | 12 |
 | 12     | 15 |
 
+\page
 ## Naming Magic Training
 The first time you choose this, you gain access to Naming Spellcasting.
 <br><br>
@@ -374,7 +377,7 @@ Roll on the table below.
 | 9-10  | +2 to **CHA** or **WIS** or +1 to both              |
 | 11    | Expend 1 **CON** to write down a spell you cast |
 | 12    | Create your own word at no cost             |
-\page
+
 ### Naming spellcasting
 - You may expend 2 **CON** score to learn a random magic word
 - Your number of words may not exceed your CHA mod
@@ -387,6 +390,7 @@ Roll on the table below.
 The first time you choose this, you gain access to skills.
 <br><br>
 Roll on the table below.
+
 | 2d6   | Effect                                       |
 |:------|:---------------------------------------------|
 | 2     | Learn a new language of your choice          |
