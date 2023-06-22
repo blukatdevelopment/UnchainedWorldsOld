@@ -287,6 +287,7 @@ Roll on the table below.
 | 12    | Second attack with ranged has no penalty       |
 
 ## Martial Weapon Training
+<img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/martial_weapons.jpg" style="width:300px;">
 Roll on the table below.
 
 | 2d6   | Effect                                            |
