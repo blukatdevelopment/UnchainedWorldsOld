@@ -226,7 +226,7 @@ If you need some random spells, consult this table. It's highly encouraged to cr
 9. Tornado: A tornado forms at a point of your choice and lasts for one minute.
 10. Blizzard: A snowstorm rages and all flying creatures must succeed STR save at the start of their turn to stay flying.
 11. Dominate beast: You dominate the mind of one beast you can see, causing it to obey you for 1 minute.
-12. Overgrowth: You restore plant life to a 1 mile radius around you and advance the growth of any plants there.
+12. Overgrowth: You restore plant life to a 60ft radius around you and advance the growth of any plants there.
 13. Fly: For the next ten minutes, you can fly.
 14. Wall pass: You touch a wall that is less than 30ft thick and may pass through it.
 15. Disguise self: For the next hour, your appearance changes to become identical to a creature you have seen.
@@ -241,12 +241,12 @@ If you need some random spells, consult this table. It's highly encouraged to cr
 24. Sending: You send a creature you've met a message containing up to 25 words and they may respond in kind.
 25. Face melt: One target in sight succeeds a WIS save or takes 2d6 damage.
 26. Weak: One target in sight deals 1d4 less damage until they complete a rest or the caster dies.
-27. Shadow Blade: Form a blade with a +4 bonus to hit and deals 2d6 damage.
+27. Shadow Blade: Form a blade for an hour with a +4 bonus to hit and deals 2d6 damage.
 28. Green Flame: 5ft ube of flame forcing a DEX save to avoid 1d6 damage when inside.
 29. Thorns: Thorny tentacles erupt in three 5ft cubes within sight, dealing 1d4 damage to those that enter them.
 30. Ice Floor: A 20ft square on the ground becomes icy and forces DEX save to avoid slipping and falling prone.
 31. Noxious cloud: You create a cloud of green gas within sight that fits within a 20ft cube and forces creatures inside to succeed a CON save or take 1d6 at the start of their turn.
-32. Featherweight: You weigh 1 lb and may jump 20ft into the air from a standing position.
+32. Featherweight: You weigh 1 lb and may jump 20ft into the air from a standing position for one hour.
 33. Demonic Transformation: You turn into a demon for 1 minute and must succeed a DC16 WIS save or else remain a demon for one day.
 34. Shadow form: Your shadow separates from you, and takes its own turn in initiative using your ability scores and shadows of your equipment.
 35. Undead horde: You raise up to 12 corpses or bone piles into some mixture of zombies and skeletons, which each have 1HP and one action on their turn.
