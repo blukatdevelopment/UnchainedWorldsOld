@@ -336,7 +336,7 @@ Spell scrolls cost 5gp of materials, are single use, and use your INT score at t
 
 ## Divine Magic Training(50XP)
 <img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/deities.jpg" style="width:300px;">
-The first time you choose this, you gain access to divine spellcasting.
+The first time you choose this, you gain access to divine spellcasting and can prepare one divine spell. Each time you choose this, you can prepare one additional spell, but the total number of spells prepared can never exceed your WIS mod(minimum 1).
 <br><br>
 Roll on the table below.
 
@@ -357,7 +357,6 @@ Roll on the table below.
 - If you fail the check, the spell becomes exhausted
 - You can restore the spell by doing a request of the divine
 - You may replace a spell during a rest, provided it is not exhausted
-- Your number of spells may not exceed your **WIS** mod
 
 | Power  | DC |
 |:-------|:---|
