@@ -180,8 +180,15 @@ Armor requires a minimum **STR** or **DEX** to gain the benefits.
 - Regain HP equal to your **CON** mod (min 1)
 - Regain any once per rest abilities
 
+# Creating new commoners and adventurers
+
+## Commoners
+- Zero to hero vibes
+- Start with no perks
+- Have mundane backgrounds
+
 ### Starting gear
-A new character starts with common clothes and 1d4 of the table below.
+Commoners start with common clothes and D4 items from the table below
 | D12 | Gear             |
 |:----|:-----------------|
 | 1   | Torch            |
@@ -197,7 +204,16 @@ A new character starts with common clothes and 1d4 of the table below.
 | 11  | Club             |
 | 12  | Caltrops(one bag)|
 
-For creating stronger characters, character has 5d6 GP per every 2 perks.
+## Adventurers
+- Heroic fantasy vibes
+- Start with perks(table decides how many)
+
+### Starting gear
+- Gain 5d6 gold pieces for every 2 perks
+- Buy gear using this gold
+
+### Skills
+- No practice needed for skills when creating a new character
 
 # World of Crucible
 
@@ -214,7 +230,7 @@ For creating stronger characters, character has 5d6 GP per every 2 perks.
 | Metal Tongue  | Miners          |
 | Mercantile    | Merchants       |
 | Primordial    | Giants, farmers |
-
+\page
 ## Rare Languages
 | Language      | Who speaks it      |
 |:--------------|:-------------------|
@@ -238,9 +254,8 @@ For creating stronger characters, character has 5d6 GP per every 2 perks.
 
 # Advancement
 - As you earn perks, you may choose from the options below
-\page
 
-## Hand-to-hand Training
+## Hand-to-hand
 With at least one level of Hand-to-hand training, you gain the following benefits:
 - May substitute **DEX** for **STR** with unarmed attacks
 <br><br>
@@ -255,7 +270,7 @@ Roll on the table below.
 | 11    | A successful grapple deals unarmed damage         |
 | 12    | No penalty on second or third unarmed attack      |
 
-## Minor Weapon Training
+## Minor Weapons
 <img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/minor_weapons.jpg" style="width:300px;">
 
 With at least one level of training, you may do the following:
@@ -273,7 +288,7 @@ Roll on the table below.
 | 11    | Second attack with minor weapon has no penalty    |
 | 12    | Dual wield to roll damage twice and pick highest  |
 
-## Ranged Weapon Training
+## Ranged Weapons
 <img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/ranged_weapons.jpg" style="width:300px;">
 Roll on the table below.
 
@@ -285,8 +300,8 @@ Roll on the table below.
 | 9-10  | +2 to either **DEX** or **WIS**, or +1 to both         |
 | 11    | Add a D6 to ranged attack once per rest        |
 | 12    | Second attack with ranged has no penalty       |
-
-## Martial Weapon Training
+\page
+## Martial Weapons
 <img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/martial_weapons.jpg" style="width:300px;">
 Roll on the table below.
 
@@ -298,8 +313,8 @@ Roll on the table below.
 | 9-10  | +2 to either **STR** or **CON**, or +1 to both            |
 | 11    | When wielding martial weapon two-handed, +1 AC    |
 | 12    | Free attack if a melee attack misses you by 5+    |
-\page
-## Great Weapon Training
+
+## Great Weapons
 Roll on the table below.
 
 | 2d6   | Effect                                            |
@@ -311,7 +326,7 @@ Roll on the table below.
 | 11    | Once per rest, take half damage for D6 turns      |
 | 12    | May reroll great weapon damage, using second roll |
 
-## Arcane Magic Training
+## Arcane Magic
 <img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/arcane_magic.jpg" style="width:300px;">
 
 The first time you choose this, you gain access to arcane spellcasting.
@@ -333,8 +348,8 @@ Spell scrolls cost 5gp of materials, are single use, and use your INT score at t
 - Expend 1 **CON** score to learn a spell from a book, scroll, or mentor
 - Cast each known spell once per rest
 - Use **INT** checks for arcane magic
-
-## Divine Magic Training(50XP)
+\page
+## Divine Magic
 <img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/deities.jpg" style="width:300px;">
 The first time you choose this, you gain access to divine spellcasting and can prepare one divine spell. Each time you choose this, you can prepare one additional spell, but the total number of spells prepared can never exceed your WIS mod(minimum 1).
 <br><br>
@@ -351,7 +366,7 @@ Roll on the table below.
 
 ### Divine spellcasting
 - During a rest, you may pray to deity for a particular kind of spell using two words, which becomes the name of the spell
-\page
+
 - You roll 2d6 for power level, keeper creates spell to fit
 - When casting spell, you must make a **WIS** check against the spell's DC
 - If you fail the check, the spell becomes exhausted
@@ -367,7 +382,7 @@ Roll on the table below.
 | 12     | 15 |
 
 
-## Naming Magic Training
+## Naming Magic
 The first time you choose this, you gain access to Naming Spellcasting.
 <br><br>
 Roll on the table below.
@@ -388,34 +403,44 @@ Roll on the table below.
 - If the D20 rolls a 1, the spell fails catastrophically
 
 
-## Skill Training
-The first time you choose this, you gain access to skills.
+## Skills
+- You may learn one additional skill
+- Your maximum number of skills is either 1 or your INT mod
+
 <br><br>
 Roll on the table below.
 
 | 2d6   | Effect                                       |
 |:------|:---------------------------------------------|
 | 2     | Learn a new language of your choice          |
-| 3-4   | Choose a skill. Its skill die becomes D12    |
-| 5-9   | +2 to **INT**, **WIS**, or **CHA** or +1 to 2            |
-| 10-11 | Add a D6 to one skill check per rest         |
-| 12    | Add a D6 to one **INT** check once per rest  |
+| 3-5   | Add a D6 to one skill check per rest         |
+| 6-9   | Increase the size of one skill die           |
+| 10-11 | +2 to **INT**, **WIS**, or **CHA** or +1 to 2            | 
+| 12    | Gain a once/rest ability based on one skill  |
 
 ### Skills
-- You may practice a skill while making ability check
-- Rolling a 20 on the D20 when doing so grants you proficiency in this skill
-- You may add a skill die (D6) to ability checks which utilize this skill proficiency
+- You may practice a skill while making ability check by declaring it
+- Rolling a 20 on the D20 when practing gives you this skill
+- The skill die for a new skill starts at D4, but may grow(D4->D6->D8->D10->D12->D20)
 - You can have a number of skills equal to your **INT** mod(minimum 1)
-
+\page
 ### Examples of skills
-A skill encompasses one task or type of task, or domain of knowledge. You may define your own to attempt them. Below are some examples.
-|               |           |
-|:--------------|:----------|
-| Pickpocketing | Throwing  |
-| Intimidation  | Climbing  |
-| Lockpicking   | Tracking  |
-| Persuasion    | Jumping   |
-| Herbalism     | Insight   |
-| Grappling     | Singing   |
-| Deception     | History   |
-| Sneaking      | Arcana    |
+A skill encompasses one task or type of task, or domain of knowledge.  You may create your own and attempt them, but below are some examples that might meet your needs.
+- **Pickpocketing**: Taking items from someone without them noticing
+- **Lockpicking**: Disarming mechanical locks quietly and without leaving evidence
+- **Acrobatics**: Swinging from chandliers, rolling to avoid harm from a fall, running across a tight-rope, leaping great distances, etc
+- **Athletics**: Grappling, tripping, or throwing opponents, breaking doors down, climbing, etc
+- **Arcana**: Reading magic text, detecting a magical presence, identifying a magic item or spell in use, casting an altered form of an arcane spell(spell fails to cast and is expended upon failure)
+- **Crafting**: Creating, repairing, combining, and modifying items as well as harvesting crafting materials from corpses and objects
+- **Alchemy**: Brewing potions from alchemical ingredients(herbs, mushrooms, monster parts) and combining potions to make new effects
+- **Medicine**: Creating medicine from herbs, mushrooms, and monster parts to remove a harmful condition, restore hit points, or resussicate someone who just seemingly died
+- **Sneaking**: Moving quietly in the shadows and avoiding detection
+- **Tracking**: Identifying signs of nearby creatures, the age of tracks, and making calls, bait, or repellant for beasts and monsters
+- **Persuasion**: Appealing to a subject's self-interest, rationality, morality, or other traits tactfully in order to change their mind
+- **Deception**: Bluffing, exaggerating, implying untruths, denying truths, or otherwise fabricating details convincingly
+- **Intimidation**: Creating a threatening presence in order to gain undue influence over someone through fear, on or off the battlefield
+- **Performance**: Evoking feelings such as wonder, joy, rage, or sorrow through the use of dance, speech, musical instrument, or singing. Pick a specific kind of performance(such as singing) when you practice and gain this skill
+- **Insight**: Determining someone's general disposition, current mood, stress levels, and detecting deception
+- **Foraging**: Locating and identifying edible plants as well as plants containing medicinal or alchemical properties
+- **History**: Recalling the details of famous people, places, objects, or cultures through secondary sources such as conversing with others or reading texts
+- **Religion**: Recalling the lore of divines, undead, fiends, and other extra-planar beings, or sensing their presence
