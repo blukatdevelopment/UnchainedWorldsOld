@@ -1,4 +1,4 @@
-# Unchained Wolrds: Basic Edition 2e
+# Unchained Wolrds: Basic Edition
 
 ## Foreword
 - These rules are minimal
@@ -66,7 +66,7 @@ The keeper may ask you to make a check to succeed an attempted action or to resi
 |Size | Stack | Examples            |
 |:----|:------|:--------------------|
 |Large|     1 | Sword, rope, book   |
-|Small|     8 | Torch, ration       |
+|Small|     4 | Torch, ration       |
 |Tiny |    16 | Chalk, paper, ink   |
 |Coin |    64 | Gold, Silver, Copper|
 \page
@@ -75,7 +75,7 @@ The keeper may ask you to make a check to succeed an attempted action or to resi
 ## Initiative
 - Each side rolls a D6 and winner goes first
 - Reroll on tie
-- After both sides go, reroll
+- Optionally, reroll each round
 
 ### Actions In Initiative
 Using your action, you may perform many tasks. Some examples:
@@ -103,13 +103,12 @@ Using your action, you may perform many tasks. Some examples:
 
 ### Weapons
 
-| Class       |                   Weapon                   | Size   | Cost | DMG|
-|:------------|:-------------------------------------------|:-------|:-----|:---|
-|  Unarmed    | Fists, claws, feet, elbows                 |  --    |  --  | D2 |
-|  Minor      | Daggers, clubs, sickles, staves, spears    |  Small |  5GP | D4 |
-|  Ranged     | Bows, crossbows                            |  Large | 15GP | D6 |
-|  Martial    | Swords, axes, war hammers, maces           |  Large | 35GP | D6 |
-|  Great      | Greataxes, greatswords, lances, battleaxes |  Large | 50GP | D12|
+| Class  | Weapon     | GP | DMG| Size |
+|:-------|:-----------|:---|:---|:-----|
+| Minor  | Dagger     |  5 | D4 | Small|
+| Martial| Sword      | 35 | D6 | Large|
+| Ranged | Bow        | 15 | D6 | Large|
+| Great  | Greatsword | 50 | D12| Large|
 
 
 ### Coinage
@@ -166,13 +165,13 @@ Can carry 8 small items, or 16 tiny items, even if they aren't identical.
 ### Armor
 Armor requires a minimum **STR** or **DEX** to gain the benefits.
 
-| Armor  |   AC   | GP  | Requirements   |
-|:-------|:-------|:----|----------------|
-| None   | 10+**DEX** |  -- | --             |
-| Light  | 11+**DEX** |  10 | 12 **DEX**         |
-| Medium | 14     |  50 | 13 **STR** or **DEX**  |
-| Heavy  | 16     | 200 | 15 **STR**         |
-| Shield | +2     |  10 | 12 **STR** or **DEX**  |
+| Class  | Armor   |   AC   | GP  | Requirements   |
+|:-------|:--------|:-------|:----|----------------|
+| None   | --      | 10+**DEX** |  -- | --             |
+| Light  | Leather | 11+**DEX** |  10 | 12 **DEX**         |
+| Medium | Ringmail| 14     |  50 | 13 **STR** or **DEX**  |
+| Heavy  | Plate   | 16     | 200 | 15 **STR**         |
+| Shield | Buckler | +2     |  10 | 12 **STR** or **DEX**  |
 
 ### Rest
 - Takes 8 hours
@@ -206,7 +205,7 @@ Commoners start with common clothes and D4 items from the table below
 
 ## Adventurers
 - Heroic fantasy vibes
-- Start with perks(table decides how many)
+- Start with perks(players and keeper decide how many)
 
 ### Starting gear
 - Gain 5d6 gold pieces for every 2 perks
@@ -273,7 +272,8 @@ Roll on the table below.
 ## Minor Weapons
 <img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/minor_weapons.jpg" style="width:300px;">
 
-With at least one level of training, you may do the following:
+Improve with weapons like daggers, clubs, sickles, staves, spears, and other minor weapons.
+With this perk, you may now:
 - Substitute **DEX** for **STR** with bladed or sharp minor weapons
 - Throw minor weapons up to 6 paces
 <br><br>
@@ -290,7 +290,7 @@ Roll on the table below.
 
 ## Ranged Weapons
 <img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/ranged_weapons.jpg" style="width:300px;">
-Roll on the table below.
+Improve with weapons like bows and crossbows. Roll on the table below.
 
 | 2d6   | Effect                                         |
 |:------|:-----------------------------------------------|
@@ -303,7 +303,7 @@ Roll on the table below.
 \page
 ## Martial Weapons
 <img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/martial_weapons.jpg" style="width:300px;">
-Roll on the table below.
+Improve with weapons like swords, axes, war hammers, and maces. Roll on the table below.
 
 | 2d6   | Effect                                            |
 |:------|:--------------------------------------------------|
@@ -315,7 +315,7 @@ Roll on the table below.
 | 12    | Free attack if a melee attack misses you by 5+    |
 
 ## Great Weapons
-Roll on the table below.
+Improve with weapons like greataxes, greatswords, and greatclubs. Roll on the table below.
 
 | 2d6   | Effect                                            |
 |:------|:--------------------------------------------------|
@@ -328,10 +328,12 @@ Roll on the table below.
 
 ## Arcane Magic
 <img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/arcane_magic.jpg" style="width:300px;">
-
-The first time you choose this, you gain access to arcane spellcasting.
+- Expend 1 **CON** score to learn a spell from a book, scroll, or mentor 
+- Cast each known spell once per rest
+- Consume D4 HP using one action to regain one expended spell
+- Use **INT** checks for arcane magic
 <br><br>
-Roll on the table below and acquire one random spell scroll.
+Roll on the table below and learn one random spell.
 
 | 2d6   | Effect                                     |
 |:------|:-------------------------------------------|
@@ -341,13 +343,8 @@ Roll on the table below and acquire one random spell scroll.
 | 9-10  | +2 to **INT** or **CON** or +1 to both             |
 | 11    | Learn 3 random spells at no cost           |
 | 12    | You may craft spell scrolls*               |
-Spell scrolls cost 5gp of materials, are single use, and use your INT score at time of crafting.
+Spell scrolls cost 5gp of materials, are single use, and use your spellcasting modifier at time of crafting.
 
-
-### Arcane Spellcasting
-- Expend 1 **CON** score to learn a spell from a book, scroll, or mentor
-- Cast each known spell once per rest
-- Use **INT** checks for arcane magic
 \page
 ## Divine Magic
 <img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/deities.jpg" style="width:300px;">
@@ -368,19 +365,20 @@ Roll on the table below.
 - During a rest, you may pray to deity for a particular kind of spell using two words, which becomes the name of the spell
 
 - You roll 2d6 for power level, keeper creates spell to fit
-- When casting spell, you must make a **WIS** check against the spell's DC
+- When casting spell, you must make a **WIS** check against the spell's DC. Rolling a 1 on the D20 automatically fails
 - If you fail the check, the spell becomes exhausted
 - You can restore the spell by doing a request of the divine
 - You may replace a spell during a rest, provided it is not exhausted
 
-| Power  | DC |
-|:-------|:---|
-| 2      |  5 |
-| 3-6    |  8 |
-| 7-9    | 10 |
-| 10-11  | 12 |
-| 12     | 15 |
+| 2d6   | DC | Title   |
+|:------|:---|:--------|
+| 2     |  5 | Cantrip |
+| 3-6   |  8 | Weak    |
+| 7-9   | 10 | Average |
+| 10-11 | 12 | Strong  |
+| 12    | 15 | Expert  |
 
+For example, you may choose "healing word" and roll a 2, creating a "healing word cantrip" that requires a DC 5 spell check when casting. Or, you may choose "spiritual sword" and roll a 10, creating a "Strong healing word" that requires a DC 12 spell check to cast.
 
 ## Naming Magic
 The first time you choose this, you gain access to Naming Spellcasting.
@@ -392,37 +390,35 @@ Roll on the table below.
 | 3     | Add a D6 to a spell check once per rest     |
 | 4-8   | +1 to naming spellcasting bonus             |
 | 9-10  | +2 to **CHA** or **WIS** or +1 to both              |
-| 11    | Expend 1 **CON** to write down a spell you cast |
-| 12    | Create your own word at no cost             |
+| 11    | Expend 1 **CON** to record a spell you cast today |
+| 12    | Create your own name at no cost             |
 
 ### Naming spellcasting
-- You may expend 2 **CON** score to learn a random magic word
-- Your number of words may not exceed your CHA mod
-- Describe a spell utilizing one or more word, keeper assigns the DC for a CHA check necessary to cast the spell
-- Example: using the word "Fire" to create a heatless flame in your hand for 1 hour
+- You may expend 2 **CON** score to learn a random magic name
+- Your number of names may not exceed your CHA mod
+- Describe a spell utilizing one or more name, keeper assigns the DC for a CHA check necessary to cast the spell
+- Example: using the name "Fire" to create a heatless flame in your hand for 1 hour
 - If the D20 rolls a 1, the spell fails catastrophically
 
 
 ## Skills
-- You may learn one additional skill
+- You may practice and learn one additional skill
 - Your maximum number of skills is either 1 or your INT mod
 
 <br><br>
 Roll on the table below.
+- You may practice a skill while making ability check by declaring it
+- Rolling a 20 on the D20 when practing gives you this skill
+- The skill die for a new skill starts at D4, but may grow(D4->D6->D8->D10->D12->D20)
 
 | 2d6   | Effect                                       |
 |:------|:---------------------------------------------|
 | 2     | Learn a new language of your choice          |
-| 3-5   | Add a D6 to one skill check per rest         |
+| 3-5   | +2 to **INT**, **WIS**, or **CHA** or +1 to 2            |
 | 6-9   | Increase the size of one skill die           |
-| 10-11 | +2 to **INT**, **WIS**, or **CHA** or +1 to 2            | 
+| 10-11 | Roll max value of skill die once per rest    |
 | 12    | Gain a once/rest ability based on one skill  |
 
-### Skills
-- You may practice a skill while making ability check by declaring it
-- Rolling a 20 on the D20 when practing gives you this skill
-- The skill die for a new skill starts at D4, but may grow(D4->D6->D8->D10->D12->D20)
-- You can have a number of skills equal to your **INT** mod(minimum 1)
 \page
 ### Examples of skills
 A skill encompasses one task or type of task, or domain of knowledge.  You may create your own and attempt them, but below are some examples that might meet your needs.
@@ -432,7 +428,7 @@ A skill encompasses one task or type of task, or domain of knowledge.  You may c
 - **Athletics**: Grappling, tripping, or throwing opponents, breaking doors down, climbing, etc
 - **Arcana**: Reading magic text, detecting a magical presence, identifying a magic item or spell in use, casting an altered form of an arcane spell(spell fails to cast and is expended upon failure)
 - **Crafting**: Creating, repairing, combining, and modifying items as well as harvesting crafting materials from corpses and objects
-- **Alchemy**: Brewing potions from alchemical ingredients(herbs, mushrooms, monster parts) and combining potions to make new effects
+- **Alchemy**: Brewing tinctures from alchemical ingredients(herbs, mushrooms, monster parts) and combining tinctures to make potions with new effects
 - **Medicine**: Creating medicine from herbs, mushrooms, and monster parts to remove a harmful condition, restore hit points, or resussicate someone who just seemingly died
 - **Sneaking**: Moving quietly in the shadows and avoiding detection
 - **Tracking**: Identifying signs of nearby creatures, the age of tracks, and making calls, bait, or repellant for beasts and monsters

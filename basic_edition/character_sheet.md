@@ -18,7 +18,7 @@ Inventory: 8 Slots
 3. 8 Incense Cubes
 4. 16 Torches
 5. waterskin
-6. 
+6. Dagger -1 D4
 7.
 8. Backpack:
     - 15 GP
@@ -31,6 +31,19 @@ Divine Spells(Friff): spellcasting +8, spell DC 16
 - Enduring Smite(DC10): Touch melee weapon and the first hit from it within the next minute deals D6 extra damage.
 - Detect Evil(DC10): Evil creatures(undead, fiends) within 6 paces show as aura for D6 turns.
 - Resist Evil(DC10): Touch creature and it takes D6 less damage from the next evil(undead, fiend) creature's attack against it in the next minute.
+
+```
+# Rodbot macros. Modify, then run these to set up your character sheet
+.clearrolls # Clears all existing macros
+.saveroll str 1d20-3 # Strength
+.saveroll dex 1d20-2 # Dexterity
+.saveroll con 1d20+0 # Constitution
+.saveroll int 1d20+1 # Intelligence
+.saveroll wis 1d20+2 # Wisdom
+.saveroll cha 1d20+3 # Charisma
+.saveroll dagger 1d20-1 #to hit; 2d4kh1 # damage
+.saveroll divine 1d20+3 #Spellcast roll; 12 # Spell DC
+```
 
 ## Blank
 
