@@ -288,7 +288,7 @@ If you need some random spells, consult this table. It's highly encouraged to cr
 35. Undead horde: You raise up to 12 corpses or bone piles into some mixture of zombies and skeletons, which each have 1HP and one action on their turn.
 36. Shadow raven: An enormous shadow raven appears and one creature you can see must succeed a WIS save to prevent it from replacing their soul and turning them into a shadow creature.
 37. Eldritch blast: Crackling black energy bursts from your hand as you make a ranged spell attack which deals 1d12 damage.
-38. Black tentacles: A portal opens and tentacles reachout to a target, who must succeed a STR save or take 1d6 damage as they are grappled.
+38. Black tentacles: A portal opens and tentacles reach out to a target, who must succeed a STR save or take 1d6 damage as they are grappled.
 39. Demon Swarm: A portal opens and 1d4+1 demons step out, loyal to no one.
 40. Silence: Every creature in sight makes a WIS save or becomes mute for the next minute.
 41. Duplicate Spell: When you prepare this spell, it has the effect of another spell you know or possess in written form.
@@ -560,14 +560,6 @@ Here's some examples of tasks under each difficulty
 - Legendary: Knocking a larger creature prone
 If contested, let the DC be a STR check from the opponent.
 
-- Trivial: 
-- Easy: 
-- Average: 
-- Adept: 
-- Advanced: 
-- Expert: 
-- Legendary: 
-
 ### Arcana
 When recalling lore, base the difficulty on how common or accessible the knowledge is:
 - Trivial: Exists in nursery rhymes or cautionary tales
@@ -716,4 +708,3 @@ The same as recalling facts for Arcana.
 
 ### Religion
 The same as recalling facts for Arcana.
-
