@@ -1,5 +1,49 @@
 # Monster Guide
 
+## Bandits
+```
+Bandit, HP: 10, AC: 13(leather) [14, 14, 10, 10, 10, 10]
+Unarmed +2 D2
+Rusty Sword +2 D6
+Shabby Bow +2 D6
+Loot: 3d4 SP
+```
+
+```
+Bandit Captain, HP: 15, AC: 11(leather) [16, 10, 15, 10, 12, 13]
+Unarmed +5 D2
+Rusty Scimitar +5 D6
+Crossbow +2 D8: 2 actions to reload
+Loot: 3d4 GP
+```
+### Lore
+Bandits live on the outskirts of civilization, using the monster-ridden wilds and ruins therein to protect against scouts and search parties. Bandits attack travelers, generally charging little or nothing from the peasantry. Bandit hideouts often serve as a hub for black market commerce and a safe haven for criminals and persecuted individuals alike.
+
+### Variations
+#### Street gang
+Oversee racketeering, robberies, dealing black market items 
+
+| D6 | Racket     | Black Market | Defense         |
+|:---|:-----------|:-------------|:----------------|
+|  1 | Salt       | Moon Dust    | Powerful leader |
+|  2 | Water      | Moon Grass   | Thug army       |
+|  3 | Meat       | Weapons      | Special weapons |
+|  4 | Metal      | Magic        | Bribery         |
+|  5 | Protection | Assassins    | Terror          |
+|  6 | Laundering | Fences       | Infiltration    |
+
+#### Crime Haven
+Den of smugglers and other opportunists
+#### Suppliers
+Grow, manufacture, or collect black market goods
+#### Highwaymen
+Rob caravans, charge illegal tolls
+#### Warlord
+Collect taxes and tribute, recruit army
+#### Rebels
+Groups organized to resist the current rulets
+
+
 ## Humanoids
 
 ### Stat Block
