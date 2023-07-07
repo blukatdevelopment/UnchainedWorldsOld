@@ -12,7 +12,7 @@ Loot: 3d4 SP
 ```
 Bandit Captain, HP: 15, AC: 11(leather) [16, 10, 15, 10, 12, 13]
 Unarmed +5 D2
-Rusty Scimitar +5 D6
+Dual Rusty Scimitars +5 2d6kh1
 Crossbow +2 D8: 2 actions to reload
 Loot: 3d4 GP
 ```
@@ -20,8 +20,17 @@ Loot: 3d4 GP
 Bandits live on the outskirts of civilization, using the monster-ridden wilds and ruins therein to protect against scouts and search parties. Bandits attack travelers, generally charging little or nothing from the peasantry. Bandit hideouts often serve as a hub for black market commerce and a safe haven for criminals and persecuted individuals alike.
 
 ### Variations
-#### Street gang
-Oversee racketeering, robberies, dealing black market items 
+Roll for a type of bandit group. You may roll multiple and decide whether they ignore one another, compete for a market or resource, or otherwise cooperate.
+1. Street Gang
+2. Crime Haven
+3. Suppliers
+4. Highwaymen
+5. Warlord
+6. Rebels
+
+#### Street Gang
+Oversee racketeering, robberies, dealing black market items. Street gangs with active resistance from the law are likely to rely on easily concealed or improvized weapons such as daggers, clubs, and hand crossbows, and are less likely to wear armor or uniforms. Street gangs who have competition tend to wear common colors to 
+Roll 3d6 for table below to create a street gang.
 
 | D6 | Racket     | Black Market | Defense         |
 |:---|:-----------|:-------------|:----------------|
@@ -33,16 +42,56 @@ Oversee racketeering, robberies, dealing black market items
 |  6 | Laundering | Fences       | Infiltration    |
 
 #### Crime Haven
-Den of smugglers and other opportunists
+Den of smugglers, crime bosses, asylum-seekers, and opportunists. Havens generally act to connect one or more other groups of bandits. Bandits in crime havens are extremely likely to employ ostentatious and illegal weapons or armor in plain sight without fear of legal recourse. Those not affiliated with the owner are sometimes disarmed at the door when doing business to prevent bloodshed over disagreements.
+Roll 3d6 for table below to create a crime haven.
+
+| D6 | Owner              | Workers            | Building
+|:---|:-------------------|:-------------------|:---------------|
+|  1 | Crime boss         | Thugs              | Keep           |
+|  2 | Corrupt Merchant   | Street urchins     | Walled village |
+|  3 | Cult leader        | Religious refugees | Temple         |
+|  4 | Mercenaries        | Escaped convicts   | Camp           |
+|  5 | Monster            | Adventurers        | Cave network   |
+|  6 | Bounty Hunters     | Corrupted          | Island         |
+
 #### Suppliers
 Grow, manufacture, or collect black market goods
+Roll 3d6 for table below to create a group of suppliers.
+
+| D6 | Good           | Defense     | Workers   |
+|:---|:---------------|:------------|:----------|
+|  1 | Moon Dust      | Monsters    | Peasants  |
+|  2 | Moon Grass     | Traps       | Thugs     |
+|  3 | Weapons        | Remote      | Monsters  |
+|  4 | Organs         | Cultists    | Corrupted |
+|  5 | Counterfeits   | Disguise    | Cultists  |
+|  6 | Mercenaries    | Mercenaries | Orphans   |
+
 #### Highwaymen
-Rob caravans, charge illegal tolls
+Rob caravans, charge illegal tolls.
+Roll 3d4 for table below to create a group of highwaymen.
+
+| D6 | Leader     | Workers        | Strength  |
+|:---|:-----------|:---------------|:----------|
+|  1 | Monster    | Corrupt guards | Numbers   |
+|  2 | General    | Veterans       | Training  |
+|  3 | Peasant    | Peasants       | Magic     |
+|  4 | Crime boss | Corrupted      | Gear      |
+
 #### Warlord
 Collect taxes and tribute, recruit army
-#### Rebels
-Groups organized to resist the current rulets
 
+#### Rebels
+Groups organized to resist the current rulers.
+
+| D6 | Leader           | Agenda
+|:---|:-----------------|:--------------|
+|  1 | Religious Figure | Meet demands  |
+|  2 | Commoner         | Depose rulers |
+|  3 | Aristocrat       | Revolution    |
+|  4 | General          | 
+|  5 | Anonymous Figure |
+|  6 | 
 
 ## Humanoids
 
