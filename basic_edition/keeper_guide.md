@@ -7,16 +7,6 @@ Instead, these are intended to help if you aren't sure where to start with makin
 # Gear
 The weapons and armor tables in the player handbook are skeletal to keep character creation basic. If that's what you want, ignore the rest of this section. If you want players to discover a greater variety of weapons in the world, use these rules.
 
-Offer this table
-
-| Class       |                   Weapon               | Size   | Cost | DMG|
-|:------------|:---------------------------------------|:-------|:-----|:---|
-|  Unarmed    | Fists, claws, feet, elbows             |  --    |  --  | D2 |
-|  Minor      | Daggers, clubs, sickles, staves, spears|  Small |  5GP | D4 |
-|  Ranged     | Bows, crossbows                        |  Large | 15GP | D6 |
-|  Martial    | Swords, axes, war hammers, maces       |  Large | 35GP | D6 |
-|  Great      | Greataxes, greatswords, lances         |  Large | 50GP | D12|
-
 ## Gear properties
 These are tags that modify a weapon or armor's stats and effect trade value. These can stack with weapon and armor variants.
 
@@ -43,13 +33,13 @@ Deals -1 damage on melee attacks(minimum 1). Suggested price: 5SP
 
 ### Ranged Weapons
 #### Crossbow
-Deals D8 damage. Takes 2 actions to reload. Suggested price: 30gp.
+Deals D12 damage. Takes 2 actions to reload. Suggested price: 30gp.
 
 #### Blowdart
-30ft range, deals 1 damage, silent, ammo can be poisoned.
+30ft range, deals 1 damage, silent, ammo can be poisoned. Suggested price: 5GP
 
 #### Slingshot/Sling
-30ft range, deals D2 damage. Can use tiny objects as ammo.
+30ft range, deals D2 damage. Can use tiny objects as ammo. Suggested Price: 2GP
 
 #### Bola
 15ft range. D4 damage. Binds ankles on hit. 2 actions to remove.
@@ -93,18 +83,18 @@ Note: +1 means a +1 bonus to attack and damage rolls.
 3. Spell book: Roll D6 random spells. You may tear out a spell to create a spell scroll.
 4. Magic wand: You have a +2 bonus to spellcasting, and your spells deal an additional 2 damage.
 5. Spell eater: When the wearer is targeted with a spell, this ring consumes the spell. D6 chance it breaks after consuming a spell.
-6. Pride silk: armor that doesn't require proficiency and gants an AC of 11+DEX.
-7. Spined armor: Heavy armor that deals 1d2 damage to any creature that attacks it within 1 pace.
-8. Circlet of Ice Armor: While wearing this amulet, you can pour a gallon of water onto yourself and it forms into icy heavy armor. Fire damage is halved, and the armor melts after taking 10 fire damage.
+6. Pride silk: armor that grants 11+DEX with no STR or DEX requirement.
+7. Spined Cuirass: Medium armor that deals 1d2 damage to any creature that attacks it within 5ft.
+8. Circlet of Ice Armor: While wearing this amulet, you can pour a gallon of water onto yourself and it forms into icy heavy armor. Fire damage is halved, and the armor melts after taking 10 fire damage or 1 hour in warm weather.
 9. Mythril armor: Light armor, grants an AC of 12+DEX 
 10. Dragon scale: Medium armor, grants a +5 bonus to spell saving throws.
 11. Power gauntlets: Confers a +1 bonus to attack and damage rolls with unarmed attacks.
 12. Magic boomerang: +1 Minor weapon that always returns to the thrower's hand.
 13. Lesser Magic Sword: +1 Martial weapon containing the soul of a warrior.
 14. Light bow: +1 Bow. Deals double damage to the undead.
-15. Thunder hammer: +1 Great weapon that sends targets flying backward 3 paces upon a successful hit.
+15. Thunder hammer: +1 Great weapon that sends targets flying backward 15 paces upon a successful hit.
 16. Instant boulder: This pellet has a button on it. If pressed, the pellet turns into a 2000lb boulder in 6 seconds.
-17. Magic Doorknob: Insert into a wall up to 1ft thick to create a door.
+17. Magic Doorknob: Insert into a wall up to 5ft thick to create a door.
 18. Pair of sending stones: Can exchange one 25 word message each way once per day.
 19. Immovable rod: Pressing a button on this rod causes it to remain stationary.
 20. Robe of patches: Has 5d4 patches. You may store an object as a design on a patch. Ripping the patch off summons the object and destroys the patch.
@@ -115,52 +105,52 @@ Note: +1 means a +1 bonus to attack and damage rolls.
 25. Flask of Arcane Adhesive: Dries in a minute and can hold nearly a ton.
 26. Radiant blade: +1 Martial weapon containing the soul of a priest. Deals double damage to the undead, demons, and devils.
 27. Soul Eater: +1 Martial weapon containing the soul of a devil. This sword deals double damage to humanoids.
-28. Rust blade: +1 Martial weapon that causes metal to rust. Each hit subtracts 1 AC from an enemy's metal armor.
+28. Rust blade: Martial weapon that deals 1 damage, instantly turns target's metal armor and weapons to rust powder on hit.
 29. Assassin's friend: +1 Minor weapon. This dagger oozes poison, and deals D4 extra damage. 
-30. 
-31. 
-32. 
-33. 
-34. 
-35. 
-36. 
-37. 
-38. 
-39. 
-40. 
-41. 
-42. 
-43. 
-44. 
-45. 
-46. 
-47. 
-48. 
-49. 
-50. 
-51. 
-52. 
-53. 
-54. 
-55. 
-56. 
-57. 
-58. 
-59. 
-60. 
-61. 
-62. 
-63. 
-64. 
-65. 
-66. 
-67. 
-68. 
-69. 
-70. 
-71. 
-72. 
-73. 
+30. Ritual Dagger of fortitude: +1 minor weapon. Damage dealt from this weapon builds in a pool with a maximum of 10HP. This HP is subtracted before your regular HP when taking damage.
+31. Ritual Dagger of Spellcasting: +1 minor weapon. Once per rest, you may wet this dagger with fresh blood in order to regain one expended spell.
+32. Ritual Dagger of Vampirism: +1 minor weapon. The wielder is healed 1HP for every 2 damage this dagger does in a given attack.
+33. Titan Heart: When you wear this pendant around your neck, your CON is 18.
+34. Green flame lantern: This hooded lantern's flame turns green when within 100ft of undead.
+35. Red flame lantern: This hooded lantern's flame turns crimson when within 100ft of a demon or devil.
+36. Blue flame lantern: This hooded lanter's flame turns sky blue when within 100ft of an invisible creature.
+37. Spell Sword: This sword contains the soul of a mage with three random spells. You may cast one of them per rest. Magic from the sword has a +4 spell modifier and a DC 12 spell DC.
+38. Fey Lute: This instrument was crafted by the fey. When holding it, one may use naming magic with the names Forget, Speak, and Listen. Magic from the lute has a +4 spell modifier and a DC 12 spell DC.
+39. Loyal Dove's Cage: When attuned with a drop of blood, this bird cage produces a dove each dawn. The flock of doves obeys the commands of the attuned.
+40. Magical Ant Farm: This glass box contains magical ants which will dutifully grow one fungus provided to them, resulting in one mushroom of that kind per dawn.
+41. Gold Scarab: When attuned with a drop of blood, this solid gold scarab becomes loyal. The attuned may issue commands of "wake" to animate the scarab, "sleep" to turn it inanimate, and "return" to cause it to return to the attuned. The scarab does not need to hear the commands.
+42. Giant miniature box: When this giant 10ft cubic box is closed, it and all its contents shrink down to fit within a 1 inch cube. When the miniature box is opened, it grows back to its 10ft form along with its contents.
+43. Auto crossbow: This crossbow deals D12 damage and requires one minute to reload after expending its 5 bolts.
+44. Dagger of reposition: +1 minor weapon. Upon hitting an enemy with melee or thrown attack, the wielder and target swap places and the blade returns to the wielder's hand.
+45. Box of spectral caltrops: The wielder attunes with a drop of blood and may then open this box to pour out up to 1000 caltrops with 2-inch spikes. This cannot be done again until the attuned completes a rest.
+46. Serpent's Blood Bank: This pendant has two snakeheads, one black and one red. One may put their finger in the red snake's mouth to sacrifice D10 HP and store half as much. The blood bank can store up to 20HP this way. Putting one's finger in the black snake's mouth heals the entire amount, spitting any excess blood out.
+47. Thief's lamp: This magic lamp casts 5ft of red light in one direction and is powered by the heat of the wielder's body.
+48. Thrice-tough glass: This 5ft square of transparent glass is shattered by a physical attack dealing 20 or more damage and cracks under 2 tons of weight.
+49. Tuning fork: Tapping a creature with the fork attunes it to them. The fork will gently point in the direction of the attuned creature, if they are alive.
+50. Endless coil: When one begins unwinding this coil of rope, they will never finish. Any length cut off from the coil vanishes.
+51. Instant Dinosaurs: Box of 2d4 pellets. Exposing each pellet to water causes it to turn it into one of the following at random: tyrranosaurus rex, Triceratops, liopleurodon or brachiosaurus.
+52. Titan Claws: Unarmed attacks deal D2 more damage.
+53. Portal wand: May create one orange portal and one blue portal on a flat 5ft square surface within 30ft of the wielder. The portals connect to one another.
+54. Moon Glaive: +1 martial weapon. 10ft range. When exposed to moonlight, the glaive glows silver and deals an additional D6 damage.
+55. Lycan's Woe: +1 silvered sword. Deals 2d6 extra damage to werewolves.
+56. Extending rod: This quarterstaff(minor weapon) may extend up to 15ft long, which may be used to extend the melee range to 15ft.
+57. Hell Steel Claymore: Great weapon, searing red. The first hit from this blade deals D12 extra damage as the blade flares up, but the blade cools for 1 minute after.
+58. Soul Steel Dagger: +1 dagger. There is a D2 chance spells targeting you hit the dagger instead, charging it. If the dagger is already charged, you instead take D4 damage. A successful attack discharges the dagger, dealing D4 extra damage.
+59. Obsidian Greatsword: Critical hits occur on a 19 as well as 20 with this blade.
+60. Black Steel Sword: Deals maximum damage on a hit. Dissolves into sand in an anti-magic field.
+61. Merciful Hammer: Wooden warhammer. Attacks leave creatures at 1HP unconscious when the weapon would otherwise reduce them to 0HP and kill them.
+62. Greatsword of Wrath: One attunes by swearing an oath of vengeance and offering one's soul to the blade. One may see and hear visions of the former wielders whose souls live in this blade. Becomes a +1 sword after killing 10 evil creatures with the blade, +2 after 30, and +3 after 60. Once per rest, the wielder may use two actions to heal 2d6 HP from the blade.
+63. Spear of Justice: +1 minor weapon. Killing an evil creature with this spear accumulates 1 point of justice within the tip, up to a maximum of 7 points. When the wielder hits with this spear, they may expend all the tip's justice, dealing D4 for each point of justice.
+64. Maskar's Armor: Heavy armor with 17 AC. The visor remains wet with a perpetual supply of dripping fresh blood.
+65. Ring of Shadow Jump: The wearer may use their action to teleport up to 60ft away to an area that is not directly lit, such as the shadow of a building.
+66. Seeker Pipe: The smoke from this pipe forms into tiny dragons. If the wielder speaks the name of a person they've met before, the tiny dragons will float in that person's direction.
+67. Bag of holding: This bag connects to a 5ft cubic pocket dimension that counts as 20 slots of inventory space.
+68. Circlet of Celestial Flight: One who wields magic from a deity may pray to that deity to attune to this circlet. While wearing it, the attuned grows angel wings that allow them flight.
+69. Circlet of Celestial Healing: One who wields magic from a deity may pray to that deity to attune to this circlet. While wearing it, any magical healing from the wielder heals an additional 2HP.
+70. Feather of Strength: When one plunges the tip of this feather into their skin, it steals 1 HP from them and grants them 20STR for the next minute.
+71. Stilt Shoes: One may speak the command word to extend these shoes to 10ft tall, or to return them to normal height.
+72. Rug of Slipping: This animated rug can be laid out as a trap. If a creature steps on it, the rug slips out from under the creature, forcing a DC16 DEX save to not fall prone.
+73. Mirror of Emotional Revelation: This mirror reflects a person's face with the expression of their inner emotions, and reflects the face of invisible creatures.
 74. 
 75. 
 76. 

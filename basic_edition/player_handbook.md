@@ -262,7 +262,7 @@ Roll on the table below.
 
 | 2d6   | Effect                                            |
 |:------|:--------------------------------------------------|
-| 2     | Unarmed attacks on grappled target deal D6 damage |
+| 2     | Unarmed attacks deal D2 more damage               |
 | 3     | Add D6 to AC(lasts 1 round) per rest              |
 | 4-7   | +1 to unarmed attacks                             |
 | 8-10  | +2 to either **STR**, **DEX**, or **CON**, or +1 to two       |
