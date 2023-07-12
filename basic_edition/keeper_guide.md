@@ -241,103 +241,103 @@ There are a few types of duration that can be useful:
 ## Spells
 If you need some random spells, consult this table. It's highly encouraged to create or customize your own, however.
 
-1. Flame hand: 15 foot cone of flame erupts from your hand and effected creatures make a DEX save to halve 2d6 damage.
-2. Lightning hand: Melee spell attack, 2d8 damage.
-3. Wind hand: Creatures in a 30ft cone must succeed a STR save or be pushed 15 feet and taking 1d6 damage if they collide with anything.
-4. Cloud of insects: Bugs descend on one target within 3 paces, who take 1d4 damage until they use two actions to remove the bugs.
-5. Wildshape: Turn into an animal of your choice(must have touched the animal once) until you dismiss this spell or fall to 0 hit points, reverting to your previous hit points.
-6. Moon beam: A 30ft diameter circle is lit by the moon for the next minute, dealing 3d4 damage to any creature inside.
+1. Flame hand: 15 foot cone of flame erupts from your hand and forces DEX save to halve 3d6 damage.
+2. Lightning hand: Melee spell attack, 4d6 damage.
+3. Wind hand: Creatures in a 30ft cone make STR save or get pushed 15 ft and take 1d6 damage if they collide with anything.
+4. Cloud of insects: Bugs descend on one target within 3 paces, who take D6 damage until they use two actions to remove the bugs.
+5. Wildshape: Turn into a type of animal you've previously touched until you dismiss this spell or fall to 0 hit points, reverting to your pre-wildshape hit points.
+6. Moon beam: A 30ft diameter circle is lit by the moon for the next minute, dealing 3d6 damage to any creature inside.
 7. Summon weasels: A swarm of 2d4 weasels appear to follow your orders for the next hour, each having 1HP.
 8. Command weather: You cause the weather to be clear, thunderstorm, snowstorm, or have strong winds.
-9. Tornado: A tornado forms at a point of your choice and lasts for one minute.
-10. Blizzard: A snowstorm rages and all flying creatures must succeed STR save at the start of their turn to stay flying.
-11. Dominate beast: You dominate the mind of one beast you can see, causing it to obey you for 1 minute.
-12. Overgrowth: You restore plant life to a 60ft radius around you and advance the growth of any plants there.
-13. Fly: For the next ten minutes, you can fly.
-14. Wall pass: You touch a wall that is less than 30ft thick and may pass through it.
+9. Vortex: A powerful whirlwind forms at a point of your choice and lasts for one minute.
+10. Blizzard: A snowstorm rages and all flying creatures must succeed STR save each turn to avoid plummeting to the ground.
+11. Dominate beast: You dominate the mind of one beast you can see, causing it to obey you for 1 hour.
+12. Overgrowth: Any living seeds or nuts in a 60ft radius instantly grow into mature plants.
+13. Fly: For the next ten minutes, you can fly up to 30ft per action.
+14. Wall pass: You touch a wall that is less than 30ft thick and may pass through it as if walking through water.
 15. Disguise self: For the next hour, your appearance changes to become identical to a creature you have seen.
 16. Memory wipe: You touch a creature and they lose all recollection of the last minute.
 17. Aid: One target's HP and max HP raise by 5 until they complete a rest.
 18. Shadow horse: You conjure a horse made of shadow to ride for the next 24 hours.
 19. Tome to speech: Any number of books you can see grow mouths and read their entire contents in a language of choice that you understand.
 20. Awaken: You touch a beast and grant it sentience until you cast this spell again.
-21. Cure wounds: You touch a creature and they heal 2d4 hit points.
-22. Healing Word: You speak a command word to heal a creature than can hear you for 3d2 hit points.
-23. Guidance: You lend guidance to creatures of your choice that can hear you, granting a 1d4 bonus on ability checks.
-24. Sending: You send a creature you've met a message containing up to 25 words and they may respond in kind.
-25. Face melt: One target in sight succeeds a WIS save or takes 2d6 damage.
-26. Weak: One target in sight deals 1d4 less damage until they complete a rest or the caster dies.
+21. Cure wounds: You touch a creature and they heal D10 hit points.
+22. Healing Word: You speak a command word to heal a creature than can hear you for D6 hit points.
+23. Guidance: One creature that can hear you has a D4 bonus on ability and skill checks for the next minute.
+24. Sending: You send a creature you've met a telepathic message containing up to 25 words and they may respond in kind.
+25. Face melt: One target in sight succeeds a WIS save or takes 3d12 damage.
+26. Weak: One target in sight deals 2d4 less damage until they complete a rest or the caster dies.
 27. Shadow Blade: Form a blade for an hour with a +4 bonus to hit and deals 2d6 damage.
-28. Green Flame: 5ft ube of flame forcing a DEX save to avoid 1d6 damage when inside.
-29. Thorns: Thorny tentacles erupt in three 5ft cubes within sight, dealing 1d4 damage to those that enter them.
+28. Green Flame: Create a 5ft cube of flame which forces a DEX save to halve 2d6 damage for creatures inside.
+29. Thorns: Thorny tentacles erupt in three 5ft cubes within sight, lashing creatures adjacent to them to deal D4 damage per turn.
 30. Ice Floor: A 20ft square on the ground becomes icy and forces DEX save to avoid slipping and falling prone.
-31. Noxious cloud: You create a cloud of green gas within sight that fits within a 20ft cube and forces creatures inside to succeed a CON save or take 1d6 at the start of their turn.
-32. Featherweight: You weigh 1 lb and may jump 20ft into the air from a standing position for one hour.
-33. Demonic Transformation: You turn into a demon for 1 minute and must succeed a DC16 WIS save or else remain a demon for one day.
-34. Shadow form: Your shadow separates from you, and takes its own turn in initiative using your ability scores and shadows of your equipment.
+31. Noxious cloud: You create a cloud of green gas within sight that fits within a 20ft cube which forces a CON save to prevent D6 damage at the start of the effected creature's turn.
+32. Featherweight: You may jump 20ft vertically and safely float to the ground when falling from any height for the next hour.
+33. Demonic Transformation: You transform into a demon(Stats decided when you learn this spell) and may make a DC15 spell check to revert once per hour.
+34. Shadow form: For the next hour, your shadow separates from you and takes its own turn in initiative using your ability scores and shadows of your equipment.
 35. Undead horde: You raise up to 12 corpses or bone piles into some mixture of zombies and skeletons, which each have 1HP and one action on their turn.
-36. Shadow raven: An enormous shadow raven appears and one creature you can see must succeed a WIS save to prevent it from replacing their soul and turning them into a shadow creature.
-37. Eldritch blast: Crackling black energy bursts from your hand as you make a ranged spell attack which deals 1d12 damage.
-38. Black tentacles: A portal opens and tentacles reach out to a target, who must succeed a STR save or take 1d6 damage as they are grappled.
+36. Shadow raven: An enormous shadow raven appears before one creature who must succeed a WIS save to prevent it from replacing their soul and transforming them into a shadow creature.
+37. Eldritch blast: Crackling black energy bursts from your hand as you make a ranged spell attack which deals 4d6 damage.
+38. Black tentacles: A portal opens until the start of your next turn and black tentacles emerge to force all creatures within 10ft to make a STR save against being dragged into the portal and taking 2d6 damage until they succeed again to escape.
 39. Demon Swarm: A portal opens and 1d4+1 demons step out, loyal to no one.
-40. Silence: Every creature in sight makes a WIS save or becomes mute for the next minute.
-41. Duplicate Spell: When you prepare this spell, it has the effect of another spell you know or possess in written form.
-42. Bulk up: For the next hour you grow incredibly muscular, gaining a 20 in STR and CON scores.
+40. Silence: You and every creature in sight become mute until you dismiss this spell.
+41. Duplicate Spell: Cast one other spell you know, only exhausting this one.
+42. Bulk up: For the next hour one creature you touch grows incredibly muscular, gaining a 20 in STR and CON scores.
 43. Compelled Chorus: So long as you continue singing this song, all creatures who can hear it must spend an action singing along.
 44. Invisibility: One creature you touch becomes invisible for the next hour, unless they attack another creature or cast a spell.
-45. Bodyjump: Should you die in the next 24 hours, your soul jumps to the nearest creature who must succeed a WIS save or become possessed by you.
+45. Bodyjump: Should you die in the next 24 hours, your soul jumps to each creature within 30ft, who must succeed a WIS save against your spell DC or have their soul displaced by yours.
 46. Invisible object: You touch an object no more than 2000lbs, and it becomes invisible until you next cast this spell.
 47. Duplication: You create 5 illusory duplicates of yourself, who you may control and who disappear when attacked.
-48. Thrall: One non-hostile creature who can hear you makes a WIS save or becomes loyal to you and may repeat the save for the next six days to prevent the effect from becoming permanent.
-49. Flame aura: Any creature within one pace of you takes 1d6 damage for the next minute.
-50. Acid Splash: One creature within a pace of you makes a DEX save to halve 2d12 damage.
+48. Thrall: One non-hostile creature who can hear you makes a WIS save or becomes powerless to obey you for the next 24 hours.
+49. Flame aura: For the next minute creature within 5ft of you takes D6 damage.
+50. Acid Splash: One creature within 5ft of you makes a DEX save to halve 3d12 damage.
 51. Surface: You fly upward up to 30ft and swim through the ceiling until you surface at the first open space above. 
 52. Submerge: You sink through the floor and either fall into a chamber directly below or resurface up to one minute later. 
 53. Animate object: You cause up to 5 small objects to grow little arms and legs and do your bidding for the next hour.
 54. Fuse: You combine two items, creating a new item in the process.
 55. Life sense: You can detect living things within 100ft as purple auras visible through cover for the next hour.
 56. Cure illness: You touch a creature and remove one illness or affliction, instead healing 5HP if they have no illness.
-57. Lightning strike: If sky is visible, target makes CON save to halve 2d8 damage.
+57. Lightning strike: If sky is visible, one target makes CON save to halve 6d6 damage.
 58. Plague: Choose a plague, which forms around a 1 mile radius: blood, frogs, lice, flies, boils, hail, locusts, darkness.
-59. Muscles: Touch one creature and they ripple with musculature, having a 20 STR score and adding their STR mod to melee attacks for the next hour.
-60. Death guard: Touch one creature and if they die in the next minute, they wake the next round with full HP.
-61. Catapult: You launch an object weighing no more than 10lb up to 6 paces, forcing each creature in the path to succeed a DEX save or else stop the object and take 2d6 damage.
-62. Force push: You touch a creature and they are pushed 3 paces away, succeeding a STR check to not be knocked prone.
-63. Force crush: Creature makes CON save to halve 3d6 damage as you squeeze their heart.
-64. Death stare: Creature makes INT save to halve 1d6 damage and avoid being blinded for an hour.
+59. Shadow Armor: You are wreathed in darkness, granting you 18 AC for the next hour.
+60. Death guard: Touch one creature and if they die in the next minute, they wake the following round with full HP.
+61. Catapult: You launch an object weighing no more than 10lb up to 30ft, forcing each creature in the path to succeed a DEX save or else stop the object and take 3d6 damage.
+62. Force push: You touch a creature and they are pushed 15 feet, making a STR check to not be knocked prone.
+63. Force crush: Creature makes CON save to halve 6d6 damage as you telekinetically squeeze their heart.
+64. Death stare: Creature makes INT save to halve D6 damage and avoid being blinded for an hour.
 65. Levitate: You may lift an object up to 500lb 30ft each round for up to a minute.
-66. Shield: Cast automatically when you're attacked, raising your AC increases by 5 until your next turn starts.
-67. Telepathy: You may communicate with others using your mind up to 60ft range for the next hour.
-68. Fine telekinesis: You perform precise tasks such as shaping clay, drawing a picture, or picking a pocket using your mind, and may not lift more than 5lb this way.
+66. Shield: May cast automatically when an attack is rolled against you, raising your AC increases by 5 until your next turn starts.
+67. Telepathy: You may communicate with others using your mind up to 60ft range for the next 8 hours.
+68. Fine telekinesis: For the next 8 hours you perform precise tasks such as shaping clay, drawing a picture, or picking a pocket using your mind, and may not lift more than 5lb this way.
 69. Mass hallucination: Every creature within 120 feet of you must succeed a WIS save or hear, see, smell, taste, and feel hallucinations of your choice for the next ten minutes.
-70. Meat Puppet: One creature you can see must succeed a WIS save or become animated by you, repeating the WIS save with each command you give it.
+70. Meat Puppet: For the next minute, one corpse you can see becomes animated by you like a marionette, remaining animated even in pieces for the duration unless you take damage.
 71. Slime Form: One creature you touch becomes an amorphous slime creature for the next hour.
 72. Halo: You don a halo until you cast another spell or make an attack, and creatures must succeed a WIS save to attack you.
 73. Tongues: You speak, and any creature that can hear you understands for the next hour.
-74. Vicious mockery: You give a dire insult to a creature, who must succeed a WIS saving throw or take 1d6 damage.
+74. Throw Shade: You give a dire insult to up to 6 creatures in earshot who must make a WIS save to halve D6 damage.
 75. Serenade of skill: You describe a task to one creature that can hear you, and they gain a D6 bonus to checks for that task for the next minute.
-76. Counterspell: Cast automatically when another creature casts a spell, forcing a contested spellcasting check to prevent the spell from failing.
-77. Bardic Inspiration: Up to three creatures you see gain a 1d6 bonus to a single die roll within the next 10 minutes.
-78. Madness: You sing to one creature and they must succeed a WIS saving throw or else attack a random creature within range, repeating the save at the end of their turns to escape this state of madness.
+76. Counterspell: May cast automatically when another creature casts a spell, forcing a spell check against your spell DC to succeed casting the spell.
+77. Bardic Inspiration: Up to three creatures you see gain a Dd6 bonus to a single die roll of their choice within the next 10 minutes.
+78. Madness: You sing to one creature and they succeed a WIS save or else attack a random creature within range and repeat the save at the end of their turns until they succeed.
 79. Finding song: You sing of a creature or object, and you learn what direction it is in.
-80. Song of polymorph: You sing to one creature that can hear you, and they must succeed a WIS save to resist transforming into that creature for 24 hours.
-81. Magic Missile: You fire three darts at one or more targets, which instantly hit and deal D4 damage each.
+80. Song of polymorph: You sing to a creature who must succeed a WIS save to resist transforming into one creature you've touched for 24 hours or until they reach 0HP, which reverts them to their previous HP.
+81. Magic Missile: You fire three spectral darts at one or more targets, which instantly hit and deal D6 damage each.
 82. Vampiric fists: You touch one creature, and for the next hour they gain HP equal to the damage they deal by unarmed attacks.
-83. Heat metal: One metal object you see glows red hot for the next minute, dealing 1d6 damage per round to any creature touching the metal.
+83. Heat metal: One metal object you see glows red hot for the next minute, dealing 2d6 damage per round to any creature touching the metal.
 84. Spider web: You spin a web fitting within a 20ft square, which requires a STR check to escape once stuck in it.
-85. Shrink: An object or creature shrinks to a tenth of its normal size for one hour, unless you dismiss the spell early.
-86. Enlarge: An object or creature grows to ten times its normal size for one hour, unless you dismiss the spell early.
-87. Light: You touch an object or creatue, and it produces 30ft of light for the next hour, blinding if placed directly on eyes.
-88. Fireball: A ball of flame grows in your palm, and you toss it up to 24 paces and it erupts into a 30ft radius explosion that forces those inside to succeed a DEX check to halve 4d6 damage.
-89. Fireproof: For the next minute, fire does not harm you nor any items you are holding or wearing.
-90. Thunder step: You slam down your feet(taking no fall damage if you accomplish this by falling) and cause a resounding shockwave that deals 1d6 damage to all creatures within a 30ft radius.
+85. Shrink: An object or willing creature shrinks to a tenth of its normal size for one hour, unless you dismiss the spell early.
+86. Enlarge: An object or willing creature grows to ten times its normal size for one hour, unless you dismiss the spell early.
+87. Light: You touch an object or point on a creature, and it produces 30ft of light for the next hour. When touching the creature, you must succeed an opposed DEX check.
+88. Fireball: A ball of flame grows in your palm, and you toss it up to 120 paces and it erupts into a 30ft radius explosion that forces a DEX check to halve 8d6 damage.
+89. Fireproof: You touch a willing creature, and for the next minute fire does not harm them nor any items they are holding or wearing.
+90. Thunder step: You jump and land on both feet(taking no fall damage), causing a resounding shockwave that deals 3d6 damage to all creatures within a 30ft radius.
 91. Zone: You declare a 100ft diameter sphere in sight as one of the following zones until you cast this spell again: silence, anti-magic, hyper-magic, corruption, darkness, gravity-free, frictionless, timeless, annihilation.
 92. Power Word Kill: You command one creature you can see to die, and if it has less than 30HP, it does.
 93. Ballbearings: You conjure enough tiny ballbearings to fill a 5ft cube that persist for the next 24 hours.
 94. Teleport: You and up to 10 other creatures you can see vanish and appear in a space of your choice, provided you have been there before.
 95. Magic Weapon: You touch one weapon and it gains a +3 to attack and damage rolls for the next hour.
-96. Soul Bind: You may bind the soul of a humanoid to a sword, provided they have less than 5HP, and it gains an attack and damage bonus according to the creature's maximum hit points(Less than 10 = +1, less than 20 = +2, 20 or more = +3)
-97. Truth: You touch a creature, and for the next hour it can only speak the truth to the best of it's ability.
+96. Soul Bind: You may bind the soul of a humanoid to a sword, provided they have less than 5HP. The sword gains an attack and damage bonus according to the creature's maximum hit points(Less than 10 = +1, less than 20 = +2, 20 or more = +3)
+97. Truth: You touch a creature, and for the next hour it can only speak the truth to the best of its ability.
 98. Resurrection: You destroy a gem worth 100GP and sprinkle the dust over a corpse, bringing it back to life.
 99. Life drain: A creature you can see must succeed a WIS save to halve 10 damage and avoid transfering 10 years of youth to you.
 100. Aura of life: Now, and at the start of your turn for the next minute, you may heal all creatures within 10ft of you for 1d4 hit points.

@@ -29,7 +29,7 @@ Roll for a type of bandit group. You may roll multiple and decide whether they i
 6. Rebels
 
 #### Street Gang
-Oversee racketeering, robberies, dealing black market items. Street gangs with active resistance from the law are likely to rely on easily concealed or improvized weapons such as daggers, clubs, and hand crossbows, and are less likely to wear armor or uniforms. Street gangs who have competition tend to wear common colors to 
+Street gangs oversee racketeering, robberies, dealing black market items. With active resistance from the law, they are likely to rely on easily concealed or improvized weapons such as daggers, clubs, and hand crossbows, and are less likely to wear armor or uniforms. Street gangs who have competition tend to wear common colors to 
 Roll 3d6 for table below to create a street gang.
 
 | D6 | Racket     | Black Market | Defense         |
@@ -55,7 +55,7 @@ Roll 3d6 for table below to create a crime haven.
 |  6 | Bounty Hunters     | Corrupted          | Island         |
 
 #### Suppliers
-Grow, manufacture, or collect black market goods
+Suppliers grow, manufacture, or collect black market goods.
 Roll 3d6 for table below to create a group of suppliers.
 
 | D6 | Good           | Defense     | Workers   |
@@ -68,7 +68,7 @@ Roll 3d6 for table below to create a group of suppliers.
 |  6 | Mercenaries    | Mercenaries | Orphans   |
 
 #### Highwaymen
-Rob caravans, charge illegal tolls.
+Highwaymen rob caravans, impose fees and tolls on travelers. More often than not, these groups are criminal in nature, but occassionally they may get permission from a kingdom by offering a cut of their earnings. Sometimes these groups are sent directly by kingdoms.
 Roll 3d4 for table below to create a group of highwaymen.
 
 | D6 | Leader     | Workers        | Strength  |
@@ -79,19 +79,27 @@ Roll 3d4 for table below to create a group of highwaymen.
 |  4 | Crime boss | Corrupted      | Gear      |
 
 #### Warlord
-Collect taxes and tribute, recruit army
+Warlords raise an army to collect taxes and tribute as well as to pillage. Warlords can have ambitions of rivaling nearby kingdoms or merely sustaining a life of luxury and power for the leader. Roll 2d4 for the table below.
+
+| D4 | Leader              | Army              |
+|:---|:--------------------|:------------------|
+|  1 | Monster             | Monsters          |
+|  2 | Defected General    | Defected soldiers |
+|  3 | Crime Boss          | Thugs             |
+|  4 | Merchant            | Mercenaries       |
 
 #### Rebels
-Groups organized to resist the current rulers.
+Rebel groups generally organize to resist the current rulers for a cause that is deemed just. Charismatic leaders centralize the power of such efforts, making it easier to disband or pacify their groups through coercion, bribery, or elimination of said leader. Groups with unremarkable or anonymous leaders are far more difficult to dissuade.
+Roll 2d6 for the columns of the table below.
 
-| D6 | Leader           | Agenda
+| D6 | Leader           | Agenda        |
 |:---|:-----------------|:--------------|
 |  1 | Religious Figure | Meet demands  |
 |  2 | Commoner         | Depose rulers |
-|  3 | Aristocrat       | Revolution    |
-|  4 | General          | 
-|  5 | Anonymous Figure |
-|  6 | 
+|  3 | Idealogue        | Revolution    |
+|  4 | General          | Become Leader |
+|  5 | Anonymous Figure | Revenge       |
+|  6 | Merchant         | Corner Market |
 
 ## Humanoids
 
@@ -109,6 +117,57 @@ The blood of civilization that make footholds in the furthest reaches of the wor
 ### Variations
 Humanoids may be created with exactly the same rules as player characters.
 However, here are some common archetypes.
+
+
+## Authorities
+Stable humanoid settlements gather around some set of norms. When you violate these norms sufficiently, or attempt to change them, you learn who holds authority.
+
+Roll once to make a simple settlement, twice to make one with tension and conflict, and three or more times to create an environment conducive to political intrigue.
+1. Royals
+2. Nobles
+3. Commoners
+4. Merchants
+5. Sages
+6. Reroll
+
+### Royals
+Royals are a miniscule minority which are famously offered few checks or balances. The difference between royals and warlords is primarily in technique. While a warlord must fight an ongoing war with their tributaries to keep them beaten into submission, royals rely on a myth to do that for them. For a simpler group of royals, roll a D3 (or D4, discounting 4s) for their myth, or roll twice(rerolling on a duplicate) for royals with a main and secondary myth.
+
+1. Birthright
+2. Popularity
+3. Terror
+
+#### Birthright
+A royal bloodline is the legacy of more aggressive power brokers. The most mundane birthright is reinforced by other authorities for its own sake. More exotic birthright might be tied to an ancestry including eldritch, fey, dragon, or demon blood in addition to humanoid. Lastly, divine birthright may come from a powerful supernatural entity's favor of the royals, or at least of the myth of such favor.
+
+#### Popularity
+Royals sell themselves, or the process that grants them power, as benevolent. A people's king may give gifts or share the spoils of war with the peasantry. An election may take place between multiple royals, all sharing similar vested interest in preserving the same status quo.
+
+#### Terror
+Royals instill fear in their subjects, either of the royals themselves, or some real or imaginary enemy. When the people believe their survival depends upon the royals, they are more likely to cooperate and compromise on their ideals. When the royals become the subject of fear, they aim for creating an image of resistance being hopeless and futile. The exchange of information is generally tightly controlled, and there is an ongoing task of finding and crushing cells of resistance.
+
+### Nobles
+Nobles are often granted a lesser power by Commoners or Royals only to later overpower them. You may roll for one type of noble.
+
+1. Merchants
+2. Mages
+3. Diviners
+4. Philosophers
+
+#### Merchants
+The wealth of successful merchants allows them to seize the most lucrative business opportunities, compounding their wealth over time as they minimize competition and maximize profit. The conversion of wealth into power through bribery is what allows merchants to gain power without getting their hands dirty.
+
+#### Warriors
+
+#### Mages
+
+#### Diviners
+
+#### Philosophers
+
+### Commoners
+
+
 
 #### Bandits
 
