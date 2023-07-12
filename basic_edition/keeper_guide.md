@@ -151,7 +151,7 @@ Note: +1 means a +1 bonus to attack and damage rolls.
 71. Stilt Shoes: One may speak the command word to extend these shoes to 10ft tall, or to return them to normal height.
 72. Rug of Slipping: This animated rug can be laid out as a trap. If a creature steps on it, the rug slips out from under the creature, forcing a DC16 DEX save to not fall prone.
 73. Mirror of Emotional Revelation: This mirror reflects a person's face with the expression of their inner emotions, and reflects the face of invisible creatures.
-74. 
+74. Soul gem: Has many uses, the most obvious of which is to attune to a creature with a drop of blood and allow one active spell effect to remain until the gem leaves a 60ft radius of the attuned. Only one soul gem may be attuned to a creature at once.
 75. 
 76. 
 77. 
@@ -338,7 +338,7 @@ If you need some random spells, consult this table. It's highly encouraged to cr
 95. Magic Weapon: You touch one weapon and it gains a +3 to attack and damage rolls for the next hour.
 96. Soul Bind: You may bind the soul of a humanoid to a sword, provided they have less than 5HP. The sword gains an attack and damage bonus according to the creature's maximum hit points(Less than 10 = +1, less than 20 = +2, 20 or more = +3)
 97. Truth: You touch a creature, and for the next hour it can only speak the truth to the best of its ability.
-98. Resurrection: You destroy a gem worth 100GP and sprinkle the dust over a corpse, bringing it back to life.
+98. Resurrection: You destroy a soul gem and sprinkle the dust over a corpse, bringing it back to life.
 99. Life drain: A creature you can see must succeed a WIS save to halve 10 damage and avoid transfering 10 years of youth to you.
 100. Aura of life: Now, and at the start of your turn for the next minute, you may heal all creatures within 10ft of you for 1d4 hit points.
 
