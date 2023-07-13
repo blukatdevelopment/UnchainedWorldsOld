@@ -15,10 +15,10 @@ Well, because then I can share it and preserve the [four freedoms](https://www.g
 Sure it is. It just runs on human brains instead of computers. Git gud, scrub. :P
 
 ## Agile edition
-A simple and flexible base that can be applied to many different settings using content packs.
+A genre-flexible system powered by content packs.
 
 ## Basic edition
-A minimalistic dungeon crawling system.
+A rules-lite dungeon crawling system.
 
 ## Core edition
-Crunchy system focused on sandbox play.
+Crunchy dungeon crawling system.
