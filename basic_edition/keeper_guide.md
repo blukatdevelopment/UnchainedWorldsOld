@@ -269,9 +269,9 @@ If you need some random spells, consult this table. It's highly encouraged to cr
 26. Weak: One target in sight deals 2d4 less damage until they complete a rest or the caster dies.
 27. Shadow Blade: Form a blade for an hour with a +4 bonus to hit and deals 2d6 damage.
 28. Green Flame: Create a 5ft cube of flame which forces a DEX save to halve 2d6 damage for creatures inside.
-29. Thorns: Thorny tentacles erupt in three 5ft cubes within sight, lashing creatures adjacent to them to deal D4 damage per turn.
+29. Thorns: Thorny tentacles erupt in three 5ft cubes within sight, lashing creatures adjacent to them to deal D4 damage per turn. Lasts 1 minute.
 30. Ice Floor: A 20ft square on the ground becomes icy and forces DEX save to avoid slipping and falling prone.
-31. Noxious cloud: You create a cloud of green gas within sight that fits within a 20ft cube which forces a CON save to prevent D6 damage at the start of the effected creature's turn.
+31. Noxious cloud: You create a cloud of green gas within sight that fits within a 20ft cube which forces a CON save to prevent D6 damage at the start of the effected creature's turn. Lasts 1 minute.
 32. Featherweight: You may jump 20ft vertically and safely float to the ground when falling from any height for the next hour.
 33. Demonic Transformation: You transform into a demon(Stats decided when you learn this spell) and may make a DC15 spell check to revert once per hour.
 34. Shadow form: For the next hour, your shadow separates from you and takes its own turn in initiative using your ability scores and shadows of your equipment.
@@ -301,7 +301,7 @@ If you need some random spells, consult this table. It's highly encouraged to cr
 58. Plague: Choose a plague, which forms around a 1 mile radius: blood, frogs, lice, flies, boils, hail, locusts, darkness.
 59. Shadow Armor: You are wreathed in darkness, granting you 18 AC for the next hour.
 60. Death guard: Touch one creature and if they die in the next minute, they wake the following round with full HP.
-61. Catapult: You launch an object weighing no more than 10lb up to 30ft, forcing each creature in the path to succeed a DEX save or else stop the object and take 3d6 damage.
+61. Catapult: You launch an large object up to 30ft, forcing each creature in the path to succeed a DEX save or else stop the object and take 3d6 damage.
 62. Force push: You touch a creature and they are pushed 15 feet, making a STR check to not be knocked prone.
 63. Force crush: Creature makes CON save to halve 6d6 damage as you telekinetically squeeze their heart.
 64. Death stare: Creature makes INT save to halve D6 damage and avoid being blinded for an hour.
@@ -315,7 +315,7 @@ If you need some random spells, consult this table. It's highly encouraged to cr
 72. Halo: You don a halo until you cast another spell or make an attack, and creatures must succeed a WIS save to attack you.
 73. Tongues: You speak, and any creature that can hear you understands for the next hour.
 74. Throw Shade: You give a dire insult to up to 6 creatures in earshot who must make a WIS save to halve D6 damage.
-75. Serenade of skill: You describe a task to one creature that can hear you, and they gain a D6 bonus to checks for that task for the next minute.
+75. Serenade of skill: You sing of a task to one creature that can hear you, and they gain a D6 bonus to checks for that task for the next minute.
 76. Counterspell: May cast automatically when another creature casts a spell, forcing a spell check against your spell DC to succeed casting the spell.
 77. Bardic Inspiration: Up to three creatures you see gain a Dd6 bonus to a single die roll of their choice within the next 10 minutes.
 78. Madness: You sing to one creature and they succeed a WIS save or else attack a random creature within range and repeat the save at the end of their turns until they succeed.
@@ -328,10 +328,10 @@ If you need some random spells, consult this table. It's highly encouraged to cr
 85. Shrink: An object or willing creature shrinks to a tenth of its normal size for one hour, unless you dismiss the spell early.
 86. Enlarge: An object or willing creature grows to ten times its normal size for one hour, unless you dismiss the spell early.
 87. Light: You touch an object or point on a creature, and it produces 30ft of light for the next hour. When touching the creature, you must succeed an opposed DEX check.
-88. Fireball: A ball of flame grows in your palm, and you toss it up to 120 paces and it erupts into a 30ft radius explosion that forces a DEX check to halve 8d6 damage.
+88. Fireball: A ball of flame grows in your palm, and you toss it up to 120ft and it erupts into a 30ft radius explosion that forces a DEX check to halve 8d6 damage.
 89. Fireproof: You touch a willing creature, and for the next minute fire does not harm them nor any items they are holding or wearing.
 90. Thunder step: You jump and land on both feet(taking no fall damage), causing a resounding shockwave that deals 3d6 damage to all creatures within a 30ft radius.
-91. Zone: You declare a 100ft diameter sphere in sight as one of the following zones until you cast this spell again: silence, anti-magic, hyper-magic, corruption, darkness, gravity-free, frictionless, timeless, annihilation.
+91. Zone: You declare a 100ft diameter sphere in sight as one of the following zones until you cast this spell again: silence, anti-magic, hyper-magic, corruption, darkness, gravity-free, frictionless, timeless.
 92. Power Word Kill: You command one creature you can see to die, and if it has less than 30HP, it does.
 93. Ballbearings: You conjure enough tiny ballbearings to fill a 5ft cube that persist for the next 24 hours.
 94. Teleport: You and up to 10 other creatures you can see vanish and appear in a space of your choice, provided you have been there before.

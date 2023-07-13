@@ -14,6 +14,66 @@
 3. Steal three to four random syllables: Tre xe ver ick
 4. Combine them to make your name: Trexeverick
 
+## Appearance
+You may wish to randomize your appearance, or select options from the tables in this section.
+
+### Human
+Humans were created blue in Bimros's image, but assume a wide variety of traits now.
+Roll 2d6 for each column in the table below.
+
+| 2d6   | Complexion | Eye color | Height  | Mutations|
+|:------|:-----------|:----------|:--------|:---------|
+|  2    | Grey       | Black     | 7'      | 4        |
+|  3    | Peach      | Gray      | 6' D12" | 2        |
+|  4    | Blue       | Brown     | 6' D6"  | 1        |
+|  5    | Yellow     | Blue      | 6'      | None     |
+|  6    | Brown      | Blue      | 5' D8"  | None     |
+|  7    | Green      | Green     | 5' D6"  | None     |
+|  8    | Tan        | Hazel     | 5' D4"  | None     |
+|  9    | White      | Hazel     | 5'      | 1d2-1    |
+| 10    | Pink       | Brown     | 4' D12" | D2       |
+| 11    | Purple     | Amber     | 4' D6"  | D4       |
+| 12    | Red        | Red       | 4'      | D6       |
+
+If you have mutations, roll a D12 on this table.
+1. Animal ears and tail
+2. Animal legs
+3. Spade tail
+4. Horns
+5. Small bat wings
+6. Scales
+7. Forked tongue
+8. Slitted pupils
+9. Functional Gills
+10. Third eye
+11. Pointed ears
+12. Fangs
+
+### Beast Folk
+Beast folk were created from awakened beasts and closely resemble them to this day.
+
+Roll a beast type using a D6 for the ones place and a D6 for the tens place.
+| D66 | Beast    | D66 | Beast    |
+|:----|:---------|:----|:---------|
+| 11  | Possum   | 41  | Boar     |
+| 12  | Lizard   | 42  | Wombat   |
+| 13  | Squirrel | 43  | Raven    |
+| 14  | Horse    | 44  | Mouse    |
+| 15  | Skunk    | 45  | Rat      |
+| 16  | Wolf     | 46  | Goat     |
+| 21  | Fox      | 51  | Cow      |
+| 22  | Housecat | 52  | Beaver   |
+| 23  | Panther  | 53  | Bear     |
+| 24  | Tiger    | 54  | Leopard  |
+| 25  | Lynx     | 55  | Pheasant |
+| 26  | Lion     | 56  | Turtle   |
+| 31  | Deer     | 61  | Weasel   |
+| 32  | Hyena    | 62  | Stoat    |
+| 33  | Rabbit   | 63  | axolotl  |
+| 34  | Raccoon  | 64  | Buffalo  |
+| 35  | Otter    | 65  | Chicken  |
+| 36  | Sheep    | 66  | Cheetah  |
+
 ## Abilities
 When performing actions, the keeper may call for ability checks. These are the abilities used.
 
@@ -24,6 +84,7 @@ When performing actions, the keeper may call for ability checks. These are the a
 - **WIS**dom: Sense, intuit, control emotions
 - **CHA**risma: Joke, intimidate, persuade, deceive
 
+\page
 ### Modifiers
 The keeper may ask you to make a check to succeed an attempted action or to resist negative effects. Roll a 1d20 and add the modifier for the relevant ability.
 
@@ -69,7 +130,6 @@ The keeper may ask you to make a check to succeed an attempted action or to resi
 |Small|     4 | Torch, ration       |
 |Tiny |    16 | Chalk, paper, ink   |
 |Coin |    64 | Gold, Silver, Copper|
-\page
 
 # Combat
 ## Initiative
@@ -113,7 +173,7 @@ Using your action, you may perform many tasks. Some examples:
 
 ### Coinage
 - 1 Gold Piece = 10 silver pieces = 100 copper pieces
-
+\page
 ### Adventuring gear
 
 |             Item     |  Cost |   Size   |
@@ -149,9 +209,9 @@ Using your action, you may perform many tasks. Some examples:
 
 #### Healer's Kit
 If the target's got less than half their max HP, you can expend the kit over 1 minute to heal D6 HP.
-\page
+
 #### Backpack
-Can carry 8 small items, or 16 tiny items, even if they aren't identical.
+Can carry up to 4 small items, 16 tiny items, or some combination, even if they aren't identical.
 
 #### Light Sources
 |        Item      |  Cost |  Size   | Light | Duration |
@@ -202,7 +262,7 @@ Commoners start with common clothes and D4 items from the table below
 | 10  | hammer           |
 | 11  | Club             |
 | 12  | Caltrops(one bag)|
-
+\page
 ## Adventurers
 - Heroic fantasy vibes
 - Start with perks(players and keeper decide how many)
@@ -229,7 +289,7 @@ Commoners start with common clothes and D4 items from the table below
 | Metal Tongue  | Miners          |
 | Mercantile    | Merchants       |
 | Primordial    | Giants, farmers |
-\page
+
 ## Rare Languages
 | Language      | Who speaks it      |
 |:--------------|:-------------------|
@@ -268,7 +328,7 @@ Roll on the table below.
 | 8-10  | +2 to either **STR**, **DEX**, or **CON**, or +1 to two       |
 | 11    | A successful grapple deals unarmed damage         |
 | 12    | No penalty on second or third unarmed attack      |
-
+\page
 ## Minor Weapons
 <img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/minor_weapons.jpg" style="width:300px;">
 
@@ -300,7 +360,7 @@ Improve with weapons like bows and crossbows. Roll on the table below.
 | 9-10  | +2 to either **DEX** or **WIS**, or +1 to both         |
 | 11    | Add a D6 to ranged attack once per rest        |
 | 12    | Second attack with ranged has no penalty       |
-\page
+
 ## Martial Weapons
 <img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/martial_weapons.jpg" style="width:300px;">
 Improve with weapons like swords, axes, war hammers, and maces. Roll on the table below.
@@ -325,7 +385,7 @@ Improve with weapons like greataxes, greatswords, and greatclubs. Roll on the ta
 | 9-10  | +2 to either **STR** or **CON**, or +1 to both            |
 | 11    | Once per rest, take half damage for D6 turns      |
 | 12    | May reroll great weapon damage, using second roll |
-
+\page
 ## Arcane Magic
 <img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/arcane_magic.jpg" style="width:300px;">
 - Expend 1 **CON** score to learn a spell from a book, scroll, or mentor 
@@ -345,7 +405,6 @@ Roll on the table below and learn one random spell.
 | 12    | You may craft spell scrolls*               |
 Spell scrolls cost 5gp of materials, are single use, and use your spellcasting modifier at time of crafting.
 
-\page
 ## Divine Magic
 <img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/deities.jpg" style="width:300px;">
 The first time you choose this, you gain access to divine spellcasting and can prepare one divine spell. Each time you choose this, you can prepare one additional spell, but the total number of spells prepared can never exceed your WIS mod(minimum 1).
@@ -379,7 +438,7 @@ Roll on the table below.
 | 12    | 15 | Expert  |
 
 For example, you may choose "healing word" and roll a 2, creating a "healing word cantrip" that requires a DC 5 spell check when casting. Or, you may choose "spiritual sword" and roll a 10, creating a "Strong healing word" that requires a DC 12 spell check to cast.
-
+\page
 ## Naming Magic
 The first time you choose this, you gain access to Naming Spellcasting.
 <br><br>
@@ -419,7 +478,7 @@ Roll on the table below.
 | 10-11 | Roll max value of skill die once per rest    |
 | 12    | Gain a once/rest ability based on one skill  |
 
-\page
+
 ### Examples of skills
 A skill encompasses one task or type of task, or domain of knowledge.  You may create your own and attempt them, but below are some examples that might meet your needs.
 - **Pickpocketing**: Taking items from someone without them noticing
@@ -438,5 +497,6 @@ A skill encompasses one task or type of task, or domain of knowledge.  You may c
 - **Performance**: Evoking feelings such as wonder, joy, rage, or sorrow through the use of dance, speech, musical instrument, or singing. Pick a specific kind of performance(such as singing) when you practice and gain this skill
 - **Insight**: Determining someone's general disposition, current mood, stress levels, and detecting deception
 - **Foraging**: Locating and identifying edible plants as well as plants containing medicinal or alchemical properties
+\page
 - **History**: Recalling the details of famous people, places, objects, or cultures through secondary sources such as conversing with others or reading texts
 - **Religion**: Recalling the lore of divines, undead, fiends, and other extra-planar beings, or sensing their presence
