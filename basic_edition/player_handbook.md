@@ -1,4 +1,4 @@
-# Unchained Wolrds: Basic Edition
+# Unchained Worlds: Basic Edition
 
 ## Foreword
 - These rules are minimal
@@ -17,8 +17,8 @@
 ## Appearance
 You may wish to randomize your appearance, or select options from the tables in this section.
 
-### Human
-Humans were created blue in Bimros's image, but assume a wide variety of traits now.
+### Bimran
+Bimrans were created blue in Bimros's image, but assume a wide variety of traits now.
 Roll 2d6 for each column in the table below.
 
 | 2d6   | Complexion | Eye color | Height  | Mutations|
@@ -257,7 +257,7 @@ Commoners start with common clothes and D4 items from the table below
 | 5   | Rope(50ft)       |
 | 6   | Flask of Oil     |
 | 7   | Crowbar          |
-| 8   | Iron Spikes(10)  |
+| 8   | Iron Spikes(8)   |
 | 9   | Flint and Steel  |
 | 10  | hammer           |
 | 11  | Club             |
@@ -302,7 +302,7 @@ Commoners start with common clothes and D4 items from the table below
 ## Deities
 | Name   | Domains                           |
 |:-------|:----------------------------------|
-| Bimros | Law, Order, Discipline, humankind |
+| Bimros | Law, Order, Discipline, Bimrans   |
 | Fliff  | Plants, Rebirth, the fey          |
 | Kord   | Sleep, Ice, Stone, circles        |
 | Raos   | Farming, Empathy, beastfolk       |

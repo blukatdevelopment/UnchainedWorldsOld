@@ -31,7 +31,14 @@ Deals -1 damage on melee attacks(minimum 1). Suggested price: 5SP
 #### Whip
 10ft range
 
+#### Handaxe
+Deals max damage when thrown.
+
 ### Ranged Weapons
+
+#### Longbow
+Deals D10 damage. Takes 2 actions to fire. Suggested price: 30gp.
+
 #### Crossbow
 Deals D12 damage. Takes 2 actions to reload. Suggested price: 30gp.
 
