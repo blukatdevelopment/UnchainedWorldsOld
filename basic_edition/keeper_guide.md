@@ -705,3 +705,23 @@ The same as recalling facts for Arcana.
 
 ### Religion
 The same as recalling facts for Arcana.
+
+
+# Campaign design
+
+## Rewarding perks
+
+### Milestones
+Award 1 or more perks whenever the party completes a main or side objective such as defeating a group of enemies or completing a quest.
+
+### XP
+For more granular and crunchy advancement, award XP and let players spend between 25 and 100 XP to buy a perk.
+
+#### 1GP = 1XP
+Reward each PC based on the gold they acquire, barring re-selling items.
+
+#### 1HP = 1XP
+Award the party as a whole 1XP for every HP of defeated monsters. Each PC gets an equal share of this XP immediately.
+
+#### Quest rewards
+Award a sum of XP proportional to the difficulty of a quest.

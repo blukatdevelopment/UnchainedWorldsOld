@@ -312,7 +312,8 @@ Commoners start with common clothes and D4 items from the table below
 | Coent  | Seasons, Chaos, Beauty            |
 
 # Advancement
-- As you earn perks, you may choose from the options below
+- The keeper will explain how perks are earned in your campaign.
+
 
 ## Hand-to-hand
 With at least one level of Hand-to-hand training, you gain the following benefits:
@@ -467,7 +468,7 @@ Roll on the table below.
 <br><br>
 Roll on the table below.
 - You may practice a skill while making ability check by declaring it
-- Rolling a 20 on the D20 when practing gives you this skill
+- Succeeding when practing gives you this skill
 - The skill die for a new skill starts at D4, but may grow(D4->D6->D8->D10->D12->D20)
 
 | 2d6   | Effect                                       |

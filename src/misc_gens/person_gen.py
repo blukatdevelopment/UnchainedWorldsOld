@@ -220,6 +220,6 @@ def get_mercantile():
 
 def main():
     for i in range(100):
-        print(get_common_name())
+        print(get_mercantile_name())
 
 main()

@@ -3,9 +3,9 @@ Here's an example sheet and a blank one.
 
 ## Example
 
-Name: Velera the Trusted
+Name: Velera
 [8, 8, 18, 12, 18, 18]
-HP: 17/17
+HP: 18/18
 AC: 9
 Perks: 5
 Divine:
