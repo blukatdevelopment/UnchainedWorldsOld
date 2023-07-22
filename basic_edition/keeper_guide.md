@@ -685,7 +685,7 @@ For each type found, roll a prompt for its effect using 3d12 on the table below.
 | 11 | Nut      | Emotion   | Inflict    |
 | 12 | Moss     | Gravity   | Conjure    |
 
-For example, rolling 11, 10, and 1 gives a prompt of Nut, Vision, Spray. Given this prompt, this may be a nut with an effect of producing a blinding spray when consumed.
+For example, rolling 11, 10, and 1 gives a prompt of Nut, Vision, Spray. Given this prompt, this may be a nut with an effect of producing a blinding spray when consumed, or the potion may cause the user to extend their sight through an astral projection.
 
 
 #### Finding medicinal ingredients

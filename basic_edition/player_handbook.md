@@ -176,36 +176,54 @@ Using your action, you may perform many tasks. Some examples:
 \page
 ### Adventuring gear
 
-|             Item     |  Cost |   Size   |
-|:---------------------|:------|:---------|
-| Arrows (16)          |  1 gp |    Small |
-| Backpack             |  2 gp |    Large |
-| Bedroll              |  1 gp |    Large |
-| Block and Tackle     |  1 gp |    Large |
-| Common Clothes       |  5 sp |    Large |
-| Fine Clothes         | 15 gp |    Large |
-| Crowbar              |  2 gp |    Large |
-| Hammer               |  1 gp |    Small |
-| Steel Mirror         |  5 gp |    Small |
-| Oil Flask            |  1 sp |    Small |
-| Pick, Miner’s        |  2 gp |    Large |
-| Piton                |  5 cp |    Tiny  |
-| Pole (10ft)          |  5 cp |    Large |
-| Fresh Ration         |  5 cp |    Small |
-| Dry Ration           |  5 sp |    Small |
-| Rope (50 ft)         |  1 gp |    Large |
-| Book                 | 15 gp |    Large |
-| Soap                 |  2 cp |    Small |
-| Ink Bottle           |  5 gp |    Small |
-| Quill Pen            |  5 sp |    Tiny  |
-| Tent(Two-Person)     |  2 gp |    Large |
-| Flint and Steel      |  5 sp |    Small |
-| Lockpick             | 10 gp |    Small |
-| Waterskin(1/2 gal)   |  2 sp |    Small |
-| Glass Vial           |  1 gp |    Tiny  |
-| Flask                |  2 cp |    Small |
-| Barrel(40gal)        |  2 gp |    Large |
-| Healer's Kit         |  5 gp |    Large |
+| Large Item            | Cost  |
+|:----------------------|:------|
+| Barrel(40gal)         |  2 gp |
+| Healer's Kit          |  5 gp |
+| Backpack              |  2 gp |
+| Bedroll               |  1 gp |
+| Block and Tackle      |  1 gp |
+| Common Clothes        |  5 sp |
+| Fine Clothes          | 15 gp |
+| Crowbar               |  2 gp |
+| Tent(Two-Person)      |  2 gp |
+| Rope (50 ft)          |  1 gp |
+| Book                  | 15 gp |
+| Pole (10ft)           |  5 cp |
+| Pick, Miner’s         |  2 gp |
+| Quiver of Arrows (16) |  1 gp |
+| Lute                  | 10 gp |
+
+| Small Item         | Cost  |
+|:-------------------|:------|
+| Hammer             |  1 gp |
+| Steel Mirror       |  5 gp |
+| Oil Flask          |  1 sp |
+| Fresh Ration       |  5 cp |
+| Dry Ration         |  5 sp |
+| Soap               |  2 cp |
+| Ink Bottle         |  5 gp |
+| Flint and Steel    |  5 sp |
+| Lockpick           | 10 gp |
+| Waterskin(1/2 gal) |  2 sp |
+| Flask              |  2 cp |
+| Bone Dice Set      |  5 gp |
+| Flute              |  1 gp |
+| Twine Ball 200ft   |  1 sp |
+
+| Tiny Item    | Cost  |
+|:-------------|:------|
+| Piton        |  5 cp |
+| Quill Pen    |  5 sp |
+| Glass Vial   |  1 gp |
+| Bell         |  1 sp |
+| Needle       |  5 cp |
+| Whistle      |  5 cp |
+| Locket       |  2 gp |
+| Scalpal      |  1 gp |
+| Tweezers     |  2 gp |
+| Chalk        |  5 cp |
+| Sulfur Match |  5 cp |
 
 #### Healer's Kit
 If the target's got less than half their max HP, you can expend the kit over 1 minute to heal D6 HP.
@@ -245,7 +263,7 @@ Armor requires a minimum **STR** or **DEX** to gain the benefits.
 - Zero to hero vibes
 - Start with no perks
 - Have mundane backgrounds
-
+\page
 ### Starting gear
 Commoners start with common clothes and D4 items from the table below
 | D12 | Gear             |
@@ -262,13 +280,13 @@ Commoners start with common clothes and D4 items from the table below
 | 10  | hammer           |
 | 11  | Club             |
 | 12  | Caltrops(one bag)|
-\page
+
 ## Adventurers
 - Heroic fantasy vibes
 - Start with perks(players and keeper decide how many)
 
 ### Starting gear
-- Gain 5d6 gold pieces for every 2 perks
+- Gain D6 * 5 gold pieces for every 2 perks
 - Buy gear using this gold
 
 ### Skills
