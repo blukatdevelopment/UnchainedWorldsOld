@@ -18,7 +18,7 @@
 You may wish to randomize your appearance, or select options from the tables in this section.
 
 ### Bimran
-Bimrans were created blue in Bimros's image, but assume a wide variety of traits now.
+Bimrans were created blue in Bimros's image in the divine age, but assume a wide variety of traits now.
 Roll 2d6 for each column in the table below.
 
 | 2d6   | Complexion | Eye color | Height  | Mutations|
@@ -50,7 +50,7 @@ If you have mutations, roll a D12 on this table.
 12. Fangs
 
 ### Beast Folk
-Beast folk were created from awakened beasts and closely resemble them to this day.
+Beast folk were transformed from awakened beasts by Raos and closely resemble them to this day.
 
 Roll a beast type using a D6 for the ones place and a D6 for the tens place.
 | D66 | Beast    | D66 | Beast    |
@@ -131,6 +131,38 @@ The keeper may ask you to make a check to succeed an attempted action or to resi
 |Tiny |    16 | Chalk, paper, ink   |
 |Coin |    64 | Gold, Silver, Copper|
 
+## Tier
+- Campaigns will generally be designed with a specific tier of 
+
+### Commoner
+- Start with no perks, humble origins(you will be playing through your backstory)
+- Your character knows little, if anything, about the world
+- Luck, player skill, and teamwork are paramount
+- Start with common clothes and D4 items from the table below
+
+| D12 | Gear             |
+|:----|:-----------------|
+| 1   | Torch            |
+| 2   | Dagger           |
+| 3   | Pole(10ft)       |
+| 4   | Bow and 5 arrows |
+| 5   | Rope(50ft)       |
+| 6   | Flask of Oil     |
+| 7   | Crowbar          |
+| 8   | Pitons(8)        |
+| 9   | Flint and Steel  |
+| 10  | hammer           |
+| 11  | Club             |
+| 12  | Caltrops(one bag)|
+
+### Adventurer
+- Start with 10 perks, 5d6 * 5 GP of starting gold, and 1 magic item
+- Waive the requirement to practice skills during character creation
+- Your PC has some experience with the world and danger
+- How did your PC gain their current perks(mentor, patron, faction)?
+- What previous adventure did you go on?
+- Pick one other party member, explain relationship
+
 # Combat
 ## Initiative
 - Each side rolls a D6 and winner goes first
@@ -190,7 +222,7 @@ Using your action, you may perform many tasks. Some examples:
 | Rope (50 ft)          |  1 gp |
 | Book                  | 15 gp |
 | Pole (10ft)           |  5 cp |
-| Pick, Miner’s         |  2 gp |
+| Miner Pick            |  2 gp |
 | Quiver of Arrows (16) |  1 gp |
 | Lute                  | 10 gp |
 
@@ -257,41 +289,6 @@ Armor requires a minimum **STR** or **DEX** to gain the benefits.
 - Regain HP equal to your **CON** mod (min 1)
 - Regain any once per rest abilities
 
-# Creating new commoners and adventurers
-
-## Commoners
-- Zero to hero vibes
-- Start with no perks
-- Have mundane backgrounds
-\page
-### Starting gear
-Commoners start with common clothes and D4 items from the table below
-| D12 | Gear             |
-|:----|:-----------------|
-| 1   | Torch            |
-| 2   | Dagger           |
-| 3   | Pole(10ft)       |
-| 4   | Bow and 5 arrows |
-| 5   | Rope(50ft)       |
-| 6   | Flask of Oil     |
-| 7   | Crowbar          |
-| 8   | Iron Spikes(8)   |
-| 9   | Flint and Steel  |
-| 10  | hammer           |
-| 11  | Club             |
-| 12  | Caltrops(one bag)|
-
-## Adventurers
-- Heroic fantasy vibes
-- Start with perks(players and keeper decide how many)
-
-### Starting gear
-- Gain D6 * 5 gold pieces for every 2 perks
-- Buy gear using this gold
-
-### Skills
-- No practice needed for skills when creating a new character
-
 # World of Crucible
 
 ## History
@@ -329,12 +326,12 @@ Commoners start with common clothes and D4 items from the table below
 | Solus  | Fire, War, Light                  |
 | Coent  | Seasons, Chaos, Beauty            |
 
-# Advancement
-- The keeper will explain how perks are earned in your campaign.
-
+# Perks
+- Perks offer random benefits to spice up static min-max character builds
+- Perks are earned during adventure and cashed in during downtime
 
 ## Hand-to-hand
-With at least one level of Hand-to-hand training, you gain the following benefits:
+Gain the following benefits:
 - May substitute **DEX** for **STR** with unarmed attacks
 <br><br>
 Roll on the table below.
@@ -350,9 +347,7 @@ Roll on the table below.
 \page
 ## Minor Weapons
 <img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/minor_weapons.jpg" style="width:300px;">
-
-Improve with weapons like daggers, clubs, sickles, staves, spears, and other minor weapons.
-With this perk, you may now:
+Gain the following benefits:
 - Substitute **DEX** for **STR** with bladed or sharp minor weapons
 - Throw minor weapons up to 6 paces
 <br><br>
@@ -369,7 +364,7 @@ Roll on the table below.
 
 ## Ranged Weapons
 <img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/ranged_weapons.jpg" style="width:300px;">
-Improve with weapons like bows and crossbows. Roll on the table below.
+Roll on the table below.
 
 | 2d6   | Effect                                         |
 |:------|:-----------------------------------------------|
@@ -382,7 +377,7 @@ Improve with weapons like bows and crossbows. Roll on the table below.
 
 ## Martial Weapons
 <img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/martial_weapons.jpg" style="width:300px;">
-Improve with weapons like swords, axes, war hammers, and maces. Roll on the table below.
+Roll on the table below.
 
 | 2d6   | Effect                                            |
 |:------|:--------------------------------------------------|
@@ -394,7 +389,7 @@ Improve with weapons like swords, axes, war hammers, and maces. Roll on the tabl
 | 12    | Free attack if a melee attack misses you by 5+    |
 
 ## Great Weapons
-Improve with weapons like greataxes, greatswords, and greatclubs. Roll on the table below.
+Roll on the table below.
 
 | 2d6   | Effect                                            |
 |:------|:--------------------------------------------------|
@@ -407,6 +402,7 @@ Improve with weapons like greataxes, greatswords, and greatclubs. Roll on the ta
 \page
 ## Arcane Magic
 <img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/arcane_magic.jpg" style="width:300px;">
+Gain the following benefits:
 - Expend 1 **CON** score to learn a spell from a book, scroll, or mentor 
 - Cast each known spell once per rest
 - Consume D4 HP using one action to regain one expended spell
@@ -424,29 +420,28 @@ Roll on the table below and learn one random spell.
 | 12    | You may craft spell scrolls*               |
 Spell scrolls cost 5gp of materials, are single use, and use your spellcasting modifier at time of crafting.
 
-## Divine Magic
+## Pact Magic
 <img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/deities.jpg" style="width:300px;">
-The first time you choose this, you gain access to divine spellcasting and can prepare one divine spell. Each time you choose this, you can prepare one additional spell, but the total number of spells prepared can never exceed your WIS mod(minimum 1).
+Gain the following benefits:
+- Choose a divine or other patron to grant your magical powers
+- Prepare a number of spells no greater than your WIS mod(minimum 1)
 <br><br>
 Roll on the table below.
 
-| 2d6   | Effect                                                     |
-|:------|:-----------------------------------------------------------|
-| 2     | Gain a once per rest power from divine                     |
-| 3     | Add a D6 to a spell damage once per rest                   |
-| 4-8   | +1 to divine spellcasting bonus                            |
-| 9-10  | +2 to **WIS** or **CHA** or +1 to both                             |
-| 11    | Add a D6 to spell healing once per rest                    |
-| 12    | When you fall below 1HP, make a DC15 **WIS** check to be saved |
+| 2d6   | Effect                                   |
+|:------|:-----------------------------------------|
+| 2     | Gain a once per rest power from patron   |
+| 3     | Add a D6 to a spell damage once per rest |
+| 4-8   | +1 to pact spellcasting bonus            |
+| 9-10  | +2 to **WIS** or **CHA** or +1 to both           |
+| 11    | Add a D6 to spell healing once per rest  |
+| 12    | Gain a permanent benefit from patron     |
 
-### Divine spellcasting
-- During a rest, you may pray to deity for a particular kind of spell using two words, which becomes the name of the spell
-
-- You roll 2d6 for power level, keeper creates spell to fit
-- When casting spell, you must make a **WIS** check against the spell's DC. Rolling a 1 on the D20 automatically fails
-- If you fail the check, the spell becomes exhausted
-- You can restore the spell by doing a request of the divine
-- You may replace a spell during a rest, provided it is not exhausted
+### Preparing pact spells
+- Prepare spells when taking a rest
+- You may replace an existing spell, provided it is not exhausted
+- Provide a two-word description of your spell (ie "Healing Word", "Spider cloud")
+- Roll on the 2d6 table below, and the patron creates the spell accordingly
 
 | 2d6   | DC | Title   |
 |:------|:---|:--------|
@@ -456,10 +451,17 @@ Roll on the table below.
 | 10-11 | 12 | Strong  |
 | 12    | 15 | Expert  |
 
-For example, you may choose "healing word" and roll a 2, creating a "healing word cantrip" that requires a DC 5 spell check when casting. Or, you may choose "spiritual sword" and roll a 10, creating a "Strong healing word" that requires a DC 12 spell check to cast.
+### Casting pact spells
+- Make a **WIS** check against the spell DC, add your pact spellcasting bonus
+- If you succeed, you cast the spell normally
+- If you fail(or roll a 1 before bonuses), the spell is exhausted
+- To restore an exhausted spell, complete a request of your patron
+
 \page
 ## Naming Magic
-The first time you choose this, you gain access to Naming Spellcasting.
+Gain the following benefits:
+- You may expend 2 **CON** score to learn a random magic name
+
 <br><br>
 Roll on the table below.
 | 2d6   | Effect                                      |
@@ -471,23 +473,23 @@ Roll on the table below.
 | 11    | Expend 1 **CON** to record a spell you cast today |
 | 12    | Create your own name at no cost             |
 
-### Naming spellcasting
-- You may expend 2 **CON** score to learn a random magic name
-- Your number of names may not exceed your CHA mod
-- Describe a spell utilizing one or more name, keeper assigns the DC for a CHA check necessary to cast the spell
-- Example: using the name "Fire" to create a heatless flame in your hand for 1 hour
-- If the D20 rolls a 1, the spell fails catastrophically
-
+### Casting name spells
+- Pick one or more words to draw the spell's power from
+- Describe your intent for the spell(ie "Create a ball of fire", "transmute that shoe into a giant spider", "raise them from the dead")
+- The keeper will provide a DC to hit in order to cast this spell successfully
+- Make a **CHA** check and add naming spellcasting bonus
+- On a success, the spell is cast successfully
+- On a roll of 1(before mods), the spell fails catastrophically(perhaps even fatally)
 
 ## Skills
-- You may practice and learn one additional skill
-- Your maximum number of skills is either 1 or your INT mod
+Gain the following benefits:
+- Practice and then learn(after succeeding once) one additional skill
+- Your maximum number of skills is your **INT** mod(minimum 1)
+- Declare whenever you're using a skill for an ability check, then add the skill's die
+- Skill dies start as D4, but can grow (D4->D6->D8->D10->D12->D20)
 
 <br><br>
 Roll on the table below.
-- You may practice a skill while making ability check by declaring it
-- Succeeding when practing gives you this skill
-- The skill die for a new skill starts at D4, but may grow(D4->D6->D8->D10->D12->D20)
 
 | 2d6   | Effect                                       |
 |:------|:---------------------------------------------|
@@ -499,7 +501,7 @@ Roll on the table below.
 
 
 ### Examples of skills
-A skill encompasses one task or type of task, or domain of knowledge.  You may create your own and attempt them, but below are some examples that might meet your needs.
+A skill encompasses one task or type of task, or domain of knowledge. **You may create new skills**, but below are some examples that might meet your needs.
 - **Pickpocketing**: Taking items from someone without them noticing
 - **Lockpicking**: Disarming mechanical locks quietly and without leaving evidence
 - **Acrobatics**: Swinging from chandliers, rolling to avoid harm from a fall, running across a tight-rope, leaping great distances, etc
@@ -515,7 +517,7 @@ A skill encompasses one task or type of task, or domain of knowledge.  You may c
 - **Intimidation**: Creating a threatening presence in order to gain undue influence over someone through fear, on or off the battlefield
 - **Performance**: Evoking feelings such as wonder, joy, rage, or sorrow through the use of dance, speech, musical instrument, or singing. Pick a specific kind of performance(such as singing) when you practice and gain this skill
 - **Insight**: Determining someone's general disposition, current mood, stress levels, and detecting deception
-- **Foraging**: Locating and identifying edible plants as well as plants containing medicinal or alchemical properties
 \page
+- **Foraging**: Locating and identifying edible plants as well as plants containing medicinal or alchemical properties
 - **History**: Recalling the details of famous people, places, objects, or cultures through secondary sources such as conversing with others or reading texts
 - **Religion**: Recalling the lore of divines, undead, fiends, and other extra-planar beings, or sensing their presence
