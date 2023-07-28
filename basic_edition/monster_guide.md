@@ -101,24 +101,6 @@ Roll 2d6 for the columns of the table below.
 |  5 | Anonymous Figure | Revenge       |
 |  6 | Merchant         | Corner Market |
 
-## Humanoids
-
-### Stat Block
-```
-Commoner, HP: 10, AC: 10 [10, 10, 10, 10, 10, 10]
-Unarmed +0 D2
-Club +0 D4
-Loot: 3d20 CP
-```
-
-### Lore
-The blood of civilization that make footholds in the furthest reaches of the world.
-
-### Variations
-Humanoids may be created with exactly the same rules as player characters.
-However, here are some common archetypes.
-
-
 ## Authorities
 Stable humanoid settlements gather around some set of norms. When you violate these norms sufficiently, or attempt to change them, you learn who holds authority.
 
@@ -158,14 +140,62 @@ Nobles are often granted a lesser power by Commoners or Royals only to later ove
 The wealth of successful merchants allows them to seize the most lucrative business opportunities, compounding their wealth over time as they minimize competition and maximize profit. The conversion of wealth into power through bribery is what allows merchants to gain power without getting their hands dirty.
 
 #### Warriors
+Nations with warrior cultures tend to find service fashionable, making it a precondition for noble status. In such socieities, upward social mobility is granted to warriors that fight particularly well. Left unchecked, the military may overtake a nation through a coups. The anxiety of a coups acts both as a check against military expansion and also as leverage in negotiating with competing agents.
 
 #### Mages
+The most common classes of mages are students of arcane magic
 
 #### Diviners
 
 #### Philosophers
 
 ### Commoners
+
+## Cults
+```
+Cultist, HP: 10, AC: 12 [12, 14, 10, 16, 16, 16]
+Dagger +4 D4
+Naming magic: +6 DC 14
+Pact Magic: +6 DC 14
+Face Melt(DC: 8): one target, CON save or 3d6 damage
+Dark sphere(DC: 10): 30ft sphere of magiclal darkness, lasts 1 hour
+False Life(DC: 12): Gain 4d10 temporary HP
+```
+
+```
+Fanatic Knight, HP: 16, AC: 15 [16, 12, 16, 12, 16, 12]
+Greatsword +6 D12
+Pact Magic: +6 DC 14
+Flame Blade(DC 10): Blade attacks deal extra D6 damage for 1 minute
+Dark sight(DC 10): Can see in even magical darkness for 1 minute
+Faith Aura(DC12): Friendly creatures within 10ft receive +1 to AC for 1 minute
+```
+
+### Lore
+A cult is measured not by miniscule size or obscurity of rhetoric, but of its capacity to focus power. A cult is nothing without charismatic leaders and fanatics willing to do whatever they say. Dogma and a keen focus on loyalty and devotion over all else make for a prime environment for the cult. Weaker cults may be relegated to living in tents surrounding a shrine, while larger ones may have their own orders of knights and even kingdoms. Fresh converts are typically selected by emotional vulnerability, using manipulative tactics such as lovebombing to earn enough trust to sever their outside connections and make leaving difficult.
+
+Though cults may form around the personality of a single charismatic leader, they often have some magical power. Either the cult's leadership practices magic, or has artifacts that offer magical abilities, or has a pact with a creature such as a demon, devil, or undead that offers pact magic. No matter the magic involved, a cult will recruit will restrict magic to those who are most trusted by leadership.
+
+
+### Variations
+
+#### Demonic
+
+#### Infernal
+
+#### Undead
+
+#### Outsider
+
+#### Arcane
+
+#### Namers
+
+#### Mundane
+
+#### Fey
+
+#### Monster
 
 
 

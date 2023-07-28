@@ -148,7 +148,7 @@ Note: +1 means a +1 bonus to attack and damage rolls.
 61. Merciful Hammer: Wooden warhammer. Attacks leave creatures at 1HP unconscious when the weapon would otherwise reduce them to 0HP and kill them.
 62. Greatsword of Wrath: One attunes by swearing an oath of vengeance and offering one's soul to the blade. One may see and hear visions of the former wielders whose souls live in this blade. Becomes a +1 sword after killing 10 evil creatures with the blade, +2 after 30, and +3 after 60. Once per rest, the wielder may use two actions to heal 2d6 HP from the blade.
 63. Spear of Justice: +1 minor weapon. Killing an evil creature with this spear accumulates 1 point of justice within the tip, up to a maximum of 7 points. When the wielder hits with this spear, they may expend all the tip's justice, dealing D4 for each point of justice.
-64. Maskar's Armor: Heavy armor with 17 AC. The visor remains wet with a perpetual supply of dripping fresh blood.
+64. Maskar's Armor: Once worn by a famous dragonslayer. Heavy armor with 17 AC. The visor remains wet with a perpetual supply of dripping fresh blood.
 65. Ring of Shadow Jump: The wearer may use their action to teleport up to 60ft away to an area that is not directly lit, such as the shadow of a building.
 66. Seeker Pipe: The smoke from this pipe forms into tiny dragons. If the wielder speaks the name of a person they've met before, the tiny dragons will float in that person's direction.
 67. Bag of holding: This bag connects to a 5ft cubic pocket dimension that counts as 20 slots of inventory space.
@@ -214,6 +214,44 @@ Steal from videogames for enemies with a large amount of HP. Each third of the h
 
 For instance, a confident boss may lead with tactically unsound or weak attacks as it under-estimates the party in stage 1. In stage 2, it may apply more powerful abilities and select more tactically sound options. In stage 3, the creature is panicking and using every possible resource at its disposal.
 
+# Picking perks
+Each PC earns perks during an adventure, but then cashes them in during downtime. This is an opportunity to tie the characters to the world, or at least to celebrate their advancement with a training montage. Here are some suggestions for each perk for inspiration, but ideally ideas can be created or adapted to complement the campaign and the PC.
+
+## Hand-to-hand
+
+Mentors
+1. Thug(retired, active)
+2. Monk(Raos, Fliff, Coent)
+3. Pit fighter manager
+4. Acrobat(bohemian, jester, bear-wrestler)
+5. Knight(royal, Bimros, Kord, or Solus)
+6. Beggar
+
+Montages
+1. Lifting and throwing logs
+2. Splitting boards by hand
+3. Punching a tree
+4. Sitting under a waterfall/river
+5. Fighting blindfolded
+6. Snatching fly out of the air
+
+## Minor Weapons
+
+Mentors
+1. Performer(knife thrower, juggler)
+2. Guard/Soldier/Militia
+3. Assassin(retired)
+4. Thug(retired, active)
+5. 
+6. 
+
+## Ranged Weapons
+## Martial Weapons
+## Great Weapons
+## Pact Magic
+## Naming Magic
+## Skills
+
 # Arcane Magic
 This is the most straight-forward type of vancian magic. Unless the Arcana skill(See: Skills) is used to alter the spell, it's played based on the description using best judgement for interpretation.
 
@@ -245,7 +283,7 @@ There are a few types of duration that can be useful:
 - until dismissed(for semi-permanent spells that may stack over multiple days. Require a material component to be consumed for these to make them less spammable. These become permanent if the caster dies.)
 - permanent(default for effects like one-time damage or healing)
 
-## Spells
+## Arcane Spells
 If you need some random spells, consult this table. It's highly encouraged to create or customize your own, however.
 
 1. Flame hand: 15 foot cone of flame erupts from your hand and forces DEX save to halve 3d6 damage.
