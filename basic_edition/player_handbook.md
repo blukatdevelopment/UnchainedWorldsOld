@@ -8,17 +8,16 @@
 
 # Creating Your Character
 
-## Name
+## Step 1: Name
 1. Think up a few flavor words: Tree axe river stick
 2. Combine them: Treeaxeriverstick
 3. Steal three to four random syllables: Tre xe ver ick
 4. Combine them to make your name: Trexeverick
 
-## Appearance
+## Step 2: Appearance
 You may wish to randomize your appearance, or select options from the tables in this section.
 
 ### Bimran
-Bimrans were created blue in Bimros's image in the divine age, but assume a wide variety of traits now.
 Roll 2d6 for each column in the table below.
 
 | 2d6   | Complexion | Eye color | Height  | Mutations|
@@ -52,7 +51,7 @@ If you have mutations, roll a D12 on this table.
 ### Beast Folk
 Beast folk were transformed from awakened beasts by Raos and closely resemble them to this day.
 
-Roll a beast type using a D6 for the ones place and a D6 for the tens place.
+Roll a beast breed using a D6 for the ones place and a D6 for the tens place.
 | D66 | Beast    | D66 | Beast    |
 |:----|:---------|:----|:---------|
 | 11  | Possum   | 41  | Boar     |
@@ -74,71 +73,28 @@ Roll a beast type using a D6 for the ones place and a D6 for the tens place.
 | 35  | Otter    | 65  | Chicken  |
 | 36  | Sheep    | 66  | Cheetah  |
 
-## Abilities
-When performing actions, the keeper may call for ability checks. These are the abilities used.
+Roll a D6. On a 1, Roll a mutation below.
+1. Red glowing eyes
+2. Unnatural fur/scale/feather color
+3. Extra set of horns
+4. Extra set of eyes
+5. Extra set of ears
+6. Hybrid: Roll an additional beast type
 
-- **STR**ength: Lift, climb, carry, grapple, throw
-- **DEX**terity: Sprint, jump, duck, sneak, aim
-- **CON**stitution: Take hits, resist harm
-- **INT**elligence: Remember, reason, calculate
-- **WIS**dom: Sense, intuit, control emotions
-- **CHA**risma: Joke, intimidate, persuade, deceive
-
+## Step 3: Class
+Choose a class to decide your ability scores, starting gear, and starting perks.
 \page
-### Modifiers
-The keeper may ask you to make a check to succeed an attempted action or to resist negative effects. Roll a 1d20 and add the modifier for the relevant ability.
-
-| Score | Modifier |
-|:------|:---------|
-| 20    | +5       |
-| 18-19 | +4       |
-| 16-17 | +3       |
-| 14-15 | +2       |
-| 12-13 | +1       |
-| 10-11 | 0        |
-| 8-9   | -1       |
-| 6-7   | -2       |
-| 4-5   | -3       |
-| 2-3   | -4       |
-| 1     | -5       |
-
-### Generating Ability Scores
-- Roll 4d6, drop the lowest roll
-- This is your strength score
-- Repeat for the other abilities
-- If you don't get at least one 14, reroll
-- When you're done, you may swap one pair of scores
-
-## Other Stats
-
-### Hit Points(HP)
-- Reduced by taking damage
-- If it falls below 1, you die
-- HP = **CON** score (ie 17 **CON** = 17HP)
-
-### Armor Class(AC)
-- Determines whether an enemy attack hits you
-- Higher is better
-- Unarmored AC = 10 + your **DEX** mod
-
-### Inventory Slots
-- **STR** score = slots
-- Identical items stack
-|Size | Stack | Examples            |
-|:----|:------|:--------------------|
-|Large|     1 | Sword, rope, book   |
-|Small|     4 | Torch, ration       |
-|Tiny |    16 | Chalk, paper, ink   |
-|Coin |    64 | Gold, Silver, Copper|
-
-## Tier
-- Campaigns will generally be designed with a specific tier of 
-
 ### Commoner
-- Start with no perks, humble origins(you will be playing through your backstory)
-- Your character knows little, if anything, about the world
-- Luck, player skill, and teamwork are paramount
-- Start with common clothes and D4 items from the table below
+| STR | DEX | CON | INT | WIS | CHA |
+|:----|:----|:----|:----|:----|:----|
+| 3d6 | 3d6 | 3d6 | 3d6 | 3d6 | 3d6 |
+
+Starting Perks:
+- None
+
+Starting gear:
+- Common clothes
+- Roll D4 times on the table below
 
 | D12 | Gear             |
 |:----|:-----------------|
@@ -155,14 +111,169 @@ The keeper may ask you to make a check to succeed an attempted action or to resi
 | 11  | Club             |
 | 12  | Caltrops(one bag)|
 
-### Adventurer
-- Start with 10 perks, 5d6 * 5 GP of starting gold, and 1 magic item
-- Waive the requirement to practice skills during character creation
-- Your PC has some experience with the world and danger
-- How did your PC gain their current perks(mentor, patron, faction)?
-- What previous adventure did you go on?
-- Pick one other party member, explain relationship
+### Warrior
+| STR | DEX | CON | INT | WIS | CHA |
+|:----|:----|:----|:----|:----|:----|
+| 15  | 14  | 13  | 10  | 12  | 8   |
 
+Starting Perks:
+- Ranged Weapons
+- Martial Weapons
+- Martial Weapons
+- Skill(Athletics, Tracking, or Foraging)
+
+Starting gear:
+- Traveler's Clothes
+- Sword
+- Shield
+- Bow
+- 16 Arrows
+- 6d6 GP
+
+### Rogue
+| STR | DEX | CON | INT | WIS | CHA |
+|:----|:----|:----|:----|:----|:----|
+| 10  | 15  | 8   | 14  | 13  | 12  |
+
+Starting Perks:
+- Minor Weapons
+- Minor Weapons
+- Skill (Sneaking or Acrobatics)
+- Skill (Pickpocketing, Lockpicking, or Deception)
+
+Starting gear:
+- Hooded common clothes
+- Backpack
+- 2 Daggers
+- Lockpick
+- 6d6 GP
+
+### Brute
+| STR | DEX | CON | INT | WIS | CHA |
+|:----|:----|:----|:----|:----|:----|
+| 14  | 10  | 15  | 8   | 12  | 13  |
+
+Starting Perks:
+- Hand-to-hand
+- Hand-to-hand
+- Hand-to-hand
+- Great Weapons
+- Great Weapons
+- Skill(Intimidation)
+
+Starting gear:
+- Sleeveless Common Clothes
+- Greatsword
+- 6d6 GP
+
+### Arcanist
+| STR | DEX | CON | INT | WIS | CHA |
+|:----|:----|:----|:----|:----|:----|
+| 10  | 12  | 8   | 15  | 14  | 13  |
+
+Starting Perks:
+- Arcane Magic
+- Arcane Magic
+- Skill(Crafting, Alchemy, or Medicine)
+- Skill(Arcana, History, or Persuasion)
+
+Starting gear:
+- Robes
+- Staff
+- 6d6 GP
+\page
+### Sage
+Student and scholar of philosophy.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:----|:----|:----|:----|:----|:----|
+| 12  | 8   | 10  | 14  | 15  | 13  |
+
+Starting Perks:
+- Pact Magic
+- Martial Weapons
+- Skill(Religion, Arcana, or Insight)
+- Skill(Medicine, Persuasion, or Intimidation)
+
+Starting gear:
+- Robes
+- Holy Book or Lore Book
+- Sword
+- 6d6 GP
+
+### Muse
+| STR | DEX | CON | INT | WIS | CHA |
+|:----|:----|:----|:----|:----|:----|
+| 8   | 13  | 12  | 14  | 10  | 15  |
+
+Starting Perks:
+- Naming Magic
+- Naming Magic
+- Skill(Insight, Sneaking, or History)
+- Skill(Performance, Deception, or Persuasion)
+
+Starting gear:
+- Fine Clothes
+- Flute, Viola, or Lute
+- Book of Lore
+- 6d6 GP
+
+# Abilities
+When performing actions, the keeper may call for ability checks. These are the abilities used.
+
+- **STR**ength: Lift, climb, carry, grapple, throw
+- **DEX**terity: Sprint, jump, duck, sneak, aim
+- **CON**stitution: Take hits, resist harm
+- **INT**elligence: Remember, reason, calculate
+- **WIS**dom: Sense, intuit, control emotions
+- **CHA**risma: Joke, intimidate, persuade, deceive
+
+## Modifiers
+The keeper may ask you to make a check to succeed an attempted action or to resist negative effects. Roll a 1d20 and add the modifier for the relevant ability.
+
+| Score | Modifier |
+|:------|:---------|
+| 20    | +5       |
+| 18-19 | +4       |
+| 16-17 | +3       |
+| 14-15 | +2       |
+| 12-13 | +1       |
+| 10-11 | 0        |
+| 8-9   | -1       |
+| 6-7   | -2       |
+| 4-5   | -3       |
+| 2-3   | -4       |
+| 1     | -5       |
+
+## Generating Ability Scores
+- Roll 4d6, drop the lowest roll
+- This is your strength score
+- Repeat for the other abilities
+- If you don't get at least one 14, reroll
+- When you're done, you may swap one pair of scores
+
+# Other Stats
+
+## Hit Points(HP)
+- Reduced by taking damage
+- If it falls below 1, you die
+- HP = **CON** score (ie 17 **CON** = 17HP)
+
+## Armor Class(AC)
+- Determines whether an enemy attack hits you
+- Higher is better
+- Unarmored AC = 10 + your **DEX** mod
+
+## Inventory Slots
+- **STR** score = slots
+- Identical items stack
+|Size | Stack | Examples            |
+|:----|:------|:--------------------|
+|Large|     1 | Sword, rope, book   |
+|Small|     4 | Torch, ration       |
+|Tiny |    16 | Chalk, paper, ink   |
+|Coin |    64 | Gold, Silver, Copper|
+\page
 # Combat
 ## Initiative
 - Each side rolls a D6 and winner goes first
@@ -191,6 +302,7 @@ Using your action, you may perform many tasks. Some examples:
 
 # Exploration
 
+
 ## Equipment And Items
 
 ### Weapons
@@ -205,7 +317,7 @@ Using your action, you may perform many tasks. Some examples:
 
 ### Coinage
 - 1 Gold Piece = 10 silver pieces = 100 copper pieces
-\page
+
 ### Adventuring gear
 
 | Large Item            | Cost  |
@@ -262,7 +374,7 @@ If the target's got less than half their max HP, you can expend the kit over 1 m
 
 #### Backpack
 Can carry up to 4 small items, 16 tiny items, or some combination, even if they aren't identical.
-
+\page
 #### Light Sources
 |        Item      |  Cost |  Size   | Light | Duration |
 |:-----------------|:------|:--------|:------|:---------|
@@ -517,7 +629,7 @@ A skill encompasses one task or type of task, or domain of knowledge. **You may 
 - **Intimidation**: Creating a threatening presence in order to gain undue influence over someone through fear, on or off the battlefield
 - **Performance**: Evoking feelings such as wonder, joy, rage, or sorrow through the use of dance, speech, musical instrument, or singing. Pick a specific kind of performance(such as singing) when you practice and gain this skill
 - **Insight**: Determining someone's general disposition, current mood, stress levels, and detecting deception
-\page
+
 - **Foraging**: Locating and identifying edible plants as well as plants containing medicinal or alchemical properties
 - **History**: Recalling the details of famous people, places, objects, or cultures through secondary sources such as conversing with others or reading texts
 - **Religion**: Recalling the lore of divines, undead, fiends, and other extra-planar beings, or sensing their presence
