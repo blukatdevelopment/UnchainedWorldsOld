@@ -387,7 +387,7 @@ If you need some random spells, consult this table. It's highly encouraged to cr
 99. Life drain: A creature you can see must succeed a WIS save to halve 10 damage and avoid transfering 10 years of youth to you.
 100. Aura of life: Now, and at the start of your turn for the next minute, you may heal all creatures within 10ft of you for 1d4 hit points.
 
-# Divine Magic
+# Pact Magic
 
 ## Creating spells
 Given a two word description and a DC, create a spell as if making an arcane spell. Except, adjust for the spell's DC.
@@ -411,7 +411,7 @@ To make these spells feel unique, require three actions to cast. This makes them
 
 Invert the divine magic guidelines, and you can gauge the DC for a spell proposed by a player.
 
-## Magic Words
+## Magic Names
 1. Psychic
 2. Fairy
 3. Undead

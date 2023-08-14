@@ -9,10 +9,37 @@
 # Creating Your Character
 
 ## Step 1: Name
-1. Think up a few flavor words: Tree axe river stick
-2. Combine them: Treeaxeriverstick
-3. Steal three to four random syllables: Tre xe ver ick
-4. Combine them to make your name: Trexeverick
+Choose or roll a D20
+
+### 1-3 Primordial
+1. Think up four or five words that describe your character's job and appearance. Example: Tree axe river stick
+2. Combine them to make your full name. Each full name in a family differs by one word. Example: Treeaxeriverstick
+3. Pick two of the words to make your short name. Example: Treeaxe
+
+### 4-12 Common
+1. Create a Primordian name. Example: Treeaxeriverstick
+2. Select three to four random syllables. Example: Tre xe ver ick
+3. Combine them to make your name. Example: Trexeverick
+
+### 13-14 Mercantile
+1. Create a Primordial name. Example: Treeaxeriverstick
+3. Strategically slice off some syllables. Example: Trexrivstick
+4. Slice it into a first and last name. Example: Trex Rivstick
+
+### 15-16 Iron Tongue
+1. Pick a random word. Example: Axe
+2. Add a hard consonant(hK, t, tch, ck, x, rt) to the end to make your first name. Replace an existing consonant or add another vowel if needed. Example: Axek
+3. Combine two of the following in any order to make a last name:
+- Metalworking object(iron, charcoal, coke, anvil, copper, hammer, hardy, flux, pickle, quenchant, quill, pritchell)
+- Metalworking adjective(bright, hot, strong, soft, smoothe)
+- Metalworking verb(work, anneal, bellow, bloom, blow, blue, rust, polish, brown, cast, smith, harden, forge, temper, weld)
+Example: Axek Anvilbloom
+
+### 17-20 Fang Tongue
+1. Your name is 1d4+2 syllables long.
+2. Roll a consonent and vowel on the table below for each syllable.
+
+Note: fang tongue is often preferred for its ease of speaking by those with a beak, bill, fangs, or long snout.
 
 ## Step 2: Appearance
 You may wish to randomize your appearance, or select options from the tables in this section.
@@ -83,7 +110,7 @@ Roll a D6. On a 1, Roll a mutation below.
 
 ## Step 3: Class
 Choose a class to decide your ability scores, starting gear, and starting perks.
-\page
+
 ### Commoner
 | STR | DEX | CON | INT | WIS | CHA |
 |:----|:----|:----|:----|:----|:----|
@@ -181,10 +208,9 @@ Starting gear:
 - Robes
 - Staff
 - 6d6 GP
-\page
-### Sage
-Student and scholar of philosophy.
 
+
+### Sage
 | STR | DEX | CON | INT | WIS | CHA |
 |:----|:----|:----|:----|:----|:----|
 | 12  | 8   | 10  | 14  | 15  | 13  |
@@ -217,6 +243,9 @@ Starting gear:
 - Flute, Viola, or Lute
 - Book of Lore
 - 6d6 GP
+
+### Create Your Own Class
+Apply the following scores in any order [15, 14, 13, 12, 10, 8], pick 4 perks, and work with the keeper to determine starting gear in addition to 6d6 GP.
 
 # Abilities
 When performing actions, the keeper may call for ability checks. These are the abilities used.
@@ -273,7 +302,7 @@ The keeper may ask you to make a check to succeed an attempted action or to resi
 |Small|     4 | Torch, ration       |
 |Tiny |    16 | Chalk, paper, ink   |
 |Coin |    64 | Gold, Silver, Copper|
-\page
+
 # Combat
 ## Initiative
 - Each side rolls a D6 and winner goes first
@@ -281,15 +310,40 @@ The keeper may ask you to make a check to succeed an attempted action or to resi
 - Optionally, reroll each round
 
 ### Actions In Initiative
-Using your action, you may perform many tasks. Some examples:
-- **Attack**
+Using your action, you may perform many tasks. The most common are listed in categories below.
+
+#### Attacking actions         
+- **Attack**: Make an attack against one target
 - **Second Attack**: -3 penalty to hit
 - **Third Attack**:  -6 penalty to hit
-- **Move**: Move up to 6 paces, 5ft each
+- **Power Up**: D6 bonus to next attack roll this turn
+- **Grapple target**: 
+
+#### Magic actions
+- **Cast a spell**: Cast a magical spell
+
+##### Arcane Magic actions
+See the "Arcane Magic", "Pact Magic", and "Naming Magic" for more details
+- **Alter spell**: Make an int/arcana check to ammend spell(Keeper decides DC)
+- **Ready spell**: allows a spell to be cast once this turn, consuming D4 HP if the spell is exhausted
+
+##### Pact Magic and Naming Magic actions
+- **Charge spell**: Next spellcasting check this turn has a +D6 bonus. This stacks.
+- **Cast Second spell**: Has a -3 penalty to the spellcasting check.
+- **Cast Third spell**: Has a -3 penalty to the spellcasting check.
+
+#### Misc actions
+- **Move**: Move up to 30ft
 - **Hide**: Needs line of sight broken and DC 12 **DEX** check
-- **Dodge**:(requires 2 actions) +3 to AC
-- **Cast a spell**: (requires 2 actions)
-- **Draw/Store/Use object**
+- **Dodge**: Make a DEX/acrobatics check against one successful attack roll to halve the damage
+- **Interact**: Open a door, pick up a rock, push a boulder, etc
+- **Speak**: Give a six second message(once per turn)
+
+#### Inventory actions
+- **Draw**: Pick up an item from your inventory
+- **Pick up**: Pick up an item from the environment
+- **Stow**: Put a held item into your inventory
+- **Use Item**: Use an item you're holding
 
 ## Making Attacks
 - Roll a D20
@@ -374,7 +428,7 @@ If the target's got less than half their max HP, you can expend the kit over 1 m
 
 #### Backpack
 Can carry up to 4 small items, 16 tiny items, or some combination, even if they aren't identical.
-\page
+
 #### Light Sources
 |        Item      |  Cost |  Size   | Light | Duration |
 |:-----------------|:------|:--------|:------|:---------|
@@ -442,7 +496,7 @@ Armor requires a minimum **STR** or **DEX** to gain the benefits.
 - Perks offer random benefits to spice up static min-max character builds
 - Perks are earned during adventure and cashed in during downtime
 
-## Hand-to-hand
+## Perk: Hand-to-hand
 Gain the following benefits:
 - May substitute **DEX** for **STR** with unarmed attacks
 <br><br>
@@ -450,15 +504,14 @@ Roll on the table below.
 
 | 2d6   | Effect                                            |
 |:------|:--------------------------------------------------|
-| 2     | Unarmed attacks deal D2 more damage               |
-| 3     | Add D6 to AC(lasts 1 round) per rest              |
+| 2     | A successful grapple deals unarmed damage         |
+| 3     | Unarmed attacks deal D2 more damage               |
 | 4-7   | +1 to unarmed attacks                             |
 | 8-10  | +2 to either **STR**, **DEX**, or **CON**, or +1 to two       |
-| 11    | A successful grapple deals unarmed damage         |
+| 11    | +D6 to your AC against one attack once per rest   |
 | 12    | No penalty on second or third unarmed attack      |
-\page
-## Minor Weapons
-<img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/minor_weapons.jpg" style="width:300px;">
+
+## Perk: Minor Weapons
 Gain the following benefits:
 - Substitute **DEX** for **STR** with bladed or sharp minor weapons
 - Throw minor weapons up to 6 paces
@@ -474,8 +527,7 @@ Roll on the table below.
 | 11    | Second attack with minor weapon has no penalty    |
 | 12    | Dual wield to roll damage twice and pick highest  |
 
-## Ranged Weapons
-<img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/ranged_weapons.jpg" style="width:300px;">
+## Perk: Ranged Weapons
 Roll on the table below.
 
 | 2d6   | Effect                                         |
@@ -487,8 +539,7 @@ Roll on the table below.
 | 11    | Add a D6 to ranged attack once per rest        |
 | 12    | Second attack with ranged has no penalty       |
 
-## Martial Weapons
-<img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/martial_weapons.jpg" style="width:300px;">
+## Perk: Martial Weapons
 Roll on the table below.
 
 | 2d6   | Effect                                            |
@@ -500,7 +551,7 @@ Roll on the table below.
 | 11    | When wielding martial weapon two-handed, +1 AC    |
 | 12    | Free attack if a melee attack misses you by 5+    |
 
-## Great Weapons
+## Perk: Great Weapons
 Roll on the table below.
 
 | 2d6   | Effect                                            |
@@ -511,9 +562,8 @@ Roll on the table below.
 | 9-10  | +2 to either **STR** or **CON**, or +1 to both            |
 | 11    | Once per rest, take half damage for D6 turns      |
 | 12    | May reroll great weapon damage, using second roll |
-\page
-## Arcane Magic
-<img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/arcane_magic.jpg" style="width:300px;">
+
+## Perk: Arcane Magic
 Gain the following benefits:
 - Expend 1 **CON** score to learn a spell from a book, scroll, or mentor 
 - Cast each known spell once per rest
@@ -532,8 +582,7 @@ Roll on the table below and learn one random spell.
 | 12    | You may craft spell scrolls*               |
 Spell scrolls cost 5gp of materials, are single use, and use your spellcasting modifier at time of crafting.
 
-## Pact Magic
-<img src="https://raw.githubusercontent.com/blukatdevelopment/UnchainedWorlds/main/img/deities.jpg" style="width:300px;">
+## Perk: Pact Magic
 Gain the following benefits:
 - Choose a divine or other patron to grant your magical powers
 - Prepare a number of spells no greater than your WIS mod(minimum 1)
@@ -569,8 +618,8 @@ Roll on the table below.
 - If you fail(or roll a 1 before bonuses), the spell is exhausted
 - To restore an exhausted spell, complete a request of your patron
 
-\page
-## Naming Magic
+
+## Perk: Naming Magic
 Gain the following benefits:
 - You may expend 2 **CON** score to learn a random magic name
 
@@ -593,12 +642,10 @@ Roll on the table below.
 - On a success, the spell is cast successfully
 - On a roll of 1(before mods), the spell fails catastrophically(perhaps even fatally)
 
-## Skills
-Gain the following benefits:
-- Practice and then learn(after succeeding once) one additional skill
-- Your maximum number of skills is your **INT** mod(minimum 1)
-- Declare whenever you're using a skill for an ability check, then add the skill's die
-- Skill dies start as D4, but can grow (D4->D6->D8->D10->D12->D20)
+## Perk: Skills
+Gain the following benefits(See "Using Skills" for skill info):
+- Gain a skill die for a number of skills equal to your **INT** mod (minimum 1)
+- Skill dice start as D4, but can grow (D4->D6->D8->D10->D12->D20)
 
 <br><br>
 Roll on the table below.
@@ -611,25 +658,98 @@ Roll on the table below.
 | 10-11 | Roll max value of skill die once per rest    |
 | 12    | Gain a once/rest ability based on one skill  |
 
+# Using Skills
+Anyone can use any skill without proficiency. Those proficient in a given skill have a skill die they may add to any ability checks they make when performing the skill. Your skill dice may be of different sizes.
 
-### Examples of skills
-A skill encompasses one task or type of task, or domain of knowledge. **You may create new skills**, but below are some examples that might meet your needs.
-- **Pickpocketing**: Taking items from someone without them noticing
+## Simple Skills
+The simplest skills define a range of actions that their skill checks(an ability check you can add your relevant skill die to) apply to.
+
+- **Pickpocketing**: Successfully taking an item from a target's inventory or hand without being detected.
 - **Lockpicking**: Disarming mechanical locks quietly and without leaving evidence
 - **Acrobatics**: Swinging from chandliers, rolling to avoid harm from a fall, running across a tight-rope, leaping great distances, etc
 - **Athletics**: Grappling, tripping, or throwing opponents, breaking doors down, climbing, etc
 - **Arcana**: Reading magic text, detecting a magical presence, identifying a magic item or spell in use, casting an altered form of an arcane spell(spell fails to cast and is expended upon failure)
-- **Crafting**: Creating, repairing, combining, and modifying items as well as harvesting crafting materials from corpses and objects
-- **Alchemy**: Brewing tinctures from alchemical ingredients(herbs, mushrooms, monster parts) and combining tinctures to make potions with new effects
-- **Medicine**: Creating medicine from herbs, mushrooms, and monster parts to remove a harmful condition, restore hit points, or resussicate someone who just seemingly died
 - **Sneaking**: Moving quietly in the shadows and avoiding detection
 - **Tracking**: Identifying signs of nearby creatures, the age of tracks, and making calls, bait, or repellant for beasts and monsters
 - **Persuasion**: Appealing to a subject's self-interest, rationality, morality, or other traits tactfully in order to change their mind
 - **Deception**: Bluffing, exaggerating, implying untruths, denying truths, or otherwise fabricating details convincingly
 - **Intimidation**: Creating a threatening presence in order to gain undue influence over someone through fear, on or off the battlefield
-- **Performance**: Evoking feelings such as wonder, joy, rage, or sorrow through the use of dance, speech, musical instrument, or singing. Pick a specific kind of performance(such as singing) when you practice and gain this skill
 - **Insight**: Determining someone's general disposition, current mood, stress levels, and detecting deception
-
-- **Foraging**: Locating and identifying edible plants as well as plants containing medicinal or alchemical properties
+- **Foraging**: Locating and identifying edible plants, fungus, fish for food, medicine or alchemy
 - **History**: Recalling the details of famous people, places, objects, or cultures through secondary sources such as conversing with others or reading texts
-- **Religion**: Recalling the lore of divines, undead, fiends, and other extra-planar beings, or sensing their presence
+
+
+## Complex skills
+These skills are complex 
+
+### Religion
+
+#### Recall Lore
+Recall the lore of divines, undead, fiends, fey, and other extra-planar beings. This may assist you in knowing what rituals are applicable to a given being.
+
+#### Rituals
+Rituals are special interactions with extra-planar beings.
+- Pray for a miracle
+- Detect good and evil
+- Propose a deal
+- Request an audience
+- Speak a pact
+- Turn or cast out
+
+### Performance
+Evoke feelings such as wonder, joy, rage, or sorrow through a performing art. When you gain this skill, roll a D20 or choose from the list below. If you want an option not presented, work with your keeper.
+1. Flute
+2. Lute
+3. Viola
+4. Bagpipe
+5. Hurdy gurdy
+6. Horn
+7. Harp
+8. Hammer Dulcimer
+9. Drums
+10. Tamberine
+11. Finger Cymbals
+12. Singing
+13. Acting
+14. Comedy
+15. Juggling
+16. Sleight of hand tricks
+17. Romance
+18. Story telling
+19. Dancing
+20. Poetry
+
+### Crafting
+
+#### Determine a crafting recipe
+You may be able to determine more simple crafting recipes with a single check. Others, however, may require days of research working on a prototype from materials. A completed prototype renders an inferior prototype version of an item as well as a crafting recipe. A crafting recipe has a DC, a list of materials, and a rough crafting time.
+
+#### Craft an item
+Attempting to craft an item consumes the materials and some time. Upon a success, the item is created.
+
+#### Repair an item
+A successful crafting check reveals if an item can be repaired, any materials needed, time, and a DC. By consuming the time and materials, a repair may be attempted. Upon a failure of 5+, the broken item is destroyed beyond repair.
+
+#### Harvesting
+A successful crafting check will reveal any valuable crafting materials such as fur, hide, bone, scales, carapace, teeth, claws, resin, wood, or bark that can be harvested from a creature, plant, or object. These materials may be used in recipes, sold in their raw form, or be crafted into a value-added item such as a necklace or leather. A crafting check may be used to successfully harvest these materials, destroying them on a failure.
+
+### Alchemy
+
+#### Brew a tincture
+Brewing a single alchemical ingredient with an alchemy check renders a tincture, which may fill flasks or vials. One flask, or four vials constitute a full dose that will render an alchemical effect.
+
+#### Brew a potion
+When brewing a potion, one combines multiple tinctures or other potions with a specific aim. One makes an alchemy check(Keeper provides DC based on complexity). The resulting potion has the same volume as the tinctures and potions that were used to make it. If the potion brewing fails, it becomes inert liquid.
+
+### Medicine
+
+#### Create Medicine
+By consuming one medicinal ingredient and 10 minutes, one may attempt to create one of the following items:
+- (DC 15)Ointment: Heals D4 HP, provided target has half or more of their max HP. Expires after one day.
+- (DC 20)Purifying salve: Removes one poison-related condition, masks an active illness's symptoms
+- (DC 20)Healer's kit: Same as in player handbook
+- (DC 20)Smelling Salt: wake an unconscious creature back to 1HP
+- (DC 25)Advanced healer's kit: Same as in player's handbook, except it heals 2d6 HP
+
+#### Field Medicine
+Attempt to place a splint on a broken limb, resussicate someone who is not breathing, or stop severe bleeding. The DC is determined according to the situation, and is significantly lowered if you consume a healer's kit when practicing field medicine.
