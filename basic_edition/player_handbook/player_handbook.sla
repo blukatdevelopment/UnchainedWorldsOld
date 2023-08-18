@@ -1,0 +1,1410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.8">
+    <DOCUMENT ANZPAGES="27" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="1" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="2" DFONT="DejaVu Sans Book" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="1" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_US" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" SnapToElement="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.5" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="0" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="DejaVu Sans Book" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_US"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="3" markLength="20.0016" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="File" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0016" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Subset Name="DejaVu Sans Bold"/>
+            <Subset Name="DejaVu Sans Book"/>
+            <Subset Name="DejaVu Sans Condensed Oblique"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="26" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal Left" MNAM="" Size="Custom" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="Normal Right" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="496" PAGEYPOS="20" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="672" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="496" PAGEYPOS="672" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="2" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="1324" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="3" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="496" PAGEYPOS="1324" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="4" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="1976" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="5" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="496" PAGEYPOS="1976" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="6" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="2628" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="7" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="496" PAGEYPOS="2628" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="8" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="3280" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="9" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="496" PAGEYPOS="3280" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="10" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="3932" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="11" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="496" PAGEYPOS="3932" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="12" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="4584" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="13" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="496" PAGEYPOS="4584" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="14" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="5236" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="15" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="496" PAGEYPOS="5236" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="16" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="5888" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="17" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="496" PAGEYPOS="5888" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="18" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="6540" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="19" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="496" PAGEYPOS="6540" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="20" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="7192" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="21" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="496" PAGEYPOS="7192" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="22" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="7844" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="23" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="496" PAGEYPOS="7844" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="24" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="8496" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="25" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="496" PAGEYPOS="8496" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="26" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTEROBJECT XPOS="99.684210526316" YPOS="19.3789473684211" OwnPage="0" ItemID="733042763" PTYPE="2" WIDTH="396" HEIGHT="612" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img/left_page.png" IRENDER="0" EMBEDDED="0" path="M0 0 L396 0 L396 612 L0 612 L0 0 Z" copath="M0 0 L396 0 L396 612 L0 612 L0 0 Z" OnMasterPage="Normal Left" gXpos="31981455.6842105" gYpos="2032462015.37895" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <MASTEROBJECT XPOS="100" YPOS="20.2421052631579" OwnPage="1" ItemID="733132987" PTYPE="2" WIDTH="396" HEIGHT="612" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img/right_page.png" IRENDER="0" EMBEDDED="0" path="M0 0 L396 0 L396 612 L0 612 L0 0 Z" copath="M0 0 L396 0 L396 612 L0 612 L0 0 Z" OnMasterPage="Normal Right" gXpos="131508532" gYpos="2033429584.24211" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="536" YPOS="7232" OwnPage="22" ItemID="733147307" PTYPE="4" WIDTH="316" HEIGHT="34.8631578947368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 34.8632 L0 34.8632 L0 0 Z" copath="M0 0 L316 0 L316 34.8632 L0 34.8632 L0 0 Z" gXpos="536" gYpos="7232" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Character Creation "/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Step 1: Create a Name"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536.973684210526" YPOS="7274.62105263158" OwnPage="22" ItemID="742713371" PTYPE="4" WIDTH="314.526315789474" HEIGHT="86.7105263157885" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L314.526 0 L314.526 86.7105 L0 86.7105 L0 0 Z" copath="M0 0 L314.526 0 L314.526 86.7105 L0 86.7105 L0 0 Z" gXpos="536.973684210526" gYpos="7274.62105263158" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Book" CH="1. Think up four or five words that describe your character's job and appearance. "/>
+                <ITEXT FONT="DejaVu Sans Condensed Oblique" CH="Tree axe river stick"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Book" CH="2. Select three to four random syllables. "/>
+                <ITEXT FONT="DejaVu Sans Condensed Oblique" CH="Tre xe ver ick"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Book" CH="3. Combine them to make your name. "/>
+                <ITEXT FONT="DejaVu Sans Condensed Oblique" CH="Trexeverick"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="7369" OwnPage="22" ItemID="742707451" PTYPE="4" WIDTH="316" HEIGHT="20.9052631578948" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 20.9053 L0 20.9053 L0 0 Z" copath="M0 0 L316 0 L316 20.9053 L0 20.9053 L0 0 Z" gXpos="536" gYpos="7369" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Step 2: Choose a Class"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536.973684210526" YPOS="7396.62105263158" OwnPage="22" ItemID="742695115" PTYPE="4" WIDTH="314.526315789474" HEIGHT="34.5315789473675" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L314.526 0 L314.526 34.5316 L0 34.5316 L0 0 Z" copath="M0 0 L314.526 0 L314.526 34.5316 L0 34.5316 L0 0 Z" gXpos="536.973684210526" gYpos="7396.62105263158" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Condensed Oblique" CH="Pick a class from the list below, which will decide your starting ability scores, perks, and gear."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="7439.57894736842" OwnPage="22" ItemID="742779643" PTYPE="2" WIDTH="316" HEIGHT="121.463157894737" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.626098752034727" LOCALSCY="0.626098752034727" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img/class_abilities.png" IRENDER="0" EMBEDDED="0" path="M0 0 L316 0 L316 121.463 L0 121.463 L0 0 Z" copath="M0 0 L316 0 L316 121.463 L0 121.463 L0 0 Z" gXpos="536" gYpos="7439.57894736842" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="536" YPOS="7573" OwnPage="22" ItemID="742770939" PTYPE="4" WIDTH="316" HEIGHT="20.9052631578948" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 20.9053 L0 20.9053 L0 0 Z" copath="M0 0 L316 0 L316 20.9053 L0 20.9053 L0 0 Z" gXpos="536" gYpos="7573" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Commoner"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="7600.75789473684" OwnPage="22" ItemID="742955067" PTYPE="4" WIDTH="151.789473684211" HEIGHT="163.242105263158" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L151.789 0 L151.789 163.242 L0 163.242 L0 0 Z" copath="M0 0 L151.789 0 L151.789 163.242 L0 163.242 L0 0 Z" gXpos="536" gYpos="7600.75789473684" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Starting Perks"/>
+                <para/>
+                <ITEXT CH="None.  It's just you, your wits, sub-par gear, and some luck."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="700.210526315789" YPOS="7601.75789473684" OwnPage="22" ItemID="742879163" PTYPE="4" WIDTH="151.789473684211" HEIGHT="162.242105263158" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L151.789 0 L151.789 162.242 L0 162.242 L0 0 Z" copath="M0 0 L151.789 0 L151.789 162.242 L0 162.242 L0 0 Z" gXpos="700.210526315789" gYpos="7601.75789473684" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Starting Gear"/>
+                <para/>
+                <ITEXT CH="Common clothes + one item bellow. (D6)"/>
+                <para/>
+                <ITEXT CH="1. 4 Torches"/>
+                <para/>
+                <ITEXT CH="2. Waterskin"/>
+                <para/>
+                <ITEXT CH="3. Pitchfork"/>
+                <para/>
+                <ITEXT CH="4. Bow and 5 arrows"/>
+                <para/>
+                <ITEXT CH="5. Rope (50ft)"/>
+                <para/>
+                <ITEXT CH="6. 4 Dry Rations"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="8019" OwnPage="23" ItemID="742986795" PTYPE="4" WIDTH="316" HEIGHT="20.9052631578948" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 20.9053 L0 20.9053 L0 0 Z" copath="M0 0 L316 0 L316 20.9053 L0 20.9053 L0 0 Z" gXpos="-256" gYpos="8019" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Rogue"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="304.210526315789" YPOS="8044.75789473684" OwnPage="23" ItemID="742999915" PTYPE="4" WIDTH="151.789473684211" HEIGHT="109.568421052632" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L151.789 0 L151.789 109.568 L0 109.568 L0 0 Z" copath="M0 0 L151.789 0 L151.789 109.568 L0 109.568 L0 0 Z" gXpos="-91.789473684211" gYpos="8044.75789473684" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Starting Gear"/>
+                <para/>
+                <ITEXT CH="- Hooded common clothes"/>
+                <para/>
+                <ITEXT CH="- Backpack"/>
+                <para/>
+                <ITEXT CH="- 2 Daggers"/>
+                <para/>
+                <ITEXT CH="- Lockpick"/>
+                <para/>
+                <ITEXT CH="- 6d6 GP"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="8043.75789473684" OwnPage="23" ItemID="743092683" PTYPE="4" WIDTH="151.789473684211" HEIGHT="109.81052631579" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L151.789 0 L151.789 109.811 L0 109.811 L0 0 Z" copath="M0 0 L151.789 0 L151.789 109.811 L0 109.811 L0 0 Z" gXpos="-256" gYpos="8043.75789473684" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Starting Perks"/>
+                <para/>
+                <ITEXT CH="- (2)Minor Weapons"/>
+                <para/>
+                <ITEXT CH="- Skill(Sneaking or Acrobatics)"/>
+                <para/>
+                <ITEXT CH="-Skill(Pickpocketing, Lockpicking, or Deception)"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="7884" OwnPage="23" ItemID="743286075" PTYPE="4" WIDTH="316" HEIGHT="20.9052631578948" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 20.9053 L0 20.9053 L0 0 Z" copath="M0 0 L316 0 L316 20.9053 L0 20.9053 L0 0 Z" gXpos="-256" gYpos="7884" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Warrior"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="304.210526315789" YPOS="7909.75789473684" OwnPage="23" ItemID="743346475" PTYPE="4" WIDTH="151.789473684211" HEIGHT="103.957894736842" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L151.789 0 L151.789 103.958 L0 103.958 L0 0 Z" copath="M0 0 L151.789 0 L151.789 103.958 L0 103.958 L0 0 Z" gXpos="-91.789473684211" gYpos="7909.75789473684" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Starting Gear"/>
+                <para/>
+                <ITEXT CH="- Traveler's Clothes"/>
+                <para/>
+                <ITEXT CH="- Sword"/>
+                <para/>
+                <ITEXT CH="- Shield"/>
+                <para/>
+                <ITEXT CH="- Bow"/>
+                <para/>
+                <ITEXT CH="- 16 Arrows"/>
+                <para/>
+                <ITEXT CH="- 6d6 GP"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="7908.75789473684" OwnPage="23" ItemID="743276555" PTYPE="4" WIDTH="151.789473684211" HEIGHT="104.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L151.789 0 L151.789 104.2 L0 104.2 L0 0 Z" copath="M0 0 L151.789 0 L151.789 104.2 L0 104.2 L0 0 Z" gXpos="-256" gYpos="7908.75789473684" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Starting Perks"/>
+                <para/>
+                <ITEXT CH="- (2) Martial Weapons"/>
+                <para/>
+                <ITEXT CH="- Ranged Weapons"/>
+                <para/>
+                <ITEXT CH="- Skill(Athletics, Tracking, or Foraging)"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="8159" OwnPage="23" ItemID="743591163" PTYPE="4" WIDTH="316" HEIGHT="20.9052631578948" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 20.9053 L0 20.9053 L0 0 Z" copath="M0 0 L316 0 L316 20.9053 L0 20.9053 L0 0 Z" gXpos="-256" gYpos="8159" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Brute"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="304.210526315789" YPOS="8184.75789473684" OwnPage="23" ItemID="743702363" PTYPE="4" WIDTH="151.789473684211" HEIGHT="78.6105263157897" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L151.789 0 L151.789 78.6105 L0 78.6105 L0 0 Z" copath="M0 0 L151.789 0 L151.789 78.6105 L0 78.6105 L0 0 Z" gXpos="-91.789473684211" gYpos="8184.75789473684" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Starting Gear"/>
+                <para/>
+                <ITEXT CH="- Sleeveless Common Clothes"/>
+                <para/>
+                <ITEXT CH="- Greatsword"/>
+                <para/>
+                <ITEXT CH="- 6d6 GP"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="8183.75789473684" OwnPage="23" ItemID="743681995" PTYPE="4" WIDTH="151.789473684211" HEIGHT="78.8526315789475" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L151.789 0 L151.789 78.8526 L0 78.8526 L0 0 Z" copath="M0 0 L151.789 0 L151.789 78.8526 L0 78.8526 L0 0 Z" gXpos="-256" gYpos="8183.75789473684" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Starting Perks"/>
+                <para/>
+                <ITEXT CH="- (3)Hand-to-hand"/>
+                <para/>
+                <ITEXT CH="- (2)Great Weapons"/>
+                <para/>
+                <ITEXT CH="- Skill(Intimidation)"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="8270" OwnPage="23" ItemID="743824203" PTYPE="4" WIDTH="316" HEIGHT="20.9052631578948" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 20.9053 L0 20.9053 L0 0 Z" copath="M0 0 L316 0 L316 20.9053 L0 20.9053 L0 0 Z" gXpos="-256" gYpos="8270" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Arcanist"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="304.210526315789" YPOS="8295.75789473684" OwnPage="23" ItemID="743777883" PTYPE="4" WIDTH="151.789473684211" HEIGHT="103.957894736842" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L151.789 0 L151.789 103.958 L0 103.958 L0 0 Z" copath="M0 0 L151.789 0 L151.789 103.958 L0 103.958 L0 0 Z" gXpos="-91.789473684211" gYpos="8295.75789473684" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Starting Gear"/>
+                <para/>
+                <ITEXT CH="- Robes"/>
+                <para/>
+                <ITEXT CH="- Staff"/>
+                <para/>
+                <ITEXT CH="- 6d6 GP"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="8294.75789473684" OwnPage="23" ItemID="743888491" PTYPE="4" WIDTH="151.789473684211" HEIGHT="104.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L151.789 0 L151.789 104.2 L0 104.2 L0 0 Z" copath="M0 0 L151.789 0 L151.789 104.2 L0 104.2 L0 0 Z" gXpos="-256" gYpos="8294.75789473684" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Starting Perks"/>
+                <para/>
+                <ITEXT CH="- (2)Arcane Magic"/>
+                <para/>
+                <ITEXT CH="- Skill(Crafting, Alchemy, or Medicine)"/>
+                <para/>
+                <ITEXT CH="- Skill(Arcana, History, or Persuasion)"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="7884" OwnPage="24" ItemID="743954683" PTYPE="4" WIDTH="316" HEIGHT="20.9052631578948" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 20.9053 L0 20.9053 L0 0 Z" copath="M0 0 L316 0 L316 20.9053 L0 20.9053 L0 0 Z" gXpos="536" gYpos="7232" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Sage"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="700.210526315789" YPOS="7909.75789473684" OwnPage="24" ItemID="743929643" PTYPE="4" WIDTH="151.789473684211" HEIGHT="119.968421052632" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L151.789 0 L151.789 119.968 L0 119.968 L0 0 Z" copath="M0 0 L151.789 0 L151.789 119.968 L0 119.968 L0 0 Z" gXpos="700.210526315789" gYpos="7257.75789473684" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Starting Gear"/>
+                <para/>
+                <ITEXT CH="- Robes"/>
+                <para/>
+                <ITEXT CH="- Holy Book or Lore Book"/>
+                <para/>
+                <ITEXT CH="- Sword"/>
+                <para/>
+                <ITEXT CH="- 6d6 GP"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="7908.75789473684" OwnPage="24" ItemID="743914443" PTYPE="4" WIDTH="151.789473684211" HEIGHT="120.968421052632" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L151.789 0 L151.789 120.968 L0 120.968 L0 0 Z" copath="M0 0 L151.789 0 L151.789 120.968 L0 120.968 L0 0 Z" gXpos="536" gYpos="7256.75789473684" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Starting Perks"/>
+                <para/>
+                <ITEXT CH="- Pact Magic"/>
+                <para/>
+                <ITEXT CH="- Martial Weapons"/>
+                <para/>
+                <ITEXT CH="- Skill(Religion, Arcana, or Insight)"/>
+                <para/>
+                <ITEXT CH="- Skill(Medicine, Persuasion, or Intimidation)"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="8036" OwnPage="24" ItemID="744031803" PTYPE="4" WIDTH="316" HEIGHT="20.9052631578948" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 20.9053 L0 20.9053 L0 0 Z" copath="M0 0 L316 0 L316 20.9053 L0 20.9053 L0 0 Z" gXpos="536" gYpos="7384" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Muse"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="700.210526315789" YPOS="8061.75789473684" OwnPage="24" ItemID="744144219" PTYPE="4" WIDTH="151.789473684211" HEIGHT="108.936842105263" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L151.789 0 L151.789 108.937 L0 108.937 L0 0 Z" copath="M0 0 L151.789 0 L151.789 108.937 L0 108.937 L0 0 Z" gXpos="700.210526315789" gYpos="7409.75789473684" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Starting Gear"/>
+                <para/>
+                <ITEXT CH="- Fine Clothes"/>
+                <para/>
+                <ITEXT CH="- Flute, Viola, or Lute"/>
+                <para/>
+                <ITEXT CH="- Book of Lore"/>
+                <para/>
+                <ITEXT CH="- 6d6 GP"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="8060.75789473684" OwnPage="24" ItemID="744055051" PTYPE="4" WIDTH="151.789473684211" HEIGHT="108.421052631579" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L151.789 0 L151.789 108.421 L0 108.421 L0 0 Z" copath="M0 0 L151.789 0 L151.789 108.421 L0 108.421 L0 0 Z" gXpos="536" gYpos="7408.75789473684" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Starting Perks"/>
+                <para/>
+                <ITEXT CH="- (2)Naming Magic"/>
+                <para/>
+                <ITEXT CH="- Skill(Insight, Sneaking, or History)"/>
+                <para/>
+                <ITEXT CH="- Skill(Performance, Deception, or Persuasion)"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="8175" OwnPage="24" ItemID="744278715" PTYPE="4" WIDTH="316" HEIGHT="20.9052631578948" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 20.9053 L0 20.9053 L0 0 Z" copath="M0 0 L316 0 L316 20.9053 L0 20.9053 L0 0 Z" gXpos="536" gYpos="7523" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Create Your Own Class"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="8203.28421052632" OwnPage="24" ItemID="744281483" PTYPE="4" WIDTH="316" HEIGHT="65.1789473684212" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 65.1789 L0 65.1789 L0 0 Z" copath="M0 0 L316 0 L316 65.1789 L0 65.1789 L0 0 Z" gXpos="536" gYpos="8203.28421052632" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Apply the following scores in any order: "/>
+                <para/>
+                <ITEXT CH="[15, 14, 13, 12, 10, 8], pick 4 perks, and work with the keeper to determine starting gear in addition to 6d6 GP."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="8536" OwnPage="25" ItemID="744300875" PTYPE="4" WIDTH="316" HEIGHT="34.8631578947368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 34.8632 L0 34.8632 L0 0 Z" copath="M0 0 L316 0 L316 34.8632 L0 34.8632 L0 0 Z" gXpos="-256" gYpos="7884" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Character Creation "/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Step 3: Appearance"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="8638.53684210526" OwnPage="25" ItemID="744465515" PTYPE="2" WIDTH="316" HEIGHT="202.957894736842" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.688453159041394" LOCALSCY="0.688453159041394" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img/bimran_appearance.png" IRENDER="0" EMBEDDED="0" path="M0 0 L316 0 L316 202.958 L0 202.958 L0 0 Z" copath="M0 0 L316 0 L316 202.958 L0 202.958 L0 0 Z" gXpos="140" gYpos="8638.53684210526" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140" YPOS="8570.31578947368" OwnPage="25" ItemID="744456395" PTYPE="4" WIDTH="316" HEIGHT="62.9052631578948" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 62.9053 L0 62.9053 L0 0 Z" copath="M0 0 L316 0 L316 62.9053 L0 62.9053 L0 0 Z" gXpos="140" gYpos="8570.31578947368" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Bimran"/>
+                <para/>
+                <ITEXT CH="Humanoids created by the god Bimros in his image."/>
+                <para/>
+                <ITEXT CH="Choose or roll 2d6 for each column in the table below."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="8846.91578947368" OwnPage="25" ItemID="744558683" PTYPE="4" WIDTH="316" HEIGHT="31.1052631578948" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 31.1053 L0 31.1053 L0 0 Z" copath="M0 0 L316 0 L316 31.1053 L0 31.1053 L0 0 Z" gXpos="140" gYpos="8846.91578947368" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Choose or roll D12 on the table below for each mutation you have."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="8892" OwnPage="25" ItemID="744476715" PTYPE="4" WIDTH="153.684210526316" HEIGHT="95.9157894736843" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L153.684 0 L153.684 95.9158 L0 95.9158 L0 0 Z" copath="M0 0 L153.684 0 L153.684 95.9158 L0 95.9158 L0 0 Z" gXpos="140" gYpos="8892" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="1. Animal ears and tail"/>
+                <para/>
+                <ITEXT CH="2. Animal legs"/>
+                <para/>
+                <ITEXT CH="3. Spade tail"/>
+                <para/>
+                <ITEXT CH="4. Horns"/>
+                <para/>
+                <ITEXT CH="5. Small bat wings"/>
+                <para/>
+                <ITEXT CH="6. Scales"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="295.2" YPOS="8892" OwnPage="25" ItemID="744684411" PTYPE="4" WIDTH="160.8" HEIGHT="95.1578947368423" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L160.8 0 L160.8 95.1579 L0 95.1579 L0 0 Z" copath="M0 0 L160.8 0 L160.8 95.1579 L0 95.1579 L0 0 Z" gXpos="295.2" gYpos="8892" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="7. Forked tongue"/>
+                <para/>
+                <ITEXT CH="8. Slitted pupils"/>
+                <para/>
+                <ITEXT CH="9. Functional Gills"/>
+                <para/>
+                <ITEXT CH="10. Third eye"/>
+                <para/>
+                <ITEXT CH="11. Pointed ears"/>
+                <para/>
+                <ITEXT CH="12. Fangs"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="8536" OwnPage="26" ItemID="744797643" PTYPE="4" WIDTH="316" HEIGHT="60.6315789473683" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 60.6316 L0 60.6316 L0 0 Z" copath="M0 0 L316 0 L316 60.6316 L0 60.6316 L0 0 Z" gXpos="932" gYpos="7884" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Beastfolk"/>
+                <para/>
+                <ITEXT CH="Anthropomorphic humanoids created by the god Raos. Roll a D6 for the tens place and a D6 for the ones place on the table below."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="8599.01178820405" OwnPage="26" ItemID="744849643" PTYPE="2" WIDTH="316" HEIGHT="319.851369690688" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.691466083150985" LOCALSCY="0.691466083150985" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img/beastfolk_appearance.png" IRENDER="0" EMBEDDED="0" path="M0 0 L316 0 L316 319.851 L0 319.851 L0 0 Z" copath="M0 0 L316 0 L316 319.851 L0 319.851 L0 0 Z" gXpos="536" gYpos="8599.01178820405" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="536" YPOS="8927.07368421053" OwnPage="26" ItemID="744874827" PTYPE="4" WIDTH="316" HEIGHT="106.863157894737" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 106.863 L0 106.863 L0 0 Z" copath="M0 0 L316 0 L316 106.863 L0 106.863 L0 0 Z" gXpos="536" gYpos="8927.07368421053" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Roll a D6. On a 1, Roll a mutation below."/>
+                <para/>
+                <ITEXT CH="1. Red glowing eyes"/>
+                <para/>
+                <ITEXT CH="2. Unnatural fur/scale/feather color"/>
+                <para/>
+                <ITEXT CH="3. Extra set of horns"/>
+                <para/>
+                <ITEXT CH="4. Extra set of eyes"/>
+                <para/>
+                <ITEXT CH="5. Extra set of ears"/>
+                <para/>
+                <ITEXT CH="6. Hybrid: Roll an additional beast type"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="519.915789473684" YPOS="44.2526315789474" OwnPage="0" ItemID="744956107" PTYPE="4" WIDTH="347.115789473684" HEIGHT="81.0947368421052" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L347.116 0 L347.116 81.0947 L0 81.0947 L0 0 Z" copath="M0 0 L347.116 0 L347.116 81.0947 L0 81.0947 L0 0 Z" gXpos="519.915789473684" gYpos="44.2526315789474" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="32" CH="Unhained worlds:"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="32" CH="Basic Edition"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="712" OwnPage="1" ItemID="744943979" PTYPE="4" WIDTH="316" HEIGHT="33.3052631578948" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 33.3053 L0 33.3053 L0 0 Z" copath="M0 0 L316 0 L316 33.3053 L0 33.3053 L0 0 Z" gXpos="140" gYpos="712" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="24" CH="Mechanics: Abilities"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="749.852631578947" OwnPage="1" ItemID="745092235" PTYPE="4" WIDTH="316" HEIGHT="106.863157894737" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 106.863 L0 106.863 L0 0 Z" copath="M0 0 L316 0 L316 106.863 L0 106.863 L0 0 Z" gXpos="140" gYpos="749.852631578947" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="As a player, the keeper may ask you to make checks or saves to decide the outcome of an action. This entails rolling a D20 and adding any relevant modifiers, bonuses, or bonus dice. The sum of the roll is compared with a target number, a difficulty class(DC). If it meets or beats the DC, your check or save is successful. The abilities are listed below."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="883.115789473684" OwnPage="1" ItemID="745561771" PTYPE="4" WIDTH="316" HEIGHT="21.2210526315789" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 21.2211 L0 21.2211 L0 0 Z" copath="M0 0 L316 0 L316 21.2211 L0 21.2211 L0 0 Z" gXpos="140" gYpos="883.115789473684" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="14" CH="STR"/>
+                <ITEXT FONTSIZE="14" CH="ength: Lift, climb, carry, grapple, throw"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="712" OwnPage="2" ItemID="745632571" PTYPE="4" WIDTH="316" HEIGHT="95" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 95 L0 95 L0 0 Z" copath="M0 0 L316 0 L316 95 L0 95 L0 0 Z" gXpos="536" gYpos="712" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="16" CH="Ability scores and modifiers"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="An ability score is a number from 1-20 which represents one  of a character's abilities and is used to calculate the modifier applied to said character's ability checks. The modifier for each ability score is shown in the table below."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="925.621052631579" OwnPage="1" ItemID="746029355" PTYPE="4" WIDTH="316" HEIGHT="21.7894736842104" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 21.7895 L0 21.7895 L0 0 Z" copath="M0 0 L316 0 L316 21.7895 L0 21.7895 L0 0 Z" gXpos="140" gYpos="925.621052631579" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="14" CH="DEX"/>
+                <ITEXT FONTSIZE="14" CH="terity: Sprint, jump, duck, sneak, aim"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="972.294736842105" OwnPage="1" ItemID="745658379" PTYPE="4" WIDTH="316" HEIGHT="21.9789473684211" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 21.9789 L0 21.9789 L0 0 Z" copath="M0 0 L316 0 L316 21.9789 L0 21.9789 L0 0 Z" gXpos="140" gYpos="972.294736842105" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="14" CH="CON"/>
+                <ITEXT FONTSIZE="14" CH="stitution: Take hits, resist harm"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="1017.89473684211" OwnPage="1" ItemID="746117227" PTYPE="4" WIDTH="316" HEIGHT="22.7368421052633" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 22.7368 L0 22.7368 L0 0 Z" copath="M0 0 L316 0 L316 22.7368 L0 22.7368 L0 0 Z" gXpos="140" gYpos="1017.89473684211" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="14" CH="INT"/>
+                <ITEXT FONTSIZE="14" CH="elligence: Remember, reason, calculate"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="1075.31578947368" OwnPage="1" ItemID="746828763" PTYPE="4" WIDTH="316" HEIGHT="22.7368421052631" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 22.7368 L0 22.7368 L0 0 Z" copath="M0 0 L316 0 L316 22.7368 L0 22.7368 L0 0 Z" gXpos="140" gYpos="1075.31578947368" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="14" CH="WIS"/>
+                <ITEXT FONTSIZE="14" CH="dom: Sense, intuit, resist influence"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="1128.41052631579" OwnPage="1" ItemID="746790491" PTYPE="4" WIDTH="316" HEIGHT="21.9789473684211" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 21.9789 L0 21.9789 L0 0 Z" copath="M0 0 L316 0 L316 21.9789 L0 21.9789 L0 0 Z" gXpos="140" gYpos="1128.41052631579" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="14" CH="CHA"/>
+                <ITEXT FONTSIZE="14" CH="risma: intimidate, presuade, deceive"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="812.237350940963" OwnPage="2" ItemID="746912171" PTYPE="2" WIDTH="179.077961127406" HEIGHT="199.088964848511" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.663251707879282" LOCALSCY="0.663251707879282" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img/abilitty_scores.png" IRENDER="0" EMBEDDED="0" path="M0 0 L179.078 0 L179.078 199.089 L0 199.089 L0 0 Z" copath="M0 0 L179.078 0 L179.078 199.089 L0 199.089 L0 0 Z" gXpos="536" gYpos="812.237350940963" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="721" YPOS="858.273684210526" OwnPage="2" ItemID="746898443" PTYPE="4" WIDTH="131" HEIGHT="106.863157894737" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L131 0 L131 106.863 L0 106.863 L0 0 Z" copath="M0 0 L131 0 L131 106.863 L0 106.863 L0 0 Z" gXpos="721" gYpos="858.273684210526" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Note:"/>
+                <ITEXT CH=" No ability score may be increased higher than 20. If an ability score is decreased below 1, the effected creature dies."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="1022" OwnPage="2" ItemID="746913931" PTYPE="4" WIDTH="316" HEIGHT="33.3052631578948" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 33.3053 L0 33.3053 L0 0 Z" copath="M0 0 L316 0 L316 33.3053 L0 33.3053 L0 0 Z" gXpos="140" gYpos="1022" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="24" CH="Other Stats"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="1068.92631578947" OwnPage="2" ItemID="746956923" PTYPE="4" WIDTH="316" HEIGHT="67.4526315789474" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 67.4526 L0 67.4526 L0 0 Z" copath="M0 0 L316 0 L316 67.4526 L0 67.4526 L0 0 Z" gXpos="536" gYpos="1068.92631578947" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="14" CH="Inventory Slots"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="A character has a number of slots equal to their "/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="STR"/>
+                <ITEXT CH=" modifier. Items of the same type stack according to their size."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="1142" OwnPage="2" ItemID="747044827" PTYPE="2" WIDTH="246.75" HEIGHT="102" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.75" LOCALSCY="0.75" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img/item_stacks.png" IRENDER="0" EMBEDDED="0" path="M0 0 L246.75 0 L246.75 102 L0 102 L0 0 Z" copath="M0 0 L246.75 0 L246.75 102 L0 102 L0 0 Z" gXpos="536" gYpos="1142" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140" YPOS="1364" OwnPage="3" ItemID="747035195" PTYPE="4" WIDTH="316" HEIGHT="35.3684210526317" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 35.3684 L0 35.3684 L0 0 Z" copath="M0 0 L316 0 L316 35.3684 L0 35.3684 L0 0 Z" gXpos="140" gYpos="712" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="24" CH="Mechanics: Combat"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="1402" OwnPage="3" ItemID="747131259" PTYPE="4" WIDTH="316" HEIGHT="26.4736842105262" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 26.4737 L0 26.4737 L0 0 Z" copath="M0 0 L316 0 L316 26.4737 L0 26.4737 L0 0 Z" gXpos="140" gYpos="750" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="18" CH="Initiative"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="1431.66315789474" OwnPage="3" ItemID="747123339" PTYPE="4" WIDTH="316" HEIGHT="50.7789473684209" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 50.7789 L0 50.7789 L0 0 Z" copath="M0 0 L316 0 L316 50.7789 L0 50.7789 L0 0 Z" gXpos="140" gYpos="1431.66315789474" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="In a combat, each side takes turns taking actions. To decide the order, each side rolls a D6, and the highest roll decides the order of the two sides."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="1484" OwnPage="3" ItemID="747261899" PTYPE="4" WIDTH="316" HEIGHT="26.4736842105262" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 26.4737 L0 26.4737 L0 0 Z" copath="M0 0 L316 0 L316 26.4737 L0 26.4737 L0 0 Z" gXpos="140" gYpos="832" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="18" CH="Actions"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="1511.66315789474" OwnPage="3" ItemID="747636267" PTYPE="4" WIDTH="316" HEIGHT="62.9473684210525" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 62.9474 L0 62.9474 L0 0 Z" copath="M0 0 L316 0 L316 62.9474 L0 62.9474 L0 0 Z" gXpos="140" gYpos="1511.66315789474" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Each round in initiative represents six seconds, and each task taken is described as an action. Each character may perform up to three actions per round. The following are actions."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="1578.12631578947" OwnPage="3" ItemID="747291595" PTYPE="4" WIDTH="316" HEIGHT="139.452631578948" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 139.453 L0 139.453 L0 0 Z" copath="M0 0 L316 0 L316 139.453 L0 139.453 L0 0 Z" gXpos="140" gYpos="1578.12631578947" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="16" CH="Offensive Actions"/>
+                <para ALIGN="1"/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="- Attack"/>
+                <ITEXT CH=": Make an attack roll against an enemy."/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="- Second"/>
+                <ITEXT CH=" Attack: Carries a -3 penalty to hit"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="- Third Attack"/>
+                <ITEXT CH=": Carries a -6 penalty to hit"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="-"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Power Up"/>
+                <ITEXT CH=": Grant a D6 bonus to your next attack roll this round"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="-"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Grapple Target"/>
+                <ITEXT CH=": Make a "/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="STR"/>
+                <ITEXT CH=" check against the target's STR or "/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="DEX"/>
+                <ITEXT CH=" to knock them prone, push them up to 10 feet, or immobilize them with a hold"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="1720.71578947368" OwnPage="3" ItemID="747691643" PTYPE="4" WIDTH="316" HEIGHT="175.284210526316" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 175.284 L0 175.284 L0 0 Z" copath="M0 0 L316 0 L316 175.284 L0 175.284 L0 0 Z" gXpos="140" gYpos="1720.71578947368" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="16" CH="Misc Actions"/>
+                <para ALIGN="1"/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="- Move"/>
+                <ITEXT CH=": Move up to 30ft"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="- Hide"/>
+                <ITEXT CH=": If you have broken line of sight, make a DC 12 "/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="DEX "/>
+                <ITEXT CH="save to become hidden from them"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="- Dodge:"/>
+                <ITEXT CH=" Make a "/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="DEX"/>
+                <ITEXT CH=" check against one successful attack roll made against you next turn, halving the damage if you succeed"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="- Interact: "/>
+                <ITEXT CH="Open a door, pick up a rock, push a boulder, etc"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="- Speak:"/>
+                <ITEXT CH=" Relay a message no more than 6 seconds long"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="1364" OwnPage="4" ItemID="747350747" PTYPE="4" WIDTH="316" HEIGHT="88.421052631579" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 88.4211 L0 88.4211 L0 0 Z" copath="M0 0 L316 0 L316 88.4211 L0 88.4211 L0 0 Z" gXpos="536" gYpos="1364" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="16" CH="Inventory Actions"/>
+                <para ALIGN="1"/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="- Draw: "/>
+                <ITEXT CH="Hold an item from your inventory"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="- Pick Up: "/>
+                <ITEXT CH="Hold an item from the environment"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="- Stow: "/>
+                <ITEXT CH="Put a held item into your inventory"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="- Use Item:"/>
+                <ITEXT CH=" Use an item you're holding"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="1460" OwnPage="4" ItemID="748010011" PTYPE="4" WIDTH="316" HEIGHT="26.4736842105262" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 26.4737 L0 26.4737 L0 0 Z" copath="M0 0 L316 0 L316 26.4737 L0 26.4737 L0 0 Z" gXpos="140" gYpos="808" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="18" CH="Making Attacks"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="1495" OwnPage="4" ItemID="748277883" PTYPE="4" WIDTH="316" HEIGHT="108" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 108 L0 108 L0 0 Z" copath="M0 0 L316 0 L316 108 L0 108 L0 0 Z" gXpos="536" gYpos="1495" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Roll a D20 and add your "/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="STR"/>
+                <ITEXT CH="(for melee) or "/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="DEX"/>
+                <ITEXT CH="(for ranged) mod. If any other bonuses(such as from a perk) or penalties(such as from making a second attack), apply them to your roll. If the roll meets or beats the enemy's armor class, the attack hits and you may roll the attack damage, which is decided by the weapon. Unarmed attacks deal D2 damage."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="1615" OwnPage="4" ItemID="748593339" PTYPE="4" WIDTH="316" HEIGHT="35.3684210526317" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 35.3684 L0 35.3684 L0 0 Z" copath="M0 0 L316 0 L316 35.3684 L0 35.3684 L0 0 Z" gXpos="140" gYpos="963" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="24" CH="Exploration: Items"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="1656.29473684211" OwnPage="4" ItemID="748747467" PTYPE="4" WIDTH="316" HEIGHT="23.4947368421053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" copath="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" gXpos="536" gYpos="1656.29473684211" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="15" CH="Weapons"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="1685.22105263158" OwnPage="4" ItemID="748640091" PTYPE="2" WIDTH="316" HEIGHT="88.9578947368423" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.710112359550562" LOCALSCY="0.710112359550562" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img/weapons.png" IRENDER="0" EMBEDDED="0" path="M0 0 L316 0 L316 88.9579 L0 88.9579 L0 0 Z" copath="M0 0 L316 0 L316 88.9579 L0 88.9579 L0 0 Z" gXpos="536" gYpos="1685.22105263158" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="536" YPOS="1781.29473684211" OwnPage="4" ItemID="748729275" PTYPE="4" WIDTH="316" HEIGHT="23.4947368421053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" copath="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" gXpos="536" gYpos="1781.29473684211" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="15" CH="Armor"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="1801.53157894737" OwnPage="4" ItemID="749067003" PTYPE="2" WIDTH="316" HEIGHT="94.4684210526316" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.647043979812545" LOCALSCY="0.647043979812545" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img/armor.png" IRENDER="0" EMBEDDED="0" path="M0 0 L316 0 L316 94.4684 L0 94.4684 L0 0 Z" copath="M0 0 L316 0 L316 94.4684 L0 94.4684 L0 0 Z" gXpos="536" gYpos="1801.53157894737" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="138.75" YPOS="2054" OwnPage="5" ItemID="749020507" PTYPE="2" WIDTH="317.25" HEIGHT="274.357894736842" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.712617908407382" LOCALSCY="0.712617908407382" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img/large_items.png" IRENDER="0" EMBEDDED="0" path="M0 0 L317.25 0 L317.25 274.358 L0 274.358 L0 0 Z" copath="M0 0 L317.25 0 L317.25 274.358 L0 274.358 L0 0 Z" gXpos="138.75" gYpos="2054" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140" YPOS="2026.29473684211" OwnPage="5" ItemID="749039243" PTYPE="4" WIDTH="316" HEIGHT="23.4947368421053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" copath="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" gXpos="536" gYpos="1374.29473684211" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="15" CH="Adventuring Gear"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="2337.34736842105" OwnPage="5" ItemID="749121195" PTYPE="4" WIDTH="316" HEIGHT="47.7473684210527" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 47.7474 L0 47.7474 L0 0 Z" copath="M0 0 L316 0 L316 47.7474 L0 47.7474 L0 0 Z" gXpos="140" gYpos="2337.34736842105" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Healer's Kit"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="If the target's got less than half their max HP, you can expend the kit over 1 minute to heal D6 HP."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="2392.34736842105" OwnPage="5" ItemID="749138091" PTYPE="4" WIDTH="316" HEIGHT="50.3473684210521" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 50.3474 L0 50.3474 L0 0 Z" copath="M0 0 L316 0 L316 50.3474 L0 50.3474 L0 0 Z" gXpos="140" gYpos="2392.34736842105" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Backpack"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="Can carry up to 4 small items, 16 tiny items, or some combination, even if they aren't identical."/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="2016" OwnPage="6" ItemID="749095835" PTYPE="2" WIDTH="316" HEIGHT="272.842105263158" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.749566223250434" LOCALSCY="0.749566223250434" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img/small_items.png" IRENDER="0" EMBEDDED="0" path="M0 0 L316 0 L316 272.842 L0 272.842 L0 0 Z" copath="M0 0 L316 0 L316 272.842 L0 272.842 L0 0 Z" gXpos="536" gYpos="2016" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="536" YPOS="2291.57894736842" OwnPage="6" ItemID="749098747" PTYPE="2" WIDTH="316" HEIGHT="222.357894736842" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.769404480058277" LOCALSCY="0.769404480058277" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img/tiny_items.png" IRENDER="0" EMBEDDED="0" path="M0 0 L316 0 L316 222.358 L0 222.358 L0 0 Z" copath="M0 0 L316 0 L316 222.358 L0 222.358 L0 0 Z" gXpos="536" gYpos="2291.57894736842" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140" YPOS="2696" OwnPage="7" ItemID="749204427" PTYPE="2" WIDTH="316" HEIGHT="81.0526315789475" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.633223684210527" LOCALSCY="0.633223684210527" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img/light_sources.png" IRENDER="0" EMBEDDED="0" path="M0 0 L316 0 L316 81.0526 L0 81.0526 L0 0 Z" copath="M0 0 L316 0 L316 81.0526 L0 81.0526 L0 0 Z" gXpos="140" gYpos="2696" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140" YPOS="2668" OwnPage="7" ItemID="749198891" PTYPE="4" WIDTH="316" HEIGHT="23.4947368421053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" copath="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" gXpos="536" gYpos="1364.00000000001" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="15" CH="Light Sources"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="2814.63157894737" OwnPage="7" ItemID="749226827" PTYPE="4" WIDTH="316" HEIGHT="61.6421052631581" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 61.6421 L0 61.6421 L0 0 Z" copath="M0 0 L316 0 L316 61.6421 L0 61.6421 L0 0 Z" gXpos="140" gYpos="2814.63157894737" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Once a day, a character may rest for 8 hours in order to regain HP equal to their CON mod(minimum 1) and regain any abilities that are restored on a rest."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="2787" OwnPage="7" ItemID="749504907" PTYPE="4" WIDTH="316" HEIGHT="23.4947368421053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" copath="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" gXpos="536" gYpos="1483.00000000001" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="15" CH="Rest"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="142.504883912951" YPOS="2884.61624588496" OwnPage="7" ItemID="749527787" PTYPE="2" WIDTH="313.495116087049" HEIGHT="315.383754115042" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.391868895108811" LOCALSCY="0.391868895108811" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img/rest.png" IRENDER="0" EMBEDDED="0" path="M0 0 L313.495 0 L313.495 315.384 L0 315.384 L0 0 Z" copath="M0 0 L313.495 0 L313.495 315.384 L0 315.384 L0 0 Z" gXpos="142.504883912951" gYpos="2884.61624588496" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="536" YPOS="2668" OwnPage="8" ItemID="749627019" PTYPE="4" WIDTH="316" HEIGHT="35.3684210526317" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 35.3684 L0 35.3684 L0 0 Z" copath="M0 0 L316 0 L316 35.3684 L0 35.3684 L0 0 Z" gXpos="140" gYpos="712" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="24" CH="World of Crucible"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="2726.45263157895" OwnPage="8" ItemID="749652011" PTYPE="4" WIDTH="316" HEIGHT="169.073684210526" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 169.074 L0 169.074 L0 0 Z" copath="M0 0 L316 0 L316 169.074 L0 169.074 L0 0 Z" gXpos="536" gYpos="2726.45263157895" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="The divines created the world, Bimros creating the Bimrans in his image, and Uaos creating the Beastfolk. This divine age ended when a war of the gods broke out, leading to a holy exodus. Following that time, Dragons, Titans, and the Empire of Man each took their turns reigning over the world."/>
+                <para/>
+                <para/>
+                <ITEXT CH="The fractured kingdoms of the current age struggle with one another, but also the tide of chaos. Mutations are surprisingly common even within cities. The wilderness swarms with monsters."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="2704" OwnPage="8" ItemID="759435723" PTYPE="4" WIDTH="316" HEIGHT="23.4947368421053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" copath="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" gXpos="536" gYpos="1400.00000000001" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="15" CH="History"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="2898" OwnPage="8" ItemID="750332907" PTYPE="4" WIDTH="316" HEIGHT="23.4947368421053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" copath="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" gXpos="536" gYpos="1594.00000000001" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="15" CH="Common Languages"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="2922.10526315789" OwnPage="8" ItemID="750327339" PTYPE="2" WIDTH="246.905263157895" HEIGHT="117.757894736842" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.705443609022557" LOCALSCY="0.705443609022557" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img/common_languages.png" IRENDER="0" EMBEDDED="0" path="M0 0 L246.905 0 L246.905 117.758 L0 117.758 L0 0 Z" copath="M0 0 L246.905 0 L246.905 117.758 L0 117.758 L0 0 Z" gXpos="536" gYpos="2922.10526315789" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="536" YPOS="3041" OwnPage="8" ItemID="750350987" PTYPE="4" WIDTH="316" HEIGHT="23.4947368421053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" copath="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" gXpos="536" gYpos="1737.00000000001" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="15" CH="Rare Languages"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="3066.51578947368" OwnPage="8" ItemID="749945243" PTYPE="2" WIDTH="235.5" HEIGHT="105.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.75" LOCALSCY="0.75" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img/rare_languages.png" IRENDER="0" EMBEDDED="0" path="M0 0 L235.5 0 L235.5 105.75 L0 105.75 L0 0 Z" copath="M0 0 L235.5 0 L235.5 105.75 L0 105.75 L0 0 Z" gXpos="536" gYpos="3066.51578947368" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140" YPOS="3355" OwnPage="9" ItemID="749938491" PTYPE="2" WIDTH="60" HEIGHT="60" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.75" LOCALSCY="0.75" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img/bimros.png" IRENDER="0" EMBEDDED="0" path="M0 0 L60 0 L60 60 L0 60 L0 0 Z" copath="M0 0 L60 0 L60 60 L0 60 L0 0 Z" gXpos="140" gYpos="3355" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="203.873684210526" YPOS="3355" OwnPage="9" ItemID="749929371" PTYPE="4" WIDTH="252.126315789474" HEIGHT="59" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L252.126 0 L252.126 59 L0 59 L0 0 Z" copath="M0 0 L252.126 0 L252.126 59 L0 59 L0 0 Z" gXpos="203.873684210526" gYpos="3355" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Bimros"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="God of law, order, discipline, and creator of the Bimrans."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="3419.70526315789" OwnPage="9" ItemID="750431947" PTYPE="2" WIDTH="60" HEIGHT="60" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.75" LOCALSCY="0.75" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img/raos.png" IRENDER="0" EMBEDDED="0" path="M0 0 L60 0 L60 60 L0 60 L0 0 Z" copath="M0 0 L60 0 L60 60 L0 60 L0 0 Z" gXpos="140" gYpos="3419.70526315789" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140" YPOS="3483.04210526316" OwnPage="9" ItemID="750449019" PTYPE="2" WIDTH="60" HEIGHT="60" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.75" LOCALSCY="0.75" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img/exia.png" IRENDER="0" EMBEDDED="0" path="M0 0 L60 0 L60 60 L0 60 L0 0 Z" copath="M0 0 L60 0 L60 60 L0 60 L0 0 Z" gXpos="140" gYpos="3483.04210526316" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140" YPOS="3546.4" OwnPage="9" ItemID="750393851" PTYPE="2" WIDTH="60" HEIGHT="60" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.75" LOCALSCY="0.75" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img/gidur.png" IRENDER="0" EMBEDDED="0" path="M0 0 L60 0 L60 60 L0 60 L0 0 Z" copath="M0 0 L60 0 L60 60 L0 60 L0 0 Z" gXpos="140" gYpos="3546.4" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140" YPOS="3614.27368421053" OwnPage="9" ItemID="751547371" PTYPE="2" WIDTH="60" HEIGHT="60" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.75" LOCALSCY="0.75" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img/solus.png" IRENDER="0" EMBEDDED="0" path="M0 0 L60 0 L60 60 L0 60 L0 0 Z" copath="M0 0 L60 0 L60 60 L0 60 L0 0 Z" gXpos="140" gYpos="3614.27368421053" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140" YPOS="3684.12631578947" OwnPage="9" ItemID="750423883" PTYPE="2" WIDTH="60" HEIGHT="60" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.75" LOCALSCY="0.75" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img/coent.png" IRENDER="0" EMBEDDED="0" path="M0 0 L60 0 L60 60 L0 60 L0 0 Z" copath="M0 0 L60 0 L60 60 L0 60 L0 0 Z" gXpos="140" gYpos="3684.12631578947" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140" YPOS="3750.75789473684" OwnPage="9" ItemID="750447531" PTYPE="2" WIDTH="60" HEIGHT="60" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.75" LOCALSCY="0.75" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img/fliff.png" IRENDER="0" EMBEDDED="0" path="M0 0 L60 0 L60 60 L0 60 L0 0 Z" copath="M0 0 L60 0 L60 60 L0 60 L0 0 Z" gXpos="140" gYpos="3750.75789473684" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="203.873684210526" YPOS="3418" OwnPage="9" ItemID="751448875" PTYPE="4" WIDTH="252.126315789474" HEIGHT="59" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L252.126 0 L252.126 59 L0 59 L0 0 Z" copath="M0 0 L252.126 0 L252.126 59 L0 59 L0 0 Z" gXpos="203.873684210526" gYpos="3418" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Raos"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="God of farming, empathy, and creator of the beastfolk."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="203.873684210526" YPOS="3483" OwnPage="9" ItemID="751506987" PTYPE="4" WIDTH="252.126315789474" HEIGHT="59" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L252.126 0 L252.126 59 L0 59 L0 0 Z" copath="M0 0 L252.126 0 L252.126 59 L0 59 L0 0 Z" gXpos="203.873684210526" gYpos="3483" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Exia"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="Goddess of discovery, knowledge, and research."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="203.873684210526" YPOS="3546" OwnPage="9" ItemID="750443995" PTYPE="4" WIDTH="252.126315789474" HEIGHT="59" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L252.126 0 L252.126 59 L0 59 L0 0 Z" copath="M0 0 L252.126 0 L252.126 59 L0 59 L0 0 Z" gXpos="203.873684210526" gYpos="3546" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Gidur"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="Entity of secrets that appeared well-after the divine age."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="203.873684210526" YPOS="3615" OwnPage="9" ItemID="751675659" PTYPE="4" WIDTH="252.126315789474" HEIGHT="59" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L252.126 0 L252.126 59 L0 59 L0 0 Z" copath="M0 0 L252.126 0 L252.126 59 L0 59 L0 0 Z" gXpos="203.873684210526" gYpos="3615" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Solus"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="God of fire, war, and light."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="203.873684210526" YPOS="3685" OwnPage="9" ItemID="751934187" PTYPE="4" WIDTH="252.126315789474" HEIGHT="59" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L252.126 0 L252.126 59 L0 59 L0 0 Z" copath="M0 0 L252.126 0 L252.126 59 L0 59 L0 0 Z" gXpos="203.873684210526" gYpos="3685" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Coent"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="God and goddess of seasons, chaos, and beauty."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="203.873684210526" YPOS="3752" OwnPage="9" ItemID="752003531" PTYPE="4" WIDTH="252.126315789474" HEIGHT="59" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L252.126 0 L252.126 59 L0 59 L0 0 Z" copath="M0 0 L252.126 0 L252.126 59 L0 59 L0 0 Z" gXpos="203.873684210526" gYpos="3752" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Fliff"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="Goddess of plants, rebirth, and creator of the fey."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="3320" OwnPage="9" ItemID="752068411" PTYPE="4" WIDTH="316" HEIGHT="23.4947368421053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" copath="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" gXpos="536" gYpos="1364.00000000001" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="15" CH="Deities"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="3320" OwnPage="10" ItemID="752038555" PTYPE="4" WIDTH="316" HEIGHT="35.3684210526317" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 35.3684 L0 35.3684 L0 0 Z" copath="M0 0 L316 0 L316 35.3684 L0 35.3684 L0 0 Z" gXpos="140" gYpos="712" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="24" CH="Perks"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="3461.38947368421" OwnPage="10" ItemID="752053643" PTYPE="2" WIDTH="316" HEIGHT="134.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.75" LOCALSCY="0.75" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img/hand_to_hand.png" IRENDER="0" EMBEDDED="0" path="M0 0 L316 0 L316 134.25 L0 134.25 L0 0 Z" copath="M0 0 L316 0 L316 134.25 L0 134.25 L0 0 Z" gXpos="536" gYpos="3461.38947368421" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="536" YPOS="3406" OwnPage="10" ItemID="752102187" PTYPE="4" WIDTH="316" HEIGHT="23.4947368421053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" copath="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" gXpos="536" gYpos="1450.00000000001" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="15" CH="Perk: Unarmed"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="3432.06315789474" OwnPage="10" ItemID="752192203" PTYPE="4" WIDTH="316" HEIGHT="29.5578947368422" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 29.5579 L0 29.5579 L0 0 Z" copath="M0 0 L316 0 L316 29.5579 L0 29.5579 L0 0 Z" gXpos="536" gYpos="3432.06315789474" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="When you select this perk, you may use "/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="DEX "/>
+                <ITEXT CH="to make unarmed attacks."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="3357.81052631579" OwnPage="10" ItemID="752212683" PTYPE="4" WIDTH="316" HEIGHT="45.4736842105262" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 45.4737 L0 45.4737 L0 0 Z" copath="M0 0 L316 0 L316 45.4737 L0 45.4737 L0 0 Z" gXpos="536" gYpos="3357.81052631579" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Perks are awarded by the keeper according to the rules of the campaign, such as a reward for completing objectives."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="3601" OwnPage="10" ItemID="752177659" PTYPE="4" WIDTH="316" HEIGHT="23.4947368421053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" copath="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" gXpos="536" gYpos="1645.00000000001" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="15" CH="Perk: Minor Weapons"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="3627.06315789474" OwnPage="10" ItemID="752270539" PTYPE="4" WIDTH="316" HEIGHT="51" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 51 L0 51 L0 0 Z" copath="M0 0 L316 0 L316 51 L0 51 L0 0 Z" gXpos="536" gYpos="3627.06315789474" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="When you select this perk, you may use "/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="DEX"/>
+                <ITEXT CH=" for attacks with sharp minor weapons and may throw minor weapons up to 20 feet."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="534.75" YPOS="3683.25" OwnPage="10" ItemID="752239227" PTYPE="2" WIDTH="317.25" HEIGHT="126.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.75" LOCALSCY="0.75" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="img/minor_weapons.png" IRENDER="0" EMBEDDED="0" path="M0 0 L317.25 0 L317.25 126.75 L0 126.75 L0 0 Z" copath="M0 0 L317.25 0 L317.25 126.75 L0 126.75 L0 0 Z" gXpos="534.75" gYpos="3683.25" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140" YPOS="3972" OwnPage="11" ItemID="752332507" PTYPE="4" WIDTH="316" HEIGHT="23.4947368421053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" copath="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" gXpos="536" gYpos="1364.00000000001" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="15" CH="Perk: Ranged Weapons"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="3998.37894736842" OwnPage="11" ItemID="752360843" PTYPE="2" WIDTH="316" HEIGHT="140.063157894737" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.782178217821782" LOCALSCY="0.782178217821782" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img/ranged_weapons.png" IRENDER="0" EMBEDDED="0" path="M0 0 L316 0 L316 140.063 L0 140.063 L0 0 Z" copath="M0 0 L316 0 L316 140.063 L0 140.063 L0 0 Z" gXpos="140" gYpos="3998.37894736842" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140" YPOS="4144" OwnPage="11" ItemID="752382219" PTYPE="4" WIDTH="316" HEIGHT="23.4947368421053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" copath="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" gXpos="536" gYpos="1536.00000000001" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="15" CH="Perk: Martial Weapons"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="4169.17894736842" OwnPage="11" ItemID="752466795" PTYPE="2" WIDTH="316" HEIGHT="130.944736842105" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.731481481481482" LOCALSCY="0.731481481481482" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img/martial_weapoins.png" IRENDER="0" EMBEDDED="0" path="M0 0 L316 0 L316 130.945 L0 130.945 L0 0 Z" copath="M0 0 L316 0 L316 130.945 L0 130.945 L0 0 Z" gXpos="140" gYpos="4169.17894736842" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140" YPOS="4331.55789473684" OwnPage="11" ItemID="752453579" PTYPE="2" WIDTH="316" HEIGHT="122.234210526316" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.721461187214612" LOCALSCY="0.721461187214612" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img/great_weapons.png" IRENDER="0" EMBEDDED="0" path="M0 0 L316 0 L316 122.234 L0 122.234 L0 0 Z" copath="M0 0 L316 0 L316 122.234 L0 122.234 L0 0 Z" gXpos="140" gYpos="4331.55789473684" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140" YPOS="4305" OwnPage="11" ItemID="752701355" PTYPE="4" WIDTH="316" HEIGHT="23.4947368421053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" copath="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" gXpos="536" gYpos="1697.00000000001" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="15" CH="Perk: Martial Weapons"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="3972" OwnPage="12" ItemID="752790203" PTYPE="4" WIDTH="316" HEIGHT="23.4947368421053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" copath="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" gXpos="536" gYpos="1364.00000000001" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="15" CH="Perk: Arcane Magic"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="4056.58157894737" OwnPage="12" ItemID="753349435" PTYPE="2" WIDTH="316" HEIGHT="215.45" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.656964656964657" LOCALSCY="0.656964656964657" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img/arcane_magic.png" IRENDER="0" EMBEDDED="0" path="M0 0 L316 0 L316 215.45 L0 215.45 L0 0 Z" copath="M0 0 L316 0 L316 215.45 L0 215.45 L0 0 Z" gXpos="536" gYpos="4056.58157894737" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="536" YPOS="4005.47368421053" OwnPage="12" ItemID="753413835" PTYPE="4" WIDTH="316" HEIGHT="46.2315789473687" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 46.2316 L0 46.2316 L0 0 Z" copath="M0 0 L316 0 L316 46.2316 L0 46.2316 L0 0 Z" gXpos="536" gYpos="4005.47368421053" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Each time you selec this perk, you learn one random arcane spell(without losing any "/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="CON"/>
+                <ITEXT CH=") and roll on the table below."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="4279.09473684211" OwnPage="12" ItemID="753358523" PTYPE="4" WIDTH="316" HEIGHT="46.2315789473678" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 46.2316 L0 46.2316 L0 0 Z" copath="M0 0 L316 0 L316 46.2316 L0 46.2316 L0 0 Z" gXpos="536" gYpos="4279.09473684211" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Note:"/>
+                <ITEXT CH=" Spell scrolls cost 5gp of materials, are a single use, and retain the spellcasting modifier at the time of crafting."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="4330.66315789474" OwnPage="12" ItemID="753462987" PTYPE="4" WIDTH="316" HEIGHT="173.336842105263" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 173.337 L0 173.337 L0 0 Z" copath="M0 0 L316 0 L316 173.337 L0 173.337 L0 0 Z" gXpos="536" gYpos="4330.66315789474" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Using Arcane Magic"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="You may cast each known spell once per rest, and you may use an action to prepare a spell. Once an arcane is spelled, you may use another action to cast it. After a spell's been used, you may prepare it using your life essence which deals D4 damage to you. You may learn spells you find in books, scrolls, or from mentors by expending 1 "/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="CON"/>
+                <ITEXT CH=" per spell."/>
+                <para/>
+                <para/>
+                <ITEXT CH="Your spellcasting mod is your "/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="INT"/>
+                <ITEXT CH=" mod + spellcasting bonus. Your spell DC is 10+"/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="INT"/>
+                <ITEXT CH="."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="4624" OwnPage="13" ItemID="753291515" PTYPE="4" WIDTH="316" HEIGHT="23.4947368421053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" copath="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" gXpos="536" gYpos="1364.00000000001" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="15" CH="Perk: Pact Magic"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="4653.8947368421" OwnPage="13" ItemID="752865755" PTYPE="2" WIDTH="316" HEIGHT="150.400000000001" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.842666666666667" LOCALSCY="0.842666666666667" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img/pact_magic.png" IRENDER="0" EMBEDDED="0" path="M0 0 L316 0 L316 150.4 L0 150.4 L0 0 Z" copath="M0 0 L316 0 L316 150.4 L0 150.4 L0 0 Z" gXpos="140" gYpos="4653.8947368421" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140" YPOS="4816.42105263158" OwnPage="13" ItemID="752821291" PTYPE="4" WIDTH="316" HEIGHT="190.578947368421" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 190.579 L0 190.579 L0 0 Z" copath="M0 0 L316 0 L316 190.579 L0 190.579 L0 0 Z" gXpos="140" gYpos="4816.42105263158" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Using Pact Magic"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="Select a patron, a powerful magical entity such as a divine or nature spirit who grants your powers. You may use an action to cast a spell. When you do, make a spellcasting check("/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="WIS"/>
+                <ITEXT CH=") and add your pact magic spellcasting bonus if you have one. The DC is decided by the spell. If you fail, the spell becomes exhausted and may not be cast again until you complete a request from the patron. You may use an action to charge a spell, granting a D6 spellcasting bonus on the next spell cast the same turn."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="4608.42105263158" OwnPage="14" ItemID="754157915" PTYPE="4" WIDTH="316" HEIGHT="93.2210526315785" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 93.2211 L0 93.2211 L0 0 Z" copath="M0 0 L316 0 L316 93.2211 L0 93.2211 L0 0 Z" gXpos="536" gYpos="4608.42105263158" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Praying for Spells"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="During a rest, you may pray for a spell, describing it with two words such as &quot;Healing Word&quot; and roll on the table below. The keeper creates a spell to fit the patron and roll. You may replace a spell if it is not exhausted."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="4708" OwnPage="14" ItemID="752947691" PTYPE="2" WIDTH="316" HEIGHT="145.557894736842" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.966360856269113" LOCALSCY="0.966360856269113" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img/pact_magic_spells.png" IRENDER="0" EMBEDDED="0" path="M0 0 L316 0 L316 145.558 L0 145.558 L0 0 Z" copath="M0 0 L316 0 L316 145.558 L0 145.558 L0 0 Z" gXpos="536" gYpos="4708" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140" YPOS="5276" OwnPage="15" ItemID="752974923" PTYPE="4" WIDTH="316" HEIGHT="23.4947368421053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" copath="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" gXpos="536" gYpos="1364.00000000001" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="15" CH="Perk: Naming Magic"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="5306.02105263158" OwnPage="15" ItemID="755216907" PTYPE="2" WIDTH="316" HEIGHT="134.726315789474" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.755980861244019" LOCALSCY="0.755980861244019" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img/naming_magic.png" IRENDER="0" EMBEDDED="0" path="M0 0 L316 0 L316 134.726 L0 134.726 L0 0 Z" copath="M0 0 L316 0 L316 134.726 L0 134.726 L0 0 Z" gXpos="140" gYpos="5306.02105263158" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140" YPOS="5453.81052631579" OwnPage="15" ItemID="755211627" PTYPE="4" WIDTH="316" HEIGHT="136.421052631579" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 136.421 L0 136.421 L0 0 Z" copath="M0 0 L316 0 L316 136.421 L0 136.421 L0 0 Z" gXpos="140" gYpos="5453.81052631579" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Using naming magic"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="During a rest, you may expend 2 "/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="CON"/>
+                <ITEXT CH=" to learn a magic word. You may use an action to cast a spell. To do so, select one or more names and describe to the keeper, who will assign a DC for a  spell check("/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="CHA"/>
+                <ITEXT CH="). You may use your action to charge the next spell cast the same turn, granting a D6 spellcasting bonus. If you roll a 1 on the D20, your spell automatically fails in a catastrophic way."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="5276" OwnPage="16" ItemID="755421179" PTYPE="4" WIDTH="316" HEIGHT="23.4947368421053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" copath="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" gXpos="536" gYpos="1364.00000000001" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="15" CH="Perk: Skill Dice"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="5356" OwnPage="16" ItemID="754140747" PTYPE="2" WIDTH="316" HEIGHT="123.526315789474" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.818652849740933" LOCALSCY="0.818652849740933" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img/skills.png" IRENDER="0" EMBEDDED="0" path="M0 0 L316 0 L316 123.526 L0 123.526 L0 0 Z" copath="M0 0 L316 0 L316 123.526 L0 123.526 L0 0 Z" gXpos="536" gYpos="5356" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="536" YPOS="5304.8" OwnPage="16" ItemID="756011307" PTYPE="4" WIDTH="316" HEIGHT="45.4736842105258" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 45.4737 L0 45.4737 L0 0 Z" copath="M0 0 L316 0 L316 45.4737 L0 45.4737 L0 0 Z" gXpos="536" gYpos="5304.8" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Each time you select this perk, you may gain a skill die for a new skill. You may have a total number of skill dice equal to your INT modifier(minimum 1)."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="5488.21052631579" OwnPage="16" ItemID="785698267" PTYPE="4" WIDTH="316" HEIGHT="125.789473684211" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 125.789 L0 125.789 L0 0 Z" copath="M0 0 L316 0 L316 125.789 L0 125.789 L0 0 Z" gXpos="536" gYpos="5488.21052631579" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Using Skill Dice"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="Anyone may perform any skill as they would perform any other action, with the keeper requesting ability checks when appropriate. If you have a skill die, you may roll and add it to ability checks leveraging your knowledge of that skill. Your skill die begins as a D6, but may grow (D6-&gt;D8-&gt;D12-&gt;D20) as a result of selecting this perk."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="6007" OwnPage="17" ItemID="786460555" PTYPE="4" WIDTH="316" HEIGHT="439" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 439 L0 439 L0 0 Z" copath="M0 0 L316 0 L316 439 L0 439 L0 0 Z" gXpos="140" gYpos="6007" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="The simplest skills define a range of actions:"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="- Pickpocketing"/>
+                <ITEXT CH=": Successfully taking an item from a target's inventory or hand without being detected."/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="- Lockpicking: "/>
+                <ITEXT CH="Disarming mechanical locks quietly and without leaving evidence"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="- Acrobatics:"/>
+                <ITEXT CH=" Swinging from chandliers, rolling to avoid harm from a fall, running across a tight-rope, leaping great distances, etc"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="- Athletics:"/>
+                <ITEXT CH=" Grappling, tripping, or throwing opponents, breaking doors down, climbing, etc"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="- Arcana:"/>
+                <ITEXT CH=" Reading magic text, detecting a magical presence, identifying a magic item or spell in use, casting an altered form of an arcane spell(spell fails to cast and is expended upon failure)"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="- Sneaking:"/>
+                <ITEXT CH=" Moving quietly in the shadows and avoiding detection"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="- Tracking:"/>
+                <ITEXT CH=" Identifying signs of nearby creatures, the age of tracks, and making calls, bait, or repellant for beasts and monsters"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="- Persuasion:"/>
+                <ITEXT CH=" Appealing to a subject's self-interest, rationality, morality, or other traits tactfully in order to change their mind"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="- Deception:"/>
+                <ITEXT CH=" Bluffing, exaggerating, implying untruths, denying truths, or otherwise fabricating details convincingly"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="- Intimidation:"/>
+                <ITEXT CH=" Creating a threatening presence in order to gain undue influence over someone through fear, on or off the battlefield"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="5928" OwnPage="17" ItemID="791527947" PTYPE="4" WIDTH="316" HEIGHT="35.3684210526317" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 35.3684 L0 35.3684 L0 0 Z" copath="M0 0 L316 0 L316 35.3684 L0 35.3684 L0 0 Z" gXpos="140" gYpos="712" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="24" CH="Skills"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="5970" OwnPage="17" ItemID="791541867" PTYPE="4" WIDTH="316" HEIGHT="23.4947368421053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" copath="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" gXpos="536" gYpos="1406.00000000001" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="15" CH="Simple Skills"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="5928" OwnPage="18" ItemID="756218011" PTYPE="4" WIDTH="316" HEIGHT="133.936842105263" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 133.937 L0 133.937 L0 0 Z" copath="M0 0 L316 0 L316 133.937 L0 133.937 L0 0 Z" gXpos="536" gYpos="5928" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="- Insight: "/>
+                <ITEXT CH="Determining someone's general disposition, current mood, stress levels, and detecting deception"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="- Foraging: "/>
+                <ITEXT CH="Locating and identifying edible plants, fungus, fish for food, medicine or alchemy"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="- History:"/>
+                <ITEXT CH=" Recalling the details of famous people, places, objects, or cultures through secondary sources such as conversing with others or reading texts"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="6069" OwnPage="18" ItemID="782264715" PTYPE="4" WIDTH="316" HEIGHT="23.4947368421053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" copath="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" gXpos="536" gYpos="1505.00000000001" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="15" CH="Complex Skills"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="6097.68421052632" OwnPage="18" ItemID="707434347" PTYPE="4" WIDTH="316" HEIGHT="246.315789473684" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 246.316 L0 246.316 L0 0 Z" copath="M0 0 L316 0 L316 246.316 L0 246.316 L0 0 Z" gXpos="536" gYpos="6097.68421052632" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="16" CH="Religion"/>
+                <para ALIGN="1"/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Recalling Lore"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="Recall the lore of divines, undead, fiends, fey, and other extra-planar beings. This may assist you in knowing what rituals are applicable to a given being."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Rituals"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="Rituals are special interactions with extra-planar beings."/>
+                <para/>
+                <ITEXT CH="- Pray for a miracle"/>
+                <para/>
+                <ITEXT CH="- Detect good and evil"/>
+                <para/>
+                <ITEXT CH="- Propose a deal"/>
+                <para/>
+                <ITEXT CH="- Request an audience"/>
+                <para/>
+                <ITEXT CH="- Speak a pact"/>
+                <para/>
+                <ITEXT CH="- Turn or cast out"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="631" YPOS="6345.90131578956" OwnPage="18" ItemID="788269675" PTYPE="2" WIDTH="113.894736842105" HEIGHT="114.098684210439" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.284736842105263" LOCALSCY="0.284736842105263" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img/religion.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L113.895 0 L113.895 114.099 L0 114.099 L0 0 Z" copath="M0 0 L113.895 0 L113.895 114.099 L0 114.099 L0 0 Z" gXpos="631" gYpos="6345.90131578956" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="140" YPOS="6580" OwnPage="19" ItemID="790512443" PTYPE="4" WIDTH="316" HEIGHT="79.621052631579" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 79.6211 L0 79.6211 L0 0 Z" copath="M0 0 L316 0 L316 79.6211 L0 79.6211 L0 0 Z" gXpos="140" gYpos="6580" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Performance"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="Evoke feelings such as wonder, joy, rage, or sorrow through a performing art. When you gain this skill, roll a D20 or choose from the list below. If you want an option not presented, work with your keeper."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="6659.62105263158" OwnPage="19" ItemID="771340427" PTYPE="4" WIDTH="146.484210526316" HEIGHT="153.094736842106" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L146.484 0 L146.484 153.095 L0 153.095 L0 0 Z" copath="M0 0 L146.484 0 L146.484 153.095 L0 153.095 L0 0 Z" gXpos="140" gYpos="6659.62105263158" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="1. Flute"/>
+                <para/>
+                <ITEXT CH="2. Lute"/>
+                <para/>
+                <ITEXT CH="3. Viola"/>
+                <para/>
+                <ITEXT CH="4. Bagpipe"/>
+                <para/>
+                <ITEXT CH="5. Hurdy gurdy"/>
+                <para/>
+                <ITEXT CH="6. Horn"/>
+                <para/>
+                <ITEXT CH="7. Harp"/>
+                <para/>
+                <ITEXT CH="8. Hammer Dulcimer"/>
+                <para/>
+                <ITEXT CH="9. Drums"/>
+                <para/>
+                <ITEXT CH="10. Tamberine"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="286.484210526316" YPOS="6660.37894736842" OwnPage="19" ItemID="772801835" PTYPE="4" WIDTH="169.515789473684" HEIGHT="152.336842105264" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L169.516 0 L169.516 152.337 L0 152.337 L0 0 Z" copath="M0 0 L169.516 0 L169.516 152.337 L0 152.337 L0 0 Z" gXpos="286.484210526316" gYpos="6660.37894736842" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="11. Finger Cymbals"/>
+                <para/>
+                <ITEXT CH="12. Singing"/>
+                <para/>
+                <ITEXT CH="13. Acting"/>
+                <para/>
+                <ITEXT CH="14. Comedy"/>
+                <para/>
+                <ITEXT CH="15. Juggling"/>
+                <para/>
+                <ITEXT CH="16. Sleight of hand tricks"/>
+                <para/>
+                <ITEXT CH="17. Romance"/>
+                <para/>
+                <ITEXT CH="18. Story telling"/>
+                <para/>
+                <ITEXT CH="19. Dancing"/>
+                <para/>
+                <ITEXT CH="20. Poetry"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="6817.34736842105" OwnPage="19" ItemID="789978187" PTYPE="4" WIDTH="316" HEIGHT="23.4947368421053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" copath="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" gXpos="140" gYpos="1601.34736842106" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="15" CH="Crafting"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="6846.18947368421" OwnPage="19" ItemID="771677051" PTYPE="4" WIDTH="316" HEIGHT="125.81052631579" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 125.811 L0 125.811 L0 0 Z" copath="M0 0 L316 0 L316 125.811 L0 125.811 L0 0 Z" gXpos="140" gYpos="6846.18947368421" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Determine a crafting recipe"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="You may be able to determine more simple crafting recipes with a single check. Others, however, may require days of research working on a prototype from materials. A completed prototype renders an inferior prototype version of an item as well as a crafting recipe. A crafting recipe has a DC, a list of materials, and a rough crafting time."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="6978.31578947368" OwnPage="19" ItemID="780421419" PTYPE="4" WIDTH="316" HEIGHT="59.1157894736843" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 59.1158 L0 59.1158 L0 0 Z" copath="M0 0 L316 0 L316 59.1158 L0 59.1158 L0 0 Z" gXpos="140" gYpos="6978.31578947368" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Craft an item"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="Attempting to craft an item consumes the materials and some time. Upon a success(check decided by keeper), the item is created."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="6574.35789473684" OwnPage="20" ItemID="781799259" PTYPE="4" WIDTH="316" HEIGHT="91.3263157894735" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 91.3263 L0 91.3263 L0 0 Z" copath="M0 0 L316 0 L316 91.3263 L0 91.3263 L0 0 Z" gXpos="536" gYpos="6574.35789473684" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Repair an item"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="A successful crafting check reveals if an item can be repaired, any materials needed, time, and a DC. By consuming the time and materials, a repair may be attempted. Upon a failure of 5+, the broken item is destroyed beyond repair."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="6673.26315789474" OwnPage="20" ItemID="788644635" PTYPE="4" WIDTH="316" HEIGHT="149.684210526316" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 149.684 L0 149.684 L0 0 Z" copath="M0 0 L316 0 L316 149.684 L0 149.684 L0 0 Z" gXpos="536" gYpos="6673.26315789474" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Harvesting"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="A successful crafting check will reveal any valuable crafting materials such as fur, hide, bone, scales, carapace, teeth, claws, resin, wood, or bark that can be harvested from a creature, plant, or object. These materials may be used in recipes, sold in their raw form, or be crafted into a value-added item such as a necklace or leather. A crafting check may be used to successfully harvest these materials, destroying them on a failure."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="6828.34736842105" OwnPage="20" ItemID="787151931" PTYPE="4" WIDTH="316" HEIGHT="23.4947368421053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" copath="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" gXpos="140" gYpos="1612.34736842106" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="15" CH="Alchemy"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="6857.81052631579" OwnPage="20" ItemID="782145307" PTYPE="4" WIDTH="316" HEIGHT="30.6947368421052" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 30.6947 L0 30.6947 L0 0 Z" copath="M0 0 L316 0 L316 30.6947 L0 30.6947 L0 0 Z" gXpos="536" gYpos="6857.81052631579" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Brewwing takes place over the course of a rest and requires relevant equipment."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="6894.56842105263" OwnPage="20" ItemID="776687947" PTYPE="4" WIDTH="316" HEIGHT="76.1684210526319" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 76.1684 L0 76.1684 L0 0 Z" copath="M0 0 L316 0 L316 76.1684 L0 76.1684 L0 0 Z" gXpos="536" gYpos="6894.56842105263" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Brew a tincture"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="Brewing a single alchemical ingredient with an alchemy check renders a tincture, which may fill flasks or vials. One flask, or four vials constitute a full dose that will render an alchemical effect."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="536" YPOS="6976.04210526316" OwnPage="20" ItemID="807301403" PTYPE="4" WIDTH="316" HEIGHT="121.957894736842" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 121.958 L0 121.958 L0 0 Z" copath="M0 0 L316 0 L316 121.958 L0 121.958 L0 0 Z" gXpos="536" gYpos="6976.04210526316" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Brew a potion"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="When brewing a potion, one combines multiple tinctures or other potions with a specific aim. One makes an alchemy check(Keeper provides DC based on complexity). The resulting potion has the same volume as the tinctures and potions that were used to make it. If the potion brewing fails, it becomes inert liquid."/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="7232" OwnPage="21" ItemID="788520347" PTYPE="4" WIDTH="316" HEIGHT="23.4947368421053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" copath="M0 0 L316 0 L316 23.4947 L0 23.4947 L0 0 Z" gXpos="140" gYpos="1364.00000000001" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="15" CH="Crafting"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="7264" OwnPage="21" ItemID="781575067" PTYPE="4" WIDTH="316" HEIGHT="226.652631578948" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 226.653 L0 226.653 L0 0 Z" copath="M0 0 L316 0 L316 226.653 L0 226.653 L0 0 Z" gXpos="140" gYpos="7264" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Create Medicine"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="By consuming one medicinal ingredient and 10 minutes, one may attempt to create one of the following items, making a medicine("/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="INT"/>
+                <ITEXT CH=") check:"/>
+                <para/>
+                <ITEXT CH="- (DC 15)Ointment: Heals D4 HP, provided target has half or more of their max HP. Expires after one day."/>
+                <para/>
+                <ITEXT CH="- (DC 20)Purifying salve: Removes one poison-related condition, masks an active illness's symptoms"/>
+                <para/>
+                <ITEXT CH="- (DC 20)Healer's kit: Same as in player handbook"/>
+                <para/>
+                <ITEXT CH="- (DC 20)Smelling Salt: wake an unconscious creature back to 1HP"/>
+                <para/>
+                <ITEXT CH="- (DC 25)Advanced healer's kit: Same as in player's handbook, except it heals 2d6 HP"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140" YPOS="7498.61052631579" OwnPage="21" ItemID="783382507" PTYPE="4" WIDTH="316" HEIGHT="108" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 108 L0 108 L0 0 Z" copath="M0 0 L316 0 L316 108 L0 108 L0 0 Z" gXpos="140" gYpos="7498.61052631579" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Field Medicine"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="Attempt to place a splint on a broken limb, resussicate someone who is not breathing, or stop severe bleeding. The DC is determined according to the situation, and is significantly lowered if you consume a healer's kit when practicing field medicine."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>

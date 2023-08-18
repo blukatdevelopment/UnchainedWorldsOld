@@ -9,40 +9,14 @@
 # Creating Your Character
 
 ## Step 1: Name
-Choose or roll a D20
 
-### 1-3 Primordial
 1. Think up four or five words that describe your character's job and appearance. Example: Tree axe river stick
 2. Combine them to make your full name. Each full name in a family differs by one word. Example: Treeaxeriverstick
-3. Pick two of the words to make your short name. Example: Treeaxe
-
-### 4-12 Common
-1. Create a Primordian name. Example: Treeaxeriverstick
-2. Select three to four random syllables. Example: Tre xe ver ick
-3. Combine them to make your name. Example: Trexeverick
-
-### 13-14 Mercantile
-1. Create a Primordial name. Example: Treeaxeriverstick
-3. Strategically slice off some syllables. Example: Trexrivstick
-4. Slice it into a first and last name. Example: Trex Rivstick
-
-### 15-16 Iron Tongue
-1. Pick a random word. Example: Axe
-2. Add a hard consonant(hK, t, tch, ck, x, rt) to the end to make your first name. Replace an existing consonant or add another vowel if needed. Example: Axek
-3. Combine two of the following in any order to make a last name:
-- Metalworking object(iron, charcoal, coke, anvil, copper, hammer, hardy, flux, pickle, quenchant, quill, pritchell)
-- Metalworking adjective(bright, hot, strong, soft, smoothe)
-- Metalworking verb(work, anneal, bellow, bloom, blow, blue, rust, polish, brown, cast, smith, harden, forge, temper, weld)
-Example: Axek Anvilbloom
-
-### 17-20 Fang Tongue
-1. Your name is 1d4+2 syllables long.
-2. Roll a consonent and vowel on the table below for each syllable.
-
-Note: fang tongue is often preferred for its ease of speaking by those with a beak, bill, fangs, or long snout.
+3. Create a Primordian name. Example: Treeaxeriverstick
+4. Select three to four random syllables. Example: Tre xe ver ick
+5. Combine them to make your name. Example: Trexeverick
 
 ## Step 2: Appearance
-You may wish to randomize your appearance, or select options from the tables in this section.
 
 ### Bimran
 Roll 2d6 for each column in the table below.
@@ -76,7 +50,6 @@ If you have mutations, roll a D12 on this table.
 12. Fangs
 
 ### Beast Folk
-Beast folk were transformed from awakened beasts by Raos and closely resemble them to this day.
 
 Roll a beast breed using a D6 for the ones place and a D6 for the tens place.
 | D66 | Beast    | D66 | Beast    |
@@ -108,6 +81,7 @@ Roll a D6. On a 1, Roll a mutation below.
 5. Extra set of ears
 6. Hybrid: Roll an additional beast type
 
+
 ## Step 3: Class
 Choose a class to decide your ability scores, starting gear, and starting perks.
 
@@ -121,22 +95,16 @@ Starting Perks:
 
 Starting gear:
 - Common clothes
-- Roll D4 times on the table below
+- Roll once on the table below
 
-| D12 | Gear             |
-|:----|:-----------------|
-| 1   | Torch            |
-| 2   | Dagger           |
-| 3   | Pole(10ft)       |
-| 4   | Bow and 5 arrows |
-| 5   | Rope(50ft)       |
-| 6   | Flask of Oil     |
-| 7   | Crowbar          |
-| 8   | Pitons(8)        |
-| 9   | Flint and Steel  |
-| 10  | hammer           |
-| 11  | Club             |
-| 12  | Caltrops(one bag)|
+| D6 | Gear             |
+|:---|:-----------------|
+| 1  | 4 Torches        |
+| 2  | Waterskin        |
+| 3  | Pole(10ft)       |
+| 4  | Bow and 5 arrows |
+| 5  | Rope(50ft)       |
+| 6  | 4 Dry Rations    |
 
 ### Warrior
 | STR | DEX | CON | INT | WIS | CHA |
@@ -209,7 +177,6 @@ Starting gear:
 - Staff
 - 6d6 GP
 
-
 ### Sage
 | STR | DEX | CON | INT | WIS | CHA |
 |:----|:----|:----|:----|:----|:----|
@@ -274,13 +241,6 @@ The keeper may ask you to make a check to succeed an attempted action or to resi
 | 2-3   | -4       |
 | 1     | -5       |
 
-## Generating Ability Scores
-- Roll 4d6, drop the lowest roll
-- This is your strength score
-- Repeat for the other abilities
-- If you don't get at least one 14, reroll
-- When you're done, you may swap one pair of scores
-
 # Other Stats
 
 ## Hit Points(HP)
@@ -330,7 +290,7 @@ See the "Arcane Magic", "Pact Magic", and "Naming Magic" for more details
 ##### Pact Magic and Naming Magic actions
 - **Charge spell**: Next spellcasting check this turn has a +D6 bonus. This stacks.
 - **Cast Second spell**: Has a -3 penalty to the spellcasting check.
-- **Cast Third spell**: Has a -3 penalty to the spellcasting check.
+- **Cast Third spell**: Has a -6 penalty to the spellcasting check.
 
 #### Misc actions
 - **Move**: Move up to 30ft
@@ -480,12 +440,11 @@ Armor requires a minimum **STR** or **DEX** to gain the benefits.
 | Draconic      | Dragons            |
 | Titan         | Titans, Constructs |
 
-## Deities
+## Divines
 | Name   | Domains                           |
 |:-------|:----------------------------------|
 | Bimros | Law, Order, Discipline, Bimrans   |
 | Fliff  | Plants, Rebirth, the fey          |
-| Kord   | Sleep, Ice, Stone, circles        |
 | Raos   | Farming, Empathy, beastfolk       |
 | Exia   | Discovery, Knowledge, Research    |
 | Gidur  | Secrets                           |
@@ -643,9 +602,9 @@ Roll on the table below.
 - On a roll of 1(before mods), the spell fails catastrophically(perhaps even fatally)
 
 ## Perk: Skills
-Gain the following benefits(See "Using Skills" for skill info):
+Gain the following benefits(See "Using Skills" for info about skills):
 - Gain a skill die for a number of skills equal to your **INT** mod (minimum 1)
-- Skill dice start as D4, but can grow (D4->D6->D8->D10->D12->D20)
+- Skill dice start as D6, but can grow (D6->D8->D10->D12->D20)
 
 <br><br>
 Roll on the table below.
@@ -734,6 +693,7 @@ A successful crafting check reveals if an item can be repaired, any materials ne
 A successful crafting check will reveal any valuable crafting materials such as fur, hide, bone, scales, carapace, teeth, claws, resin, wood, or bark that can be harvested from a creature, plant, or object. These materials may be used in recipes, sold in their raw form, or be crafted into a value-added item such as a necklace or leather. A crafting check may be used to successfully harvest these materials, destroying them on a failure.
 
 ### Alchemy
+Brewwing takes place over the course of a rest and requires relevant equipment.
 
 #### Brew a tincture
 Brewing a single alchemical ingredient with an alchemy check renders a tincture, which may fill flasks or vials. One flask, or four vials constitute a full dose that will render an alchemical effect.
