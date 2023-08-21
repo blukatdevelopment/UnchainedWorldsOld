@@ -321,7 +321,7 @@ See the "Arcane Magic", "Pact Magic", and "Naming Magic" for more details
 
 ### Weapons
 
-| Class  | Weapon     | GP | DMG| Size |
+| Type   | Weapon     | GP | DMG| Size |
 |:-------|:-----------|:---|:---|:-----|
 | Minor  | Dagger     |  5 | D4 | Small|
 | Martial| Sword      | 35 | D6 | Large|
@@ -390,7 +390,7 @@ If the target's got less than half their max HP, you can expend the kit over 1 m
 Can carry up to 4 small items, 16 tiny items, or some combination, even if they aren't identical.
 
 #### Light Sources
-|        Item      |  Cost |  Size   | Light | Duration |
+|  Light Source    |  Cost |  Size   | Light | Duration |
 |:-----------------|:------|:--------|:------|:---------|
 | Torch            |  1 cp |   Small | 30ft  | 1/2 hour |
 | Lantern, bullseye| 10 gp |   Small | 60ft  | 4 hours  |
