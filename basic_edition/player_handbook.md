@@ -245,8 +245,29 @@ The keeper may ask you to make a check to succeed an attempted action or to resi
 
 ## Hit Points(HP)
 - Reduced by taking damage
-- If it falls below 1, you die
+- If it falls below 1, you roll on the Injury table
 - HP = **CON** score (ie 17 **CON** = 17HP)
+
+### Injury Table
+- Roll when you take damage
+```
+18: Get back up!
+15-17: Dazed(-3 to all rolls for an hour)
+10-14: Minor Injury(sprained wrist, sprained ankle, throw out back)
+7-9: Major Injury[broken arm, broken leg, concussion, broken ribs]
+5-6: Dire injury[Severed arm, severed leg, lost eye, internal organ damage], roll on bleed table each round until treated
+4: Unconscious and bleeidng out. Roll on bleed table each round until treated
+3 or lower: Death
+```
+
+### Bleed Table
+```
+18: Wound stops bleeding
+11-7: -1 HP
+5-10: -2 HP
+4: Unconscious
+3: Death
+```
 
 ## Armor Class(AC)
 - Determines whether an enemy attack hits you
