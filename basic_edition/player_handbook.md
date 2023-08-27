@@ -601,7 +601,7 @@ Roll on the table below.
 
 ## Perk: Naming Magic
 Gain the following benefits:
-- You may expend 2 **CON** score to learn a random magic name
+- You may expend 1 **CON** score to learn a random magic name
 
 <br><br>
 Roll on the table below.
