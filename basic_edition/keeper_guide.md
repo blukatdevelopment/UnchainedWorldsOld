@@ -4,6 +4,9 @@ This guide will provide the keeper with the rationale and suggested rulings that
 The content of this guide aren't rules you are bound to, nor are they a contract you have made with your players.
 Instead, these are intended to help if you aren't sure where to start with making your own rulings.
 
+# Injury
+
+
 # Gear
 The weapons and armor tables in the player handbook are skeletal to keep character creation basic. If that's what you want, ignore the rest of this section. If you want players to discover a greater variety of weapons in the world, use these rules.
 
@@ -34,6 +37,10 @@ Deals -1 damage on melee attacks(minimum 1). Suggested price: 5SP
 #### Handaxe
 Deals max damage when thrown.
 
+
+#### Bola
+15ft range. D4 damage. Binds ankles on hit. 2 actions to remove.
+
 ### Ranged Weapons
 
 #### Longbow
@@ -48,19 +55,23 @@ Deals D12 damage. Takes 2 actions to reload. Suggested price: 30gp.
 #### Slingshot/Sling
 30ft range, deals D2 damage. Can use tiny objects as ammo. Suggested Price: 2GP
 
-#### Bola
-15ft range. D4 damage. Binds ankles on hit. 2 actions to remove.
 
 #### Firework
 Single use. 30ft range. D4 damage. Ignites target. Suggested price: 10GP
 
 ### Martial Weapons
 
+### Javelin
+5sp, Deals max damage when thrown
+
 ### Scimitar/Shortsword
 Can be dual wielded to deal the higher of two D6 rolls(2d6kh1).
 
 #### Pike/Lance/Halberd
 10ft range
+
+#### Battleaxe
+Deals D10 damage when held in two hands
 
 #### Blaster (Lost tech)
 Fires plasma burst that burns targets. Must be reloaded using 1 action after 10 shots.
