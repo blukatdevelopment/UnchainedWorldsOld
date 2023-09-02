@@ -1,5 +1,69 @@
 # Monster Guide
 
+## How to make a monster
+### Minimal stat block
+Minimum, you'll need HP, AC, and one attack. When ability checks are made, you can either assume a +0, or some other modifier on the fly.
+`Dogron, HP: 6, AC: 12, Bite +5 D6`
+
+### Extra stats: Ability scores
+Adding an array of ability scores if the bonuses on checks and saves are particularly important for this monster. (ex: `[15, 13, 8, 20, 12, 15]`) This'll help solidify modifiers for melee and ranged weapons as well as spellcasting, if it applies. Alternatively, you could just put a single modifier `[All +1]` if you want to go half-way on ability scores.
+
+### Extra stats: Passive abilities
+If you want to reduce rolls for your monsters, you can jot down one or more passive scores. The passive version of an ability is 10 + mod, and add half the size of any skill dice it might have. You can use these passive abilities in place of making rolls. This is especially helpeful when determining if a large group of monsters detects a sneaking PC.
+
+### Extra: Spellcasting
+Use the instructions on creating spells in the keepers guide, then apply them. Default to pact and especially naming magic if possible, so as to keep the spells in use flexible.
+
+### Extra stats: Special powers
+A special power is some unique mechanic that makes fighting the monster fresh. Popular options:
+- Limit PC mobility or move them around
+- Gain extra mobility(teleport, fly, burrow, climb, phase through walls)
+- Alter visibility(invisibility, cammoflauge, smoke cloud)
+- Inflict a bespoke condition(poison, disease, hallucinations, parasites, fear, mutation)
+
+### Extra stats: Multiple States
+If you are making a particularly tough enemy with many HP, you may wish you give it multiple stat blocks each with their own chunk of HP. When the first runs out of HP, don't carry over overkill damage. Give each stat block a different set of special powers, and maybe a different style of behavior(such as panic, getting serious, fleeing)
+
+
+## Archetypal stat blocks
+Change out the name and slap some powers on. Boom! You've got a monster. You may wish to swap the abilities from a single modifier to scores, change attacks, etc, but that's up to you.
+
+### Vermin
+```
+Vermin, HP: 1(D2), AC: 8, [All -1]
+Bite +1 1
+```
+
+### Mook
+```
+Mook, HP: 9(D6+6), AC: 10, [All +0]
+Club +2 D4
+```
+
+### Elite Mook
+```
+Elite Mook, HP: 18(2d6+12), AC: 11, [All +1]
+Sword +3 D6
+```
+
+### Tank
+```
+Tank, HP: 27(3d6+18), AC: 12, [All +2]
+Attack +4 D12
+```
+
+### Mini-Boss
+```
+Mini-Boss, HP: 54(6d6+36), AC: 13, [All +5]
+Bite +5 D12
+```
+
+### Boss
+```
+Boss, HP: 108(12d6+72), AC: 15, [All +6]
+Bite +6 D12
+```
+
 ## Bandits
 ```
 Bandit, HP: 10, AC: 13(leather) [14, 14, 10, 10, 10, 10]
@@ -274,104 +338,207 @@ Crossbow +3 D8: 2 actions to reload
 Loot: 4d10 GP
 ```
 
-# Monsters
+## Generic monsters
+These monsters have no brand identity. Don't be silly!
 
-## Templates
-You can use these as starting points for different monster types. HD refers to hit dice, or how many times a D6 is rolled for HP. One can use any value within the min and max range without worry.
+### Space Squid
+Outsiders that dwell in deep bodies of water, featuring psionic powers and powerful intellects. Many rows of teeth. Evil and methodical.
+```
+Space Squid, Large, HP: 108(12d6+72), AC: 15, [All +6]
+Tentacle +6 D12
+Powers:
+- Dominate(3/Day): DC14 WIS or mind controlled. Target repeats save when taking damage.
+- Drain(2 actions): steal 2d4 HP from dominated creature
+- Desire-vision: Probes minds for greatest desires.
+- Mucous: Underwater within 5ft, DC15 CON or sick for D4 hours(can only breathe underwater)
 
-- Minion(10AC, 1HP(1HD), +1 to hit, D4 damage)
-- Mook(10AC, 10HP(2HD), +2 to hit, D6 damage)
-- Brawler(12AC, 15HP(3HD), +4 to hit, D8 damage)
-- Boss(15AC, 30HP(5HD), +6 to hit, D10 damage)
+```
 
-## Monsters todo list
-### Skeleton(10AC, 1HP(1HD), +1 to hit, D4 damage)
-### Vampire
-### Slime(10AC, 10HP(2HD), +2 to hit, D6 damage)
-1. Blue: Water and ice
-2. Green: Acid
-3. Red: Fire
-4. Yellow: Lightning
-5. Purple: Poison
-6. Pink: Brain stealing
+### Angel Messenger
+```
+Angel Messenger, HP: 18(2d6+12), AC: 11, [All +1]
+Holy Sword +3 2d6
+Powers:
+- Fly 30ft
+- Half physical damage
+Naming Magic: +4, DC14
+- Shape
+- Heal
+```
 
-### Plant(12AC, 15HP(3HD), +4 to hit, D8 damage)
-1. Awakened Shrub(10AC, 1HP(1HD), +1 to hit, D4 damage)
-2. Mushmen: Stone spears and axes
-3. Vine mass: Grabbing tentacles
-4. Walking Tree: 30HP
+### Angel Warrior
+```
+Angel Warrior, HP: 27(3d6+18), AC: 12, [All +2]
+Holy Greatsword +4 D12
+Powers:
+- Fly 30ft
+- Half Physical Damage
+Naming Magic: +5, DC15
+- Commune
+- Plague
+- Strike
+- Raise
+```
 
-### Fey(12AC, 15HP(3HD), +4 to hit, D8 damage)
-- Naming Magic(+5, 13)
-- +5 against spell effects
-- Spells auto-succeed on named targets
-1. Nymph: 10HP(2HD), Words(Leaf, Flower, Laugh)
-2. Dryad: Words(Vine, Honey, Thorn)
-3. Archfey: 20HP(3HD) Words(Crown, Bark, Season, Madness)
+### Light Angel
+```
+Light Angel, HP: 54(6d6+36), AC: 13, [All +5]
+Bite +5 D12
+Powers:
+- Fly 30ft
+- Half Physical Damage
+Naming Magic: +6, DC16
+- Control
+- Detect
+- Resurrect
+- Blind
+```
 
-### Tentacle Beast
-### Gargoyle(10AC, 10HP(2HD), +2 to hit, D6 damage)
-### Pincer Beast
-### Stone Scurrier
-### Giant insect(10AC, 1HP(1HD), +1 to hit, D4 damage)
-### Corrupt Beast(10AC, 10HP(2HD), +2 to hit, D6 damage)
-### Beast
-### Flesh Eater
-### Chaos Shell
-### Infernoid
-### Mantis man(10AC, 10HP(2HD), +2 to hit, D6 damage)
-### Leech man(10AC, 10HP(2HD), +2 to hit, D6 damage)
-### Floating Eye(10AC, 1HP(1HD), +1 to hit, D4 damage)
-### Giant Hand(10AC, 10HP(2HD), +2 to hit, D6 damage)
-### Dream Eater(10AC, 10HP(2HD), +2 to hit, D6 damage)
-### Muckbeast
-### Needlenose(10AC, 10HP(2HD), +2 to hit, D6 damage)
-### Raystalker(10AC, 10HP(2HD), +2 to hit, D6 damage)
-### Manface Silkworm(10AC, 10HP(2HD), +2 to hit, D6 damage)
-### Dragon(15AC, 30HP(5HD), +6 to hit, D10 damage)
-### Swarm of heartworms(10AC, 10HP(2HD), +2 to hit, D6 damage)
-### Pit Fisher(10AC, 10HP(2HD), +2 to hit, D6 damage)
-### Mimic(10AC, 10HP(2HD), +2 to hit, D6 damage)
-### Hydra(15AC, 30HP(5HD), +6 to hit, D10 damage)
-### Elemental(10AC, 10HP(2HD), +2 to hit, D6 damage)
+### Spitting Antlion
+```
+Spitting Antlion, HP: 27(3d6+18), AC: 12, [All +2]
+Bite +4 D12
+Powers:
+- Burrow 30ft
+- Acid Spray(Recharge D6)(3 actions): Spits 30ft line of acid. DC 13 DEX save to halve 3d6 damage
+```
 
-## Monsters
+### Basilisk
+```
+Basilisk, HP: 27(3d6+18), AC: 12, [All +2]
+Bite +4 D12
+Powers:
+- See in dark
+- Petrify: 5ft, DC 12 DEX or petrified
+```
 
-### Skeleton(Minion)
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+### Centipede Lizard
+```
+Centipede Lizard, Large, HP: 54(6d6+36), AC: 13, [All +5]
+Bite +5 D12
+Powers:
+- Constrict: +5 D6, auto-grapple DC 15 STR
+- Lightning Breath(Recharge D3)(3 actions): 20ft line, DC 16 DEX save to halve 4d6 damage
+- Swallow: Grappled creature takes 2d6 acid damage per turn
+```
 
-### Zombie (Mook)
-- 3 paces per action
-- D6 chance of staying at 1HP instead of dying
-- Weak to radiant
-Variants:
-1. Torso: Moving takes 3 actions
-2. Runner: 6 paces per action
-3. Sturdy: 2HD, D6 damage
-4. Ghoul: Long tongue. No penalty on second attack
-5. Brain eater: Heals D6 after eating brain
-6. Infectious: Constant drooling. 1d6 chance to infect on attack
+### Tenticular Eyeballer
+A floating ball with one eye and a gaping maw. Ten stalks with additional eyes.
+```
+Tenticular Eyeballer, Large, HP: 54(6d6+36), AC: 13, [All +5]
+Bite +5 D12
+Powers:
+- Anti-magic Cone: 150ft cone of anti-magic from center eye
+- Eye Rays: Roll below. DC 16 DEX save to dodge
+1. Charm: Considers eyeballer a friend until attacked
+2. Paralyze
+3. Fear: -3 penalty to attacks
+4. Slowing: -1 action for one hour
+5. Enervation: DC16 CON to halve 4d8 DMG
+6. Telekinetic: push 30ft
+7. Sleep
+8. Petrification 
+9. Disintegration: 5d8 DMG
+10. Death: 5d10 DMG
+```
 
-### Ghost(Mook)
-- Invisible at will
-- Ephemeral at will
-- Resist non-silvered, non-magical weapons
-1. Spectral warrior: Wields spectral martial weapons
-2. Banshee: Screech which has 1d6 chance to reduce targets to 1HP
-3. 
-4. 
-5. 
-6. 
+### Armored Tunneler
+```
+Armored Tunneler, Large, HP: 54(6d6+36), AC: 13, [All +5]
+Bite +5 D12
+Powers:
+- Burrow 30ft
+- Leap(3 actions): Jump 30ft, land on creatures. DC 16 DEX or 3d6 DMG
+```
 
-### ()
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+### Rotpede
+An enormous centipede that feeds on dead things
+```
+Vermin, Large, HP: 54(6d6+36), AC: 13, [All +5]
+Bite +5 D12
+Powers:
+- Climb 30ft
+- Tentacles: 10ft +5 D4; DC 13 CON paralyze
+```
+
+### Chimera
+A creature with dragon, goat, and lion heads. Front half lion, back half goat, and has dragon wings and tail.
+```
+Chimera, Large, HP: 54(6d6+36), AC: 13, [All +5]
+Bite/Horns/Claws +5 D12
+Powers:
+- Fly 30ft
+- Fire Breath(Recharge D3): 15ft cone DC15 DEX save to halve 4d8 DMG 
+```
+
+### Crabtaur
+A crab beast with four legs and two arms ending in pinchers. Tentacles writhe from its face.
+```
+Crabtaur, Large, HP: 54(6d6+36), AC: 13, [All +5]
+Pincer +5 D12, grapple on hit
+Powers:
+- Sees in dark
+- Senses magic within sight
+- Tentacles: targets grappled creature +5 D6 DC 13 CPM save or -1 on ability checks for 1 hour. Stacks.
+```
+
+### Flapper
+A flying creature resembling a manta ray with a barbed tail and a wicked face.
+```
+Flapper, HP: 18(2d6+12), AC: 11, [All +1]
+Bite/Tail +3 D6
+Powers:
+- Attach: DC 13 STR or grapple. It and attached split incoming damage
+- Moan: DC 13 WIS save or -3 to all checks next turn. Save grants 1 day immunity
+- Phantasms(1/day): Creates 3 illusory duplicates, disappear when hit
+```
+
+### Petri-chicken
+A grey chicken-like creature 
+```
+Petra-chicken, HP: 1(D2), AC: 8, [All -1]
+Peck +1 1 DC 12 CON this and next turn. Failing both results in petrification
+```
+
+### Hook-beak
+An eye-less creature with long hooks on its arms
+```
+Vermin, HP: 54(6d6+36), AC: 13, [All +5]
+Hook +5 D12
+Powers:
+- Echolocation sight
+```
+
+### Invisible Hunter
+A creature summoned to track and kill a single target. 
+```
+Invisible Terror, HP: 18(2d6+12), AC: 11, [All +1]
+Slam +3 D6
+Powers:
+- Always invisible
+- Always knows general area of target while sharing plane
+```
+
+### Werewolf
+```
+Werewolf, HP: 27(3d6+18), AC: 12, [All +2]
+Bite +4 D6: DC 12 CON save or curse with lycanthropy
+Claws +4 D12
+Spear +4 D4
+Powers:
+- Immune to non-magical or non-silvered damage
+- Change between feral, hybrid, and humanoid form
+```
+
+Lycanthropy curse
+```
+DC 15 WIS save to avoid transforming under any of the following triggers:
+- Fresh meat
+- Blood
+- Wounded animal
+- Full moon
+- Take damage
+A success grants immunity for 1 hour.
+When transformed into hybrid form use Werewolf stat block, controlled by keeper. Feasts and kills indiscriminantly. DC 20 WIS save to revert.
+```
+
