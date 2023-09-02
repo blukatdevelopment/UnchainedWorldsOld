@@ -24,6 +24,8 @@ A special power is some unique mechanic that makes fighting the monster fresh. P
 ### Extra stats: Multiple States
 If you are making a particularly tough enemy with many HP, you may wish you give it multiple stat blocks each with their own chunk of HP. When the first runs out of HP, don't carry over overkill damage. Give each stat block a different set of special powers, and maybe a different style of behavior(such as panic, getting serious, fleeing)
 
+### Extra stats: Variable actions
+If you want to nerf monsters that are intended to appear in large amounts, give them less actions. Likewise, you may increase a monster's power by giving it more. Note that there is no fourth attack option.
 
 ## Archetypal stat blocks
 Change out the name and slap some powers on. Boom! You've got a monster. You may wish to swap the abilities from a single modifier to scores, change attacks, etc, but that's up to you.
@@ -540,5 +542,90 @@ DC 15 WIS save to avoid transforming under any of the following triggers:
 - Take damage
 A success grants immunity for 1 hour.
 When transformed into hybrid form use Werewolf stat block, controlled by keeper. Feasts and kills indiscriminantly. DC 20 WIS save to revert.
+```
+
+### Falsechest
+```
+Falsechest, HP: 9(D6+6), AC: 10, [All +0]
+Bite +2 D4
+Powers:
+- Disguise: The falsechest can disguise as any object, allowing it to spring like a trap
+- Tongue: DC 15 DEX check or creature if fused to falsechest's sticky tongue and the false chest deals bite damage. Check is automatically failed if creature touches disguised falsechest.
+```
+
+### Slime Cube
+```
+Vermin, Large, HP: 54(6d6+36), AC: 6, [All +5]
+Acidic Pseudopod  +5 D6
+Powers:
+- Transparent: DC 14 WIS check to see creature is occupying a hallway
+- Engulf: DC 15 STR save, captured creature takes D6 damage per turn
+```
+
+### Grey Slime
+```
+Grey Slime, HP: 9(D6+6), AC: 8, [All +0]
+Acidic Pseudopod +2 D4
+Powers:
+- Amorphous: Can fit through 1-inch gaps
+- Corrode: on hit, melee weapon takes permanent -1 damage penalty
+- False appearance: DC 18 WIS check to distinguish grey slime from oily pool or wet rock
+```
+
+### Yellow Slime
+```
+Yellow Slime, Large, HP: 54(6d6+36), AC: 8, [All +3]
+Acidic Pseudopod +2 D6
+Powers:
+- Amorphous: Can fit through 1-inch gaps
+- Spider climb: Can climb upside-down or up vertical surfaces
+- Split: If the slime has 10+ HP, it divides into two yellow slimes with half HP.
+```
+
+### Three-toed barbtooth
+```
+Vermin, HP: 54(6d6+36), AC: 13, [All +5]
+Bite +5 D12
+Tentacle +5 D6 auto-grapple
+Power:
+- Tentacle slam: grappled creature makes DC 14 CON save or takes D6 DMG and loses 2 actions on their next turn
+```
+
+### Beakbear
+```
+Vermin, HP: 27(3d6+18), AC: 12, [All +2]
+Beak/Claws +4 D12
+```
+
+### Flamepede
+```
+Flamepede, large, HP: 54(6d6+36), AC: 13, [All +5]
+Flaming Bite +5 D12
+Powers:
+- Heated Body: getting within 5ft deals D4 damage
+```
+
+### Rust Beast
+
+```
+Rust Beast, HP: 27(3d6+18), AC: 12, [All +2]
+Bite +4 D12
+Powers:
+- Iron scent: Can smell iron within 30ft
+- Rust metal: Metal melee weapons take -1 damage penalty when hit
+- Antennae: Corrode one metal object within 5ft to rust powder
+```
+
+### Mesmer-beetle
+
+```
+Mesmer-beetle, HP: 54(6d6+36), AC: 13, [All +5]
+Bite +5 D12
+Powers:
+- Tunnel 30ft
+- Confusing gaze: DC 15 WIS save or confused. While confused D4
+1-2: Does nothing
+3: Moves thrice in random direction
+4: Makes one attack against random creature
 ```
 
