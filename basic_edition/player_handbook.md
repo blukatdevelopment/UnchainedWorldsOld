@@ -354,24 +354,27 @@ See the "Arcane Magic", "Pact Magic", and "Naming Magic" for more details
 - 1 Gold Piece = 10 silver pieces = 100 copper pieces
 
 ### Adventuring gear
+| Extra Large Item      |Slots| Cost  |
+|:----------------------|:----|:------|
+| Barrel(40gal)         |   4 |  2 gp |
+| Bedroll               |   2 |  1 gp |
+| 10ft Ladder           |   2 |  5 sp |
+| 10ft Pole             |   2 |  5 cp |
+| Tent(Two-Person)      |   2 |  2 gp |
+| Lute                  |   2 | 10 gp |
 
 | Large Item            | Cost  |
 |:----------------------|:------|
-| Barrel(40gal)         |  2 gp |
 | Healer's Kit          |  5 gp |
 | Backpack              |  2 gp |
-| Bedroll               |  1 gp |
 | Block and Tackle      |  1 gp |
 | Common Clothes        |  5 sp |
 | Fine Clothes          | 15 gp |
 | Crowbar               |  2 gp |
-| Tent(Two-Person)      |  2 gp |
 | Rope (50 ft)          |  1 gp |
 | Book                  | 15 gp |
-| Pole (10ft)           |  5 cp |
 | Miner Pick            |  2 gp |
 | Quiver of Arrows (16) |  1 gp |
-| Lute                  | 10 gp |
 
 | Small Item         | Cost  |
 |:-------------------|:------|
@@ -561,6 +564,15 @@ Roll on the table below and learn one random spell.
 | 11    | Learn 3 random spells at no cost           |
 | 12    | You may craft spell scrolls*               |
 Spell scrolls cost 5gp of materials, are single use, and use your spellcasting modifier at time of crafting.
+
+
+| Roll  | Outcome              |
+|:------|:---------------------|
+|  < 15 | scroll burns to ashes|
+|    15 | +0, DC 10 scroll     |
+| 16-18 | +2, DC 12 scroll     |
+| 19-20 | +4, DC 14 scroll     |
+|   21+ | +6, DC 16 scroll     |
 
 ## Perk: Pact Magic
 Gain the following benefits:

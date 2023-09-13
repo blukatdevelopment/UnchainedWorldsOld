@@ -384,7 +384,7 @@ If you need some random spells, consult this table. It's highly encouraged to cr
 85. Shrink: An object or willing creature shrinks to a tenth of its normal size for one hour, unless you dismiss the spell early.
 86. Enlarge: An object or willing creature grows to ten times its normal size for one hour, unless you dismiss the spell early.
 87. Light: You touch an object or point on a creature, and it produces 30ft of light for the next hour. When touching the creature, you must succeed an opposed DEX check.
-88. Fireball: A ball of flame grows in your palm, and you toss it up to 120ft and it erupts into a 30ft radius explosion that forces a DEX check to halve 8d6 damage.
+88. Fireball: A ball of flame grows in your palm, and you toss it up to 120ft and it erupts into a 30ft radius explosion that forces a DEX check to halve 4d6 damage.
 89. Fireproof: You touch a willing creature, and for the next minute fire does not harm them nor any items they are holding or wearing.
 90. Thunder step: You jump and land on both feet(taking no fall damage), causing a resounding shockwave that deals 3d6 damage to all creatures within a 30ft radius.
 91. Zone: You declare a 100ft diameter sphere in sight as one of the following zones until you cast this spell again: silence, anti-magic, hyper-magic, corruption, darkness, gravity-free, frictionless, timeless.

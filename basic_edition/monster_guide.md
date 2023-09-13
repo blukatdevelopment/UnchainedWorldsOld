@@ -593,7 +593,7 @@ Power:
 
 ### Beakbear
 ```
-Vermin, HP: 27(3d6+18), AC: 12, [All +2]
+Beakbear, HP: 27(3d6+18), AC: 12, [All +2]
 Beak/Claws +4 D12
 ```
 
