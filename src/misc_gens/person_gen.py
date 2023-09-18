@@ -222,4 +222,4 @@ def main():
     for i in range(100):
         print(get_mercantile_name())
 
-main()
+#main()
