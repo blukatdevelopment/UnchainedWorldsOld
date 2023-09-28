@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.8">
+    <DOCUMENT ANZPAGES="2" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Letter" FIRSTNUM="1" BOOK="1" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="2" DFONT="DejaVu Sans Book" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="1" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="120" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_US" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="1" SnapToElement="0" MINGRID="20.002" MAJGRID="100.001" SHOWGRID="1" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.002" ScratchLeft="100.001" ScratchRight="100.001" ScratchTop="20.002" GapHorizontal="0" GapVertical="40.003" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.001" dispY="10.001" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="4 2 1 3 0" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="DejaVu Sans Book" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_US"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="7" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONTSIZE="6"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="3" markLength="20.0016" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="File" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0016" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="1" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.002" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal Left" MNAM="" Size="Letter" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.002" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="Normal Right" MNAM="" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="712.001" PAGEYPOS="20.002" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal Right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="852.005" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Normal Left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="751.831578947368" YPOS="61.3894736842105" OwnPage="0" ItemID="82147365" PTYPE="4" WIDTH="532.8" HEIGHT="78.6245263157895" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L532.8 0 L532.8 78.6245 L0 78.6245 L0 0 Z" copath="M0 0 L532.8 0 L532.8 78.6245 L0 78.6245 L0 0 Z" gXpos="751.831578947368" gYpos="61.3894736842105" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="24" CH="Escape From The Valley of the"/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="24" CH="Blood Moon"/>
+                <para/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="An Unchained Worlds oneshot adventure."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.005" YPOS="893.39247368421" OwnPage="1" ItemID="74406885" PTYPE="4" WIDTH="200.02" HEIGHT="78.1245263157896" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L200.02 0 L200.02 78.1245 L0 78.1245 L0 0 Z" copath="M0 0 L200.02 0 L200.02 78.1245 L0 78.1245 L0 0 Z" gXpos="752.005" gYpos="61.3894736842105" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="6" CH="Entrance"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Red motes dancing in from entrance"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Giant Metal Vault Door (Can be manually shut, but not opened)"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Wind moving upwards towards the northern wall"/>
+                <ITEXT CH="(Secret tunnel to redeye village)"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Western tunnel with 15ft chasm(plank bridge on other side)"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Eastern tunnel with no obstructions"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="460.537" YPOS="892.005" OwnPage="1" ItemID="85501205" PTYPE="4" WIDTH="210.964" HEIGHT="59.51" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L210.964 0 L210.964 59.51 L0 59.51 L0 0 Z" copath="M0 0 L210.964 0 L210.964 59.51 L0 59.51 L0 0 Z" gXpos="1072.537" gYpos="60.002" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="6" CH="Mushroom Forest"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Blue Glowshrooms(edible light source)"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Fat isopods(Friendly, edible, curl into ball)"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Spores(Make CON/MGT checks while in room, three failures results in unconsciousness)"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.001" YPOS="972.517" OwnPage="1" ItemID="95458613" PTYPE="4" WIDTH="200.02" HEIGHT="59.0060000000003" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L200.02 0 L200.02 59.006 L0 59.006 L0 0 Z" copath="M0 0 L200.02 0 L200.02 59.006 L0 59.006 L0 0 Z" gXpos="752.001" gYpos="140.514" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="6" CH="Skeleton Battlefield"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Stone floor with stalagmites and stalagtites"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Skeletons(grey uniforms, &quot;Bury us or perish!&quot;, rise if angered)"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Pile of supply crates(lost tech rifles, ammo)"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Chasm to North"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="460.537" YPOS="1052.525" OwnPage="1" ItemID="75061365" PTYPE="4" WIDTH="210.964" HEIGHT="59.0059999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L210.964 0 L210.964 59.006 L0 59.006 L0 0 Z" copath="M0 0 L210.964 0 L210.964 59.006 L0 59.006 L0 0 Z" gXpos="1072.537" gYpos="220.522" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="6" CH="Skeleton Battlefield"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Stone floor with stalagmites and stalagtites"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Skeletons(grey uniforms, &quot;Bury us or perish!&quot;, rise if angered)"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Pile of supply crates(lost tech rifles, ammo)"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Chasm to North"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="460.537" YPOS="952.997" OwnPage="1" ItemID="96157989" PTYPE="4" WIDTH="210.964" HEIGHT="98.5279999999998" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L210.964 0 L210.964 98.528 L0 98.528 L0 0 Z" copath="M0 0 L210.964 0 L210.964 98.528 L0 98.528 L0 0 Z" gXpos="1072.537" gYpos="120.994" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="6" CH="Whispering Steam"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Steam extinguishes flames"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Puddles of boiling water (Check or damage if navigating in dark)"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Hidden doors to NE and SE (check to find each corner)"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- CON/MGT check or hallucination"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="1. Someone else's biggest secret"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="2. Someone else's biggest fear"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="3. Someone else's biggest hope"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="4. Leave body"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="5. Preminition(Hint of another room)"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="6. Random whispers that persist until they leave cave"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.001" YPOS="1032.523" OwnPage="1" ItemID="93644069" PTYPE="4" WIDTH="200.02" HEIGHT="59.0060000000001" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L200.02 0 L200.02 59.006 L0 59.006 L0 0 Z" copath="M0 0 L200.02 0 L200.02 59.006 L0 59.006 L0 0 Z" gXpos="752.001" gYpos="200.52" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="6" CH="Redeye Bear"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Glowing red eyes"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Red collar with name &quot;Winertow&quot;"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Awakened &quot;How dare you intrude!&quot; &quot;I won't let you hurt them!&quot;"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Gore pile with mining helms, pickaxes, 4d6 coins"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.001" YPOS="1092.529" OwnPage="1" ItemID="91621077" PTYPE="4" WIDTH="200.02" HEIGHT="59.0060000000001" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L200.02 0 L200.02 59.006 L0 59.006 L0 0 Z" copath="M0 0 L200.02 0 L200.02 59.006 L0 59.006 L0 0 Z" gXpos="752.001" gYpos="260.526" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="6" CH="Redeye Bear"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Glowing red eyes"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Red collar with name &quot;Winertow&quot;"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Awakened &quot;How dare you intrude!&quot; &quot;I won't let you hurt them!&quot;"/>
+                <para/>
+                <ITEXT FONTSIZE="6" CH="- Gore pile with mining helms, pickaxes, 4d6 coins"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="460.537" YPOS="1112.531" OwnPage="1" ItemID="91161253" PTYPE="4" WIDTH="210.964" HEIGHT="59.0060000000001" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L210.964 0 L210.964 59.006 L0 59.006 L0 0 Z" copath="M0 0 L210.964 0 L210.964 59.006 L0 59.006 L0 0 Z" gXpos="1072.537" gYpos="280.528" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="6" CH="Gas Battlefield"/>
+                <para/>
+                <ITEXT CH="- Skeletons (Grey/White uniforms, gas masks, rifles)"/>
+                <para/>
+                <ITEXT CH="- Each side says &quot;Bury us, not them, or perish!&quot;"/>
+                <para/>
+                <ITEXT CH="- Crashed hovertank offgassing toxic fumes (Check or damage)"/>
+                <para/>
+                <ITEXT CH="- Vent for hovertank is visible and can be closed"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.001" YPOS="1152.535" OwnPage="1" ItemID="89078677" PTYPE="4" WIDTH="199.524" HEIGHT="99.0099999999998" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L199.524 0 L199.524 99.01 L0 99.01 L0 0 Z" copath="M0 0 L199.524 0 L199.524 99.01 L0 99.01 L0 0 Z" gXpos="752.001" gYpos="320.532" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Bunker"/>
+                <para/>
+                <ITEXT CH="- Decontamination airlock"/>
+                <para/>
+                <ITEXT CH="- AI named Altron"/>
+                <para/>
+                <ITEXT CH="- &quot;I've been here for 213 years.&quot;"/>
+                <para/>
+                <ITEXT CH="- &quot;My pantries were raided, but you are welcome to what you find.&quot;"/>
+                <para/>
+                <ITEXT CH="- &quot;Please, take me with you to the wicked city of Titania. Plug me into the street.&quot;"/>
+                <para/>
+                <ITEXT CH="- Airlock pumps air out if party refuses. &quot;One last chance, fleshies.&quot;"/>
+                <para/>
+                <ITEXT CH="- Robot body, surfaces from case if attacked (three hearts)"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="460.537" YPOS="1172.537" OwnPage="1" ItemID="91525397" PTYPE="4" WIDTH="210.964" HEIGHT="259.026" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L210.964 0 L210.964 259.026 L0 259.026 L0 0 Z" copath="M0 0 L210.964 0 L210.964 259.026 L0 259.026 L0 0 Z" gXpos="1072.537" gYpos="340.534" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Redeye Village"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Perimeter guards"/>
+                <para/>
+                <ITEXT CH="- 4 men (red, blue, grey, white uniforms)"/>
+                <para/>
+                <ITEXT CH="- Sword, Blaster, Rifle, spear"/>
+                <para/>
+                <ITEXT CH="- Initially suspicious &quot;Drop your weapons!&quot;"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Mushroom Farms"/>
+                <para/>
+                <ITEXT CH="- Children with baskets"/>
+                <para/>
+                <ITEXT CH="- Glowshrooms of all colors"/>
+                <para/>
+                <ITEXT CH="- Fluffy white fungus for clothing"/>
+                <para/>
+                <ITEXT CH="= Red and white food mushrooms"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Den"/>
+                <para/>
+                <ITEXT CH="- Underground stream"/>
+                <para/>
+                <ITEXT CH="- Firepit with stone pots of mushroom stew"/>
+                <para/>
+                <ITEXT CH="- Mushroom alcohol named Garr"/>
+                <para/>
+                <ITEXT CH="- Beds of fluffy white fungus"/>
+                <para/>
+                <ITEXT CH="- Pet isopods with collars"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Welcome feast"/>
+                <para/>
+                <ITEXT CH="- Garr, roast tentacle meat, mushroom stew"/>
+                <para/>
+                <ITEXT CH="- Bone flute music and fireside dancing"/>
+                <para/>
+                <ITEXT CH="- Recreational trip to whispering steam"/>
+                <para/>
+                <ITEXT CH="- &quot;The redeyes have, in all ages, come to the tunnels to escape those who think us demons. We live in the shadows.&quot;"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Trial(After Welcome Feast)"/>
+                <para/>
+                <ITEXT CH="1. People paralyed in sleep using mushroom spores"/>
+                <para/>
+                <ITEXT CH="2. Party left un-paralyzed"/>
+                <para/>
+                <ITEXT CH="3. Leader sadly explains &quot;We need to know we can trust you to leave with knowledge of our existence. If you tell others, they may come to exterminate our kind. Prove we can trust you, or you may never leave.&quot;"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.501" YPOS="1252.545" OwnPage="1" ItemID="86984469" PTYPE="4" WIDTH="239.028" HEIGHT="39.0040000000001" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L239.028 0 L239.028 39.004 L0 39.004 L0 0 Z" copath="M0 0 L239.028 0 L239.028 39.004 L0 39.004 L0 0 Z" gXpos="752.501" gYpos="420.542" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="12" CH="Blood-corrupt Monster Table"/>
+                <para/>
+                <para/>
+                <ITEXT FONTSIZE="12" CH="(2 in 6 chance)"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.501" YPOS="1292.549" OwnPage="1" ItemID="93835413" PTYPE="4" WIDTH="59.51" HEIGHT="59.0059999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L59.51 0 L59.51 59.006 L0 59.006 L0 0 Z" copath="M0 0 L59.51 0 L59.51 59.006 L0 59.006 L0 0 Z" gXpos="752.501" gYpos="460.546" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Animal(D6)"/>
+                <para/>
+                <ITEXT CH="1. Mouse *"/>
+                <para/>
+                <ITEXT CH="2. Snake *"/>
+                <para/>
+                <ITEXT CH="3. Coyote *"/>
+                <para/>
+                <ITEXT CH="4. Deer **"/>
+                <para/>
+                <ITEXT CH="5. Cougar **"/>
+                <para/>
+                <ITEXT CH="6. Bear ***"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="200.507" YPOS="1292.549" OwnPage="1" ItemID="103753061" PTYPE="4" WIDTH="59.51" HEIGHT="59.0059999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L59.51 0 L59.51 59.006 L0 59.006 L0 0 Z" copath="M0 0 L59.51 0 L59.51 59.006 L0 59.006 L0 0 Z" gXpos="812.507" gYpos="460.546" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Adjective(D6)"/>
+                <para/>
+                <ITEXT CH="1. Muscular"/>
+                <para/>
+                <ITEXT CH="2. Toxic"/>
+                <para/>
+                <ITEXT CH="3. Burning"/>
+                <para/>
+                <ITEXT CH="4. Leaping"/>
+                <para/>
+                <ITEXT CH="5. Spined"/>
+                <para/>
+                <ITEXT CH="6. Sticky"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="261.017" YPOS="1292.549" OwnPage="1" ItemID="85403973" PTYPE="4" WIDTH="59.51" HEIGHT="59.0059999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L59.51 0 L59.51 59.006 L0 59.006 L0 0 Z" copath="M0 0 L59.51 0 L59.51 59.006 L0 59.006 L0 0 Z" gXpos="873.017" gYpos="460.546" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Weapon(D6)"/>
+                <para/>
+                <ITEXT CH="1. Heads"/>
+                <para/>
+                <ITEXT CH="2. Fangs"/>
+                <para/>
+                <ITEXT CH="3. Claws"/>
+                <para/>
+                <ITEXT CH="4. Tentacles"/>
+                <para/>
+                <ITEXT CH="5. Hands"/>
+                <para/>
+                <ITEXT CH="6. Mouths"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.001" YPOS="1392.559" OwnPage="1" ItemID="96249509" PTYPE="4" WIDTH="199.524" HEIGHT="210.946" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L199.524 0 L199.524 210.946 L0 210.946 L0 0 Z" copath="M0 0 L199.524 0 L199.524 210.946 L0 210.946 L0 0 Z" gXpos="140.001" gYpos="1392.559" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Mono Bold" CH="                                 Wicked City"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Mono Bold" CH="  Endless Desert                 ┌───────────┐"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Mono Bold" CH=" ┌───────────┐                   │Prospectors│"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Mono Bold" CH=" │Rock Wolves├─────┐             └───────┬───┘"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Mono Bold" CH=" └───────────┘     ├──────┐              │"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Mono Bold" CH="                   │Redeye│           ┌──┴───┐"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Mono Bold" CH="                   │Bear  ├─────┐     │Bunker│"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Mono Bold" CH="             ┌──S──┴──────┘     │     └──┬───┘"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Mono Bold" CH="             │                  │        │"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Mono Bold" CH="             │                  ├────────┴──┐"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Mono Bold" CH="  ┌──────────┤    ┌─────────┐   │Gas        │"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Mono Bold" CH="  │Whispering│    │ Redeye  │   │Battlefield│"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Mono Bold" CH="  │Steam     │    │ Village │   └─────┬─────┘"/>
+                <para/>
+                <ITEXT CH="  └────┬─────┴─S──┴────┬────┘         │"/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT FONT="DejaVu Sans Mono Bold" CH="       │               │        ┌─────┴─────┐"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Mono Bold" CH="       │               │        │Skeleton   │"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Mono Bold" CH="   ┌───┴────┐          S        │Battlefield│"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Mono Bold" CH="   │Mushroom│          │        ├───────────┘"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Mono Bold" CH="   │Forest  │          │        │"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Mono Bold" CH="   └────────┤     ┌────┴───┐    │"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Mono Bold" CH="            └─────┤Entrance├────┘"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Mono Bold" CH="                  └────────┘"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Mono Bold" CH="                   Blood Moon Valley"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="460.537" YPOS="1432.563" OwnPage="1" ItemID="98735765" PTYPE="4" WIDTH="210.964" HEIGHT="59.0059999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L210.964 0 L210.964 59.006 L0 59.006 L0 0 Z" copath="M0 0 L210.964 0 L210.964 59.006 L0 59.006 L0 0 Z" gXpos="1072.537" gYpos="600.56" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Rock Wolf Den"/>
+                <para/>
+                <ITEXT CH="- Rock wolves have stony spikes and skeletons"/>
+                <para/>
+                <ITEXT CH="- 4 adults, 3 cubs"/>
+                <para/>
+                <ITEXT CH="- Bone pile"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="460.537" YPOS="1492.569" OwnPage="1" ItemID="98681541" PTYPE="4" WIDTH="210.964" HEIGHT="59.0059999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L210.964 0 L210.964 59.006 L0 59.006 L0 0 Z" copath="M0 0 L210.964 0 L210.964 59.006 L0 59.006 L0 0 Z" gXpos="1072.537" gYpos="660.566" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Prospectors"/>
+                <para/>
+                <ITEXT CH="- Lost tech clothes(dyed hair, shiny fabric, piercings)"/>
+                <para/>
+                <ITEXT CH="- Blasters"/>
+                <para/>
+                <ITEXT CH="- &quot;Where'd you get those antiques?&quot;"/>
+                <para/>
+                <ITEXT CH="- &quot;We can take you back with us to Titania.&quot;"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="752.001" YPOS="220.522" OwnPage="0" ItemID="114307541" PTYPE="4" WIDTH="200.02" HEIGHT="139.014" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L200.02 0 L200.02 139.014 L0 139.014 L0 0 Z" copath="M0 0 L200.02 0 L200.02 139.014 L0 139.014 L0 0 Z" gXpos="1364.001" gYpos="-611.481" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Introduction"/>
+                <para ALIGN="1"/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="6" CH="You hail from the village of the Somi, a people whose ancestors abandoned their wicked city to settle the fertile valley you now call home."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="6" CH="Legend tells of a Blood Moon which swells with the rage of the forest spirits and devours anyone who tills the soil or fells trees."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="6" CH="Tonight the fires dim and the valley swarms with points of crimson light. The Blood Moon rises. You have enough time to snatch up your most prized possession before you join the village's exodus through the very same tunnels that your ancestors used to find the valley. Escape."/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="6" CH="Survive."/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="6" CH="Save your people."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1012.531" YPOS="220.522" OwnPage="0" ItemID="93615957" PTYPE="4" WIDTH="270.97" HEIGHT="119.53" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L270.97 0 L270.97 119.53 L0 119.53 L0 0 Z" copath="M0 0 L270.97 0 L270.97 119.53 L0 119.53 L0 0 Z" gXpos="1012.531" gYpos="220.522" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="6" CH="Ten things all Somi know"/>
+                <para/>
+                <ITEXT CH="1. Metal leeches the soul, which is what filled the wicked city with monsters."/>
+                <para/>
+                <ITEXT CH="2. Needlebeaks are useful for their feathers, meat, and eggs, but can also be ridden short distances."/>
+                <para/>
+                <ITEXT CH="3. Wood nails last longer if you cover them in sap."/>
+                <para/>
+                <ITEXT CH="4. Nature spirits are green when happy, blue when sad, red when angry. "/>
+                <para/>
+                <ITEXT CH="5. The monsters in the tunnels are a good source of bone and shell."/>
+                <para/>
+                <ITEXT CH="6. When a baby first speaks, they are given a namestone matching engraved with their first word. This protects them from evil."/>
+                <para/>
+                <ITEXT CH="7. The second moon shimmers because it is jealous of the first"/>
+                <para/>
+                <ITEXT CH="8. A fire at night keeps the trees nearby from wandering."/>
+                <para/>
+                <ITEXT CH="9. To make a deadly sword, use a sharp stone to carve a club roughly flat. Burn and carve slots, then use sap to stick a sharpened blackstone inside each."/>
+                <para/>
+                <ITEXT CH="10. Singing and dancing can calm angry nature spirits."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="320.019" YPOS="1292.549" OwnPage="1" ItemID="92332229" PTYPE="4" WIDTH="59.51" HEIGHT="59.0059999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L59.51 0 L59.51 59.006 L0 59.006 L0 0 Z" copath="M0 0 L59.51 0 L59.51 59.006 L0 59.006 L0 0 Z" gXpos="932.019" gYpos="460.546" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Stats"/>
+                <para/>
+                <ITEXT CH="*: D6 HP"/>
+                <para/>
+                <ITEXT CH="**: 2d6 HP"/>
+                <para/>
+                <ITEXT CH="***: 4d6 HP"/>
+                <para/>
+                <ITEXT CH="AC: 10"/>
+                <para/>
+                <ITEXT CH="Attack +2"/>
+                <para/>
+                <ITEXT CH="D6 damage"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="572.491" YPOS="1451.563" OwnPage="1" ItemID="86164357" PTYPE="4" WIDTH="99.01" HEIGHT="39.0039999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L99.01 0 L99.01 39.004 L0 39.004 L0 0 Z" copath="M0 0 L99.01 0 L99.01 39.004 L0 39.004 L0 0 Z" gXpos="1184.491" gYpos="619.56" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Rock Wolf Stats"/>
+                <para/>
+                <ITEXT CH="3d6 HP, 15 AC"/>
+                <para/>
+                <ITEXT CH="Stone Jaws +2, D6 DMG"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1125.36753383459" YPOS="630.817172932331" OwnPage="0" ItemID="79022885" PTYPE="2" WIDTH="158.633466165414" HEIGHT="141.184827067669" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.500655415133578" LOCALSCY="0.500655415133578" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img/blukat_logo.png" IRENDER="0" EMBEDDED="0" path="M0 0 L158.633 0 L158.633 141.185 L0 141.185 L0 0 Z" copath="M0 0 L158.633 0 L158.633 141.185 L0 141.185 L0 0 Z" gXpos="1125.36753383459" gYpos="630.817172932331" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
