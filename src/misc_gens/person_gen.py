@@ -219,7 +219,7 @@ def get_mercantile():
     return f"{name}({pronouns}, {species}, {trait})"
 
 def main():
-    for i in range(100):
-        print(get_mercantile_name())
+    for i in range(500):
+        print(get_common_name())
 
-#main()
+main()
