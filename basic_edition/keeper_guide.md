@@ -397,6 +397,17 @@ If you need some random spells, consult this table. It's highly encouraged to cr
 98. Resurrection: You destroy a soul gem and sprinkle the dust over a corpse, bringing it back to life.
 99. Life drain: A creature you can see must succeed a WIS save to halve 10 damage and avoid transfering 10 years of youth to you.
 100. Aura of life: Now, and at the start of your turn for the next minute, you may heal all creatures within 10ft of you for 1d4 hit points.
+101. Ice arrows: A hail of arrows hits all creatures in a 60ft cone, who must make a DEX check to halve 2d6 damage.
+102. Flame spear: You create a spear from flames, which lasts for one minute and deals 3d6 on a hit.
+103. Coenta's Scythe: You summon a blade made from the crescent moon for an hour, which gives off 10ft of light, deals 2d6 damage, and may target two adjacent creatures with a single attack. 
+104. Coento's plow: A 10ft-wide plow of moonlight appears in front of you and moves in a 60ft path before disappearing, pulverizing anything softer than stone and dealing 3d6 damage to creatures pushed by it.
+105. Exia's lens: A magnifying glass appears in the air for one minute, dealing 2d6 damage to any creature underneath it when it is charged by the sun. You may move it 30ft using an action.
+106. Raos's claws: Long claws extend from your hands and melee attacks deal D12 damage for the next minute.
+107. Gidur's gate: For the next minute, you open a 10ft diameter portal on a flat surface leading to an abyss. You may dismiss the portal at will, trapping anything inside the portal.
+108. Eye of Solus: A 30ft sphere appears for one minute with a flaming eye in the center, dealing 3d6 damage to any creature inside it.
+109. Fliff's Leaf: You create a magical leaf containing a random magic name, which you may use to cast one naming spell. The leaf is destroyed when you invoke it, or cast this spell again.
+110. Voice of Bimros: You scream a 10 second message, which is audible within 10 miles. Any other creature within 100ft must make a CON save to halve 2d4 days, which is the number of days they are deafened.
+
 
 # Pact Magic
 
