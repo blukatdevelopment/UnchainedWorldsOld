@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.8">
+    <DOCUMENT ANZPAGES="1" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Letter" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="2" DFONT="DejaVu Sans Book" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="1" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="120" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_US" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="1" SnapToElement="0" MINGRID="20.002" MAJGRID="100.001" SHOWGRID="1" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.002" ScratchLeft="100.001" ScratchRight="100.001" ScratchTop="20.002" GapHorizontal="0" GapVertical="40.003" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.001" dispY="10.001" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="4 2 1 3 0" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="DejaVu Sans Book" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_US"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="8" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100" FONTSIZE="8"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="3" markLength="20.0016" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="File" filename="/home/blukat/localdev/unchainedworlds/5e-compatable/monsters.ps" separationName="All" printerCommand=""/>
+        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0016" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="0" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.002" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="20.002" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="140.505" YPOS="60.506" OwnPage="0" ItemID="2004036375" PTYPE="4" WIDTH="160.016" HEIGHT="59.006" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L160.016 0 L160.016 59.006 L0 59.006 L0 0 Z" copath="M0 0 L160.016 0 L160.016 59.006 L0 59.006 L0 0 Z" gXpos="140.505" gYpos="60.506" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Mook"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="HP: 11, AC: 12, Mod: +1"/>
+                <para/>
+                <ITEXT CH="Scimitar: +3 4DMG"/>
+                <trail ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="320.523" YPOS="60.506" OwnPage="0" ItemID="2017521975" PTYPE="4" WIDTH="160.016" HEIGHT="59.006" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L160.016 0 L160.016 59.006 L0 59.006 L0 0 Z" copath="M0 0 L160.016 0 L160.016 59.006 L0 59.006 L0 0 Z" gXpos="320.523" gYpos="60.506" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="General"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="HP: 20, AC: 14, Mod: +2"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="(2/Turn)Longsword: +4 5DMG"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="499.541" YPOS="60.506" OwnPage="0" ItemID="2025010663" PTYPE="4" WIDTH="160.016" HEIGHT="59.006" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L160.016 0 L160.016 59.006 L0 59.006 L0 0 Z" copath="M0 0 L160.016 0 L160.016 59.006 L0 59.006 L0 0 Z" gXpos="499.541" gYpos="60.506" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Boss(Large)"/>
+                <para/>
+                <ITEXT CH="HP: 42, AC: 11, Mod +1 (+4 STR)"/>
+                <para/>
+                <ITEXT CH="Speed: 40ft climb 30ft"/>
+                <para/>
+                <ITEXT CH="(2/turn)Bite/Claws: +4 8DMG"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.505" YPOS="140.514" OwnPage="0" ItemID="2014455415" PTYPE="4" WIDTH="159.016" HEIGHT="59.006" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Cyan" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L159.016 0 L159.016 59.006 L0 59.006 L0 0 Z" copath="M0 0 L159.016 0 L159.016 59.006 L0 59.006 L0 0 Z" gXpos="140.505" gYpos="140.514" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Wolf"/>
+                <para ALIGN="0"/>
+                <ITEXT FONT="DejaVu Sans Book" FONTSIZE="8" CH="Beast"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="HP: 11, AC: 12, Mod: +1"/>
+                <para/>
+                <ITEXT CH="- Pack Tactics"/>
+                <para/>
+                <ITEXT CH="Bite: +3 4DMG"/>
+                <trail ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="139.505" YPOS="200.52" OwnPage="0" ItemID="1975724183" PTYPE="4" WIDTH="160.016" HEIGHT="59.006" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Cyan" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L160.016 0 L160.016 59.006 L0 59.006 L0 0 Z" copath="M0 0 L160.016 0 L160.016 59.006 L0 59.006 L0 0 Z" gXpos="139.505" gYpos="200.52" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Bear"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Book" FONTSIZE="8" CH="Large Beast"/>
+                <para/>
+                <ITEXT CH="HP: 42, AC: 11, Mod +1 (+4 STR)"/>
+                <para/>
+                <ITEXT CH="Speed: 40ft climb 30ft"/>
+                <para/>
+                <ITEXT CH="(2/turn)Bite/Claws: +4 8DMG"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.505" YPOS="280.528" OwnPage="0" ItemID="2027647383" PTYPE="4" WIDTH="159.016" HEIGHT="79.008" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Green" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L159.016 0 L159.016 79.008 L0 79.008 L0 0 Z" copath="M0 0 L159.016 0 L159.016 79.008 L0 79.008 L0 0 Z" gXpos="140.505" gYpos="280.528" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Nymph"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="Fey"/>
+                <para/>
+                <ITEXT CH="HP: 8, AC: 12, Mod: +1"/>
+                <para/>
+                <ITEXT CH="- Magic Resistance(ADV V Spells)"/>
+                <para/>
+                <ITEXT CH="- Charming Gaze(DC 14 WIS)"/>
+                <para/>
+                <ITEXT CH="- Shapeshift to plants"/>
+                <para/>
+                <ITEXT CH="Fey Fire: +3 3DMG"/>
+                <para ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.505" YPOS="360.536" OwnPage="0" ItemID="2015618679" PTYPE="4" WIDTH="159.016" HEIGHT="79.008" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Green" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L159.016 0 L159.016 79.008 L0 79.008 L0 0 Z" copath="M0 0 L159.016 0 L159.016 79.008 L0 79.008 L0 0 Z" gXpos="140.505" gYpos="360.536" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Nature Spirit"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="Fey"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="HP: 30, AC: 11, Mod: +2"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="- Adv VS spells"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="- Shapeshift to animals"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="(2/Turn)Claws/Jaws: +4 6DMG"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.505" YPOS="480.548" OwnPage="0" ItemID="2028177159" PTYPE="4" WIDTH="160.016" HEIGHT="79.008" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Red" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L160.016 0 L160.016 79.008 L0 79.008 L0 0 Z" copath="M0 0 L160.016 0 L160.016 79.008 L0 79.008 L0 0 Z" gXpos="140.505" gYpos="480.548" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Imp"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="Fiend"/>
+                <para/>
+                <ITEXT CH="HP: 10, AC: 10, Mod: +1"/>
+                <para/>
+                <ITEXT CH="- Resist Non-Magical DMG"/>
+                <para/>
+                <ITEXT CH="- Immune Fire"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="- Shapeshift to small creature"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="Claws: +3 4DMG"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="Spit Flame +3 5DMG"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.505" YPOS="560.556" OwnPage="0" ItemID="2020083255" PTYPE="4" WIDTH="160.016" HEIGHT="79.0079999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Red" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L160.016 0 L160.016 79.008 L0 79.008 L0 0 Z" copath="M0 0 L160.016 0 L160.016 79.008 L0 79.008 L0 0 Z" gXpos="140.505" gYpos="560.556" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Demon"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="Fiend"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="HP: 22, AC: 14, Mod: +2"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="- Resist Non-Magical DMG"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="- Immune Fire"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="- Possess(DC 12 WIS)"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="(2/Turn)Claws: +4 6DMG"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="320.523" YPOS="140.514" OwnPage="0" ItemID="2003419239" PTYPE="4" WIDTH="160.016" HEIGHT="59.006" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Magenta" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L160.016 0 L160.016 59.006 L0 59.006 L0 0 Z" copath="M0 0 L160.016 0 L160.016 59.006 L0 59.006 L0 0 Z" gXpos="320.523" gYpos="140.514" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Commoner"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="Humanoid"/>
+                <para/>
+                <ITEXT CH="HP: 10, AC: 12, Mod: +1"/>
+                <para/>
+                <ITEXT CH="Club: +3 3DMG"/>
+                <trail ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="320.523" YPOS="200.52" OwnPage="0" ItemID="2008960823" PTYPE="4" WIDTH="160.016" HEIGHT="59.006" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Magenta" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L160.016 0 L160.016 59.006 L0 59.006 L0 0 Z" copath="M0 0 L160.016 0 L160.016 59.006 L0 59.006 L0 0 Z" gXpos="320.523" gYpos="200.52" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Guard"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="Humanoid"/>
+                <para/>
+                <ITEXT CH="HP: 11, AC: 14(Shield), Mod: +1"/>
+                <para/>
+                <ITEXT CH="- Reckless: Adv for self and attackers"/>
+                <para/>
+                <ITEXT CH="Spear: +3 4DMG"/>
+                <trail ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="320.523" YPOS="260.526" OwnPage="0" ItemID="2024886103" PTYPE="4" WIDTH="160.016" HEIGHT="79.008" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Magenta" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L160.016 0 L160.016 79.008 L0 79.008 L0 0 Z" copath="M0 0 L160.016 0 L160.016 79.008 L0 79.008 L0 0 Z" gXpos="320.523" gYpos="260.526" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Bandit"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="Humanoid"/>
+                <para/>
+                <ITEXT CH="HP: 13, AC: 12, Mod: +1"/>
+                <para/>
+                <ITEXT CH="- Nimble: BA disengage/hide"/>
+                <para/>
+                <ITEXT CH="Scimitar: +3 4DMG"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="Crossbow +3 5DMG"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="320.523" YPOS="340.534" OwnPage="0" ItemID="2014072967" PTYPE="4" WIDTH="160.016" HEIGHT="59.0059999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Magenta" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L160.016 0 L160.016 59.006 L0 59.006 L0 0 Z" copath="M0 0 L160.016 0 L160.016 59.006 L0 59.006 L0 0 Z" gXpos="320.523" gYpos="340.534" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Soldier"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="Humanoid"/>
+                <para/>
+                <ITEXT CH="HP: 20, AC: 14, Mod: +2"/>
+                <para/>
+                <ITEXT CH="(2/Turn)Longsword: +4 6DMG"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="500.541" YPOS="140.514" OwnPage="0" ItemID="2010023879" PTYPE="4" WIDTH="159.016" HEIGHT="59.006" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L159.016 0 L159.016 59.006 L0 59.006 L0 0 Z" copath="M0 0 L159.016 0 L159.016 59.006 L0 59.006 L0 0 Z" gXpos="500.541" gYpos="140.514" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Skeleton"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="Undead"/>
+                <para/>
+                <ITEXT CH="HP: 11, AC: 12, Mod: +1"/>
+                <para/>
+                <ITEXT CH="- Vulnerable to bludgeoning"/>
+                <para/>
+                <ITEXT CH="Rusty Shortsword: +3 4DMG"/>
+                <trail ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="500.541" YPOS="200.52" OwnPage="0" ItemID="2003287479" PTYPE="4" WIDTH="159.016" HEIGHT="79.008" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L159.016 0 L159.016 79.008 L0 79.008 L0 0 Z" copath="M0 0 L159.016 0 L159.016 79.008 L0 79.008 L0 0 Z" gXpos="500.541" gYpos="200.52" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Zombie"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="Undead"/>
+                <para/>
+                <ITEXT CH="HP: 11, AC: 12, Mod: +1"/>
+                <para/>
+                <ITEXT CH="- Rises again first time if not killed with fire"/>
+                <para/>
+                <ITEXT CH="- 15ft speed"/>
+                <para/>
+                <ITEXT CH="Slam: +3 5DMG"/>
+                <trail ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="500.541" YPOS="280.528" OwnPage="0" ItemID="1975802839" PTYPE="4" WIDTH="159.016" HEIGHT="79.008" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L159.016 0 L159.016 79.008 L0 79.008 L0 0 Z" copath="M0 0 L159.016 0 L159.016 79.008 L0 79.008 L0 0 Z" gXpos="500.541" gYpos="280.528" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Ghost"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="Undead"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="HP: 20, AC: 14, Mod: +2"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="- Turn invisible, etherial on command"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="- Attack Drains max HP by 2(restored on Long Rest)"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="- Immunte to non-silver physical"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="(2/Turn)Life Drain: +4 5DMG"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="500.541" YPOS="360.536" OwnPage="0" ItemID="2004483319" PTYPE="4" WIDTH="159.016" HEIGHT="119.012" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L159.016 0 L159.016 119.012 L0 119.012 L0 0 Z" copath="M0 0 L159.016 0 L159.016 119.012 L0 119.012 L0 0 Z" gXpos="500.541" gYpos="360.536" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Vampire"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="Undead"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="HP: 42, AC: 11, Mod +1 (+4 STR)"/>
+                <para/>
+                <ITEXT CH="- Charming gaze (DC 14 WIS)"/>
+                <para/>
+                <ITEXT CH="- Garlic deals 10DMG"/>
+                <para/>
+                <ITEXT CH="- Rises again if not staked"/>
+                <para/>
+                <ITEXT CH="Claws: +3 2DMG"/>
+                <para/>
+                <ITEXT CH="(2/turn)Bite: +4 5DMG(heal 5)"/>
+                <para/>
+                <ITEXT CH="Legendary Action(At end of any turn):"/>
+                <para/>
+                <ITEXT CH="- Move"/>
+                <breakline/>
+                <ITEXT CH="- Claws"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="320.523" YPOS="580.558" OwnPage="0" ItemID="2017302199" PTYPE="4" WIDTH="219.022" HEIGHT="79.008" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Yellow" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L219.022 0 L219.022 79.008 L0 79.008 L0 0 Z" copath="M0 0 L219.022 0 L219.022 79.008 L0 79.008 L0 0 Z" gXpos="320.523" gYpos="580.558" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Man-faced Lightning Stalker"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="Monstrosity"/>
+                <breakline/>
+                <ITEXT CH="Bark-like skin with human face"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="HP: 20, AC: 14, Mod: +2"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="- Spider Climb"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="Scratch: +3 3DMG"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="(2/Turn)Zap(15ft): +4 5DMG"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="540.545" YPOS="580.558" OwnPage="0" ItemID="2009849079" PTYPE="4" WIDTH="159.016" HEIGHT="79.008" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Yellow" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L159.016 0 L159.016 79.008 L0 79.008 L0 0 Z" copath="M0 0 L159.016 0 L159.016 79.008 L0 79.008 L0 0 Z" gXpos="540.545" gYpos="580.558" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Glistening Plump Tooth"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Book" FONTSIZE="8" CH="Large monstrosity"/>
+                <para/>
+                <ITEXT CH="HP: 42, AC: 11, Mod +1 (+4 STR)"/>
+                <para/>
+                <ITEXT CH="Speed: 15ft climb 15ft"/>
+                <para/>
+                <ITEXT CH="(2/turn)Chomp: +4 8DMG, Autograpple"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="320.523" YPOS="660.566" OwnPage="0" ItemID="2023425335" PTYPE="4" WIDTH="220.022" HEIGHT="79.0079999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Yellow" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L220.022 0 L220.022 79.008 L0 79.008 L0 0 Z" copath="M0 0 L220.022 0 L220.022 79.008 L0 79.008 L0 0 Z" gXpos="320.523" gYpos="660.566" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Air Squid"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="Monstrosity"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="HP: 20, AC: 14, Mod: +2"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="- Fly 30ft"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="- Ink Cloud(30ft obscure, 10 min)"/>
+                <breakline/>
+                <ITEXT CH="- Hand Grapple 20ft range DC14 ATH/ACR"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="(2/Turn)Beak: +4 5DMG"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="540.545" YPOS="660.566" OwnPage="0" ItemID="2027098599" PTYPE="4" WIDTH="140.014" HEIGHT="59.006" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Yellow" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L140.014 0 L140.014 59.006 L0 59.006 L0 0 Z" copath="M0 0 L140.014 0 L140.014 59.006 L0 59.006 L0 0 Z" gXpos="540.545" gYpos="660.566" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Legless Eye Beetle"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="Monstrosity"/>
+                <para/>
+                <ITEXT CH="HP: 11, AC: 12, Mod: +1"/>
+                <para/>
+                <ITEXT CH="Bite: +3 4DMG"/>
+                <trail ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="539.545" YPOS="720.572" OwnPage="0" ItemID="2004395287" PTYPE="4" WIDTH="160.016" HEIGHT="79.008" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Yellow" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L160.016 0 L160.016 79.008 L0 79.008 L0 0 Z" copath="M0 0 L160.016 0 L160.016 79.008 L0 79.008 L0 0 Z" gXpos="539.545" gYpos="720.572" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Growling Fire Blob"/>
+                <para/>
+                <ITEXT FONT="DejaVu Sans Book" FONTSIZE="8" CH="Large monstrosity"/>
+                <para/>
+                <ITEXT CH="HP: 42, AC: 11, Mod +1 (+4 STR)"/>
+                <para/>
+                <ITEXT CH="- Healed by fire damage"/>
+                <para/>
+                <ITEXT CH="- Flaming Aura: 3DMG if within 5ft"/>
+                <para/>
+                <ITEXT CH="(2/turn)Burn: +4 8DMG"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="320.523" YPOS="400.54" OwnPage="0" ItemID="2015042407" PTYPE="4" WIDTH="160.016" HEIGHT="159.016" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Magenta" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L160.016 0 L160.016 159.016 L0 159.016 L0 0 Z" copath="M0 0 L160.016 0 L160.016 159.016 L0 159.016 L0 0 Z" gXpos="320.523" gYpos="400.54" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Mage"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="Humanoid"/>
+                <para/>
+                <ITEXT CH="HP: 15, AC: 13(Magic), Mod: +2"/>
+                <para/>
+                <ITEXT CH="Club: +3 3DMG"/>
+                <para ALIGN="0"/>
+                <ITEXT CH="Spells(+5, DC15):"/>
+                <para/>
+                <ITEXT CH="Cantrips"/>
+                <para/>
+                <ITEXT CH="-"/>
+                <ITEXT FONT="DejaVu Sans Bold" CH=" Light"/>
+                <ITEXT CH=": 30ft"/>
+                <para/>
+                <ITEXT CH="- "/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Prestidigitation"/>
+                <para/>
+                <ITEXT CH="-"/>
+                <ITEXT FONT="DejaVu Sans Bold" CH=" Acid Splash"/>
+                <ITEXT CH="(15ft): DEX save or 3DMG"/>
+                <para/>
+                <para/>
+                <ITEXT CH="1st(4 slots)"/>
+                <para/>
+                <ITEXT CH="- "/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Grease"/>
+                <ITEXT CH=": 10ft SQR DEX"/>
+                <para/>
+                <ITEXT CH="- "/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Magic Missile"/>
+                <ITEXT CH=": 3 x 2DMG darts"/>
+                <para/>
+                <ITEXT CH="- "/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Color Spray"/>
+                <ITEXT CH=": Blind 6d6HP worth until end of next turn"/>
+                <para/>
+                <ITEXT CH="- "/>
+                <ITEXT FONT="DejaVu Sans Bold" CH="Witch Bolt"/>
+                <ITEXT CH=": +5 6DMG, repeat with action"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
