@@ -25,71 +25,33 @@ Armor has a +1 AC, weapon has +1 to damage. On a critical failure, just take awa
 ## Gear variants
 
 ### Minor Weapons
-#### Boomerang
-Returns to thrower upon miss. Suggested price: 10GP
-
-#### Dart/Shuriken/Javelin
-Deals -1 damage on melee attacks(minimum 1). Suggested price: 5SP
-
-#### Whip
-10ft range
-
-#### Handaxe
-Deals max damage when thrown.
-
-
-#### Bola
-15ft range. D4 damage. Binds ankles on hit. 2 actions to remove.
+- Boomerang(10GP): Returns to thrower upon miss.
+- Dart/Shuriken/Javelin(5SP): Deals -1 damage on melee attacks(minimum 1)
+- Whip: 10ft range
+- Handaxe: Deals max damage when thrown.
+- Bola: 15ft range. D4 damage. Binds ankles on hit. 2 actions to remove.
 
 ### Ranged Weapons
-
-#### Longbow
-Deals D10 damage. Takes 2 actions to fire. Suggested price: 30gp.
-
-#### Crossbow
-Deals D12 damage. Takes 2 actions to reload. Suggested price: 30gp.
-
-#### Blowdart
-30ft range, deals 1 damage, silent, ammo can be poisoned. Suggested price: 5GP
-
-#### Slingshot/Sling
-30ft range, deals D2 damage. Can use tiny objects as ammo. Suggested Price: 2GP
-
-
-#### Firework
-Single use. 30ft range. D4 damage. Ignites target. Suggested price: 10GP
+- Longbow(30gp): 100ft range, D10 DMG, 2 actions to fire
+- Crossbow(30gp): 100ft range, 2d6 DMG, 2 action reload
+- Blowdart(5GP): 30ft range, deals 1 damage, silent, ammo can be poisoned.
+- Slingshot/Sling(2GP): 30ft range, deals D2 damage. Can use tiny objects as ammo.
+- Firework(10GP): Single use. 30ft range. D4 damage. Ignites target.
+- Musket Pistol(50GP): 60ft range, 3d4 DMG, 3 action reload.
+- Musket(50GP): 60ft range, 3d6 DMG, 3 action reload.
+- Blaster: 30ft range, D8 damage, 10 ammo, 1 action reload, flaming projectile
+- Autoblaster: 30ft range, D8 damage, 30 ammo, 1 action reload. Burst fire: 2 actions, eats 15 ammo, and deals D20-1 damage to a target.
 
 ### Martial Weapons
-
-### Javelin
-5sp, Deals max damage when thrown
-
-### Scimitar/Shortsword
-Can be dual wielded to deal the higher of two D6 rolls(2d6kh1).
-
-#### Pike/Lance/Halberd
-10ft range
-
-#### Battleaxe
-Deals D10 damage when held in two hands
-
-#### Blaster (Lost tech)
-Fires plasma burst that burns targets. Must be reloaded using 1 action after 10 shots.
-
-#### Autoblaster(Lost tech)
-Fires plasma burst that burns targets. Must be reloaded using 1 action after 30 shots.
-Burst fire uses 10 ammunition and deals D20-1 damage to a target.
+- Javelin: 5sp, Deals max damage when thrown
+- Scimitar/Shortsword: Dual wield to get best of two D6 rolls for damage.
+- Pike/Lance/Halberd: 10ft range
+- Battleaxe: Deals D10 damage when held in two hands
 
 ### Great Weapons
-
-#### Greatclub
-On max damage, breaks. Suggested price: 5GP.
-
-#### Greataxe
-On max damage, roll a bonus D12 of damage. Likely to cause limb loss and decapitations of monsters.
-
-#### Greathammer
-On max damage, damages rigid armor by 1AC.
+- Greatclub(5GP): On max damage, breaks.
+- Greataxe: On max damage, roll a bonus D12 of damage. Likely to cause limb loss and decapitations of monsters.
+- Greathammer: On max damage, damages rigid armor by 1AC.
 
 # Loot
 
@@ -225,44 +187,6 @@ Steal from videogames for enemies with a large amount of HP. Each third of the h
 
 For instance, a confident boss may lead with tactically unsound or weak attacks as it under-estimates the party in stage 1. In stage 2, it may apply more powerful abilities and select more tactically sound options. In stage 3, the creature is panicking and using every possible resource at its disposal.
 
-# Picking perks
-Each PC earns perks during an adventure, but then cashes them in during downtime. This is an opportunity to tie the characters to the world, or at least to celebrate their advancement with a training montage. Here are some suggestions for each perk for inspiration, but ideally ideas can be created or adapted to complement the campaign and the PC.
-
-## Hand-to-hand
-
-Mentors
-1. Thug(retired, active)
-2. Monk(Raos, Fliff, Coent)
-3. Pit fighter manager
-4. Acrobat(bohemian, jester, bear-wrestler)
-5. Knight(royal, Bimros, Kord, or Solus)
-6. Beggar
-
-Montages
-1. Lifting and throwing logs
-2. Splitting boards by hand
-3. Punching a tree
-4. Sitting under a waterfall/river
-5. Fighting blindfolded
-6. Snatching fly out of the air
-
-## Minor Weapons
-
-Mentors
-1. Performer(knife thrower, juggler)
-2. Guard/Soldier/Militia
-3. Assassin(retired)
-4. Thug(retired, active)
-5. 
-6. 
-
-## Ranged Weapons
-## Martial Weapons
-## Great Weapons
-## Pact Magic
-## Naming Magic
-## Skills
-
 # Arcane Magic
 This is the most straight-forward type of vancian magic. Unless the Arcana skill(See: Skills) is used to alter the spell, it's played based on the description using best judgement for interpretation.
 
@@ -336,7 +260,7 @@ If you need some random spells, consult this table. It's highly encouraged to cr
 37. Eldritch blast: Crackling black energy bursts from your hand as you make a ranged spell attack which deals 4d6 damage.
 38. Black tentacles: A portal opens until the start of your next turn and black tentacles emerge to force all creatures within 10ft to make a STR save against being dragged into the portal and taking 2d6 damage until they succeed again to escape.
 39. Demon Swarm: A portal opens and 1d4+1 demons step out, loyal to no one.
-40. Silence: You and every creature in sight become mute until you dismiss this spell.
+40. Shut: Until you dismiss this spell by opening your mouth, everyone within 60ft cannot open theirs.
 41. Duplicate Spell: Cast one other spell you know, only exhausting this one.
 42. Bulk up: For the next hour one creature you touch grows incredibly muscular, gaining a 20 in STR and CON scores.
 43. Compelled Chorus: So long as you continue singing this song, all creatures who can hear it must spend an action singing along.
@@ -402,11 +326,27 @@ If you need some random spells, consult this table. It's highly encouraged to cr
 103. Coenta's Scythe: You summon a blade made from the crescent moon for an hour, which gives off 10ft of light, deals 2d6 damage, and may target two adjacent creatures with a single attack. 
 104. Coento's plow: A 10ft-wide plow of moonlight appears in front of you and moves in a 60ft path before disappearing, pulverizing anything softer than stone and dealing 3d6 damage to creatures pushed by it.
 105. Exia's lens: A magnifying glass appears in the air for one minute, dealing 2d6 damage to any creature underneath it when it is charged by the sun. You may move it 30ft using an action.
-106. Raos's claws: Long claws extend from your hands and melee attacks deal D12 damage for the next minute.
+106. Raos's claws: Long claws extend from your hands and melee attacks deal D12 damage for the next minute. It counts as a martial weapon.
 107. Gidur's gate: For the next minute, you open a 10ft diameter portal on a flat surface leading to an abyss. You may dismiss the portal at will, trapping anything inside the portal.
 108. Eye of Solus: A 30ft sphere appears for one minute with a flaming eye in the center, dealing 3d6 damage to any creature inside it.
 109. Fliff's Leaf: You create a magical leaf containing a random magic name, which you may use to cast one naming spell. The leaf is destroyed when you invoke it, or cast this spell again.
-110. Voice of Bimros: You scream a 10 second message, which is audible within 10 miles. Any other creature within 100ft must make a CON save to halve 2d4 days, which is the number of days they are deafened.
+110. Voice of Bimros: You scream a 10 second message, which is audible within 10 miles. Any other creature within 100ft must make a CON save to halve 2d4, which is the number of days they are deafened.
+111. Whisper of Aos: You whisper a 10 second message into the wind and name the recipient. The winds carry the message to them instantly.
+112. Xan's sorrow: You weep healing tears onto a creature, healing it for 2d10 HP.
+113. Demonsong: You release this cursed melody and demons begin to appear within a one mile radius for the next 24 hours.
+114. Sword Dance: You begin dancing, and so long as you use all your actions to continue dancing, all swords within 60ft deal max damage.
+115. Death Mark: You point at a creature and a tattoo of the word "death" in primordial appears on their forehead. You can sense their presence until they die, you dismiss this spell, or you cast this spell again.
+116. Mind Palace: You enter a catatonic state, psychically entering the mind of one target which appears as a palace to you. You may exit their mind through the palace's front door to wake up, but will remain a vegetable if you die in this palace.
+116. Ether gate: You open a portal that leads to the ethereal plane that lasts for one minute. Entering or exiting alternates between physical and spiritual forms.
+117. Toro's forgiveness: The next time you take damage, you and the attacker heal an amount equal to that damage.
+118. Hell gate: You open a portal that leads to the hells. To close it, you must destroy a tower in the hells erected by this spell.
+119. Fichi's yawn: You yawn, and all creatures who can see and hear you must succeed a CON save or fall asleep.
+120. Too many tomatoes: You conjure a single tomato, which duplicates into two tomatoes after ten seconds. The tomato and its spawn continue duplicating once each ten seconds until ten minutes pass and they all vanish. You may dismiss this spell at will.
+121. Time set day: The sun, moon, stars, and planets reset back into sunrise position.
+122. Doormouse: You conjure a mouse for the next hour. You may perceive its sensory information and telepathically control it. If the mouse dies, you take d4 damage.
+123. Summon expert: You summon the spirit of an expert of a particular skill. For the next minute, any skill die you normally have for that skill is replaced with a D10.
+124. Water cannon: For one minute, you produce a heavy stream of water that sprays 500 gallons hard enough to knock over creatures that fail a STR check.
+125. Box of sharing: You touch a box of any size and its opening becomes a portal to a 10ft cube pocket dimension for 1 hour. Everyone who casts this spell accesses the same dimension.
 
 
 # Pact Magic
