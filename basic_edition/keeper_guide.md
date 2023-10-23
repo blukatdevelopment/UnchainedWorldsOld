@@ -34,6 +34,7 @@ Armor has a +1 AC, weapon has +1 to damage. On a critical failure, just take awa
 ### Ranged Weapons
 - Longbow(30gp): 100ft range, D10 DMG, 2 actions to fire
 - Crossbow(30gp): 100ft range, 2d6 DMG, 2 action reload
+- Crossbow Pistol(40gp): 30ft range, 2d4 DMG, 1 action reload
 - Blowdart(5GP): 30ft range, deals 1 damage, silent, ammo can be poisoned.
 - Slingshot/Sling(2GP): 30ft range, deals D2 damage. Can use tiny objects as ammo.
 - Firework(10GP): Single use. 30ft range. D4 damage. Ignites target.
