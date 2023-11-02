@@ -1,3 +1,11 @@
+# Bimros laws
+1. Pray to no other
+2. Punish the wicked
+3. Wield no magic but mine
+4. Neither speak nor read evil
+5. Wear not the color of demons(red)
+6. Build houses of three
+7. Tell no lie
 
 # Languages 
 ## Primordial

@@ -1,0 +1,1 @@
+The feeling that a world is real, operating on its own internally consistent rules and logic. Sometimes referred to as the suspense of disbelief.

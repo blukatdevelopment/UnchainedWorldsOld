@@ -1,0 +1,1 @@
+Some speculate a the thousand isles were once a single continent that the divines flooded. The peoples of the region are sea-faring, and the shallow waters are filled with divine ruins and monsters. The deeper waters conceal sea monsters capable of submerging entire ships, which has kept this region isolated from outside investigation.
