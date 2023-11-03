@@ -1,0 +1,1 @@
+A constellation of satellites and space stations formed around Archon, city of seven green rings. Ascended during the Titan age, much of the  archipelago has been abandoned due to mutation, monsters, war, and hundreds of years without supplies from the surface.

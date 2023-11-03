@@ -1,0 +1,1 @@
+You sing to a creature who must succeed a WIS save to resist transforming into one creature you've touched for 24 hours or until they reach 0HP, which reverts them to their previous HP.

@@ -1,0 +1,1 @@
+Create a 5ft cube of flame which forces a DEX save to halve 2d6 damage for creatures inside.

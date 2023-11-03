@@ -1,0 +1,1 @@
+You don a halo until you cast another spell or make an attack, and creatures must succeed a WIS save to attack you.

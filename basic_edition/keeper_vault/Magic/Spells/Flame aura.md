@@ -1,0 +1,1 @@
+For the next minute creature within 5ft of you takes D6 damage.

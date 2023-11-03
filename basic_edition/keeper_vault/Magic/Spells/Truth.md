@@ -1,0 +1,1 @@
+You touch a creature, and for the next hour it can only speak the truth to the best of its ability.

@@ -1,0 +1,1 @@
+A species of humanoids created during [[The Divine Age]] by [[Exia]] and claimed by [[Bimros]].

@@ -1,0 +1,1 @@
+You sing of a task to one creature that can hear you, and they gain a D6 bonus to checks for that task for the next minute.

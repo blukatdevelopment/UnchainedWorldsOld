@@ -4,52 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b5749988f76bf2a0",
+        "id": "0ce9a39dc038091c",
         "type": "tabs",
         "children": [
           {
-            "id": "5635cd2db627b91d",
+            "id": "b594fda6e6483e27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Planes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1284cd98869b1bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Keeper Info/Verisimilitude.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "143e4723df5ef000",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Mechanics/Abilities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c50b9c54c893e52d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Mechanics/Abilities.md",
+                "file": "Magic/Arcane Spells.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Planes.md",
+                "file": "Magic/Arcane Spells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Planes.md",
+                "file": "Magic/Arcane Spells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Planes.md"
+                "file": "Magic/Arcane Spells.md"
               }
             }
           }
@@ -183,44 +147,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5635cd2db627b91d",
+  "active": "b594fda6e6483e27",
   "lastOpenFiles": [
-    "Locations/Seething Jungle.md",
-    "Locations/Planes.md",
-    "Locations/Thousand Isles.md",
-    "Basic Edition.md",
-    "Locations/Tunnels of Malkuth.md",
-    "Locations/Crucible.md",
-    "readme.md",
-    "Keeper Info/NPC.md",
-    "Core Mechanics/Checks.md",
-    "Keeper Info/quest.md",
-    "Keeper Info/Verisimilitude.md",
-    "Untitled.md",
+    "Magic/Arcane Magic.md",
+    "Magic/Spells/Ice arrows.md",
+    "Magic/Arcane Spells.md",
+    "Magic/Spells/Corruption  Zone.md",
+    "Magic/Spells/Timeless Zone.md",
+    "Magic/Spells/Frictionles Zone.md",
+    "Magic/Spells/Inverse gravity Zone.md",
+    "Magic/Spells/Darkness Zone.md",
+    "Magic/Spells/Zero gravity Zone.md",
+    "Magic/Spells/Hyper-magic Zone.md",
+    "Magic/Spells/Anti-magic Zone.md",
+    "Magic/Spells/Zone of Silence.md",
+    "Magic/Spells/Duplicate Spell.md",
+    "Magic/Spells/Deep Ones' Gate.md",
+    "Magic/Spells/Life sense.md",
+    "Magic/Spells/Magic Weapon.md",
+    "Magic/Spells/Coento's plow.md",
+    "Magic/Spells/Eye of Solus.md",
+    "Magic/Spells/Box of sharing.md",
+    "Magic/Spells/Water cannon.md",
+    "Magic/Spells/Summon expert.md",
+    "Magic/Spells/Doormouse.md",
+    "Magic/Spells/Time set day.md",
+    "Magic/Spells/Too many tomatoes.md",
+    "Magic/Spells/Fichi's yawn.md",
+    "Magic/Spells/Hell gate.md",
+    "Magic/Spells",
     "Keeper Info",
-    "Core Mechanics/Abilities.md",
-    "Core Mechanics/Combat.md",
-    "Character Creation/Perks.md",
-    "Character Creation/Crafts.md",
-    "Core Mechanics/D20.md",
-    "Core Mechanics/PC.md",
     "Locations",
-    "Core Mechanics/XP.md",
     "Core Mechanics",
     "Character Creation",
-    "Magic/Magic.md",
-    "Creatures/Bimrans.md",
-    "Creatures/Divines.md",
-    "Creatures/Deep Ones.md",
-    "Creatures/Beast Folk.md",
-    "Magic/Divines.md",
-    "Creatures/Undead.md",
     "Creatures",
     "Creatures/Demons",
     "Magic",
     "Untitled.canvas",
     "Creatures/Angels",
-    "Creatures/Devils",
-    "Creatures/Fey"
+    "Creatures/Devils"
   ]
 }
