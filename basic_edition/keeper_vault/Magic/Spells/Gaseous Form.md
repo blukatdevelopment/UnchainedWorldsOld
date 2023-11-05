@@ -1,0 +1,1 @@
+For the next hour, you become a cloud of flammable gas that fits in a 5ft cube. If you are ignited, you and any creature sharing your space take 3d6 fire damage, and then you revert to the nearest open space.

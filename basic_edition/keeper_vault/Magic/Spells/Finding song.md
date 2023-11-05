@@ -1,1 +1,0 @@
-You sing of a creature or object, and you learn what direction it is in.

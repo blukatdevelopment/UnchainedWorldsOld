@@ -6,3 +6,6 @@
 ## Character advancement
 - [[XP]]
 - [[Crafts]]
+
+## Keeper Resources
+- [[Monsters]]
