@@ -1,39 +1,48 @@
 {
   "main": {
-    "id": "d9859b9419fb0e28",
+    "id": "8ffc4a37326f3369",
     "type": "split",
     "children": [
       {
-        "id": "dda216ab3a9d27e0",
+        "id": "755d9bb488657ed2",
         "type": "tabs",
         "children": [
           {
-            "id": "726fbba086609812",
+            "id": "ca6197054d5cc56e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f8de769a057206e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Planes.md",
+                "file": "Titania.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1263fe7b7e29de34",
+    "id": "f4834091635273cf",
     "type": "split",
     "children": [
       {
-        "id": "098d2e9820029baa",
+        "id": "3685a291d0bb8c6b",
         "type": "tabs",
         "children": [
           {
-            "id": "7c9477c2e4cad523",
+            "id": "fd637e8fbcbfcb6c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +52,7 @@
             }
           },
           {
-            "id": "22cb04f2c434626f",
+            "id": "9258d8d859602af3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +67,7 @@
             }
           },
           {
-            "id": "25b0df1dae1ab867",
+            "id": "d151ce9cc39e98ee",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "8050832f8f2ad504",
+    "id": "6209ed1c75887cbe",
     "type": "split",
     "children": [
       {
-        "id": "0cfe77d0f45c433f",
+        "id": "378c36e1881cdf40",
         "type": "tabs",
         "children": [
           {
-            "id": "9953786e2186afee",
+            "id": "ba4f26c0e1240c38",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Planes.md",
+                "file": "Titania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +106,19 @@
             }
           },
           {
-            "id": "fd4a47114efff2a4",
+            "id": "b623a5b87693a0b4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Planes.md",
+                "file": "Titania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ce65094b0679eabb",
+            "id": "23978f6835c3d74f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,17 +129,16 @@
             }
           },
           {
-            "id": "2f76890b87ba61d4",
+            "id": "4ef675293ce8d0d9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Planes.md"
+                "file": "Titania.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,46 +155,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "726fbba086609812",
+  "active": "8f8de769a057206e",
   "lastOpenFiles": [
-    "primordial.md",
-    "Creatures/Monsters.md",
-    "Creatures/Monstrosites.md",
-    "Creatures/Fey.md",
-    "Creatures/Bimrans.md",
-    "Commoner.md",
-    "Creatures/Monsters",
-    "Basic Edition.md",
-    "Spell Place(POG).md",
-    "Untitled.canvas",
-    "Adventures/POG/Adventure Outline.md",
-    "Adventures/POG/CoolGuy(POG).md",
-    "Magic/Spells/Wildshape.md",
-    "Entrance(POGD1).md",
-    "Adventures/Adventure1/Entrance.md",
-    "Core Mechanics/XP.md",
-    "Adventures/POG",
-    "Adventures/Untitled.md",
-    "Core Mechanics/Checks.md",
-    "Adventures",
-    "Core Mechanics/Abilities.md",
-    "Magic/Spells/Death Mark.md",
-    "oNEpLACE.md",
-    "Untitled 2.canvas",
-    "Magic/Arcane Spells.md",
-    "readme.md",
-    "Magic/Spells/Remote Viewing.md",
-    "Magic/Spells/Locate Creature.md",
-    "Magic/Spells/Bodyswap.md",
-    "Magic/Spells/Magic Mouth.md",
-    "Magic/Spells/Glyph.md",
-    "Untitled 1.canvas",
-    "Magic/Spells",
-    "Keeper Resources",
-    "Locations",
-    "Core Mechanics",
-    "Character Creation",
-    "Creatures",
-    "Creatures/Demons"
+    "Titania.md"
   ]
 }
