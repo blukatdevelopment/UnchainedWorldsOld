@@ -62,7 +62,6 @@
             <Subset Name="DejaVu Sans Book"/>
             <Subset Name="DejaVu Sans Condensed Oblique"/>
             <Subset Name="DejaVu Sans Mono Bold"/>
-            <Subset Name="DejaVu Sans Mono Book"/>
             <Subset Name="DejaVu Serif Bold"/>
             <Subset Name="DejaVu Serif Book"/>
             <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
@@ -177,14 +176,14 @@
                 <trail/>
             </StoryText>
         </FRAMEOBJECT>
-        <MASTEROBJECT XPOS="110.351368421053" YPOS="821.8904" OwnPage="0" ItemID="1924151882" PTYPE="4" WIDTH="29.6526315789474" HEIGHT="27.4947368421052" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L29.6526 0 L29.6526 27.4947 L0 27.4947 L0 0 Z" copath="M0 0 L29.6526 0 L29.6526 27.4947 L0 27.4947 L0 0 Z" OnMasterPage="Normal Left" gXpos="381146031.463018" gYpos="13971875564.7236" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="110.351368421053" YPOS="821.8904" OwnPage="0" ItemID="1924151882" PTYPE="4" WIDTH="29.6526315789474" HEIGHT="27.4947368421052" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L29.6526 0 L29.6526 27.4947 L0 27.4947 L0 0 Z" copath="M0 0 L29.6526 0 L29.6526 27.4947 L0 27.4947 L0 0 Z" OnMasterPage="Normal Left" gXpos="382648504.048607" gYpos="14015280525.1798" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONT="DejaVu Sans Bold" FONTSIZE="12"/>
                 <trail/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="630.392968421053" YPOS="821.8904" OwnPage="1" ItemID="1924143786" PTYPE="4" WIDTH="29.6526315789474" HEIGHT="27.4947368421052" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L29.6526 0 L29.6526 27.4947 L0 27.4947 L0 0 Z" copath="M0 0 L29.6526 0 L29.6526 27.4947 L0 27.4947 L0 0 Z" OnMasterPage="Normal Right" gXpos="630438541.106864" gYpos="14833671891.7575" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="630.392968421053" YPOS="821.8904" OwnPage="1" ItemID="1924143786" PTYPE="4" WIDTH="29.6526315789474" HEIGHT="27.4947368421052" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L29.6526 0 L29.6526 27.4947 L0 27.4947 L0 0 Z" copath="M0 0 L29.6526 0 L29.6526 27.4947 L0 27.4947 L0 0 Z" OnMasterPage="Normal Right" gXpos="633819104.42444" gYpos="14884311012.2901" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONT="DejaVu Sans Bold" FONTSIZE="12"/>
@@ -557,7 +556,7 @@
         <PAGEOBJECT XPOS="914.5368" YPOS="780.721978947368" OwnPage="0" ItemID="1930565098" PTYPE="4" WIDTH="336.0128" HEIGHT="41.168421052632" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L336.013 0 L336.013 41.1684 L0 41.1684 L0 0 Z" copath="M0 0 L336.013 0 L336.013 41.1684 L0 41.1684 L0 0 Z" gXpos="914.5368" gYpos="780.721978947368" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="I'd like to call out sources of inspiration from TSR, Runehammer, Dungeon Craft, and Oribtal Crypt (orbitalcrypt.blogspot.com/2022/02/the-18-slot-inventory.html)."/>
+                <ITEXT CH="I'd like to call out sources of inspiration from TSR, Runehammer, Break!!,  Dungeon Craft, and Oribtal Crypt (orbitalcrypt.blogspot.com/2022/02/the-18-slot-inventory.html)."/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
@@ -2743,7 +2742,7 @@
                 <trail PARENT="H3"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="915.7928" YPOS="1022.4032" OwnPage="2" ItemID="2007761626" PTYPE="4" WIDTH="219.0176" HEIGHT="679.0544" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L219.018 0 L219.018 679.054 L0 679.054 L0 0 Z" copath="M0 0 L219.018 0 L219.018 679.054 L0 679.054 L0 0 Z" gXpos="915.7928" gYpos="1022.4032" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="1015.8008" YPOS="1022.4032" OwnPage="2" ItemID="2007761626" PTYPE="4" WIDTH="219.0176" HEIGHT="679.0544" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L219.018 0 L219.018 679.054 L0 679.054 L0 0 Z" copath="M0 0 L219.018 0 L219.018 679.054 L0 679.054 L0 0 Z" gXpos="1015.8008" gYpos="1022.4032" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Design Rationale (Continued)"/>
@@ -2978,6 +2977,119 @@
                 <ITEXT CH="99. Terror"/>
                 <para/>
                 <ITEXT CH="100. Restore"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="875.7864" YPOS="1784.2856" OwnPage="4" ItemID="1976846826" PTYPE="4" WIDTH="179.0176" HEIGHT="379.0304" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L179.018 0 L179.018 379.03 L0 379.03 L0 0 Z" copath="M0 0 L179.018 0 L179.018 379.03 L0 379.03 L0 0 Z" gXpos="679.0608" gYpos="2666.1776" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Adventuring Gear"/>
+                <para PARENT="H2"/>
+                <para/>
+                <ITEXT CH="Large Items"/>
+                <para PARENT="H3"/>
+                <ITEXT CH="10 gp - (10 slots)Canoe"/>
+                <para/>
+                <ITEXT CH="10 gp - (2 slots)Lute"/>
+                <para/>
+                <ITEXT CH="2 gp - (5 slots) Empty Barrel(40gal)"/>
+                <para/>
+                <ITEXT CH="2 gp - (2 slots)Tent(Two-Person)"/>
+                <para/>
+                <ITEXT CH="1 gp - (2 slots)Bedroll"/>
+                <para/>
+                <ITEXT CH="5 sp - (2 slots)10ft Ladder, 10ft Pole"/>
+                <para/>
+                <para/>
+                <ITEXT CH="Normal Items"/>
+                <para PARENT="H3"/>
+                <ITEXT CH="15 gp - Fine Clothes, Book"/>
+                <para/>
+                <ITEXT CH="2 gp - Crowbar, Miner's Pick, Cooking Pot, Backpack"/>
+                <para/>
+                <ITEXT CH="1 gp - Block and Tackle, 50ft Rope, Quiver of 20 Arrows"/>
+                <para/>
+                <ITEXT CH="5 sp - Common Clothes, Staff(spell focus)"/>
+                <para/>
+                <para/>
+                <ITEXT CH="Small Items"/>
+                <para PARENT="H3"/>
+                <ITEXT CH="10 gp - Lockpick"/>
+                <para/>
+                <ITEXT CH="5 gp - Steel Mirror, Ink Bottle, Bone Dice Set"/>
+                <para/>
+                <ITEXT CH="1 gp - Flute, Hammer, Wand(Spell Focus)"/>
+                <para/>
+                <ITEXT CH="5 sp - Dry Ration, Flint and Steel"/>
+                <para/>
+                <ITEXT CH="2 sp - Waterskin(1/2 gal)"/>
+                <para/>
+                <ITEXT CH="1 sp - Oil Flask, 200ft Twine Ball"/>
+                <para/>
+                <ITEXT CH="5 cp - Fresh Ration(7 day shelf life)"/>
+                <para/>
+                <ITEXT CH="2 cp - Soap, Flask"/>
+                <para/>
+                <para/>
+                <ITEXT CH="Tiny Items"/>
+                <para PARENT="H3"/>
+                <ITEXT CH="2 gp - Locket, Tweezers, Scissors"/>
+                <para/>
+                <ITEXT CH="1 gp - Glass Vial, Scalpal"/>
+                <para/>
+                <ITEXT CH="5 sp - Quill Pen"/>
+                <para/>
+                <ITEXT CH="1 sp - Bell"/>
+                <para/>
+                <ITEXT CH="5 cp - Needle, Whistle, Piton, Chalk, Sulfur Match"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1055.804" YPOS="1784.2856" OwnPage="4" ItemID="1998408746" PTYPE="4" WIDTH="232.0176" HEIGHT="319.0256" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L232.018 0 L232.018 319.026 L0 319.026 L0 0 Z" copath="M0 0 L232.018 0 L232.018 319.026 L0 319.026 L0 0 Z" gXpos="859.0784" gYpos="2666.1776" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Light Sources"/>
+                <para PARENT="H3"/>
+                <ITEXT CH="10gp - Bullseye Lantern: small, 60ft reach, 4 hours"/>
+                <para/>
+                <ITEXT CH="5gp - Hooded Lantern: small, 30ft reach, 4 hours"/>
+                <para/>
+                <ITEXT CH="1cp - Torch: Small, 30ft reach, 1/2 hour"/>
+                <para/>
+                <ITEXT CH="1cp - Candle: tiny, 10ft, 1 hour"/>
+                <para/>
+                <para/>
+                <ITEXT CH="Common Armors"/>
+                <para PARENT="H3"/>
+                <ITEXT CH="Leather: light armor, 10GP 11+DEX AC, requires 12 DEX"/>
+                <para/>
+                <ITEXT CH="Ringmail: medium armor, 50GP, 14 AC, requires 13 STR or DEX"/>
+                <para/>
+                <ITEXT CH="Plate: heavy armor, 200GP, 16 AC, requires 15 STR"/>
+                <para/>
+                <ITEXT CH="Buckler: shield, 10GP, +2 AC, requires 12 STR or DEX"/>
+                <para/>
+                <para/>
+                <ITEXT CH="Common weapons"/>
+                <para PARENT="H3"/>
+                <ITEXT CH="Dagger: Sly, 5GP, D4 damage, Small"/>
+                <para/>
+                <ITEXT CH="Sword: Martial, 35GP, D6 damage, Normal"/>
+                <para/>
+                <ITEXT CH="Bow: Ranged, 15GP, D6 damage, Normal"/>
+                <para/>
+                <ITEXT CH="Greatsword: Great, 50GP, D12 damage, Large(2 slots)"/>
+                <para/>
+                <para/>
+                <ITEXT CH="Other Common Items"/>
+                <para PARENT="H3"/>
+                <ITEXT CH="5GP - Healer's kit: Normal. Heals D6 HP"/>
+                <para/>
+                <ITEXT CH="20GP - Healing Potion: Small. Heals 2d4+2 HP"/>
+                <para/>
+                <ITEXT CH="5GP - Spell Scroll kit: Normal. Makes 10 spell scrolls."/>
+                <para/>
+                <ITEXT CH="5GP - Runesmithing kit: Normal. Makes 10 runestones."/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
