@@ -4,16 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "dda216ab3a9d27e0",
+        "id": "094a385a78cb0ff5",
         "type": "tabs",
         "children": [
           {
-            "id": "726fbba086609812",
+            "id": "6a5e72f887c0b6f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Planes.md",
+                "file": "Magic/Arcane Magic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1b410f0b99b01276",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85443f9c60966994",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic/Main Spells List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22678b58ef67fa2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic/Spells/Hell gate.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Planes.md",
+                "file": "Magic/Arcane Magic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Planes.md",
+                "file": "Magic/Arcane Magic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Planes.md"
+                "file": "Magic/Arcane Magic.md"
               }
             }
           }
@@ -147,8 +177,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "726fbba086609812",
+  "active": "6a5e72f887c0b6f8",
   "lastOpenFiles": [
+    "Magic/Main Spells List.md",
+    "Magic/Arcane Magic.md",
+    "Magic/Spells/Featherweight.md",
+    "Magic/Spells/Sleep.md",
+    "Magic/Sorcery.md",
+    "Magic/Spells/Mockery.md",
+    "Magic/Spells/Hell gate.md",
+    "Magic/Spells/Flame Spear.md",
+    "Magic/Spells/Cloud of insects.md",
+    "Demonic Fortitude.md",
+    "Magic/Spells/Shadow form.md",
+    "Magic/Spells/Demonsong.md",
+    "Magic/Spells/Demonic Transformation.md",
+    "Character Creation/Crafts.md",
+    "Character Creation/Martial Weapons.md",
+    "Character Creation/Perks.md",
+    "Character Creation/Perks",
+    "Keeper Resources/quest.md",
+    "Keeper Resources/NPC.md",
+    "Locations/Planes.md",
     "primordial.md",
     "Creatures/Monsters.md",
     "Creatures/Monstrosites.md",
@@ -157,36 +207,16 @@
     "Commoner.md",
     "Creatures/Monsters",
     "Basic Edition.md",
-    "Spell Place(POG).md",
     "Untitled.canvas",
-    "Adventures/POG/Adventure Outline.md",
-    "Adventures/POG/CoolGuy(POG).md",
-    "Magic/Spells/Wildshape.md",
-    "Entrance(POGD1).md",
-    "Adventures/Adventure1/Entrance.md",
-    "Core Mechanics/XP.md",
     "Adventures/POG",
-    "Adventures/Untitled.md",
-    "Core Mechanics/Checks.md",
     "Adventures",
-    "Core Mechanics/Abilities.md",
-    "Magic/Spells/Death Mark.md",
-    "oNEpLACE.md",
     "Untitled 2.canvas",
-    "Magic/Arcane Spells.md",
-    "readme.md",
-    "Magic/Spells/Remote Viewing.md",
-    "Magic/Spells/Locate Creature.md",
-    "Magic/Spells/Bodyswap.md",
-    "Magic/Spells/Magic Mouth.md",
-    "Magic/Spells/Glyph.md",
     "Untitled 1.canvas",
     "Magic/Spells",
     "Keeper Resources",
     "Locations",
     "Core Mechanics",
     "Character Creation",
-    "Creatures",
-    "Creatures/Demons"
+    "Creatures"
   ]
 }

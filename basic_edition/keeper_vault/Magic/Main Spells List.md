@@ -102,7 +102,7 @@ If an arcane spell is added, it should be added to this list.
 99. [[Life drain]] 
 100. [[Aura of life]] 
 101. [[Ice arrows]] 
-102. [[Flame spear]] 
+102. [[Flame Spear]] 
 103. [[Coenta's Scythe]] 
 104. [[Coento's plow]] 
 105. [[Exia's lens]] 
@@ -120,7 +120,7 @@ If an arcane spell is added, it should be added to this list.
 116. [[Ether gate]] 
 117. [[Toro's forgiveness]] 
 118. [[Hell gate]] 
-119. [[Fichi's yawn]] 
+119. [[Sleep]] 
 120. [[Too many tomatoes]] 
 121. [[Time set day]] 
 122. [[Doormouse]] 
@@ -153,6 +153,7 @@ If an arcane spell is added, it should be added to this list.
 149. [[Create Earth]]
 150. [[Bodyswap]]
 151. [[Dispel Magic]]
+152. [[Demonic Fortitude]]
 
 ## Spells by purpose
 
@@ -277,7 +278,7 @@ If an arcane spell is added, it should be added to this list.
 - [[Bodyjump]]
 - [[Compelled Chorus]]
 - [[Death Mark]]
-- [[Fichi's yawn]]
+- [[Sleep]]
 - [[Box of sharing]]
 - [[Meat Puppet]]
 - [[Ice Floor]]
@@ -292,7 +293,7 @@ If an arcane spell is added, it should be added to this list.
 - [[Flame hand]]
 - [[Heat metal]]
 - [[Fireball]]
-- [[Flame spear]]
+- [[Flame Spear]]
 - [[Flame aura]]
 - [[Green Flame]]
 - [[Eye of Solus]]

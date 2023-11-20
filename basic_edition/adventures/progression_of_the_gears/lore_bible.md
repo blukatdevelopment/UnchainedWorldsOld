@@ -160,10 +160,6 @@ Mines where the wind constantly blows
 - Smoke is cleared away continually
 
 # Location Detail: Verat
-## Public Baths
-A temple of Xan where the whispering sages were drowned.
-During the day, baths are offered for cleaning and healing.
-At night, the whispering sages can be summoned.
 
 ## Dragon Alley
 A few dragon age workshops where things are built and repaired
@@ -235,7 +231,7 @@ Wish to legalize Bimros magic and instate the 7 laws of bimros
 Wish to return to the warrior culture of the dragon age.
 
 #### Capitalists - local steam barons
-Wish to expand foreign investment.
+Wish to expand foreign investment. Must ensure the monster parts flow.
 
 ### The Rebels
 #### Environmentalists - Fey Circle

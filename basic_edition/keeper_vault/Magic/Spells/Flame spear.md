@@ -1,3 +1,0 @@
-You create a spear from flames, which lasts for one minute and deals 3d6 on a hit.
-
-Tags: Fire, DPS

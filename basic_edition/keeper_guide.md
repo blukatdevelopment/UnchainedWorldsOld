@@ -40,8 +40,8 @@ Armor has a +1 AC, weapon has +1 to damage. On a critical failure, just take awa
 - Firework(10GP): Single use. 30ft range. D4 damage. Ignites target.
 - Musket Pistol(50GP): 60ft range, 3d4 DMG, 3 action reload.
 - Musket(50GP): 60ft range, 3d6 DMG, 3 action reload.
-- Blaster: 30ft range, D8 damage, 10 ammo, 1 action reload, flaming projectile
-- Autoblaster: 30ft range, D8 damage, 30 ammo, 1 action reload. Burst fire: 2 actions, eats 15 ammo, and deals D20-1 damage to a target.
+- Blaster: 30ft range, D10 damage, 10 ammo, 1 action reload, flaming projectile
+- Autoblaster: 30ft range, D10 damage, 30 ammo, 1 action reload. Burst fire: 2 actions, eats 15 ammo, and deals D20-1 damage to a target.
 
 ### Martial Weapons
 - Javelin: 5sp, Deals max damage when thrown

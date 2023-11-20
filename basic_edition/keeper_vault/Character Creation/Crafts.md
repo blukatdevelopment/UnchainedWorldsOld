@@ -1,4 +1,10 @@
 ## Martial Crafts
+- [[Minor Weapons]]
+- [[Martial Weapons]]
+- [[Great Weapons]]
+- [[Defense]]
+- [[Ranged]]
+- [[Unarmed]]
 
 ## Magical Crafts
 The following crafts each use [[Magic]] to allow the [[PC]] to cast spells.
