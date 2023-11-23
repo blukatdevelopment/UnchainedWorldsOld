@@ -10,16 +10,16 @@ The following entities have magic flowing through them, and can often manifest i
 - [[Divines]]
 - [[Fey]]
 - [[Demons]]
-- [[Devils]]
+- [[Arch Devils]]
 - [[Undead]]
 - [[Monstrosites]]
 - [[Deep Ones]]
 
 ## Schools of Magic
-- [[Arcane Magic]]
+- [[Arcane Spells]]
 - [[Naming Magic]]
 - [[Pact Magic]]
-- [[Sorcery]]
+- [[Sorcery Spells]]
 
 Magical Skills
 - [[Religion]] as divination

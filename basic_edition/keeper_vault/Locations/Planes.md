@@ -13,7 +13,7 @@ A world of [[Bimrans]], [[Beast Folk]]
 - [[Steam Lands]]
 
 ## The Hells(Fiendish Plane)
-An infinite war rages between the devils([[Devils]]) at the top and the demons([[Demons]])
+An infinite war rages between the devils([[Arch Devils]]) at the top and the demons([[Demons]])
 1. The Palace
 2. 
 3. 

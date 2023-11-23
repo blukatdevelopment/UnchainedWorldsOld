@@ -4,46 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "094a385a78cb0ff5",
+        "id": "da370f79db64efbe",
         "type": "tabs",
         "children": [
           {
-            "id": "6a5e72f887c0b6f8",
+            "id": "c29aefc0fa756550",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Arcane Magic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "1b410f0b99b01276",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "85443f9c60966994",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic/Main Spells List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22678b58ef67fa2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic/Spells/Hell gate.md",
+                "file": "Locations/Breathless Archipelago.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Arcane Magic.md",
+                "file": "Locations/Breathless Archipelago.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic/Arcane Magic.md",
+                "file": "Locations/Breathless Archipelago.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic/Arcane Magic.md"
+                "file": "Locations/Breathless Archipelago.md"
               }
             }
           }
@@ -177,36 +147,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a5e72f887c0b6f8",
+  "active": "7c9477c2e4cad523",
   "lastOpenFiles": [
-    "Magic/Main Spells List.md",
-    "Magic/Arcane Magic.md",
-    "Magic/Spells/Featherweight.md",
-    "Magic/Spells/Sleep.md",
-    "Magic/Sorcery.md",
-    "Magic/Spells/Mockery.md",
-    "Magic/Spells/Hell gate.md",
-    "Magic/Spells/Flame Spear.md",
-    "Magic/Spells/Cloud of insects.md",
-    "Demonic Fortitude.md",
-    "Magic/Spells/Shadow form.md",
-    "Magic/Spells/Demonsong.md",
-    "Magic/Spells/Demonic Transformation.md",
-    "Character Creation/Crafts.md",
-    "Character Creation/Martial Weapons.md",
-    "Character Creation/Perks.md",
-    "Character Creation/Perks",
-    "Keeper Resources/quest.md",
-    "Keeper Resources/NPC.md",
+    "Locations/Crucible.md",
     "Locations/Planes.md",
-    "primordial.md",
-    "Creatures/Monsters.md",
-    "Creatures/Monstrosites.md",
-    "Creatures/Fey.md",
-    "Creatures/Bimrans.md",
-    "Commoner.md",
+    "Locations/Seething Jungle.md",
+    "Locations/Steam Lands.md",
+    "Locations/The Scars.md",
+    "Locations/Thousand Isles.md",
+    "Locations/Tunnels of Malkuth.md",
+    "Core Mechanics/Combat.md",
+    "Core Mechanics/Checks.md",
+    "Core Mechanics/Abilities.md",
+    "Core Mechanics/Inventory.md",
+    "items/Common Items.md",
+    "Character Creation/crafts/Skills.md",
+    "items",
+    "Character Creation/Crafts.md",
+    "Character Creation/crafts/Ranged.md",
+    "Character Creation/Perks.md",
+    "Character Creation/crafts/Pact Magic.md",
+    "Character Creation/skills",
+    "Character Creation/Untitled.md",
+    "NPCs/Fey/Arch Fey.md",
+    "NPCs/Divines/Raos.md",
+    "NPCs/Divines/Coent.md",
+    "NPCs/Divines/Solus.md",
+    "NPCs/Divines/Exia.md",
+    "NPCs/Divines/Bimros.md",
+    "NPCs/Deep Ones.md",
+    "NPCs/Devils/Arch Devils.md",
+    "Character Creation/crafts",
+    "Character Creation/Perks",
     "Creatures/Monsters",
-    "Basic Edition.md",
     "Untitled.canvas",
     "Adventures/POG",
     "Adventures",
@@ -214,9 +187,6 @@
     "Untitled 1.canvas",
     "Magic/Spells",
     "Keeper Resources",
-    "Locations",
-    "Core Mechanics",
-    "Character Creation",
-    "Creatures"
+    "Locations"
   ]
 }
