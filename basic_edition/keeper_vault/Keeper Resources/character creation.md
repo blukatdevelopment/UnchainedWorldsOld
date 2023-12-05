@@ -1,0 +1,1 @@
+The [[mode of play]] wherein a player creates their [[PC]].

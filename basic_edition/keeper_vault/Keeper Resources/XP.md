@@ -1,0 +1,1 @@
+Experience points. A [[metacurrency]] which allows players to [[advancement]] their [[PC]].

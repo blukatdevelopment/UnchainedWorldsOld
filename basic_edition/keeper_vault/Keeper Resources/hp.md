@@ -1,0 +1,1 @@
+Hit points, a measure of one's distance to serious injury or deat.

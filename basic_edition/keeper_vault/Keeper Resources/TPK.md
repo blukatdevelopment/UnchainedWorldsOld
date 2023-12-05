@@ -1,0 +1,1 @@
+Total Party Kill. When the entire party has been killed.

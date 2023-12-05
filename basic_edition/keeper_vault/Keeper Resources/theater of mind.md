@@ -1,0 +1,1 @@
+Representation of the space for an [[encounter]] via verbal description and mental visualization.

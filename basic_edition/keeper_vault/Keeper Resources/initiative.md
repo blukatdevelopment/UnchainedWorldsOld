@@ -1,0 +1,1 @@
+Initiative is a [[mode of play]] that offers very granular control over taking actions. When in initiative, space is generally represented as [[theater of mind]] , a [[grid]], or [[zone]]s.

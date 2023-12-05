@@ -1,0 +1,1 @@
+An [[adventure]] which is intended to last one [[session]].

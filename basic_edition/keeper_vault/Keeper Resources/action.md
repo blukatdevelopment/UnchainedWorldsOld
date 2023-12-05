@@ -1,0 +1,1 @@
+A [[pc]] or [[npc]] generally gets three actions in combat. 

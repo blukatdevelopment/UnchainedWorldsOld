@@ -1,0 +1,1 @@
+A perk is a named capability which either grants a passive bonus or additional options for actions. Limited-use perks acts as a [[metacurrency]] and [[resource]].

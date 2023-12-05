@@ -1,0 +1,1 @@
+Visualization of the space of a [[combat encounter]] , typically using 5-foot squares. This allows for very granular positioning, which easily communicates many details about mechanics such as [[line of sight]], [[area of effect]], and environment details.

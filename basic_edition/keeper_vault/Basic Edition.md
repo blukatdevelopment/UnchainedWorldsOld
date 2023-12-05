@@ -1,11 +1,11 @@
 ## Core Mechanics
-- [[Checks]]
+- [[Check]]
 - [[Abilities]]
 - [[Combat]]
 
 ## Character advancement
 - [[XP]]
-- [[Crafts]]
+- [[Craft]]
 
 ## Keeper Resources
-- [[Monsters]]
+- [[NPCs/Monsters]]

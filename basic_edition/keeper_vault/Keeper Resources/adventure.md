@@ -1,0 +1,1 @@
+A small unit of play may be a [[one shot]], or span multiple [[session]]s. Typically, an adventure introduces a [[main quest]] and ends after it is resolved.

@@ -10,7 +10,7 @@ There are six abilities, given three-letter abbreviations.
 An ability score is a number from 1 to 20 that represents potency. Falling below 1 kills a character, and a [[PC]] may not have more than a 20 in any ability score.
 
 ## Ability Modifier
-An ability mod is calculated from the score, and is applied to checks and saves(See: [[Checks]]). To calculate a mod, subtract 10 from it and divide by two, rounding down. For example:
+An ability mod is calculated from the score, and is applied to checks and saves(See: [[Check]]). To calculate a mod, subtract 10 from it and divide by two, rounding down. For example:
 - `12 - 10 = 2` -> `2 / 2 = +1`
 - `5 - 10 = -5` -> `-5 / 2 = -2`
 

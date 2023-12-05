@@ -1,0 +1,1 @@
+A feeling in players that [[time]] is precious, and needs to be prioritized above other [[resource]] types.

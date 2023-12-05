@@ -1,0 +1,1 @@
+An [[adventure]] that is intended to last two [[session]]s. Typically, a two-shot is a variant of [[one shot]] that is designed to reach some resolution after the first session, but which may be extended an additional session of play.

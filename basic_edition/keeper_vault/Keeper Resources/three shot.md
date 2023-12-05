@@ -1,0 +1,1 @@
+An [[adventure]] intended to be played over three [[session]]s. Like a [[two shot]], a three shot is often designed to be played as a [[one shot]], while retaining additional material to for follow-up sessions. 

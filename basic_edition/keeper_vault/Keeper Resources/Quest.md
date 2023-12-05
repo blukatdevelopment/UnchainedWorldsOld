@@ -1,0 +1,1 @@
+A quest is a playable mission. A [[main quest]] is the broadest in scope, and may be part of the [[premise]] of a [[campaign]] , while a [[side quest]] is most narrow. 

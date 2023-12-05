@@ -1,0 +1,1 @@
+A rest takes place over 8 hours. Those that rest restore a number of HP equal to their CON modifier(minimum 1), plus the benefit of any amenities.

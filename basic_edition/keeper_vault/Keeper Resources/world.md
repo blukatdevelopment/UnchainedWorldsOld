@@ -1,0 +1,1 @@
+The fictional place containing a set of [[location]]s, [[NPC]]s, and [[PC]]s. 

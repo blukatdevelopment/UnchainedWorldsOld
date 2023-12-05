@@ -1,0 +1,1 @@
+Travel is a [[mode of play]] wherein the party moves between [[location]]s in the [[world]].

@@ -1,0 +1,1 @@
+A language spoken by mortals during the [[Divine Age]].

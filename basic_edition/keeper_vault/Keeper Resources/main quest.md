@@ -1,0 +1,1 @@
+A main quest are [[Quest]] which decide the fate of a [[campaign]] or [[adventure]]. Typically, main quests are given some form of [[constraint]] to ensure the players feel a sense of [[urgency]].

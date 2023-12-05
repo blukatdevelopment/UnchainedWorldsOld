@@ -1,0 +1,1 @@
+An [[encounter]] whose [[trigger]] is random chance.

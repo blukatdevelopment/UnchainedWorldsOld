@@ -1,0 +1,1 @@
+Items that are found in the [[world]], often as a consequence of [[exploration]] or [[Combat]].

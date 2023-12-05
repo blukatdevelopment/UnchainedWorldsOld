@@ -1,0 +1,1 @@
+A metacurrency is a resource that exists outside of the [[world]], but which can be acquired and spent as part of the game. Examples of metacurrency are [[xp]], [[hero points]], [[perk]]s, and [[inspiration(metacurrency)]].

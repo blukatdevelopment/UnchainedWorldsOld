@@ -17,7 +17,7 @@ When a roll for a check is made with advantage or disadvantage, two D20s are rol
 Sometimes an action is impossible(ie flapping one's arms to fly), or trivially easy(ie failing to lift a small box). In those cases, you can either say "that won't work" or "you succeed" without any further thought.
 
 ## Inconsequential checks/Boring failure states
-Sometimes a failure might be realistically possible, but a failure is boring and a success won't hurt [[Verisimilitude]]. Without time time pressure, making checks will eventually lead to success. Thus, unless there are finite resources(such as time left to complete a [[quest]]) at stake, you may wish to hand-waive checks to investigate the contents of a room and find a clue, loot a body, or set up camp for the night.
+Sometimes a failure might be realistically possible, but a failure is boring and a success won't hurt [[Verisimilitude]]. Without time time pressure, making checks will eventually lead to success. Thus, unless there are finite resources(such as time left to complete a [[Quest]]) at stake, you may wish to hand-waive checks to investigate the contents of a room and find a clue, loot a body, or set up camp for the night.
 
 ## Passive Checks
 Sometimes an action can succeed or fail based on how high a the [[PC]]'s ability is, and the outcome isn't random. For instance, using STR to kick a door open or lift a heavy box. It would make little sense if a strong character failed, and then a weak one succeeded. The keeper might simply say "If your STR score is at least 14, you succed." or "If yout STR score is lower than 14, you'll need to roll". If a skill is relevant to the check, you may require the PC has that skill. If a skill is used in a passive check, add half the size of its skill die.

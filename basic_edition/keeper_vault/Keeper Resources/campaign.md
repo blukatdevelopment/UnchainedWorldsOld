@@ -1,0 +1,1 @@
+A campaign is the largest structure a game can exist within. A campaign encompasses several [[session]]s of play, and is expected to last longer than a [[one shot]], [[two shot]], or [[three shot]].

@@ -1,0 +1,1 @@
+Inspiration is a [[metacurrency]] . It is binary, in that players have or don't have inspiration. It is often earned as a reward for specific desirable behaviors such as displays of creativity or acting consistently with a [[PC]]'s character even when that is sub-optimal', and when spent offers a re-roll of a [[d20]] roll.
